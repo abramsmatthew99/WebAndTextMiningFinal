@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import math 
+import math
 import time
 
 
@@ -11,7 +11,7 @@ def get_job_ids(start_page, end_page):
 
     jobs = []
 
-    for i in range(start_page,end_page): 
+    for i in range(start_page,end_page):
 
         print(f'Page {i}')
         #Change the start index for the search
