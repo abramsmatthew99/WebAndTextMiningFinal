@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What You'll Do<br/><br/></strong>You will be part of the Regulatory Systems team, comprising of Diverse group of developers, designers and Quality analysts responsible for development and testing multiple applications in Collateral and Settlement applications.<br/><br/>You will be primarily working on testing application with on new projects or existing break fixes.<br/><br/><strong>Primary Duties and Responsibilities:<br/><br/></strong>To perform this job successfully, an individual must be able to perform each primary duty satisfactorily.<br/><br/>Works in an Agile team throughout the Lifecycle to collaborate on the analysis, design, development &amp; testing.<br/><br/>Actively participates in Sprint planning sessions to create stories with robust acceptance criteria while helping identify missing or incomplete requirements.<br/><br/>Actively participate in all testing phases within the sprint from test planning, test execution, defect management and sprint closure.<br/><br/>Actively participates in design/technical reviews to identify missing, incomplete or inaccurate design assumptions or design choices with product teams.<br/><br/>You will help us take on unique technical challenges associated with testing large datasets with various functional teams on both public cloud and hybrid environments.<br/><br/>Strong aptitude to learn about new technologies and how they apply to OCC’s Business and Architecture Frameworks.<br/><br/>Develop test plans, test cases and make sure to have good traceability matrix<br/><br/>Well versed with SQL for backend testing. Good with Unix commands.<br/><br/>Participate in analysis of the issues/defect closures by working closely with RIT Automation/functional engineers along with respective product teams.<br/><br/>The ability to take ownership of multiple significant projects/efforts.<br/><br/>Performs other duties as assigned.<br/><br/><strong>Supervisory Responsibilities:<br/><br/></strong>None<br/><br/><strong>Qualifications:<br/><br/></strong>The requirements listed are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the primary functions.<br/><br/>5+ years of Quality Assurance, Quality Engineering experience.<br/><br/>3+ years of software development or equivalent automation experience using Python, Java or other programming language.<br/><br/>3+ years of experience working with relational db.<br/><br/>3+ years of experience working as a member of an Agile development team.<br/><br/>Thorough working knowledge of SQL and Unix<br/><br/>Familiarity with DevOps tools and technologies such as GIT, Jenkins, Docker, Kubernetes, and CI/CD pipeline.<br/><br/>Excellent oral and written communication skills<br/><br/>Strong analytical and problem-solving skills.<br/><br/>Excellent verbal, written and interpersonal communication skills, sound judgement and time management skills.<br/><br/><strong>Technical Skills:<br/><br/></strong>Experience with basic scripting in (Python, Unix).<br/><br/><strong>Trading And Derivative Industry Experience Preferred.<br/><br/></strong>Experience with Database SQL queries, as well as tools like Microsoft Excel.<br/><br/><strong>Education and/or Experience:<br/><br/></strong>BS degree in Computer Science, similar technical field or equivalent experience<br/><br/><strong>Who We Are<br/><br/></strong>The Options Clearing Corporation (OCC) is the world's largest equity derivatives clearing organization. Founded in 1973, OCC is dedicated to promoting stability and market integrity by delivering clearing and settlement services for options, futures and securities lending transactions. As a Systemically Important Financial Market Utility (SIFMU), OCC operates under the jurisdiction of the U.S. Securities and Exchange Commission (SEC), the U.S. Commodity Futures Trading Commission (CFTC), and the Board of Governors of the Federal Reserve System. OCC has more than 100 clearing members and provides central counterparty (CCP) clearing and settlement services to 19 exchanges and trading platforms. More information about OCC is available at www.theocc.com.<br/><br/><strong>What We Offer<br/><br/></strong>A highly collaborative and supportive environment developed to encourage work-life balance and employee wellness. Some of these components include:<br/><br/>A hybrid work environment, up to 2 days per week of remote work<br/><br/>Tuition Reimbursement to support your continued education<br/><br/>Student Loan Repayment Assistance<br/><br/>Technology Stipend allowing you to use the device of your choice to connect to our network while working remotely<br/><br/>Generous PTO and Parental leave<br/><br/>Competitive health benefits including medical, dental and vision<br/><br/>Flexible work from home options available.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

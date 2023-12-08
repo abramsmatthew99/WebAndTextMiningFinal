@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>On any given day at Disney Entertainment &amp; ESPN Technology, we’re reimagining ways to create magical viewing experiences for the world’s most beloved stories while also transforming Disney’s media business for the future. Whether that’s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney’s unmatched entertainment and sports content, every day is a moment to make a difference to partners and to hundreds of millions of people around the world.<br/><br/><br/><ul><li>Building the future of Disney’s media business: DE&amp;E Technologists are designing and building the infrastructure that will power Disney’s media, advertising, and distribution businesses for years to come.</li><li>Reach &amp; Scale: The products and platforms this group builds and operates delight millions of consumers every minute of every day – from Disney+ and Hulu, to ABC News and Entertainment, to ESPN and ESPN+, and much more.</li><li>Innovation: We develop and execute groundbreaking products and techniques that shape industry norms and enhance how audiences experience sports, entertainment &amp; news.<br/><br/><br/></li></ul>Platform Software Engineering oversees the core technical platforms and systems for Disney’s massive suite of streaming products – including Disney+ and Hulu – and digital products and experiences – including ESPN, Marvel, Disney Studios, NatGeo, and ABC News. This team also drives the strategic development and use of technology, building scalable systems and products that can power a more personalized experience for Disney customers, as well as innovative work in Augmented Reality (AR), Virtual Reality (VR), and 3D rendering in our studio environments. When you’re watching SportsCenter and you’re impressed by how awesome the studio looks, you have this team to thank!<br/><br/>The Lifecycle Engineering Organization creates scalable foundations and platforms to power messaging and in-app experiences across the consumer lifecycle, spanning our various product offerings - Disney+, Hulu, ESPN+, STAR+ and Bundles.<br/><br/>We are hiring a Senior Software Engineer to join the team that is responsible for the Unified Messaging Portal which will be the central hub for managing all messages and campaigns delivered to hundreds of millions of customers across Disney+, Hulu, ESPN+, STAR+ and Bundles. In this role, you will collaborate cross-functionally with teams including Engineering, Product Management, Marketing, Data, Design, Program Management, and more to help shape the vision for the Unified Messaging Portal and convert that vision into code. If you love to solve problems in unique ways, are passionate about building the best product for consumers, thrive on problem solving in the face of ambiguity, and drive towards outcomes, then this is a great role for you!<br/><br/><strong>Responsibilities:<br/><br/><br/></strong><ul><li>Build high-performance scalable code for deployment both internally and externally.</li><li>Work with a distributed team of engineers building software in a collaborative development process.</li><li>Provide verbose, actionable PR reviews for junior and senior team members alike.</li><li>Help to form a strong team culture of transparency and collaboration, contributing meaningful feedback to the rest of the development team, and being open to receiving feedback as well.</li><li>Participate in the on-call rotation, supporting systems and services during production incidents.</li><li>Create strong relationships with engineering and cross-functional partners.<br/><br/><br/></li></ul><strong>Basic Qualifications:<br/><br/><br/></strong><ul><li>10+ years of related work experience </li><li>Bachelor’s degree in Computer Science, Information Systems, Software, Electrical or Electronics Engineering, or comparable field of study, and/or equivalent work experience</li><li>Front-end web development experience working with Typescript, React, HTML5, CSS3, SASS/LESS, and vanilla JS</li><li>Experience working collaboratively across development, design, product, marketing, and more</li><li>Experience using design tools for development purposes (such as Figma and Sketch)</li><li>Proven ability to mentor more junior developers</li><li>Strong attention to detail, excellent communication skills, both written and verbal</li><li>Experience working with localization and/or internationalization</li><li>Solid understanding of A/B experimentation<br/><br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/><br/></strong><ul><li>Experience shipping entertainment/streaming media applications/platforms</li><li>Experience building messaging experiences, especially Email and Push</li><li>A history building internally scalable UI systems<br/><br/><br/></li></ul>The hiring range for this position in NY is $189,300 to $253,800 per year and in San Francisco is $197,900 to $265,400 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

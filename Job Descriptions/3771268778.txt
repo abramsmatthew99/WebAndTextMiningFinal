@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<ul><li>This is a paid internship<br/><br/></li></ul><strong>Role Summary:<br/><br/></strong>Quantum Signal AI is looking for a summer 2024 intern to join the Research and Algorithms team. The team develops novel solutions to driver assistance and perception challenges in mobility, providing software implementations and interfacing with sensors and related hardware. As an intern, you will work to qualify and improve algorithm performance in both simulated and real environments. Additionally, you will provide analysis and research that may stimulate alternative or novel solutions. Work will be done primarily on Linux systems in either Python or C++ for implementation, analysis, and visualization.<br/><br/><strong>Location:<br/><br/></strong>This position will require on-site presence in Saline, Michigan.<br/><br/><strong>What You'll Do:<br/><br/></strong><ul><li>Design, develop, model, and characterize combined hardware–software systems involving sensing, localization, and perception</li><li>Qualify algorithmic performance, improve existing algorithms, and advocate for alternative approaches</li><li>Plan and execute data collection and provide clear analysis and documentation of findings</li><li>Develop software tests and sensor verification reports<br/><br/></li></ul><strong>What You’ll Bring:<br/><br/></strong><ul><li>Current enrollment as a sophomore/junior in a bachelor’s program on a technical degree track (Computer Engineering, Computer Science, Electrical Engineering, or related discipline where analytical thinking is emphasized)</li><li>Proficiency in Python/C++ and Linux</li><li>A drive to tackle new challenges with motivation to seek out and value constructive feedback</li><li>Interest learning about and working with sensing and perception systems for ground vehicles<br/><br/></li></ul><strong>Bonus Points For:<br/><br/></strong><ul><li>Previous hobby, school, or open-source experience with:</li><ul><li>Robotics and/or robot control algorithms</li><li>Version control (Git/SVN)</li><li>Vehicle dynamics and control</li><li>Sensors including but not limited to lidars, cameras, radars, ultrasonics, GPS and IMU</li><li>Data analysis using Python, Matlab, and/or Excel<br/></li></ul></ul>Don’t meet every single requirement? Studies have shown that women and/or people of color are less likely to apply to a job unless they meet every qualification. At Quantum Signal AI, we’re committed to building a diverse, inclusive, and authentic workforce, so if you’re excited about this role but your previous experience doesn’t align perfectly with every qualification, we encourage you to apply anyway! You may be the perfect candidate for this or another role at QSAI.<br/><br/>We value diversity and are committed to creating an inclusive environment for our team.<br/><br/><strong>What You’ll Get:<br/><br/></strong><ul><li>Hands-on experience to strengthen and broaden your skillset</li><li>Collaboration with a diverse set of teams at all levels of the company</li><li>Space to share your own ideas and experiences as we continue refining best practices</li><li>A relaxed, fun community and environment in which to solve interesting problems</li><li>Opportunity to participate in a 401(k) savings plan</li><li>Ford AXZ-Plan vehicle discounts</li><li>Other perks to fuel creativity such as an on-site gymnasium, free drinks and snacks, and a variety of optional team activities <br/><br/></li></ul><strong>About QSAI:<br/><br/></strong>Founded in 1999, Quantum Signal grew up developing intelligent algorithms and AI. As our engineering R&amp;D services expanded, we later sharpened our focus on applications and technology related to mobile robotics, sensing and perception, autonomy, and simulation. In 2019 we became Quantum Signal AI, a subsidiary of Ford Motor developing technologies to advance their R&amp;D efforts. We build solutions to enhance the capability, robustness, safety, and acceptance of intelligent ground vehicles and mobile robotics all in an effort to make transportation more effective and efficient for all.<br/><br/>Our HQ in the historic Union School in Saline, MI is the perfect playground to develop this cutting-edge technology and we’re always looking for smart folks who like new challenges, learning new skills, and technical variety.<br/><br/>Powered by JazzHR<br/><br/>M34DAj10mG
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

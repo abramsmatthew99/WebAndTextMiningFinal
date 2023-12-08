@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:<br/><br/></strong>Intern - Associate IT Business Process Analyst<br/><br/>KBR is a company of innovators, thinkers, creators, explorers, volunteers, and dreamers and we all share one goal of improving the World and Beyond: responsibly, and safely. We attract a diverse workforce and the best minds in the world because our expertise thrives on creativity, resourcefulness, and collaboration.<br/><br/>At KBR, we care about our employees and the community around us, and we are currently looking for an <strong>Associate IT Business Process Analyst/IT Intern</strong> to join our dynamic team for <strong>Spring and Summer 2024</strong>. In this exciting role, you will act as a liaison between IT development groups and business units for the development and implementation of new systems and enhancement of current systems.<br/><br/><strong>DUTIES AND RESPONSIBILITIES:<br/><br/></strong>Along with your desire to travel, connect with peers and grow professionally, you will be responsible for:<br/><br/><ul><li>Evaluates new applications, system requirements, developments in field of expertise, and evolving business needs to recommend appropriate solutions and alternatives.</li><li>Under direct supervision, performs routine assignments as an entry level professional.</li><li>Develops core job competencies with existing procedures by solving standard problems.<br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li>Experience developing solutions using Microsoft Power Platform: Power Apps (Canvas and Model Driven), Power Automate, Power BI, and Dataverse.</li><li>Experience designing, administering, and managing Microsoft SharePoint Online sites.</li><li>Extensive knowledge of JSON, and ability to create DAX formulas and expressions.</li><li>Ability to create new and manage existing automation in Nintex Automation Cloud, Nintex Forms for Office 365, and Nintex Workflow for Office 365</li><li>Familiarity with ShareGate migration tool</li><li>Excellent organizational and communication skills (written and verbal)</li><li>To be successful in this role, the candidate will need to be highly organized, detail-oriented, self-motivated, a team player, naturally curious, and open to new approaches. You must enjoy the challenge of problem-solving and creating solutions.<br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Senior or Recently Graduated BS in Computer Science, MIS, CIS;</li><li>Develop client-side SharePoint solutions using SharePoint Framework (SPFx)</li><li>Proficient with Python programming language</li><li>Microsoft certifications: Power Platform Fundamentals (PL-900), Power Platform Developer (PL-400), Power Platform Solution Architect Expert (PL-600)</li><li>Trainings: SharePoint for Power Users, and SharePoint Online for Administrators<br/><br/></li></ul>In compliance with the U.S. federal government’s vaccine mandate, only candidates who are fully vaccinated for COVID-19 or have a reasonable accommodation or approved medical exception will be considered for this position.<br/><br/>KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.<br/><br/><strong>Inclusion and Diversity at KBR<br/><br/></strong>At KBR, we are passionate about our people, sustainability, and our Zero Harm culture.  These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a more inclusive and diverse company.  That commitment is central to our team of team’s philosophy and fosters an environment of real collaboration across cultures and locations.  Our individual differences and perspectives bring enhanced value to our teams and help us develop solutions for the most challenging problems.  We understand that by embracing those differences and working together, we are more innovative, more resilient, and safer.  We Deliver – Together. Click here to learn more: Inclusion and Diversity at KBR<br/><br/><strong>Belong. Connect. Grow. with KBR!<br/><br/></strong>KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Training, General Business, and Administrative
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Civil Engineering, and Oil and Gas
+          </span>
+</li>
+</ul>
+</div>
+</section>

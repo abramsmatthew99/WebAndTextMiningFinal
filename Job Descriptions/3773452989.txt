@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Overview<br/><br/></strong>Nabors is a leading provider of advanced technology for the energy industry. With operations in about 20 countries, Nabors has established a global network of people, technology and equipment to deploy solutions that deliver safe, efficient and responsible hydrocarbon production. By leveraging its core competencies, particularly in drilling, engineering, automation, data science and manufacturing, Nabors aims to innovate the future of energy and enable the transition to a lower carbon world.<br/><br/>Nabors is committed to providing equal employment opportunities to all employees and applicants and prohibiting discrimination and harassment of any type without regard to race, religion, age, color, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This applies to all terms and conditions of employment including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. To learn more about our Fair Employment practices, please refer to the Nabors Code of Conduct .<br/><br/><strong>Job Summary<br/><br/></strong>Nabors is seeking a Data Analyst for our Center of Excellence. The personnel will apply their data analytics and statistical algorithms skills to help drive key business metrics. The position requires the personnel for reporting related to various KPIs/ scores.Learn from real life business exposure in the oil and gas industry to take your talents to the next level. Be part of the Nabors team based out of Houston, TX.<br/><br/><strong>Job<br/><br/></strong>IT<br/><br/><strong>Primary Location<br/><br/></strong>United States Of America-Texas-Houston-(Nabors Corporate Services) Houston Office<br/><br/><strong>Duties And Responsibilities<br/><br/></strong><ul><li> Collecting, research and interpret data </li><li> Analyzing results </li><li> Reporting the results back to the relevant members of the business </li><li> Identifying patterns and trends in data sets </li><li> Working alongside teams within the business or the management team to establish business needs </li><li> Defining new data collection and analysis processes </li><li> Demonstrate illustrations and visualizations of data communicating results of business impact </li><li> Document completed work so others can understand and implement </li><li> Able to analyze data and understand the relationships and correlations </li><li> Follows procedures and safety guidelines <br/><br/></li></ul><strong>Minimum Qualifications / Skills<br/><br/></strong><ul><li> Pursuing final year of university studies towards bachelor’s degree or seeking Masters/PhD in Computer Science, Mathematics, Statistics and/or Economics, or related coursework </li><li> Basic understanding of the following from previous work/classes/research and/or relevant pervious jobs/internships: </li><ul><li> data modeling and reporting packages such as Power BI or other visualization languages </li><li> analyze large datasets using Python or other scripting languages </li><li> write comprehensive reports </li></ul><li> Verbal and written communication skills </li><li> An analytical mind and inclination for problem-solving </li><li> Attention to detail and accuracy </li><li> Computer skills including MS Word, Excel, PowerPoint </li><li> Troubleshooting skills </li><li> Ability to work in groups/teams </li><li> Ability to perform complex statistical calculations and ability to automate this via a script <br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> Engineering background – Petroleum engineering with background in data analytics or similar field of engineering. </li><li> Ability to generate research ideas. <br/><br/></li></ul><strong> BEHAVIORAL COMPETENCIES <br/><br/></strong><ul><li> An appreciation of commitment to safety leadership. </li><li> Solid comprehensive problem-solving skills. </li><li> Mechanical aptitude and troubleshooting skills. </li><li> Ability to multitask and work well independently and in a team environment. </li><li> Ability to generate research ideas. <br/><br/></li></ul><strong> TECHNICAL COMPETENCIES <br/><br/></strong><ul><li> Ability to draft technical reports of projects. </li><li> Python </li><li> Power BI / Databases such as PostGres </li><li> Ability to perform complex statistical calculations and ability to automate this via a script <br/><br/></li></ul><strong>Physical Requirements / Working Conditions<br/><br/></strong><ul><li> The primary location for this position is an office environment. </li><li> Able to lift to 20 lbs. </li><li> Rig yard trips may be expected from time to time. </li><li> 20% travel to rig yards and field</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Oil and Gas
+          </span>
+</li>
+</ul>
+</div>
+</section>

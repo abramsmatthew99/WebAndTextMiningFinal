@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>ATPCO is the foundation of flight shopping, providing pricing and retailing data, tools, and services to 500+ airlines, global distribution systems, sales channels, and technology companies. ATPCO links the entire airline community together, collaborating to develop industry standards for airline distribution and end-to-end technology solutions. From shopping to settlement, ATPCO solutions work seamlessly across existing, new, and evolving technologies and methods. Airline-owned and reliably supporting air travel for more than 55 years, ATPCO is everywhere people buy flights.<br/><br/>We consider qualified applicants for employment without regard to race, gender, age, color, religion, national origin, citizenship status, marital status, disability, sexual orientation, protected military/veteran status, gender identity or expression, genetic information, marital status, medical condition, or any other legally protected factor.<br/><br/><strong>Job Description<br/><br/></strong>As a UX Designer you will work within a development team and collaborate with Product Managers, Engineers, and other business stakeholders to help us build and create simple solutions for the airline industry. We are looking for a seasoned UX thinker with a solid portfolio to help us develop the next iteration of ATPCO’s products. The working hours for this role align with the Eastern Time Zone.<br/><br/>You Will:<br/><br/><ul><li>Iterate on current state product experiences by applying user-centered design thinking to optimize existing capabilities and bring new features to users</li><li>Collaborate with Product Managers and Engineers throughout the software development process while advocating for user needs to ensure customer outcomes are achieved</li><li>Facilitate exploratory working sessions with cross-functional team members</li><li>Apply a build-measure-learn approach and other proven frameworks to product innovation</li><li>Partner with UX Researchers to validate design decisions and uncover actionable insights</li><li>Communicate the user experience at various stages of the design process with wireframes, flow diagrams, information architecture diagrams, mockups, and high-fidelity prototypes</li><li>Develop an operating rhythm with Product and Engineering stakeholders to ensure all perspectives are considered throughout the design process</li><li>Perform heuristic evaluations, A/B tests, journey mapping, and other UX exercises to obtain learnings that can be integrated into ongoing enhancements</li><li>Review user behavior analytics to determine if designs are making a measurable impact on the user experience</li><li>Present in-progress work to UX peers and stakeholders and synthesize feedback into the design path forward</li><li>Build a strong understanding of ATPCO systems, product portfolio, and the airline data ecosystem<br/><br/></li></ul>The Ideal Candidate:<br/><br/><ul><li>Prior work experience in product design or UX</li><li>Significant experience in successfully implementing Best in Class design and development practices</li><li>Experience designing across multiple platforms and working with technical and design teams to create user flows, wireframes, and building user interface mockups and prototypes</li><li>A record of successful delivery of software applications as an individual, team leader, or development manager</li><li>Demonstrated experience in tracking project and program status, metrics, and analyzing details to determine trends and measures</li><li>Experience delivering custom software within a Product focused environment</li><li>Solid understanding of Service Oriented Architecture, Continuous Integration, and Delivery environment is preferred</li><li>Portfolio highlighting multiple projects and direct contributions within those projects</li><li>Bachelor's degree in Design, Human-Computer Interaction, Computer Science, or related field<br/><br/></li></ul>Additional Information<br/><br/>All your information will be kept confidential according to EEO guidelines.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Design, Art/Creative, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Airlines and Aviation
+          </span>
+</li>
+</ul>
+</div>
+</section>

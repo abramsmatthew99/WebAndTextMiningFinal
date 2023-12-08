@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        OneOncology is positioning community oncologists to drive the future of cancer care through a patient-centric, physician-driven, and technology-powered model to help improve the lives of everyone living with cancer. Our team is bringing together leaders to the market place to help drive OneOncology’s mission and vision.<br/><br/>Why join us? This is an exciting time to join OneOncology. Our values-driven culture reflects our startup enthusiasm supported by industry leaders in oncology, technology, and finance. We are looking for talented and highly-motivated individuals who demonstrate a natural desire to improve and build new processes that support the meaningful work of community oncologists and the patients they serve.<br/><br/><strong>Job Description:<br/><br/></strong>The <strong>System Engineer </strong>will report to OneOncology’s <strong>Director, IT Infrastructure and Security. </strong> This position will play a crucial role in designing, implementing, and maintaining systems for our oncology practices. Working closely with the IT team and practice managers, you will be responsible for managing, supporting, and optimizing key functional areas within our infrastructure environment. Your expertise will contribute to safeguarding sensitive healthcare data and maintaining the confidentiality, integrity, and availability of our systems and information.<br/><br/><strong>Responsibilities<br/><br/></strong><strong>Azure DevOps: <br/><br/></strong><ul><li>Manage and administer Azure DevOps environment.</li><li>Facilitate continuous integration/continuous deployment (CI/CD).</li><li>Ensure infrastructure as code practices are maintained and optimized.</li><li>Use Azure ARM templates, PowerShell, or other IaC tools to automate tasks.</li><li>Collaborate with the development team to streamline code deployments.</li><li>Architect, deploy, manage, and optimize Azure infrastructure components such as VMs, storage, networking, and Azure AD.</li><li>Work closely with application development teams to optimize the deployment of applications on Azure.<br/><br/></li></ul><strong>Citrix Administration: <br/><br/></strong><ul><li>Manage and maintain Citrix virtual apps and desktop environments.</li><li>Troubleshoot Citrix session issues, connectivity, and performance problems.</li><li>Work closely with end-users to ensure smooth and efficient Citrix operations.</li><li>Architect, deploy, manage, and optimize Azure infrastructure components such as VMs, storage, networking, and Azure AD.</li><li>Work closely with application development teams to optimize the deployment of applications on Azure.<br/><br/></li></ul><strong>Backup Management:<br/><br/></strong><ul><li>Oversee and manage data backups, ensuring they are regularly scheduled and executed successfully.</li><li>Perform data restores as necessary.</li><li>Ensure backup strategies align with organizational recovery objectives.<br/><br/></li></ul><strong>System Monitoring:<br/><br/></strong><ul><li>Monitor infrastructure performance and optimize accordingly to ensure high availability and performance.</li><li>Configure and manage monitoring tools.</li><li>Respond to system alerts, diagnosing and resolving issues in a timely manner.</li><li>Collaborate with application teams to tune their applications and databases.<br/><br/></li></ul><strong>Patching:<br/><br/></strong><ul><li>Schedule, manage, and supervise system patching, ensuring minimal downtime.</li><li>Collaborate with security teams to ensure systems are protected against known vulnerabilities.</li><li>Test patches in non-production environments prior to deployment.<br/><br/></li></ul><strong>Documentation &amp; Compliance:<br/><br/></strong><ul><li>Document system configurations, processes, and procedures.</li><li>Ensure systems adhere to organizational policies and industry best practices.<br/><br/></li></ul><strong>Collaboration:<br/><br/></strong><ul><li>Work closely with other IT teams, including network engineers, security professionals, and developers to ensure system stability, security, and performance.<br/><br/></li></ul><strong>Key Competencies<br/><br/></strong><ul><li>Success in leading and managing large, complex projects with multiple phases.</li><li>Excellent interpersonal, written (grammar, spelling, format), and verbal communication skills.</li><li>Excellent organizational skills and attention to detail</li><li>Reliable, fast learner, self-motivated</li><li>Ability to effectively handle shifting priorities and adapt to changing demands in a dynamic </li><li>environment</li><li>Ability to develop alternative solutions to problems, comparing and analyzing data and </li><li>measuring results.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in computer science, IT, or a related field or equivalent work experience.</li><li>5 years of experience in systems engineering or a related field.</li><li>Minimum of 2 years’ experience working with Microsoft Azure services.</li><li>Strong experience with Azure DevOps and Citrix environments.</li><li>Solid experience in designing and implementing CI/CD pipelines using Azure DevOps.</li><li>Strong knowledge of Infrastructure as Code (IAC) using tools like ARM Templates, Terraform, etc.</li><li>Proficiency in backup and recovery solutions.</li><li>Familiarity with system monitoring tools.</li><li>Strong scripting skills in PowerShell, Bash, or Python.</li><li>Knowledge of patch management practices and tools.</li><li>Strong problem-solving skills and a proactive approach to system management.</li><li>Excellent verbal and written communication skills.</li><li>Relevant certifications (e.g., Azure certifications, Citrix certifications) are a plus.</li><li>Willingness to stay updated with the latest networking technologies and industry trends.<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

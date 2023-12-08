@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Summary of Position: The DevOps Engineer will possess expertise skill in Azure and a strong focus on building and deploying Android, iOS, and web applications. The ideal candidate should have a deep understanding of the software development lifecycle, continuous integration, and continuous delivery processes, with a specific emphasis on mobile application development. The candidate will play a crucial role in optimizing development workflows, automating processes, and ensuring efficient and reliable deployment pipelines.<br/><br/>Responsibilities: The DevOps Engineer position will require experience performing the following:<br/><br/><ul><li> Azure Expertise: Leverage Azure DevOps services to design, implement, and maintain robust CI/CD pipelines for mobile applications. Utilize Azure services such as Azure Pipelines, Azure Repos, and Azure Artifacts to automate build, test, and deployment processes. </li><li> Mobile Application Deployment: Work closely with mobile development teams to understand application requirements and implement deployment solutions for Android and iOS platforms. Ensure seamless integration of mobile application builds into the CI/CD pipelines. </li><li> Build Automation: Expertise in building Android and iOS applications. Expertise in using Visual Studio Build (VSBuild) for building APIs, services, and websites. Implement and optimize build scripts and configurations to achieve efficient and reproducible builds. Utilize YAML for defining and managing CI/CD pipelines. </li><li> Scripting Languages: Proficiency in PowerShell and Bash for automation and deployment tasks. </li><li> Infrastructure as Code (IaC): Implement and manage infrastructure as code using tools like Terraform or ARM templates for Azure resources. Automate the provisioning and scaling of infrastructure required for mobile application development. </li><li> Deployment to Mobile Platforms: Utilize Microsoft App Center for comprehensive lifecycle management of mobile applications. Manage deployment processes to the Google Play Store and Apple Store, including the Apple B2B Store for business applications. </li><li> Monitoring and Logging: Implement monitoring solutions to track the performance of CI/CD pipelines and application deployments. Set up logging and alerting mechanisms for timely issue identification and resolution. DevOps Engineer</li><li> Collaboration and Documentation: Collaborate with development, testing, and operations teams to streamline processes and ensure a smooth workflow. Maintain detailed documentation of CI/CD pipelines, infrastructure configurations, and best practices. </li><li> Security and Compliance: Implement security best practices for CI/CD pipelines and infrastructure. Ensure compliance with industry standards and organizational security policies. <br/><br/></li></ul>Required Education &amp; Experience:<br/><br/>Bachelor’s degree in computer science, Engineering, or related field.<br/><br/>Proven experience as a DevOps Engineer with a focus on Azure.<br/><br/>Hands-on experience with mobile application development for Android and iOS.<br/><br/>Strong knowledge of CI/CD best practices and tools. Familiarity with IaC tools and infrastructure automation.<br/><br/>Excellent problem-solving and communication skills.<br/><br/>Key Technologies:<br/><br/>Azure DevOps, Azure Pipelines, Azure Repos, Azure Artifacts Visual Studio Build (VSBuild) YAML PowerShell, Bash Microsoft App Center, Google Play Store, Apple Store, Apple B2B Store Terraform or ARM templates Monitoring and logging tools (e.g., Azure Monitor, Log Analytics)
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

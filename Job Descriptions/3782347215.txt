@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Dice is the leading career destination for tech experts at every stage of their careers. Our client, Leidos, is seeking the following. Apply via Dice today!<br/><br/><strong>Description<br/><br/></strong>Leidos is seeking a junior UI/UX Front-End Developer to support United States Space Force (USSF) by developing software in support of Space Systems Command (SSC) Cyber Operations Branch rapid agile development of defensive cyber solutions to protect, defend, and respond to both ground and space based cyber adversarial threats. A successful candidate should be a leader and problem solver with a proven ability to deliver superior results as part of a high performing team in a fast-paced environment. No clearance is required.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Participating in the design and creation of scalable software</li><li>Writing clean, functional code on the front-end</li><li>Unit testing and fixing bugs or other coding issues</li><li>Build the front-end of applications through appealing visual design</li><li>Develop and manage well-functioning databases and applications</li><li>Write effective APIs</li><li>Test software to ensure responsiveness and efficiency</li><li>Troubleshoot, debug and upgrade software</li><li>Create security and data protection settings</li><li>Build features and applications with a mobile responsive design</li><li>Write technical documentation.<br/><br/></li></ul><strong>Basic Qualifications<br/><br/></strong><ul><li>Bachelor's degree in computer science, software engineering, data science, software development or STEM related specialty</li><li>No more than two years of experience will be considered</li><li>Secret security clearance</li><li>Must have (or ability to obtain) SAFe for Teams certification.</li><li>Experience in the following applications frameworks (at least 2):</li><li>React, Angular, Python, JavaScript, CSS, &amp; HTML, Material UI</li><li>Familiarity &amp; knowledge:</li><li>SIMP Project, Ansible, Docker, GIT, Red Hat Enterprise Linux (RHEL), Suricata, Zeek, Kibana, Logstash, Elastic Search, Neo4J, PostgreSQL</li><li>Experience or knowledge in the following Areas:</li><li>Agile software development, agile methodologies, software development life cycle management, cross-functional team<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Relevant DoD and/or Industry work experience in Space Systems Command</li><li>Experience with Cyber Operations Branch (SSC/SZYO) program office</li><li>Advisory and Assistance Service (A&amp;AS), or System Engineering and Technical Assistance (SETA) to Government program office</li><li>Experience with ACAT I/II level acquisition programs<br/><br/></li></ul><strong><strong>Pay Range:<br/><br/></strong></strong>Pay Range $53,300.00 - $96,350.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

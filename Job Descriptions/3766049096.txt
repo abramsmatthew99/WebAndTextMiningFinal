@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>Cambridge, MA, USA; New York, NY, USA</strong>.<strong>Minimum qualifications:<br/><br/></strong><ul><li>Bachelor's degree or equivalent practical experience.</li><li>8 years of experience as a sales engineer or technical consultant in a cloud computing environment or in a customer-facing role.</li><li>Experience in virtualization or cloud native architectures in a customer-facing or support role.</li><li>Experience with big data, machine learning, and numerical programming frameworks (e.g., TensorFlow, Python, MATLAB).<br/><br/></li></ul><strong>Preferred qualifications:<br/><br/></strong><ul><li>Master's degree in Computer Science, or a related technical field.</li><li>Experience in building machine learning solutions and leveraging specific machine learning architectures (e.g., deep learning, LSTM, convolutional networks).</li><li>Experience in architecting and developing software or infrastructure for scalable, distributed systems.</li><li>Experience in data and information management as it relates to big data trends and issues within businesses.</li><li>Ability to learn quickly, understand, and work with new emerging technologies, methodologies, and solutions in the cloud/IT technology space.<br/><br/></li></ul><strong>About The Job<br/><br/></strong>The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.<br/><br/>As a Customer Engineer, you will work with Technical Sales teams as a machine learning subject matter expert to differentiate Google Cloud to our customers. In this role, you will help prospective customers and partners understand the power of Google Cloud, explaining technical features, helping customers design architectures, and problem-solving any potential roadblocks. Additionally, you will have the opportunity to help customers to leverage specialized Machine Learning (ML) hardware developed by Google (e.g., Tensor Processing Unit). You will work closely with customers and product development to shape the TPU platform.<br/><br/>Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.<br/><br/>The US base salary range for this full-time position is $139,000-$213,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br/><br/>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Work with the team to identify and qualify business opportunities, understand key customer technical objections and develop the strategy to resolve technical blockers.</li><li>Provide machine learning expertise to support the technical relationship with Google’s customers, including product and solution briefings, proof-of-concept work, and partner directly with product management to prioritize solutions impacting customer adoption to Google Cloud.</li><li>Work with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments.</li><li>Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to implement a complete solution using best practices on Google Cloud.</li><li>Travel to customer sites, conferences, and other related events as needed.<br/><br/><br/></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management, Consulting, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

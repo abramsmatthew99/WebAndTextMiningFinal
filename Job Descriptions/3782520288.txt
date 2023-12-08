@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong><strong>Junior Data Engineer </strong>- US/Canada Only, 1 year of project experience<br/><br/></strong><strong>Employment Type:</strong> Full-time<br/><br/><strong>Base Salary:</strong> $60K-$74K<br/><br/>Phoenix Recruitment offers a variety of recruiting services to assist both employers and employees. They specialize in marketing open positions, recruiting, and helping employers to find qualified candidates across various industries. Phoenix Recruitment has expertise in streamlining the hiring process. They can help ensure that the process is efficient, well organized, and compliant with relevant regulations.<br/><br/>Position Summary<br/><br/>Join the fast-paced, innovative, and collaborative environment focused on providing an AIOps platform that enhances the intelligence of the CVS Health infrastructure. Work closely with subject matter experts and colleagues to build and scale out machine learning and AI solutions that will detect, predict, and recommend solutions to correct issues before system impact and enhance the efficiency, reliability, and performance of CVS Health’s IT operations.<br/><br/><strong>Key Responsibilities include:<br/><br/></strong><ul><li>Data pipeline development: Designed, implemented, and managed data pipelines for extracting, transforming, and loading data from various sources into data lakes for processing, analytics, and correlation. </li><li>Data modeling: Create and maintain data models ensuring data quality, scalability, and efficiency </li><li>Develop and automate processes to clean, transform, and prepare data for analytics, ensuring data accuracy and consistency </li><li>Data Integration: Integrate data from disparate sources, both structured and unstructured to provide a unified view of key infrastructure platform and application data </li><li>Utilize big data technologies such as Kafka to process and analyze large volumes of data efficiently </li><li>Implement data security measures to protect sensitive information and ensure compliance with data and privacy regulation </li><li>Create/maintain documentation for data processes, data flows, and system configurations </li><li>Performance Optimization- Monitor and optimize data pipelines and systems for performance, scalability and cost-effectiveness <br/><br/></li></ul><strong>Characteristics of this role:<br/><br/></strong><ul><li>Team Player: Willing to teach, share knowledge, and work with others to make the team successful. </li><li>Communication: Exceptional verbal, written, organizational, presentation, and communication skills. </li><li>Creativity: Ability to take written and verbal requirements and come up with other innovative ideas. </li><li>Attention to detail: Systematically and accurately research future solutions and current problems. </li><li>Strong work ethic: The innate drive to do work extremely well. </li><li>Passion: A drive to deliver better products and services than expected to customers. <br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>2+ years of programming experience in languages such as Python, Java, SQL </li><li>2+ years of experience with ETL tools and database management (relational, non-relational) </li><li>2+ years of experience in data modeling techniques and tools to design efficient scalable data structures </li><li>Skills in data quality assessment, data cleansing, and data validation <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Knowledge of big data technologies and cloud platforms </li><li>Experience with technologies like PySpark, Databricks, and Azure Synapse. <br/><br/></li></ul>Education<br/><br/>Bachelor’s degree in Computer Science, Information Technology, or related field, or equivalent working experience<br/><br/><strong>Why Phoenix Recruitment LLC?<br/><br/></strong>Phoenix Recruitment often has an extensive network of employers and candidates. This network allows them to tap into a pool of qualified candidates and connect them with suitable job opportunities. They can also leverage their connections to help employers find the right talent efficiently. Outsourcing the recruitment process to a specialized agency can save your time and resources, avoid delays, reduce administrative burdens, and increase the chances of finding the right fit for your organization.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

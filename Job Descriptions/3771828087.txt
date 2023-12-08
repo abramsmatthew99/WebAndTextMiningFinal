@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our Company<br/><br/>Praecipio is a leading technology consulting firm headquartered in the United States that focuses on implementing agile software development technologies and best practices for organizations of scale. As a Platinum Solution Partner within the Atlassian ecosystem, Praecipio offers license management, data migration services, and software development process improvement consulting to clients ranging from small startups to Fortune 20 and Global Fortune 10 companies. Praecipio is hyper-focused on helping large enterprises scale software development teams and innovate across their global organizations by using world class collaboration tools and industry-leading best practices, ultimately driving irrefutable value for clients.<br/><br/>Job Summary:<br/><br/>We are seeking an experienced and results-driven DevOps Managing Director/Field CTO. The Field CTO is responsible for leading the delivery of Praecipio's solutions to clients across various industries. The ideal candidate will have a strong understanding of Agile, DevOps, DevSecOps, and ITSM principles, as well as experience with generative AI technologies. <strong><em>This position can be worked remotely from anywhere in the US and may require minimal travel to clients.<br/><br/></em></strong>Responsibilities:<br/><br/><ul><li>Develop and implement a comprehensive DevOps, DevSecOps, Agile, and ITSM strategy for multiple services industries</li><li>Identify opportunities where these frameworks and technologies can create unique value for clients</li><li>Partner with clients to conceptualize and deliver transformational solutions that impact business and technology outcomes</li><li>Stay at the cutting edge of Agile, DevOps, DevSecOps, ITSM, and AI research and development</li><li>Play a crucial role in guiding organizations through the optimization of their DevOps practices</li><li>Share insights and expertise through presentations and publications</li><li>Foster a culture of innovation within the organization</li><li>Identify and promote best practices, methodologies, and frameworks for successfully implementing generative Agile, DevOps, DevSecOps, ITSM, and AI solutions</li><li>Cultivate strategic partnerships with cloud hyper scalers, cloud data platforms, and specialist generative AI technology partners<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in computer science, management information systems, information technology, engineering, mathematics, or a related technology field or equivalent work experience</li><li>5+ years of experience implementing Agile, DevOps, DevSecOps, and ITSM</li><li>10+ years of experience with Agile, DevOps, and ITSM principles</li><li>Strong written and verbal communication, presentation and interpersonal skills at the C-Level</li><li>Ability to work independently and as part of a team</li><li>Exceptional problem-solving, analytical, and strategic thinking abilities</li><li>Ability to learn new technologies quickly<br/><br/></li></ul>Additional Skills:<br/><br/><ul><li>Experience with the following tools and technologies: Atlassian, GitLab, ServiceNow, JFrog, AWS, AI, Azure, Jenkins, Splunk</li><li>Ability to build and maintain relationships with key client decision-makers and influencers</li><li>Ability to drive sales and grow the business in strategic accounts</li><li>Ability to mentor and train others<br/><br/></li></ul>Salary range: $145,000-$175,000<br/><br/>Please note the national salary range listed in the job posting reflects the new hire salary range across levels and U.S. locations that would be applicable to the position. Final salary will be commensurate with the candidate’s final level and final location. Also, this range represents base salary only and does not include the company bonus or benefits.<br/><br/><strong>Benefits<br/><br/></strong><ul><li> Health Care Plan </li><li> Paid Time Off (Vacation, Volunteer, Floating, Sick &amp; Public Holidays) </li><li> Family Leave (Maternity, Paternity) </li><li> Training &amp; Development </li><li> Work From Home </li><li> Wellness Resources including Annual Wellness, Asset and/or Green initiatives Taxable Stipend. </li><li> Investment in Professional Development </li><li> Employee referral program</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

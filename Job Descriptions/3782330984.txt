@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Job Overview<br/><br/>Here at Mesa Electronics, Inc, we are a leader in our field in the Chicagoland area. We are seeking to hire a seasoned Project Manager to join our team. If you're a passionate self-starter, Mesa Electronics is a great company for you. Don't hesitate to apply.<br/><br/>Responsibilities for Project Manager<br/><br/><ul><li>Determine and define project scope and objectives</li><li>Predict resources needed to reach objectives and manage resources in an effective and efficient manner</li><li>Prepare budget based on scope of work and resource requirements</li><li>Track project costs in order to meet budget</li><li>Develop and manage a detailed project schedule and work plan</li><li>Provide project updates on a consistent basis to various stakeholders about strategy, adjustments, and progress</li><li>Manage contracts with vendors and suppliers by assigning tasks and communicating expected deliverables</li><li>Utilize industry best practices, techniques, and standards throughout entire project execution</li><li>Monitor progress and make adjustments as needed</li><li>Measure project performance to identify areas for improvement<br/><br/></li></ul><strong>Qualifications For Project Manager<br/><br/></strong><ul><li>Bachelor's degree in computer science, business, or a related field</li><li>5-8 years of project management and related experience</li><li>Project Management Professional (PMP) certification preferred</li><li>Proven ability to solve problems creatively</li><li>Strong familiarity with project management software tools, methodologies, and best practices</li><li>Experience seeing projects through the full life cycle</li><li>Excellent analytical skills</li><li>Strong interpersonal skills and extremely resourceful</li><li>Proven ability to complete projects according to outlined scope, budget, and timeline<br/><br/></li></ul><strong>Company Description<br/><br/></strong>Mesa Electronics, Inc provides advanced systems solutions to private and public-sector clients. Mesa Electronics specializes in Audio/Video system design, installation, and service. ME is committed to providing exactly the service or technology our customers require, at best cost and lowest risk. Looking to fulfill this position ASAP, on-site training will be provided.<br/><br/>Mesa Electronics, Inc provides advanced systems solutions to private and public-sector clients. Mesa Electronics specializes in Audio/Video system design, installation, and service. ME is committed to providing exactly the service or technology our customers require, at best cost and lowest risk. Looking to fulfill this position ASAP, on-site training will be provided.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

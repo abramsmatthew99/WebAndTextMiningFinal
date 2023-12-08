@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Trilogy Innovations is currently looking for talented and motivated Software Developers at both junior and senior levels to contribute to our federal client's IT systems modernization initiative. This remote position, based in Bridgeport, WV, offers an exciting opportunity to join our expanding team and play a key role in a multi-year project.<br/><br/>Position: Software Developer (Junior and Senior Levels) - Remote<br/><br/>Location: Bridgeport, WV (100% Remote)<br/><br/>Type: Full-time (W2)<br/><br/><strong>Benefits<br/><br/></strong>Health, Vision/Dental<br/><br/>Life/Disability<br/><br/>401(k) with match<br/><br/>Professional development coverage<br/><br/>Phone/Internet reimbursements<br/><br/>Bonus programs<br/><br/><strong>Qualifications And Requirements<br/><br/></strong>Bachelor's degree (preferably in Computer Science or related field)<br/><br/>Active Secret security clearance<br/><br/>Experience in software development on Linux-based operating systems<br/><br/>Experience supporting large-scale federal systems in Agile environments, preferably using Scaled Agile Framework (SAFe)<br/><br/>Full-stack development experience on Linux-based systems<br/><br/>Familiarity with cloud technologies, preferably AWS (e.g., AWS EC2 instances, AWS GovCloud)<br/><br/><strong>Programming Languages<br/><br/></strong>Java, Python, XML, and other web services-related programming languages<br/><br/>JSON<br/><br/><strong>General Responsibilities<br/><br/></strong>Develop software in Java and other languages to support a large-scale IT system, utilizing Linux-based servers, AWS cloud instances, and Oracle and/or Postgres Databases.<br/><br/>Contribute to Agile delivery teams following the Scaled Agile Framework (SAFe), delivering software with each sprint.<br/><br/>Design, modify, and optimize general computer applications or specialized utility programs.<br/><br/>Analyze user needs and develop software solutions.<br/><br/>Design or customize software to enhance operational efficiency for clients.<br/><br/>Analyze and design databases within an application area, collaborating with a team.<br/><br/>Research, design, develop, and test operating systems-level software for various applications.<br/><br/>Set operational specifications and formulate/analyze software requirements.<br/><br/>Design embedded systems software.<br/><br/>Why work for Trilogy Innovations?<br/><br/>Professional development programs for all employees<br/><br/>Up to $150/month towards phone and internet services<br/><br/>Referral bonus programs for employees and business development<br/><br/>Competitive 401(k) with company match<br/><br/>Comprehensive medical, vision, and dental insurance; life/disability coverage<br/><br/>Health Spending Account (HSA)<br/><br/>Join Trilogy Innovations and be part of a dynamic team dedicated to excellence and continuous growth. We value your expertise and offer a supportive work environment with opportunities for career advancement. Apply now to be a part of our innovative journey!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

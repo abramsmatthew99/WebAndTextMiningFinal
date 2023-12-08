@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Build Something to Be Proud Of.<br/><br/></strong>Captivation Software has built a reputation on providing customers exactly what is needed in a timely manner. Our team of engineers take pride in what they develop and constantly innovate to provide the best solution. Captivation Software is looking for a mid level software engineer who will be responsible for designing, developing, and sustaining pipelines that enable machine-learning model training as well as large scale inference in a Kubernetes-based environment. The Software Engineer's tasking shall include the following:<br/><br/><ul><li>Development of data-aware model training pipelines to facilitate unique customer requirements surrounding model provenance</li><li>Development of scalable, Kubernetes-based inference pipelines that compliantly handle in-flight data</li><li>Configuring and maintaining custom metrics to enable tuning of running pipelines<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Security Clearance:<br/><br/></strong><ul><li>Must currently hold a Top Secret / SCI U.S. Government security clearance with a favorable Polygraph, therefore all candidates must be a U.S. citizen<br/><br/></li></ul><strong>Minimum Qualifications:<br/><br/></strong><ul><li>Master's degree in Computer Science or related discipline from an accredited college or university, plus three (3) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity</li><li>Bachelor's degree in Computer Science or related discipline from an accredited college or university, plus five (5) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity</li><li>Seven (7) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity. <br/><br/></li></ul><strong>Required Skills:<br/><br/></strong><ul><li>Experience using the Linux CLI</li><li>Experience developing with Python</li><li>Experience developing and deploying containerized applications</li><li>Experience writing and deploying Kubernetes resources</li><li>Experience writing and deploying Helm charts<br/><br/></li></ul><strong>Desired Skills:<br/><br/></strong><ul><li>Experience developing with Go</li><li>Experience with CI/CD concepts &amp; implementations (Gitlab, Flux CD, etc)</li><li>Experience working with, and debugging, GPU-enabled applications</li><li>Experience using a machine-learning framework (PyTorch, TensorFlow, etc)</li><li>Experience with other ML pipelines/frameworks like KubeFlow, NeMo, PyTorch Lightning, etc</li><li>Experience with metrics and monitoring tools such as Prometheus and Grafana</li><li>Experience with the Atlassian suite of tools<br/><br/></li></ul><em><strong>This position is open for direct hires only. We will not consider candidates from third party staffing/recruiting firms.<br/><br/></strong></em><strong>Benefits<br/><br/></strong><ul><li>Annual Salary: $125,000 - $250,000 (Depends on the years of experience)</li><li>Up to 20% 401k contribution (no matching required)</li><li>Above market hourly rates</li><li>$3,000 HSA Contribution</li><li>5 Weeks Paid Time Off</li><li>Company Paid Employee Medical / Dental / Vision Insurance / Life Insurance / Short-Term &amp; Long-Term Disability / AD&amp;D</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

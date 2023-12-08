@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: AI (Artificial Intelligence) Backend Developer<br/><br/></strong><strong>Location: San Francisco, CA / Dallas, TX / Los Angeles, CA / New York City, NY / Chicago, IL<br/><br/></strong><strong>Experience: 8-12 years<br/><br/></strong><strong>Work Type: Fulltime<br/><br/></strong><strong>PETADATA </strong>is hiring an AI<strong> (Artificial Intelligence) Backend Developer</strong>.<br/><br/><strong>Roles And Responsibilities<br/><br/></strong><ul><li>The Ideal Candidate should collaborate with the front-end developers and other development team members to establish objectives and design more functional, cohesive codes to enhance the user experience.</li><li>Should be able to design, develop, test, and deploy backend services to support AI applications and product development.</li><li>Must develop and maintain APIs to support data ingestion, model training, and inference services.</li><li>Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.</li><li>Should collaborate with data scientists to integrate machine learning models into backend services.</li><li>Work with stakeholders to gather requirements, develop technical specifications, and provide project status updates.</li><li>Should be able to Record data and report it to proper parties, such as clients or leadership.</li><li>Must be able to write clean, efficient, and maintainable code using best practices and design patterns.</li><li>Implement and maintain database schemas and data access layers.<br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>The Ideal candidate must have 8+ years of experience in software development with a focus on AI and backend development.</li><li>Should have strong programming skills in Python and experience with backend frameworks such as Flask or Django.</li><li>Must have experience working with a relational database, such as PostgreSQL/ SQL Server.</li><li> Strong understanding of the web development cycle and programming techniques and tools.</li><li>Good knowledge of machine learning frameworks such as TensorFlow or PyTorch.</li><li>Experience with cloud computing platforms (e.g., AWS, Azure, Google Cloud Platform) for model deployment.</li><li>Must be familiar with Agile development methodologies.<br/><br/></li></ul><strong>Note<br/><br/></strong>Candidates are required to attend Phone/Video Call / In-person interviews and after the selection of candidates (He/She) should go through all background checks on Education and Experience.<br/><br/>Please email your resume to: <strong>careers@petadata.co<br/><br/></strong>After carefully reviewing your experience and skills one of our HR team members will contact you on the next steps.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

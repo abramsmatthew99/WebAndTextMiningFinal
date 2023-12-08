@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Metric Search</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="James Barraclough" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4E03AQFq3Qg9YY4bBQ/profile-displayphoto-shrink_100_100/0/1701869917740?e=2147483647&amp;v=beta&amp;t=QwIT782sUjEgUiTyEAt36WdYjaVbimbTUOJN4xpPfPI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        James Barraclough
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Senior Group Business Manager | MedTech &amp; Life Sciences
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message James Barraclough" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjamesbarraclough25&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Senior Product Manager - AI in Digital Health</p><p><br/></p><p>Join our dynamic IT Digital Health AI Solutions team as a Senior Product Manager! Lead a talented team from concept to real-world implementation, collaborating with Data Scientists, Product Designers, and Software Engineers. Drive innovation in enterprise-wide AI-driven digital health products and mentor emerging Product Managers.</p><p><br/></p><p>Your Impact:</p><ul><li>Apply Agile, Lean, and User-Centered Design to drive AI and generative AI product development.</li><li>Lead a team of experts in delivering groundbreaking AI-driven digital health products.</li><li>Define and communicate Product Vision and Strategy to internal and external stakeholders.</li><li>Collaborate with cross-functional teams to ensure compliance and agile software delivery.</li></ul><p><br/></p><p>What You Bring:</p><ul><li>Bachelor's degree in computer science or related technical field.</li><li>4+ years of product management experience in AI or data-driven software.</li><li>Experience in a collaborative, modern software design environment.</li><li>Strong communication skills to influence both functional and technical team members.</li><li>Ability to adapt based on data, customer feedback, and business stakeholder input.</li></ul><p><br/></p><p>Preferred Qualifications:</p><ul><li>Advanced degree in a relevant field.</li><li>Experience in Health IT or Hospital IT.</li><li>Positive, constructive feedback approach.</li><li>Transferrable skills from entrepreneurial/startup, design thinking, clinical settings, or consulting roles.</li></ul><p><br/></p><p>Join us in revolutionizing digital health with AI! Be part of a team driving category leadership and operational excellence.</p><p><br/></p><p>james.barraclough@metric-search.com</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Information Technology, and Product Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

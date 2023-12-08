@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Cititec Talent</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Alex Koivio" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4E03AQH4au-BwbYSjQ/profile-displayphoto-shrink_100_100/0/1696433991101?e=2147483647&amp;v=beta&amp;t=HzZib-kAHc4RVQDTzKbAp7tuYN2ptkpj_C9OFrn5C0c" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Alex Koivio
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        📈 Connecting the brightest minds in software development &amp; tech, helping scale the most innovative companies | Recruitment | BEAM | LISP | Clojure |…
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Alex Koivio" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fuk%2Elinkedin%2Ecom%2Fin%2Falexkoivio&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Python Application Developer</strong></p><p><br/></p><p><strong>Industries: </strong>Oil &amp; Gas / Financial Services / Commodities / Trading</p><p><strong>Location: </strong>New York City</p><p><strong>Job Type: </strong>Full-Time</p><p><strong>Salary: </strong>Up to $165,000 + generous bonus scheme</p><p><br/></p><p><strong>The Role:</strong></p><p><br/></p><p>We're delighted to have partnered with an industry-leading global and commodities firm known globally around the world.</p><p><br/></p><p>The organisation are able to call upon decades of experience in the physical, financial energy and commodities markets. They provide a wide range of services to a substantial and diversified customer base.</p><p><br/></p><p>They are seeking a skilled Python Developer with a passion for application development to join their global technology team. </p><p><br/></p><p>As a Python Developer, you will be responsible for designing, developing, and maintaining robust Python applications. The ideal candidate should have a strong background in Python programming and a proven track record of delivering scalable and efficient applications.</p><p><br/></p><p><strong>The ideal candidate should have the majority of the following:</strong></p><p><br/></p><ul><li>Bachelor's degree in Computer Science, Engineering, or a related field.</li><li>Over 3 years' of professional development experience.</li><li>Strong experience in Python development.</li><li>Written applications with large data processing, pandas, unit test cases &amp; related frameworks.</li><li>Proficient with C# &amp; Java.</li><li>Understanding of object-oriented programming principles &amp; design patterns.</li><li>Experience with database systems (SQL or NoSQL).</li><li>Well-versed with DevOps tools &amp; AWS basics.</li><li>Experience in API-based solutions, like FAST API.</li><li>Building applications using messaging middleware (Kafka or similar).</li><li>Knowledge of Pricing, Risk experience &amp; Market Data.</li><li>Prior experience in building applications in the financial sector.</li></ul><p><br/></p><p><strong>Permanent / Full-Time Employment.</strong></p><p><strong>Hybrid working environment (2 / 3 days' in the office).</strong></p><p><br/></p><p>If you’re interested, please apply or contact me directly on LinkedIn.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology, Engineering, and Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development, Banking, and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

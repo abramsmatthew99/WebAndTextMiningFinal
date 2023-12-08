@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Care.com<br/><br/></strong>Care.com is a consumer tech company with heart. We're on a mission to solve a human challenge we all face: finding great care for the ones we love. We're moms and dads and pet parents. We have parents and grandparents, so we understand that everyone, at some point in their lives, could use a helping hand. Our culture and our products reflect that.<br/><br/>Here, entrepreneurs, self-starters, team players, and big thinkers unite behind a common cause. Here, we're applying data analytics, AI, and the latest technologies to solve universal problems and connect people in new ways. If you like having autonomy, if you thrive on collaboration and building new things, and if you're all about using your talent for good, Care.com is the place for you.<br/><br/><strong>What Your Days Will be Like:<br/><br/></strong>The Data Engineer will be focusing on building out data feeds and tooling from our application platform and enable rapid ingestion into our centralized Data Lake/Data Warehouse. The Data Engineer will work across business areas and application teams at Care.com to rationalize data and design, build and maintain reusable data feeds which and ultimately empower analytics consumption at Care.com.<br/><br/>The ideal candidate will have professional experience building data pipelines in a technical environment. S/he will have an understanding of application development, data warehousing, demonstrate strong business judgment, and be able to prioritize in a fast-paced environment.<br/><br/><strong>What You'll Be Working On: <br/><br/></strong><ul><li>Collaborate and partner with application teams to understand data collection/generation and design and partner to build and implement data feeds from our product tech stack</li><li>Design, develop, and build code for rapid feeds and ingestion into the Data Warehouse</li><li>Identify data sources used for building out data architecture diagrams/models</li><li>Establish engineering practices and setup frameworks for "Data as a Service"</li><li>Collaborate with relevant delivery teams, including infrastructure, operations, site reliability engineering, product development, and others to perform evaluations, POCs, and ultimately implement and operationalize new technology. </li><li>Solve code level problems quickly and efficiently </li><li>Participate in demos and code reviews </li><li>Promote software best approach, standards, and processes </li><li>Shape development processes to promote a high-quality output while continuing to iterate quickly </li><li>Incorporate best practices for security, performance, and data privacy into data pipelines<br/><br/></li></ul><strong>What You'll Need to Succeed:<br/><br/></strong><ul><li>BS or MS in Computer Science or relevant engineering experience</li><li>5+ years work experience in Data Engineering/data pipelines</li><li>3+ years SQL experience is a must</li><li>1+ years Unix/batch scripting preferred</li><li>1+ years Python experience is a plus</li><li>1+ years Windows server admin experience is a plus</li><li>Experience interfacing with business teams and turning requirements and vision into a technical reality</li><li>MySQL &amp; Vertica Experience a plus/preferred</li><li>AWS experience is a plus</li><li>Ability to drive efforts from start to finish as a self-motivator</li><li>Knowledge in Data Warehousing is a MUST</li><li>Proven ability to maintain performance level in a fast-paced agile environment </li><li>Pragmatic and realistic with solutions<br/><br/></li></ul><strong>For a list of our Perks + Benefits, click</strong> <strong>here!<br/><br/></strong>Care.com supports diverse families and communities and seeks employees who are just as diverse. As an equal opportunity employer, Care.com recognizes the power of a diverse and inclusive workforce and encourages applications from individuals with varied experiences, perspectives, and backgrounds. Care.com is committed to providing reasonable accommodations for qualified individuals with disabilities. If you need assistance or accommodation, please reach out to talent@care.com.<br/><br/><strong>Company Overview:<br/><br/></strong>Available in more than 20 countries, Care.com is the world's leading platform for finding and managing high-quality family care. Care.com is designed to meet the evolving needs of today's families and caregivers, offering everything from household tax and payroll services and customized corporate benefits packages covering the care needs of working families, to innovating new ways for caregivers to be paid and obtain professional benefits. Since 2007, families have relied on Care.com's industry-leading products—from child and elder care to pet care and home care. Care.com is an IAC company (NASDAQ: IAC).<br/><br/><em>Salary Range: 110,000 to 135,000. The base salary range above represents the anticipated low and high end of the national salary range for this position. </em><strong><em>Actual salaries may vary and may be above or below the range based on various factors including but not limited to work location, experience, and performance.</em></strong><em> The range listed is just one component of Care.com's total compensation package for employees. Other rewards may include annual bonuses and short- and long-term incentives. In addition, Care.com provides a variety of benefits to employees, including health insurance coverage, life, and disability insurance, a generous 401K employer matching program, paid holidays, and paid time off (PTO).</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

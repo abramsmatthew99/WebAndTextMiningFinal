@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job Type:<br/><br/></strong>Full-time<br/><br/><strong>Location:<br/><br/></strong>On-site<br/><br/><strong>Salary:<br/><br/></strong>Pay is based on Education and Experience<br/><br/><strong>Job Summary:<br/><br/></strong>Reporting to the Lead Support Help Desk Specialist, this is a technical support position specializing in the support and assisted enhancements of New World Now applications and working to achieve resolution on all requests or critical defects; both internally and externally.<br/><br/>The ideal candidate will work collaboratively with clients/users, the development team, and various stakeholders within the company to ensure the delivery of all agreed tasks in an efficient, timely manner. Our support team is constantly growing, thus the responsibilities, qualifications, and other mentioned items here do not necessarily exhibit or meet all desired traits but are ideally what is sought after.<br/><br/><strong>Required Responsibilities:<br/><br/></strong><ul><li>Able to learn and exemplify the business rules of various New World Now clients. Furthermore, this candidate must be able to relay ticket work, bug details, feature updates, and other assigned tasks to their designated client(s) or stakeholder(s) in a timely and efficient manner. </li><li>Be readily available for real-time chat with key stakeholder(s) as well as being able to provide resolutions either immediately or within a timely manner depending on the request. </li><li>Be readily available for phone support with end users to provide resolutions either immediately or within a timely manner depending on the request. </li><li>Must be willing to cooperate with the teams’ current work schedule and be flexible enough to maneuver one’s schedule as needed or requested of by the Lead Support Specialist. Schedule flexibility is key since current clients’ and stakeholders of New World Now transcend various time zones across the both United States and internationally. </li><li>Triage tickets in ZenDesk, solve or escalate if needed<br/><br/></li></ul><strong>Responsibilities:<br/><br/></strong><ul><li>Accurately recreate, relay, and reproduce all troubleshooting steps or issues to the necessary individuals. </li><li>Communicate resolutions to both internal and external requests to stakeholders and end-users via our ticketing system. </li><li>Self-manage tasks and organize tickets accordingly based upon agreed SLAs. </li><li>Utilize debugging skills to troubleshoot and resolve blocking/critical bugs or issues by investigating source code. </li><li>Other duties as assigned. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Able to learn and be trained while on duty</li><li>Associates degree or higher in either Computer Science OR Early Childhood OR Related fields</li><li>Basic understanding of state registry systems and understanding of the early childhood field. </li><li>Comfortable working within a constantly fast paced environment and completing duties as assigned either alone or collaboratively</li><li>Desire to never be 100% comfortable and situated in a certain role</li><li>Highly attentive to detailed and quality</li><li>Prior experience within a help desk</li><li>Prior experience in the Information Technology field<br/><br/></li></ul><strong>Benefits Offered:<br/><br/></strong><ul><li>Unlimited paid time-off (subject to approval)</li><li>Health insurance</li><li>Dental insurance</li><li>Vision insurance</li><li>Retirement Savings</li><li>Workplace perks such as coffee/soda, snacks and other workplace amenities</li><li>Others<br/><br/></li></ul><strong>Company Description<br/><br/></strong>New World Now has a proven track record in designing, building, and supporting commercial grade software applications for the web. We are currently looking to extend our skills and capabilities by hiring quality people who are both willing to learn and have something to offer.<br/><br/>We believe that the quality of our organization is not only determined by our customers and the projects we work on, but also by the people we hire. If you feel you would like to be part of our growing organization, working on a variety of projects, and using your skills to develop state of the art software that solves complex and interesting business problems, then we would like to hear from you.<br/><br/>New World Now has a proven track record in designing, building, and supporting commercial grade software applications for the web. We are currently looking to extend our skills and capabilities by hiring quality people who are both willing to learn and have something to offer. We believe that the quality of our organization is not only determined by our customers and the projects we work on, but also by the people we hire. If you feel you would like to be part of our growing organization, working on a variety of projects, and using your skills to develop state of the art software that solves complex and interesting business problems, then we would like to hear from you.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

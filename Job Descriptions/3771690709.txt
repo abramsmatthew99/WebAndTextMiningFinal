@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Description – Vulnerability Researcher</p><p>In this role, you will work with a team of vulnerability researchers that have the same passion as you. You will use and build vulnerability research tools that push past the edge of current tools and techniques. On any given day you will research and debug an embedded device while getting the chance to bounce ideas off a close-knit team of researchers. We have the tools and the mentors you will need to take yourself to the next level and who are eager to learn from your experience.</p><p> </p><p> <strong>Responsibilities</strong></p><ul><li>Conduct vulnerability research across a variety of platforms</li></ul><p><strong>Key Qualifications</strong></p><ul><li>Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering, or related field of study with 2 years of experience or a master's degree; or an equivalent combination of education and experience</li><li>Experience with a disassembler for vulnerability research (Ghidra, IDA Pro, BinaryNinja)</li><li>Experience with one or more assembly languages (x86, x64, ARM, MIPS, PowerPC, etc.)</li><li>Experience with one or more debuggers (WinDbg, OllyDbg, gdb)</li><li>Experience with vulnerability research on one or more operating systems: Android, iOS, Windows, Linux, MacOS, VxWorks, QNX, RTOSs, or other custom operating systems</li><li>Knowledge of advanced exploitation techniques (ret2libc,use-after-free,type confusion)</li><li>Knowledge of exploit protection techniques (DEP, ASLR/NX)</li><li>Ability to code in C</li><li>Understanding of network protocols</li><li>Ability to obtain and maintain a U.S. government security clearance</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Participation in CTFs</li><li>Experience with symbolic analysis</li><li>Active Secret security clearance</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

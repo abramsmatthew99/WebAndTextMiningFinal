@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>WE CREATE EMPOWERED LEADERS!</strong> At Milwaukee Tool we firmly believe that our People and our Culture are the secrets to our success -- so we give you unlimited access to everything you need to provide technical solutions on our IT Team.<br/><br/>Our IT team is responsible for supporting our continued growth by partnering with each function to align the IT strategy and identify solutions, automating business processes, developing custom software solutions, providing, and governing access to data, evaluating, and implementing purchased software solutions, enabling advanced technologies like AI and ML, and managing the infrastructure and security these solutions require across the enterprise. We work to solve business challenges and drive efficiency through technology.<br/><br/>Behind our doors you'll be empowered every day to own it, drive it, and do what it takes to support the biggest breakthroughs in the industry. Meanwhile, you'll have the support and resources of the fastest-growing brand in the construction industry to make it happen.<br/><br/><strong>Your Role on Our Team<br/><br/></strong>The Software Quality Assurance Analyst II will report to the Software Development Manager. In this role you will collaborate with other QA Analysts, Software Developers, Business Analysts and Product Owners to help deliver high quality solutions in Milwaukee Tool’s face-paced environment.<br/><br/><strong>You’ll Be DISRUPTIVE Through These Duties And Responsibilities<br/><br/></strong><ul><li> Develop, document and maintain overall test strategy</li><li> Provide project updates in daily standups</li><li> Collaborate with developers, analysts and product owners to evaluate requirements and identify acceptance criteria</li><li> Execute test plans, track defects and work with the team to ensure resolution</li><li> Hands on test automation design and execution<br/><br/></li></ul><strong>The TOOLS You’ll Bring With You<br/><br/></strong><ul><li> Bachelor’s degree in Computer Science or a related field.</li><li> 3 or more years of previous quality assurance experience</li><li> Experience working with agile methodologies</li><li> Demonstrated proficiency in at least (1) scripting language (C#, Java, JS)</li><li> Demonstrated proficiency with developing SQL queries</li><li> Demonstrated proficiency with industry standard test automation framework</li><li> Strong professional written and verbal communication skills<br/><br/></li></ul><strong>Other TOOLS We Prefer You To Have<br/><br/></strong><ul><li> Excellent problem-solving and analytical skills.</li><li> Self-driven with the ability to work in a self-guided manner.</li><li> Experience in the following testing frameworks</li><li>Cypress, Test Café, Selenium or similar</li><li>Xunit, TestNG, or similar</li><li>Load Ninja, Azure Load Testing, or similar</li><li>BrowserStack</li><li> Knowledge of</li><li>Git/other source control</li><li>Azure DevOps (including Azure Test Plans) or Jira</li><li>CI/CD tools and processes</li><li>REST based interfaces</li><li>Cloud-based architecture<br/><br/></li></ul><strong>We Provide These Great Perks And Benefits<br/><br/></strong><ul><li> Robust health, dental and vision insurance plans</li><li> Generous 401 (K) savings plan</li><li> Education assistance</li><li> On-site wellness, fitness center, food, and coffee service</li><li> And many more, check out our benefits site HERE</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

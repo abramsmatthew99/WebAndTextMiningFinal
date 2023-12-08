@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Amick Brown is seeking an experienced Software Development Engineer for our direct client.<br/><br/></strong><strong>Location: Sunnyvale, CA<br/><br/></strong><strong>Duration: 2 Months<br/><br/></strong><strong>Estimated pay range:-60$ - 80$ per hour per client contract and candidate skills, experience and work location.<br/><br/></strong><strong>Job Description<br/><br/></strong><ul><li>Design and develop a utility to aid in creation, modification and validation of XML test suites. <br/><br/></li></ul><strong>Roles &amp; Responsibilities<br/><br/></strong><ul><li>Architect, design and develop software systems to automate release process of equipment test suites. </li><li>Follow good software development practices </li><li>Work independently to overcome roadblocks with minimum guidance <br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>Passionate about technologies and love programming </li><li>Able to map, develop, and test projects from inception to launch </li><li>A track record for executing and delivering on projects </li><li>Motivated to continually improve best practices </li><li>Adaptable to dynamic requirements </li><li>Enjoy the thrill of tackling large complex problems </li><li>Great written and verbal communication skills </li><li>Strong programming skill and experience (C# .NET) </li><li>Understanding of OOA/OOD/OOP/Design Patterns </li><li>Detail oriented team player </li><li>Resourceful problem-solving machine </li><li>Foster strong sense of team with peers through solicitation of feedback and constructive contribution to review sessions </li><li>Excellent ability to communicate complex concepts to engineers <br/><br/></li></ul><strong>Preferred Skills</strong> <br/><br/><ul><li>Strong industry experience in architecture and development of scalable production quality systems </li><li>Experience with C#, .NET WPF application. </li><li>Fully understand Software Development Life Cycle (SDLC) </li><li>Familiarity with databases (SQL, No-SQL, etc …) </li><li>Experience in medical device manufacturing or regulated engineering environment </li><li>Strong analytical, time management, interpersonal, listening and communication skills </li><li>Familiarity with Statistical Analysis, Six Sigma, and/or Statistical Process Control are pluses </li><li>Education :</li><ul><li>Bachelor’s or Master’s in Engineering (Software Engineering or Computer Science preferred) <br/></li></ul></ul><strong>Amick Brown is an Information Technology consulting company specializing in ERP, Data Analytics, Information Security, Application Development, Networking, and Cloud Computing. The company was founded in 2010 and is headquartered in San Ramon, California.<br/><br/></strong><strong>Regular full-time employees are eligible for the following Amick Brown provided benefits:<br/><br/></strong><ul><li>Health </li><li>Vision </li><li>Dental </li><li>401k with company match </li><li>Paid time off. </li><li>Sick Leave </li><li>Long -Term Disability </li><li>Life Insurance </li><li>Wellness &amp; Discount Programs</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

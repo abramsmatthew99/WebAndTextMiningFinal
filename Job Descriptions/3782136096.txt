@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Employer Industry: IT Security<br/><br/><strong>Why Consider This Job Opportunity<br/><br/></strong><ul><li> Competitive pay up to $X an hour</li><li> Opportunity for career advancement and growth within the organization</li><li> Remote work flexibility</li><li> Supportive and collaborative work environment</li><li> Chance to make a positive impact on security operations and vulnerability management</li><li> Training and professional development opportunities<br/><br/></li></ul><strong>What To Expect (Job Responsibilities)<br/><br/></strong><ul><li> Perform security event analysis and vulnerability testing</li><li> Administer endpoint security and vulnerability management platforms</li><li> Assist with security incident response, including malware remediation</li><li> Ensure compliance with security policies and guidelines</li><li> Coordinate remediation efforts for third-party audits</li><li> Support security education and training awareness efforts</li><li> Provide project support on company initiatives and incident investigations</li><li> Identify areas for process improvement and automation</li><li> Create technical documentation<br/><br/></li></ul><strong>What Is Required (Qualifications)<br/><br/></strong><ul><li> Bachelor's Degree in Information Technology, Cybersecurity, Computer Science, Engineering or related field</li><li> Knowledge of IT structures and services</li><li> Strong organizational and problem-solving skills</li><li> Proven ability to coordinate multiple tasks and work under pressure</li><li> Ability to work flexible hours and travel when necessary<br/><br/></li></ul><strong>How To Stand Out (Preferred Qualifications)<br/><br/></strong><ul><li> 2 years' experience in Information Systems Security or Cybersecurity</li><li> Experience with vulnerability management and security scanning tools<br/><br/></li></ul><strong>Hashtags<br/><br/></strong>#ITSecurity #Cybersecurity #CareerOpportunity #RemoteWork #TrainingProvided<br/><br/>At Talentify, we prioritize candidate privacy and champion equal-opportunity employment. Central to our mission is our partnership with companies that share this commitment. We aim to foster a fair, transparent, and secure hiring environment for all. If you encounter any employer not adhering to these principles, please bring it to our attention immediately.<br/><br/>Talentify is not the EOR (Employer of Record) for this position. Our role in this specific opportunity is to connect outstanding candidates with a top-tier employer.<br/><br/>Talentify helps candidates around the world to discover and stay focused on the jobs they want until they can complete a full application in the hiring company career page/ATS.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

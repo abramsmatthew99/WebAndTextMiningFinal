@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are<br/><br/></strong>Cisco IT - Hire to Retire (H2R) team is a strategic Business Process and Operational pillar that accelerates Cisco’s success by delivering an excellent employee experience through HR Technical solutions, Data Integrations, and reporting across Hiring, Onboarding, Workforce Planning, Compensation, Payroll, Benefits, Inclusion &amp; Diversity and HR Service delivery functions.<br/><br/>We are looking for a dynamic Full Stack Software Engineer with a strong focus on developing API's, Application UI/UX, middleware and backend and demonstrated ability to be part of Agile team structure to deliver technical solutions in Workforce Planning, Hiring and Transitions Function.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Architect, design, test and deliver system software to satisfy product requirements. </li><ul><li>Work with various multi-functional groups such as business, other development teams, QA, and documentation</li><li>Lead technical discussions and provide innovative solutions and designs</li><li>Be an active member for agile team and participate in agile rituals. </li><li>Follow engineering standard processes with code reviews, CI/CD pipeline based deployments, documentation, and test-driven development. </li></ul></ul> <strong>Who You Are<br/><br/></strong>We're seeking a dedicated, guide, and self-motivated professional who has a real passion for team culture and technology. You enjoy understanding business problems, and driving technical solutions that are crafted with the employee experience in mind. Engineering is central to your purpose. You eat, sleep, and love coding. You take pride in coding practices that support CI/CD development and DecSecOps. You want to have fun at work and enjoy working with your teammates!<br/><br/><ul><li>Strong background in software design and architecture and complete agile development lifecycle. </li><li>Hands-on development experience with multiple languages, especially, Java, Spring boot, Angular/React JS, Thymeleaf, GoLang and databases Oracle and Postgres</li><li>Experience with OpenStack, Openshift, Opensource libraries, and monitoring tools in Cloud native development<br/><br/></li></ul><strong>Minimum Qualifications:<br/><br/></strong><ul><li>Minimum of 8+ Years of experience in Full Stack software development</li><ul><li>Bachelor's degree in computer science (or related field) or equivalent</li><li>6+ years of experience in software design, and application development</li><li>4+ years of experience developing applications based on Microservice architecture and API development</li><li>Experience developing in a CI/CD, DevOps model with full knowledge of Jenkins, GIT, is required</li></ul></ul> <strong>Preferred Qualifications:<br/><br/></strong><ul><li>Experience in AI and ML technologies </li><ul><li>Experience in HR Domain/Technology <br/><br/></li></ul></ul><strong><strong>Why Cisco<br/><br/></strong></strong><strong>#WeAreCisco</strong>, where each person is unique, but we bring our talents to work as a team and make a difference powering an expansive future for all. We adopt digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (36 years strong) and only about hardware, but we’re also a software company. And a security company. We even invented an intuitive network that adapts, predicts, learns, and protects. No other company can do what we do – you can’t put us in a box!<br/><br/><strong>But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)<br/><br/></strong><strong>Day to day, we focus on the give and take. We give our best, give our egos a break, and give of ourselves (because giving back is built into our DNA.) We take accountability, bold steps, and take difference to heart. Because without diversity of thought and a dedication to equality for all, there is no moving forward. So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us!</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computer Networking Products
+          </span>
+</li>
+</ul>
+</div>
+</section>

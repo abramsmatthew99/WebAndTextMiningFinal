@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Senior Product Manager<br/><br/></strong><strong>Need Product Manager with AEM Experience.<br/><br/></strong>This person will be responsible for working with clients and internal development teams on projects ranging from UX/UI design to AEM implementation. The Product Owner is a key player, translating the needs of the client into documentation actionable by design and development teams.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Work with business partners and clients to align technology solutions with business strategies.</li><li>Write user stories for website data layer deployment, website rollout plan, and analytics reports.</li><li>Story writing for solutions in AEM Cloud sites, assets, AEP, Adobe Analytics, and Adobe Target</li><li>Lead the assessment of client needs utilizing a structured requirements process (gathering, analyzing, and documenting changes) to prioritize immediate business needs.</li><li>Lead the development and communication of business requirements and functional specifications for the design and implementation of business solutions.</li><li>Provide recommendations for business process redesign and documentation as needed for new technology.</li><li>Articulate and confirm understanding of business requirements to IT.</li><li>Plan and facilitate requirements workshops.</li><li>Develop use cases, user stories, and other artifacts.</li><li>Ensure requirements meet client needs while remaining within the defined project scope.</li><li>Develop test cases for User Acceptance Testing</li><li>Maintain documentation on system functionality.</li><li>Develop requirements that meet web accessibility guidelines WCAG (AA) or section 508 federal requirements.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Experience in website implementation and should have background with data platform.</li><li>Experience utilizing Adobe Experience Manager (AEM)</li><li>Bachelor’s degree in Computer Science, Information Systems, Business, or other related field</li><li>3+ years of technical and business analysis experience</li><li>Understanding of best practices in web design and UX/UI with an emphasis on ADA</li><li>High level of business acumen coupled with technical knowledge.</li><li>Demonstrated success in a fast-paced, team-oriented environment.</li><li>In-depth knowledge of business operations and systems requirements processes</li><li>Ability to foster relationships across different business units as well as with clients.</li><li>Proven ability to successfully manage complex project deliverables.</li><li>Experience with translating business requirements into workable</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Product Management and Marketing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

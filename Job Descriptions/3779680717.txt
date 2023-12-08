@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>In North America, our core expertise is related to commercial &amp; military systems in Aeronautics, Aerospace and Transportation:<br/><br/><ul><li>Software engineering: real-time embedded &amp; safety-critical control software design, development, testing</li><li>System engineering: control Systems Engineering including requirements, architecture and testing</li><li>Placement services<br/><br/></li></ul>Our client is a major Tier-1 supplier who designs, engineers, manufactures, repairs and overhauls a broad portfolio of aviation and industrial components, accessories, subassemblies, actuators and motor controls. They partner with original equipment manufacturers (OEMs) and operators of commercial, regional, business and military aircraft worldwide, to provide products and services that solve their hardest problems. So whatever the part, component or complexity of assembly, our client is committed to quality, service and meeting the specialized needs of each customer.<br/><br/><strong>Job Description<br/><br/></strong>CS is looking for several Junior / Mid-Level / Senior Embedded Software Engineers. His/her role will be to test embedded safety-critical software applications embedded on Aerospace or Defense Systems. The role may evolve to a leadership or software development role.<br/><br/>The role is hybrid<br/><br/>Responsibilities:<br/><br/>Reporting directly to both the client and our chief engineer, his/her tasks (but not limited to) will be to:<br/><br/><ul><li> Retro-engineer Design from Code</li><li> Carry out the software testing (unit or integration) on complex software functions.</li><li> Develop and run the relevant tests on the test platforms to verify correctness of design.</li><li> Debug issues (raised during the software development cycle) in the application software.</li><li> Ensure traceability between all the software design and tests artefacts.</li><li> Conduct independent peer reviews on design, code or tests produced by other team members.</li><li> Draft all the final technical documents.</li><li> Provide a clear status and workload to his/her direct supervisors.</li><li> Participate to continuous improvement of the team performance (quality, efficiency, on-time delivery).<br/><br/></li></ul><strong>Qualifications<br/><br/></strong>Necessary Qualification:<br/><br/><ul><li> Minimum 1 year experience in language ADA or C or C++.</li><li> Associate Degree in Engineer, Computer science or related</li><li> Interest in troubleshoot complex software problems.</li><li> Good communication, interpersonal skills, team-player.</li><li> Curiosity, autonomy, pro-activity and ability to find solutions and compromises.</li><li> US Citizenship mandatory.<br/><br/></li></ul>Assets:<br/><br/><ul><li> Minimum 1 year experience in testing tools such as LDRA or VectorCAST or equivalent.</li><li> Experience in GreenHills Tools is a plus.</li><li> S. degree in Electrical or Computing Science or equivalent.</li><li> Basics in DO-178B or C or equivalent standard</li><li> Basics in communication protocols CAN, ARINC, RS-422, Ethernet.</li><li> Software Knowledge: Microsoft Office, DOORS, SVN.<br/><br/></li></ul>Please note that only the selected candidates will be contacted<br/><br/><strong>Benefits<br/><br/></strong><strong>Additional Information<br/><br/></strong><ul><li>All members included in annual cash bonus opportunity</li><li>2% annual retirement benefit opportunity</li><li>Training/Professional Development opportunities for all members</li><li>6 paid holidays</li><li>Industry leading medical, dental, and vision Insurance</li><li>Vacation / Sick Time / Bereavement leave</li><li>Employee Assistance Program, including mental health benefits</li><li>Spouse / Child Optional Life </li><li>Whole Life Insurance / Critical Illness Insurance / Legal Assistance / Military Leave<br/><br/></li></ul>All your information will be kept confidential according to EEO guidelines.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

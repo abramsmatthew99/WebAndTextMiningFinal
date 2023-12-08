@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Wiliot was founded by the team that invented one of the technologies at the heart of 5G. Their next vision was to develop an IoT sticker, a computing element that can power itself by harvesting radio frequency energy, bringing connectivity and intelligence to everyday products and packaging, things previously disconnect from the IoT. This revolutionary mixture of cloud and semiconductor technology is being used by some of the world’s largest consumer, retail, food and pharmaceutical companies to change the way we make, distribute, sell, use and recycle products.<br/><br/>Our investors include Softbank, Amazon, Alibaba, Verizon, NTT DoCoMo, Qualcomm and PepsiCo.<br/><br/>We are looking for a data scientist with proven hands-on skills to join the team and build high-performing, scalable applications that turn time-series telemetry into data products. You will collaborate with great people from multiple disciplines to create innovative digital products and integrate them within the Sensing-as-a-Service cloud platform.<br/><br/>Responsibilities:<br/><br/><ul><li>Rapidly experiment and build models to clean signals and provide valuable insights to our customers. </li><li>Design algorithms and SW solutions, considering large scale, high availability, security, robustness, performance, and cloud aspects.</li><li>Work hands-on with the data using SQL, PySpark, and other tools to extract, analyze, and visualize data.</li><li>Understand and oversee all phases of the development life cycle, such as Automation, CI\CD, TDD, Integrations, Builds, and Deployment.</li><li>Work with cross-functional stakeholders such as product management, marketing, and SW engineering.</li><li>Make strategic recommendations on data collection, integration, and retention requirements incorporating business best practices.<br/><br/></li></ul>Requirements:<br/><br/><ul><li>BSc in Computer Science or Electrical Engineering or equivalent. Higher degree is an advantage.</li><li>At least 3 years of development experience – Python, Scala is an advantage</li><li>Experience with cloud data environments and big data ETL procedures, cloud architecture (AWS/GCP/Azure)</li><li>Experience with AI/ML/DL methods</li><li>Familiarity with some ML/data-processing frameworks and libraries (TensorFlow, Keras, PyTorch, MXNet, Spark, Scikit-learn, Pandas)</li><li>High self-learning and independent working abilities</li><li>Strong spoken and written English</li><li>Strong interpersonal and communication skills<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

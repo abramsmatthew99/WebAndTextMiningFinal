@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong><strong>Press Ganey</strong>, the leading Human Experience (HX) healthcare performance improvement company, offers an integrated suite of solutions that address safety, clinical excellence, patient experience and workforce engagement. The company works with more than 41,000 healthcare facilities in its mission to reduce patient suffering and enhance caregiver resilience to improve the overall safety, quality, and experience of care. Press Ganey is a PG Forsta company.<br/><br/><strong>Job Description<br/><br/></strong>The Application Support Analyst is a client facing position. The Analyst operates as a member of a team to implement, configure, and maintain client data ingress, surveying and reporting throughout the lifecycle of the client’s partnership with Press Ganey. With expertise in PG software applications and business procedures, they are responsible for gathering client specific requirements, technical analysis, and product configuration. JavaScript, HTML, Python, PHP, CSS experience is preferred.<br/><br/>The Application Support Analyst should feel confident and comfortable explaining complex topics and conceptualizing how various solutions work in a variety of use cases. The right candidate for this role will have an analytical approach and be able to match solutions for unique client business needs. This role requires a client centric focus to deliver prompt issue resolution, meet implementation timelines, target dates and internal service level agreements.<br/><br/><ul><li> Duties and Responsibilities</li><li>Work within the Application Support team to address client data, surveying, and reporting requests</li><li>Facilitate the integration of business owner needs, and translate operational needs and workflow into system specifications and configuration requirements</li><li>Capture client requirements and preform data analysis</li><li>Offer clients best practice workflow design and associated application configurations</li><li>Use software tools to configure, test and validate all patient experience products</li><li>Responsible for client support throughout the implementation or on-going support cycle</li><li>Prioritize workload and manage timelines to meet client target dates for projects and implementations</li><li>Serve as first level support to triage, troubleshoot and find the right expert to quickly resolve client requests</li><li>Troubleshoot and resolve any issues while appropriately escalating to next level support or manager as needed<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>1-2 years of relevant experience in information technology, health care, client facing project management or operations role</li><li>Experience working at or working with health systems</li><li>JavaScript, HTML, Python, PHP, CSS experience is preferred</li><li> Excellent written and verbal communication skills are required</li><li>Working knowledge of technical concepts (such as databases, data imports, and APIs)</li><li>Experience working as a junior IT specialist</li><li>Excellent analytical, organization and problem-solving skills</li><li>Strong attention to detail</li><li>The ability to remain up-to-date with the latest software developments</li><li>Proficiency with Microsoft Office (Excel, Word, Outlook, etc.)</li><li>Ability to handle stressful situations<br/><br/></li></ul><strong>Education<br/><br/></strong>Bachelor's degree in economics, computer science, or a related field (preferred)<br/><br/><strong>Additional Information<br/><br/></strong>All positions at Press Ganey require an applicant who has accepted an offer to undergo a background check. The specific checks are based on the nature of the position. Background checks may include some or all of the following: SSN/SIN validation, education verification, employment verification, and criminal check, search against global sanctions and government watch lists, fingerprint verification, credit check, and/or drug test. By applying for a position with Press Ganey, you understand that you will be required to undergo a background check should you be made an offer. You also understand that the offer is contingent upon successful completion of the background check and results consistent with Press Ganey's employment policies. You will be notified during the hiring process which checks are required for the position.<br/><br/>Press Ganey Associates LLC is an Equal Employment Opportunity/Affirmative Action employer and well committed to a diverse workforce. We do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, veteran status, and basis of disability or any other federal, state or local protected class.<br/><br/>Pay Transparency Non-Discrimination Notice – Press Ganey will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.<br/><br/>The expected base salary for this position ranges from $51,000 to $75,000. It is not typical for offers to be made at or near the top of the range. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, licensure or certifications obtained. Market and organizational factors are also considered. In addition to base salary and a competitive benefits package, successful candidates are eligible to receive a discretionary bonus or commission tied to achieved results.<br/><br/>All your information will be kept confidential according to EEO guidelines.<br/><br/>Our privacy policy can be found here: https://www.pressganey.com/legal-privacy/
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

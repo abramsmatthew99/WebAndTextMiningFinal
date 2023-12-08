@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><span>Technology Intern - Minneapolis, MN</span></strong><span> </span></p><p><strong><span>Summer 2024</span></strong><span> </span></p><p><span>SPS Commerce is hiring engineering interns for our summer internship program. These interns will work as part of our larger technology team of over 400 people around the globe. </span><span>Our engineering teams collaboratively develop and advance the world's largest retail network using modern cloud-based solutions. SPS Commerce supports the latest demands of retail supply chains by providing reliable, secure, and performant software-as-a-service (SaaS) capabilities that our customers need to optimize their business. Engineering is known for creative problem-solving, an innovative, collaborative, and continuous learning culture, and being customer focused. </span></p><p><span> </span></p><p><span>Our interns will work in our Engineering organizations. </span></p><ul><li><strong><span>Platform Engineering </span></strong><span>engineers and operates SPS’s common/shared platform services, APIs, and data with service teams dedicated to Data Acquisition, Core Data Services, Data Processing, and Developer Experience. Data Acquisition is responsible for sending and receiving customer data across a variety of channels. Core Data and Reporting Services are responsible for storing, relating, and reporting on customer documents and data. Data Processing is responsible for systems that handle data transformation and enrichment for all document flows within the SPS network, routing of customer data, and also for orchestration of document processing tasks across multiple Platform Engineering services. Developer Experience is responsible for the runtime platform that supports all SPS services, including externalizing market-facing APIs through our DevCenter developer portal. </span></li><li><strong><span>Product Engineering </span></strong><span>engineers create and operate SPS’s customer-facing products, applications, services, APIs, and data with service teams dedicated to our Customer Experience for Retailers and Suppliers. The service teams span areas that focus on our market-facing products and operate our common application portal Commerce Platform, our replenishment order cycle product Fulfillment, our application into our customers’ data visibility Fulfillment Monitor, and many more. These products collaboratively enable our customers to focus on growing their business by leveraging SPS’s best-in-class applications to manage their item, order, analytics, and EDI business needs. </span></li><li><strong><span>Corporate Systems </span></strong><span>engineers create and maintain software integrations between some of the most foundational tools that SPS uses for business facing needs.  The team focuses heavily on tools that enable the finance teams to make sure SPS’s financials are well controlled and accounted for, but the focus on enabling internal customers includes almost all aspects of SPS including product teams and security to name a few.  The services the team provides are critical to the smooth operation of the company. </span></li></ul><p><span>SPS internships are paid, where you are an active contributing member of an engineering team. You will use the same technologies our engineers use and work side-by-side with them on our production systems running at a massive scale in the cloud. We also believe in growing our interns both professionally and personally. You can expect many learning sessions about how to build your professional network, creating an attractive resume, and job searching in today's market, as well as improving your technical knowledge. Our intern program is designed for you to continue your learning and gain usable experience. As a result, no one will ask you to get coffee, make copies, or run errands. Instead, you will be expected to ask questions and help us create production-quality code. </span></p><p><strong><span> </span></strong><span> </span></p><p><strong><span>Position Responsibilities:</span></strong><span> </span></p><ul><li><span>Participate in your team’s agile ceremonies, including daily standups and planning sessions.</span></li><li><span>Develop, test, deploy, and operate your code to production using modern technologies and practices.</span></li><li><span>Share your excitement and ideas about new technology.</span></li><li><span>Bring your whole self to work and be who you are.</span></li></ul><p><span> <strong>Required Experience and Skills:</strong> </span></p><ul><li><span>Sophomore, Junior, or Senior pursuing a Computer Science degree or equivalent.</span></li><li><span>Coursework or experience in Java, Python, Javascript, React and databases preferred</span></li></ul><p><strong><span>What You’ll Learn:</span></strong><span> </span></p><ul><li><span>Retail Business Networks</span></li><li><span>Software-as-a-service</span></li><li><span>Modern development environment using MacBook Pro</span></li><li><span>Intellij IDE</span></li><li><span>Test-Driven Development (TDD)</span></li><li><span>Amazon Web Services (AWS) - We use many of their services</span></li><li><span>Modern software engineering patterns &amp; practices</span></li><li><span>Continuous integration and continuous delivery</span></li><li><span>Working in a team supporting production systems at a massive scale</span></li></ul><p><span> </span></p><p><span> </span></p><p><span>**EOE including disability/ veteran**</span></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

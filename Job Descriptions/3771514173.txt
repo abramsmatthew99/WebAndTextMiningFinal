@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Under the support and guidance of Firebrand Group’s Director of Engineering, the Junior SQL Database Administrator is responsible for helping oversee the maintenance and security of all company databases. This includes assisting in the performance of data maintenance, backup planning, recovery of table spaces and indexes, high availability and business continuity testing, statistics gathering, etc. Specific duties in addition to those listed below include monitoring and updating systems to combat potential security breaches, creating account data for authorized individuals to access databases and organizing databases so colleagues can find important documents in an efficient manner. Firebrand Group is a 100% remote global company with just over 100 employees.<br/><br/><strong>Unsure if you meet all the qualifications below but are deeply excited about the opportunity?</strong> We still encourage you to apply! At Firebrand Group, we’re committed to creating an inclusive environment where all voices are heard, valued, and respected. We work together, learn together, and grow together.<br/><br/>In this role, you will have the opportunity to:<br/><br/><ul><li>Under the direction of the Director of Engineering, implement security measures and monitor database performance</li><li>Maintain a comprehensive backup strategy</li><li>Perform regular maintenance</li><li>Help plan for scalability and high availability</li><li>Document database architecture and operations</li><li>Help ensure disaster recovery preparedness; perform regular audits and assessments</li><li>Stay current with technology and best practices</li><li>Use database management and monitoring tools</li><li>Optimize hardware and software configuration</li><li>Over time, assist developers/engineers in database and application tuning for optimal performance (SQL tuning)</li><li>Over time, work closely with technology teams across the company as needed</li><li>Over time, work with technology teams across the company to automate database infrastructure for continuous integration/development<br/><br/></li></ul>To be successful in this role, we ask that you have:<br/><br/><ul><li>Minimum 5 years general developer/engineer experience, some DBA experience a plus</li><li>General knowledge of database design and construct</li><li>Proficient with SQL and writing stored procedures</li><li>Experience maintaining data interfaces with various 3rd party applications</li><li>Database management systems: SQL Server, PostgreSQL, MySQL</li><li>AWS RDS or Aurora experience helpful</li><li>Other RDBMS experience helpful</li><li>Development DBA/Modeler with additional skills in Linux, Windows, Powershell, Autosys, Cyberfusion, Jenkins, Bitbucket</li><li>Strong analytical and problem-solving skills, with the ability to resolve problems and make decisions independently</li><li>Strong written and verbal communication skills, with the ability to motivate and inspire cross-functional teams</li><li>An attention to detail and ability to deliver commitments on deadline</li><li>Bachelor’s degree in Computer Science, Engineering, or a related field<br/><br/></li></ul>We’re offering the right candidate:<br/><br/><ul><li>Competitive salary</li><li>Bonus potential</li><li>Ability to work from anywhere (Eastern Time Zone hours preferred)</li><li>Generous PTO</li><li>13 paid holidays</li><li>401(k)</li><li>Medical, dental, and vision insurance</li><li>Flexible spending account</li><li>Company-paid life insurance<br/><br/></li></ul>This position is remote from anywhere in the continental United States with occasional travel required. No visa sponsorship is available.<br/><br/><strong>Company Description<br/><br/></strong>We are an active partner in the book publishing business, providing steadfast leadership and seamless information flow throughout the entire publishing process. It is what we love and what we do—every day, for more than 30 years.<br/><br/>We are an active partner in the book publishing business, providing steadfast leadership and seamless information flow throughout the entire publishing process. It is what we love and what we do—every day, for more than 30 years.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

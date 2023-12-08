@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.<br/><br/>The Anduril Imaging team develops state-of-the-art imaging systems, deployed to tackle the most significant security challenges of America and its allies. We are seeking a Frontend Software Engineer to architect our next level of integration of into Lattice OS; Anduril’s AI-powered operating system. You will be responsible for designing command, control, and visualization interfaces for the Anduril Imaging suite of infrared sensors.<br/><br/><strong>WHAT YOU'LL DO:<br/><br/></strong><ul><li>Design, build, and deploy a real-time interface for displaying and interacting with a 360 degree panoramic-based infrared imaging system, as well as controlling the cameras configuration and health monitoring</li><li>Fetch and manage large streams of data while maintaining performant rendering in a low-friction user experience</li><li>Collaborate closely with backend developers to integrate frontend components with server-side logic</li><li>Work on challenging problems in a fast-paced environment<br/><br/></li></ul><strong> REQUIRED QUALIFICATIONS:<br/><br/></strong><ul><li>Bachelor of Science degree in Computer Science, Computer Engineering or related field, or equivalent work experience</li><li>Experience working on frontend applications, especially data-intensive or map-based systems</li><li>Strong analytical, critical thinking, and problem-solving skills</li><li>An ability to communicate and document work clearly and concisely</li><li>Team-player, self-motivated, driven, organized</li><li>Strong background in React and Javascript</li><li>Experience with Git</li><li>Must be eligible to obtain and maintain a U.S. TS clearance<br/><br/></li></ul><strong>PREFERRED QUALIFICATIONS:<br/><br/></strong><ul><li>A familiarity with Python can be leveraged for other work on the team</li><li>Understanding of Linux would accelerate performance on the team</li><li>Familiarity with development in offline environments</li><li>An understanding of layer 4 (TCP/UDP IP) networking</li><li>Ability to travel up to 10% <br/><br/></li></ul>$132,000 - $198,000 a year<br/><br/><strong>For Full Time Employment Opportunities:</strong> The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in all offers and are considered part of Anduril’s total compensation package. Additionally, Anduril offers top-tier benefits, including comprehensive medical, dental, and vision plans, employee life and disability, mental health and family planning benefits with all premiums paid by Anduril. Anduril provides fully paid medical leave, paid company holidays, and paid time off. A professional development stipend is available to all Andurilians and all on-site meals are fully subsidized during the work week through use of our gourmet kitchens. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.<br/><br/>Anduril is an equal-opportunity employer committed to creating a diverse and inclusive workplace. The Anduril team is made up of incredibly talented and unique individuals, who together are disrupting industry norms by creating new paths towards the future of defense technology. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law, including those with a criminal history, in a manner consistent with the requirements of applicable state and local laws, including the CA Fair Chance Initiative for Hiring Ordinance. We actively encourage members of recognized minorities, women, Veterans, and those with disabilities to apply, and we work to create a welcoming and supportive environment for all applicants throughout the interview process. If you are someone passionate about working on problems that have a real-world impact, we’d love to hear from you!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

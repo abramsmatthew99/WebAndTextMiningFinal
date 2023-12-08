@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>WebMethod </strong>provides complete solutions to support any size organization’s identity and access governance needs. Our team of IAM consultants help transform an organization’s identity and compliance requirements into a modern security program –both on-premise and in the cloud.<br/><br/>We are seeking an experienced and results-driven <strong>Process Automation Engineer</strong> will be a key member of the technology team, focused on designing, developing, and implementing automation solutions to enhance operational efficiency and productivity. The role involves collaborating with cross-functional teams to identify opportunities for automation, analyzing business processes, and creating scalable automation workflows.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><strong>Process Analysis:<br/><br/></strong><ul><li>Collaborate with business analysts and stakeholders to understand and document existing business processes</li><li>Identify areas for automation by evaluating the feasibility and potential benefits of implementing automation solutions<br/><br/></li></ul><strong>Design and Development:<br/><br/></strong><ul><li>Design and develop automation solutions using industry-standard tools and frameworks</li><li>Create and maintain detailed technical documentation for automation processes</li><li>Collaborate with software developers and IT teams to integrate automation solutions with existing systems<br/><br/></li></ul><strong>Testing and Quality Assurance:<br/><br/></strong><ul><li>Conduct thorough testing of automation workflows to ensure accuracy, reliability, and performance</li><li>Debug and troubleshoot issues, making necessary adjustments to improve the efficiency of automation processes<br/><br/></li></ul><strong>Implementation and Deployment:<br/><br/></strong><ul><li>Coordinate the deployment of automation solutions into the production environment</li><li>Provide support during the implementation phase and address any issues that may arise<br/><br/></li></ul><strong>Continuous Improvement:<br/><br/></strong><ul><li>Monitor and evaluate the effectiveness of implemented automation solutions</li><li>Identify opportunities for continuous improvement and optimization of existing processes<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field</li><li>Proven experience in process automation development</li><li>Proficiency in programming languages commonly used in automation (e.g., Python, Java, C#)</li><li>Familiarity with automation tools such as UiPath, Blue Prism, Automation Anywhere, or similar</li><li>Strong analytical and problem-solving skills</li><li>Excellent communication and collaboration abilities<br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Certification in process automation tools</li><li>Experience with robotic process automation (RPA) and business process automation (BPA)</li><li>Knowledge of workflow design and modeling</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

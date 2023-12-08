@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Rapsodo Inc. is a sports analytics company that uses computer vision and machine learning to help all athletes maximize their performance. Our proprietary technology applications range from helping PGA Tour golfers optimize their launch conditions to allowing MLB pitchers to increase the efficiency of their breaking balls. Current partners include all 30 MLB teams, MLB players, USA Baseball, Golf Digest, PGA of America, and over 1,000 NCAA athletic departments.<br/><br/>As Rapsodo continues to grow and expand our business internationally, we are looking for a hands-on and driven Analytics Intern with a passion for collaborating and making a difference. The successful incumbent will have the unique opportunity to work in a fast-paced, established, sports technology company.<br/><br/><strong>Requirements<br/><br/></strong><ul><li>Monitor various data rates across all Rapsodo practice products (independently and aggregate). </li><li>Build dashboards on Kibana to show status to business and other units </li><li>Review data failures to determine potential causes and communicate findings with computer vision engineers to help them fix the problems </li><li>For the recorded data, build data mining framework to find outliers and bad data by using strategies founded in statistics, mathematics, and physics </li><li>Participate in testing new packages to understand if previously found problems have been solved or if there are further improvements needed </li><li>Analyze large data sets to produce various marketing and sales materials as well as further enhance the customer experience with Rapsodo products<br/><br/></li></ul><strong>Experience &amp; Qualifications<br/><br/></strong><ul><li>Currently pursuing or recently completed a Bachelor's or Master's degree in Data Science, Computer Science, Mathematics, Statistics, Physics, Engineering, etc. </li><li>Proficiency in programming languages such as Python, R, or SQL </li><li>Experience in data manipulation, cleaning, and preprocessing techniques </li><li>Knowledge in statistical analysis, hypothesis testing, and experiment design </li><li>Familiarity with a broad range of machine learning algorithms, techniques, and libraries </li><li>Experience in creating compelling data visualizations </li><li>Strong problem-solving skills with the ability to manage large data sets </li><li>Excellent written and verbal communication skills </li><li>Strong interpersonal skills to collaborate effectively with cross-functional teams and stakeholders with diverse backgrounds and nationalities </li><li>An inquisitive mindset, coupled with a desire for continuous learning and growth </li><li>Strong knowledge/experience with baseball and associated data points</li><li>Located in the Greater St. Louis area</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        About Wipro: Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs.<br/><br/>We leverage our holistic portfolio of capabilities in consulting, design, engineering, operations, and emerging technologies to help clients realize their boldest ambitions and build future-ready, sustainable businesses.<br/><br/>A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 250,000 dedicated employees serving clients across 66 countries.<br/><br/>We deliver on the promise of helping our customers, colleagues, and communities thrive in an ever-changing world.<br/><br/><ul><li>A PROUD HISTORY OF OVER 75 YEARS</li><li>FY22 REVENUE 10.4 BN USD</li><li>WE’RE PRESENT IN 66 COUNTRIES</li><li>OVER 1,400 ACTIVE GLOBAL CLIENTS<br/><br/></li></ul><strong>Position: MERN Developer <br/><br/></strong>Location: Santa Clara CA (Onsite)<br/><br/><strong>Direct Hire/ Fulltime<br/><br/></strong>Detailed JD:<br/><br/><ul><li>7+ years of professional full stack software development experience</li><li>Strong back-end experience with NodeJS or Java or a similar OO language</li><li>Strong front-end experience developing responsive user interfaces using modern Javascript frameworks such as ReactJS, VueJS, AngularJS</li><li>Passion for JavaScript and the Web as a platform, reusability, and componentization</li><li>Experience with relational databases (PostgreSQL, MySQL)</li><li>Deep knowledge of AJAX, JSON, HTML, XML, BootStrap, CSS, REST, GraphQL and associated frameworks</li><li>Experience with data structures, algorithms, object-oriented design, design patterns, and performance/scale considerations</li><li>Experience with open source technologies like Linux, Apache/Tomcat and MySQL is a plus</li><li>Strong analytical and design skills</li><li>ServiceNow Certified Application Developer certification is a plus.</li><li>Good communication and strong interpersonal skills with the ability to work effectively in a cross functional team.</li><li>Bachelor’s degree in computer science or engineering.<br/><br/></li></ul><strong>Job Description<br/><br/></strong>What you get to do in this role:<br/><br/><ul><li>Build high-quality, clean, scalable, and reusable code by enforcing best practices around software engineering architecture and processes (Code Reviews, Unit testing, etc.)</li><li>Work with the product owners to understand detailed requirements and own your code from design, implementation, test automation and delivery of high-quality product to our users.</li><li>Contribute to the design and implementation of new products and features while also enhancing the existing product suite.</li><li>Designing and implement responsive web and mobile software application into the ServiceNow Platform.</li><li>Develop applications using web application tools such as JSON, SQL, AJAX HTML, XML and CSS.</li><li>Advanced scripting of business rules, UI Policies, Client Scripts, ACLs, Workflow Activities, etc.</li><li>Facilitate and support the rollout of new application and enhancements in ServiceNow.</li><li>Develop web service in JavaScript for API.</li><li>Develop new features within client instances using XML, workflow, and other related technology and tools.</li><li>Design and develop Portal and Mobile applications on ServiceNow Platform</li><ul><li>Having ServiceNow Development experience is great value addition; if not, candidates will have to self learn ServiceNow (Service Portal or Seismic Framework) Platform Development and integrations work.</li></ul><li>Self-starter, with a demonstrated ability to learn beyond training.<br/></li></ul>Wipro is an Equal Employment Opportunity employer and makes all employment and employment-related decisions without regard to a person's race, sex, national origin, ancestry, disability, sexual orientation, or any other status protected by applicable law.<br/><br/>Fullstack MERN<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

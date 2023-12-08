@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:<br/><br/></strong>Machine Learning Operations<br/><br/>KBR has a rapidly expanding software presence in Kihei, HI that supports several on-going and anticipated new to be awarded Department of Defense programs.  We are looking for Engineers to support its on-going High-Performance Computing (HPC) and Deep Machine Learning / Deep Learning (ML/DL) software development activities, including Air Force Maui Optical and Supercomputing (AMOS) observatory Space Domain Awareness (SDA) programs.<br/><br/>Machine Learning Engineer candidates must be hands-on deep learning experts having the ability to architect and train deep learning models to drive creative solutions across a myriad of sensor data sources. Working across multiple groups and locations are keys to success in this position as is a passion for deep learning technology and a commitment to excellence.  The successful candidate will perform novel-concept machine learning research using HPC and specialized hardware, and support design and implementation solutions of broad requirements using Cloud, HPCand edge-devices with deep learning hardware and software solutions. <br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Work and communicate with subject matter experts and other developer teams.</li><li>Proactively identify and resolve challenging issues in a variety of software applications. </li><li>Assist with system configuration, deployments, and control processes. </li><li>Lead other software developers and teams across a multidisciplinary set of software development efforts.</li><li>Experience as senior machine/deep learning engineer/architect in leadership role.<br/><br/></li></ul><strong>Minimum Qualifications:<br/><br/></strong><ul><li>A Bachelor’s Degree and 2-5 years of experience in scientific fields including Computer Science, Electrical Engineering, Computer Engineering, and/or Mathematics with a deep learning background required.</li><li>Must be a US citizen.</li><li>Solid oral presentation and writing skills.</li><li>Ability to work in a collaborative team environment.</li><li>Knowledge of cyber vulnerabilities, exploits, and threats</li><li>Software architecture and development/programming experience</li><li>Experience with deep learning frameworks preferably including TensorFlow and Keras.<br/><br/></li></ul><strong>Security Requirements: </strong> Must meet eligibility requirements for a government security clearance.<br/><br/><strong>Additional Compensation:<br/><br/></strong>KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short term incentives, long term incentives, or discretionary payments for exceptional performance.<br/><br/><strong>Benefits:<br/><br/></strong>KBR offers a selection of competitive lifestyle benefits which could include a 401K plan with company match, medical, dental, vision, life insurance, AD&amp;D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development. <br/><br/>KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Civil Engineering, and Oil and Gas
+          </span>
+</li>
+</ul>
+</div>
+</section>

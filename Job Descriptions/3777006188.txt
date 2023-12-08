@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Lawrence Harvey</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Jack Lyons" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQGv7w9NKidQeA/profile-displayphoto-shrink_100_100/0/1650484268808?e=2147483647&amp;v=beta&amp;t=UCbICctn10QmASg8kHYsDjT1XM60miaTcXF6sYNUdL0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Jack Lyons
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Robotics and Autonomy Headhunter at Lawrence Harvey
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Jack Lyons" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjack-lyons-a15b0515b&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Lawrence Harvey have partnered with a company who specialize in robotics solutions for warehouse automation. We are seeking a Senior Robotics Software Engineer who has good experience with rust. </p><p><br/></p><p>In this role, you will play a key part in enhancing our robot control stack, collaborating closely with cutting-edge perception and adaptive decision-making algorithms. Our AI software empowers industrial robots with the autonomy required for a diverse range of tasks, seamlessly integrating with our clients' intricate software environments.</p><p><br/></p><p>You will take the lead in motion planning and robot control initiatives. Your responsibilities include optimizing our software architecture and code to ensure optimal performance for algorithms and systems. Collaboration is essential, as you'll work with various engineering teams, spanning Mechatronics, Machine Learning, and Infrastructure.</p><p><br/></p><p>Responsibilities:</p><ul><li>Lead the development of path planning and/or robot control systems for industrial robotic manipulators.</li><li>Architect, design, and implement software interfaces with industrial robots for optimal real-time performance.</li><li>Lead discussions on software design and conduct code reviews.</li><li>Collaborate with robotics and software engineers to design, implement, and test robotic algorithms, covering hardware integrations, kinematics, dynamics, and trajectory planning.</li><li>Develop robust, production-ready code for imminent deployment.</li><li>Innovate advanced controllers and control algorithms for robotic arms to enhance system performance, robustness, and versatility.</li></ul><p><br/></p><p>Requirements:</p><ul><li>Bachelor's degree in Computer Science, Robotics, or a related field.</li><li>5+ years of experience in one or more robot control/motion planning areas, such as path planning, trajectory optimization, inverse kinematics, or robotic software integration.</li><li>Proficiency in Rust, C++, and Python development, including API design and architecture.</li><li>Proven track record of designing, building, and maintaining complex, real-time, multi-process software systems.</li><li>In-depth knowledge of robotic system design, integration, debugging, verification, and testing, especially for industrial robotic manipulators.</li><li>Experience in interfacing with low-level robotic hardware controllers.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Supply Chain
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage, Software Development, and Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

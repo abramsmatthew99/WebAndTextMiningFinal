@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Join an innovative team at a leading company in the engineering and manufacturing industry, where we are committed to leveraging data for continuous improvement and operational excellence. This hybrid position allows you to enjoy the flexibility of remote work on Mondays and Fridays.<br/><br/><strong>Why Join Us<br/><br/></strong>At our company, we prioritize your well-being and professional growth. We offer a comprehensive benefits package, including excellent health benefits, a 6% 401(k) match, generous paid vacation and sick time, 12 paid holidays, and more.<br/><br/><strong>Role Overview<br/><br/></strong>As a Data Engineer, you will play a pivotal role in transforming raw data into actionable insights, driving improvements in engineering and manufacturing processes, enhancing product quality, and optimizing operational efficiency. Collaborate with dynamic cross-functional teams to extract, analyze, and visualize data, influencing strategic decisions through your valuable insights.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Data Collection and Integration:<br/><br/>Gather, clean, and integrate data from diverse sources, including production databases, sensor data, and external datasets.<br/><br/><strong>Data Analysis<br/><br/></strong>Conduct exploratory data analysis to identify patterns, trends, and anomalies.<br/><br/>Perform statistical analysis and hypothesis testing to derive meaningful insights.<br/><br/><strong>Data Visualization<br/><br/></strong>Create informative and visually appealing dashboards and reports using tools like Tableau, Power BI, or Python libraries.<br/><br/><strong>Predictive Modeling<br/><br/></strong>Develop predictive models to forecast manufacturing performance, quality, and operational outcomes.<br/><br/><strong>Root Cause Analysis<br/><br/></strong>Investigate production issues and quality concerns by analyzing data to identify root causes and recommend corrective actions.<br/><br/><strong>Performance Monitoring<br/><br/></strong>Establish and maintain key performance indicators (KPIs) to track manufacturing and engineering metrics.<br/><br/>Generate regular reports to communicate performance trends to stakeholders.<br/><br/><strong>Cross-functional Collaboration<br/><br/></strong>Collaborate with engineering, manufacturing, and quality assurance teams to understand their data needs and provide analytical support.<br/><br/><strong>Continuous Improvement<br/><br/></strong>Suggest process improvements and optimizations based on data analysis.<br/><br/><strong>Data Security And Compliance<br/><br/></strong>Ensure data security and compliance with relevant regulations, such as GDPR or industry-specific standards.<br/><br/><strong>Infrastructure And Development<br/><br/></strong>Build and maintain the infrastructure for collecting, storing, and processing data.<br/><br/>Design, develop, and manage data pipelines, ETL processes, and data warehouses.<br/><br/><strong>Required Experience<br/><br/></strong>Proven experience as a Sr. Data Analyst and/or Data Engineer in an engineering or manufacturing environment.<br/><br/>Proficiency in data analysis tools and programming languages, such as Python, R, SQL, and Excel.<br/><br/>Strong data visualization skills with tools like Tableau or Power BI.<br/><br/>Excellent knowledge of statistical analysis and machine learning techniques.<br/><br/>Ability to communicate complex findings and insights effectively to both technical and non-technical stakeholders.<br/><br/>Strong problem-solving skills and attention to detail.<br/><br/>Familiarity with manufacturing processes and quality control is a plus.<br/><br/>Experience with enterprise ERPs (SAP S4HANA, Oracle EBS), CRMs (Salesforce, Hubspot), and IoT.<br/><br/>Proficient in working with cloud computing platforms including AWS, GCP, and Azure.<br/><br/>Expertise in configuring and optimizing cloud-based data solutions for scalability, reliability, and performance.<br/><br/>Bachelor's Degree in Data Science, Statistics, Engineering, or Computer Science Required.<br/><br/>Apply Now and be part of a team shaping the future of data-driven innovation in engineering and manufacturing!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

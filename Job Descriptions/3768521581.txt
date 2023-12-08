@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>ClientSolv Technologies is an IT solution firm with over a decade of experience serving Fortune 1000 companies, public sector and small to medium sized companies. ClientSolv Technologies is a woman-owned and operated company that is certified as a WMBE, 8a firm by the Federal government's Small Business Administration.<br/><br/><strong>Job Description<br/><br/></strong>We are seeking a Systems Engineer for a 6-month contract-to-hire role supporting the Pacific Time Zone. This role can work remotely from anywhere within the U.S.<br/><br/>In this role, you will be working with development and system administration teams to implement, maintain, and troubleshoot the expanding systems infrastructure with a focus on automation and efficiency. You will design and maintain Hypervisor Clusters, Kubernetes Clusters, Linux and Windows virtual machines, storage area networks, and infrastructure automation. Additional responsibilities include:<br/><br/><ul><li>Lead and contribute to the development of custom code to integrate platform components, fill tooling gaps, and solve potentially unique situations. </li><li>Provide mentorship and training to the Network Automation Team. </li><li>Perform development, testing, implementation, and review of complex automation solutions related to provisioning, monitoring, and configuring a network and infrastructure environment. </li><li>Provide peer review and guidance on code and perform quality assurance tasks. </li><li>Responsible for the creation of and contribution to; processes, standards, technical documentation, and design diagrams. </li><li>Employ modern CI/CD pipelines using DevOps tooling. </li><li>Write and maintain technical standards and documentation. </li><li>Conduct technical research and maintain viable knowledge of technology trends, new software, and best practices. </li><li>Automating operational reports e.g., SLA reporting, utilization statistics and network forecasting. </li><li>Establishing system/data integrations to enhance existing or establish new processes</li><li>Provide training to other network domain teams for the adoption of automation capabilities. <br/><br/></li></ul>Qualifications<br/><br/><ul><li>Bachelor’s degree in Computer Science, Business Management or related field or equivalent experience. </li><li>Minimum of five years of engineering and application experience working with development teams and system administration teams. </li><li>Minimum of three years of work experience in a large, geographically distributed server architecture. </li><li>Minimum of three years of experience working with development teams for functional requirements on distributed server systems running internally developed applications. </li><li>Minimum of three years of experience working for large telecommunication companies. </li><li>Minimum of three years of networking experience with focus on server interconnections. </li><li>Experience with large scale software upgrades and versioning changes across multiple servers. </li><li>In depth knowledge of service provider systems, applications and processes for IT organizations. </li><li>In depth knowledge of service provider products, services and offerings for commercial and residential services. </li><li>Ability to automate repetitive engineering tasks. </li><li>Familiarity with SOA and Microservice software design patterns. </li><li>Development skills: NTH</li><ul><li>PHP</li><li>Java</li><li>JavaScript</li><li>Python (preferred)</li><li>NodeJs</li></ul><li>Hands on application experience:</li><ul><li>Deploying/configuring Nginx, Apache and core Linux subsystems like bind, iptables, etc. </li><li>Version control (eg Git/Gitlab, Github)</li><li>CI/CD (e.g. Jenkins, Travis, TeamCity or equivalent)</li><li>Docker containerization and clustering (Kubernetes/ECS)</li><li>Configuration management tools (e.g. Ansible, Puppet, Chef)</li></ul><li>Knowledge of software life cycle management with emphasis on inception, defining processes and developing technical business requirements. </li><li>Experience with Agile (Scrum, Kanban) software delivery methodology. </li><li>Ability to write Ops guides/MOPs/etc. as needed. </li><li>Effectively communicate between non-technical people and deeply technical SME’s. </li><li>Ability to communicate effectively across multiple large organizational structures. </li><li>Driven to identify and provide effective solutions as needed. <br/><br/></li></ul><strong>Knowledge, Skills and Abilities:<br/><br/></strong><ul><li>Ability to work independently and apply sound judgment and reasoning skills to a variety of situations. </li><li>Ability to multi-task and collaborate effectively with other personnel to meet deadlines. </li><li>Strong organizational skills. </li><li>Ability to work within critical deadlines. </li><li>Ability to adjust to rapidly changing priorities and schedules. </li><li>Proven ability to understand and codify a manual process into an automated process using workflow-like concepts. </li><li>Understanding and familiarity with Ansible, Jinja and other Infrastructure as Code tools. </li><li>Understanding and familiarity with computing technologies such as; Kubernetes, Docker, Linux, containers, virtualization and cloud technologies (AWS, GCP, Azure, etc). </li><li>Knowledge of IP/Ethernet networking fundamentals. </li><li>Interest and ability to research new and emerging technologies to better solve networking problems. </li><li>Excellent analytical skills. </li><li>Strong organizational, multi-tasking, and prioritizing skills. </li><li>Ability to work independently and apply sound judgment and reasoning skills to a variety of situations, multi-task and collaborate effectively with other personnel to meet deadlines. </li><li>Ability to translate highly technical information into non-technical terms and user documentation. </li><li>Strong verbal and written communication, attention to detail and familiarity with compliance concepts. </li><li>Ability to work within critical deadlines. <br/><br/></li></ul>Additional Information<br/><br/>This 6-month contract-to-hire role can work remotely from anywhere within the U.S. and will pay between $130,000- $150, 000 per year upon conversion to a full-time employee
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

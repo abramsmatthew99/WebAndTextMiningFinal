@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Job Duties: Vice President with Goldman Sachs Bank USA in Richardson, Texas. Responsibilities outlined below expand across Large Partnership Products (Apple and GM Cards) and specific depended consumer-wide processes (i.e. Fraud, Transactions Disputes, Collections). Collaborate/Partner with cross functional project teams/key stakeholders in identifying opportunities for Business Intelligence Data improvement and strategic decision making in Agent Automation &amp; Cards platform initiatives. Conduct exploratory/deep data analysis to explore data insights, streamline data processes, data flow management and generate analytical reports with recommendations to enable strategic planning and make predictions. Using Python built in analytic function, create user defined functions to extract data from complex data sets, perform data cleansing and data normalization to translate raw data into meaningful data patterns and trends. Exhibit strong analytical/problem solving skills by leveraging data analytical techniques and tools like advanced SQL querying, Tableau, Databricks Apache Spark, Python, MS office suite to gather datasets, organize, analyze and visualize data findings in dashboards. Accountable for design, analysis, evaluation and formulating enhancement strategies to boost KPIs across all business units including Delivery, Product and Engineering teams. Define and iterate Objectives and Key Results (OKRs) within mission driven team that align executive KPIs and strategic priorities. Write technical and business requirements in epics and user stories using control-driven design principles, attention to cross-functional dependencies and with detailed acceptance criteria. Develop an organized strategic product roadmap by working closely with the cross-functional teams including product development team, technology team and other key stakeholders to sequence the technical product requirements for successful product deliveries. Build consensus with a broad team of internal cross-functional and external stakeholders, ensuring all viewpoints are accounted for and that solutions meet all necessary requirements.<br/><br/>Job Requirements: Bachelor’s degree (U.S. or foreign equivalent) in Computer Science, Information Technology, Electronics and Communication, Electrical Engineering or related Engineering discipline, or related field. Seven (7) years of experience in the job offered or in a related role. Prior experience must include seven (7) years with the following: script complex SQLs using analytical functions to perform exploratory data analysis; requirements gathering, data profiling, data analysis and root cause analysis; in-depth data analysis using data analytical tools (such as Python) and techniques to identify data patterns, data gaps and provide data improvement solutions; build data automation scripts using R programming to improve productivity and gain data insights; statistical analysis to predict data anomaly for discovering data patterns and data outliers; creating data mappings, transformation rules and drafting product backlog documentation; and coordinating multiple testing cycles to validate program code meets expectations.<br/><br/>©The Goldman Sachs Group, Inc., 2023. All rights reserved. Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        At our organization, our mission is to foster long-term relationships built on trust, integrity, and knowledge with all our valued employees and business affiliates. With 23 years of experience, we have been a consistent presence in the industry, with our dedicated team supporting IT projects nationwide. Our expertise spans consulting, advisory, and audit services across various government programs, including Medicaid, Child Support Enforcement, Child Welfare, Integrated Eligibility, UI/DI, Grants Monitoring, Contact Centre, and more. We take pride in our employees who design, develop, deploy, and maintain multi-year, multi-million-dollar mission-critical applications for the US Government.<br/><br/>Joining us means gaining hands-on experience with large-scale, mission-critical applications utilizing the latest technology trends and software tools. We prioritize investing in the training and development of our resources to ensure they are well-equipped to meet our project needs. Importantly, our team members share a well-defined social and business purpose – to help our clients deliver social and welfare benefits to millions of families through the effective use of technology and people.<br/><br/>Job Title: Java Developer<br/><br/>Location: Dallas, TX, and Remote<br/><br/><strong>Job Summary<br/><br/></strong>We are actively seeking experienced Java developers with a strong background in J2EE frameworks to contribute to the design, development, testing, and maintenance of custom software applications. If you thrive on working with very large, complex systems and are passionate about contributing to mission-critical applications, we want to hear from you. Preference will be given to candidates with experience in developing case management systems for government programs.<br/><br/><strong>Responsibilities<br/><br/></strong>Collaborate with the project team to successfully implement and maintain complex case management systems such as Medicaid, SNAP, TANF, Child Support, and similar applications.<br/><br/>Design, code, test, deploy, and maintain web-based application systems.<br/><br/>Stay updated on emerging trends and technologies in the health and human services public sector domain.<br/><br/>Provide technical guidance and support to team members.<br/><br/>Manage and prioritize tasks to ensure the timely delivery of project milestones.<br/><br/>Participate in team meetings and provide regular updates on project progress.<br/><br/>Communicate with stakeholders to understand their needs and expectations, providing solutions to meet those needs.<br/><br/><strong>Requirements<br/><br/></strong>Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.<br/><br/>Minimum of 5 years of experience as a Java Developer, including hands-on programming, design, testing, deployment, and maintenance of very large and complex web-based systems, similar to case management systems for government HHS programs.<br/><br/>Strong analytical and problem-solving skills.<br/><br/>Experience in Java 6.0 and J2EE application components, including JSP, Custom Tag libraries, JavaScript, Session EJBs, JDBC.<br/><br/>Familiarity with Java Integrated Development Environment (IDE) such as RAD 7.5 or above.<br/><br/>Hands-on experience with Object-Oriented analysis and design using Singleton, Factory, and DAO design patterns.<br/><br/>Understanding of MVC architecture.<br/><br/>Experience in Batch Job and web services development.<br/><br/>If you are seeking an opportunity to challenge your technical knowledge and contribute to mission-critical programs, we encourage you to apply for this exciting opportunity. Remote work is available.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

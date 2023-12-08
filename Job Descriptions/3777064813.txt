@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<span><span><strong>Job Title: </strong>IT Server Administrator II<br/><strong>Work Location: </strong>El Dorado, KS<br/><strong>Duration: </strong>Long-term contract<br/><strong>Education/Experience Required: </strong>Bachelor's Degree in Computer Science (or related discipline) or a combination of education and job-related experience is required.<br/><br/><strong><u>Job Description &amp; Responsibilities:</u> </strong></span> </span><ul><li><span><span>Conducts server related technical assignments and projects for the Information Technology Department under general supervision.</span> </span></li><li><span><span>Provides server administration duties including configuration and maintenance of Windows Server and Microsoft SQL Server</span> </span></li><li><span><span>Oversees server issue resolution, analyzing and providing solutions for Operating System and Database Hardware issues</span> </span></li><li><span><span>Provides Tier 2 and Tier 3 telephone, e-mail, and after-hours support to all sites using various tools</span> </span></li><li><span><span>Provides preventative maintenance, including server monitoring, applying and testing patches, and checking for space limitations</span> </span></li><li><span><span>Handles data requests and extractions</span> </span></li><li><span><span>Analyzes and evaluates current interface configuration, user requirements, and optimizes server topologies</span> </span></li><li><span><span>Provides recommendations to manager on design, layout and add-on technologies and customizations to Company hardware systems to provide efficiencies to business operations</span> </span></li><li><span><span>Analyzes and evaluates vendor products in hardware equipment</span> </span></li><li><span><span>Writes clear, concise, and accurate documentation and provides training (i.e., work procedures, how to guides)</span> </span></li><li><span><span>Relocates technical equipment to and from an assigned location</span> </span></li><li><span><span>May manage medium-sized to large projects as required</span> </span></li><li><span><span>Special assignments or tasks assigned to the employee by their superior, as determined from time to time in their sole and complete discretion.</span> </span></li></ul><span> <span> <strong> <u> Skills &amp; Qualifications:</u> </strong></span> </span><ul><li><span><span>Administration, implementation, and support experience required in: TCP/IP, WINS, DHCP, SMTP, DNS, wireless, sip, anti-virus, firewalls, NAT, and subnetting.</span> </span></li><li><span><span>Ability to document and evaluate current site server configuration, user requirements, and designs and optimize server topologies.</span> </span></li><li><span><span>Good organizational, time-management, decision-making, analytical, and problem solving skills are required.</span> </span></li><li><span><span>Ability to perform basic mathematical calculations, and excellent interpersonal skills with the ability to effectively communicate with others, both written and verbal communication.</span> </span></li><li><span><span>Intermediate reading and writing skills.</span> </span></li><li><span><span>Understanding the difference between RAID 5 and RAID 6</span> </span></li><li><span><span>Understand and be able to speak to "Tombstone "</span> </span></li></ul><span> <span> <strong> PREFERRED SKILLS:</strong></span> </span><ul><li>Microsoft Certified: Windows Server Certification (MCSA, MCSE); CCNA; VCP; CompTIA Server+<span> </span></li></ul><span> <span> <em> <strong> For more information or to view other opportunities, visit us at</strong></em> <em> www.paladininc.com.</em> <br/><em>Paladin Consulting is an EEOC employer.</em></span></span>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

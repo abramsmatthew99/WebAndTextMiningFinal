@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>2nd role open similar to first except they do not need AWS/API gateway only strong C++ and C# background and willing to go onsite 3 days a week.<br/><br/></strong><strong>Software Engineer - Hybrid in Sunnyvale, CA<br/><br/></strong><strong>Sunnyvale, CA. This is an onsite role—2 days a week zip code 94089<br/><br/></strong><strong>Responsibilities<br/><br/></strong><ul><li>Build up AWS API gateway framework that will be used for all sustaining MFG SW for test result data upload.</li><li>Integrate C# applications with AWS API gateway framework.</li><li>Convert existing Visual C++ applications into C# applications.</li><li>Update documents and work with cross-functional project teams with engineers, verification team and SQA to test, verify and validate MFG SW/DCOs<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>BS in Engineering with a specialization in Computer Science or related field with minimum 5+ years of progressively responsible work experience in engineering.</li><li>Deep knowledge of AWS API Gateway/ AWS Data Pipeline</li><li>Deep knowledge of Visual C#/C++</li><li>Experience in application design, debug, and testing in windows environment.</li><li>Experience developing GUIs with C#/Visual C++</li><li>Experience with SQL, XML, OOP/OOD</li><li>Experience with UI layout tools is a plus.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

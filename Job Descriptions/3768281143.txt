@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><em>Position at Apexon<br/><br/></em><strong>About Apexon<br/><br/></strong>Apexon is a digital-first technology services firm specializing in accelerating business transformation and delivering human-centric digital experiences. We have been meeting customers wherever they are in the digital lifecycle and helping them outperform their competition through speed and innovation.<br/><br/>Apexon brings together distinct core competencies – in AI, analytics, app development, cloud, commerce, CX, data, DevOps, IoT, mobile, quality engineering and UX, and our deep expertise in BFSI, healthcare, and life sciences – to help businesses capitalize on the unlimited opportunities digital offers. Our reputation is built on a comprehensive suite of engineering services, a dedication to solving clients’ toughest technology problems, and a commitment to continuous improvement.<br/><br/>Backed by Goldman Sachs Asset Management and Everstone Capital, Apexon now has a global presence of 15 offices (and 10 delivery centers) across four continents.<br/><br/><strong>We enable #HumanFirstDIGITAL<br/><br/></strong><strong>Job Description Summary<br/><br/></strong><ul><li>Machine Learning Ops Engineer to build &amp; support scalable, highly available and robust Machine Learning (ML) /Deep Learning (DL) platform using ML/DL frameworks, High-Performance Computing (HPC) machines, Data Science tools, products &amp; services in cloud and on-premises for client’s data &amp; analytics organization.</li><li>Role will expose you to cutting edge technologies related to ML/DL and the ideal candidate will be driven, focused and enthusiastic about learning new technologies and implement them.<br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li>Build, install, configure, manage, and scale state-of-the-art machine learning platform in cloud (Azure preferred) &amp; on-premises powering client’s Data &amp; Analytics products and solutions.</li><li>Work with data scientists, architects, DevOps engineers, and vendors to implement scalable ML/DL solutions in cloud and on-premises to solve complex problems.</li><li>Creating &amp; maintaining ML/DL pipelines and overall ML/DL workflow orchestration including but not limited to data collection, prep, transform, analyze, experiment, train, validate, serve, monitor, etc.</li><li>Implement ML/DL solutions addressing performance, scalability, and the governance/ traceability of machine learning models</li><li>Iterate quickly through latest technologies, products, frameworks, and R&amp;D on latest information related to ML/DL frameworks, tools &amp; services.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>4+ years’ experience delivering DevOps and MLOps in a Production/Enterprise setting</li><li>Bachelor’s degree required; Masters preferred in Computer Science or Data Science</li><li>Excellent written and oral communication and presentation skills.</li><li>Experienced in a technical role involving platform and infrastructure operation. </li><li>System administration experience of Unix or Linux systems. </li><li>Container-based deployment experience using Docker and Kubernetes. </li><li>Proficient with the machine learning modelling lifecycle and comfortable addressing both functional and technical aspects of model delivery</li><li>Experience with managing, deployment of large distributed systems like Spark, DASK &amp; H20 and heterogenous platform components.</li><li>Experienced with programming languages like Python or R and comfortable in understanding statistical foundations of most used ML algorithms.</li><li>Experienced with Machine Learning frameworks: Sci-kit, Keras, Theano, TensorFlow, SparkMlib, etc. </li><li>Preferred hand-on experience IBM Watson Machine Learning systems or related preferred</li><li>Preferred hands-on experience with HPC – Nvidia, CUDA</li><li>Preferred experience with configuration Management tools like Ansible, puppet</li><li>Preferred experience in monitoring and performance analysis of Machine Learning platforms using tools like Graffana and Zabbix.<br/><br/></li></ul><strong>You’ll Have (Qualification &amp; Experience)<br/><br/></strong><ul><li> Bachelor's Degree in related field is required. <br/><br/></li></ul>Don’t worry if you don’t check all the boxes; we’d still love to hear from you.<br/><br/><strong>Our Commitment To Diversity &amp; Inclusion<br/><br/></strong>Did you know that Apexon has been Certified™ by Great Place To Work®, the global authority on workplace culture, in each of the three regions in which it operates: USA (for the fourth time in 2023), India (seven consecutive certifications as of 2023), and the UK.<br/><br/>Apexon is committed to being an equal opportunity employer and promoting diversity in the workplace. We take affirmative action to ensure equal employment opportunity for all qualified individuals. Apexon strictly prohibits discrimination and harassment of any kind and provides equal employment opportunities to employees and applicants without regard to gender, race, color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law.<br/><br/>You can read about our Job Applicant Privacy policy here Job Applicant Privacy Policy (apexon.com)<br/><br/><strong>Our Perks And Benefits<br/><br/></strong>Our benefits and rewards program has been thoughtfully designed to recognize your skills and contributions, elevate your learning/upskilling experience and provide care and support for you and your loved ones.<br/><br/>As an Apexer, you get continuous skill-based development, opportunities for career advancement, and access to comprehensive health and well-being benefits and assistance.<br/><br/><strong>We Also Offer<br/><br/></strong><ul><li>Health Insurance with Dental &amp; Vision</li><li>401K Plan</li><li>Life Insurance, STD &amp; LTD</li><li>Paid Vacations &amp; Holidays</li><li>Paid Parental Leave</li><li>FSA Dependent &amp; Limited Purpose care</li><li>Learning &amp; Development</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

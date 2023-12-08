@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from iT  Resource Solutions.net,inc</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Robert C." class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQEwbHGxmlEgtA/profile-displayphoto-shrink_100_100/0/1517822527106?e=2147483647&amp;v=beta&amp;t=td4p1ztYXRGParvz9whq2Ag6CguPIoFY0DMtKAIXMUo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Robert C.
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Sr. Recruiter at iT  Resource Solutions.net,inc
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Robert C." class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frobert-c-65b61a111&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>A Microsoft 365 Exchange Administrator is responsible for managing and maintaining the Exchange Online environment within the Microsoft 365 suite. Their primary role involves overseeing the email infrastructure and ensuring that email services are running smoothly for users within the organization. </p><p> </p><p> Email Management: They handle all aspects of email management, including configuring email accounts, creating distribution groups, managing email addresses and aliases, and setting up email policies and rules.</p><p> </p><p> User Provisioning: Exchange Administrators provision and manage user mailboxes, including creating new mailboxes, granting or revoking mailbox access permissions, and managing mailbox storage limits.</p><p> </p><p> </p><p><br/></p><p><strong>Requirements</strong></p><p>Bachelor of Science (BS) degree in Computer Science or related discipline and four (4) years of professional experience in a system administration role in a large corporate or industrial environment for the discipline and/or specialty area(s) being recruited</p><p>-OR-</p><p>Eight (8) year combination of education, training and experience in installing, supporting, and maintaining servers and other computer systems in a large corporate or industrial environment for the discipline and/or specialty area(s) being recruited.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

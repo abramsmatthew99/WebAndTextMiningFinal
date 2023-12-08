@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>A well known Banking client of ours are currently looking for a Linux/DevOps Automation Engineer to assist us with our Automation efforts.</p><p> </p><p><strong><u>Principal Technical Responsibilities</u></strong></p><p><br/></p><p>Core tech</p><ul><li>Ansible/(Ansible Tower)</li><li>Terraform</li><li>Python</li><li>GIT/Bitbucket</li></ul><p><br/></p><p>AWS and Ansible Experience </p><ul><li>Amazon Web Services</li></ul><p> i. AMI Creation Process</p><p> ii. EBS Creation and maintenance</p><p> iii. S3</p><p> iv. Security Groups</p><p> v. Load Balancers</p><p> vi. JSON</p><p> vii. Cloudformation</p><p> viii. AWS Cli</p><p><br/></p><ul><li>Ansible</li></ul><p> i. Writing and maintaining Ansible Playbooks </p><p> ii. Working with roles</p><p> iii. Working with inventory files</p><p> </p><ul><li>Very strong scripting and “Infrastructure as Code” experience</li></ul><p> i. Standing up infrastructure using Terraform or other like products</p><p> ii. Python</p><p> </p><ul><li>Understanding of proper coding techniques and software development lifecycle.</li></ul><p> i. Experience using source code repositories such as GIT</p><p> </p><p>Build Linux systems and implement them in a production environment</p><p>Must know all aspects of the build process</p><p> i. Operating Systems installation and configuration</p><p> ii. Networking technology – kickstart bootparams etc. etc.</p><p> iii. Storage technology – internal disks/SAN and NAS – LVM etc. etc.</p><p> iv. Virtual and Physical machines</p><p> Experience with Cisco UCS a strong plus</p><p> v. VMware Experience </p><p> Virtual Center</p><p> vi. YUM server configuration and RPM management</p><p> </p><p>User and Application Support</p><ul><li>Create and manage user accounts</li></ul><p> i. Account creation</p><p> ii. Environments</p><p> iii. Home directories</p><p> iv. Shells</p><p> v. Automounter</p><ul><li>Software Support</li></ul><p> i. Ability to research products and service offerings in the OpenSource/Linux community</p><p> ii. Understands how to install, configure, build and implement Linux based products </p><p>Perl/Python/Shell/Java/C/C++</p><p> </p><p>UNIX Security</p><ul><li>Patching</li></ul><p> i. Security Updates</p><p> ii. CVE – How to apply security updates quickly and in an automated manner</p><ul><li>SUDO – Managing SUDO files</li><li>Managing users and groups in a secure manner </li><li>File Systems</li></ul><p> i. Permissions – How to organize and configure UNIX permissions and groups in a secure way against a given directory structure</p><ul><li>Kernel and OS hardening and security paradigms</li><li>Strong understanding of how internet / TCP/IP protocols work</li></ul><p> </p><p>All other standard aspects of systems administration</p><ol><li>Expertise with UNIX – </li></ol><p> i. Backup Technologies</p><p> ii. DNS</p><p> iii. File Systems</p><p> iv. Networking (TCP/IP)</p><p> v. Operating Systems</p><p> </p><p>Production Support</p><ol><li>Dealing with incidents</li><li>Capacity Planning</li><li>Performance monitoring and tuning</li><li>Troubleshooting system/network related issues</li></ol><p> </p><p><strong><u>Related Job abilities and attributes:</u></strong></p><ul><li>The ability to speak and write coherently in English</li><li>Ability to work in a fast paced and dynamic environment</li><li>Ability to understand priorities and manage their time accordingly</li><li>At least 5 years of experience working with UNIX platforms</li><li>Client focused</li><li>Four year college degree or equivalent. Computer Science curriculum a plus.</li><li>Proactive candidate with a sense of urgency</li><li>Strong analytical and problem solving abilities</li><li>Team Player – Builds relationships and utilizes those relationships to drive successful outcomes for the organization</li><li>Understands how to quickly solve problems and/or to assemble the right people to do so</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking and Investment Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Computer Science Co-op (JOB ID: 1029-434)<br/><br/></strong><strong>Cincinnati Incorporated </strong>has been manufacturing machinery since the late 1890s. We pride ourselves on the performance and dependability of our metal fabrication products. Our quality is not only seen in our machines, but also in our team members. CI employees have shaped our reputation and culture with their uncompromising integrity, focus, and innovation. <strong><em>Are you ready to learn from the best?<br/><br/></em></strong><strong>Semester</strong>: Summer 2024<br/><br/><strong>Position Summary &amp; Purpose: </strong>The Software Engineering/Computer Science Co-op develops, maintains, and tests control and support software for all product lines.<br/><br/><strong>Duties &amp; Responsibilities<br/><br/></strong><ul><li>Create software products to support new product designs</li><li>Maintain and update existing software products</li><li>Create clear and accurate documentation of software revisions and procedures</li><li>Serve as technical support for manufacturing and service</li><li>Provide technical information for the creation of user manuals<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Pursuing a degree in Computer Science or Electrical, Computer, or Software Engineering</li><li>One or more software programming classes completed</li><li>Must be able to solve challenging software problems</li><li>Must have basic knowledge of at least one programming language.</li><li>Must be creative, energetic and enthusiastic</li><li>Must be able to successfully design simple software applications as well as modify/maintain existing software</li><li>C/C++/C# experience is a plus</li><li>Experience with Microsoft Visual Studio is a plus</li><li>Successful completion of medium-size software-focused project (individually or part of a team) is a plus <br/><br/><br/></li></ul><strong>Physical Demands and Work Environment: </strong>The physical demands and work environment characteristics described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.<br/><br/><strong>Physical Demands:</strong> The employee is occasionally required to stand, walk, use hands, climb stairs, stoop, kneel, crouch or crawl, talk, hear, taste, smell. Specific vision abilities required by the job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus. Occasionally be able to lift or move up to 25 pounds.<br/><br/><strong>Work Environment:</strong> Professional office environment. The noise level is usually moderate.<br/><br/><strong>This role does not offer sponsorship employment benefits and being authorized to work in the U.S. is a precondition of employment. You must be a U.S. Citizen, U.S. National, or recent lawful permanent resident to apply.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

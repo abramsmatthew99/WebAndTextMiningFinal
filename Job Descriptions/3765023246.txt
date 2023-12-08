@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Hi Jobseekers,<br/><br/>I hope you are doing well!<br/><br/><ul><li> Note: Looking for a local candidates only (Located nearby Mclean,VA)<br/><br/></li></ul>We have an opportunity <strong>“SDET with Cypress” </strong>with one of our <strong>clients</strong> for <strong>Mclean, VA</strong>.<br/><br/>Please see the job details below and let me know if you would be interested in this role.<br/><br/>If interested, please send me a copy of your resume, contact details and a good time to connect with you.<br/><br/><strong>Role: SDET with Cypress<br/><br/></strong><strong>Location: Mclean, VA<br/><br/></strong><strong>Type: Full time and Contract Both <br/><br/></strong><strong>Job Description<br/><br/></strong><ul><li> Creates an overall automation strategy for the application under test</li><li> Supports the application team in their continuous delivery efforts</li><li> Participates in code review meetings</li><li> Support other testers and automation engineers in the approach design, script development, execution, and reporting.</li><li> Analyzes and communicates test results and defect resolution tasks</li><li> Stays up to date with industry trends and best practices in order to apply them to an existing project</li><li> Influences stakeholders to adopt automation practices to help make the software development processes more efficient<br/><br/></li></ul><strong>Mandatory<br/><br/></strong><ul><li> 6+ years of proven experience and well versed in Java, Selenium, BDD &amp; TDD, Cucumber, Gherkin and CI/CD tools</li><li> Good experience in Cypress</li><li> Strong knowledge and proven experience in API automation, experience with REST assured or Karate; front-end and backend automation as well</li><li> Strong knowledge in Databases like (DB2, Mongo DB or Snowflake) and experience in writing SQL queries</li><li> Must have strong communication skills with ability to work with all management levels<br/><br/></li></ul><strong>Good To Have<br/><br/></strong><ul><li> Preferred experience in File handling in Java</li><li> Preferably certified in AWS</li><li> Degree in Computer Science, Engineering or equivalent<br/><br/></li></ul>Thanks &amp; Regards<br/><br/>Shankar Singh<br/><br/>Extend Information Systems<br/><br/>Cell: (571) 421-2684<br/><br/>Email: shankar@extendinfosys.com<br/><br/>Address: 44258 Mercure Circle, UNIT 102 A, Sterling VA, USA – 20166<br/><br/>Web: WWW.extendinfosys.com<br/><br/>We are E-verified company
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Code<br/><br/></strong><strong>3557<br/><br/></strong><strong>S³ is a woman owned small business, incorporated in Huntsville, AL in 1991, that provides technical services to the U.S. Government in program acquisition of aviation and missile weapon systems, training for both US and FMS customers, systems engineering, logistics, test, configuration management, budget analysis, and programmatic support. Travel is both CONUS and OCONUS. The Business Operations for the Corporation includes Finance, Accounting, Contracts, Legal, Purchasing, Recruiting, Benefits, HR, IT, and Facilities. The facility is ISO/AS9100 certified, with a full time Quality Manager, FSO, Safety Manager, and CFO.<br/><br/></strong><strong>S³ is currently seeking a part time IT Technician to join the Corporate IT team at our HQ in Cummings Research Park, Huntsville, AL. This position is onsite at S³ and is not a teleworking position. Qualified, retired military are encouraged to apply.<br/><br/></strong><strong>Description<br/><br/></strong><strong> T </strong>he IT Technician provides direct client service support to company users via phone, email, and/or in person and the requirements for service are defined and quantified through an internal SharePoint developed ticketing system. The Technician answers questions, locates information, analyzes technical requirements, and ensures prompt response to users for problem resolutions that maintains IT resource usability at a metric of 95% effectiveness.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Deployment of software updates on PC's and servers. </li><li> Computer/system installs, configuration of systems, and maintenance of network applications while ensuring system security compliance with policies and procedures. </li><li> Updating Anti-virus software. </li><li> Trouble shooting desktop, laptop, workstation hardware, printers. </li><li> Data migration between PC's and, performing system/PC/Laptop scheduled backups. </li><li> Operates audio/visual equipment, projectors, presentation hardware, and other equipment as assigned. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Experience with the implementation of Microsoft Office Windows 7 and Windows 10 in a business environment, and, Virtual Desktop Infrastructure (VDI). </li><li> Enterprise tool sets such as Computer Remote Control software, Active Directory, and Microsoft Exchange. </li><li> Bachelor's Degree in Computer Science or equivalent experience. This is an entry level position. </li><li> Secret Clearance or the ability to get a Secret Clearance. <br/><br/></li></ul>Vaccination for COVD-19 is a condition of employment with <strong>S³</strong> Inc.<br/><br/>Systems Studies and Simulation, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.<br/><br/>If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation. If you are unable or limited in your ability to use or access the S 3 Inc. Careers Page as a result of your disability, you can request reasonable accommodations by calling (256) 539-1700 Ext 1127 or by sending an email to: recruiter@s3inc.com . Thank you for your interest in S 3 Inc.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong>This opportunity is for individuals currently enrolled in an accredited college or university, pursuing career opportunities in business-oriented Information Technology (IT). At Rehrig Pacific Company, the IT intern may take on one or more roles including application development and support, project management, and business requirement analysis and specification. The IT Intern will be assigned to one of Rehrig Pacific Company’s IT teams and will have an opportunity to gain experience with professional processes and practices and will have a hands-on role in the team’s project and/or support activities.<br/><br/><strong>Essential Job Duties And Responsibilities<br/><br/></strong><ul><li>Reviewing software requirements and preparing test scenarios.</li><li>Executing tests on software usability.</li><li>Analyzing test results on database impacts, errors or bugs, and usability.</li><li>Preparing reports on all aspects related to the software testing carried out and reporting to the design team.</li><li>Interacting with clients to understand product requirements.</li><li>Participating in design reviews and providing input on requirements, product design, and potential problems.</li><li>Other duties as assigned.<br/><br/></li></ul><strong>RELATED COMPETENCIES<br/><br/></strong><ul><li>Communication: Clearing conveying information and ideas through a variety of media to individuals or groups in a manner that engaged the audience and help them understand and retain the message.</li><li>Collaboration: Working effectively and cooperatively with others; establishing and maintaining good working relationships.</li><li>Technical/Professional Knowledge &amp; Skills: Having achieved a satisfactory level of technical and professional skills or knowledge in position-related areas; keeping up with current developments and trends in areas of expertise.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Ability to understand and apply basic software implementation methodology concepts<br/><br/></li></ul><strong>Minimum Qualifications, Job Skills, Abilities<br/><br/></strong><ul><li>Proficient with Microsoft Office tools, Windows and macOS</li><li>Able to maintain strict confidentiality and discretion</li><li>Clear oral and verbal communication and listening skills</li><li>Possess good analytical, problem solving and decision-making skills</li><li>Willingness to learn and self-motivated</li><li>Able to follow directions<br/><br/></li></ul><strong>REQUIRED EDUCATION And/or EXPERIENCE<br/><br/></strong><ul><li>High school diploma, GED, or equivalent required</li><li>Must be currently enrolled in an accredited college or university — information technology related field of study such as computer science, information science, computer engineering, software engineering preferred</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Packaging and Containers Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

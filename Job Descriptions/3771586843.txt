@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Job Description:<br/><br/>Provide technical and operational leadership to the Operations Support (Tier 3) team and serve as the lead over all operations and maintenance activities. Contribute to the overall technical solution.<br/><br/>Responsibilities include, but are not limited to:<br/><br/><ul><li>Provide direct oversight of the Operations Support (Tier 3) teams (approximately 6 personnel). </li><li>Monitor and assist in all day-to-day service operations. </li><li>Ensure efficient and effective communication and collaboration between operations, application vendors, engineering, and other technical teams. </li><li>Ensure appropriate channels of communication are established during maintenance activities and unplanned outages. </li><li>Ensure all production applications are appropriately monitored, and alerts properly configured to notify support personnel of system issues which breach defined benchmarks. </li><li>Assist in system operations planning and strategy. </li><li>Ensure application/system configurations are properly written, submitted, and documented. </li><li>Assist in the planning and execution of infrastructure changes impacting the system. </li><li>Ensure system capacity and performance are properly monitored. </li><li>Ensure new functionality or changes to the system meet stakeholder and user expectations. </li><li>Facilitate daily operational stand-up call and provide metrics on all aspects of operations to include, at a minimum, the following:</li><ul><li>Outages</li><li>System Alerts</li><li>Daily System Checks</li><li>Daily System Backups</li><li>Ticket Metrics</li><li>DHS One-Net Requests</li><li>System Operational Statuses</li><li>Operational Testing Activities</li><li>Service Operations Project Statuses</li><li>Maintenance Calendar<br/></li></ul></ul>Qualifications:<br/><br/><ul><li>Bachelor’s degree in computer science, information systems, business, or related field and 15+ years technical/management leadership experience on major tasks or technology roles of similar size and scope involving IT Operations. </li><li>Ability to effectively communicate verbally and electronically to various levels of staff with various levels of understanding of technology. </li><li>Experience with client negotiation and interfacing with senior management. </li><li>Must have proven knowledge of Change and Configuration Management best practices. </li><li>Must have experience leading and collaborating with technical teams of diverse IT related skillsets. </li><li>Must have demonstrated knowledge in infrastructure architecture. </li><li>Must have extensive knowledge of internet protocols, routing, server configuration and management. </li><li>ITIL 4 certification is highly desired. Candidates without certification must obtain within 90 days of start. </li><li>Must be able to obtain agency suitability clearance prior to start. <br/><br/></li></ul><strong>Company Description<br/><br/></strong>AAC Inc. is a veteran owned company and was founded in 1983 in Vienna, VA. AAC Inc has 100 total employees at client sites across the U.S.. Since 1983, AAC has assisted our customers to transform and modernize their enterprise architecture, processes, applications, and infrastructure, with the focus on Cloud, Cyber, Enterprise IT, Systems Engineering and United Communication Services. Our mission remains to provide innovative and cost-effective technology-based solutions to meet our customer’s mission and business requirements. Our ability to deliver across the full scope of requirements, both operationally and strategically has set us apart from our competitors as we are able to balance risk against the right solutions.<br/><br/>AAC Inc. is a veteran owned company and was founded in 1983 in Vienna, VA. AAC Inc has 100 total employees at client sites across the U.S.. Since 1983, AAC has assisted our customers to transform and modernize their enterprise architecture, processes, applications, and infrastructure, with the focus on Cloud, Cyber, Enterprise IT, Systems Engineering and United Communication Services. Our mission remains to provide innovative and cost-effective technology-based solutions to meet our customer’s mission and business requirements. Our ability to deliver across the full scope of requirements, both operationally and strategically has set us apart from our competitors as we are able to balance risk against the right solutions.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

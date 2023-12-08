@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        LinQuest is seeking a Software Developer Intern to join our team in our El Segundo, CA or Colorado Springs, CO office. This will be a hybrid position.<br/><br/>LinQuest is seeking a Model Based Systems Engineer Tools Developer Intern to join our team in our El Segundo, CA or Colorado Springs, CO office. This internship will span from June 1, 2023, through August 31, 2023, with the potential to go part time past this period.<br/><br/>This intern will support of EM&amp;C and specifically the development of the Kahless software platform, providing a SATCOM Common Operating Picture (COP). They will expand their skills in relevant technologies and languages through personal research and share that knowledge with the Kahless team.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Setup automated testing mechanisms within a CI/CD pipeline to provide additional validation checks to microservice from a black-box, function perspective.</li><li>Develop a RF (Radio Frequency) Spectrum generator service to simulate the collection of RF Signals from a sensor to be used in the kahless development environment to provide a high-fidelity streaming test vector to develop visualizations against.</li><li>Enhance our data processing pipelines to provide addition Data Quality/Error Handling (DQ/EQ) checks via kafka processors.</li><li>Investigate into what new capabilities can be incorporated into the Cesium 3D globe data visualization environment to enhance the end users situational awareness.<br/><br/></li></ul><strong>Required Skills And Experience<br/><br/></strong><ul><li>You must be a college student in good standing, enrolled in a 4-year university in your Senior year (graduating in Summer 2024, Fall 2024 or Winter 2024)</li><li>Pursing a Bachelors degree in (Computer Science or Engineering)</li><li>You must have a minimum college GPA requirement of 3.00 on a 4.00 scale. If you are selected for an internship, you must maintain a cumulative GPA of 3.00 after each completed semester/term</li><li>Must be a U.S. citizen with the ability to obtain a DoD security clearance is required to be considered for this position<br/><br/></li></ul><strong>Compensation<br/><br/></strong><ul><li>Starting hourly pay for this position is $24 an hour<br/><br/></li></ul>COVID-19 Compliance Guidelines: As a federal contractor, all LinQuest team members must comply with Executive Order 14042 Ensuring Adequate COVID Safety Protocols for Federal Contractors, which includes mandatory vaccination and ability to provide proof of vaccination status prior to start of employment. Additionally, team members are expected to comply with all safety protocols related to mask wearing and physical distancing while in covered contractor workplaces. If applicable, prospective or new employees may seek an exemption to the vaccination requirement through LinQuest Human Resources and must have an approved exemption prior to the start of their employment.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

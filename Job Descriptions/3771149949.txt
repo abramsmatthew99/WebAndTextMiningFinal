@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Excellent opportunity to join All Roads, a growing organization with headquarters in Baltimore, Maryland. This is an <strong>on-site</strong>, full time Monday-Friday schedule during training with an opportunity to be a hybrid model in the future. Prior candidates need not apply. Preference will be given to those who reside in Maryland.<br/><br/>We are looking for a highly motivated <strong>Business Intelligence / Power BI Developer</strong> with 3-7 years of experience to join our Business Intelligence team. The successful candidate will be responsible for creating, implementing, and maintaining Power BI dashboards, reports, and data models. Candidate will also be excited to present their findings to our leadership team.<br/><br/><strong>What We Offer You - Benefits<br/><br/></strong><ul><li>Great benefits...Medical, dental, vision, disability, life, and supplemental insurance offerings available on the 1st of the month after 30 days of employment</li><li>401(k) with company match</li><li>Paid Time Off</li><li>Paid Company Holidays </li><li>Tuition Reimbursement program</li><li>Employee referral bonus program<br/><br/></li></ul><strong>Key Responsibilities:<br/><br/></strong><ul><li>Design, develop, and maintain Power BI dashboards, reports, and data models. </li><li>Create data visualizations to help business stakeholders understand key metrics and trends</li><li>Work with stakeholders to gather requirements and create data models that support their business needs</li><li>Collaborate with IT teams to ensure data integrity and security</li><li>Stay current with new Power BI features and best practices</li><li>Develop advanced reports and visualizations using Power BI and Power Query<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>3-8 years of experience developing BI solutions using Power BI</li><li>Strong understanding of data modeling and ETL processes</li><li>Strong analytical and problem-solving skills</li><li>Excellent communication and collaboration skills</li><li>Strong proficiency with SQL (DDL, DML, &amp; stored procedures)</li><li>Experience with Azure Data Services (Data Factory, Logic Apps, and Function Apps) is a plus</li><li>Bachelor's degree in Computer Science, Business Intelligence, or a related field<br/><br/></li></ul>We are unable to provide H1-B Sponsorship.<br/><br/>All Roads provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, All Roads complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction and Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

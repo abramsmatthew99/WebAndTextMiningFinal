@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Epsilon C5I</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Keenan Field" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQFZKKbHJIQ80A/profile-displayphoto-shrink_100_100/0/1669179962992?e=2147483647&amp;v=beta&amp;t=sHf4BtgAfflTX9GbEoR30OgSnaSbjG04dSTI_WP3Sis" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Keenan Field
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Technical/Corporate Recruiter at Epsilon Systems Solutions
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Keenan Field" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fkeenanfield&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Epsilon C5I (www.epsilonsystems.com/c5i), focused on software development and systems engineering for complex command, control, intelligence and combat systems is seeking a Software Test Engineer III for work in San Diego, CA. Our engineering efforts provide the warfighter with common enterprise solutions to improve information sharing and combat effectiveness. If you have a passion for excellence in engineering and enjoy working on challenging projects in a fast-paced, team-oriented environment – read on!</p><p><br/></p><p><strong><u>Summary:</u></strong></p><p>Our Agile Core Services software teams employ an Agile Scrum process to rapidly design, code, and integrate capabilities into a mature Platform as a Service (PaaS) solution. Work includes developing and integrating applications that provision loosely coupled systems and capabilities which can be reused, discovered, and linked to build mission threads. DevSecOps and operations responsibilities also apply.</p><p><br/></p><p><strong><u>Duties and Responsibilities:</u></strong></p><ul><li>Train and enable current development team in the deployment maintenance of cloud automation tools and cloud deployment tools such as OpenShift.</li><li>Train and enable current development team in the development of container native applications and microservice design patterns.</li><li>Design, implement, develop, and integrate software that powers infrastructure services to support data mediation, orchestration and machine-to-machine messaging.</li><li>Integrate multi-functional applications into container-based support services.</li><li>Write well designed, testable and efficient code that meets technical requirements.</li><li>Participate in a highly collaborative team environment, contributing to all phases of the development lifecycle using Agile/SCRUM methodologies.</li><li>Assist in the troubleshooting of code defects and deployment of timely fixes.</li><li>Deliver projects on time and with attention to quality.</li><li>Document code utilizing government identified configuration management tools.</li><li>Deploy software into the operational environment.</li><li>Expected to be part of the traveling operations team, supporting installations ranging from locally to internationally at labs, naval shore sites, and on board naval vessels.</li></ul><p><br/></p><p><strong><u>Required Qualifications:</u></strong></p><ul><li>Bachelor of Science degree in Computer Science or related discipline.</li><li>4-8 years (Four to Eight +) years of experience in a software engineering role.</li><li>An existing US Security Clearance (Interim SECRET or above).</li><li>Experience with Ansible and experience with Linux operating systems, experience with Openshift is a plus.</li><li>Good interpersonal skills and the ability to communicate with all levels of business users and management.</li><li>Ability to work individually and on team projects in an environment of teamwork and cooperation.</li><li>Effective written, oral, and presentation skills.</li><li>Pursuant to the various government contractual requirements, all applicants must be U.S. Citizens.</li><li>Pursuant to the Executive Order 14042 on Ensuring Adequate COVID Safety Protocols for Federal Contractors, candidates must be able to provide proof they have received the COVID 19 vaccine and are considered fully vaccinated. Requests for an accommodation due to a medical or religious reason can be made by contacting Human Resources.</li></ul><p><br/></p><p><strong><u>Additional preferred qualifications</u></strong></p><ul><li>Experience with AWS or VMWare.</li><li>Experience with Robot Framework, python,</li><li>Basic networking knowledge</li><li>Experience with SOVT, SIT events,</li><li>Experience automating tests</li><li>TS/SCI security clearance</li></ul><p><br/></p><p><strong><u>Pay Range:</u></strong></p><p>The pay range for this role is $105,000 to $130,000 annually. This is a reasonable estimate for this role. Individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.</p><p><br/></p><p><strong><u>ADA Notations:</u></strong></p><ul><li>Regular communication (hearing/speaking).</li><li>Noise conditions range from very quiet to very noisy.</li><li>Prolonged use of computer (typing/keyboarding).</li><li>Frequently required to sit for long periods of time, stand, walk, and may occasionally lift and move at least 25 pounds.</li><li>Ability to travel by car, air or other means of transportation, if required.</li></ul><p><br/></p><p>Epsilon Systems Solutions, Inc. and its subsidiaries are proud to be Equal Employment Opportunity and Affirmative Action employers, Minority/Female/Disabled/Veterans</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

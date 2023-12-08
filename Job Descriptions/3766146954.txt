@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from eTeam</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Heena Khemka" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4D03AQENtPFr1zphGQ/profile-displayphoto-shrink_100_100/0/1656507545722?e=2147483647&amp;v=beta&amp;t=Z8F5-gI9_tCLCcDJK81PxZSKCg7MMLh9ysCSTFGtPwM" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Heena Khemka
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Recruitment Lead
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Heena Khemka" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fheena-khemka-46373077&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Title: Test Automation Engineer (Medical Device)</strong></p><p><strong>Location: Cambridge, MA 02140 (Onsite)</strong></p><p><strong>Duration: 6+ months contract</strong></p><p><br/></p><p><strong>Job Description:</strong></p><ul><li>Proven experience in an application development/testing role, developing in a medical-regulated source-controlled environment</li><li>Hands-on experience performing automation or software development using C#/Java</li><li>Experience with Microsoft UI Automation, Microsoft development platforms</li><li>Visual Studio, Azure DevOps, and GitHub or proficient in Java</li><li>Experience establishing Test Automation Frameworks and creating reusable component libraries governed by FDA regulations for a medical device.</li><li>Deep understanding of OOP concepts, algorithms, and data structures</li><li>Ability to think broadly from a system perspective, understanding the full scope while considering all perspectives, and providing solutions in a timely manner</li><li>Excellent debugging and troubleshooting skills</li><li>Excellent understanding of test automation principles and techniques:</li></ul><ol><li>Test Driven Development (TDD)</li><li>Behavior Driven Development (BDD)</li><li>Azure DevOps pipelines</li><li>Unit tests, code coverage, instrumentation, etc</li></ol><ul><li>Have an ability to Improve test coverage by recognizing insignificant requirement coverage and identifying verification gaps for the specified functionality in the existing automation in order to create more robust test plans</li><li>Experience designing and implementing testing automation frameworks and methodologies to support agile product development in a medical environment</li><li>Excellent analytical &amp; troubleshooting skills, as well as innovation and creativity combined with a good personality working on a collaborative team</li><li>Ability to work in an extremely geographically distributed organization, spanning US locations, India, and Germany</li><li>Bachelor’s Degree in Computer Science required</li><li>Strong written and verbal skills</li><li>Ability to write technical documentation</li><li>Self-starting, quick learner, ability to work independently and contribute once established in a role</li><li>Very Good Understanding of all aspects involved with software testing</li></ul><p><br/></p><p><strong>Other Desired Qualifications:</strong></p><ul><li>Knowledge and understanding of distributed testing architectures</li><li>Awareness and familiarity with trends in industry automation testing tools, frameworks, and best practices</li><li>Extensive testing background with a thorough understanding of test techniques, applications, and executions, including Functional Testing, System Testing, System Integration and Test Automation</li><li>Experience with tracking test execution status and generating test reports for management to measure and gauge test progress</li><li>Experience in the <strong>Medical Device industry and FDA-regulated</strong> environment a plus</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

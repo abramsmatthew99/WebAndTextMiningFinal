@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title</strong>: Machine Learning Engineer<br/><br/><strong>Duration</strong>: Direct Hire<br/><br/><strong>Location</strong>: Hialeah Gardens<br/><br/><strong>Work Requirements:</strong> US Citizen, GC Holders or Authorized to Work in the U.S.<br/><br/><strong>Education And Experience<br/><br/></strong><ul><li>Requires a Bachelor's or Master's degree in Computer Science, Machine Learning, Data Science, Statistics, or a related field.</li><li>Two to four (2-4) years of experience in machine learning, data science, or a related role.</li><li>Strong foundation in machine learning algorithms and concepts (Regression, Classification, Supervised/Unsupervised Learning, Deep Neural Networks, Feature Engineering, etc.)</li><li>Proficiency in programming languages such as Python (numpy, pandas, scikit-learn, TensorFlow, Matplotlib, Leras) or R (dplyr, ggplot2, caret, xgboost).</li><li>Basic understanding of cloud services (AWS, Azure, Google Cloud). Experienced understanding preferred.</li><li>Familiarity with Agile development methodologies and tools, including Scrum and Jira</li><li>Knowledge of vector databases for efficient data storage and retrieval preferred.</li><li>Experience with use of the ChatGPT API for integration into applications preferred.<br/><br/></li></ul><strong>Essential Duties And Responsibilities<br/><br/></strong><ul><li>Collaborate with cross-functional teams to integrate machine learning solutions into our applications.</li><li>Prepare datasets for model training and evaluation by analyzing and pre-processing data.</li><li>Troubleshoot and debug machine learning models as needed.</li><li>Analyze valuable data sources to uncover trends and patterns.</li><li>Evaluate model performance metrics and optimize models to achieve best performance.</li><li>Assist in the development and implementation of machine learning models and algorithms.</li><li>Participate in Agile development, including Scrum meetings and Jira for task tracking.</li><li>Stay up to date with the latest advancements in machine learning and artificial intelligence.<br/><br/></li></ul><strong>Skills And Abilities<br/><br/></strong><ul><li>Excellent problem-solving and analytical skills.</li><li>Strong communication and teamwork abilities.</li><li>Ability to learn new technologies, tools, and frameworks quickly and adapt to changing project requirements.<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Veeco<br/><br/></strong>You probably don’t realize it, but what we do at Veeco touches the lives of every person, every day. It’s a bold statement, but it’s true. From the smartphones in our pockets that access the world’s collective knowledge, to the cloud-based services where all that information lives, to high-speed wireless communication and computing power needed to drive artificial intelligence, augmented and virtual reality, gaming and so much more, our technology is all around us.<br/><br/>We design, develop, manufacture, and service highly complex, cutting-edge machines used by our customers to create the essential devices that drive the digital age, connect the world, and improve the human experience. Along with the world’s leading technology companies, many of which are household names, we help solve their most difficult material science challenges, enabling technologies for a more connected, sustainable, and convenient world.<br/><br/>We’re looking for material difference-makers to join our growing team. Interested? Learn more at<br/><br/><strong>Overview<br/><br/></strong>Veeco delivers leading process equipment solutions that drive tomorrow’s technology breakthroughs today. We help our customers — manufacturers of semiconductor chips, wireless devices, AR/VR technologies and more — to make a more productive, cleaner and sustainable environment, and enable discoveries and products that will change our lives. Veeco is a dynamic, innovative, and high-growth company recognized as the best in the markets we serve.<br/><br/>Veeco Instruments continues to grow and is looking for an Intern to support Software Development for our Somerset, NJ location. This internship is all about hands-on learning, professional growth and real-world work experience. If you want to work in a high-tech industry and have a strong interest in pursuing a career in Software Development, consider Veeco Instruments.<br/><br/><strong>Your Role<br/><br/></strong><ul><li> As a Software Development Intern, you will build on classroom learning through paid work directly related to your field </li><li> Support the development of equipment control software using C#, C++ and VB </li><li> Work “hands on” with testers, developers, and operations to help reproduce and solve field and internal issues in the software application, network, and environment </li><li> Work side-by-side with the Engineering team in a fast-paced industrial environment with a high level of technological complexity </li><li> Assist in the setup and maintenance of Veeco applications laboratory systems </li><li> Work in an Agile/SCRUM environment using supporting tools <br/><br/></li></ul><strong>Seeking Someone With Interest/experience In The Following Areas<br/><br/></strong><ul><li> Software development in C#, C++, VB or equivalent </li><li> Understanding of software design and network architectures </li><li> Working on an Agile/SCRUM team </li><li> Microsoft Visual Studio <br/><br/></li></ul><strong>You Will Love It Here If<br/><br/></strong><ul><li> You are eager to learn </li><li> You are seeking an opportunity in which you can use your education and develop new skills </li><li> You are independent but enjoy working with a team </li><li> You want to gain valuable hands-on experience <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> A College level rising Junior or Senior enrolled in a Software Engineering ,Software Design and Development, Computer Science program working towards a Bachelor’s degree,relatable technical majors will be considred. </li><li> Must be local to Somerset, NJ area. <br/><br/></li></ul><strong>We Need You To Be The Following<br/><br/></strong><ul><li> Proficient with MS Office suite </li><li> Experience with Windows software development tools (Visual Studio desired) </li><li> Excellent oral and written communication skills </li><li> Able to take initiative and own assignments <br/><br/></li></ul>Veeco is an Equal Opportunity/Affirmative Action Employer. Applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, national origin, protected veteran status, disability, or any other characteristics protected by applicable federal, state or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nanotechnology Research, Semiconductor Manufacturing, and Industrial Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

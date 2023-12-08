@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>We are looking for a seasoned Front-End Developer to develop highly scalable software solutions for a high transaction commerce stack. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. As a Front-End Developer, you should be comfortable around front-end technologies, development frameworks and third-party libraries.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Identify user and system requirements for new websites and applications</li><li>Work closely with other developers, quality technicians, business analysts, product owners &amp; UX/UI designers.</li><li>Create wireframes and design systems to build and maintain web brand standards and guidelines</li><li>Integrate with web service layers and CMS to enable high availability and flexibility with deployments</li><li>Develops and maintains responsive web designs using bootstrap or similar framework.</li><li>Troubleshoot, debug and upgrade the front-end software stack</li><li>Test software to ensure responsiveness and scalability</li><li>Write technical documentation<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Degree in Computer Science, User Experience or a relevant field</li><li>Proven experience (6+ years) as a Front-End Developer or similar</li><li>Knowledge of multiple front-end languages and libraries (HTML, JavaScript, CSS, JSON, XSLT, XML &amp; jQuery)</li><li>Experience writing single page applications using ReactJS, NextJS frameworks and RESTful web services.</li><li>Experience with Agile methodology, CI/CD and dev-ops pipelines such as Jenkins, Bamboo, Azure DevOps pipelines (Azure preferred).</li><li>Experience with source control systems such as Git, Bitbucket, GitHub</li><li>Experience with deploying to cloud technologies (AWS/Azure) a big plus</li><li>Excellent communication and teamwork skills</li><li>Great attention to detail &amp; organizational skills with an analytical mind</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Personal Care Product Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

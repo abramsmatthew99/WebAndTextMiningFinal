@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Working with an Excellent Client that is looking to hire a<strong> PC Technician </strong>for our law firm office! This will be a direct hire posotion and is onsite in Baltimore MD. Starting salary is <strong>$50-$55k!</strong> Are you a recent graduate looking for an entry level oportunity with great growth and benefits? Apply now!<br/><br/>Main Points:<br/><br/>Position: PC Technician (Law firm)<br/><br/>Salary: $50-$55k<br/><br/>Work Authorization Status: US Citizen / Green Card Holder<br/><br/>Requirements: Bachelors degree in Computer science, info systems, criminal justice, IT, or related field. Experince with troubleshooting, IT skills, being able to work in a fast paced enviroment, and 1+ Year experince working in a law firm.<br/><br/>Job Description:<br/><br/>PC technicians help customers identify and overcome issues with their computers. When testing hardware, they examine a computer's circuit board, disk drivers, and other components. When analyzing a computer's software, they use various diagnostic tools and programs to identify and resolve functionality issues. This includes installing, configuring, diagnosing, repairing, and upgrading all corporate hardware and equipment while ensuring its optimal performance.<br/><br/>Job Duties:<br/><br/><ul><li>Install, configure, test, maintain, monitor, and troubleshoot end user and network hardware, peripheral devices, printing/scanning devices, presentation equipment, and other products. </li><li>Where required, install, configure, test, maintain, monitor, and troubleshoot associated end user software and networking software products. </li><li>Perform on-site analysis, diagnosis, and resolution of complex hardware problems for a variety of end users, and recommend and implement corrective solutions, including off site repair as needed.</li><li>Receive and respond to incoming calls, pages, and/or e-mails regarding hardware problems. </li><li>Develop and maintain an inventory of all monitors, keyboards, hard drives, modems, printers, scanners, and other peripheral equipment. </li><li>Develop and maintain an inventory of all hubs, routers, switches, bridges, server boxes, cabling, and other networking equipment. <br/><br/></li></ul>Powered by JazzHR<br/><br/>KAjuoSfgqy
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Ubreakifix by Asurion —we don’t just redefine—we reinvent. We began by establishing a culture that rewards results and isn’t confined by a hierarchy. As a result, we have achieved phenomenal growth. Today, this entrepreneurial spirit is as strong as ever. It’s in our DNA. We foster a culture where our team members collaborate daily to make a difference—for our clients, customers, and themselves. Our dynamic and inclusive environment ensures that each of our 20,000+ team members have the opportunity to reach their full potential, while at the same time fulfilling the needs of more than 280 million consumers.<br/><br/>We value solving challenging and unique problems, innovating quickly, and using the best tool for the job at hand. We embrace continuous delivery and Lean Startup principles. We work in small, empowered teams that have clear goals and success measures, and leverage the creativity of all members of the team.<br/><br/>Who’s a great match for us?<br/><br/><ul><li>You Put Customers First: build strong relationships within the various functional areas of Asurion through the delivery of exceptional results.</li><li>You Play a Team Sport: foster an inclusive environment, bring forward ideas and engage with one another.</li><li>You Take Ownership: Take initiative, contribute to multiple deliverables in a fast paced and ever-changing business environment.</li><li>You Collaborate and Then Commit: Be a liaison with several cross functional groups facilitating the completion of deliverables.</li><li>You want to Reach for Full Potential: Embrace and drive change, challenge the status quo.<br/><br/></li></ul>What You’ll Do<br/><br/>As a Software Engineer 3 in the D365 domain, here's what you can expect to do:<br/><br/><ul><li>Take on an opportunity that offers variety, innovation, and unique approaches, where you can learn something new every day</li><li>Think through hard problems, and work with a team to make them reality and provide very tangible benefits to the corporation, our partners, and our customers</li><li>Work in a dynamic, collaborative, transparent, self-organizing, and ego-free culture where your talent is valued over a role title</li><li>Collaborate with product owners, UX Designers, and other engineers on a small, focused, and empowered team</li><li>Mentor junior team members; helping to foster and grow their development</li><li>Develop effective, scalable and maintainable code in a timely fashion</li><li>Follows established coding standards and techniques; assists with establishing standards</li><li>Become a subject matter expert whose ideas and input are highly valued by the team</li><li>Participate in design and code reviews</li><li>Take an agile active role in the quality of the application using test-driven development approaches; develop automated unit and end-to-end test cases to validate defect-free code<br/><br/></li></ul>What You Bring to the Team<br/><br/><ul><li>Bachelor’s degree in Computer Science, Software Engineering, Computer Engineering, Electrical Engineering, Electronics Engineering, or related field</li><li>Minimum 3 years of experience building modern applications and back-end systems</li><li>Object-oriented design experience and/or functional design experience</li><li>Experience in customizing Microsoft Dynamics 365 Commerce capabilities around the Commerce Scale Unit and general API's related to Retail operations</li><li>Experience configuring and customizing MS D365 Finance &amp; Operations</li><li>Experience with C# and X++</li><li>Preferred experience in configuring the Retail aspects of D365 Finance &amp; Operations</li><li>Preferred JavaScript variants such as Node.js and React</li><li>Preferred Experience with SQL and NoSQL data stores</li><li>Preferred experience in Microsoft Azure cloud environment and tooling.</li><li>Experience in working in a modern, agile software development lifecycle with services like GitHub or Bitbucket including Azure DevOps.</li><li>Experience in the application of unit test frameworks</li><li>Familiarity with AWS services</li><li>Strong interpersonal skills and a confident communicator</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

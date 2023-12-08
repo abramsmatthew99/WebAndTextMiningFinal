@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Danbury Mission Technologies is part of the ARKA Group, L.P. ARKA stands for more than creating better technology. We believe in building a better world. Built on a diversity of people, ideas and thoughts, we develop the technologies and projects that have a meaningful impact for a more certain, sustainable world of opportunity for everyone.<br/><br/><strong>Position Overview<br/><br/></strong>As a Software Engineering Co-op, you will provide prototyping, coding, testing, scripting, and document generation in support of software development activities. The code will be developed in C++, C#, C, and Python and will run on various hardware using Windows, Linux, or other operating systems. Git and Bitbucket will be used to keep track of your changes, and you will submit your code for peer review. Jira will be used to track tasks and defects. This will teach you the fundamentals of developing production quality code. You will benefit from working side-by-side with a talented and experienced group of professionals who are eager to mentor.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Code development in C++, C#, C, and Python.</li><li>Software test development.</li><li>Requirements, test plan, and release documentation generation and updates.<br/><br/></li></ul><strong>Education Requirements<br/><br/></strong><ul><li>University Junior or Senior.</li><li>Working towards BS/BE in Computer Science, Software Engineering, or related technical degree.<br/><br/></li></ul><strong>Experience Required<br/><br/></strong><ul><li>Programming classes in C++ or C#.</li><li>Python experience preferred but not required.</li><li>Understanding of Object-Oriented Design.<br/><br/></li></ul><strong>EHS/Environmental Requirements<br/><br/></strong><ul><li>Able to lift/move computer and printer equipment<br/><br/></li></ul><em>Collaborating with world class experts, you will have the opportunity to develop innovative solutions in fulfillment of our customers’ requirements. We believe in our mission, and we believe in supporting our employees. We offer policies and programs that provide opportunities for continual learning, career growth and work/life balance along with a full suite of health and welfare benefits.<br/><br/></em>This position requires the incumbent to access export-controlled information. If you are not a US Person, any offer is contingent upon the Company's ability to obtain a special license granting you access. This could take several months. You will not be able to begin employment until such license is obtained.<br/><br/><strong><em>No visa sponsorship is available for this position.<br/><br/></em></strong><em>Danbury Mission Technologies is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

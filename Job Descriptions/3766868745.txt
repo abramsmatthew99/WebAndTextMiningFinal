@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>My Traverse City, MI client is in need of a IT Systems Administrator to join their team. This role will be to provide and assist in a variety of services in the installation, operation, repair and maintenance of the company’s computers, networks and related equipment; monitor, evaluate and modify network systems to assure proper security and operation; install, maintain and repair computer hardware, software and peripheral equipment; provide technical user support assistance.<br/><br/>Monitor and maintain network stability, integrity, connectivity and availability.<br/><br/>Monitor and maintain network security and security solutions, including; firewall, anti-virus, and intrusion detection systems.<br/><br/>Monitor and maintain networked servers such as file servers, e-mail and database systems.<br/><br/>Monitor and maintain infrastructure routers, switches, phones, software’s, PC drivers and configuration settings to support the computing environment.<br/><br/>Monitor and maintain LAN, WAN, WLAN, DNS, WINS, LDAP, DHCP, Group Policy management, and Microsoft Active Directory services.<br/><br/>Monitor and maintain system backups and recovery processes.<br/><br/>Troubleshoot, evaluate, repair and upgrade company computers and peripheral hardware.<br/><br/>Support telecommunications infrastructure including telephone services, voicemail, VoIP systems and audio/video technologies.<br/><br/>Performs server security audits, maintain license compliance and comply with adopted Sarbanes Oxley policies &amp; procedures.<br/><br/>Assists with the maintenance and documentation of network configurations, cabling layouts, and PC hardware/software inventories.<br/><br/>Implements networking solutions ensuring effective and efficient network operations.<br/><br/>Provide Help Desk support, responding to incoming calls, pages, e-mails, and after hours on-call support, regarding end-user computer issues, documenting problems and providing diagnosis and resolution.<br/><br/>Providing coverage as backup to iSeries (AS400) staff.<br/><br/><strong>Qualifications<br/><br/></strong>Minimum of 3 years’ experience in Information Technology support; 5 years’ experience preferred<br/><br/>Bachelor’s Degree in Information Systems Management/Computer Network/Computer Science or equivalent<br/><br/>Highly self-motivated and directed, with attention to detail.<br/><br/>Strong customer service orientation and ability to support remote users.<br/><br/>On-call availability for emergency issues.<br/><br/>Ability to conduct research into enterprise networking issues and products as required.<br/><br/>Minimal travel may be required for the purpose of on-site installation of hardware/software and troubleshooting.<br/><br/>Understanding of advanced concepts, such as virtualization, share storage, networking, PowerShell scripts, MIIS and thin-client technology.<br/><br/>Excellent technical knowledge and understanding of Windows Operating systems (server&amp; client), Virtual environments (VMware), Exchange, SQL, and Microsoft Office suites.<br/><br/>Excellent technical knowledge and understanding of Microsoft Active Directory, DNS,DHCP and Group Policy management.<br/><br/>Strong technical knowledge and understanding of enterprise-level LAN, WAN and WLAN infrastructure.<br/><br/>Industry standard certifications such as; CCNA, CCENT, MCP, etc. preferred, but not required.<br/><br/>Additional Information<br/><br/><strong>This is a On site position in Traverse City, MI. Company offers a great relocation package.<br/><br/></strong><strong>No C2C or sponsorship is available for this position. Must be authorized to work in the US without expiration.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

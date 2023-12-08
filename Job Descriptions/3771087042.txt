@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: IT Director, Infrastructure<br/><br/>Department: IT Department<br/><br/>Reports to: VP of Information Technology<br/><br/>Supervises: Infrastructure Teams (Support, Network, Servers, Cybersecurity, etc.)<br/><br/>Location: St. Louis, MO- Global Headquarters in Westport<br/><br/>FLSA Status: Exempt<br/><br/></strong><strong>General Overview<br/><br/></strong>The IT Director for Infrastructure will manage and oversee a highly technical IT Infrastructure and Service Delivery team responsible for supporting our corporate computing environment. This is a hands-on role responsible for the architecting, configuration, and management of Enterprise IT infrastructure including Datacenters, Network, Storage, SAN, virtualization, personal computing, cybersecurity, and cloud technologies.<br/><br/><strong>Position Responsibilities<br/><br/></strong><ul><li>Work closely with the Vice President of Information Technology and other business leaders, to ensure that our technology strategy aligns with our overall business goals. Drive and define strategy areas within areas of focus.</li><li>Partner with business users and IT peers to architect and deliver the right solutions for Rawlings. Drive and define long-term technology roadmaps, prioritize related projects, and ensure successful execution. Ensure regular refreshes of company assets to ensure strong performance, adequate capacity, and mitigation of cybersecurity risks.</li><li>Provide guidance around complex requirements and solutions for IT hardware, security, network, and other equipment needs, including upgrades and migrations.</li><li>Identify, investigate and solve production problems by coordinating teams and business partners. Includes implementing preventative measures and appropriate communication to stakeholders regarding resolution.</li><li>Coordinate or lead medium to large projects of moderate to high technical complexity and achieve project objectives and schedules. Serve as sponsor and provide oversight of small to medium sized projects.</li><li>Stay current with industry trends and advancements and assess their potential impact on our business. Enable a culture of innovation within the infrastructure team, IT department, and the company as a whole.</li><li>Create and manage IT department systems infrastructure operational budget and plan for strategic capital investments to closely align with primary department goals.</li><li>Staff and manage a team of IT professionals including employees, consultants, and contractors. Provide ongoing mentoring to staff to establish a culture of excellence and customer service. Establish achievable team and individual goals, driving implementations and accountability.</li><li>Oversee management of the IT Service Desk team, partnering with the IT Service Desk Manager to deliver exceptional customer service.</li><li>Monitor on-call activities, providing leadership during major outages, disruption of services, disaster recovery and business continuity incidents. Ensure use of an equitable on-call rotation schedule for team members to provide off hours and weekend support for the company.</li><li>Maintain and monitor inventory of available hardware devices and corresponding software assets to minimize duplication, ensure capacity needs are met, and licensing is compliant.</li><li>Oversee the ongoing development, testing, and management of the company’s disaster recovery program to minimize downtime and ensure business operations can continue in the event of a disaster or major outage. Establish and ensure successful delivery of RPO and RTO objectives.</li><li>Monitor and analyze system performance; implement changes as needed to improve efficiency and effectiveness. Develop and maintain metrics and reporting to measure the effectiveness of the company’s IT Infrastructure.</li><li>Manage relationships with various technology vendors and negotiate small to medium sized contracts. Grow and maintain relationship with hosting provider.</li><li>Continuously develop and manage IT security infrastructure to mitigate security risks, including cybersecurity concerns, in conjunction with our managed services partners. Ensure that appropriate controls are in place to mitigate those risks.</li><li>Develop and implement policies and procedures that ensure our IT systems and infrastructure are secure, reliable, and scalable. Oversee change, configuration, and release management for the production environment and ensure changes are tested, communicated, and implemented with minimal business disruption.</li><li>Manage process compliance as appropriate (e.g. internal controls, regulatory requirements, other business process, etc.) including development and delivery of documentation and training material.</li><li>Adhere to infrastructure standards and follow departmental policies and procedures as well as those for the overall company.<br/><br/></li></ul><strong>Essential Knowledge, Skills And Abilities<br/><br/></strong><ul><li>Bachelor’s degree preferred in Computer Science or Information Systems; or equivalent experience.</li><li>Minimum of 10 years progressive IT related experience, with at least 5 years of directly supervising an information technology team.</li><li>Experience managing medium to large (3 or more resources) highly technical IT professional teams supporting enterprise-wide IT infrastructure.</li><li>Management experience architecting, designing, and implementing technology roadmaps.</li><li>Demonstrated ‎ability to successfully organize and lead complex technical projects.</li><li>Ability to remain agile and adjust priorities based on workload, management directives and customer demands.</li><li>Strong analytical and problem-solving skills. </li><li>Experience supporting both Cloud based and on-premise solutions.</li><li>Advanced hands-on experience working with two or more major IT areas of expertise including network, servers, end points, cybersecurity, storage (MSSQL, Azure, AWS), operating systems (Windows and Linux), Active Directory, DNS, virtualization (VMWare), backups &amp; disaster recovery environments, etc.</li><li>Strong leadership and team building skills.</li><li>Excellent verbal, written, and interpersonal communication skills. Ability to communicate technical information independently and effectively in a clear and concise manner to a variety of audiences including the Executive team.</li><li>Experience working with business to build trusted relationships with client stakeholders, act as a trusted advisor, and manage customer needs and expectations. <br/><br/></li></ul><strong> WORKING CONDITIONS <br/><br/></strong>General office working conditions with moderate travel domestically. Additionally, the requirement of having a cell phone with high-speed internet access from home as required for support.<br/><br/>This job description does not list all the duties of the job. Position may be required to perform other duties as needed.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Sporting Goods Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

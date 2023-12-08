@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job type: Manual QA Tester <br/><br/></strong>Location: Onsite in Flowood, MS- Day 1 Onsite<br/><br/>Experience: 8&amp;plus; Year<br/><br/>Duration: 12&amp;plus; Months<br/><br/><strong>Must Have<br/><br/></strong><ul><li> 3&amp;plus; years of QA experience (the more the better)</li><li> Katalon and/or Selenium experience</li><li> Healthcare Insurance Industry experience is an absolute must; any other type of insurance industry won’t work</li><li> They have to be comfortable working onsite 5 days a week, which means they have to be willing to relocate and live there</li><li> Dress code is business professional (suits)</li><li> Communication skills are going to be a big priority for them too<br/><br/></li></ul><strong>Job Description<br/><br/></strong>Job Overview: We have a manual tester job opening in Flowood, MS. In this role, you will be ensuring that functionality meets design specifications and business requirements through the writing, execution, and reporting of manual tests – with the ultimate goal of ensuring the high quality of IT applications, as measured by post-production defects.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Creates and executes tests to verify story acceptance criteria.</li><li> Performs functional, integration, and end-to-end testing for semi-weekly releases.</li><li> As defects are discovered, generate defect tickets in VersionOne that include the specific steps to reproduce the issue, screenshots, and any additional information or insights that may assist in resolving the issue.</li><li> Ensures that all in-scope requirements for a given release are effectively tested.</li><li> During testing, ensures that the look and feel of the user interface (UI) is consistent with company design standards.</li><li> Documents and communicates the findings of defects, and monitors the status of their resolution</li><li> Participates in Agile ceremonies and advises the team on the testability of stories</li><li> Frequent communication with QA Director, QA staff, Application Developers, Scrum Masters, Product Owners and Business Partners for reporting the status of testing and defects found</li><li> Frequent interaction with QA Director for testing status updates, progress reporting, and overall coordination of testing activities</li><li> Assists Application Development teams in troubleshooting and remediating defects</li><li> Testing of software releases in order to uncover defects, application responsiveness, and compliance with IT Policy &amp; Procedure Statements (MPPS’s) and User Interface standards.</li><li> Creates and executes tests to verify story acceptance criteria.</li><li> Performs functional, integration, and end-to-end testing for semi-weekly releases.</li><li> Documents and communicates the findings of defects, and monitors the status of their resolution</li><li> Participates in Agile ceremonies and advises the team on the testability of stories</li><li> Conducts testing in accordance with the QA and IT processes</li><li> Identifies and makes recommendations as to cost savings opportunities<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li> 2&amp;plus; years of experience with Quality Assurance procedures and testing approaches in Agile / Scrum environments.</li><li> Must be able to learn quickly on a system with complex business processes and rules</li><li> Strong observation and analytical skills. Keen attention to detail and problem-solving ability</li><li> Strong interpersonal and teamwork skills</li><li> Strong verbal and written communication skills</li><li> Experience with structured application development and change control methodologies.</li><li> Experience with relational database methodology as well as methods for accessing and validating data via SQL.</li><li> Experience with Python Scripting is preferred</li><li> Familiarity with Katalon is preferred</li><li> Bachelor’s degree in Computer Science, MIS, or related degree is required.</li><li> Any Licenses or Certificates Required: N/A</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

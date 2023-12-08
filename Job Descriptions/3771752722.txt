@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>The salary is 180k to 200k</p><p><br/></p><p>IT Director (Infrastructure and Application Development) - Financial and eCommerce Industry</p><p><br/></p><p>Position Overview: We are seeking an experienced IT Director with expertise in infrastructure and application development, specifically within the Financial and eCommerce Industry. The successful candidate will be responsible for overseeing all IT operations, ensuring the efficient and effective use of technology to support our organization's objectives and drive business growth.</p><p><br/></p><p>Responsibilities:</p><p>1. Strategic Planning:</p><p>o Develop and execute the IT strategy aligned with the organization's goals.</p><p>o Collaborate with executive management to identify and prioritize IT initiatives that enhance business processes, increase efficiency, and drive innovation.</p><p>o Stay up-to-date with emerging technologies and industry trends relevant to the retail sector, and provide guidance on their potential application within the organization.</p><p><br/></p><p>2. Infrastructure Management:</p><p>o Oversee the design, implementation, and maintenance of a reliable and secure IT infrastructure, including networks, servers, storage, and other critical systems.</p><p>o Ensure high availability, scalability, and performance of infrastructure components, addressing any issues or vulnerabilities promptly.</p><p>o Evaluate and select appropriate hardware, software, and cloud solutions, negotiating contracts with vendors to optimize IT operations and reduce costs.</p><p>o Experience with AWS or Azure Cloud.</p><p><br/></p><p>3. Application Development:</p><p>o Lead the application development team, guiding them in the design, development, testing, and deployment of software applications.</p><p>o Collaborate with stakeholders to identify business requirements, define project scopes, and manage application development projects within established timelines and budgets.</p><p>o Promote software development best practices, quality assurance, and adherence to industry standards, ensuring the delivery of reliable, secure, and user-friendly applications.</p><p><br/></p><p>4. eCommerce Systems:</p><p>o Utilize your deep understanding of the Financial and eCommerce Industry to evaluate, implement, and enhance eCommerce systems, ensuring their seamless integration with existing infrastructure and software applications.</p><p>o Collaborate with cross-functional teams, such as finance, operations, and sales, to identify system requirements and drive continuous improvement.</p><p><br/></p><p>5. Team Leadership:</p><p>o Provide strong leadership to the IT team, fostering a collaborative and innovative work environment.</p><p>o Recruit, develop, and retain top IT talent, building a skilled and motivated team capable of meeting current and future business needs.</p><p>o Mentor team members, providing guidance and support for their professional growth and fostering a culture of learning and knowledge sharing.</p><p><br/></p><p>Qualifications and Skills:</p><p>• Bachelor's or master's degree in computer science, information technology, or a related field.</p><p>• Proven experience as an IT Director within the Financial or eCommerce industry.</p><p>• Strong knowledge and understanding of IT infrastructure, including networks, servers, storage, security, and cloud technologies.</p><p>• Extensive experience in application development, with a track record of managing complex projects and delivering high-quality software applications.</p><p>• Deep understanding of POS and lease retail systems, including lease accounting, contract management, and reporting.</p><p>• Familiarity with emerging technologies and trends, such as mobile payments, omnichannel retail, and e-commerce.</p><p>• Strong leadership and management skills, with the ability to motivate and inspire a diverse team.</p><p>• Excellent problem-solving and decision-making abilities, coupled with a strategic mindset.</p><p>• Outstanding communication and interpersonal skills, with the ability to collaborate effectively with stakeholders at all levels.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

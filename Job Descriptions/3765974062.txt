@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are<br/><br/></strong>Verkada is the largest cloud-based B2B physical security platform company in the world. Only Verkada offers six product lines — video security cameras, access control, environmental sensors, alarms, workplace and intercoms — integrated with a single cloud-based software platform.<br/><br/>Designed with simplicity and scalability in mind, Verkada gives organizations the real-time insight to know what could impact the safety and comfort of people throughout their physical environment, while empowering them to take immediate action to minimize security risks, workplace frustrations and costly inefficiencies.<br/><br/>Founded in 2016 with more than $460M in funding raised to date, Verkada has expanded rapidly with 15 offices across three continents, 1,600+ full-time employees and 20,000+ customers across 70+ countries.<br/><br/><strong>Recent Projects For This Role Include<br/><br/></strong>Implementing and deploying a binary classifier using TensorFlow for detecting the binary states across hundreds of cameras<br/><br/>Detecting unusual object addition/removal in a scene<br/><br/>Detecting and counting object and people frequencies<br/><br/><strong>Education And Experience<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science, preferably with research experience </li><li>2+ years of industry software engineering experience</li><li>1+ years of work or research experience with current neural net frameworks</li><li>Mastery of at least one practical programming language</li><li>Experience working in a agile team software development environment<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Python - writing clean, modular, pythonic code</li><li>Traditional computer vision algorithms</li><li>Training deep learning networks using TensorFlow, Keras, Caffe, or similar</li><li>Data structures and architecture<br/><br/></li></ul><strong>Perks &amp; Benefits<br/><br/></strong><ul><li>Generous company paid medical, dental &amp; vision insurance coverage </li><li>Unlimited paid time off &amp; 11 companywide paid holidays </li><li>Wellness allowance </li><li>Commuter benefits </li><li>Healthy lunches and dinners provided daily </li><li>Generous paid parental leave policy &amp; fertility benefits <br/><br/></li></ul><strong>Pay Disclosure<br/><br/></strong>At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate’s skills and experience, as well as market demands and internal parity. This estimate can vary based on the factors described above, so the actual starting annual base salary may be above or below this range. This estimate is also just one component of Verkada’s total rewards package. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of Restricted Stock Units (RSUs).<br/><br/>Estimated Annual Pay Range<br/><br/>$130,000—$280,000 USD<br/><br/><strong>Verkada Is An Equal Opportunity Employer<br/><br/></strong>As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

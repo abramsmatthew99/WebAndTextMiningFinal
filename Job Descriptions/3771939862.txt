@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>JOB DESCRIPTION:<br/><br/></strong>The Information Technology Technician I is responsible for basic technology help desk service and assistance to higher level technicians and users by installing, maintaining, and repairing computer equipment, peripherals, installation and configuration of related software, installing computer communications wiring, and low-level training to users.<br/><br/><strong>COMPETENCIES:<br/><br/></strong><ul><li>Leadership Skills </li><li>Change Management</li><li>Critical Thinking</li><li>Learning and Development</li><li>Active Listening</li><li>Problem-solving and customer service </li><li>Communicating technical information to non-technical audiences</li><li>Developing effective working relationships</li><li>Adapting to changing priorities</li><li>Information Technology<br/><br/></li></ul><strong>ESSENTIAL FUNCTIONS &amp; JOB SPECIFICATIONS:<br/><br/></strong><ul><li>Installs, configures, and upgrades operating systems and software, using standard business and administrative packages; may modify specific applications for use in operational departments. </li><li>Installs, assembles, configures, and operates computers, monitors, network infrastructure, and peripherals such as printers/copiers, scanners, telephones and related working hardware knowledge, such as audio-visual systems and point of sale (POS) systems. </li><li>Installs network cable runs, indoors/outdoors and terminates network connections. </li><li>Troubleshoots problems with computer systems, including troubleshooting hardware and software, (POS) point of sale systems e-mail, network, and peripheral equipment problems; makes repairs and corrections where required. </li><li>Acts as a technical resource in assisting users to resolve problems with equipment and data; staffs and records data in a centralized help desk to facilitate exchange of information and advice; implements solutions or notifies outsource providers as required. </li><li>Assists in instruction of City staff in the use of standard business and administrative software, including word processing, spreadsheets, database management, presentation, email; provides instruction verbal or written. </li><li>Configure and maintain mobile devices including cellular phones, laptops, and tablets. </li><li>Performs other duties as assigned. <br/><br/></li></ul><strong>MINIMUM </strong><strong>EDUCATION</strong><strong>:<br/><br/></strong><ul><li>Requires bachelor’s degree in computer science, management information systems, or closely related field. <br/><br/></li></ul><strong>EXPERIENCE REQUIREMENTS:<br/><br/></strong><ul><li>Requires a minimum of one (1) year of work-related experience. <br/><br/></li></ul><strong>SPECIAL CERTIFICATION AND LICENSES:<br/><br/></strong><ul><li>Valid Texas Driver’s License. <br/><br/></li></ul><strong>PHYSICAL REQUIREMENT:<br/><br/></strong>Perform sedentary work that involves walking or standing some of the time and involves exerting up to 10 pounds of force on a regular and recurring basis or sustained keyboard operations.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources
+          </span>
+</li>
+</ul>
+</div>
+</section>

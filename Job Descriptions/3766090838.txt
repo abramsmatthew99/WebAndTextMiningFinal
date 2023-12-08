@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Senior Network Engineer</strong></p><p><br/></p><p>We are partnering with a Technology Solutions firm in its search for a networking expert with a strong technical foundation to work as part of a Network Support team serving a large corporate environment. The Senior Network Engineer will monitor the wellness of devices on their networks and should have the technical and client service skills to meet the needs of a demanding business and IT environment. Applicants must be able to work onsite temporarily in Boston, MA and be open to work schedules outside of standard business hours to be eligible for this position.</p><p><br/></p><p><strong>Compensation:</strong> up to $130K*</p><p>*salary listed not guaranteed – potential offers vary based on experience level, qualifications, and internal equity and may be outside of this range.</p><p><br/></p><p>If you are interested and meet the qualifications below, apply with your resume for more information!</p><p><br/></p><p><strong>Responsibilities:</strong></p><ul><li>Operate, monitor, and maintain the corporate network</li><li>Apply expertise and focus to optimization of firewalls (NGFW), overall network security, and network route/switch configurations</li><li>Assist with regular enterprise systems operations including corporate, retail, cloud, and data center infrastructures</li><li>Break down and analyze network communications at the packet level</li><li>Evaluate possible enhancements to the global networks using technical experience and thorough understanding of switching, routing, and data flows</li><li>Collaborate with other subject matter experts and help maximize the use of all network resources</li><li>Identify, address, and swiftly resolve issues with best corrective action or following appropriate escalation procedures</li><li>Provide excellent client service in efficiency, technical expertise, and demeanor in interactions with stakeholders</li></ul><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor’s degree in Computer Science, Information Technology, or equivalent required</li><li>7+ years of experience working with Windows, Linux, and Cisco, including work in a corporate environment</li><li>Experience designing, building, and monitoring routers and switches and mentoring Junior Engineers</li><li>Experience deploying and managing firewalls/routers, load balancers, and remote access VPNs</li><li>Experience working on global network design ranging from Retail to Enterprise environments</li><li>Robust experience with Aruba Wireless Environment, Palo Alto Firewall, F5 Load Balancer, Cisco routing and switching, Microsoft Teams, and TCP/IP</li><li>Strong understanding of data center network provisioning and network management tools</li><li>Knowledge of ITIL and change management processes</li><li>Must be a self-starter with the expertise and energy to meet the needs of a demanding business and IT environment</li></ul><p><br/></p><p><br/></p><p><strong>Our Commitment to Diversity, Equity &amp; Inclusion</strong></p><p><br/></p><p>The Hollister Group is an equal opportunity employer. We welcome and encourage applications from people who are under-represented in their respective occupation or position.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Computer Networking Products, and Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

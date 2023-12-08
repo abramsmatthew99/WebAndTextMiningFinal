@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Compensation: $73-125k<br/><br/></strong><strong>Location: </strong>Denver, CO<br/><br/><strong>Application Developer<br/><br/></strong>Inceed has partnered with a great company to help find a skilled <strong>Application Developer</strong> to join their team!<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Apply sound software development practices throughout the development life cycle to deliver application solutions that support critical business strategies.</li><li>Collaborate with suppliers to ensure successful implementation, maintenance, and support of software or hardware.</li><li>Implement application configuration updates in the testing environment and plan for rollbacks if needed.</li><li>Troubleshoot and resolve incidents related to existing production applications.</li><li>Take corrective action to address quality problems and communicate issues to relevant parties.</li><li>Create documentation and provide user training for new system applications.</li><li>Work closely with suppliers to support successful software or hardware implementation and maintenance.</li><li>Conduct architecture reviews and update/maintain all architectural products.</li><li>Have a comprehensive understanding of the entire architecture stack and effectively communicate on various IT topics.</li><li>Identify and resolve technical, process, or interpersonal problems to ensure timely project delivery.<br/><br/></li></ul><strong>Required Qualifications &amp; Experience:<br/><br/></strong><ul><li>Bachelor’s degree or equivalent work experience.</li><li>3 years of experience in application development, including supporting business applications for diverse operating systems, platforms, and/or SQL development for relational databases.</li><li>Experience with Episys and Symitar/PowerOn.</li><li>Familiarity with financial institution technologies, such as Jack Henry technologies (Episys, Synapsys, Synergy, ARCU), OpCon, etc.</li><li>Demonstrated knowledge of architecture/systems engineering best practices, systems process design, software design, programming principles, or equivalent processes.</li><li>Adequate knowledge of Object-Oriented programming and networking.<br/><br/></li></ul><strong>Nice to Have Skills &amp; Experience:<br/><br/></strong><ul><li>Degree in Computer Science, Computer Engineering, Information Systems, or a related field.</li><li>Experience with FiServ DNA, FIS Miser, Corelation Keystone, MeridianLink, Encompass, Digital Insight, Q2, COTS, Image Center.</li><li>Mainframe coding experience using COBOL.</li><li>Project management experience in an iterative project management methodology.</li><li>Experience supporting business applications within a financial institution.</li><li>Programming skills in at least one language, such as JavaScript.</li><li>Familiarity with Unix operating system, Unix shell scripting, or similar.</li><li>Experience with one or more scripting languages (PowerShell).</li><li>Information Technology Infrastructure Library (ITIL) certification or previous work within an ITIL environment.<br/><br/></li></ul><strong>Perks &amp; Benefits: <br/><br/></strong><ul><li>Remote flexibility</li><li>Great company, great people, great culture!<br/><br/></li></ul>If you are interested in learning more about the Application Developer opportunity, please submit your resume for consideration. Our client is unable to provide sponsorship at this time.<br/><br/><em>We are Inceed, a staffing and direct placement firm who believes in the possibility of something better. Our mission is simple: We’re here to help every person, whether client, candidate, or employee, find and secure what’s better for them. <br/><br/></em><em>Inceed is an equal opportunity employer. Inceed prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

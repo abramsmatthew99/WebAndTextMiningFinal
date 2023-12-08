@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Our Company<br/><br/></strong>Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br/><br/>We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br/><br/><strong><strong>The Opportunity<br/><br/></strong></strong>Do you thrive on solving hard problems at scale? Do you want to build cloud-native systems that work seamlessly across devices? Are you interested in defining the future of creativity by making it fast, fun, and streamlined to build sophisticated-looking content? Most of all, are you passionate about the next generation of users and building modern solutions for them that connect to leading social and digital platforms?<br/><br/>We are a team of passionate storytellers, technology innovators, and change agents. Building off Creative Cloud Express ’s initial success, we are now re-imagining (from the ground up!) the way people discover, build, and publish the full range of media types - from graphics to imaging to video - right in the browser and on their mobile devices. Our aim is to build fast and easy product experiences that empower students, social influencers, marketers, small businesses - really anyone with something to say - to make something that will stand out and impress their audience.<br/><br/>We are seeking an experienced web front-end engineer to join a highly motivated and fast-paced team to join us in building a new creativity platform that will help define the future of Creative Cloud and Adobe’s Digital Media business.<br/><br/><strong><strong>What you’ll do:<br/><br/></strong></strong><ul><li>Work hand-in-hand with researchers, engineers, user experience designers and product managers to prototype and build a next-generation web application</li><li>Provide technical leadership to solve ambitious design problems to deliver best-in-class user experience in web and a broad range of devices</li><li>Influence design thinking among development teams. You have an appreciation for design-thinking and you believe that creating reusable code and consistent user experiences that work well together can empower engineers and designers to create better products. </li><li>Participate in pair programming and peer reviews. You’ll collaborate with other engineers on problems of all shapes and sizes, from code to new ideas and methodologies. </li><li>Deliver a responsive, scalable solution ready for a mass audience. </li><li>Provide recommendations on how to make the products more usable. You will use our analytics tools, user research, and in-house community team to gather information and gain insights as to how people use our product to drive new ideas. <br/><br/></li></ul><strong><strong>What you need to succeed:<br/><br/></strong></strong><ul><li>5+ years proven experience building and deploying web applications or interactive websites</li><li>Bachelor degree or equivalent experience in Computer Science, HCI, web design, or a related field</li><li>Proven expertise building web apps that run across multiple browsers, including mobile, where there are different performance and resource constraints as well as capabilities that may require polyfills. </li><li>Shown web architecture experience designing and developing robust, complex full-stack architectures</li><li>Strong skills in Javascript/HTML/CSS, experience with ES6 and React, Vue or equivalent UI frameworks. </li><li>Proficient knowledge of web technologies, e.g. the DOM, canvas and WebGL rendering, web security, asynchrony, workers, performance optimization. </li><li>Familiarity with modern web dev tools/patterns, e.g. npm, web pack, etc; loading optimization, cloud deployment strategies</li><li>Keen eye for visual and web design and a passion for using CSS and modern techniques to create visually rich and interactive experiences</li><li>Experience with implementing support for accessibility standards (e.g, WCAG 2.1) and support for different input modalities and assistive technologies used by users. <br/><br/></li></ul><strong><strong>Nice to have:<br/><br/></strong></strong><ul><li>Experience in UX Design</li><li>Familiarity with Agile/SCRUM development practices<br/><br/></li></ul>Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $119,000 -- $232,700 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.<br/><br/>At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).<br/><br/>In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.<br/><br/>Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.<br/><br/>Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.<br/><br/>Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Advertising Services, and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

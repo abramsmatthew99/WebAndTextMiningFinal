@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        FLEX College Prep is seeking dynamic individuals to teach elementary and middle school students on our new platform, FLEX Online Prep for Kids. Subjects include Scratch, Python, Skylark, and Vidcode. Instructors will create original curriculum, teach live and recorded sessions, and contribute to the development of our new program!<br/><br/>What we're looking for:<br/><br/><ul><li>Bachelor's degree in Computer Science, or similar, required (U.S. Top 50 college or university strongly preferred)</li><li>Strong communication skills to establish rapport with students and co-workers</li><li>Knowledge in Python, JavaScript, and/or HTML</li><li>Knowledge in Scratch, Skylark, and/or VidCode</li><li>Knowledge in curriculum-building</li><li>1+ year or equivalent experience teaching/working with young students (elementary/middle school age)</li><li>Experience teaching computer science or data science course (formally or informally)</li><li>Experience teaching students through a remote platform<br/><br/><br/></li></ul>What you’ll do:<br/><br/><ul><li>Computer Science Instructors assist students individually and in small groups with coursework in our FLEX Online Prep Kids Coding Programs. They develop and customize lesson plans and curriculum to provide students with targeted, individualized academic support. And they maintain comprehensive reports of sessions to track progress and adapt to students’ needs. Most importantly, they help students achieve their academic goals while making the experience as positive as possible<br/><br/><br/></li></ul>Where you’ll do it:<br/><br/><ul><li>Irvine, CA &amp; Hybrid<br/><br/><br/></li></ul>What we’re excited to give you:<br/><br/><ul><li>Bonus eligibility</li><li>Opportunities for rapid growth and merit-based promotion</li><li>Paid Sick Leave</li><li>Discounts for FLEX services<br/><br/><br/></li></ul>Why FLEX?<br/><br/>We at FLEX know that teaching and consulting are opportunities to build relationships. Our team understands that each student has a unique background and a unique set of challenges and goals; we work closely with families to help every student overcome those challenges and achieve those goals. In an increasingly crowded industry, FLEX leads through integrity.<br/><br/>FLEX has provided admissions consulting, standardized test prep, tutoring and enrichment services for pre-collegiate students since 2001. Our team members offer a nuanced understanding of colleges and their admissions philosophies and give thorough, step-by-step guidance in all areas of the application process. They provide personalized instruction to raise grades and scores and expand students’ knowledge beyond what’s covered in a typical textbook or classroom.<br/><br/>For more information about FLEX, visit our website at www.flexcollegeprep.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage
+          </span>
+</li>
+</ul>
+</div>
+</section>

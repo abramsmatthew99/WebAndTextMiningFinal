@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Join Us as a Data Engineer - Shape the Future of Healthcare Analytics with HANDLE Global!<br/><br/>Company Overview:<br/><br/>HANDLE Global, a leading healthcare supply chain analytics and fulfillment solutions provider, is dedicated to revolutionizing the healthcare industry by providing cutting-edge software solutions. Our innovative products help healthcare providers optimize operational efficiency, enhance patient care, and drive business growth.<br/><br/>What Sets You Apart:<br/><br/><ul><li>Adventure Awaits: Dive into the cutting-edge world of HANDLE Global. We stand at the vanguard of healthcare supply chain analytics, and we're looking for a Data Engineer who's eager to shape the industry with us.</li><li>Data Maestro: Spearhead the creation and maintenance of our warehouse data models. As the primary architect and developer for our BI dashboards, you'll ensure our visualizations aren't just accurate, but also insightful, optimizing data extraction and interpretation at every turn.</li><li>Project Trailblazer:.Embrace the responsibility for ad-hoc analytics and distinct project undertakings. As healthcare evolves, so do our business needs. Your innovative analytics solutions will be instrumental in steering our trajectory.</li><li>Stakeholder Connector: Liaise seamlessly with internal and external partners, translating business requirements into actionable technical solutions. Your ability to bridge the gap between complex datasets and real-world needs will be invaluable.</li><li>ELT Enthusiast: Dive into the depths of data source ELT development and maintenance. Your collaborations with our data engineering resources will help streamline customer data pipelines and ensure consistency in our analytics endeavors.</li><li>Code Curator &amp; Communicator: Own the documentation for your developed code, ensuring it's clear and easily referenced. Beyond that, articulate your findings and methodologies to a diverse audience, making the complex easily comprehensible.</li><li>Opportunity Harbinger: As challenges arise, seize them. Whether they're on the radar or unforeseen, your ability to navigate, innovate, and drive us forward will set the pace for our growth.<br/><br/></li></ul>Qualifications and skills:<br/><br/>Essentials:<br/><br/><ul><li>Bachelor’s degree in Computer Science, IT, or equivalent combination of education, training, and experience.</li><li>5+ years of experience with SQL. and 3+ years with Python / Spark</li><li>Intrigued by the term “modern data stack" and embody a lifelong learning attitude.</li><li>Demonstrated prowess in problem-solving.</li><li>Proficient with cloud data warehouses such as Databricks, Snowflake, BigQuery, etc.</li><li>Knowledge of data quality standards and schema enforcement.</li><li>Familiarity with version control platforms like GitLab or Github.</li><li>Thrives when balancing both analyst and engineering responsibilities. </li><li>Excellence in documentation - both in interpretation and creation/curation.</li><li>Enjoys the journey of defining requirements, capturing business logic, and generating value.<br/><br/></li></ul>Preferred:<br/><br/><ul><li>Agile or startup environment background</li><li>Knowledge in constructing medallion (bronze, silver, gold) style pipelines.</li><li>Expertise in query optimization</li><li>Experience with dbt, Delta Live Tables, or BI semantics layers for data model building and maintenance</li><li>Experience with CI/CD pipelines and platforms like AWS/Azure/GCP.</li><li>Track record of creating comprehensive data dictionaries.</li><li>Familiarity with data orchestration tools such as Airflow, Prefect, Dagster, etc.</li><li>A penchant for DAGS and Mermaid. <br/><br/></li></ul>HANDLE Global is an equal opportunity employer committed to valuing and promoting diversity. We base all employment decisions on merit, competence, and business needs, without discrimination based on protected statuses. All qualified applicants are encouraged to apply.<br/><br/>Join HANDLE Global, where your expertise will not just shape our company but the future of healthcare analytics. Apply Now and be part of the revolution!<br/><br/>Powered by JazzHR<br/><br/>oKcqriYu96
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

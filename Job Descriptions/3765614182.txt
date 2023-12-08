@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a skilled and motivated Data Analyst to join our team. In this role, you will play a crucial part in transforming raw data into valuable insights, contributing to our strategic priorities. The ideal candidate is someone who possesses strong analytical capabilities, effective communication skills, and enjoys working collaboratively with both technical and non-technical stakeholders.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Develop high-quality business intelligence, data visualization, and analytics content using tools such as Power BI and Crystal Reports.<br/><br/>Provide Subject Matter Expertise (SME) support in various BI technologies, including reporting, analytics, analytical processing, and data transformation.<br/><br/>Identify, design, and implement internal process improvements, automating manual processes, optimizing data delivery, and enhancing infrastructure scalability.<br/><br/>Optimize the performance and usability of Power BI reports and dashboards through query tuning, efficient data models, and best practices.<br/><br/>Collaborate with business stakeholders to understand their requirements, translating them into technical specifications, and designing efficient and visually appealing Power BI reports and dashboards.<br/><br/>Provide exceptional internal and external customer service.<br/><br/><strong>Qualifications<br/><br/></strong>Bachelor's degree in Computer Science or Computer Engineering, or equivalent experience.<br/><br/>Minimum of 2 years of demonstrated experience in developing accurate, effective, and visually appealing visualizations using Microsoft Power BI.<br/><br/>Knowledge of Power BI application security layer models.<br/><br/>Proficiency in SQL, T-SQL, and SQL Server Management Studio.<br/><br/>Strong knowledge of DW architecture and ETL frameworks.<br/><br/><strong>Preferred Experience<br/><br/></strong>Experience using Azure Data Factory (ADF), building and managing data pipelines for an Azure-based Enterprise Data Platform.<br/><br/>Experience developing reports with Crystal Reports.<br/><br/>Familiarity with Azure DevOps, Agile development, and Git.<br/><br/><strong>Telecommuting And Technical Requirements<br/><br/></strong>This position is a remote role.<br/><br/><strong>Must-Have<br/><br/></strong>Cable or Fiber Internet Service.<br/><br/>Download speed of 20Mbps or higher.<br/><br/>Upload speed of 5Mbps or higher.<br/><br/>Join us in this exciting opportunity to contribute to our data-driven success while enjoying the flexibility of remote work. We look forward to welcoming a new member to our team who shares our commitment to excellence and innovation.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

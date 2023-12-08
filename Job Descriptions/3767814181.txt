@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Role: Business Analyst <br/><br/></strong><strong>Location: Atlanta, Georgia - Remote<br/><br/></strong>*Candidate MUST be Local to Metro Atlanta*<br/><br/><strong>Job Details<br/><br/></strong>The Business Analyst will support the Application within the Office of Information Technology and will be responsible for interfacing with the Office of Child Support Services to review requirements, lead JAD sessions, schedule meetings, prepare test plans, and create system requirement documents for use by system analyst to produce detail design documents for specific projects.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li>Writes and maintains test plans based on software requirements and design documents</li><li>Participates in the development of change control standards and procedures that appropriately fit the needs of the technical team and updates these procedures as the needs change.</li><li>Verifies that system requirements are traceable, consistent, complete, and testable.</li><li>Writes checklist to track all components involved in application changes</li><li>Performs requirements, design and code walk through /reviews as requested</li><li>Recommends corrective action to ensure compliance with test plans.</li><li>Develops and maintains comprehensive documentation on all standards and ensures that the information is appropriately published and distributed</li><li>Verifies that software applications perform in accordance with system requirements and specifications</li><li>Tests software applications for concrete, consistent, observable results.</li><li>Tests new change control and testing tools to ensure proper installation and maintenance and to measure tool performance</li><li>Verifies function, performance, integration, and acceptance test results are in accordance with application and departmental standards</li><li>Measures the severity of failures and defects in accordance with test plan guidelines.</li><li>Accurately and thoroughly documents application performance failures and defects during each quality review session.</li><li>Clearly and accurately communicates test results to programming staff and/or appropriate management staff.</li><li>Regularly enters issues/defects related to the test life cycle or change control environment into applicable tracking system.</li><li>Updates applicable tracking system with problem solutions and status.</li><li>Conducts testing meetings, as necessary, for problems encountered during the test life cycle.</li><li>Acts as liaison for application groups and external agencies</li><li>Assists users in developing test plans, test scripts, and implementation plans as requested</li><li>Provides reports showing status and activity in the change control environment to technical teams and appropriate management staff.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in computer science or a related area</li><li>5+ years’ experience as an IT Business Analyst (requirements gathering, business process mapping.)</li><li>Demonstrated knowledge of Testing methodology and practices.</li><li>Must have good knowledge of Microsoft Project/Sharepoint Workspace planning too</li><li> Must have excellent customer service skills with strong decision-making capabilities</li><li> Must have excellent verbal and written communication skills<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Previous experience with Health and Human Services Systems</li><li>Previous experience in state government</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

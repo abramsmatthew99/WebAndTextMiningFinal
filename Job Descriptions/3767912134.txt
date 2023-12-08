@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        DTEX Systems is looking for a talented Quality Assurance Engineer with good knowledge of SDLC and QA's role in that process, as well a strong understanding of automation technologies.<br/><br/>Description and Responsibilities DTEX is looking for a talented Quality Assurance Engineer with good knowledge of SDLC and QA's role in that process, as well a strong understanding of automation technologies. The candidate should have the ability to understand complex software architectures from the perspective of identifying software validation requirements and designing a strategy for manual and automated validation of the solution. Write test strategy and test cases for the validation of various features and bug fixes on the DTEX software. Develop Test strategies and cases to cover positive and negative feature testing, A/B testing, performance testing and interoperability testing. Design and implement the automation of test cases. Participating in technical discussion and providing feedback from QA point of view. Understanding the existing automated test framework and enrich it as needed. Being able to create test automation from scratch. Requirements BS degree or equivalent in computer science or related field 3+ years of experience in Automation and Software Testing Excellent analytical and technical skills Strong knowledge of the Linux OS as an advanced System Administrator and User Skilled with automation with Selenium Ability to script in Python, Powershell, and Bash shell Good knowledge of virtualization tools like Virtual Box, VMWare ESXi and using them for automation Good understanding of underlying technologies used in Enterprise Software Applications such as Web Servers (Apache HTTPd) and Database Servers (PostgreSQL) Good understanding of networking concepts and protocols Good knowledge of security tools, and vulnerability scanners Good knowledge or Exposure to big data concepts and technologies like ElasticSearch, Hadoop, Redis and Apache Spark Experience with AWS A positive thinker, Risk taker, Going above and beyond the assigned tasks An outstanding team player Exact compensation may vary based on skills, experience, and location. Base salary range (SF Bay Area): $140k-$180k<br/><br/>DTEX Systems is proud to provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, gender, religion, sex, national origin, age, disability, or genetics. Powered by JazzHR
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

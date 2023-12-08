@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        ABC News is America’s No. 1 news source, providing straightforward, fact-driven journalism across broadcast, streaming, digital and audio. ABC’s award-winning programs include “Good Morning America,” “World News Tonight with David Muir,” “Nightline,” “20/20,” “This Week with George Stephanopoulos,” “GMA3: What You Need to Know,” and “The View”. Other platforms include ABC News Live, the network’s 24/7 streaming channel; ABC News Studios, a premium, narrative nonfiction original production house; ABC News Digital, comprised of a diverse audience of more than 53 million monthly average users; ABC Audio, the premier source for radio news and industry-leading podcasts; FiveThirtyEight, renowned data journalism organization; and NewsOne, the affiliate news service. Based in New York City, ABC News is comprised of three U.S. bureaus and eight international bureaus, with a presence in more than 20 countries around the world.<br/><br/>The Digital Systems Engineer II is part of an engineering team primarily focused on designing and constructing the various technical platforms that power ABC News’ digital platforms. They implement projects aligned with the company's business objectives while maintaining and enhancing technology and can handle complex technical issues independently. They also have practical experience in designing and maintaining digital production systems. Working as part of a team, they collaborate with junior engineers, support staff, and third-party partners to implement technology solutions that meet the needs of leaders in technical, business, and operational roles.<br/><br/><strong>Responsibilities:<br/><br/><br/></strong><ul><li>Design, implement, and sustain IP-based media technology environments used for acquisition, production, and storage of digital media.</li><li>Focus on integrating media over IP workflows in very large-scale environments; specifically deploying SMPTE 2110 audio/video flows in a managed IT ecosystem.</li><li>Analyze and troubleshoot streaming audio/video signals in traditional SDI and IP 2110 essence flow routing environments.</li><li>Create documentation including test plans and operating runbooks.</li><li>Respond to escalations and resolve issues that affect acquisition, production, and content distribution related to IT system outages, malfunctions, and related technical problems, and conduct diagnostic testing, repair, and replacement activities of IT systems.</li><li>Utilize system software health and performance monitoring platforms; troubleshoot and participate in repairing system problems and failures, participate in maintenance of systems as needed, installs software patches, and updates to resolve and avoid service problems, and troubleshoot system problems as they relate to these services.</li><li>Manage third-party service providers by implementing the agreed upon scope of services within the various signed service agreements.</li><li>Select, train, empower, and evaluate technical staff; provide or coordinate staff training; work with employees to correct deficiencies.<br/><br/><br/></li></ul><strong>Basic Qualifications:<br/><br/><br/></strong><ul><li>Knowledge of television production workflows.</li><li>3-4 years of demonstrated and relevant experience in ensuring efficient design/build, uptime, and overall stability of the technical environments of live media production and distribution.</li><li>Knowledge of integrating, implementing, or refreshing broadcast control room equipment, including familiarity with modern media infrastructure.</li><li>Knowledge of operating and deploying 2110 audio/video over IP systems, specifically in flow management in both dedicated and COTS based switching systems.</li><li>Knowledge with Broadcast controllers, such as Evertz Magnum, in SDI or 2110 environments, especially with deployment, expansion and updates in large routing systems</li><li>Knowledge with test equipment focused on SMPTE 2110 connectivity both at the physical and management layers.</li><li>Possess a strong background with Microsoft Office (Outlook, Word, Excel, PowerPoint, etc.)<br/><br/><br/></li></ul><strong>Preferred Qualifications: <br/><br/><br/></strong><ul><li>Comfortable working in a fast-paced, growth environment, delivering under tight deadlines while multitasking, and communicating priority updates to team members. </li><li>Experience supporting, designing, or building IP-based broadcast equipment including one or more of the following: </li><li>IP-based equipment driving digital workflows including routers, switchers, encoder/decoders, production tools, playout systems, etc. </li><li>File-based workflows like enterprise Media Asset Management systems (Cloud-based Cloud Compute or Local Network-based) including storage, compute, encode and distribution. </li><li>Production control systems such as Imagine Communications or Grass Valley automation systems, Riedel Trunking, Lawo, Calrec, Evertz, Ross and others. </li><li>Transmission systems such as RF (Radio Frequency), Satellite Distribution, Fiber Distribution, etc. </li><li>AWS Infrastructures and other cloud-based technologies including S3/Glacier storage and cloud compute (EC2) services. </li><li>Experience in one or more of the following areas: </li><li>Graphics o Editing (Avid, Adobe) </li><li>Audio/Comms (Riedel) o Fabric management and/or fabric support (SMPTE 2110) </li><li>Production switchers and cameras (Calrec, Sony) </li><li>Orchestration and control of software defined networks (SDN) <br/><br/><br/></li></ul><strong>Preferred Education:<br/><br/><br/></strong><ul><li>Bachelor's degree in electrical engineering, computer science or equivalent major, and/or equivalent work experience<br/><br/><br/></li></ul>The hiring range for this position in NY is $95,520.00 to $131,340.00 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

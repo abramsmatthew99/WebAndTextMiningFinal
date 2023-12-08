@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Francis Marion University and the Campus Technology Department invite applications for a Programmer who has the primary responsibility of supporting Ellucian’s Colleague ERP on campus. Other operational responsibilities include, but are not limited to, ID card processing, electronic document management system, and the integration and operation of other third-party applications serving all aspects of the university’s business. The ideal candidate must be able to work individually and in teams to resolve problems and ensure that standards for quality and quantity of work are met.<br/><br/>The successful candidate will report to the Director of Campus Applications and Data Services (CADS).<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Maintains, monitors, and measures interfaces between Colleague ERP and other essential systems on campus.</li><li>Helps ensure maximum availability of each interface and accurate sharing of information between distinct systems.</li><li>Assists in writing programs to facilitate interfaces and provides documentation for those interfaces.</li><li>Develops, modifies, and prepares software programs working from specifications.</li><li>Prepares documentation of programs and procedures and will assist in the preparation of non-technical reports.</li><li>Prepares test data and tests and debugs programs.</li><li>Analyzes data and ensures that our Colleague ERP database is accurate, and that data is not corrupted by any of our interfaces.</li><li>Extracts data and builds customized reports according to user specifications and will have knowledge of database structures.</li><li>Will utilize knowledge of higher-level programming languages, which access the database.</li><li>Will establish and maintain effective, positive working relationships with others in the campus community.</li><li>Will communicate effectively by phone, in person and via handwritten and typewritten documents.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong>An associate degree in computer science or information systems and experience in systems development and maintenance or technical support is required. However, the ideal candidate will have a bachelor’s degree in computer science or management science; or a bachelor’s degree and six months experience in computer programming, computer system development, etc.; or the equivalent combination of education, training, and experience. Working knowledge of programming languages, particularly Envision Basic, Python, Javascript, and SQL. Capability to test and debug programs. Experience with Ellucian’s Colleague Studio, Microsoft Visual Studio, SQL Server Management Studio, Postman, and Informer is ideal. A working knowledge of managing Ellucian’s Ethos Integration is also a plus. Ability to prepare programming documentation and to follow established standards.<br/><br/><strong>State Minimum Requirements: </strong>A high school diploma and work experience in systems development and maintenance, technical support, or the support of database management systems. A bachelor’s degree in a related field may be substituted for the required experience.<br/><br/><strong>State Classification<br/><br/></strong>Systems Programmer / Developer I (AM08)<br/><br/><strong>Band/Level:</strong> 5/1<br/><br/><strong>Salary:</strong> Salary will be competitive and commensurate with experience.<br/><br/><strong>Normal Working Hours:</strong> 8:30 a.m. - 5:00 p.m., Monday - Friday. Summer hours will vary. Evenings and weekends may be necessary, sometimes with little advanced notice.<br/><br/><strong>Application Materials<br/><br/></strong><ul><li>Letter of interest (referencing position 23-55).</li><li>The names, addresses (both mail and e-mail) and telephone numbers of three references.</li><li>Resume.</li><li>Copies of all transcripts (official transcripts will be required of the successful candidate); and</li><li>Completed FMU staff application.<br/><br/></li></ul><strong>Review of applications will begin immediately and will continue until the positions are filled.<br/><br/></strong>As Francis Marion University has continued to be recognized for its diverse student body, it especially welcomes applicants who can affirm and enhance its mission.<br/><br/>Applicants honorably discharged from a branch of the United States Armed Forces, who meet the minimum training and experience requirements, are given employment preference by all State agencies and higher education institutions in SC.<br/><br/><em>An Affirmative Action/Equal Opportunity Institution<br/><br/></em>recblid wd9j3y7c0433t8v5od3vol063wng64
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

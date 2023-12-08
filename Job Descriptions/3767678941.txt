@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>If you are awesome, we are hiring an IT Support Technician!! Launch Your IT Career at SOLID Surface Care, Inc. At SOLID Surface Care, Inc., we're more than just a leading commercial floor and surface care company – we're a team of problem-solvers, innovators, and tech wizards! And guess what? We're on the lookout for an IT Support Technician like you to join our team.<br/><br/><strong>Your Mission, Should You Choose to Accept It<br/><br/></strong>You'll be the backbone of our IT operations, juggling a variety of exciting tasks. From wrangling Windows environments to taming Office 365 applications, you're the go-to hero for all things tech. You'll battle tech issues, manage our IT responses, and share your wisdom by training others on the mystery of IT and cybersecurity.<br/><br/><strong>Your Impact<br/><br/></strong>As an IT Support Technician, you’ll be at the heart of our operations, ensuring our Windows environments, including Microsoft Office and Office 365 applications, run smoothly. You’ll tackle a variety of challenges ranging from Helpdesk Support to managing Office 365 licenses and user accounts. Your role is pivotal in maintaining our IT infrastructure, contributing to project work, and training staff in IT best practices.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Deliver first-class Helpdesk Support, handling User issues, onboarding &amp; offboarding.</li><li>Proactively resolve technology issues, ensuring high levels of customer satisfaction.</li><li>Manage and support a variety of environments, including Email, Printers, Azure Active Directory, M365 office suite, and more.</li><li>Collaborate with external vendors to ensure effective Support, Setup &amp; Configuration.</li><li>Oversee our IT systems, identifying and resolving potential issues to ensure optimal performance.</li><li>Develop and conduct training sessions for staff on IT systems and cybersecurity.<br/><br/></li></ul><strong>What We Expect<br/><br/></strong><ul><li>Resolve 80% of issues within the first contact in under 20 minutes.</li><li>Consistently receive positive internal customer feedback.</li><li>Zero errors in adhering to IT policies and managing user accounts and licenses.<br/><br/></li></ul><strong>Who You Are<br/><br/></strong><ul><li>Proficient in Microsoft Windows Operating Systems and Microsoft Office Software.</li><li>A problem solver who can efficiently diagnose and resolve technical issues.</li><li>Excellent communicator, able to convey technical concepts to non-technical users.</li><li>Focused on providing outstanding customer service.<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>AS degree in computer science or relevant IT Certifications.</li><li>2+ years of experience in IT Helpdesk or similar roles. </li><li>Experience with O365/M365, Intune, Azure, and Office Suite.</li><li>Knowledgeable in Backup and Disaster Recovery Practices.</li><li>Familiarity with Salesforce Administrative functions is a plus.<br/><br/></li></ul><strong>Why SOLID Surface Care?<br/><br/></strong>Join us and become part of a company that values your expertise and growth. At SOLID, we offer competitive benefits, career advancement opportunities, and a culture of respect and excellence. Our team is dedicated to being environmentally conscious and providing best-in-class client experiences.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Facilities Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

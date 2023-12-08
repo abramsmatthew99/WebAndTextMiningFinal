@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you looking for an opportunity to launch your career in a dynamic and remote work environment? We're seeking a dedicated Data Entry Operator to join our team. In this role, you will play a vital part in our organization, ensuring that information is accurately recorded and efficiently managed.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Accurate Data Entry: Input text-based and numerical information from source documents within designated time limits.<br/><br/>Information Compilation: Compile, verify, and sort data according to priorities, preparing source data for computer entry.<br/><br/>Quality Control: Review data for deficiencies or errors, correct any incompatibilities if possible, and check the final output for accuracy.<br/><br/>Research and Information Gathering: Proactively obtain further information for incomplete documents, ensuring data completeness.<br/><br/>Report Generation: Create reports based on the data entered to support business operations.<br/><br/>File Management: Organize and store completed work in designated locations for easy retrieval.<br/><br/>Information Retrieval: Respond to queries for information and access relevant files to provide prompt and accurate responses.<br/><br/><strong>Qualifications<br/><br/></strong>Strong attention to detail.<br/><br/>Basic computer skills and proficiency in data entry.<br/><br/>Excellent organizational and time-management abilities.<br/><br/>Strong communication and problem-solving skills.<br/><br/>Ability to work independently and meet deadlines.<br/><br/><strong>What We Offer<br/><br/></strong>Fully remote work, providing flexibility and work-life balance.<br/><br/>Competitive compensation package.<br/><br/>Opportunity for professional growth and development.<br/><br/>A friendly and inclusive work environment.<br/><br/>If you're ready to take the first step in your administrative career and join a supportive team, we encourage you to apply today. We're looking forward to welcoming a motivated and detail-oriented Data Entry Operator to our organization.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Administrative
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

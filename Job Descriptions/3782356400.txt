@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Role Description &amp; Responsibilities<br/><br/></strong>Our SOLIDWORKS Tools And Automation team is looking for a SIX Month intern at one of our office located in Waltham, MA. This is a hybrid position.<br/><br/>The Feedback System is a suite of applications that parses, aggregates, and analyzes diagnostic data from the SolidWorks application. This system provides engineers with the opportunity to work with a diversity of technologies ranging in areas from CI/CD, front-end web libraries and frameworks, containerization, and automated testing libraries. Each member brings his/her expertise and unique perspective to solving a wide array of problems. Although we follow the principles defined by the Scrum process, the diversity of projects and work we face often requires flexibility, specialization of skills, and adaptation.<br/><br/>As a React.js developer, you will be working on a critical part of the SOLIDWORKS Feedback System responsible for analysis and investigation into crashes and issues. This entails working on a containerized web app for displaying and interacting with aggregated diagnostic data. We interface with other departments, including developers in R&amp;D, Operations, and stakeholders.<br/><br/>In order to better provide these services, a larger suite called the Feedback System is being refactored and enhanced. The refactoring includes moving it to a more scalable system of microservices. Enhancements are focused on supplying new data in novel ways to stakeholders. In this capacity, you would fulfill a key role helping us to accomplish this task.<br/><br/><strong>Qualifications<br/><br/></strong>Some knowledge of the following areas is invaluable<br/><br/><ul><li>React.js; Express.js</li><li>Some knowledge of databases</li><li>A conceptual understanding of REST APIs</li><li>Completed or pursuing a degree in computer science or a related field<br/><br/></li></ul>The following areas are not required but nice to have:<br/><br/><ul><li>ORMs for connecting to databases</li><li>Unit testing / mocking dependencies</li><li>An understanding of DevOps practices</li><li>Docker<br/><br/></li></ul>If you enjoy learning new things while working with a friendly group of highly skilled individuals, this could be a great fit for you!<br/><br/>Shape your career with 3DS! <strong>#WeAre3DS<br/><br/></strong>Diversity statement<br/><br/>As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.<br/><br/>Equal opportunity<br/><br/>In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong><strong>Junior Software Development Engineer </strong>- US/Canada Only, 1 year of project experience<br/><br/></strong><strong>Employment Type:</strong> Full-time<br/><br/><strong>Base Salary:</strong> $66K-$77K<br/><br/>Phoenix Recruitment offers a variety of recruiting services to assist both employers and employees. They specialize in marketing open positions, recruiting, and helping employers to find qualified candidates across various industries. Phoenix Recruitment has expertise in streamlining the hiring process. They can help ensure that the process is efficient, well organized, and compliant with relevant regulations.<br/><br/>Job Description:<br/><br/>As a Junior Software Development Engineer, you will play a crucial role in the design, development, and maintenance of our software applications. You will work closely with senior engineers and collaborate with cross-functional teams to deliver high-quality solutions. This is an exciting opportunity to kick-start your career in software development and contribute to innovative projects in a supportive and collaborative environment.<br/><br/>Responsibilities:<br/><br/><ul><li>Collaborate with the development team to understand project requirements and objectives </li><li>Participate in the entire software development lifecycle, from design to deployment </li><li>Write clean, efficient, and maintainable code following best practices and coding standards </li><li>Contribute to the development of both front-end and back-end components </li><li>Collaborate with designers to ensure a visually appealing and user-friendly interface </li><li>Integrate APIs and web services to enable seamless communication between different systems </li><li>Conduct testing and debugging to ensure the functionality and performance of applications </li><li>Participate in code reviews and provide constructive feedback to improve code quality </li><li>Stay up-to-date with the latest software development trends and technologies </li><li>Document technical specifications and project details <br/><br/></li></ul>Qualifications:<br/><br/><ul><li>Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience) </li><li>Solid understanding of software development principles and best practices </li><li>Proficiency in at least one programming language (e.g., Java, C++, Python, Ruby) </li><li>Familiarity with front-end development languages such as HTML, CSS, and JavaScript </li><li>Knowledge of relational databases and SQL </li><li>Understanding of version control systems (e.g., Git) </li><li>Strong problem-solving and analytical skills </li><li>Excellent communication and collaboration abilities </li><li>Ability to work independently and within a team </li><li>Eagerness to learn and adapt to new technologies <br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience with software development projects (personal or professional) </li><li>Familiarity with front-end frameworks/libraries like React, Angular, or Vue.js </li><li>Knowledge of back-end frameworks (e.g., Spring, Django, Ruby on Rails) </li><li>Exposure to cloud platforms such as AWS, Azure, or Google Cloud </li><li>Understanding of Agile development methodologies </li><li>Basic understanding of software testing principles and methodologies <br/><br/></li></ul><strong>Benefits<br/><br/></strong>Special Benefits you will love:<br/><br/><ul><li>Flexible vacation, unlimited paid holidays, and paid sick days </li><li>401(k) with up to 2% employer match </li><li>Health, vision, and dental insurance <br/><br/></li></ul><strong>Why Phoenix Recruitment LLC?<br/><br/></strong>Phoenix Recruitment often has an extensive network of employers and candidates. This network allows them to tap into a pool of qualified candidates and connect them with suitable job opportunities. They can also leverage their connections to help employers find the right talent efficiently. Outsourcing the recruitment process to a specialized agency can save your time and resources, avoid delays, reduce administrative burdens, and increase the chances of finding the right fit for your organization.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

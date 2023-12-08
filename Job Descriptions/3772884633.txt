@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>SoHo Dragon represents an investment bank with offices in New York, NY that needs to hire a Information Security Office Consultant.<br/><br/><strong>Hybrid - Monday and Friday onsite.<br/><br/></strong><strong>Summary:</strong> This position reports directly to the Head of the Information Security Office, contributes to, and supports the firm's overall Information Security. The position interfaces with various levels of IT and business personnel, monitoring critical security functions, evaluating key IT processes from a perspective of information security, and advises on best practices and approaches. The ISO is an advanced role supporting the entire cybersecurity program. This individual provides executive support, strategic and tactical guidance, and complete execution for a world-class cybersecurity program, primarily supporting regional enterprise security initiatives.<br/><br/>As directed by the CISO, the ISO helps drive strategy while providing oversight and reporting on the execution of enterprise security systems, applications and operations. As a business enabler, the ISO ensures business decisions are not obstructed by cybersecurity but instead are made using sound security principles and supporting corporate security policies and plans. The ISO will work with an adaptable and secure business-supporting cybersecurity team, in addition to influencing and executing with technical teams, which includes but is not limited to patch management, security operations, security engineering and software development.<br/><br/><strong>Essential Job Duties<br/><br/></strong><ul><li>Stay abreast of information security and information technology issues, threats, vulnerabilities and regulatory changes affecting the organization, and perform independent research as needed. Provide consultation and guidance to IT teams as and when needed to address issues</li><li>Prepare and provide status reports and dashboards on various matters (BAU activity, projects, KRIs, strategy, etc.) to senior executives</li><li>Ensure security governance is uniformly applied and remain informed on projects progress; create quality reports illustrating program status, areas for improvement and success</li><li>Work with, monitor and provide guidance, evaluation and advocacy on information security related audits including scope of audits, issue finding, and disposition of issues to put the institution in its best light. </li><li>Work closely with various business functions (e.g., banking, equities, operational risk, compliance, legal, HR and audit teams) to provide security best practice expertise. Stay abreast of new laws, regulations and standards, and assess their impacts to the business</li><li>Drive efforts to internally assess, evaluate and make recInforommendations to management regarding the adequacy of the security controls, security programs across the enterprise</li><li>Conduct independent verification of the company networks and sensitive programs through internal team resources and independent consultant engagements</li><li>Perform other duties as assigned<br/><br/></li></ul><strong>Skills and Experience:<br/><br/></strong><ul><li>Demonstrates highly effective communications skills with the ability to influence business units</li><li>Solid knowledge of information security tools and techniques, including: data leakage prevention, incident response, vulnerability scanning and reporting, security operations, identity management and Cloud security</li><li>Ability to independently work, be counted upon, manage priorities, and remain flexible in a changing environment while meeting project timelines</li><li>Proven high level of integrity, trustworthiness and confidence, as well as ability to represent the company and security leadership with the highest level of professionalism</li><li>Strong Microsoft Office, project management and organizational skills</li><li>Applicable knowledgeable with the cybersecurity requirements and best practices recommended by various regulators such as the Federal Reserve Bank (FRB), New York Department of Financial Services (NYDFS) regulations and frameworks, and others;</li><li>Familiarity with National Institute of Technology (NIST) standards, International Standards Organization (ISO) standards, etc. and aligning those with enterprise solutions &amp; processes</li><li>5+ years’ cybersecurity experience with at least 2+ years in an operationally focused security practitioner role</li><li>Solid knowledge of several information security and technology frameworks including: FFIEC, ISO, NIST</li><li>Financial Services/Banking experience is preferred</li><li>CISSP, CRISC, CISA, CISM, CEH or CCSP certifications a plus<br/><br/></li></ul><strong>Education:<br/><br/></strong>Bachelor's degree and/or Masters degree in computer science, MIS, information assurance or related technical field. Related experience acceptable in lieu of related degree.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

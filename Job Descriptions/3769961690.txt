@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you passionate about software development and eager to join a dynamic team of experts? Look no further! We are a leading software product development company, and we are currently seeking talented engineers to join us in crafting innovative solutions for small- to medium-sized businesses.<br/><br/><strong>About Us<br/><br/></strong>At Rivers Agile, we specialize in creating software products for a diverse range of clients. Operating primarily from our home office, we pride ourselves on forming small, collaborative teams that handle the entire lifecycle development of cutting-edge software products. Our engineers are the backbone of this process, and we are on the lookout for individuals who are lifelong learners, enthusiastic about their craft, and defined by their unique personality, experience, and style. If you're a versatile engineer ready to contribute to the success of various projects, we want to hear from you!<br/><br/>Location:<br/><br/>Our office is conveniently located on Pittsburgh's North Shore, just across from PNC Park. While we encourage local candidates to apply, we also welcome applications from remote candidates. Most of our team members work remotely, coming to the office for occasional meetings.<br/><br/><strong>Technical Skills<br/><br/></strong>5+ years of experience in software development<br/><br/>Proficiency in one or more modern web application frameworks, such as Angular, React, Vue.js, Ruby on Rails, ASP.NET MVC, Bootstrap, Material Design, or others<br/><br/>Strong JavaScript and/or TypeScript skills<br/><br/>Proficient with server-side technologies (Node.js, Ruby, Java, Python, .NET, etc.)<br/><br/>Competency working with relational databases (MySQL, Postgres, SQL Server, etc.)<br/><br/>Demonstrated success in implementing robust user interfaces backed by enterprise-grade APIs and complex data models<br/><br/>Experience with cloud infrastructure (AWS, Azure) is a plus<br/><br/><strong>Other Expectations<br/><br/></strong>Bachelor's degree in computer science, information technology, or a related field<br/><br/>Ability to function as an individual contributor, taking ownership of tasks and working collaboratively within a team<br/><br/>Experience operating in all areas of the application lifecycle from inception through maintenance<br/><br/>Commitment to delivering quality solutions to clients, adhering to accepted definitions of done<br/><br/>Demonstrated integrity, work ethic, professionalism, and diversity in working with others<br/><br/>Active participation in company activities, including recruiting, training, and team building<br/><br/>Adaptability to change and ambiguity in a resourceful, positive, and professional manner<br/><br/>Application of technical and industry knowledge to offer creative and relevant solutions to our clients<br/><br/><strong>Package<br/><br/></strong>Salaried position with a competitive bonus program<br/><br/>Full benefits package, including medical, dental, vision, and supplementary coverage<br/><br/>Holidays, paid time off, and a 401(k) plan<br/><br/>Good work-life balance with opportunities for remote work<br/><br/>Join us in shaping the future of software development! Apply today and become a valuable part of our innovative team at Rivers Agile.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

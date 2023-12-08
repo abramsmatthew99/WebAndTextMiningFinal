@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Are You Ready to Make It Happen at Mondelēz International?<br/><br/></strong><strong>Join our Mission to Lead the Future of Snacking. Make It Possible.<br/><br/></strong>Support Business Intelligence Solutions &amp; Insights initiatives to uncover trends that deduce insights and solve business problems and drive long-term business results.<br/><br/><strong>How you will contribute:<br/><br/></strong><ul><li>Data analysts are interpreters of data - gather data, manipulate it, identify useful information from it, and transform their findings into digestible insights using visualization tools. </li><li>Foundational knowledge in math and statistical skills, strong business acumen, Foundational computer science/coding skills. </li><li>Developing ability to effectively tell stories and create actionable insights. </li><li>Intermediate experienced tuning SQL statements, Stored Procedures, Power Query, and DAX. </li><li>Foundational experience building data models (ie star schema) that align with business requirements </li><li>Background in Process and Workflow (Alteryx). design, information modeling, as well understanding of how applications/systems are integrated with one another is ideal.<br/><br/><br/></li></ul><strong>Key Responsibilities:<br/><br/></strong><ul><li>Execute the business analytics agenda in conjunction with analytics team leaders. </li><li>Understand how the business interacts with data to curate and deliver data and visualization solutions that will enhance business objectives. </li><li>Partner with System Analyst/Data Engineer on data needs. </li><li>Solicit, define, and analyze essential business requirements and transform those business needs into user stories through visualization within a given business area. </li><li>Supports analytical activities and delivers analysis outputs, in accordance with business needs and conforming to agreed standards. </li><li>Leverage data analytical tools to develop data solutions that add business value. Maintain existing analytical tools. </li><li>Use technical skills to create new analytical processes on datasets to deduce insights and solve business problems. </li><li>Performs root cause analysis. </li><li>Drive data quality by validating data &amp; metrics calculations, surfacing quality issues, documenting, and remediating data quality issues. </li><li>Identifies patterns and helps the business react to changing business conditions and promote problem-solving. <br/><br/><br/></li></ul><strong>Technical Skills</strong><strong>:<br/><br/></strong><ul><li>Power BI or other leading BI tools </li><li>SQL statements, Stored Procedures, Power Query, and DAX </li><li>Building data models (ie star schema) </li><li>Process and Workflow (Alteryx) <br/><br/><br/></li></ul><strong>More About This Role<br/><br/></strong><strong><strong><strong>Job specific requirements:<br/><br/></strong></strong></strong>1+ years Business Intelligence &amp; Analytics teams<br/><br/>1+ years in Supply Chain<br/><br/><strong><strong><strong>Education / Certifications:<br/><br/></strong></strong></strong>Bachelor’s degree in a related field<br/><br/><strong>BS Or MS In Analytics Preferred<br/><br/></strong>Remote role within the USA.<br/><br/>No Relocation support available<br/><br/><strong>Business Unit Summary<br/><br/></strong>The United States is the largest market in the Mondelēz International family with a significant employee and manufacturing footprint. Here, we produce our well-loved household favorites to provide our consumers with the right snack, at the right moment, made the right way. We have corporate offices, sales, manufacturing and distribution locations throughout the U.S. to ensure our iconic brands—including <em>Oreo</em> and <em>Chips Ahoy!</em> cookies, <em>Ritz</em>, <em>Wheat Thins</em> and <em>Triscuit</em> crackers, and <em>Swedish Fish</em> and <em>Sour Patch</em> <em>Kids</em> confectionery products —are close at hand for our consumers across the country.<br/><br/>Mondelēz Global LLC is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran status, sexual orientation, gender identity, gender expression, genetic information, or any other characteristic protected by law. Applicants who require accommodation to participate in the job application process may contact 847-943-5460 for assistance.<br/><br/><strong>Job Type<br/><br/></strong>Regular<br/><br/>Data Science<br/><br/>Analytics &amp; Data Science
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Food and Beverage Services, Food and Beverage Manufacturing, and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

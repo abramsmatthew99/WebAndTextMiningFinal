@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you an experienced, passionate pioneer in technology, a solutions builder, a roll-up-your-sleeves technologist who wants a daily collaborative environment, think-tank feel and share new ideas with your colleagues - without the extensive demands of travel? If so, consider an opportunity with our US Delivery Center we are breaking the mold of a typical Delivery Center.<br/><br/>Our US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below:<br/><br/><strong>The Team<br/><br/></strong>The HR Transformation team is a core component of our Human Capital practice; the work we do supports the five major issues our clients are facing. We collaborate with our clients to develop leading global HR strategies and support organizations in achieving excellence through implementing solutions that transform how they organize, develop capabilities, deploy leading technology, and deliver a leading employee experience.<br/><br/>Keeping the employee in mind, all our services cater to improving an organization's productivity through their human capital asset. The client issues we work with range from the need for a comprehensive HR strategy, to determining the need for new and enabling technologies, to streamlining HR operations and transforming the way HR is delivered.<br/><br/><strong>How You'll Grow<br/><br/></strong>At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career.<br/><br/><strong>Work You'll Do/Responsibilities<br/><br/></strong>As a ServiceNow Functional Consultant for our HR Transformation team, you will utilize your knowledge and experience of ServiceNow to support Deloitte's Human Capital Consulting ServiceNow team. In this role you will be responsible for:<br/><br/><ul><li>Supporting implementation and O&amp;M practices while taking ownership of technical tasks</li><li>Diagnosing and resolving defects identified across multiple aspects of the system (user interface, data, performance, etc.)</li><li>Collaborating with fellow functional teams, developers, and testers in an agile development environment</li><li>Working with Government Product Owners to provide technical insight on business requirements and functional design<br/><br/></li></ul><strong>Qualifications Required<br/><br/></strong><ul><li>3+ years of professional Full Stack Development experience</li><li>3+ years of experience in Bootstrap, Angular JS, Microsoft PL/SQL, API, Cascading Style Sheets, HTML5, JavaScript, Agile Software Development Methodology</li><li>Must have expertise in back end, server-side API's, integrations, client-side JavaScript, and databases</li><li>Bachelor of Science in Computer Science, or a similar technical discipline</li><li>A current government security clearance, or the ability to hold a clearance is required</li><li>Must be in your designated office location 10%-30% throughout the year</li><li>Must live near, or relocate to, the Lake Mary, FL; Gilbert, AZ; or Mechanicsburg, PA area</li><li>Ability to travel up to 10%, on average, based on the work you do and the clients and industries/sectors you serve</li><li>Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future<br/><br/></li></ul><strong>Preferred<br/><br/></strong><ul><li>Professional oral and written communication skills</li><li>Strong problem solving and troubleshooting skills with experience exercising mature judgement</li><li>Excellent teamwork and interpersonal skills</li><li>Experience with Angular, REST API, and enterprise software (e.g. ERP)</li><li>Experience with Business Rules, Script Includes, UI Actions, Scheduled Jobs</li><li>Prior professional services or federal consulting experience</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Human Resources
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Business Consulting and Services, and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Who We Are:<br/><br/>We are a web-development and marketing company based in Santa Barbara that operates multiple direct to consumer websites and portals with an audience of millions of monthly visitors. We are creative. We use that creativity combined with our software and love of data to continuously optimize and improve our ability to acquire and retain customers. We operate at scale and milliseconds count, we’re always striving to be faster and more efficient to deliver the best user experience for our customers. We take work seriously, but we try not to take ourselves too seriously and we enjoy having some fun along the way.<br/><br/>Who You Are:<br/><br/>You have a strong technical background and are enthusiastic about writing software testing solutions. You have successfully managed individual testing projects, from their initiation to ongoing maintenance. You have a deep understanding of testing framework and methodologies. Moreover, you are both a collaborative team player and an effective communicator.<br/><br/>You’ll report to the Sr. Manager of Engineering and partner with the rest of the engineering team and project management.<br/><br/>In this role, you will:<br/><br/><ul><li>Develop test plan, test cases and strategies based on product requirements and technical implementations to provide effective end to end coverage</li><li>Run test cases and scenarios, including functional, regression and performance testing</li><li>Prepare and distribute test reports for development team and stakeholders</li><li>Design, develop and maintain automated tests</li><li>Collaborate across teams to align on release timelines, test readiness and define release test plan to support requirements</li><li>Continuously contribute to QA support functions, triage issues, troubleshoot issues and execute production release testing</li><li>Monitor, track, analyze issues and it’s trends, and provide regular reports on the quality of our software</li><li>Continuously improve our QA processes and methodologies</li><li>Create and maintain documentation as needed, including test plans, test cases and test reports</li><li>Participate in release and deployment activities, and publish release notes as needed<br/><br/></li></ul>About You:<br/><br/><ul><li>Bachelor's degree in Computer Science, Engineering, or a related field</li><li>3+ years of quality assurance engineering experience</li><li>Experience in automated and manual testing</li><li>Experience on leading the QA effort independently</li><li>Strong understanding of software testing methodologies, testing techniques, and QA best practices</li><li>Experience with any automated testing tool and framework like Ghost inspector, Cypress, Playwright, etc.</li><li>Excellent problem solving and analytical skills</li><li>Ability to mentor junior QA engineers and other team members on product, testing strategies, etc</li><li>Strong communication and collaboration skills to work effectively in a cross-functional team</li><li>Ability to work independently and manage multiple tasks and priorities effectively<br/><br/></li></ul>Compensation &amp; Location:<br/><br/>Scalable Commerce maintains an office in Goleta for a hybrid work environment, where employees come in 1-2x a week. This role is eligible for remote work within California.<br/><br/>The target compensation range for this position is $90,000 to $110,000, based upon background and experience.<br/><br/>You’ll enjoy a dynamic and fun work environment with a team of people that care about results. We offer a competitive salary, bonus package, health insurance, and a 401k retirement plan. We Take a break from work with flexible PTO and Scalable Away Days where the team enjoys certain Fridays off at the same time to unplug and unwind. We have a fun and casual office environment and carve out plenty of time for learning, challenges, and personal goals.<br/><br/>Scalable Commerce is proud to be an Equal Employment Opportunity employer. We do not discriminate based on race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability status, or any other applicable characteristics protected by law. We are committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at hr@scalablecommerce.com<br/><br/>Powered by JazzHR<br/><br/>bFn6l4Xuxb
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

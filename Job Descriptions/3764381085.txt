@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Lifeway is seeking a <strong>Software Development Engineer Intern </strong>to assist with the my.lifeway.com customer-facing application, to streamline UI in the application with direction from the technical product manager and other front-end developers.<br/><br/><strong> Interning at Lifeway <br/><br/></strong>The Lifeway Internship Program is designed to provide college students and recent college graduates a valuable learning experience where they can grow professionally, personally, and spiritually. Our internships offer significantly more than “busy work.” As an intern, you’ll receive professional development and leadership training, exposure to senior leaders, and mentoring relationships with professionals in your field.<br/><br/><strong>Internship Program Details/Requirements<br/><br/></strong><ul><li> Lifeway’s summer internship program offers a competitive hourly pay rate, all necessary equipment will be provided </li><li> Interns work 32 hours per week on average with Tuesday - Thursday as required core workdays </li><li> Interns must commit to participate in the entirety of the program: June 3 - August 9, 2024 (10 weeks) </li><li> Candidates must be currently enrolled at a college or university in an undergraduate or graduate program, and have fully completed at least two years of study. Recent graduates are eligible if they graduated the semester immediately prior (December 2023 or May 2024 graduates only) </li><li> Interns will receive development each week </li><li> Interns will work remotely throughout the program with the exception of orientation and end-of-summer presentations. Lifeway will cover the cost of travel to Nashville </li><li> Internship applications are due by January 15, we will begin interviews once the applications are closed. Selections are finalized by April 1 <br/><br/></li></ul><strong> This is a remote position in the U.S. with travel to Nashville at the beginning and end of the summer, cost for travel is covered by Lifeway. <br/><br/></strong><strong>Responsibilities<br/><br/></strong><strong> Learn more about our culture at team.lifeway.com/culture-code <br/><br/></strong><ul><li> Work with other engineers to design and code technical solutions or features for our platforms </li><li> Work with other engineers to define and build test plans for digital platform features </li><li> Participate in agile meetings and gain exposure to development processes and discussions <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Live out Lifeway’s mission and values , showing deep commitment to Kingdom work </li><li> Major in Computer Science, Computer Engineering or a related field </li><li> Experience with React, JavaScript, Jest, HTML, CSS </li><li> Familiarity with Java, Kotlin, Scala </li><li> Excellent written and verbal communication skills </li><li> Familiarity with Microsoft 365 preferred</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Book and Periodical Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

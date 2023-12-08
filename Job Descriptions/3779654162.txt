@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>We believe the movement of people and goods isn’t working. It’s slow. It’s stressful. It’s mired in decades of additive processes. There is a faster, more secure way to establish trust without compromising privacy.<br/><br/>At Pangiam, we have assembled a diverse team of computer vision technologists, former government leaders, and industry veterans with a track record of affecting change at the highest levels in order to define a new era of intelligent authentication.<br/><br/>We are building the future of trusted movement where individuals and cargo are processed at speed, increasing facilitation and security simultaneously. We are looking for hungry builders who are unsatisfied with the status quo. The right candidates are chomping at the bit to affect positive change in the way people and goods move through the physical and digital world. It’s time to move forward. Come join us.<br/><br/><strong>Job Description<br/><br/></strong><ul><li> Design and implement JEE software applications</li><li> Use modern software engineering tools and methodologies including Eclipse, and Atlassian Products (Jira, Confluence)</li><li> Work with users in an Agile development approach to understand requirements, then elicit feedback and refine solution through demonstrations</li><li> Present the solution at formal and informal design reviews, and document the design according to the Government’s system lifecycle methodology<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>The following skills/experience are required to be considered for this position:<br/><br/></strong><ul><li>Candidates must have 3-5+ years of experience WITH a technical degree in a related field such as computer science, electrical engineering, etc. </li><ul><li>7-8+ years of experience WITHOUT a technical degree in a related field. </li></ul><li>Proficiency with Java. </li><li>Experience developing web applications utilizing Java Enterprise Edition (J2EE), XML, or Web Services at an enterprise level. </li><ul><li>Including HTML, CSS, JavaScript. </li></ul><li>Proficiency with Spring Boot and microservice architecture. </li><ul><li>Must understand basic Spring dependency injection concepts and key annotations. </li><li>Must know how to create a simple Spring Boot project. </li><li>Must understand basic Spring security. </li></ul><li>Proficiency with ORM frameworks such as JPA and Hibernate. </li><li>Experience with SQL. </li><ul><li>Must be comfortable writing queries. </li><li>Must demonstrate an ability to troubleshoot SQL performance issues and other common errors. </li></ul><li>Experience with React, Angular, NodeJS. </li><li>We prefer candidates who are well rounded in both UI and backend development but is not necessary if they can demonstrate an expertise in one of the areas, and an ability to learn new skills on the job. <br/><br/></li></ul><strong>The following is a plus, but not required:<br/><br/></strong><ul><li>AWS (EC2, S3, etc.)</li><li>Kubernetes/Konvoy</li><li>Swagger/OpenAPI</li><li>Web services</li><li>Unix/ Linux</li><li>Docker<br/><br/></li></ul><strong>Desired knowledge and experience include:<br/><br/></strong><ul><li>Developing 100% automating unit tests. </li><li>Agile development approach. </li><li>Ability to work in a high-pressured, tight-deadline environment. </li><li>Superior written and oral communication skills are essential. </li><li>Must be able to multitask efficiently and progressively and work comfortably in an ever-changing data environment. </li><li>Excellent verbal/written communication and problem-solving skills; ability to communicate information to a variety of groups at different technical skill levels. <br/><br/></li></ul><strong>Education:<br/><br/></strong>A Bachelor’s in Computer Science, Software Engineering, Information Technology, or related field with applicable experience is required. Applicable work experience may be considered in lieu of a degree.<br/><br/><strong>Must be a US Citizen</strong>. Qualified applicants may be subject to a security investigation and must meet minimum qualifications for access to classified information<strong>.<br/><br/></strong><em><strong>Successful applicants for this position must be fully vaccinated against COVID-19 or approved for a qualifying exemption </strong></em><em><strong>as a condition of employment. Proof of COVID-19 vaccination required as part of the onboarding process.<br/><br/></strong></em>Additional Information<br/><br/>All your information will be kept confidential according to EEO guidelines.<br/><br/>Pangiam is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

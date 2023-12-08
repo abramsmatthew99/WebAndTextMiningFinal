@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong>The Systems Engineer II is responsible for maintaining and supporting the firm's servers and infrastructure by ensuring our systems are operational. The Systems Engineers are responsible for assessing systems, providing solutions to issues that arise and maintaining systems in a hybrid environment. This role will specifically be assigned to the Core Systems Server team.<br/><br/><strong>Essential Duties And Responsibilities<br/><br/></strong><ul><li>Creating control features to ensure systems effectively meet the organization’s quality standards</li><li>Troubleshoot and communicate with teams to come up with solutions</li><li>Cross train teams on run books and troubleshooting techniques</li><li>Ensuring that an organization is operating at maximum efficiency, from manufacturing to distribution</li><li>Speaking to and collaborating with a variety of people, such as, vendors, management, IT staff and other Stifel associates during the creation and maintenance of a system<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Develop solutions to problems, as well as manage multiple issues at the same time</li><li>Ability to use logic and reasoning when troubleshooting difficult issues</li><li>Ability to think outside the box; imagine innovative effective solutions and designs</li><li>Understanding and appropriately responding to feedback</li><li>Strong oral and written communication skills</li><li>Ability to collaborate effectively with other team members<br/><br/><br/></li></ul><strong>Education And Experience<br/><br/></strong><ul><li>Bachelor's Degree in Information Technology, Computer Science, or Computer Information Systems, or equivalent experience required</li><li>2+ years' experience in System Administration required<br/><br/><br/></li></ul><strong>About Stifel<br/><br/></strong>Stifel is a more than 130 years old and still thinking like a start-up. We are a global wealth management and investment banking firm serious about innovation and fresh ideas. Built on a simple premise of safeguarding our clients’ money as if it were our own, coined by our namesake, Herman Stifel, our success is intimately tied to our commitment to helping families, companies, and municipalities find their own success.<br/><br/>While our headquarters is in St. Louis, we have offices in New York, San Francisco, Baltimore, London, Frankfurt, Toronto, and more than 400 other locations. Stifel is home to approximately 9,000 individuals who are currently building their careers as financial advisors, research analysts, project managers, marketing specialists, developers, bankers, operations associates, among hundreds more. Let’s talk about how you can find your place here at Stifel, where success meets success.<br/><br/>At Stifel we offer an entrepreneurial environment, comprehensive benefits package to include health, dental and vision care, 401k, wellness initiatives, life insurance, and paid time off.<br/><br/>Stifel is an Equal Opportunity Employer.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

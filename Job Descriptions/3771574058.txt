@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>MOORESVILLE, IN. AREA MANUFACTURING PLANT SEEKS PROCESS ENGINEER WITH STRONG PLC / ROBOTICS SKILLS <br/><br/></strong><strong>PERM. FULL TIME POSITION WITH EXCELLENT BENEFITS THAT START DAY 1!<br/><br/></strong><strong>1ST SHIFT <br/><br/></strong><strong>$30/$35 PER HOUR PLUS PAID OT<br/><br/></strong>Process/Controls Engineer focuses both on early process development to influence equipment design characteristics for improved manufacturability, efficiency and reliability, as well as troubleshooting and improving existing automated manufacturing equipment and processes. Job Duties:  PLC/HMI hardware/ software design, programming, and troubleshooting  Work in a team environment to help design, develop, and improve electro-mechanical control systems for resistance/ GMAW welding and assembly processes  Work closely with external suppliers and manufacturers, supporting the development, fabrication, and timeline management of new automation systems  Provide feedback to internal groups based on customer needs, potential process improvements, and new automation ideas  Provide engineering support plant wide in equipment troubleshooting to reduce/ eliminate downtime  Assist with the development and design of control systems  Assist with the preparation of cost estimates for new equipment  Develop documentation for use, function, and purpose of new manufacturing equipment Qualifications:  Ability to read, analyze and interpret technical product drawings, interpret technical procedures, write reports, business correspondence, and procedure manuals. Ability to effectively present information and respond to questions.  Ability to solve practical and technical problems and deal with a variety of variables in situations where only limited standardization exists.  PLC / HMI programming and troubleshooting experience o Omron programming experience preferred  Experience with industrial robots used in automated manufacturing processes o Yaskawa Motoman robot experience preferred  Troubleshoot and perform electrical repairs on manufacturing equipment with 24 volt DC systems  Ability to work in team environment  Excellent communication skills, both verbal and written. Education:  Bachelor's degree in Tech, Automation/Electrical Engineering, or Computer Science (Preferred)  3+ years relative work experience Benefits:  Matching 401(k)  Health / Dental / Vision / Life insurance  Paid time off  Attendance bonus
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

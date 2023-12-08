@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>As an IT Support Technician at Abstrakt Marketing Group, you will provide day-to-day IT support for our users and systems. Most of the work in this role is analogous to tier 1 desktop support or slightly higher, with room and potential to grow and advance in your responsibilities. Amidst normal ticketing, you will also be assigned weekly project work such as preparing equipment, accounts, and services for new users, updating digital signage, and other similar initiatives. This role is also be responsible for keeping track of equipment and license inventory.<br/><br/>As a fast-growing company, we are always realizing new needs and technology advancements that could help our organization. As your strengths and interests are identified and we continue to expand as a company with growing needs, you will have the opportunity to learn and develop more IT knowledge through both on the job training as well as structured courses, that will help you contribute to the overall success of our organization.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li> Tier 1 desktop and service ticketing support (On-site and Limited Remote)</li><li> Responsible for Handling All New User Technology Onboarding</li><li> Equipment and License Inventory</li><li> Documentation of, and Adherence to, Technical Processes and Procedures</li><li> Basic Maintenance of User Facing Systems</li><li> Assist in System Implementation/Upgrade/Maintenance Projects<br/><br/><br/></li></ul><strong>Job Requirements<br/><br/></strong><ul><li> Associate’s degree or higher IT-related degree (Networking Systems, Computer Science, etc.), relevant IT Certification, or 1+ year experience.</li><li> Basic Desktop support and Debugging Skills and Knowledge</li><li> Basic Networking Skills</li><li> Strong Attention to Detail</li><li> Strong Communication/Customer Service Skills</li><li> Flexibility and Willingness to Learn</li><li> Ability to Work Non-Business Hours (Infrequent)<br/><br/><br/></li></ul><strong>Preferred Requirements<br/><br/></strong><ul><li> CompTIA A+ Certification or Similar</li><li> While not required, let us know if you have basic knowledge or certification in the following areas:</li><li> Windows Server (Preferably 2016 or Greater)</li><li> Linux (Primarily Headless Ubuntu)</li><li> Powershell</li><li> Active Directory</li><li> DNS</li><li> DHCP</li><li> Windows 10</li><li> OS X</li><li> MS Office Suite</li><li> MS/Office 365</li><li> SharePoint</li><li> Exchange</li><li> WatchGuard UTM</li><li> Kaseya VSA</li><li> HP Networking</li><li> Carbon Black</li><li> KnowBe4</li><li> PRTG</li><li> Salesforce</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

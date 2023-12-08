@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        WHAT MAKES US EPIC?<br/><br/>At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.<br/><br/>Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine and game development.<br/><br/>QUALITY ASSURANCE<br/><br/><strong>What We Do<br/><br/></strong>The Quality Assurance team owns the testing process, risk management, and quality evaluation of all products and functions across Epic. Our team works closely with developers and production to ensure the best possible user experience for our community and customers.<br/><br/><strong>What You'll Do<br/><br/></strong>People within the QA Engineer career track work with product owners, developers, and QA management to define acceptance criteria, identify risks, and plan testing coverage for upcoming features/releases. You will develop and implement automation test strategies and utilize technical tooling to expand breadth and add depth to QA coverage of multiple features in a dynamic and fast-paced environment. You will facilitate functional, qualitative, and performance testing efforts while using a mix of manual and technical testing skills to execute a variety of testing techniques across your product to analyze and report on quality. You are expected to work in a highly autonomous environment embedded on a specific team or product while working closely with designers, engineers, and production staff, using a combination of quality assurance, data analysis, and technical skills to drive appropriate testing techniques early on in development through release cycles and beyond.<br/><br/><strong>In this role, you will<br/><br/></strong><ul><li>Working with product owners, developers and QA management to define acceptance criteria, identify risks, and plan testing coverage for upcoming features / releases</li><li>Examine technical gaps and automation initiatives between geographically distributed teams, vendors and agencies to deliver the highest quality product</li><li>Building test strategies and test plans to cover multiple features in a dynamic and fast-paced environment</li><li>Using a mix of manual and technical testing skills to execute a variety of testing techniques across your product to analyze the quality of said product while troubleshooting reported defects and internal issues</li><li>Reporting and tracking for data quality, and using that data to drive conversations around product quality and development health, supporting developers before, during, and after deployments</li><li>Test communications between the client and backend services<br/><br/><br/></li></ul><strong>What We're Looking For<br/><br/></strong><ul><li>3+ years of professional QA experience</li><li>2+ years professional coding experience or Computer Science Bachelor’s Degree </li><li>Previous experience creating tools or automation using Python, C++ and/or C#</li><li>Experience working in and/or with UE4/UE5</li><li>Experience with root cause analysis of defects</li><li>Previous experience working with data and/or analytics preferred but not required</li><li>Strong communication skills and ability to confidently collaborate with senior members on technical topics and features</li><li>Software/games testing experience in a fast paced environment</li><li>Technical understanding of web, mobile, XR, or game technologies, including automation, functional, qualitative, and performance against consistently iterative development <br/><br/><br/></li></ul>EPIC JOB + EPIC BENEFITS = EPIC LIFE<br/><br/>Our intent is to cover all things that are medically necessary and improve the quality of life. We pay 100% of the premiums for both you and your dependents. Our coverage includes Medical, Dental, a Vision HRA, Long Term Disability, Life Insurance &amp; a 401k with competitive match. We also offer a robust mental well-being program through Modern Health, which provides free therapy and coaching for employees &amp; dependents. Throughout the year we celebrate our employees with events and company-wide paid breaks. We offer unlimited PTO and sick time and recognize individuals for 7 years of employment with a paid sabbatical.<br/><br/>Washington Base Pay Range<br/><br/>$97,047—$142,236 USD<br/><br/><strong>About Us<br/><br/></strong>Epic Games spans across 19 countries with 55 studios and 4,500+ employees globally. For over 25 years, we’ve been making award-winning games and engine technology that empowers others to make visually stunning games and 3D content that bring environments to life like never before. Epic’s award-winning Unreal Engine technology not only provides game developers the ability to build high-fidelity, interactive experiences for PC, console, mobile, and VR, it is also a tool being embraced by content creators across a variety of industries such as media and entertainment, automotive, and architectural design. As we continue to build our Engine technology and develop remarkable games, we strive to build teams of world-class talent.<br/><br/><strong>Like what you hear? Come be a part of something Epic!<br/><br/></strong>Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal Employment Opportunity (EEO) Policy here.<br/><br/><strong>Note to Recruitment Agencies: </strong>Epic does not accept any unsolicited resumes or approaches from any unauthorized third party (including recruitment or placement agencies) (i.e., a third party with whom we do not have a negotiated and validly executed agreement). We will not pay any fees to any unauthorized third party. Further details on these matters can be found here.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development, Entertainment Providers, and Computer Games
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>The Data Engineer position will focus on designing, developing, and supporting our Hadoop data solutions in Spark and Python (PySpark) while working with other components of the Hadoop ecosystem such as HDFS, Hive, Hue, Impala, Zeppelin, Jupyter. A successful candidate will work closely with business and portfolio leads to understand requirements then design and build innovative data solutions.<br/><br/><strong>Job Duties &amp; Responsibilities.<br/><br/></strong><ul><li>Design and development centered around PySpark, Python and Hadoop Framework.</li><li>Working with gigabytes/terabytes of data and must understand the challenges of transforming and enriching such large datasets.</li><li>Provide effective solutions to address the business problems – strategic and tactical.</li><li>Collaboration with team members, project managers, business analysts and QA teams in conceptualizing, estimating and developing new solutions and enhancements.</li><li>Work closely with the stake holders to define and refine the big data platform to achieve sales, product, and strategic objectives.</li><li>Collaborate with other technology teams and architects to define and develop cross-function technology stack interactions.</li><li>Read, extract, transform, stage and load (ETL) data to multiple targets, including Hadoop and Oracle.</li><li>Ingest and streamline incoming files of various layouts/formats as part of Source Prep process.</li><li>Develop scripts around Hadoop framework to automate processes and existing flows.</li><li>Modify existing programming/code for new requirements.</li><li>Estimate work, and track progress through SDLC with JIRA/Confluence</li><li>Unit testing and debugging. Perform root cause analysis (RCA) for any failed processes.</li><li>Convert business requirements into technical design specifications and execute on them.</li><li>Participate in code reviews and keep applications/code base in sync with version control (GIT/Bitbucket).</li><li>Effective communication, self-motivation, and ability to work independently while remaining fully aligned within a distributed team environment.<br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>Bachelor’s or Master’s degree in Computer science (or Engineering equivalent).</li><li>3+ years of experience with big data ingestion, transformation and staging.</li><li>Analysis, design and implementation experience with Hadoop distributed frameworks, including Python &amp; Spark (SparkSQL, PySpark), HDFS, Hive, Impala, Hue, Cloudera Hadoop, Zeppelin, Jupyter, etc.</li><li>Extensive experience handling large volumes of data (measured in Terabytes/Billions of Transactions)</li><li>Proficient knowledge of SQL with any RDBMS</li><li>Familiarity with RDD and Data Frames within Spark</li><li>Working knowledge of data analytics</li><li>Troubleshooting and complex problem-solving skills</li><li>Knowledge of Oracle databases and PL/SQL</li><li>Working knowledge of Linux/Unix environments and comfort with Unix Shell scripts (ksh, bash)</li><li>Basic Hadoop administration knowledge.</li><li>DevOps Knowledge is an advantage</li><li>Ability to work within deadlines and effectively prioritize and execute on tasks</li><li>Strong communication skills (verbal and written) with ability to communicate across teams, internal and external at all levels<br/><br/></li></ul><strong>Preferred Skills<br/><br/></strong><ul><li>Working knowledge of Oracle databases and PL/SQL.</li><li>Hadoop Admin &amp; Dev-Ops.</li><li>ETL Skills (Familiarity with Talend or other ETL tools a plus.</li><li>Good analytical thinking and problem-solving skills.</li><li>Ability to diagnose and troubleshoot problems quickly.</li><li>Motivated to learn new technologies, applications, and domains.</li><li>Possess appetite for learning through exploration and reverse engineering.</li><li>Strong time management skills.</li><li>Ability to take full ownership of tasks and projects.</li><li>Team player with excellent interpersonal skills.</li><li>Good verbal and written communication.</li><li>Possess Can-Do attitude to overcome any kind of challenges.<br/><br/></li></ul><strong>Preferred Certifications (Any Of These)<br/><br/></strong><ul><li>CCA Spark and Hadoop Developer.</li><li>MapR Certified Spark Developer (MCSD).</li><li>MapR Certified Hadoop Developer (MCHD).</li><li>HDP Certified Apache Spark Developer.</li><li>HDP Certified Developer.<br/><br/></li></ul><strong>Additional Information<br/><br/></strong><strong>About Epsilon<br/><br/></strong>Epsilon is a global advertising and marketing technology company positioned at the center of Publicis Groupe. Epsilon accelerates clients’ ability to harness the power of their first-party data to activate campaigns across channels and devices, with an unparalleled ability to prove outcomes. The company’s industry-leading technology connects advertisers with consumers to drive performance while respecting and protecting consumer privacy. Epsilon’s people-based identity graph allows brands, agencies and publishers to reach real people, not cookies or devices, across the open web. For more information, visit epsilon.com.<br/><br/><strong>When you’re one of us, you get to run with the best.</strong> For decades, we’ve been helping marketers from the world’s top brands personalize experiences for millions of people with our cutting-edge technology, solutions and services. Epsilon’s best-in-class identity gives brands a clear, privacy-safe view of their customers, which they can use across our suite of digital media, messaging and loyalty solutions. We process 400+ billion consumer actions each day and hold many patents of proprietary technology, including real-time modeling languages and consumer privacy advancements. Thanks to the work of every employee, Epsilon has been consistently recognized as industry-leading by Forrester, Adweek and the MRC. Positioned at the core of Publicis Groupe, Epsilon is a global company with more than 8,000 employees around the world. Check out a few of these resources to learn more about what makes Epsilon so EPIC<br/><br/><ul><li>Our Culture https //www.epsilon.com/us/about-us/our-culture-epsilon</li><li>Life at Epsilon https //www.epsilon.com/us/about-us/epic-blog</li><li>DE&amp;I https //www.epsilon.com/us/about-us/diversity-equity-inclusion</li><li>CSR https //www.epsilon.com/us/about-us/corporate-social-responsibility<br/><br/></li></ul><strong>Great People Deserve Great Benefits<br/><br/></strong>We know that we have some of the brightest and most talented associates in the world, and we believe in rewarding them accordingly. If you work here, expect competitive pay, comprehensive health coverage, and endless opportunities to advance your career.<br/><br/><strong>Epsilon is an Equal Opportunity Employer.</strong> Epsilon’s policy is not to discriminate against any applicant or employee based on actual or perceived race, age, sex or gender (including pregnancy), marital status, national origin, ancestry, citizenship status, mental or physical disability, religion, creed, color, sexual orientation, gender identity or expression (including transgender status), veteran status, genetic information, or any other characteristic protected by applicable federal, state or local law. Epsilon also prohibits harassment of applicants and employees based on any of these protected categories. Epsilon will provide accommodations to applicants needing accommodations to complete the application process.<br/><br/>REF216743S<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Marketing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Advertising Services, and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>NEC X is looking for Machine Learning Engineer for our entrepreneurs-in-residence (EIRs), who are the champions of NEC X. As a backend developer on the team, you will work with several startups and NEC's world-class engineers and researchers to build world-leading startups together with our EIRs.</p><p><br/></p><p><br/></p><p><strong>About NEC X:</strong></p><p>Launched by technology giant NEC Corporation in 2018, NEC X, Inc. fast-tracks yearly spinouts. We match our cutting-edge technologies developed at NEC with innovative business ideas brought by entrepreneurs-in-residence (EIRs) and its co-founders. NEC X then incubates and accelerates these startups through our program. We are located in Silicon Valley to leverage the startup ecosystem to commercialize through open innovation.</p><p>EIRs and co-founders are the champions of NEC X. Our goal is to build world-leading startups with you!</p><p><br/></p><p><br/></p><p><strong>About the Role:</strong></p><p>In this role, you will be developing backend of early stage startups for NEC X with potential to become a co-founder or an early employee of a startup, or keep being a full-time employee at NEC X, though starting from a contract position.</p><p><br/></p><p><br/></p><p><strong>You will:</strong></p><ul><li>Work with entrepreneurs to understand their idea and be able to design a Minimum Viable Product (MVP).</li><li>Analyze NEC’s portfolio of technology and find which technologies can best be used with the entrepreneur's business idea and future product</li><li>Communicate with both EIRs and NEC's researchers, implement technologies into their prototypes</li><li>Use backend and ML skills to design the MVP.</li><li>Deploy the solutions on cloud (AWS) as API.</li></ul><p><br/></p><p><br/></p><p><strong><em>You are a good candidate if you have:</em></strong></p><ul><li>Bachelors or Masters in Computer Science.</li><li>Must be located in US.</li><li>1-2 years of professional experience using Python, in a Linux/Unix environment.</li><li>1+ year of professional experience with relational database (MySQL, PostgreSQL etc.).</li><li>1+ year of professional experience with Machine Learning algorithms e.g. Decision Trees, Neural networks etc and/or some NLP models (e.g. BERT, Transformers) using PyTorch. Experience in Computer Vision is a bonus.</li><li>1+ year API deployment experience using Flask webserver.</li><li>1+ year of professional experience deploying solutions on AWS. Must have experience with AWS Lambda, RDS, EC2, ECR, API Gateway and other AWS Services.</li><li>Solid experience using source control tools like Git.</li><li>Experience with the startup ecosystem is nice to have, whether it is as a founder, early-stage employee, or as a key member of a startup from seed to Series C.</li><li>The ability to tackle ambiguity and decide the best path forward.</li><li>An understanding of product lifecycle from ideation to launch.</li></ul><p><br/></p><p><em>Note: If you only have some of these but feel you are a strong candidate, we would still like to meet you!</em></p><p><br/></p><p><strong><em>Learn more about us at https://nec-x.com.</em></strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development and Fundraising
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Short Description<br/><br/></strong>NC DHHS Data Office seeks a Data Analyst.<br/><br/><strong>Complete Description<br/><br/></strong><ul><li>Work with Divisions and Offices to understand data challenges and questions</li><li>Identify opportunities to leverage data to improve HHS services and beneficiary outcomes</li><li>Acquiring data from primary or secondary data sources and maintaining databases</li><li>Transforming data into a new format to make it more appropriate for analysis (data wrangling)</li><li>Basic data quality profiling and data cleaning</li><li>Searching through large data sets for usable information</li><li>Creating reports and presentations for business uses</li><li>Performing statistical and computational analyses on data to find actionable results</li><li>Interpreting data, analyzing results using statistical techniques<br/><br/></li></ul><strong>Knowledge/Skills/Education<br/><br/></strong><ul><li>Excellent oral and written communication skills</li><li>Ability to communicate complex data in a simple, actionable way</li><li>Ability to visualize data in the most effective way possible for a given project or study</li><li>Analytical and problem-solving skills</li><li>Experience using statistical computer languages (R, Python, SQL, SAS, etc.) to manipulate data and draw insights from large data sets.</li><li>Familiarity with data management tools</li><li>Ability to work independently and with team members from different backgrounds</li><li>Excellent attention to detail</li><li>Masters or PhD in Informatics, Data Science, or related field, and 3&amp;plus; years experience</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

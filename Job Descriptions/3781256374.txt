@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong>AutoZone is looking for a highly experienced Engineer to be part of their Desktop Engineering team! You will be challenged to deliver key desktop initiatives in our IT organization. As a Systems Engineer, you will be responsible for performance management. You will be challenged to solve complex technical problems with unique solutions, identify improvements and work on implementing your recommendations.<br/><br/><strong>Requirements<br/><br/></strong><li>Bachelor’s Degree in MIS, Information Technology, Computer Science or 5+ years of experience. </li><li>3+ years of experience in the role of a Desktop Engineer including:</li><ul><li>Solid knowledge of device management systems and tools such as SCCM, Intune, Ivanit LanDesk, Mosyle, Jamf or other MDM solutions. </li><li>Proficient with scripting languages such as PowerShell, Batch, JSon, etc.</li><li>Proficient with packaging applications, patching, and update methodologies. </li><li>Must be able to support multi-domain environments.</li><li>Experience with GPO, Active Directory and Intune policies. </li><li>Experience with support end-user devices for Windows, Mac OS, and Linux experience is a plus. </li></ul><li>Experience with any of these technologies is a plus (but not required):</li><ul><li>Power Apps, Power Automate or Microsoft Flow. </li><li>Microsoft AutoPilot or no-touch/zero touch solutions.</li><li>Familiar with Azure AD and SharePoint</li><li>Must possess critical thinking skills with the ability to resolve complex business. </li><ul><li>Act as liaison with business partners, such as WinTel, InfoSec, Networking, International Desktop Engineering teams, and Desktop Support. </li><li>Document technical aspects and solutions. </li><li>Build desktop strategies by preparing, testing, and recommending go-forward technologies.</li><li>Ability to quickly troubleshoot critical production issues spanning applications/infrastructure. </li></ul><li>Recommend and evaluate new tools and methodologies as needed.</li><ul><li>Working independently with limited supervision, and with other department personnel <br/></li></ul></ul><strong>Responsibilities<br/><br/></strong><ul><li>AutoZoners have a contagious work ethic; including a high sense of urgency to resolve issues quickly, creatively and efficiently. We also expect a high sense of responsibility and the ability to influence others. As an expert in your field, we expect you to:</li><ul><li>Ensure that sites and systems continuously and consistently run smoothly, optimally, efficiently and reliably.</li><li>As an AutoZoner, you will be surrounded consistently by top tier talent (both onsite as well as remote); to effectively work with your team you will be expected to hold a high level of organization, detail orientation, and the ability to articulate issues clearly.</li></ul></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Are you seeking a new and challenging position supporting a complex Program supporting mission critical systems? Well, look no further! This is an exciting time to contribute to a program with lasting impactful results. Leidos is currently looking to add a Software Engineer to a Maintenance and Development task. The SWE will translate system requirements into software requirements, perform software design, and implement software applications and features in an agile environment. The SWE will maintain and modify systems while adding new features and capabilities. The candidate must have strong C++ and Matlab skills. Day to day activities include working with domain Subject Matter Experts and Software Engineers to fully understand system requirements and transition Matlab code to C++. Signal analysis or signal processing knowledge is preferred. System Administration skillset are useful for the maintenance task.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li> Analyze user requirements to derive software design and performance requirements</li><li> Debug existing software and correct defects</li><li> Design and code new software or modify existing software to add new features</li><li> Integrate existing software into new or modified systems or operating environments</li><li> Develop simple data queries for existing or proposed databases or data repositories</li><li> Write or review software and system documentation</li><li> Serve as team lead at the level appropriate to the software development process being used on any particular project</li><li> Develop or implement algorithms to meet or exceed system performance and functional standards</li><li> Develop software solutions by analyzing system performance standards, confer with users or system engineers; analyze systems flow, data usage and work processes; and investigate problem areas</li><li> Modify existing software to correct errors, to adapt to new hardware, or to improve its performance</li><li> Implement recommendations for improving documentation and software development process standards</li><li> Confer with system engineers and/or hardware engineers to derive software requirements and to obtain information on project limitations and capabilities, performance requirements and interfaces</li><li> Coordinate software system installation and monitor equipment functioning to ensure operational specifications are met<br/><br/></li></ul><strong>Basic Qualifications<br/><br/></strong>Fourteen (14) years' experience as a SWE in programs and contracts of similar scope, type, and complexity is required. Bachelor's degree in Computer Science or related discipline from an accredited college or university is required. Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor's degree.<br/><br/><ul><li>C++ advance knowledge and experience</li><li>Matlab knowledge and experience</li><li>TS/SCI with Polygrap<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Signal processing knowledge/experience</li><li>Signal analysis knowledge/experience</li><li>System Administration, patching, updating systems in response to scans and vulnerabilities<br/><br/></li></ul><strong>Pay Range<br/><br/></strong>Pay Range $97,500.00 - $176,250.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

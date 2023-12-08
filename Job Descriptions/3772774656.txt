@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.<br/><br/>Are you up for the challenge? Do you want free money in your 401k? Do you want job security and a company that invests in you? You need to check us out!<br/><br/>In this exciting role you will work with real-time data and create tools using cutting-edge visualization, development, and analytic technologies.<br/><br/>ALONG WITH COMPETITIVE SALARIES AND OUR COMPREHENSIVE BENEFITS, WE OFFER:<br/><br/><br/><ul><li>Employee Performance Incentives</li><li>Ongoing Training Opportunities</li><li>Boeing Employee Discount Program</li><li>Health Insurance Opt-out Incentives</li><li>Generous 401k Contribution – 10% contribution (NOT A MATCH)</li><li>Student Debt Payoff</li><li>Tuition Assistance</li><li>HSA Contributions</li><li>Professional Development Program<br/><br/><br/></li></ul>Every day, Boeing Intelligence &amp; Analytics supports global missions by building and delivering intelligence, analytics, and cyber solutions that enable users to advance national security. We have provided our customers with the tools needed to counter evolving global and cyber threats, and to improve wartime decision making. Our talented employees bring software development, systems engineering, and advanced analytics expertise. We offer numerous prime contract opportunities with customers headquartered in Maryland, Virginia, and the District of Columbia, as well as subcontract opportunities that align with our areas of focus and additional opportunities nationwide through our parent company.<br/><br/>Boeing Intelligence and Analytics is seeking motivated and talented Entry/Associate Level Engineers to support the Missile and Weapons Systems Engineering Organization in Huntsville, Alabama. The Missiles and Weapons Systems (MWS) organization is dynamic and growing engineering team focused on attracting and developing top talent in support of critical missions for National Defense and Strategic Deterrence. Connected to our customers' missions, we deliver unique capability through our exceptional talent.<br/><br/>We are hiring Entry and Associate Level engineers for a variety of positions in support of the GMD Systems Integration, Test and Readiness (SITR) program. We are seeking engineers that are motivated by being part of a mission critical program, learning engineering discipline and rigor, and participating in the MDA Technical Integration effort.<br/><br/>Typical job responsibilities may include:<br/><br/><br/><ul><li>Support the MDA with integrating the components of the GMD Element using Model-Based Systems Engineering (MBSE) tools, processes and architectures</li><li>Support the development of Integration Points to demonstrate Integration Readiness of the GMD Element to external stakeholders</li><li>Support early integration and test planning and schedule alignment between GMD Components</li><li>Assess integration readiness of the GMD Components to support MDA Increment fielding</li><li>Support configuration, data and work flow management of program specific MBSE tools and processes and interface specifications</li><li>Support interdisciplinary, collaborative approaches to plan, design, develop and verify system solutions.</li><li>Support definition and coordination of system performance requirements and technical parameters.</li><li>Support test and validation to ensure system designs meet operational and functional requirements<br/><br/><br/></li></ul>This position is expected to be 100% onsite. The selected candidate will be required to work onsite at one of the listed location options.<br/><br/>Basic Qualifications (Required Skills/Experience):<br/><br/><br/><ul><li>This position requires the ability to obtain a US Security Clearance for which the US Government requires US Citizenship as a condition of employment. (An interim and/or final U.S. Secret Clearance Post-Start is required.)</li><li>Bachelor, Master or Doctorate of Science degree from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry. ABET is the preferred, although not required, accreditation standard.</li><li>This position requires clearing a background check and an enhanced Personal Conflict of Interest (PCI) requirements as a condition for employment.<br/><br/><br/></li></ul>Preferred Qualifications:<br/><br/><br/><ul><li>Internship or previous full-time experience in an engineering role.</li><li>Experience with Cameo.</li><li>GMD Program Experience.</li><li>System of Systems Integration Experience.</li><li>Knowledge of Agile Development and Integration process.<br/><br/><br/></li></ul>Boeing Intelligence &amp; Analytics Benefits:<br/><br/>Employees are more effective on the job when they are not distracted by health and financial worries. To support our workforce, we offer a wide variety of health, life and other insurance benefits (as described above) that allow each employee to choose the coverage best suited to their needs and the needs of their family.<br/><br/>Please note that the information shown below is a general guideline only. Pay is based upon candidate experience and qualifications, as well as market and business considerations.<br/><br/>Pay Range: $61,000 - $108,000<br/><br/>BI&amp;A is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race,color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.<br/><br/>Equal Employment Opportunity is the Law (PDF)<br/><br/><strong>Equal Opportunity Employer:<br/><br/></strong>We are an equal opportunity employer. We do not accept unlawful discrimination in our recruitment or employment practices on any grounds including but not limited to; race, color, ethnicity, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military and veteran status, or other characteristics covered by applicable law.<br/><br/>We have teams in more than 65 countries, and each person plays a role in helping us become one of the world’s most innovative, diverse and inclusive companies. We are proud members of the Valuable 500 and welcome applications from candidates with disabilities. Applicants are encouraged to share with our recruitment team any accommodations required during the recruitment process. Accommodations may include but are not limited to: conducting interviews in accessible locations that accommodate mobility needs, encouraging candidates to bring and use any existing assistive technology such as screen readers and offering flexible interview formats such as virtual or phone interviews.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Aviation and Aerospace Component Manufacturing, and Airlines and Aviation
+          </span>
+</li>
+</ul>
+</div>
+</section>

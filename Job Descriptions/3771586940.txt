@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Seeking a <strong>US Military Veteran, National Guardsman, Reservist and/or Military Spouse</strong> for a <strong>Senior Systems Engineer</strong> for our remote client.<br/><br/>This is a 5-year contract.<br/><br/><strong>Responsibilities: Veteran Military<br/><br/></strong><ul><li>Select and apply fundamental test and evaluation concepts, processes, practices, and procedures to testing tasks and activities. </li><li>Develop test and evaluation deliverables, and report test and evaluation performance metrics for the project or program. </li><li>Lead and perform tasks that may include, but are not limited to, prototype development and first article testing, environmental testing, independent verification and validation, demonstration and validation, simulation and modeling. </li><li>Ensure system safety and quality assurance during all phases of the project. </li><li>Provide education and training related to the system or product. </li><li>Conduct functional and physical testing of the product or system. <br/><br/></li></ul><strong>Minimum Qualifications: Veteran Benefits<br/><br/></strong><ul><li>Bachelor's Degree in Systems Engineering, Computer Science, Electrical Engineering, or a related field. </li><li>A minimum of 10 years of professional experience in systems engineering or related area. <br/><br/></li></ul><strong>Preferred Qualifications: Veteran Military<br/><br/></strong><ul><li>Master’s Degree in a related field. </li><li>Professional certification in systems engineering or project management. </li><li>Experience in federal contracting, preferably with the Department of Veterans Affairs. </li><li>Strong background in test and evaluation methods and tools. </li><li>Proven ability to lead engineering teams and manage complex projects. <br/><br/></li></ul><strong>Eligibility: Veteran Military<br/><br/></strong><ul><li>Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future. </li><li>Must be able to obtain and maintain the required federal public trust clearance for this role. <br/><br/></li></ul><strong>Compensation:<br/><br/></strong><ul><li>Salary for this position is determined by various factors, including but not limited to, location, the candidate’s particular combination of knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. </li><li>The proposed salary range for this position is between $70,000 and $85,000. <br/><br/></li></ul>Offers a comprehensive benefits package including health insurance (medical, dental, and vision), paid time off, federal holidays, and a matching 401K plan.<br/><br/>The company is an equal opportunity employer and will consider all applications without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability, or any other characteristic protected by law.<br/><br/><strong>Company Description<br/><br/></strong>The Veteran Staffing Network (VSN) at Easterseals is a nonprofit staffing agency that connects employers with top-tier military talent and helps veterans and their spouses find meaningful jobs.<br/><br/>The Veteran Staffing Network (VSN) at Easterseals is a nonprofit staffing agency that connects employers with top-tier military talent and helps veterans and their spouses find meaningful jobs.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

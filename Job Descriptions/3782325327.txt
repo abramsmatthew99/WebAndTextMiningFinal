@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Requisition No: 818554<br/><br/>Agency: Department of State<br/><br/>Working Title: DOS - Applications Systems Programmer I - 45000534 1 1<br/><br/>Position Number: 45000534<br/><br/>Salary: $42,777.00 - $45,500.00<br/><br/>Posting Closing Date: 12/15/2023<br/><br/><strong> Department of State <br/><br/></strong><strong> Application Systems Programmer I <br/><br/></strong><strong> Division of Administrative Services <br/><br/></strong><strong> Bureau of Departmental Information Systems <br/><br/></strong><strong> Open Competitive <br/><br/></strong><strong> Re-advertisement,previous applicants do not need to reapply <br/><br/></strong><strong>Minimum Qualifications<br/><br/></strong>An associate degree in computer science, information technology, <strong>OR</strong> at least two (2) years of equivalent work experience in the field of application development.<br/><br/><strong>Preferences<br/><br/></strong>Microsoft Azure DevOps<br/><br/><strong>Special Note<br/><br/></strong>Responses to qualifying questions must be clearly supported in your employment history.<br/><br/><strong>Duties And Responsibilities<br/><br/></strong>This position serves as a developer within the Non-Election Application Development Section in the Bureau of Departmental Systems (BDIS) at the Florida Department of State (Department). Responsible for developing software systems based on Department, Division, and Bureau requirements. Develop, test and document software application systems; serve as a team member on development projects; adheres to BDIS standards when developing, testing, and documenting application code on new or existing systems using approved methodology; resolves system bugs identified during user acceptance testing (UAT); participate in the discovery process to determine business needs; and define application functional specifications.<br/><br/>Development work includes but is not limited to user interfaces; security application modules; error and logging modules; web services and sites; file and image management; database and data constructs; reporting; and external partner/vendor interfaces. All work is conducted at Florida Department of State offices, unless approved by direct supervisor.<br/><br/>Performs unit testing with team members to confirm code is performing as designed.<br/><br/>Participates in code review to confirm security compliance, variables have descriptive names, non-repetitive code, use of constants when a value is referenced more than once, disposing appropriately, and modules perform a single task. Responsible for documenting the use of the Department’s content management system. Evaluate new development tools and methodologies for use by the Application Development team.<br/><br/>Assists the BDIS Operations and Maintenance team with modifications to existing software application systems.<br/><br/><strong>Knowled Ge/Skills/Abilities<br/><br/></strong>Proficient with C#, .NET 4.0 and higher, Visual Studio, Visual Studio Code. Knowledge of development methodologies, ASP.NET, MVC, Nuget, and WPF. Ability to work well in a team environment. Ability to perform under pressure.<br/><br/><strong> CRIMINAL BACKGROUND CHECKS </strong> : A Level 2 criminal background check is a condition of employment. If selected for this position, you must provide your fingerprints. We will send your fingerprints to the Florida Department of Law Enforcement and the Federal Bureau of Investigation for a criminal background check.<br/><br/><strong>Important Notices<br/><br/></strong>We are committed to enhancing our workforce through the employment of Veteran’s, individuals with disabilities and seek qualified candidates with diverse backgrounds, abilities, skills, and talents to join our workforce.<br/><br/>Male applicants born on or after January 1, 1960, will not be eligible for hire or promotion unless they are registered with the Selective Services System (SSS) before their 26th birthday, or have a Letter of Registration Exemption from the SSS. For more information, please visit the SSS website: https://www .sss.gov<br/><br/>The State of Florida is an Equal Opportunity Employer/Affirmative Action Employer, and does not tolerate discrimination or violence in the workplace.<br/><br/>Candidates requiring a reasonable accommodation, as defined by the Americans with Disabilities Act, must notify the agency hiring authority and/or People First Service Center (1-866-663-4735). Notification to the hiring authority must be made in advance to allow sufficient time to provide the accommodation.<br/><br/>The State of Florida supports a Drug-Free workplace. All employees are subject to reasonable suspicion drug testing in accordance with Section 112.0455, F.S., Drug-Free Workplace Act.<br/><br/><strong>VETERANS’ PREFERENCE. </strong>Pursuant to Chapter 295, Florida Statutes, candidates eligible for Veterans’ Preference will receive preference in employment for Career Service vacancies and are encouraged to apply. Certain service members may be eligible to receive waivers for postsecondary educational requirements. Candidates claiming Veterans’ Preference must attach supporting documentation with each submission that includes character of service (for example, DD Form 214 Member Copy #4) along with any other documentation as required by Rule 55A-7, Florida Administrative Code. Veterans’ Preference documentation requirements are available by clicking here . All documentation is due by the close of the vacancy announcement.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong>Junior Java AWS Developer (US/Canada, 1 Year Experience, Remote)<br/><br/></strong>Team Remotely Inc. is a staffing and recruitment agency that offers a comprehensive solution for talent acquisition, including sourcing, vetting, pay rolling, and managing talent. Whether you need contract staffing, direct hire, direct sourcing, talent pools, or diversity initiatives, our model can support your hiring strategy.<br/><br/><strong> Hiring Type:</strong> Full-Time<br/><br/><strong> Base Salary:</strong> $60K-$70K Per Annum.<br/><br/><strong>Description:<br/><br/></strong>As a Junior Java AWS Developer, you will play a crucial role in developing, deploying, and maintaining cloud-based applications on the AWS platform. You will work closely with a team of experienced developers to design, implement, and optimize scalable and secure applications. This is an excellent opportunity for an ambitious individual who is passionate about cloud development and wants to gain hands-on experience with AWS technologies.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with cross-functional teams to gather requirements and contribute to the design and architecture of cloud-based applications. </li><li>Develop and deploy scalable and secure Java applications on AWS using services such as EC2, Lambda, S3, DynamoDB, and others. </li><li>Implement serverless architectures and microservices using AWS Lambda, API Gateway, and related technologies. </li><li>Ensure the reliability, performance, and scalability of applications by optimizing code and leveraging AWS services. </li><li>Integrate applications with other AWS services such as RDS, Elastic Beanstalk, CloudFront, and more. </li><li>Implement monitoring and logging solutions to track application performance and troubleshoot issues. </li><li>Stay up to date with the latest AWS services, best practices, and architectural patterns. </li><li>Collaborate with senior developers and architects to implement new features and enhancements. <br/><br/></li></ul><strong>Requirements:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science or a related field. </li><li>Solid understanding of Java programming language and object-oriented design principles. </li><li>Knowledge of AWS services and experience working with the AWS platform. </li><li>Familiarity with serverless architectures and microservices. </li><li>Experience with database technologies like SQL and NoSQL. </li><li>Understanding of RESTful APIs and web services. </li><li>Knowledge of version control systems such as Git. </li><li>Strong problem-solving and analytical skills. </li><li>Excellent communication and teamwork abilities. </li><li>Self-motivated with a strong desire to learn and grow in cloud development. <br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>AWS certification(s) such as AWS Certified Developer - Associate or AWS Certified Solutions Architect - Associate. </li><li>Experience with containerization technologies such as Docker and Kubernetes. </li><li>Familiarity with DevOps practices and tools. </li><li>Understanding of CI/CD pipelines and automation. </li><li>Knowledge of infrastructure as code tools like AWS Cloud Formation or Terraform. <br/><br/></li></ul><strong> Why work with Team Remotely?<br/><br/></strong>Team Remotely Inc. is a staffing platform offering a seamless experience for employers and candidates. Employers can post job openings and specify their requirements, while candidates can create profiles and upload resumes.<br/><br/>The team of Team Remotely continuously learns and adapts based on previous successful placements, constantly improving its matching capabilities. This ensures that the recommendations provided by Team Remotely are tailored and accurate, increasing the likelihood of a successful match between employers and candidates. By providing intelligent and data-driven solutions, they strive to enhance the efficiency and effectiveness of the hiring process, ultimately helping companies find the best talent and individuals find their dream jobs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

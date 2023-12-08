@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Neurodegenerative diseases are one of the largest medical challenges of our time. Denali Therapeutics is a biotechnology company dedicated to developing breakthrough therapies for neurodegenerative diseases through our deep commitment to degeneration biology and principles of translational medicine. Denali is founded on the collaboration of leading scientists, industry experts, and investors who share the vision that scientific discovery energetically applied to translational medicine is the key to delivering effective therapies to patients.<br/><br/><strong>The Opportunity<br/><br/></strong>Denali is seeking a motivated candidate for an internship position in the Data Science team to generate R packages that will help standardize output formats, generate standard reports and develop a results portal or shiny app that could interactively browse through the tables, listings and figures within a given study milestone. The intern will be encouraged to leverage their skills and interests to develop solutions for table standardization (title formatting, footnote formatting, and table layout/design), figure standardization (formatting figure and axis titles, adjusting axis scales, standard styling), and/or standardizing output generation (.pdf format, .pptx formatting, .html formatting, and .rtf outputs).<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Design and implement R packages aimed at standardizing output for tables, listings, and figures</li><li>Enable output generation in various formats including .pdf, .pptx, .html, and .rtf</li><li>Ensure that the R packages are modular, efficient, and adhere to best coding practices</li><li>Conduct thorough testing and quality assurance checks to identify and address any issues related to output standardization and interactive features</li><li>Document the functionality and usage of developed R packages</li><li>Collaborate with cross-functional teams, including data scientists, statisticians, and other stakeholders to gather requirements, provide updates and address any feedback received</li><li>Collaborate in the development of a results portal or Shiny app to interactively browse through tables, listings, and figures within a given study milestone<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Currently a rising-junior, rising-senior or enrolled in a master’s program in a relevant field such as Mathematics, Biostatistics, Computer Science, Epidemiology, or other Computational Sciences/Life Sciences</li><li>Self- and results-driven, organized, resourceful, adaptable and collaborative</li><li>Bold and creative thinker with a curious nature, eager to learn about the complexities of the business of healthcare and biotech</li><li>Evident communication and analytical skills</li><li>Proficiency in data science programming languages such as R or python</li><li>Familiarity with data manipulation packages such as dplyr and tidyr</li><li>Familiarity with data visualization packages such as ggplot2</li><li>Strong analytical and problem-solving skills, including the ability to think critically about data and draw meaningful conclusions</li><li>Ability to work collaboratively in a team environment</li><li>Strong organizational and time management skills, especially when working on multiple projects or tasks simultaneously<br/><br/></li></ul><strong>Beneficial Skills<br/><br/></strong><ul><li>Familiarity with R package development</li><li>Familiarity with git or other similar version control software</li><li>Experience with developing unit tests</li><li>Experience with table generation packages such as gt, flextable or reactable</li><li>Knowledge of the pharmaverse</li><li>High-level knowledge of CDISC standards<br/><br/></li></ul>Denali is committed to its core company value of unity by creating a diverse and inclusive environment. We are proud to be an equal opportunity employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, basis of disability, or any other federal, state, or local protected class.<br/><br/>The expected wage for this position based on the South San Francisco California office location is $20.96 per hour for BA/BS and $25.87 per hour for MS. Paid holiday time off is based on Denali's designated holidays. Interns who live more than 50 miles away from the office are eligible for an additional housing stipend.<br/><br/><ul><li>This compensation and benefits information is based on Denali’s good faith estimate as of the date of publication and may be modified in the future.<br/><br/></li></ul><strong>Applicant Privacy Policy<br/><br/></strong>https://www.denalitherapeutics.com/denali-applicant-privacy-policy<br/><br/><strong>Job Facts <br/><br/></strong><ul><li>Start Date: Summer 2024</li><li>Length of Assignment: 12 weeks</li><li>Location: South San Francisco, CA</li><li>Job Type: Paid Internship<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Biotechnology Research
+          </span>
+</li>
+</ul>
+</div>
+</section>

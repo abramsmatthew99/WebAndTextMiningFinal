@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Belay Technologies has been voted Baltimore Business Journal's (BBJ) Best Places to Work 2019, runner-up in 2020, and a finalist in 2021!<br/><br/></strong>Belay Technologies seeks a full-stack intern to work 20 hours a week maintaining and adding features to our patented automation framework, SummitRTS. SummitRTS is used to solve unique automation problems and provides a wide range of opportunities in the development spectrum. Written in emerging software languages, developers will work with cutting-edge software programming, which consists of dockerized microservices written in NodeJS, with an AngularJS web interface, and a PostgreSQL database on the backend. SummitRTS provisions virtual machines as a sandbox for automating tasks. Automation languages include Powershell, Shell Scripting, Batch Scripting, Autohotkey, Sikuli, Python, and many others. Due to SummitRTS’ dockerized nature, it can run on any platform, however, in support of current customer projects, it is running on Google’s Cloud Platform (GCP). Developers will work with Google’s flagship platform, Computer Engine, CloudSQL, Kubernetes, PubSub, FileStore, App Engine and many other features.<br/><br/>Belay Technologies is a Service Disabled Veteran Owned Small Business located in Columbia, Maryland. Belay specializes in automation and full-stack development. TS/SCI with current Polygraph preferred. All candidates must be able to obtain a security clearance.<br/><br/><em>You should have experience, be familiar with, or desire to learn the following technologies: <br/><br/></em><ul><li>NodeJS</li><li>AngularJS</li><li>HTML</li><li>CSS</li><li>RESTful Interfaces</li><li>Message Buses (like GCP’s PubSub or JMS or ActiveMQ)</li><li>PowerShell</li><li>Batch Scripting</li><li>AutoHotkey</li><li>Sikuli</li><li>Windows and Linux Administration</li><li>Virtual Machines</li><li>Google Cloud Platform</li><li>Automation of IT-related 'things'</li><li>Python Programming or Scripting<br/><br/></li></ul><strong>What We Do:<br/><br/></strong><em>Belay Technologies provides leading technology and engineering solutions to the DoD, as well as state-of-the-art commercial products. We are a certified Service Disabled Veteran Owned Small Business in the Baltimore/Washington area, and we are an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.<br/><br/></em>Powered by JazzHR<br/><br/>FUQaJL8GUk
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

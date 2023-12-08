@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Role: Full Stack Programmer IV</strong></p><p><strong>Location: Remote (Highly preferred and looking for candidates that are based in pacific time zone).</strong></p><p><strong><u>11-Months, W2 contract position</u></strong></p><p><strong><u>Must have hands on experience on ReactJS, PHP/Hack, and Python.</u></strong></p><p><br/></p><p><strong>Summary:</strong> The main function of a full stack developer is to code for both front and back-end programming. The typical full stack developer will be able to design user interactions and develop servers and databases for website functionality.</p><p> </p><p> <strong>Job Responsibilities:</strong></p><ul><li>Design, code, test, document, implement, and maintain application programs and interfaces.</li><li>Devise or modify procedures to solve complex problems considering computer equipment capacity and limitations, operating time, and form of desired results.</li><li>Modify, install, and prepare technical documentation for system software applications.</li><li>Monitor systems capacity and performance, plan and execute disaster recovery procedures, and provide technical support.</li><li>Identify, escalate, and document production impact issues.</li><li>Evaluate user requests for new or modified computer programs to determine feasibility, cost, time required and compatibility with current systems and capabilities.</li><li>Create full stack applications from scratch utilizing ReactJs, PHP/Hack.</li><li>Create Python Applications E.g., Data swarm pipelines, automation libraries etc.</li></ul><p> </p><p><strong>Skills:</strong></p><ul><li>Verbal and written communication skills, critical thinking skills, customer service and people skills.</li><li>Ability to work independently and manage one’s time.</li><li>Ability to troubleshoot issues and make system changes as needed to resolve issues.</li><li>Knowledge of computer hardware and software.</li><li>Knowledge of end-to-end systems development life cycles.</li><li>Knowledge of computer development software as it relates to systems, such as SQL, Visual Basic, etc.</li><li>Expertise with ReactJs, PHP, Hack.</li><li>Expertise with Python and Web Applications.</li></ul><p><br/></p><p><strong>Must have:</strong></p><ul><li>ReactJS.</li><li>PHP/Hack.</li><li>Python.</li></ul><p><br/></p><p><strong>Good to have skills:</strong></p><ul><li>Verbal and written communication skills, critical thinking skills, customer service and people skills.</li><li>Ability to work independently and manage one’s time.</li><li>Ability to troubleshoot issues and make system changes as needed to resolve issues.</li><li>Knowledge of computer hardware and software.</li><li>Knowledge of end-to-end systems development life cycles.</li><li>Knowledge of computer development software as it relates to systems, such as SQL, Visual Basic, etc.</li></ul><p><br/></p><p> <strong>Education/Experience:</strong></p><ul><li>Master’s degree in computer science preferred.</li><li>7 - 10 years of experience.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

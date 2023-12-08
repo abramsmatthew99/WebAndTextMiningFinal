@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Each day Universal Studios Hollywood creates unforgettable experiences for our guests from around the world. We bring to life the ultimate Hollywood experience with our real working movie studio and heart-pounding rides, shows and attractions that put you inside some of the world’s most popular movies and TV shows. USH offers something for everyone from thrill seekers to movie lovers to family fun for all ages. Our Team Members are passionate individuals who create memorable moments whether it’s on the studio lot, or in our conference rooms, theaters, or kitchens. We believe in the talent of our team members. It’s our passion and commitment to excellence that drives our business to succeed in everything we do across the park. We believe in a culture of family and fun, here you can make a difference and build your career!<br/><br/>NBCUniversal owns and operates over 20 different businesses across 30 countries including a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, world-renowned theme parks and a premium ad-supported streaming service.<br/><br/>Here you can be your authentic self. As a company uniquely positioned to educate, entertain and empower through our platforms, Comcast NBCUniversal stands for including everyone. We strive to foster a diverse and inclusive culture where our employees feel supported, embraced and heard. We believe that our workforce should represent the communities we live in, so that together, we can continue to create and deliver content that reflects the current and ever-changing face of the world. Click here to learn more about Comcast NBCUniversal’s commitment and how we are making an impact.<br/><br/><strong>Job Description<br/><br/></strong>The Application Engineer’s role is to define, develop, test, analyze, and maintain software applications in support of the achievement of business requirements. This includes testing, analyzing and supporting software programs and applications. The Application Engineer will also research, design, document, and modify software specifications throughout the production life cycle.<br/><br/>The Application Engineer will serve as a key contact with the user community for solving business issues and for designing, developing and implementing new business initiatives.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Analyze and document existing software solutions.</li><li>Provide a system support role for day-to-day systems operations.</li><li>Develop detailed test plans &amp; conduct system testing.</li><li>Collaborate with other UPR IT teams as needed to support the business requirements.</li><li>Define and manage small projects, timelines, deliverables and communication to the business.</li><li>Provide regular status reporting</li><li>Provide support for various hardware and software upgrades.</li><li>Other duties as assigned.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s degree required from a four-year college or university is required; majors in Computer Science, Information Systems, Business Administration, or related field preferred.</li><li>2-4 years of work experience in an IT support function</li><li>Experience supporting a large POS application</li><li>Willingness to travel and or work weekends with short notice; Support during non-business hours as needed.</li><li>Hybrid: This position has been designated as hybrid, generally contributing from the office a minimum of three days per week.<br/><br/></li></ul>This position is eligible for company sponsored benefits, including medical, dental and vision insurance, 401(k), paid leave, tuition reimbursement, and a variety of other discounts and perks. Learn more about the benefits offered by NBCUniversal by visiting the Benefits page of the Careers website. Salary Range: $75,000 - $100,000 (Bonus Eligible)<br/><br/>Desired Characteristics<br/><br/><ul><li>Excellent understanding of SQL database and query best practices. Including triggers, stored procedures, SQL jobs, SSIS, and reporting using SSRS</li><li>Extensive relational database and operating systems experience with Microsoft SQL Server.</li><li>Proven analytical and problem-solving abilities.</li><li>Windows Server 2008-2016 Administration Experience (review and troubleshoot logs, patching, access control, user access reviews, and IIS)</li><li>Experience with IT Service Management Tools (ServiceNow or Jira)</li><li>Able to communicate effectively with non-technical staff and with members of interdisciplinary teams</li><li>Hospitality industry experience preferred</li><li>Strong communication skills</li><li>Strong technical/analytical skills</li><li>Results oriented with a history of problem resolution and prevention</li><li>Effectively handle sensitive and confidential matter<br/><br/></li></ul><strong>Additional Information<br/><br/></strong>NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.<br/><br/>If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations in the US by calling 1-818-777-4107 and in the UK by calling +44 2036185726.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Broadcast Media Production and Distribution, Entertainment Providers, and Media Production
+          </span>
+</li>
+</ul>
+</div>
+</section>

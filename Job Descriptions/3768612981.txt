@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>Intuit is a global technology platform that helps consumers and small businesses overcome their most important financial challenges. Serving more than 100 million customers worldwide with TurboTax, Credit Karma, QuickBooks, and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find new, innovative ways to make that possible.<br/><br/><strong>What You'll Bring<br/><br/></strong>To be successful in this role, the candidates must have the following:<br/><br/><strong>Senior Data Scientist</strong> 1+ years of industry experience with data science with a BS, MS, or PhD in an appropriate technology field (Computer Science, Statistics, Applied Math, Operations Research, etc.)<br/><br/><strong>Staff Data Scientist</strong> 4+ years of industry experience with data science with a BS, MS or PhD in Statistics, Mathematics, Computer Science, Economics, Operations Research, or equivalent<br/><br/><strong>Senior Staff Data Scientist</strong> 7+ years of industry experience with data science with a BS, MS or PhD in Statistics, Mathematics, Computer Science, Economics, Operations Research, or equivalent<br/><br/><strong>Principal Data Scientist </strong>10+ years of industry experience and 3+ years as either a lead in a data science role or in a management position in data science with a PhD/MS in PhD/MS in Engineering Mathematics, Statistics, Theoretical/Computational Physics, or related field<br/><br/><strong>All Roles Require<br/><br/></strong><ul><li>Hands-on expertise in ML paradigms such as Causal-ML, supervised/unsupervised, Online, Bayesian, Reinforcement or Deep Learning.</li><li>Proficient in multiple optimization paradigms such as combinatorial optimization, gradient methods, or Bayesian optimization</li><li>Proficient in NLP techniques, Explainable AI, and ML frameworks</li><li>Expertise in modern advanced analytical tools and programming languages such as Python, Scala, Java and/or R</li><li>Efficient in SQL, Hive, SparkSQL, etc</li><li>Comfortable working in a Linux environment</li><li>Experience with building end-to-end reusable pipelines from data acquisition to model output delivery</li><li>Quick learner, adaptable, with the ability to work independently in a fast-paced environment</li><li>Strong oral and written communication skills. Ability to conduct meetings and make professional presentations, and to explain complex concepts and technical material to non-technical users<br/><br/></li></ul><strong>How You Will Lead<br/><br/></strong>Come join our collaborative and creative group of data scientists and machine learning engineers and build models that directly affect hundreds of thousands of our customers. This team solves complex problems in artificial intelligence and machine learning to create innovative new solutions for our customers.<br/><br/>We are currently adding Senior Data Scientists, Staff Data Scientists, Senior Staff Data Scientists &amp; Principal Data Scientists to our team to embed artificial intelligence and machine learning into our product portfolio and business to <strong>create smarter products</strong>, <strong>improve anti-fraud and security</strong>, and <strong>enhance customer care</strong>. We aim to save our customers time ("Never enter data"), increase their prosperity by making actionable financial recommendations, and enable them to have complete confidence in our products. Regardless of title, in all roles you will use machine learning to add new features and improve existing ones throughout our offerings, such as categorization, fraud prevention, customer success, A/B testing, and more.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Practices leadership and communication skills to influence teams and to evangelize data science across the organization</li><li>Collaborates with stakeholders to define success criteria and align model metrics with business goals. Works side-by-side with product managers, software engineers, and designers in designing experiments and minimum viable products</li><li>Leads technical work of a scrum team: initiating and designing model solutions, driving end-to-end architecture designs of the team’s work, and holding the team accountable for high quality code, git, design, costs and implementation standards</li><li>Performs hands-on data analysis and modeling with large data sets, including discovering data sources, getting data access, cleaning up data, and making them “model-ready”. You need to be willing and able to do your own ETL and design/build featurization</li><li>Applies data mining, NLP, and machine learning (such as supervised/unsupervised, Causal-ML, Online Learning, Bayesian Learning, Reinforcement Learning, or Deep Learning) to real-world problems and datasets</li><li>Runs A/B tests to draw conclusions on the impact of your team’s work and communicates results to peers and leaders</li><li>Communicates with partners to ensure successful delivery and integration of DS solutions</li><li>Proactively researches, explores, and enables new ML technologies. Keeps up with the new developments in academia and industry and considers possible extensions to solve Intuit customer problems</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

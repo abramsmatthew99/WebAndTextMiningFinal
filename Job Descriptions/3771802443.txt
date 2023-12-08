@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Scientific Games<br/><br/></strong>Scientific Games is the global leader in lottery games, sports betting and technology, and the partner of choice for government lotteries. From cutting-edge backend systems to exciting entertainment experiences and trailblazing retail and digital solutions, we elevate play every day. We push game designs to the next level and are pioneers in data analytics and iLottery. Built on a foundation of trusted partnerships, Scientific Games combines relentless innovation, legendary performance, and unwavering security to responsibly propel the global lottery industry ever forward.<br/><br/><strong>Position Summary<br/><br/></strong>The SQL Developer/Engineer role will be responsible for working on multiple projects at a time support the creation and maintenance of SQL scripts, SSIS packages and provide analysis of any production support issues for a suite of applications. This role works closely with other team members to understand the data needs / requirements of the projects to implement and support SQL processes and SSIS packages. This role will be working closely with another SQL engineer and be responsible for development and maintenance of ETL programs to ensure the successful and timely implementation of Scientific Games Lottery products.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science or similar experience</li><li>Must have advanced SQL experience</li><li>Must have experience installing/using MS SSIS, MS SQL Server Standard and Enterprise/Always On, SFTP setup/processing</li><li>Must have 8+ years programming experience and production support, preferably in a large-scale transaction processing or other complex system, is a plus.</li><li>Must have experience in requirements Analysis, design and documenting reusable procedures </li><li>Must have strong interpersonal, team work, verbal communication and writing skills.</li><li>Must have ability to work in a fast-paced team environment where multiple projects must be managed simultaneously.</li><li>Nice to have gaming/lottery business experience </li><li>Nice to have experience in additional programming languages a plus: IIS, Wildfly, Angular, Java, Java Script, Outsystems<br/><br/></li></ul><strong>Physical Requirements<br/><br/></strong>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is regularly required to sit, stand, walk, bend, use hands, operate a computer, and have specific vision abilities to include close and distance vision, and ability to adjust focus working with computer and business equipment.<br/><br/><strong>Work Conditions<br/><br/></strong>Scientific Games, LLC and its affiliates (collectively, “SG”) are engaged in highly regulated gaming and lottery businesses. As a result, certain SG employees may, among other things, be required to obtain a gaming or other license(s), undergo background investigations or security checks, or meet certain standards dictated by law, regulation or contracts. In order to ensure SG complies with its regulatory and contractual commitments, as a condition to hiring and continuing to employ its employees, SG requires all of its employees to meet those requirements that are necessary to fulfill their individual roles. As a prerequisite to employment with SG (to the extent permitted by law), you shall be asked to consent to SG conducting a due diligence/background investigation on you.<br/><br/>This job description should not be interpreted as all-inclusive; it is intended to identify major responsibilities and requirements of the job. The employee in this position may be requested to perform other job-related tasks and responsibilities than those stated above.<br/><br/>SG is an Equal Opportunity Employer and does not discriminate against applicants due to race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. If you’d like more information about your equal employment opportunity rights as an applicant under the law, please click here for EEOC Poster.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Printing Services, and Gambling Facilities and Casinos
+          </span>
+</li>
+</ul>
+</div>
+</section>

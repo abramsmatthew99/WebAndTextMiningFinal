@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>At Remitly, we are inspired by our mission and our promise to immigrants, in helping over 3 million customers around the globe send money across the world. Sending money is faster, easier, and costs less with our all-digital money transfer platform. We want to transform the lives of immigrants and their families by providing the most trusted financial service products on the planet. At Remitly, your work has a direct and positive impact on people around the globe. Your work matters, every day.<br/><br/><strong>About The Role<br/><br/></strong>The Finance Data Platform team is responsible for building and maintaining source-of-truth data systems for Finance Products. We take hundreds of state change events per transaction and transform them into usable data for finance systems. We stand as the frontline representatives for Finance Product systems, developing reusable contracts with our upstream system partners and best practices for data consumption downstream. You will report to the Finance Data Platform Engineering Manager.<br/><br/><strong>You Will<br/><br/></strong><ul><li>Work side-by-side with the FDP Product manager and engineers from all Finance Product teams</li><li>Write algorithms to process complex large volumes of data with to-the-cent accuracy</li><li>Prioritize the security, maintainability and availability of the Finance Engineering systems<br/><br/></li></ul><strong>You Have<br/><br/></strong><ul><li>A BS in Computer Science or equivalent professional experience</li><li>2+ years of experience shipping high-quality products</li><li>Comfortable building, shipping, and maintaining services and systems</li><li>Proficiency in one or more general-purpose languages like Java, JavaScript, Go, PHP, Python, Kotlin, C# or Ruby</li><li>Proficiency in an RDBMS like MySQL, PostgreSQL, or SQL Server</li><li>Interest in learning and applying security and infrastructure best practices</li><li>Interest in learning and applying knowledge of infrastructure tools and systems<br/><br/></li></ul><strong>Our Benefits<br/><br/></strong><ul><li>Unlimited paid time off</li><li>Health, dental, and vision benefits + 401k plan with company matching</li><li>Company contributions to your HSA or FSA plan, if you choose one</li><li>Continuing education and corridor travel benefits</li><li>Scholars program<br/><br/></li></ul><strong>Remitly is an Equal Opportunity Employer</strong>. Equal employment opportunity has been, and will continue to be, a fundamental principle at Remitly. We are committed to nondiscrimination across our global organization and in all of our business operations. Employment is determined based upon personal capabilities and qualifications without discrimination on the basis of race, creed, color, religion, sex, gender identification and expression, marital status, military status or status as an honorably discharge/veteran, pregnancy (including a woman's potential to get pregnant, pregnancy-related conditions, and childbearing), sexual orientation, age (40 and over), national origin, ancestry, citizenship or immigration status, physical, mental, or sensory disability (including the use of a trained dog guide or service animal), HIV/AIDS or hepatitis C status, genetic information, status as an actual or perceived victim of domestic violence, sexual assault, or stalking, or any other protected class as established by law.<br/><br/><strong>Compensation Details:</strong> The starting base salary range for this position is typically $116,710- $135,495. In the U.S., Remitly employees are shareholders in our Company and equity is part of our total compensation plan.<br/><br/><strong>Remitly is an E-Verify Employer<br/><br/></strong>Remitly is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

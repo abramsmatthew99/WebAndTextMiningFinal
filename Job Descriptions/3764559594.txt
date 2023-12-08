@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><em>Position at Apexon<br/><br/></em><strong>Company Description<br/><br/></strong>Apexon is a digital-first technology services firm backed by Goldman Sachs Asset Management and Everstone Capital. We specialize in accelerating business transformation and delivering human-centric digital experiences. For over 17 years, Apexon has been meeting customers wherever they are in the digital lifecycle and helping them outperform their competition through speed and innovation.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Role Title: Functional &amp; Web services Tester<br/><br/></li></ul>Required Skills 1. 3+ years of experience as a Software Tester or similar role<br/><br/><ul><li> Familiarity with Agile, hybrid Agile and waterwall frameworks</li><li> Working knowledge of test management software like JIRA, JAMA etc.</li><li> Ability to handle multiple tasks simultaneously</li><li> Ability to work in a fast-paced environment with minimal supervision</li><li> Sense of ownership and pride in your performance and its impact on the company’s success</li><li> Critical thinker and problem-solving skills</li><li> Team player</li><li> Good time-management skills</li><li> Good interpersonal and communication skills</li><li> Computer Science, Engineering or a related degree preferred.</li><li> Experience of US State govt projects preferred (but not required)<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in related field is required<br/><br/></li></ul><strong>Disclaimer<br/><br/></strong>If you feel that this is a good match for your skillsets, please submit a current word version of your resume along with a cover letter describing your skills, experience and salary expectations. We are an Equal Opportunity Employer (EOE).
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

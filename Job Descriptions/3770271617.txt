@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Jobs for Humanity is partnering with E. A. Sween Company to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position is open to candidates who reside in and have the legal right to work in the country where the job is located.<br/><br/>Company Name: E. A. Sween Company<br/><br/><strong>Job Description<br/><br/></strong>Job Details: IT Manager<br/><br/>We are seeking a versatile and experienced IT Manager with a strong focus on Integration Development and expertise in Business Intelligence (BI) to lead our Solution Development team. As the Integration Development and BI IT Manager, you will be responsible for designing and implementing seamless data integration solutions while leveraging business intelligence tools and analytics to provide valuable insights for strategic decision-making.<br/><br/>Responsibilities:<br/><br/><ul><li>Integration Strategy and Planning: Develop and execute a comprehensive integration strategy, ensuring smooth data flow and communication between various systems, applications, and databases. </li><li>Integration Development: Lead and manage a team of integration developers to design, develop, and implement integration solutions using industry-standard tools and methodologies. </li><li>Business Intelligence (BI) Implementation: Identify and implement suitable BI tools and platforms to collect, analyze, and visualize data from multiple sources. </li><li>Data Governance and Quality: Manage data governance policies and processes to ensure data accuracy, consistency, and security across the organization. </li><li>Technology Expertise: Stay updated with the latest integration and BI technologies, tools, and best practices and recommend their adoption to enhance the organization's capabilities. </li><li>Vendor Management: Evaluate and collaborate with third-party vendors providing integration and BI solutions, ensuring their products align with the organization's needs and standards. </li><li>IT Security and Compliance: Ensure that integration and BI solutions comply with the organization's IT security policies and relevant data protection and privacy regulations. </li><li>Team Management and Leadership: Lead, mentor, and motivate the integration development and BI teams, fostering a collaborative and innovative work environment. </li><li>Collaboration and Communication: Work closely with other IT teams, business units, and stakeholders to understand their requirements and align integration and BI projects with business goals. <br/><br/></li></ul>Requirements:<br/><br/><ul><li>Bachelor's degree in Computer Science, Information Technology, or related field. </li><li>Proven experience (7+ years) as an IT Manager with a focus on Integration Development and Business Intelligence or similar leadership roles. </li><li>Strong technical background in integration technologies, including APIs, web services, ETL, and data integration frameworks. </li><li>Experience with a variety of integration platforms and</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>

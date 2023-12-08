@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Advanced Technology &amp; Research Corporation (www.atrcorp.com) is seeking to fill the following full-time permanent position. Based in Maryland and incorporated over 50 years, ATR is an equal-opportunity engineering company with a solid reputation in various engineering disciplines for the government and Fortune 500 commercial customers.<br/><br/>Salary for the position is competitive according to qualifications. ATR offers an attractive comprehensive benefits package, including Medical/Dental insurances, free basic life/ADD, and long-term and short-term disability insurances, 401(k) plan, educational assistance program, and paid time off.<br/><br/>ATR is an Equal Opportunity Employer<br/><br/><strong>PRINCIPAL DUTIES AND RESPONSIBILITIES: <br/><br/></strong>The successful applicant will join ATR's Robotics and Controls Systems Division, assisting the team in Beltsville Maryland to participate as part of a multi-disciplinary research and development team that provides robotic and industrial automation system solutions for our customers. Will design, code, and test control software and electronics for robotic and industrial automation systems; support laboratory, shipboard, and airborne tests of advanced prototype systems; and document software life-cycle process artifacts, including SRS, RTM, SDD, and STP. Position may require travel (up to 10% time) to perform on-site testing, including at-sea testing for US Navy customers.<br/><br/><strong>EDUCATION &amp; EXPERIENCE REQUIREMENTS: <br/><br/></strong><ul><li>Minimum Bachelor degree in Electrical Engineering, Computer Engineering, Computer Science, or other relevant majors. </li><li>A minimum of three to five years of relevant work experience.</li><li>Strong proficiency in C/C++ and development in a real-time software environment.</li><li>Demonstrated proclivity for algorithm development in one or more areas: motion planning, control laws, sensor processing, and machine learning.</li><li>Hands-on experience with software controlled equipment.<br/><br/></li></ul><strong>SKILLS &amp; ABILITIES REQUIREMENTS: <br/><br/></strong>Must have -<br/><br/><ul><li> C/C++ programming experience.</li><li>Hands on experience with electro-mechanical equipment.</li><li>Experience in control applications involving sensors, actuators, servos, and hydraulics.</li><li>Proficient verbal and writing skills in English.</li><li>Experience supporting entire software life-cycle processes and associated documentation.<br/><br/></li></ul>Desirable –<br/><br/><ul><li>Experience with industrial I/O networks such as EtherCAT and Ethernet/IP.</li><li>Electrical CAD software proficiency (e.g., EagleCAD, OrCAD, etc.).</li><li>Experience with TCP/IP and/or UDP/IP communications protocols.</li><li>Experience developing graphical user interfaces using various graphical toolkits.</li><li>Experience developing signal processing algorithms and filters.</li><li>Experience with analysis development environments such as Matlab/Octave, Python, and/or TCL.</li><li>Self-starter that takes initiative and gets things done in a fast tempo development environment.<br/><br/></li></ul><strong>OTHER REQUIREMENTS: <br/><br/></strong>Candidate MUST be a US citizen, and the ability to obtain and retain a SECRET security clearance.<br/><br/>Powered by JazzHR<br/><br/>Pr9VIEjfpy
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

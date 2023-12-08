@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>As a Computer Vision Intern, you will be working with a team of Computer Vision professionals who apply various cutting-edge computer vision models to real-life use-cases and provide actionable insights to the business.<br/><br/><strong>Principal Duties<br/><br/></strong><ul><li>Design, develop, and implement deep learning algorithms for unique use cases.</li><li>Evaluate accuracy and quality of the designed models as well as data sources.</li><li>Stay up to date with the latest models and changes in the technology.</li><li>Communicate results and implications to colleagues and business partners.<br/><br/></li></ul><strong>Skills<br/><br/></strong><ul><li>Proficiency in Python required</li><li>Knowledge of one or more of the following, pytorch, tensorflow-keras or other deep learning framework</li><li>Object detection, semantic segmentation, instance segmentation, pose estimation, classification.</li><li>Hands-on and theoretical knowledge of Deep Learning based computer vision models yolov5 or newer, faster-rcnn, mask-rcnn, detr, ssd, resnet, etc. transformer models</li><li>Experience operating in a Unix/Linux operating system and using docker.<br/><br/></li></ul><strong>Education<br/><br/></strong>Preferred: Enrolled in a Master's or Ph.D program during the Spring or Summer 2024 term.<br/><br/>Preferred Majors: Computer Science, Electrical Engineering, Engineering – Statistics, Engineering – Systems Engineering, Mathematical Sciences - Applied Mathematics, Industrial Systems, or Physics<br/><br/>You MUST be able to work 40 hours a week in our midtown Atlanta office for 3 months during the Spring or Summer 2024 term. Relocation assistance is not provided, but NS does offer a Living Stipend (below), which is taxed.<br/><br/><strong>Compensation<br/><br/></strong>Freshman $3,577.00 Sophomore $3,922.00 Junior $4,266.00 Senior $4,493.00 Masters $5,406.00 PhD $6,366.00<br/><br/><ul><li>Living stipend of $850/month is available to those who qualify.<br/><br/></li></ul><strong>Company Overview<br/><br/></strong>Since 1827, Norfolk Southern Corporation (NYSE: NSC) and its predecessor companies have safely moved the goods and materials that drive the U.S. economy. Today, it operates a customer-centric and operations-driven freight transportation network. Committed to furthering sustainability, Norfolk Southern helps its customers avoid 15 million tons of yearly carbon emissions by shipping via rail. Its dedicated team members deliver more than 7 million carloads annually, from agriculture to consumer goods, and is the largest rail shipper of auto products and metals in North America. Norfolk Southern also has the most extensive intermodal network in the eastern U.S., serving a majority of the country’s population and manufacturing base, with connections to every major container port on the Atlantic coast as well as the Gulf of Mexico and Great Lakes. Learn more by visiting www.NorfolkSouthern.com.<br/><br/>At Norfolk Southern, we believe in celebrating our individuality. By leveraging the unique backgrounds and viewpoints of our employees, we can create a culture of innovation, respect, and inclusion. We know that employees thrive in a workplace where differing viewpoints, ideas, and experiences are freely shared and valued. As such, we encourage all employees to contribute their distinctive skills and capabilities to our organization.<br/><br/><strong>Equal employment opportunities are available to all applicants regardless of race, color, religion, age, sex, national origin, disability status, genetic information, veteran status, sexual orientation, and gender identity. Together, we power progress.<br/><br/></strong><strong>Effective December 8, 2021, NS has paused its implementation of the COVID-19 vaccine mandate given the dynamic legal proceedings. The ultimate outcome of the federal contractor vaccine mandate is yet to be determined. It is still possible that the mandate, as it applies to NS, could be upheld in court in the near future. If the mandate is upheld, NS employees will be required to be vaccinated or have an approved medical or religious accommodation.<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Truck Transportation
+          </span>
+</li>
+</ul>
+</div>
+</section>

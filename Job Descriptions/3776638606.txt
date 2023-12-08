@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Microsoft</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Arianna Reiter" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Arianna Reiter
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Technical Recruiter at Allegis Global Solutions
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Arianna Reiter" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Farianna-reiter&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Description</strong></p><p><strong>Data Scientist (Contract)</strong></p><p><br/></p><p><em>Please note that this is a contract role providing services to Microsoft through external staffing partners of Allegis Global Solutions. If you are selected for this role, you will be employed by a contract staffing supplier and will not be an employee of Microsoft.</em></p><p><br/></p><p><strong>Summary:</strong></p><p>The main function of a Data Scientist is to coordinate changes to computer databases, test, and implement the database applying knowledge of database management systems.</p><p><br/></p><p><strong>Job Responsibilities:</strong></p><ul><li>Expert in latest AI modeling techniques, including Clustering algorithms, Natural Language Processing etc.</li><li>Work with senior management, technical and client teams in order to determine data requirements, business data implementation approaches, best practices for advanced data manipulation, storage and analysis strategies.</li><li>Write and code logical and physical database descriptions and specify identifiers of database to management system or direct others in coding descriptions.</li><li>Design, implement, automate and maintain large scale enterprise data ETL processes.</li><li>Modify existing databases and database management systems and/or direct programmers and analysts to make changes.</li><li>Test programs or databases, correct errors and make necessary modifications.</li></ul><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in a technical field such as computer science, computer engineering or related field required.</li><li>8-10 years applicable experience required.</li><li>Experience with database technologies.</li><li>Knowledge of the ETL process.</li><li>Knowledge of at least one scripting language.</li><li>Strong written and oral communication skills.</li><li>Strong troubleshooting and problem solving skills.</li><li>Demonstrated history of success.</li><li>Desire to be working with data and helping businesses make better data driven decisions.</li></ul><p><br/></p><p><strong>Additional Details:</strong></p><ul><li>Location: Remote (PST Preferred)</li><li>Duration: 6 Months</li><li>Pay Range: $59-67 per hour</li></ul><p><br/></p><p><em>AGS is an Equal Opportunity/Affirmative Action Employer (M/F/Disability/Veterans). We will consider all applications without regard to race, gender, sexual orientation, gender identity, age, color, religion, national origin, veteran status, disability, genetic information or any other status protected by applicable law.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

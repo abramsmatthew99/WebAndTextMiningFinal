@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from o9 Solutions, Inc.</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Iris Van Aert" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQECVqA9BZc6oA/profile-displayphoto-shrink_100_100/0/1654101746304?e=2147483647&amp;v=beta&amp;t=doDnhbmRa6SO8WpyVbXuTJzKDeLk1MUZmkxTviiCEN8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Iris Van Aert
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        o9 Solutions | Better Planning | Better Decisions | Better for the Planet
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Iris Van Aert" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fes%2Elinkedin%2Ecom%2Fin%2Firis-van-aert&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Be part of something revolutionary</strong></p><p>At o9 Solutions, our mission is clear: be the Most Valuable Platform (MVP) for enterprises. With our AI-driven platform — the o9 Digital Brain — we integrate global enterprises’ siloed planning capabilities, helping them capture millions and, in some cases, billions of dollars in value leakage. But our impact doesn’t stop there. Businesses that plan better and faster also reduce waste, which drives better outcomes for the planet, too.</p><p><br/></p><p>We're on the lookout for the brightest, most committed individuals to join us on our mission. Along the journey, we’ll provide you with a nurturing environment where you can be part of something truly extraordinary and make a real difference for companies and the planet.</p><p><br/></p><p><br/></p><p><strong>About the role</strong></p><p>o9 Solutions is looking for <strong>an experienced, </strong>talented, and motivated Lead Data Scientist to come join our global team in NA or EMEA. As part of this Data Science team, you will be involved in the end-to-end delivery of our supply chain planning products and building advanced forecasting models with Predictive Analytics, Machine Learning and AI with algorithms such as R, and Python. These models will have used cases for Demand Planning, Supply Planning, Market Mix Modeling, Price Elasticity, New Product Planning, Store Assortment, Market Optimization, and more!</p><p><br/></p><p>You will be key in understanding the customers<strong> supply chain </strong>problems, designing solutions, developing, and deploying models, validating, and maintaining <strong>those models</strong>.</p><p><br/></p><p>A successful candidate will bring a Master’s in Computer Science, Mathematics, Statistics, Economics, Engineering, and 5+ years of experience in hands-on modeling in R or Python, in a supply chain forecasting capacity. You will enjoy working directly with customers and our larger o9 Data Science team.</p><p><br/></p><p><strong>What you’ll do for us: </strong></p><ul><li>Research, design, build, deploy, and validate new and existing machine learning models and predictive analytics for advanced forecasting in supply chain demand planning that will drive our customers growth from insights that are allow for better decision making</li><li>Apply a variety of machine learning techniques (clustering, regression, neural nets, time series, optimizations etc.) to their real-world advantages/drawbacks for insights internally and externally</li><li>Collaborate with solution architects, business operations specialists, engineers, data scientists, product managers, and internal/external business teams to make sure the models are aligned with business objectives and customer needs</li><li>Develop machine learning models for segmentation and optimization</li><li>Provide visualization of complex data sets that includes mathematical models, algorithms, and robust analytics</li><li>Produce recommendations and use statistical techniques that answer key product questions</li><li>Provide on-going support for development of demand planning forecasting and predictive analysis.</li><li>Be a storyteller to explain the “why and how’” of your data driven recommendations to cross-functional teams and customers</li><li>Guide junior data scientists and oversee their activities to ensure proper alignment/execution of their activities, and maintain high coding standards and best practices within organization</li></ul><p><br/></p><p><strong>What you’ll bring:</strong></p><ul><li><strong>Experience</strong>: 5+ years of data science and data analytics experience.</li><li>5+ years’ experience in supply chain planning analysis that specialize in: Demand Planning, Predictive Analysis, Demand Forecasting, Supply Planning, Inventory Market Optimization, Store Segmentation, Market Mix Optimization, New Product Planning, or similar.</li><li>Experience in building scalable ML frameworks for demand sensing including identifying and collecting relevant input data, feature engineering, tuning, and testing.</li><li>Experience developing experimental and analytics plans for data modeling processes with the ability to accurately determine and resolve problems</li><li>Experience gathering data requirements for statistical predictive analytics research that drives market research, product innovation, and implementation in a supply chain space</li><li>Strong presentation and communications skills with ability to communicate complex analytical or technical concepts to audiences with limited analytical or technical background</li><li>Experience in time series forecasting in scale using heuristic based hierarchical best-fit models using algorithms like exponential smoothing, ARIMA, prophet and custom parameter tuning</li></ul><p><br/></p><ul><li><strong>Education:</strong> Master’s in Computer Science, Mathematics, Statistics, Economics, Engineering, or related field</li><li><strong>Skills</strong>: R, Python, Pyspark, Machine Learning, SQL, building models in platforms like Power BI or Tableau</li><li><strong>Characteristics:</strong> You thrive in a fast paced, challenging environment, where this is much white space and problem solving is at the heart of what drives your analysis</li><li><strong>We really value team spirit:</strong> Transparency and frequent communication is key. At o9, this is not limited by hierarchy, distance, or function</li></ul><p><br/></p><p><strong>Preferred Experience…</strong></p><ul><li>Exposure to distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, or related Big Data technologies</li><li>Experience with Deep Learning frameworks such as Keras, Tensorflow or PyTorch is preferable</li><li>Experience in implementing planning applications will be a plus</li></ul><p><br/></p><p><strong>How the process works…</strong></p><ul><li>Apply by clicking the button below.</li><li>You’ll be contacted by our recruiter, who’ll fill you in on all things o9, give you some background about the role and get to know you. They’ll contact you either via video call or phone call - whatever you prefer.</li><li>During the interview phase, you will meet with the Hiring Manager for 30 minutes. The recruiter will contact you after the interview to let you know if we’d like to progress your application.</li><li>Your application has progressed! Meet with a new panel for a final round of interviews for 30 minutes each.</li><li>Our recruiter will let you know if you’re the successful candidate. Good luck!</li></ul><p><br/></p><p><strong>More about us… </strong></p><p>With the latest increase in our valuation from $1.1B to $3.7B, o9 Solutions is one of the fastest-growing technology companies in the world today. Our mission is to digitally transform planning and decision-making for the enterprise and the planet. Our culture is high-energy and drives us to aim 10x in everything we do.</p><p><br/></p><p>Our platform, the o9 Digital Brain, is the premier AI-powered, cloud-native platform driving the digital transformations of major global enterprises including Google, Walmart, ABInBev, Starbucks, and many others.</p><p><br/></p><p>Our headquarters are located in Dallas, with offices in Amsterdam, Paris, London, Barcelona, Madrid, Milan, Munich, Bangalore, Tokyo, Seoul, Sao Paulo and Toronto.</p><p><br/></p><p><em>o9 is an equal opportunity employer and seeks applicants of diverse backgrounds and hires without regard to race, colour, gender, religion, national origin, citizenship, age, sexual orientation or any other characteristic protected by law</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting, Supply Chain, and Project Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

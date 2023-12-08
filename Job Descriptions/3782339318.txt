@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Prior US Work Authorization Required - Thank You.<br/><br/></strong><strong>Please, no 3rd party applications - direct submissions only - no C2C - thank you.<br/><br/></strong>The firm is embarked on a state-of-the-art engineering effort to enable access the vast amounts of data present across the firm's systems. The Data Platform team aims to build the next generation data enablement platform.<br/><br/>We want to understand every aspect of every data set and their relationships. We will build the world's most comprehensive data platform that will enable our users to leverage the data in the most sophisticated ways.<br/><br/>We Are Looking For Self-starters Who Are Curious And Enjoy Working With Data And Coming Up With Innovative Solutions. You Will Be Exposed To<br/><br/><ul><li>Data science</li><li>Machine Learning</li><li>Scalability</li><li>People you will work with the best and the brightest<br/><br/></li></ul><strong>Key Requirements<br/><br/></strong><ul><li>3+ years of software experience</li><li>3+ years data engineering experience</li><li>Bachelor's degree in Computer Science or similar field</li><li>Object-oriented and coding skills (Java and/or C/C++)</li><li>Experience with distributed (multi-tiered) systems</li><li>Experience building highly scalable web applications<br/><br/></li></ul><strong>Preferred<br/><br/></strong><ul><li>Advanced degree in Computer Science, Computer engineering or related discipline</li><li>Ability to handle multiple competing priorities in a fast-paced environment</li><li>Excellence in communication</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

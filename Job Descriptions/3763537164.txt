@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Responsibilities<br/><br/></strong><ul><li> Gather and document business requirements for resolving issues, enhancements, and projects.</li><li> Formulate and configure applications to meet business requirements and execute solutions that help business units achieve their strategic objectives.</li><li> Test and track business requirements through implementation.</li><li> Analyze business strategy and user needs, document business processes, and translate business objectives into proper system requirement specifications for resolving issues, new enhancements, and new applications.</li><li> Formulate and define systems scope and objectives through research and fact-finding and available IT solutions.</li><li> Interpret existing applications and business processes to identify opportunities for improvement.</li><li> Provide day to day support of IT processes and applications through the analysis and correction of incidents logged by business users.<br/><br/></li></ul><strong>Minimum Qualifications (required)<br/><br/></strong><ul><li> 1+ years in Information Technology</li><li> Bachelor’s Degree or higher in Business, Information Systems, Computer Science or related field (or equivalent years of training, work experience and education)</li><li> 1-2+ years of Business Analyst experience through internships or industry experience to include:</li><li>Experience developing and managing functional/technical specifications and test plans</li><li>1+ years SAP experience</li><li>Excellent documentation experience using Microsoft office, SharePoint or similar tool</li><li>Ability to identifying process issues and suggestions for improvement</li><li>Experience with Agile / scrum methodology</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

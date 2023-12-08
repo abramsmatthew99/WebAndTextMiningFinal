@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you passionate about helping those around you be more effective? Do you think about technology as a way to increase efficiency and change how business operates? We are looking for candidates that share our passion for tackling complexity head-on, to help build software platforms that can scale through multiple orders of magnitude.Data Infrastructure team is responsible for the end to end life cycle of data at Meta - from logging, ingesting, processing to making it available to users across the company for AI, ML and Analytics use cases. As a Technical Program Manager, you will play a key role within Data Infrastructure team, driving large cross functional projects that span the organization. Our team is comprised of varying levels of experience and backgrounds. Relevant experience is important, but ultimately less so than your demonstrated abilities and attitude. Meta’s infrastructure is constantly redefining what is possible, and we need Technical program managers that can do the same.<br/><br/>Technical Program Manager, Data Infrastructure Responsibilities:<br/><br/><ul><li>Build strong and aligned program teams to efficiently deliver on shared goals.</li><li>Collaborate with Engineering and business owners to define program requirements, set priorities, and establish scope which includes defining the roadmap and long-term strategy of the teams that you are partnering with.</li><li>Manage cross functional dependencies, risks, and changes effectively by optimizing scope, schedule, and resources accordingly.</li><li>Develop and own communication plans to effectively and proactively communicate program status, issues, and risks to stakeholders.</li><li>Partner with cross functional teams to drive technical analysis, design, development, testing, implementation, and post implementation phases.</li><li>Define and track key metrics and key quality and performance indicators and drive cross functional execution of program deliverables.</li><li>Proactively identify and analyze complex, long-term, critical infrastructure problems with engineering leaders and stakeholders.</li><li>Influence product decisions to align with higher company initiatives.</li><li>Drive internal and external process improvements across multiple teams and functions including reducing the manual efforts through automation.<br/><br/></li></ul>Minimum Qualifications:<br/><br/><ul><li>B.S. in Computer Science or a related technical discipline, or equivalent experience.</li><li>Experience delivering tech programs or products from inception to delivery</li><li>Knowledge of user needs, gathering requirements, and defining scope.</li><li>Experience operating autonomously across multiple teams, demonstrated critical thinking, and thought leadership.</li><li>Communication experience and experience working with technical management teams to develop systems, solutions, and products.</li><li>Organizational, coordination and multi-tasking experience.</li><li>Analytical and problem-solving experience with large-scale systems.</li><li>Experience establishing work relationships across multi-disciplinary teams and multiple partners in different time zones.<br/><br/></li></ul>About Meta:<br/><br/>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br/><br/>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br/><br/>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

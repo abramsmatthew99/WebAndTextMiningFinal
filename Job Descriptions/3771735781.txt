@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Please Note: This is a W2 position, please no direct hire/contract agencies.<br/><br/></strong>A leading provider of healthcare supply chain solutions seeks experienced candidates for the position of Quality Assurance Analyst.<br/><br/>We are seeking a QA Analyst who possesses a strong technical skill set, a positive attitude, and the flexibility to work extended hours when necessary. The successful candidate will have a proven history of delivering projects on schedule. In this role as a member of the PAR Excellence Technology team, you will be responsible for ensuring the successful execution of QA, unit, regression, and acceptance testing, and contribute substantially to the orchestration of software releases.<br/><br/><strong>Duties And Responsibilities<br/><br/></strong><ul><li>Collaborate directly with software developers to understand project features, review code changes, and identify areas of concern.</li><li>Conduct thorough testing of software developers’ work, including functional testing, system integration testing, regression testing, and acceptance testing.</li><li>Conduct security testing to identify vulnerabilities and risks in the software and ensure that the software meets all relevant security standards and regulations.</li><li>Document all testing results, findings, and issues in Azure DevOps.</li><li>Work with other analysts and independently to refine and translate business requirements into user stories and documented work items.</li><li>Interface with other departments, including the client implementation team, to understand, document, and determine remediation of customer issues and other bugs identified in web applications.</li><li>Ensure that all software solutions meet company standards and end-user requirements.</li><li>Participate in all phases of the software development life cycle, providing QA sign-off for all releases.</li><li>Work with Technical Training Manager to ensure accuracy in training documentation and other training materials.</li><li>Continuously improve upon existing approaches by seeking opportunities to creatively transform high-level business needs into detailed requirements.</li><li>Manage multiple projects simultaneously, and prioritize tasks based on business needs and project requirements.</li><li>Stay up to date with new testing tools and test strategies and improve efficiency in the testing process.<br/><br/></li></ul><strong> Required Knowledge, Skills, and Abilities <br/><br/></strong><ul><li>Strong technical skill set with a deep understanding of software testing methodologies and practices.</li><li>Proficiency in using Azure DevOps for documenting testing results, findings, and issues.</li><li>Ability to refine and translate business requirements into user stories and documented work items.</li><li>Excellent communication skills to interface with various departments and address customer issues and bugs.</li><li>Familiarity with software development life cycle (SDLC) and ability to participate in all phases.</li><li>Ability to manage multiple projects simultaneously and prioritize tasks based on business needs and project requirements.</li><li>Knowledge of the latest testing tools and test strategies.</li><li>Ability to conduct security testing to identify vulnerabilities and risks in the software.</li><li>Understanding of industry standards and regulations related to software security.</li><li>Experience with testing web-based applications, including those hosted in the cloud and rendered on mobile form factors.</li><li>Proven experience using Excel, PowerPoint, Visio, and other office and productivity applications is required.</li><li>Experience with the following is preferred:</li><ul><li>Continuous integration (CI) and continuous delivery (CD)</li><li>Microsoft SQL and Azure App Services</li><li>Programming technologies such as C# and Microsoft .NET</li></ul></ul><strong> Required Education, Credentials and Experience <br/><br/></strong><ul><li>3+ years experience in a software testing role</li><li>BS in Computer Science, Computer Engineering or similar technical degree (or equivalent experience)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        SRI International, an over 75-year strong pioneering research institute, has a rich history supporting government and industry. Our innovations have created new industries, billions of dollars in market value and lasting benefits to society. SRI is organized around broad disciplines and capabilities, with research and development divisions and labs to groups who excel at identifying new opportunities, developing products and creating custom solutions. Our organization is driven by impact - delivering unique solutions for the world's important challenges and transforming ideas into reality for clients and partners.<br/><br/>The Neuro-Symbolic Computing and Intelligence Research Group at SRI International is looking for a motivated summer intern to conduct new research in the assurance and safety of large foundational models used in multi-modal applications. Students with an interest in exploring new representations of uncertainty and scaling these approaches to large neural network architectures are encouraged to apply. The objective of the internship is to make significant contributions to this newly developing area, with the aim of submitting research papers to top machine learning conferences.<br/><br/>This position can working fully remotely or a hybrid schedule if within commuting distance of our Arlington, VA office.<br/><br/><ul><li>Developing and building on the lab’s current codebase as well as starting new repositories</li><li>Writing technical presentations and papers for conferences</li><li>Independent research</li><li>Meeting with supervisor as often as needed to discuss research</li><li>Current graduate student majoring in Computer Science or a related field</li><li>Focus on Machine Learning</li><li>Proficient in PyTorch<br/><br/><br/></li></ul>The salary range is $30-$45/hr. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https//www.sri.com/resources/benefits/.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

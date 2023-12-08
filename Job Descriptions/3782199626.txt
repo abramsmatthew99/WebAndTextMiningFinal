@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Wanzl North America</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Kelsey Norwood" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQEQkxAixKIrGg/profile-displayphoto-shrink_100_100/0/1699493418012?e=2147483647&amp;v=beta&amp;t=TU1gvqmQ5wsCUbydJCg0kS4SkxvrNCU_CQB_KSqAwj8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Kelsey Norwood
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Talent Acquisition Specialist, Wanzl North America
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Kelsey Norwood" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fkelsey-norwood-b44809128&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Position Overview</strong></p><p>The Sr. Software Engineer is involved in all stages of software development, including back-end development, database integrations, and some front-end development. Will work closely with members of the sales, marketing, and product management team to create solutions for our customers. The Sr. Software Engineer will be responsible for carrying out the duties of the R&amp;D department, including development, research, implementation, documentation, estimating, and process improvement.</p><p><br/></p><p><strong>Company Overview</strong></p><p>Wanzl North America’s (WNA) vision is to be a leading entrepreneurial player in terms of market share, agility, and game-changing solutions. WNA is a solution provider, creating value along the supply chain of our customers, from the online purchase to the delivery to their customers.</p><p>WNA, which includes the Technibilt and Cari-All brands, headquartered in Newton, North Carolina. With nearly 500 employees and 175 MUSD of sales, WNA focuses on the retail and distribution market segments with marquee customers such as Walmart, Amazon, and the majority of large grocers and retailers.</p><p>In addition to being the largest manufacturer of shopping carts in North America, WNA has three (3) additional main product segments as well as a Service business, providing turnkey solutions for customer guidance (Access Systems) and Shelving &amp; Fixtures, as well as Material Handling/Rolling Stock products. Additionally, WNA is active in building a “digital” business line with products for shopping cart containment, smart exit gate technology, and solutions for autonomous and/or semi-autonomous retail stores.</p><p>WNA is part of the Wanzl group, headquartered in Germany, and has 12 plants in 8 countries, providing comprehensive, solutions-driven service and expert knowledge of local markets for customers across the globe through their 360° service.</p><p><br/></p><p><strong>Duties and Responsibilities:</strong></p><p>· Design, develop, test, and implement new digital solutions for our customers in retail and logistics based on business requirements and strategic direction.</p><p>· Own end to end design for the platform, solution delivery and execution and code quality. Lead sprint execution with developers.</p><p>· Design and develop cloud-native solutions in a dynamic IoT environment.</p><p>· Responsible for software architecture and realization of customer requirements in close coordination with product management.</p><p>· Develop new features with micros services and reactive web and app UIs for our IoT Wanzl-Connect platform.</p><p>· Lead the development of company standards &amp; specifications.</p><p>· Mentor &amp; train less experienced engineers.</p><p><br/></p><p><strong>Skills and Experience:</strong></p><p>· Bachelor's Degree in Computer Science, CIS, or related field (or equivalent work experience in a related field)</p><p>· 7+ years of experience in a similar or related role.</p><p>· Advanced knowledge of C# and ASP .NET, as well as REST APIs</p><p>· Knowledge of GIT, Jira and IoT concepts</p><p>· Basic Knowledge of JavaScript, vue.js and CI/CD</p><p>· Basic Linux &amp; TCP/IP Networking</p><p>· Ability to break down complex problems and projects and find and communicate good solutions that fit or improve the overall architecture.</p><p>· Ability to problem-solve quickly and effectively</p><p>· Ability to produce under pressure of timelines and customer demands</p><p>· Ability to prioritize and work independently to work on multiple small projects simultaneously ensuring all key dates are met while maintaining the highest level of quality</p><p>· Language: English (fluent), German is a big plus</p><p>· 20% travel required</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

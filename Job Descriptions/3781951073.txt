@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you a cleared software engineer looking for a company that understands employees are its most valuable resources? Join our Best Workplace winning company that offers excellent perks, all designed to support the needs of you and your family!<br/><br/><strong>Overview<br/><br/></strong>Intelliforce is seeking a full stack Java Developer needed to help develop, maintain, and enhance diverse software systems. Some hybrid options may be available.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Experience with C, C++, Python, Ruby, Perl, Javascript</li><li>Nice to have experience developing with Java in a Linux environment.</li><li>Familiar with Apache NIFI</li><li>Ability to work in a team environment</li><li>Clearance required</li><li> B.S. Degree in Computer Science or related discipline from an accredited university/college in needed. Five (5 )additional years as a software developer experience may be substituted for the B.S degree.<br/><br/></li></ul><strong>Who Is Intelliforce-ITSG<br/><br/></strong>We are an Intelligent Force of Engineers providing solutions to complicated problems. We are people driven and motivated to provide you with an excellent work life balance. Offering all employees clear expectations, professional development, and social connections.<br/><br/><strong>Benefits<br/><br/></strong><ul><li>We host a variety of fun employee and family events throughout the year to say thanks for all that you do to make Intelliforce a phenomenal place to work.</li><li>Competitive salary</li><li>Health, Dental, and Vision Insurance plans</li><li>Quality of life differential</li><li>We offer a 401(k) Profit Sharing Plan that offers a powerful way to enhance your long- term financial well-being by investing in yourself</li><li> Ample Paid Time Off</li><li>Paid Training and Education!<br/><br/></li></ul><strong>Don't see a fit but know someone who might be? Intelliforce offers an external referral bonus to all qualified hires.<br/><br/></strong>Powered by JazzHR<br/><br/>8z1OZq5IKP
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

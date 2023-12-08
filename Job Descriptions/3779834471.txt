@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>How this Role Makes an Impact</strong></p><p>ImagineSoftware is growing, and we are inviting a passionate, detail-oriented Software Engineer - Treasury to join us! This person will develop Imagine’s treasury product offerings which provides automation for our clients and creates better patient financial experiences. Our Software Engineers are experts at creating solutions with the end-user experience in mind. This role creates products that define the customer experience, with the goal of providing the best software solution in the industry!</p><p><br/></p><p>The Imagine team has a reputation for excellence, and we will provide you with the tools needed to succeed in this role. This is an ideal position for someone who enjoys problem solving in an ambiguous, challenging environment and takes pride in creating high quality, innovative software. Weare an innovative company that evolves quickly, so come ready to learn at a fast pace!</p><p><br/></p><p><strong>Essential Duties</strong></p><ul><li>Developing new and existing web products</li><li>Researching, designing and writing new software programs</li><li>Researching new technologies</li><li>Developing existing programs by analyzing and identifying areas for modification</li><li>Working with computer coding languages</li><li>Creating technical specifications and test plans</li><li>Writing complex SQL Scripts</li><li>Testing new programs and fault finding</li><li>Evaluate simple interrelationships between programs such as whether a contemplated change in one part of a program would cause unwanted results in a related part</li><li>Consulting clients/colleagues concerning the maintenance and performance of software systems and asking questions to obtain information, clarify details and implement information</li><li>Develop automated functional tests</li><li>Working closely with other staff, such as project managers, systems analysts, and sales and marketing professionals</li><li>Maintain confidentiality regarding the information being processed, stored or accessed</li><li>Constantly updating technical knowledge and skills by attending in-house and/or external courses, reading manuals and accessing new applications</li><li>Completion of IMAGINE Software Certification course</li><li>Other duties as assigned</li></ul><p><br/></p><p><strong>Education and/or Experience Needed</strong></p><ul><li>BS/BA degree in Computer Science/IT or related field</li><li>Minimum of 3+ years of experience in web technologies</li><li>2+ years’ experience in software development using .net</li></ul><p><br/></p><p><strong>Qualifications You Must Have</strong> </p><p><strong>Required:</strong></p><ul><li>Proficient in Object Oriented programming patterns/practices</li><li>ASP.NET MVC</li><li>WebAPI</li><li>Worked with latest LTS .Net Version</li><li>MS Entity Framework / LINQ</li><li>C#</li></ul><p><strong>Preferred:</strong></p><ul><li>Blazor</li><li>CSS </li><li>Proficient in JavaScript / Client-side programming</li><li>SQL Server 2015+</li><li>Typescript</li><li>Unit Testing Experience (writing, running, TDD) </li></ul><p><br/></p><p><strong>Employment Type</strong></p><ul><li>Full-Time, Exempt</li></ul><p><br/></p><p><strong>Reporting Structure</strong></p><ul><li>Vice President of Software Engineering – Treasury</li></ul><p><br/></p><p><strong>Work Environment</strong></p><ul><li>Working conditions are normal for an office environment.</li></ul><p><br/></p><p><em>At ImagineSoftware, we have a role to play in contributing to an inclusive world. We work every day to lead with our values and beliefs that enable you to develop your potential and bring your full self to the workplace. Our culture of diversity and inclusion enables more creative thinking and better ideas for addressing a more diverse market. We hire driven people from all backgrounds because it makes us a great company, and because it’s the right thing to do. If you share these values, you will find a home at ImagineSoftware.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development, Technology, Information and Internet, and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

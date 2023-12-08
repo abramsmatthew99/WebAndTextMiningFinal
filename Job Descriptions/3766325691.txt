@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong><strong>Public Storage</strong> is recognized as one of <strong>America’s Best Large Employers</strong> in 2022 by Forbes and our employees have also voted us as a <strong>Great Place to Work</strong>, having <strong>Best Career Growth</strong>, ranked us in the <strong>Top 5% for Work Culture</strong>, and in the <strong>Top 10% for Diversity and Inclusion.<br/><br/></strong>With more than 2,900 locations nationwide, Public Storage is the leader in the self-storage industry, and given our number of tenants, we may very well be the world's largest landlord. We've experienced unprecedented growth over the past four decades, and it's in no small part due to the dedicated team that has helped us become an S&amp;P 500 industry leader, the country's largest real estate investment trust (REIT), and the most recognizable name in self-storage.<br/><br/><strong>Job Description<br/><br/></strong>Public Storage is looking for a <strong>Director, Cloud Operations</strong>. This leader will have oversight over the strategy and management of Cloud operations inclusive of implementation, standardization, and management of Engineering and IT Cloud infrastructure services. They will lead the development of IT policies and procedures for maintenance, vendor management and the direct management of the Cloud Center of Excellence (CCoE).<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Management of cloud infrastructure, server systems, storage, virtualization/containerization, infrastructure development, while partnering with the service delivery and security teams, as well as the application development and digital groups. </li><li>Lead the systems, database, and network functional areas. </li><li>Establish long term IT infrastructure strategy, goals, policies, and procedures for Cloud Operations. </li><li>Ensure compliance with all required security protocols and applicable standards. </li><li>Direct cloud operations: lifecycle of all systems, virtualization, containers, continuous integration/delivery, databases, object storage, messaging systems, storage, server networks, disaster recovery, and backup systems. </li><li>Manage the development of strategy, planning and execution of IT core systems disaster recovery management process. </li><li>Manage daily operation and staff supporting IT cloud infrastructure. </li><li>Accountable for planning and efficient use of budget within areas of responsibility. </li><li>Direct functional area leaders on projects for cloud optimization and automation. </li><li>Mentor and facilitate professional growth for direct reports. </li><li>Operations KPIs and reports to executive management on service availability and infrastructure performance. </li><li>Manages and provides direction to functional area leaders and architects on design and implementation of highly available/distributed services. </li><li>Manages IT infrastructure &amp; cloud projects including design, budget, and resource assignments. </li><li>Manage 24/7 on-call coverage of IT infrastructure &amp; cloud; manages partner relationships for the same. </li><li>Provide evaluation and mentoring for direct reports on performance. </li><li>Act as a thought leader acting as a critical part of the IT management team. </li><li>Plan and manage budget for the IT infrastructure in coordination with IT senior leadership. </li><li>Other duties as assigned or requested. <br/><br/></li></ul><strong>Compensation<br/><br/></strong><strong>Base Pay Range</strong>: $133,000 - $194,000<br/><br/>Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of our total awards approach to compensation which is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses or incentives.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Bachelors degree in computer science, business administration or 15 years relevant experience in this field. </li><li>10 years leading an infrastructure team within corporate environments. </li><li>5 years leading a cloud team within corporate environments. </li><li>10 years of direct management experience including budgetary responsibility. <br/><br/></li></ul><strong>KNOWLEDGE, SKILLS And ABILITIES<br/><br/></strong><ul><li>Significant leadership experience leading IT Operations Services and Cloud operations. </li><li>Previous experience managing 3rd party service providers to contractual agreements and customer satisfaction requirements. </li><li>Windows Active Directory systems administration knowledge. </li><li>Experience administering Kubernetes clusters and associated infrastructure. </li><li>Experience administering Openshift infrastructure. </li><li>Experience administering VMWare vSphere and associated infrastructure. </li><li>Experience in cloud architecture and infrastructure administration. </li><li>Software development experience and software engineering process knowledge required. </li><li>Working technical knowledge of modern network hardware, protocols, and Internet standards, including TCP/IP (IPv4 and IPv6), BGP, OSPF, and MPLS. </li><li>Working technical knowledge of relational databases like MSSQL or MySQL. </li><li>Strong organizational skills to prioritize tasks under time constraints; diplomacy and ability to deal effectively with people. </li><li>Experience in leading multidisciplinary, high-performance work teams/groups. </li><li>Demonstrated competency in developing efficient and effective solutions to diverse and complex business problems. </li><li>Strong organizational and analytical skills. </li><li>The ability to work collaboratively with diverse functions and levels within the organization. </li><li>Excellent communication and presentation skills. <br/><br/></li></ul>Additional Information<br/><br/>All your information will be kept confidential according to EEO guidelines.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Real Estate
+          </span>
+</li>
+</ul>
+</div>
+</section>

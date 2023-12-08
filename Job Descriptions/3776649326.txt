@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Senior Operations Research Data Scientist - Hybrid in Atlanta </u></strong></p><p>Optomi, in partnership with a leader in the supply-chain and omni-commerce space, is looking for a Senior Operations Research Data Scientist to join their team. You will be part of a specialized team within our global R&amp;D organization that focuses on the innovation and enablement of science and optimization within our industry leading supply chain solutions. Our R&amp;D team is the heart and soul of the organizations product portfolio. We create and design the future of our products, positioning them ahead of the curve technically, operationally, and scientifically over our competitors. You will have the opportunity to learn and collaborate with a diverse group people from a variety of backgrounds and skill sets to enhance your functional, technical, and science knowledge while on a path for career growth at this organization.</p><p><br/></p><p><strong>What You Need</strong></p><ul><li> PhD in operations research, computer science, industrial engineering or a related technical field specializing in Transportation, Warehouse Management, Order Management, Supply Chain Planning and Forecasting, and/or Inventory Management. Research experience in multiple areas is highly preferred</li><li>Strong working knowledge and production experience in optimization, robust algorithmic modeling, mathematical programming, meta-heuristics, statistics, and simulation</li><li>Solid working knowledge / experience with CPlex (et al), Matlab (et al), leading statistical packages</li><li>Solid working knowledge in Java and/or C/C++, Python (or similar scripting language), and SQL</li><li>Very strong analytical and problem-solving skills</li><li>Good communication, documentation, and presentation skills</li></ul><p><br/></p><p><strong>What Will You Do</strong></p><ul><li><em>Some of the important things you will do in this role:</em>Responsible for comprehensive algorithm modeling: from research and design conception, through proof-of-concept, solution benchmarking, testing, delivery, and ongoing solution support and enhancements.</li></ul><p><br/></p><ul><li>Model complex systems within the context of Supply Chain Management, such as transportation planning and execution, warehouse &amp; distribution management systems, order management systems, allocation &amp; replenishment, and/or inventory planning &amp; optimization systems. You will not be siloed to just one sub-domain but will have the opportunity to participate and contribute across our portfolio.</li></ul><p><br/></p><ul><li>You will be viewed as and counted upon to be an optimization expert, thought leader, and mentor</li></ul><p><br/></p><ul><li>Collaborate with product leaders to identify opportunities, influence product vision, and analyze business problems and requirements – ultimately to translate them into robust comprehensive algorithmic and scientific solution designs.</li></ul><p><br/></p><ul><li>Conduct qualitative and quantitative analyses and modeling of complex operational and management problems using techniques such as: advanced analytics, mathematical modeling, mathematical programming, heuristics/meta-heuristics, network analysis, data mining, predictive modeling, machine learning and/or simulation</li></ul><p><br/></p><ul><li>Have direct contact with customers to fully gain an understanding about their business problems, while also collaborating with product leaders, product development &amp; services teams, and of course fellow scientists</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Science and Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

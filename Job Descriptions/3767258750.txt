@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Location: </strong> Owings Mills, MD<br/><br/><strong>Salary: </strong> $40.00 USD Hourly - $45.00 USD Hourly<br/><br/><strong>Description: </strong> Our client is currently seeking a Windows Systems Engineer<br/><br/><strong>Job Title: System Engineer<br/><br/></strong><strong>Location: Owings Mills, MD (Fully Onsite)<br/><br/></strong><strong>Contract: 12+ Months (Contract to FTE)<br/><br/></strong><strong>Job Description<br/><br/></strong><ul><li>The main function of a Systems Engineer is to perform a wide variety of installation, configuration and upgrading of servers and related hardware and software in a LAN, WAN and stand-alone environment, providing investigation, diagnostic testing and repair/resolution of system, hardware, software and infrastructure.</li><li>Top Job Responsibilities:</li><li>Monitor/troubleshoot backups</li><li>Monitor server availability</li><li>Maintain adequate storage on servers<br/><br/></li></ul><strong>Other Job Responsibilities<br/><br/></strong><ul><li>Complete configuration, installation and support of equipment to the specifications of the business</li><li>Maintain software applications and operating systems through regular maintenance</li><li>Maintain configuration and support documentation</li><li>Manage assigned projects and program components to deliver services in accordance with established objectives</li><li>Supervise the administration of systems and servers to ensure availability of services to authorized users</li><li>Maintain multi-site network operations, software applications, operating systems through regular maintenance</li><li>Troubleshoot malfunctions of hardware, software applications and security systems to resolve operational issues and restore services</li><li>Top Qualifications:</li><li>Experience supporting Windows Server</li><li>Knowledge of Microsoft System Center ecosystem</li><li>Knowledge of VMWare<br/><br/></li></ul><strong>Other Qualifications<br/><br/></strong><ul><li>Bachelor's degree in a technical field such as computer science, computer engineering or related field required</li><li>8-10 years experience required</li><li>Broad knowledge of IT Systems engineering</li><li>Experience with system capacity and planning, as well as functional configuration and audit</li><li> Experience with system planning and capacity tools and analyses <br/><br/></li></ul><strong>Contact:</strong> dsharma01@judge.com<br/><br/><em>This job and many more are available through The Judge Group. Find us on the web at www.judge.com</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Come join the technology team revolutionizing how we bring food to our customers' tables! As a <strong>Data Engineer</strong>, <strong>Production Technology,</strong> you will enhance our production systems and data integrations across the business. You will have the opportunity to build production-grade products that will be used across different production facilities in the US, with hundreds of internal users.<br/><br/><strong>You will ...<br/><br/></strong><ul><li>Develop deep knowledge of site-level operations to drive and support continuous improvement efforts</li><li>Design, develop, and maintain data pipelines to extract, transform, and load (ETL) data from various sources</li><li>Develop new software applications to enhance system operations and improve efficiencies and visibility across all software platforms</li><li>Lead software or data implementations from design through deployment across multiple facilities in the US</li><li>Provide tier 3 support by troubleshooting escalated technical issues in WMS, WES, WCS, and other systems across all operations as they occur</li><li>Understand all available reporting tools, and create automated reports that enable improved operation visibility and performance</li><li>Oversee QA efforts for all production software systems</li><li>Create documentation to describe systems that you develop/work with<br/><br/></li></ul><strong>You are...<br/><br/></strong><ul><li>Strong communication and collaboration skills</li><li>Ability to work independently and as part of a team</li><li>Excellent problem-solving and troubleshooting skills</li><li>Attention to detail and a commitment to quality</li><li>Passion for data and a desire to learn new technologies</li><li>Flexibility and reliability to cover scheduled shifts that support 24/7 production operations<br/><br/></li></ul><strong>At a minimum, you have...<br/><br/></strong><ul><li>BS degree required. Computer Science, Management Information Systems, or Engineering Degree desired</li><li>Experience with building backend infrastructure using Python &amp; SQL (SQLAlchemy, Flask, FastAPI, Django)</li><li>Know the basics of frontend development (comfortable with basic HTML/CSS)</li><li>2+ years of experience with software and data engineering</li><li>Familiarity with event streaming/message queuing technologies such as RabbitMQ, Pub/Sub, and Kafka</li><li>Understanding of data warehousing concepts and data modeling principles</li><li>Ability to work with large datasets and perform data analysis tasks</li><li>Experience gathering data and creating custom reports (Grafana, Tableau) </li><li>Some travel<br/><br/></li></ul><strong>Bonus Points For<br/><br/></strong><strong>Experience in multi-site industrial distribution, manufacturing, or processing environments<br/><br/></strong><ul><li>Experienced with large-scale data replication and clustering</li><li>Proficient in crafting and implementing scalable, dependable data pipelines to guarantee adherence to SLA uptime standards.</li><li>Understanding of data governance and security principles<br/><br/></li></ul><strong>Schedule: </strong>Varies based on support needs<br/><br/><strong>You’ll get…<br/><br/></strong><ul><li>Competitive salary, 401k with company match that vests immediately upon participation, and company equity plan based on role</li><li>Generous PTO and parental leave of up to 16 weeks</li><li>Comprehensive health and wellness benefits with options at $0 monthly, effective first day of employment</li><li>Tuition reimbursement for continuing education</li><li>Up to 75% discount on subscriptions to HelloFresh meal plans (HelloFresh, Green Chef, Everyplate, and Factor_) </li><li>Access to 6 different Employee Resource Groups (ERGs) including those for minorities, women, veterans, parents, and LGBTQ+</li><li>Inclusive, collaborative, and dynamic work environment within a fast-paced, mission-driven company that is growing exponentially year over year<br/><br/></li></ul>New York Pay Range<br/><br/>$99,600—$124,000 USD<br/><br/>Colorado Pay Range<br/><br/>$99,600—$124,000 USD<br/><br/><strong>JR100427</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Consumer Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

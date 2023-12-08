@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What To Expect<br/></strong>This position is expected to start in-person around May or June 2024 and continue through the entire Summer term (i.e. through August/September 2024) or into early Fall 2024 if available. We ask for a minimum of 12 weeks, full-time and on-site, for most internships. Please consider before submitting an application.<br/><br/>International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week on-site. Many students will be limited to part-time during the academic year.<br/><br/>Internship Program at Tesla<br/><br/>The Internship Recruiting Team is driven by the passion to recognize and develop emerging talent. Our year-round program places the best students in positions where they will grow technically, professionally, and personally through their experience working closely with their Manager, Mentor, and team. We are dedicated to providing an experience that allows the intern to experience life at Tesla by including them in projects that are critical to their team’s success.<br/><br/>Qualified applicants may be reviewed by one or more of the following teams:<br/><br/>The Cell Engineering team at Tesla is looking for a highly motivated intern to contribute to fundamental improvements on our knowledge of how cells work. Tesla is a demanding and fast-paced environment where you will work with a world-class team developing Tesla’s battery technology. This role is focused on analysis and interpretation of battery tests and image data. Your work may include developing software to improve workflows, analyzing large datasets generated from our test labs, creating data visualizations, and improving the robustness of our automated analysis pipeline. The ideal candidate will combine strong knowledge of engineering fundamentals with software programming. Teamwork, analytical ability, organizational skills, and attention to detail are all highly valued skills. Individuals at every level carry a tremendous amount of responsibility and should look forward to learning an incredible amount on the job.<br/><br/>Thermal &amp; Chassis Engineering is the team behind the Tesla Heat Pump, Supermanifold, Octovalve, Superbottle, Airwave, Bioweapon Defense Mode, and more. Our multi-disciplinary team of mechanical, manufacturing, electrical, aerodynamics, thermal, and analytics engineers work together across all phases of development from idea inception, through prototyping, production, and fleet support.<br/><br/>You'll work alongside experts with many years of experience, high aptitude recent graduates and people from every stage in between, Collaboration, learning, and growth are core to the team's success.<br/><br/>We're looking for a key player who can help drive data analytics and work cross-functionally to uncover opportunities in product improvements. The candidate should have experience working with large datasets and using data to help design critical metrics, characterize engineering systems, optimize product performance, and build useful data pipelines, visualizations, and dashboards.<br/><br/><strong>What You'll Do<br/><br/></strong><li>Designing tests and analyzing data to explore fundamental battery degradation modes or drive actionable recommendations to improve vehicle product performance/quality </li><li>Identify, analyze, and interpret trends of patterns in complex data sets and depict the story via dashboards and reports </li><li>Write efficient SQL/Python code and complex queries across extensive data sets </li><li>Work effectively with engineers and conduct end-to-end analyses, from data requirement gathering, to data processing and modeling </li><li>Automate analyses and author pipelines using SQL, Python, and Airflow based ETL framework <br/><br/><br/></li><strong>What You'll Bring<br/><br/></strong><li>Pursuing Bachelor’s Degree or advanced degree in Chemical Engineering, Mechanical Engineering, Materials Science, Electrical Engineering, Computer Science, Statistics, or equivalent </li><li>Significant, demonstrated technical contributions towards past projects </li><li>Programming experience with Python (preferred), MATLAB, and/or JavaScript </li><li>Experience with continuous integration / continuous deployment </li><li>Some familiarity with dev-ops tools: Git, Jenkins, Docker, Kubernetes, Splunk, Redis </li><li>Experience with distributed computing (Spark/Hive/Hadoop) </li><li>Experience creating data products and dashboards in Tableau, R Shiny, or D3 </li><li>First principles understanding of engineering concepts with relevant project/research experience </li><li>Excellent communication skills, both verbal and written </li><li>Ability to work independently on multiple projects with complex requirements <br/><br/><br/></li><strong>Benefits<br/></strong><strong>Compensation and Benefits<br/></strong>As a full-time Tesla Intern, you will be eligible for:<br/><li> Aetna PPO and HSA plans &gt; 2 medical plan options with $0 payroll deduction</li><li> Family-building, fertility, adoption and surrogacy benefits</li><li> Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution</li><li> Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA</li><li> Healthcare and Dependent Care Flexible Spending Accounts (FSA)</li><li> LGBTQ+ care concierge services</li><li> 401(k), Employee Stock Purchase Plans, and other financial benefits</li><li> Company Paid Basic Life, AD&amp;D, and short-term disability insurance</li><li> Employee Assistance Program</li><li> Sick time after 90 days of employment and Paid Holidays</li><li> Back-up childcare and parenting support resources</li><li> Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft &amp; legal services, and pet insurance</li><li> Commuter benefits</li><li> Employee discounts and perks program<br/><br/><br/></li>Expected Compensation<br/><br/>$20.00 - $50.00/hour + benefits<br/><br/>Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.<br/><br/>Tesla
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Renewable Energy Semiconductor Manufacturing, Motor Vehicle Manufacturing, and Utilities
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is a part of the global Bosch Group (www.bosch.com), a company with over 70 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America (RTC-NA) provides technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence (for example, human-assisted AI, natural language processing, robotics, 3D perception, and AI platform), energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.<br/><br/><strong>Job Description<br/><br/></strong>The Robot Learning Lab at the Bosch Research office in Pittsburgh invites an enthusiastic and knowledgeable research intern for investigations at the intersection of Robotics, Embodied AI, Multimodal Machine Learning, and Natural Language Processing. Aligned with impactful business use-cases and important academic collaborations, we develop algorithms towards several simulated and real-world robotics tasks, e.g., interactive object perception in tabletop manipulation settings, open-vocabulary mobile manipulation, and instruction-following for semantics-aware robot navigation. Ultimately, we wish to deploy these algorithms in real-world industrial scenarios while providing significant contribution to the scientific community. Together with various internal industrial colleagues and several academic collaborators, particularly from the Robotics Institute and Language Technologies Institute at Carnegie Mellon University, we have made several key developments that we expect the intern to leverage and extend.<br/><br/>We expect the intern to display independence and maturity as a researcher. The intern is expected to design, implement, and evaluate our methodology, according to the best practices of the field and inspired by, e.g., their previous research experience, new insights they glean from related literature, collaborative team discussions, and in-depth discussions with the supervisor(s). To be successful, the intern must understand and have experience in dealing with relevant challenges in representation learning and robotics research, such as: (i) leveraging foundation models for robot decision-making and control, (ii) determining regularization strategies and self-supervisory tasks for efficiently learning effective multimodal representations, (iii) pursuing model robustness and generalizability to distribution shifts (e.g., unseen task-execution settings, simulation-to-real gap, policy transfer across different robot morphologies), (iv) dealing with the practicalities related to implementing neural policies (e.g., optimisation tricks, multi-machine/multi-GPU training), (v) conducting model performance characterization + error analysis (determining informative ablations and baselines, visualizing and interpreting trajectories, visualizing and inspecting learned representations, identifying dataset biases), etc.<br/><br/>Finally, the intern will be expected to contribute to the preparation of industrial patents and to work with teammates to publish a high-quality research paper in a major conference venue.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li> Strong background in machine learning, with particular emphasis on multimodality and/or representation learning</li><li> Strong background in Robotics or Embodied Artificial Intelligence</li><li> Extensive experience in from-scratch neural model implementation, e.g., using PyTorch</li><li> Extensive experience with data analytics toolkits, such as numpy, pandas, and scikit-learn</li><li> Extensive experience in implementing, training/fine-tuning, and evaluating the performance of CV models, NLP models, policies, etc.</li><li> Extensive experience in software development in Python on Linux-based systems</li><li> Extensive experience in training neural models on multi-machine or multi-GPU setups</li><li> Extensive publication history in top conference venues; is a mature researcher</li><li> (Preferred) Experience in leveraging Large Language Models, Vision-Language Models, and/or foundation models that are grounded with other modalities (e.g., audio, haptics, etc.)</li><li> (Preferred) Strong theoretical background in AI/ML/Robotics topics, e.g., representation learning, transfer learning, reinforcement learning, learning from demonstrations, safe learning, etc.<br/><br/></li></ul><strong>Other Requirements<br/><br/></strong><ul><li> Your degree level: pursuing doctoral degree, or current post-doctoral researcher</li><li> Your major: Computer Science, Electrical &amp; Computer Engineering, Statistics, or related<br/><br/></li></ul><strong>Additional Information<br/><br/></strong>The U.S. base salary range for this intern position is $30.00-$58.00 hourly. Within the range, individual pay is determined based on several factors, including, but not limited to, type of degree, work experience and job knowledge, complexity of the role, type of position, job location, etc. Your Hiring Manager can share more details about the specific salary range for this position during the interview process.<br/><br/>By choice, we are committed to a diverse workforce - EOE/Protected Veteran/Disabled.<br/><br/>BOSCH is a proud supporter of STEM (Science, Technology, Engineering &amp; Mathematics)<br/><br/><ul><li>FIRST Robotics (For Inspiration and Recognition of Science and Technology)</li><li>AWIM (A World in Motion)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Research
+          </span>
+</li>
+</ul>
+</div>
+</section>

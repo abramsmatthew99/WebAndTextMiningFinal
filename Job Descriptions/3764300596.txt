@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<span><span>We’re looking for a <strong>Systems Programmer/Analyst</strong> for a <strong>remote </strong>role. If you’re looking for a new opportunity, apply today!  <br/></span></span> <br/><strong><span><span>Key Responsibilities:</span></span></strong><ul><li><span><span>Plan future enhancements and discussing current defects with application support, application development, and external business partners</span></span></li><li><span><span>Monitor systems for abnormal CPU consumption and transaction volume </span></span></li><li><span><span>Upgrade and maintain CICS and OEM vendor products </span></span></li><li><span><span>Add new resource definitions for transactions, files, and Java components</span></span></li></ul><strong><span><span>Skills &amp; Qualifications:</span></span></strong><ul><li><strong><em><span><span>Ability to obtain a low-level U.S. security clearance, which requires a thorough background screening and U.S. citizenship  </span></span></em></strong></li><li><span><span>Experience with:</span></span><ul><li><span><span>CICS </span></span></li><li><span><span>z/OS </span></span></li><li><span><span>JCL </span></span></li><li><span><span>ISPF</span></span> </li></ul></li></ul><strong><span><span>Education/Certifications:</span></span></strong><ul><li><span><span>Bachelor's degree computer science, information systems OR other job-related field</span></span></li></ul><strong><span><span>Location: Remote<br/></span></span></strong> <br/><span><span>The salary range for this position is $110,000 - $125,000. Actual compensation within that range will be dependent upon the individual's skills, experience, and qualifications.<br/></span></span> <br/><span><span><span>23-00598, Systems Programmer/Analyst<br/><br/></span></span></span><span><span><span>TM Floyd &amp; Company is an equal opportunity employer and values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability.<br/><br/></span></span></span><span><span>We offer a generous array of benefits, depending on the length of assignment. We also offer a referral bonus of up to $1,000. Ask us for more details!<br/></span></span> <br/><span><span>TM Floyd &amp; Company participates in E-VERIFY <br/></span></span><span><span>AAP, EEO</span></span>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

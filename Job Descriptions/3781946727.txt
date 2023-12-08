@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>We're not telehealth and we're not a traditional doctor's office: we're the best parts of both. <br/><br/></strong>Our mission at Rezilient is simple: to make access to primary care convenient, timely and seamless. Because we virtually beam our doctors into our CloudClinics, our members can choose their doctor based on their preferences, not their location, for a completely different primary care experience.<br/><br/>Our doctors can be anywhere, while our CloudClinics are conveniently placed close to where people live, work and shop. Each CloudClinic is staffed by an experienced clinic specialist who becomes the doctor’s hands. Our members can also interact with their Rezilient doctors through chat and video, providing a continuous relationship with their doctor no matter where they are.<br/><br/>Above all, our tech-forward approach streamlines the primary care experience so our doctors have the time to treat our members as a whole person, not just a collection of symptoms. And we’re continuing to add specialty services and breakthrough technology to offer the most comprehensive, convenient care possible.<br/><br/>We are looking for a Data Analyst to come in to support our growing multi-disciplinary operations and set the foundation for intelligent service delivery and rapid scaling. The ideal candidate excels in the analysis and manipulation of large data sets with the ability to create meaningful insights from the data. This candidate should have a passion for doing high-quality work, continuously learning and improving, effectively analyzing healthcare data, consistently developing and improving data and analytics methodologies, and regularly exceeding customer and internal stakeholder expectations. You will work closely with the product, data engineering, clinical, finance, and go-to-market teams in a cross-functional work environment to identify and implement process improvements, develop and maintain timely and accurate reporting and analytics, and support business planning and forecasting.<br/><br/>The selected candidate will have ample opportunity to refine sophisticated analytical skills, hone project management skills, and grow their career, skill sets, and expertise within the healthcare industry. This position is located at our St. Louis HQ in the beautiful DeBaliviere neighborhood, steps from Forest Park.<br/><br/>Key Responsibilities:<br/><br/><ul><li>Work closely with the CTO, CMO, and CoS on all new data and analytics initiatives. You’ll have a seat at the table and the ability to learn on the fly</li><li>Collaborate with cross-functional team to understand business needs and identify areas for process improvement</li><li>Develop and maintain reporting and analytics to track key performance indicators and provide insights across the business</li><li>Assist with planning and forecasting by analyzing data and providing recommendations</li><li>Collaborate with cross-functional teams to identify and implement solutions to improve efficiency and effectiveness through a data-driven approach</li><li>Continuously learn, build, and improve across all things “data” at Rezilient, including:</li><ul><li>Data Engineering – perform Extract, Transform, Load (ETL) processes to ensure accurate and timely movement of data from diverse sources into a centralized data repository, employing data cleansing and transformation techniques to maintain data quality and integrity</li><li>Data Analysis – conduct comprehensive and innovative analysis from claims and clinical data to extract and interpret relevant data, while extracting unique insights or trends from insurance claims and clinical data, such as comorbidities and common healthcare services utilized, and investigate discrepancies between clinical concepts and how they manifest in the data sets</li><li>Generating Insights – collaborate with the Product, Marketing, and Clinical teams to translate data insights into actionable strategies for engaging identified members through analysis of clinical data of engaged and enrolled members (e.g., identify correlations with prior healthcare utilization)</li><li>Clinical Operations Insight – analyze the performance of treatment protocols, achievement of milestones, and variance at different levels; work with cross-functional teams to generate and validate hypotheses regarding clinical operations</li><li>Client Reporting and Material Preparation – prepare and maintain dashboards that translate data insights into internal and external facing materials; develop predictive models for future results and forecasts of early indicators into long-term value; prepare performance year retrospective summaries<br/></li></ul></ul><strong>Requirements<br/><br/></strong><ul><li>Degree in Data Science, Computer Science, Statistics, Biostatistics, or related field</li><li>2-3 years in a similar role is preferred – with experience working with healthcare data and taxonomies (e.g. claims, eligibility, etc.)</li><li>Detail-oriented with a commitment to accuracy</li><li>Strong analytical and problem-solving skills – with an ability to translate complex data into understandable insights</li><li>Self-starter that is intellectually curious, able to work independently in a team environment, and excited to build from the ground-up without a predefined playbook</li><li>Proficiency in Excel, as well as SQL, Python, and other relevant programming languages</li><li>Familiarity with modern data stack technologies and cloud-based platforms (e.g., AWS, Snowflake, Dbt, ETL, etc.)</li><li>Proficiency in visualization preferably with PowerBI, Looker, etc</li><li>Familiarity with Github/Notebook documentation</li><li>Exceptional communication and organizational skills<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Unlimited Vacation &amp; PTO</li><li>Medical, Dental, Vision and Life Insurance</li><li>Ergonomic Desk Setup</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

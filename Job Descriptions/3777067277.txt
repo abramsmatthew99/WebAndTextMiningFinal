@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>YOUR TASKS<br/><br/><br/></strong><ul><li>Develop and maintain web applications for internal and external stakeholders.</li><li>Collaborate with cross-functional teams to design, develop, and implement software solutions.</li><li>Write well-documented, clean, and maintainable code.</li><li>Participate in code reviews to maintain high code quality standards.</li><li>Contribute to the architectural design and implementation of software systems.</li><li>Keep up-to-date with emerging technologies and industry trends.<br/><br/><br/></li></ul><strong>YOUR PROFILE<br/><br/><br/></strong><ul><li>Degree in Computer Science, Information Systems, Software Development, Informatics or related discipline</li><li>Relevant track record &amp; proven portfolio in software development projects </li><li>Multiple years of experience in programming backend und frontend services: ReactJS, Python and SQL as mandatory skills.</li><li>Advanced Python programming, C++ skills are a plus, but not essential!</li><li>Your passion for software development, awareness about security and open-mindedness towards new ideas, systems and technologies.</li><li>Your collaborative and versatile personality who pushes innovative thinking and loves agile surroundings.</li><li>The ability to find result-oriented solutions instead of looking for problems.</li><li>Fluency in written and spoken English!</li><li>Joy of working in a dynamic and mobile setting.</li><li>Interest in working with cross-functional teams <br/><br/><br/></li></ul><strong>Benefits<br/><br/><br/></strong><ul><li>We offer flexible work hours, a remote friendly environment and competitive compensation. Employee Benefits include medical, dental, vision, basic and supplemental life insurance, short and long-term disability and 401(k) with up to 4% company match. Paid Time Off up to 20 days per year, in addition to 10 holidays and parental leave.</li><li>We do not offer sponsorship for the visa process<br/><br/><br/></li></ul><strong>About Us<br/><br/></strong>Smart Steel Technologies supplies ready-to-use artificial intelligence software products for process optimization in steel mills that lead to improved quality, reduction of energy cost and improvement of CO2 efficiency. The machine learning and data science we employ comes in several varieties: image processing, signal processing, classical supervised modeling, unsupervised methods, and fundamental statistics and probability. We are hiring talented experts across disciplines to join our team and help us to further develop our industry leading solutions. Did you know that steel is the most recycled material worldwide?
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

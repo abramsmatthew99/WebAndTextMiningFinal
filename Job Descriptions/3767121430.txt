@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<em>Over the last 20 years, Ares’ success has been driven by our people and our culture. Today, our team is guided by our core values – Collaborative, Responsible, Entrepreneurial, Self-Aware, Trustworthy – and our purpose to be a catalyst for shared prosperity and a better future. Through our recruitment, career development and employee-focused programming, we are committed to fostering a welcoming and inclusive work environment where high-performance talent of diverse backgrounds, experiences, and perspectives can build careers within this exciting and growing industry.<br/><br/></em><strong>Job Description<br/><br/></strong>Ares Management’s Service Desk team is responsible for providing excellent client service while serving as a point of contact for users to gain assistance in troubleshooting, getting answers to questions, and solving Technology-related issues. The Service Desk Team supports all Ares employees, including those in other locations, remotely as needed. They will also be responsible for aligning themselves with the relevant business units and departments and proactively strategizing business needs as it pertains to Technology-related requirements. The Service Desk Engineer will also participate in understanding, solutioning and deploying updates or fixes to the firm.<br/><br/><strong>Primary Functions And Essential Responsibilities<br/><br/></strong><ul><li>Maintains a high degree of customer service and confidentiality (as needed) for all support queries while adhering to all service management principles</li><li>Manages day to day incident submissions; builds and manages his/her queue; answers support queries via phone and email for local and remote offices; responds and completes all requests by taking ownership of every task completely and in a timely and courteous manner</li><li>Manages onboarding and off-boarding process of employees as it pertains to Technology equipment by setting up new users, modifying access for existing users and installing relevant applications</li><li>Exercises problem-solving skills daily to resolve customer issues as they arrive</li><li>Monitors progress of tasks and/or incident resolutions while determining escalation points and criticality of requests</li><li>Manage incident resolution activities by identifying, troubleshooting, and resolving software failures that prevent a user from employing an existing IT service</li><li>Ensure all required documentation is current, all support activities are properly logged and tracked in ServiceNow and other operational and relevant support systems.</li><li>Ensure the highest level of service delivery for all clients within the firm</li><li>Identify issues and make recommendations that will improve processes and procedures</li><li>Assist in strategic initiatives through brainstorming and implementation, etc.</li><li>Augment team capabilities by introducing / deepening additional technical skillsets</li><li>Identifying, proposing &amp; deploying solutions for recurring issues at the workstation level.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong>Education<br/><br/><ul><li>Bachelor’s degree (or advanced) in business administration, Computer Science or related technical field<br/><br/></li></ul><strong>Experience Required<br/><br/></strong><ul><li>5+ years<br/><br/></li></ul>General Requirements<br/><br/><ul><li>Experience with using ticketing systems (ServiceNow preferred)</li><li>Operating within an ITIL framework</li><li>Support within a high-volume, regulated enterprise environment (preferably finance)</li><li>Creating / advocating user enabling technologies</li><li>Technical Depth in supporting Widows 10 &amp; common software (productivity, security) for an enterprise environment</li><li>Experience using Active Directory</li><li>Remote support using BeyondTrust (Bomgar) remote access appliance or similar</li><li>Asset management principles and software use</li><li>Support of the O365 suite</li><li>Use of System Center Configuration Manager</li><li>IOS/Android support</li><li>Experience with Microsoft Intune (preferred)</li><li>Experience using PrinterLogic (preferred)</li><li>Minimum basic demonstrable knowledge with one at least one of the following:</li><li>PowerShell Scripting</li><li>ServiceNow development</li><li>Statistical Analysis</li><li>Process design</li><li>Knowledge management (KCS)</li><li>HTML</li><li>Process design, Analysis &amp; Metrics</li><li>Able to understand and articulate the benefits of technical implementations sufficient to drive adoption</li><li>Someone who is not constrained by ‘what is’ but instead thinks of ‘what could be’<br/><br/></li></ul><strong>Reporting Relationships<br/><br/></strong><strong>Compensation<br/><br/></strong>The anticipated base salary range for this position is listed below. Total compensation may also include a discretionary performance-based bonus. Note, the range takes into account a broad spectrum of qualifications, including, but not limited to, years of relevant work experience, education, and other relevant qualifications specific to the role.<br/><br/>$40 to $50 per hour<br/><br/>The firm also offers robust Benefits offerings. Ares U.S. Core Benefits include Comprehensive Medical/Rx, Dental and Vision plans; 401(k) program with company match; Flexible Savings Accounts (FSA); Healthcare Savings Accounts (HSA) with company contribution; Basic and Voluntary Life Insurance; Long-Term Disability (LTD) and Short-Term Disability (STD) insurance; Employee Assistance Program (EAP), and Commuter Benefits plan for parking and transit.<br/><br/>Ares offers a number of additional benefits including access to a world-class medical advisory team, a mental health app that includes coaching, therapy and psychiatry, a mindfulness and wellbeing app, financial wellness benefit that includes access to a financial advisor, new parent leave, reproductive and adoption assistance, emergency backup care, matching gift program, education sponsorship program, and much more.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

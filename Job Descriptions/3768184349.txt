@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>New York, NY, USA; Cambridge, MA, USA</strong>.<strong>Minimum qualifications:<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience.</li><li>2 years of experience in investigating with network forensics and log analysis, malware triage analysis, disk and memory forensics in one or more of the following: Windows, macOS, Linux, or Unix.<br/><br/></li></ul><strong>Preferred qualifications:<br/><br/></strong><ul><li>Certifications in Cloud Platforms (e.g., Google Cloud Platform (GCP)).</li><li>Experience in Cloud incident response or forensics.</li><li>Ability to communicate investigative findings and strategies to technical staff, executive leadership, legal counsel, and internal and external clients.</li><li>Excellent written/verbal communication skills, with the ability to develop documentation and explain technical details in a concise manner.</li><li>Excellent attention to detail and time management skills.<br/><br/></li></ul><strong>About The Job<br/><br/></strong>As a Security Consultant, you will be responsible for helping clients effectively prepare for, proactively mitigate, and detect and respond to cyber security threats. Security Consultants have an understanding of computer science, operating system functionality and networking, cloud services, corporate network environments and how to apply this knowledge to cyber security threats.<br/><br/>In this role, you will assist clients in navigating technically complex and high-profile incidents, performing forensic analysis, threat hunting, and malware triage. You'll also test client networks, applications and devices by emulating the latest techniques to help them defend against threats, and will be the technical advocate for information security requirements and provide an in-depth understanding of the information security domain. You will also articulate and present complex concepts to business stakeholders, executive leadership, and technical contributors and successfully lead complex engagements alongside cross functional teams.<br/><br/>Mandiant Services provides incident response, assessment, transformation, managed detection and response, and training services with direct tactical support. Our incident responders are able to resolve security incidents quickly, effectively, and at scale with complete incident response including investigation, containment, remediation, and crisis management.<br/><br/>Mandiant is a recognized leader in dynamic cyber defense, threat intelligence and incident response services. By scaling decades of frontline experience, Mandiant helps organizations to be confident in their readiness to defend against and respond to cyber threats. Mandiant is now part of Google Cloud.<br/><br/>The US base salary range for this full-time position is $103,000-$151,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br/><br/>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Collaborate with internal and customer teams to investigate and contain incidents. Conduct host forensics, network forensics, log analysis, and malware triage in support of incident response investigations. </li><li>Recognize and codify attacker Tools, Tactics, and Procedures (TTPs) and Indicators of Compromise (IOCs). Build scripts, tools, or methodologies to enhance Mandiant’s incident investigation processes that can be applied to current and future investigations.</li><li>Develop and present comprehensive and accurate reports, trainings, and presentations for technical and executive audiences.</li><li>Utilize Mandiant technology to conduct large-scale investigations and examine end-point and network-based sources of evidence. <br/><br/><br/></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management, Consulting, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/>Junior Machine Learning Engineer <strong>(US/Canada Residents Only, 1 year experience, remote)<br/><br/></strong>Team Remotely Inc. is a staffing and recruitment agency that offers a comprehensive solution for talent acquisition, including sourcing, vetting, pay rolling, and managing talent. Whether you need contract staffing, direct hire, direct sourcing, talent pools, or diversity initiatives, our model can support your hiring strategy.<br/><br/><strong> Hiring Type:</strong> Full-Time<br/><br/><strong> Base Salary:</strong> $60K-$76K Per Annum.<br/><br/>Job Summary:<br/><br/>As a Junior Machine Learning Engineer, you will have the opportunity to work on exciting projects, develop your skills, and contribute to the development and implementation of machine learning solutions. This is an excellent opportunity for individuals looking to kick-start their careers in the field of machine learning and gain valuable experience in a collaborative and supportive environment.<br/><br/>Responsibilities:<br/><br/><ul><li>Collaborate with senior engineers and data scientists to understand project requirements and develop machine learning models and algorithms. </li><li>Assist in collecting, preprocessing, and analyzing data to uncover patterns and insights. </li><li>Implement and optimize machine learning models, algorithms, and pipelines. </li><li>Participate in model evaluation, validation, and performance tuning. </li><li>Contribute to the development and improvement of existing machine learning infrastructure and frameworks. </li><li>Stay up-to-date with the latest advancements in machine learning and actively participate in knowledge-sharing activities within the team. </li><li>Collaborate with cross-functional teams to integrate machine learning solutions into production systems. </li><li>Document technical processes, methodologies, and outcomes effectively. <br/><br/></li></ul>Qualifications:<br/><br/><ul><li>Bachelor's or Master's degree in Computer Science, Data Science, Machine Learning, or a related field. </li><li>Solid understanding of machine learning fundamentals, algorithms, and statistical concepts. </li><li>Proficiency in programming languages such as Python, Java, or C++. </li><li>Familiarity with machine learning frameworks and libraries, such as TensorFlow, PyTorch, or scikit-learn. </li><li>Experience with data preprocessing, feature engineering, and model evaluation techniques. </li><li>Knowledge of deep learning architectures and techniques is a plus. </li><li>Familiarity with big data processing tools (e.g., Hadoop, Spark) is advantageous. </li><li>Strong problem-solving skills and the ability to work on multiple projects simultaneously. </li><li>Excellent communication and collaboration skills. </li><li>Self-motivated with a strong desire to learn and grow in the field of machine learning. <br/><br/></li></ul><strong> Why work with Team Remotely?<br/><br/></strong>Team Remotely Inc. is a staffing platform offering a seamless experience for employers and candidates. Employers can post job openings and specify their requirements, while candidates can create profiles and upload resumes.<br/><br/>The team of Team Remotely continuously learns and adapts based on previous successful placements, constantly improving its matching capabilities. This ensures that the recommendations provided by Team Remotely are tailored and accurate, increasing the likelihood of a successful match between employers and candidates. By providing intelligent and data-driven solutions, they strive to enhance the efficiency and effectiveness of the hiring process, ultimately helping companies find the best talent and individuals find their dream jobs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

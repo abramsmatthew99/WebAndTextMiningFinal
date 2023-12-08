@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Purpose: <br/><br/></strong>The purpose of the EDI Analyst is to analyze, support and maintain all EDI activities between internal users, customers, distributors, software partners and EDI VAN providers. This position works in concert with the Information Technology Group, EDI Managed Services, Customer Support, Sales and Marketing, Finance, and internal support users to assure the seamless processing of all EDI transactions within Milwaukee Tool.<br/><br/><strong>Duties And Responsibilities<br/><br/></strong><ul><li>Serves as liaison between Information Technology development staff, EDI Managed Services, systems analysts, business subject matter experts, provider business office staff, and third-party administrators to implement EDI transactions in an integrated, efficient, and cost-effective manner.</li><li>Serves as lead for all EDI communication between internal users, external trading partners and external communications network providers for the company.</li><li>Responsible for advanced troubleshooting with new and existing trading and transportation partners to solve communication issues such as setting up new partners, testing new/existing trading partner data maps and monitoring communication system status.</li><li>Direct involvement with testing new application software upgrades.</li><li>Works collaboratively with distributors, customers and 3rd party vendors to implement new EDI business processes and coordinate enhancements to existing trading partner processes.</li><li>Makes recommendations for ways to improve processes and productivity of company based on existing operating procedures and maintaining high customer service.</li><li>Support analysis and testing of transaction implementations and mapping of EDI standards.</li><li>Leverage EDI knowledge in claims, payment, eligibility, and financial systems in day-to-day operations.<br/><br/></li></ul><strong>Education And Experience Requirements<br/><br/></strong><ul><li>Bachelors degree. Information Technology, Computer Science, Business or related field</li><li>5+ years’ experience as an EDI Analyst</li><li>SQL, VB, XML, Opentext Alloy a plus</li><li>Experience with ServiceNow ticketing system a plus</li><li>Advanced MS Office, particularly with Excel, PowerPivot, Outlook</li><li>Ability to manage multiple concurrent projects/tasks with time constraints</li><li>Strong attention to detail and overall flexibility when working in ambiguous situations.</li><li>Knowledge of Edifact and ANSI X12 file specifications for commerce (850,855,856,810,864 etc)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

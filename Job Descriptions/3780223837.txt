@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Department: </strong>Library<br/><br/><strong>Job Category: </strong>Administrative or Professional Faculty<br/><br/><strong>Job Type:</strong> Full-Time<br/><br/><strong>Work Schedule: </strong>Full-time (1.0 FTE, 40 hrs/wk)<br/><br/><strong>Location: </strong>Fairfax<br/><br/><strong>Telework Friendly:</strong> Yes<br/><br/><strong>Salary: </strong> Not less than $80,000. Commensurate with education and experience.<br/><br/><strong>Criminal Background Check: </strong>Yes<br/><br/><strong>About The Department<br/><br/></strong>The Digital Systems and Strategies division of University Libraries provides: digital infrastructure and tools; digital asset management; digital publishing; digital scholarship services; research data management; and liaison with the university's ITS and external partners (consortia and publishers/vendors). It enables the critical life-cycle of access, creation, dissemination, and preservation of knowledge.<br/><br/><strong>About The Position<br/><br/></strong>Provides management of the library's web and digital services area. Contributes to IT projects in the library and provides other services as required. The Web Developer also consults and works collaboratively with library faculty and staff, instructional faculty, researchers and students on a variety of digital projects.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Manages libraries web presence: Ensures an effective web presence for the Libraries through content management and utilization of appropriate web platforms and UX best practices. Provides resources and training to library colleagues, including liaisons, subject specialists, managers, and administrative coordinators, in the usage of these platforms to deliver research and learning information to target audiences;</li><li>Advises, manages, and provides technical assistance on digital projects and initiatives across the libraries. Manages timelines and deliverables for assigned digital projects and initiatives. Serves as team member on digital project management groups as appropriate; and</li><li>Contributes to the integration of library web platforms via APIs, REST and/or other(s). Provides development assistance to library repositories (e.g., DSpace, Dataverse, etc.).<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>Bachelor's degree in computer science, or an ALA-accredited master's degree in library or information science, or an equivalent certified foreign degree with a significant concentration in information systems and related technologies;</li><li>Experience designing, developing and maintaining database-driven websites or services;</li><li>Experience with LAMP technologies (Linux, Apache, MySQL, PHP/PERL/PYTHON);</li><li>Knowledge of the role of academic libraries supporting student success, research productivity, and community engagement;</li><li>Single-user level UNIX system administration skills (e.g., shell competency);</li><li>Ability to work effectively as part of team; and</li><li>Ability to exercise independent judgement and problem solving.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Master's degree in related field;</li><li>Substantive experience with LAMP technologies (Linux, Apache, MySQL, PHP/PERL/PYTHON);</li><li>Experience working in an academic library supporting student success, research productivity, and community engagement;</li><li>General knowledge of computer programming and data structures;</li><li>Proficiency with at least one CMS (e.g., Drupal, WordPress, Omeka, Joomla);</li><li>UNIX system administration skills beyond those of a single user;</li><li>Advanced competency in at least one scripting language (Python, PERL, PHP, JavaScript); and</li><li>API development skills and facility with appropriate tools/methods (e.g., JSON, REST, XML).<br/><br/></li></ul><strong>Instructions To Applicants<br/><br/></strong>For full consideration, applicants must apply for <strong>Web Developer</strong> at https://jobs.gmu.edu/; complete and submit the online application; and provide a cover letter, resume, and a list of three professional references with contact information.<br/><br/><strong>Posting Open Date: </strong>October 26, 2023<br/><br/><strong>For Full Consideration, Apply by: </strong>November 26, 2023<br/><br/><strong>Open Until Filled?: </strong>Yes<br/><br/><strong><strong>Mason Ad Statement<br/><br/></strong></strong>Mason is currently the largest and most diverse university in Virginia with students and faculty from all 50 states and over 135 countries studying in over 200 degree programs at campuses in Arlington, Fairfax and Prince William, as well as at learning locations across the commonwealth. Rooted in Mason's diversity is a campus culture that is both rewarding and exciting, work that is meaningful, and opportunities to both collaborate and create.<br/><br/>If you are interested in joining the Mason family take a look at our current opportunities and catch some Mason spirit at jobs.gmu.edu/!<br/><br/>George Mason University, Where Innovation is Tradition.<br/><br/><strong><strong>Equity Statement<br/><br/></strong></strong>George Mason University is an equal opportunity/affirmative action employer, committed to promoting inclusion and equity in its community. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any characteristic protected by law.<br/><br/><strong><strong>Campus Safety Information<br/><br/></strong></strong>Mason's Annual Security and Fire Safety Report is available at http://police.gmu.edu/annual-security-report/
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

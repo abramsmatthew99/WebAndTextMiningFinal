@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Us<br/><br/></strong>Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. Founded in 2017, Coalition combines broad insurance coverage with a digital risk assessment and continuous security monitoring to help organizations protect themselves in today’s hyper-connected world.<br/><br/>Opportunities to make an impact with bold thinking are real - and happening daily.<br/><br/><strong>About The Role<br/><br/></strong>Renewals Engineering Team is a dedicated and forward-thinking unit committed to revolutionizing the renewal process. Their primary goals include significantly increasing the renewal rate and ensuring a seamless, hassle-free experience for our clients. By integrating advanced technologies and data analytics, this team excels in crafting personalized insurance solutions that adapt to the evolving cyber security landscape. Their expertise is instrumental in not only accurately assessing risks but also in proactively addressing clients' needs. With a strong emphasis on client satisfaction and operational efficiency, the Renewals Engineering Team plays a crucial role in solidifying our firm's position as a leader in cyber insurance services.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Build out high quality APIs and web services providing a scalable, efficient and tailored set of interfaces</li><li>Design, document and deploy public interfaces that are a joy to consume</li><li>Work with cross functional stakeholders including product, design, sales, and others to help break down business requirements into actionable plans</li><li>Collaborate with Site Reliability Engineer (SRE) to develop and deliver applications in a repeatable, stable and joyful software development lifecycle</li><li>Make Coalition a better place by taking on the unseen, unforeseen and important items that come up along the way<br/><br/></li></ul><strong>Skills And Qualifications<br/><br/></strong><ul><li>API and Service Development in Go and/or Python: Fundamental knowledge in developing APIs and services using Python or Go is essential.</li><li>Cloud-Native Development Fundamentals: Understanding of production-tested cloud-native development, including horizontal scaling and 12-factor application design. Knowledge of security fundamentals such as OWASP is crucial.</li><li>Source Control: Proficiency in using source control tools like Git, SVN, or Perforce.</li><li>Agile Team Collaboration: Experience working with an agile team and using collaborative development tools such as the Atlassian Suite, GitHub, or GitLab.</li><li>Educational Background: A degree in Computer Science or Engineering, or a related technical discipline, or equivalent work experience.<br/><br/></li></ul><strong>Compensation<br/><br/></strong>Our compensation reflects the cost of labor across several US geographic markets. The US base salary for this position ranges from $110,000/year in our lowest geographic market up to $153,000/year in our highest geographic market. Consistent with applicable laws, an employee's pay within this range is based on a number of factors, which include but are not limited to relevant education, skills, job-related knowledge, qualifications, work experience, credentials, and/or geographic location. Your recruiter can share more on target salary for your location during the interview process. Coalition, Inc. reserves the right to modify this range as needed.<br/><br/><strong>Perks<br/><br/></strong><ul><li>100% medical, dental and vision coverage</li><li>Flexible PTO policy</li><li>Annual home office stipend and WeWork access</li><li>Mental &amp; physical health wellness programs (One Medical, Headspace, Gympass, and more)!</li><li>Competitive compensation and opportunity for advancement<br/><br/></li></ul><strong>Why Coalition? <br/><br/></strong>We’re a remote-first, mission-driven team committed to building a more inclusive culture with people of all different backgrounds. We trust our team members to take responsibility, share ownership, and put in the work to help us in our pursuit to solve digital risk.<br/><br/>Coalition’s exceptional growth stems from its ability to address real-world problems for organizations of all sizes and remain true to our founding values of character, humility, responsibility, purpose, authenticity, and inclusion. We are proud to have been named among Inc.’s Best Workplaces in 2021 and 2023 and one of Fast Company’s Most Innovative Companies in 2022.<br/><br/>We’re always looking for collaborative, inquisitive individuals to join #OurCoalition.<br/><br/>Visit our Newsroom &gt;<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

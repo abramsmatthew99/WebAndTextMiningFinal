@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>We are looking for an intern AI developer who is passionate about artificial intelligence and machine learning. You will work with our experienced AI team to develop, test, and deploy innovative solutions for various business problems. This internship provides an invaluable opportunity to learn from experienced mentors and acquire essential skills and hands-on experience, particularly in the realm of AI chatbots.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Participate in designing, implementation, and troubleshooting AI models using programming languages such as Python and leveraging frameworks like TensorFlow, with a specific focus on Langchain LLM. Additionally, explore and employ various other frameworks as needed, ensuring the development of robust and efficient AI solutions.</li><li>Conduct comprehensive data analysis, preprocess diverse datasets, and engage in feature engineering to enhance the performance and robustness of AI models. Implement techniques to optimize data quality, address potential biases, and contribute to the overall improvement of model accuracy through effective feature selection and engineering strategies.</li><li>Apply testing methodologies to validate model functionality and contribute to comprehensive documentation, fostering a disciplined and organized approach to the AI development lifecycle.</li><li>Collaborate with other developers, engineers, and researchers on cross-functional projects.</li><li>Keep up to date with the latest trends and developments in AI and machine learning.<br/><br/></li></ul><strong>Program Timeline<br/><br/></strong><ul><li>Applications Accepted: September 1 – December 11, 2023 at 5:00 pm PST</li><li>Interviews: Students selected for phone interviews will be notified by email on a rolling basis October 2023 – January 31, 2024</li><li>Internship: 12 weeks beginning in Spring<br/><br/></li></ul><em>Note: After the December 11 application deadline, we will begin providing regular updates to all applicants on a rolling basis. Please log back into your account to view application status updates.<br/><br/></em><strong>Requirements<br/><br/></strong><ul><li>Currently enrolled in a 4-year undergraduate, graduate, or PhD program at a university in the United States, in computer science, engineering, mathematics, or a related field; undergraduates must be in junior or senior standing.</li><li>Ability to obtain work authorization in the United States in 2024.<br/><br/></li></ul><strong>Recommended Qualifications<br/><br/></strong><ul><li>Proficient in Python and well-versed in at least one AI framework, such as Langchain LLM or PyTorch</li><li>Possess a foundational understanding of key AI concepts, encompassing deep learning, natural language processing, and computer vision.</li><li>Good communication and presentation skills.</li><li>Versatile team player with the ability to work independently when needed.</li><li>Curiosity and enthusiasm for learning new things and solving problems.<br/><br/></li></ul><strong>About Esri<br/><br/></strong>Our passion for improving quality of life through geography is at the heart of everything we do. Esri’s geographic information system (GIS) technology inspires and enables governments, universities, and businesses worldwide to save money, lives, and our environment through a deeper understanding of the changing world around them.<br/><br/>Carefully managed growth and zero debt give Esri stability that is uncommon in today's volatile business world. Privately held, we offer exceptional benefits, competitive salaries, 401(k) and profit-sharing programs, opportunities for personal and professional growth, and much more.<br/><br/>Esri is an equal opportunity employer (EOE) and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.<br/><br/>If you need a reasonable accommodation for any part of the employment process, please email askcareers@esri.com and let us know the nature of your request and your contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e-mail address.<br/><br/>A reasonable estimate of the base pay is $26.00.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

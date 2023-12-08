@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What To Expect<br/></strong>Consider before submitting an application:<br/><br/>This position is expected to start in-person around May or June 2024 and continue through the entire Summer term (i.e. through August/September 2024) or into early Fall 2024 if available. We ask for a minimum of 12 weeks, full-time and on-site, for most internships. Please consider before submitting an application.<br/><br/>International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week in-person. Many students will be limited to part-time during the academic year.<br/><br/>Internship Program at Tesla<br/><br/>The Internship Recruiting Team is driven by the passion to recognize emerging talent. Our year-round program places the best students in positions where they will grow both technically and personally through their experience working closely with their manager, mentor, and team. We are dedicated to providing an experience that allows for the intern to experience life at Tesla by giving them projects that are critical to their team’s success.<br/><br/>Multiple Locations Possible<br/><br/><strong>What You'll Do<br/></strong>The mission of the Supply Chain Optimization team is to manage strategic projects and continuous improvement efforts to transform Tesla’s Supply Chain organization to be data and systems-driven, robust, and efficient as it scales to support our global programs and our growing worldwide presence.<br/><br/>You will be part of the Supply Chain Data Analytics sub-team which is the key point of contact for reporting, analytics, and insight generation across Supply Chain. You should have strong technical skills, a collaborative style of working, and a proactive and critical mindset. Excellent interpersonal and communication skills are crucial, as is the ability to synthesize complex issues and drive desired outcomes. Tesla is a fast-moving, dynamic environment where flexibility and adaptability are key attributes. The successful candidate is a self-starter with a passion for data analytics and data engineering and continuously demonstrates an ability to tackle complex problems and implement solutions.<br/><br/>As a member of the Supply Chain Data Analytics team, you will be required to translate business questions into insightful and action-biased analytics. You will also help with our database management and ETL development work. Your work will have a direct impact on Tesla’s Supply Chain.<br/><li>Create and enhance action-driven dashboards (e.g., using Tableau)</li><li>Optimize current Tableau dashboard queries so they consume less server resources and result into faster load time for end-users, including searching for better server/database alternative and rewriting the equivalent-query</li><li>Perform ongoing check of internal dashboards, to make sure they are still up to date</li><li>Support ad hoc data, SQL query, analysis, and debugging requests from cross-functional stakeholders</li><li>Create/maintain internal dashboard documentation</li><li>Communicate with stakeholders, gather business requirements</li><li>Work on standardization of our dashboards, including building tutorials and ensuring there is proper documentation</li><li>Define key metrics to track success or prioritize features</li><li>Translate requirements of large data initiatives into smaller actionable items</li><li>Champion data literacy within the organization and drive adoption rates</li><li>Collaborate with Training expert to develop user-training to dashboard<br/><br/><br/></li><strong>What You'll Bring<br/><br/></strong><li>Currently pursuing an undergraduate or graduate degree in a relevant program including, but not limited to: Data Analytics, Data Science, Business Analytics, Engineering Management, Computer Science, Business Administration, Information Systems </li><li>Working knowledge of SQL, and relational database systems </li><li>Comfort with a scripting language (e.g., Python) and dashboard data visualization tools (e.g., Tableau, Excel)</li><li>A good understanding of relational databases and database engineering concepts</li><li>Familiarity with data pipelines and a Workflow Management Tool (e.g., Airflow) is desirable</li><li>Excellent written and verbal communication across technical and non-technical stakeholders</li><li>Eagerness to collaborate cross-functionally with other business and engineering teams, while able to work independently</li><li>Organized, detail-oriented, execution-focused, relentless and willing to find cracks in the system to expose problems</li><li>Previous experience in: Data Analysis, Product/Project Management on Software applications, or Supply Chain Purchasing/Industrial Engineering experience<br/><br/><br/></li><strong>Benefits<br/></strong><strong>Compensation and Benefits<br/></strong>As a full-time Tesla Intern, you will be eligible for:<br/><li> Aetna PPO and HSA plans &gt; 2 medical plan options with $0 payroll deduction</li><li> Family-building, fertility, adoption and surrogacy benefits</li><li> Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution</li><li> Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA</li><li> Healthcare and Dependent Care Flexible Spending Accounts (FSA)</li><li> LGBTQ+ care concierge services</li><li> 401(k), Employee Stock Purchase Plans, and other financial benefits</li><li> Company Paid Basic Life, AD&amp;D, and short-term disability insurance</li><li> Employee Assistance Program</li><li> Sick time after 90 days of employment and Paid Holidays</li><li> Back-up childcare and parenting support resources</li><li> Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft &amp; legal services, and pet insurance</li><li> Commuter benefits</li><li> Employee discounts and perks program<br/><br/><br/></li>Expected Compensation<br/><br/>$16.35 - $37.02/hour + benefits<br/><br/>Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.<br/><br/>Tesla
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Renewable Energy Semiconductor Manufacturing, Motor Vehicle Manufacturing, and Utilities
+          </span>
+</li>
+</ul>
+</div>
+</section>

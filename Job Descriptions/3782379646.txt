@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        You could say Brightree by ResMed is a technology company. And that’s true. But Brightree is, at its heart, about people. We develop innovative, end-to-end technology solutions and services for people facing everyday challenges in the post-acute care industry. Brightree helps streamline processes, improve efficiency, and increase profitability. For over fifteen years, organizations big and small have put their trust in us—for our wide-ranging solutions, our leadership, and our unmatched customer service. Going to work each day and creating new ways to positively impact our customers’ businesses and the lives of patients is just what we do. Because Brightree is, after all, about people.<br/><br/>To learn more about Brightree technology and solutions watch this short video by our CEO: https://www.brightree.com/whychoosebrightree<br/><br/><strong>Job Description<br/><br/></strong>The Data Analyst will be self-driven and responsible for delivering coding and report design expertise in support of client and team objectives.<br/><br/>A person in this position will be able to work with other team members to modify and design new reports based on customer requests as they align with the Brightree application, provide thorough documentation of report requirements as it relates to business processes, track report change requests and deliver products in an agile environment. This individual will set goals by identifying requirements, use cases and tests, estimate hours required for business analysis and task completion, and ensure clear communication regarding components to be delivered to the business.<br/><br/>This individual will also test, validate, and roll out functional components, ensuring customers are informed sufficiently. It is expected that this person will also recommend a standard report framework for future report work.<br/><br/>The Data Analyst will also be responsible for providing support for the conversion, the management, and the reporting of data within the Professional Services organization for new and existing customers. The right candidate will have an advanced level knowledge of SQL Server with particular emphasis on Stored Procedures and SSIS packages. In addition, the candidate will have the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy. Most importantly, the ideal candidate will be a creative thinker with a willingness to go the extra mile in order to satisfy the customer’s needs and assist them in whatever way possible.<br/><br/><strong>Location - Open for "Remote" across US.<br/><br/></strong><strong>Let's Talk About The Role<br/><br/></strong><ul><li>Partner with stakeholders to understand new data requirements to ensure results meet the business needs</li><li>Work will include enhancements to existing code, support changes, and new development, as this self-driven person works through the queue of requests</li><li>Work directly with Brightree customers to interpret their requirements to design and implement solutions</li><li>Have an expert level understanding of SQL and stored procedures. Make modification to existing Stored Procedures. Will also be required to define new store procedures, views, functions, and SSIS packages</li><li>Create solutions that allow capture of existing data into usable Brightree data formats</li><li>Communicate and consult with key accounts and customers in non-technical language</li><li>Be cognizant of the customer’s expectations on timelines and work diligently towards achieving that goal<br/><br/></li></ul><strong>Let's Talk About You<br/><br/></strong><ul><li>Detailed understanding of relational database, entities, and relationships. Required 5 years</li><li>Must have a Bachelor’s degree in Computer Science, Engineering, MIS or related field required; plus three years of experience performing analysis and design to solve customer technical and business problems</li><li>Strong experience in Microsoft SQL Server software development including 3 years of query tuning and performance troubleshooting and strong experience writing select, update, delete, and insert statements with multiple table joins</li><li>Prior experience communicating ideas and opportunities to stakeholders in non-technical language</li><li>Excellent written and verbal communication skills, translating business requirements into technical terms and vice versa Required 5 Years</li><li>Reports design and Development Experience with any Report Designer tool Required 5 Years</li><li>Grape City Active Reports tool, version 10 and above Desired 2 Years</li><li>Basic Programming skills, .NET and java (including scripting, error handling, debugging) Required 2 Years</li><li>Experience in project management and identification of project critical path.</li><li>Experience in working a ticketing system and managing a personal queue of tasks</li><li>Comfortable working in a continually changing, customer-focused, matrixed environment</li><li>Comfortable balancing multiple high-priority deliverables correctly applying the appropriate judgment of what can shift<br/><br/><br/><br/></li></ul>Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

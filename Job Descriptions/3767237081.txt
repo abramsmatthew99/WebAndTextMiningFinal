@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Cordial<br/><br/></strong>We founded Cordial in 2014 on the belief that there should be more humanity and empathy in marketing—both in how brands communicate with their customers and in how technology companies work with brands. We built our company and platform purposefully, driven by a desire to inspire more thoughtful communication and to create experiences that feel more personal and human—for consumers, for the people at the companies we work with, and for Cordial employees. Today, brands like Revolve, Eddie Bauer, Backcountry, L.L. Bean and Purple rely on Cordial to drive revenue growth by sending a better message.<br/><br/>We chose the name Cordial to symbolize how we empower our clients to communicate with their customers, as well as how we do business: with transparency, collaboration, and trust. We're building a passionate team of individuals willing to learn, grow, and be thoughtfully challenged on a daily basis to continuously improve our product, company, and culture every single day.<br/><br/><strong>OUR VALUES<br/><br/></strong><ul><li>Communicate better than the rest</li><li>Tenacious about the client and the problems we solve for them</li><li>We're owners and we act like it</li><li>Always #becordial<br/><br/></li></ul><strong>Position Summary<br/><br/></strong>We are looking for an experienced and ambitious builder to join our team in the role of Machine Learning Engineer, Predictions. In this role, you will be a primary contributor to our set of predictive models, allowing our clients to create better connections with their customers by helping predict the right message to send at the right time through the right channel.<br/><br/><strong>YOU WILL<br/><br/></strong><ul><li>Be a primary contributor to our AI strategy, helping design and productize machine learning solutions. </li><li>Build and tune models to deliver predictive value to our customers. </li><li>Serve as an expert sounding board on approaches and techniques to derive signals from large datasets. </li><li>Collaborate with cross-functional teams, including engineering, design, sales, and marketing, to bring new data science and AI products to market. </li><li>Work in partnership with product management to drive compelling solutions through model and product coordination. </li><li>Stay abreast of the latest frontier work in AI and make technical recommendations to the product organization. </li><li>Partner with product management to prioritize predictive ML initiatives<br/><br/></li></ul><strong>About You<br/><br/></strong><ul><li>5+ years of experience in a data and ML-centric engineering role. </li><li>An innate curiosity about data and its application to predictive solutions. </li><li>A history of successful machine learning projects, taking projects from the ideation phase through R&amp;D to production. </li><li>An understanding of a broad spectrum of ML techniques and experience matching datasets to algorithms and models. </li><li>Experience with XGBoost and scikit-learn</li><li>Advanced proficiency with Python. </li><li>Exposure to cloud MLOps, past experience with AWS toolsets a plus (Sagemaker and AWS-associated data tooling)</li><li>Experience with Mongo, ElasticSearch or Snowflake as data repositories. </li><li>Strong understanding of data science and AI technologies and their potential applications in the market, specifically in retail or eCommerce applications. </li><li>Excellent communication and collaboration skills and ability to work effectively with cross-functional teams. </li><li>Demonstrated ability to think strategically and make data-driven decisions. </li><li>Desire and experience leading teams is a plus. <br/><br/></li></ul><strong>Compensation &amp; Benefits<br/><br/></strong>$150,000.00-$300,000.00 annually. The compensation range may be adjusted based on experience and location. In combination with base salary, Cordial's compensation package includes equity and bonus, a robust benefit plan (medical/dental/vision/life), 401k match, flexible time off. Additionally, we offer perks such as monthly wellness and cell phone stipends, childcare and continued education yearly reimbursements. We pride ourselves in maintaining a healthy work/life balance, a strong dedication to DE&amp;I efforts, and an overall respectful and open culture!<br/><br/><strong>Please note:</strong> In the current environment, Cordial employees are working completely remote and our recruitment process will entail both phone and video Zoom interviews. And if hired, your onboarding will be done remotely. Stay safe!<br/><br/><em>Cordial is proud to be an equal opportunity employer that celebrates diversity and is committed to creating an inclusive workplace with equal opportunity for all applicants. Our goal is to recruit the most talented people from a diverse candidate pool regardless of race, color, ancestry, national origin, religion, disability status, sex (including pregnancy), age, gender, gender identity or expression, sexual orientation, marital status, veteran status, or any other characteristic protected by law.<br/><br/></em><em>Cordial is committed to working with and providing access and reasonable accommodation to applicants with mental and/or physical disabilities. If you require an accommodation, please reach out to your recruiter once you've begun the interview process. All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are currently on the lookout for a talented AWS Elasticsearch Developer to join our dynamic team. The successful candidate will play a critical role in designing and developing interfaces and services to expose the contents of our document repository through AWS managed Elasticsearch service. This pivotal role is instrumental in bridging the gap between stakeholder expectations and development realities, ensuring the seamless deployment and functionality of our machine learning and AI frameworks on the cloud.<br/><br/><strong>Key Responsibilities: <br/><br/></strong><ul><li>Design, develop, and deploy robust interfaces and services to facilitate seamless access to our large document repository via AWS managed Elasticsearch service. </li><li>Collaborate with the Lead H2O.ai Integration Specialist and the rest of the development team to ensure the successful integration and deployment of H2O.ai tools within our AWS environment. </li><li>Contribute to the architecture, design, and implementation of highly scalable, reliable, and maintainable applications, adhering to best practices and team guidelines. </li><li>Engage in continuous performance monitoring and optimization activities to ensure the efficiency and effectiveness of the Elasticsearch service and related applications. </li><li>Liaise with stakeholders to gather and analyze requirements and deliver high-quality solutions that meet or exceed expectations. </li><li>Contribute to documentation, knowledge sharing, and code review processes to enhance team collaboration and personal skill set<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree in computer science, Engineering, or related field</li><li>Proficient in AWS cloud technologies, with a solid understanding and experience in Elasticsearch</li><li>Experience in developing APIs, and a strong grasp of search technologies and document-oriented databases</li><li>Strong programming skills in languages such as Java, Python, or similar</li><li>Familiarity with H2O.ai tools is a plus</li><li>Excellent problem-solving skills and a proactive attitude towards achieving project goals</li><li>Strong communication skills, with the ability to work effectively both independently and as part of a team<br/><br/></li></ul><strong>Optional Experience: <br/><br/></strong><ul><li>Familiar with AWS Lambda</li><li>Proficient in Python</li><li>Knowledge of continuous integration - continuous delivery methodologies</li><li>Experience using container-based solutions, such as Kubernetes<br/><br/></li></ul><strong>Benefits<br/><br/></strong>TLA is proud to offer its teammates perks designed for growth, health, wellness, and financial security. For an impactful career doing meaningful work, we are The Logical Answer in a world where being a consultant often feels like you’re a commodity, TLA provides a refreshing culture of inclusion, a direct line to leadership, and a family feel where our teammates are valued for<br/><br/>their expertise and contributions. Complementing our employee focus are these benefits, offered as part of your total compensation package:<br/><br/><ul><li>Highly competitive salaries afforded by our low overhead and non-physical footprint</li><li>Competitive medical, dental, and vision insurance for you and your family</li><li>Health, Flexible Spending, and Dependent Care savings account options</li><li>Group life insurance</li><li>Company paid short- and long-term disability insurance</li><li>401(k) retirement plan with 6% company match and immediate vesting</li><li>$5,000 annual professional development allowance to keep your skills sharp</li><li>$2,000 annual certification allowance</li><li>$500 health and wellness budget</li><li>Generous referral bonuses as you help expand our talent pool</li><li>Business development bonuses as you share our capabilities throughout your client space</li><li>Team and family events to celebrate camaraderie and share successes</li><li>Eleven (11) paid Federal holidays</li><li>Twenty (20) days paid time off to use at your discretion (PTO Package Negotiable)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

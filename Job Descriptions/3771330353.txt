@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Skimmer is on a mission: to modernize the pool and spa service and repair industry. We’re a private equity-backed company with 5000+ customers using Skimmer’s pool service software and running their businesses the modern way. But we’re not stopping there (there are over 70,000 pool service companies in this surprisingly large “niche” space).<br/><br/>Our customers love us almost as much as we love them (check out our reviews and our NPS score of 68!) and our team thinks we’re a pretty great place to work, too, as evidenced by our smashing eNPS score of 69.<br/><br/>We’re looking for big thinkers with small egos, so let’s dive in!<br/><br/>Our Values: At Skimmer we<br/><br/><ul><li>Realize our customers' success is our success</li><li>Build humble, diverse teams who have fun winning</li><li>Drive results with urgency</li><li>Earn trust through transparent communication<br/><br/></li></ul>What You’ll Do<br/><br/>Plan and manage IT infrastructure, systems, projects, and support to meet organizational needs. We expect this role to be an “army of one” for the foreseeable future.<br/><br/><strong>Maintain And Manage Essential IT Infrastructure<br/><br/></strong><ul><li>Maintain essential IT infrastructure, including operating systems, security tools, applications, email systems, laptops, desktops, software, and hardware</li><li>Efficiently manage employee hardware procurement; ensure devices are appropriate per role, in employee hands in a timely fashion, and configured appropriately</li><li>Develop, own, and manage master device management system</li><li>Manage on-site technology needs at our Austin HQ</li><li>Respond appropriately to (unanticipated) high urgency situations<br/><br/></li></ul><strong>Corporate Access Management<br/><br/></strong><ul><li>Manage and provision appropriate employee access to corporate operating systems, applications, etc. at the point of their onboarding and offboarding</li><li>Monitor corporate system health using existing management tools, and respond to hardware issues as they arise</li><li>Perform routine and scheduled audits of all systems, including backups<br/><br/></li></ul><strong>Corporate Security<br/><br/></strong><ul><li>Ensure best practices for an organization of our maturity with regards to organization management, identity management, access management, logging &amp; monitoring, data protection, network configuration</li><li>Ensure best practices and use of appropriate tooling for corporate security, including account management, endpoint management, password managers, etc</li><li>In collaboration with operations and technical leadership, develop incident response process and appropriate feedback loops to improve security<br/><br/></li></ul>What Performance Looks Like<br/><br/><ul><li>Within [2] months, employee onboarding as it relates to hardware procurement and access management is timely, pain-free, and dare we say, a breeze!</li><li>Within [4] months, our security practice conforms to the recommendations of our security consultants<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree (or equivalent) in information technology or computer science</li><li>Proven success in an IT role</li><li>Experience with or knowledge of programming languages and operating systems, current equipment and technologies, enterprise backup and recovery procedures, systems performance-monitoring tools, active directories, virtualization, HTTP traffic, content delivery, and caching</li><li>Experience in project management, application design and integration, and cloud computing (specifically Microsoft Azure)<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Competitive compensation package, including annual bonus</li><li>Generous medical, dental, and vision plans</li><li>Immediate access to 401(k) with company match</li><li>Flexible PTO (minimum of 10 days required every year)</li><li>12 weeks paid parental leave</li><li>While Skimmer is hybrid/remote work friendly, we expect this hire to be based in Austin and to spend 2-3 days a week in the office</li><li>Comprehensive learning and development budget</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

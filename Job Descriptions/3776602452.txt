@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Summary</strong> </p><p><br/></p><p>This Data Analyst role is focused on reviewing automation agent issues and impacted orders so that they may communicate delays to the organization and identify solutions to improve performance of systems and operations. The position assists in conducting root cause analysis to expedite repairs in coordination with RPA (Robotic Process Automation) Developers. Using a combination of alerting, monitoring, and data retrieval tools, this position is expected to assist in reviewing invoicing, website account management, queues, and more to provide proactive solutions and reporting. This role is a work-from-home position and will require working from a desk for extended periods of time. </p><p><br/></p><p><strong>Duties and Responsibilities</strong> </p><p><br/></p><ul><li>Provide the organization with routine reporting and alerts covering the performance of automated orders and agent statuses. </li><li>Utilize a combination of SQL, business intelligence (BI) tools, alerting tools, and more to identify proactive solutions for predicting and rapidly resolving automation issues. </li><li>Review agent error queues and order queues to identify trends in order failures and use this information to communicate priorities and expectations to RPA Developers and relevant departments. </li><li>Create, monitor, and update support tickets related to automation. </li><li>Assist in resolving system and operational incidents, identifying the cause and implementing preventative measures. </li><li>Review and monitor payment accounts related to automation agents to ensure they are stable and within expected cost ranges. </li></ul><p><em>Please note that this job description is meant to give a basic understanding of the position and does not cover every part of the job duties and requirements. InformData reserves the right to change or assign other duties to this position at any time.</em> </p><p> </p><p><strong>Qualifications</strong> </p><p><br/></p><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field. </li><li>Strong analytical and problem-solving skills. </li><li>Ability to work in a team environment, as well as independently. </li><li>Excellent written, verbal, and presentation communication skills. </li><li>Must have strong attention to detail. </li><li>Must have access to a computer and high-speed internet from home. </li><li>Ability to work OT with prior notice. </li><li>Excellent multi-tasking, time management and detail-oriented skills. </li><li>Knowledge of relevant industry standards and best practices. </li><li>Must be able to pass a comprehensive background check. </li><li>Proficiency with SQL and data analysis tools. </li><li>Experience with performance monitoring. </li><li>Experience with Draw.io, Vizio, or and/or other visualization software. </li><li>Experience with PowerBI, Looker, and/or other Business Intelligence software. </li></ul><p> </p><p><strong>Working Conditions</strong> </p><p> </p><ul><li>This position requires the incumbent to work indoors at a desk for extended periods of time and use of workstation. </li><li>The person must be able to comprehend and follow work instructions in a fast-paced, team environment. </li><li>This position requires the ability to interact with all levels within the organization and requires the ability to respond professionally to all individuals and work well as a team player. </li><li>This position may be required to work overtime on occasion to meet company objectives. </li></ul><p> </p><p><strong>Physical Requirements</strong> </p><p> </p><ul><li>Must be able to remain in a stationary position for extended periods of time. </li><li>Must be able to occasionally move about the office to access office equipment, etc. </li><li>Must be able to constantly operate office equipment such as a keyboard, phone, computer, copier, fax machine and printer, etc. </li><li>Must be able to frequently communicate with and listen to other InformData employees and vendors. </li><li>Must be able to occasionally move, bend, lift, push, pull and carry no more than 20 pounds </li><li>Must be able to view multiple monitors for extended periods of time and visually determine accuracy, details and transcribe date in close proximity of computer software. </li></ul><p> </p><p><em>For Americans with Disabilities Act (ADA) purposes, the essential functions of the job may or may not have been described for ADA reasonable accommodation. All reasonable accommodation requests will be reviewed and evaluated on a case-by-case basis.</em> </p><p> </p><p><strong>Direct Reports</strong> </p><p>N/A</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wholesale
+          </span>
+</li>
+</ul>
+</div>
+</section>

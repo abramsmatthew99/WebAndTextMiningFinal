@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are<br/><br/></strong>Nuro is a robotics start-up whose mission is to accelerate the benefits of robotics for everyday life. We have an elite team of entrepreneurs and engineers, designers, and scientists. We believe AI and robotics are at the cusp of transforming daily life and we are dedicated to building meaningful products with this technology. Join us and play a critical role in our mission.<br/><br/><strong>About The Role<br/><br/></strong>The mandate of the Learned Behavior team is to use advanced machine learning techniques to accelerate software progress. In this role, you will be working as a member of the Learned Behavior team and leveraging the cutting edge of machine learning research to solve practical, real-world, challenging problems. This role will be focused on bringing advancements in the field of Large Language Modeling to the AV domain. This role requires working with generative LLMs in conjunction with a variety of input modalities, keeping up to date and experimenting with state-of-the-art models quickly and efficiently, collaborating with teams to determine data needs and set up labeling pipelines, and working with others to improve model optimization and inference speeds. If you love solving challenging new problems and deploying solutions on robots used in the real world, come join us!<br/><br/><strong>About The Work<br/><br/></strong><ul><li>Work on generative large language models for AV reasoning and planning</li><li>Experiment quickly and fail fast while leveraging state-of-the-art models and techniques</li><li>Build effective and efficient ML data pipelines</li><li>Collaborate with autonomy teams to understand top autonomy challenges and design roadmaps to solving these challenges using holistic solutions.</li><li>Develop practical solutions and deploy them to the NuroDriver<br/><br/></li></ul><strong>About You<br/><br/></strong>You have deep expertise and prior experience in some or many of the following areas:<br/><br/><ul><li>You have an M.Sc. or Ph.D. (preferable) in addition to 3+ years of experience focusing on one or more of the following areas: Computer Science, Artificial Intelligence, Mathematics, or a closely related field</li><li>You have subject matter expertise and research in one or more of the following areas: Machine Learning (required), Large Language Modeling (required), Human Preference Feedback/Reward Modeling, Multimodal LLMs, Knowledge Distillation, Robotics</li><li>You have strong problem solving and programming skills in Python (required) and C++ (preferable) and utilize coding best practices as a part of your work</li><li>Independent researcher able to push multi-faceted projects forwards, collaborate across organizations, and deliver results in a timely manner</li><li>Strong culture fit and good team player</li><li>Demonstrated research publications in any of the major conferences (RSS, ICRA, CoRL, CVPR, ICLR, ICML, NeurIPS, ICCV, AAAI, etc.)<br/><br/></li></ul>At Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $202,350 and $303,050/year for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.<br/><br/><em>At Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

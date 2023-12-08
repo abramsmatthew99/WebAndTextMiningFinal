@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Let’s be unstoppable together!<br/><br/></strong>Circana (formerly IRI and NPD) is the leading advisor on the complexity of consumer behavior. Through unparalleled technology, advanced analytics, cross-industry data, and deep expertise, we provide clarity that helps almost 7,000 of the world’s leading brands and retailers take action and unlock business growth. We understand more about the complete consumer, the complete store, and the complete wallet so our clients can go beyond the data to apply insights, ignite innovation, meet consumer demand, and outpace the competition.<br/><br/>At Circana, we are fueled by our passion for continuous learning and growth, we seek and share feedback freely, and we celebrate victories both big and small in an environment that is flexible and accommodating to our work and personal lives. We have a global commitment to diversity, equity, and inclusion as we believe in the undeniable strength that diversity brings to our business, employees, clients, and communities (with us you can always bring your full self to work). Join our inclusive, committed team to be a challenger, own outcomes, and stay curious together. Learn more at www.circana.com.<br/><br/><strong>What will you be doing? <br/><br/></strong>As a <strong>Sr Big</strong> <strong>Data Engineer Designer</strong>, you will be responsible for leading the development of client-specific implementations that will run in the client’s cloud environment leveraging the industry’s leading BI/Analytics solutions, Circana Liquid Data (LD). This is an end-to-end business intelligence solution that involves highly complex data transformations flowing into the LD Whitebox-powered data layer, and the LD Unify reporting application.<br/><br/>You will interface with the client to understand requirements and translate the requirements into technical design. You will then manage and co-develop complex, fully automated data ingestion processes that meet the client's needs. You will also be responsible to debugging and resolving all the data issues that arises during the course of the project.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li>Design the data loading pipeline which satisfies the business requirements and also extremely performant and fault tolerant</li><li>Work with Product management team and client data ingestion teams to thoroughly understand all the datasets and ensure that it meets the business requirements</li><li>Attend daily scrum calls with clients and provide feedback on the progress of all the data ingestion work</li><li>Lead the offshore and onshore teams and explain the business requirements and design and ensure all data ingestion tasks are delivered on time</li><li>Help the team in tuning the performance of the data ingestion jobs to ensure all jobs complete within the stipulated SLA time</li><li>Co-develop all the complex data ingestion jobs and understand all the internal framework utilities and also build reusable code<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s of Science Degree in Computer Science, Data Analytics, or equivalent</li><li>10+ years Business intelligence industry experience</li><li>5+ years of Big Data (Hadoop ecosystem) experience</li><li>2+ years experience leading client-facing projects</li><li>Extensive experience in Linux or Unix OS Big Data scripting languages (Python, Spark, bash)</li><li>Data Science skills as applied to data cleansing - NLP, fuzzy matching and other advanced cleansing techniques. </li><li>Extensive experience aligning data from disparate sources with varying granularity</li><li>2+ years Azure cloud experience. Databricks experience a plus</li><li>1+ years Amazon S3 experience</li><li>Experience working with third-party job schedulers (Control-M, Airflow a plus)</li><li>Eagerness to learn and adapt to evolving Hadoop tooling advancements</li><li>Strong track record in kick-starting, executing, and advancing client-focused projects</li><li>Experience leading offshore development teams</li><li>Strong communication and leadership skills required</li><li>25% Travel required after COVID restrictions are lifted<br/><br/></li></ul><strong>Circana Behaviors<br/><br/></strong>As well as the technical skills, experience and attributes that are required for the role, our shared behaviors sit at the core of our organization. Therefore, we always look for people who can continuously champion these behaviors throughout the business within their day-to-day role:<br/><br/><ul><li>Stay Curious: Being hungry to learn and grow, always asking the big questions</li><li>Seek Clarity: Embracing complexity to create clarity and inspire action</li><li>Own the Outcome: Being accountable for decisions and taking ownership of our choices</li><li>Center on the Client: Relentlessly adding value for our customers</li><li>Be a Challenger: Never complacent, always striving for continuous improvement</li><li>Champion Inclusivity: Fostering trust in relationships engaging with empathy, respect and integrity</li><li>Commit to each other: Contributing to making Circana a great place to work for everyone<br/><br/></li></ul><strong>Location <br/><br/></strong>This position can be located in the following area(s): Remote or Chicago, IL<br/><br/><em>The below range reflects the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range. This range may be modified in the future. An employee’s position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs. The salary range for this role is $160k to $190k.<br/><br/></em><em>This job is also eligible for [bonus/incentive/commissions/equity] pay.<br/><br/></em><em>We offer a comprehensive package of benefits including [paid time off, medical/dental/vision insurance and 401(k)] to eligible employees.<br/><br/></em><em>You can apply for this role through [methods to apply (e.g., Careers website link and/or Intranet site for internal candidates).<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Market Research
+          </span>
+</li>
+</ul>
+</div>
+</section>

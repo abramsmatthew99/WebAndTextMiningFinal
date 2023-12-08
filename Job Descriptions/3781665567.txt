@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Hi Professionals,</p> <p>Greetings from <strong>All IT Solutions LLC,</strong> One of Our Client hiring resources for following Project </p> <p> </p> <p><strong>Front End Developer</strong></p> <p><strong>Long Island City, NY</strong></p> <p><strong>7hrs/Day</strong></p> <p><strong>Long Term Contract</strong></p> <p><strong>Tax Terms: C2C</strong></p> <p> </p> <p><strong>Job Description</strong></p> <p> </p> <p><strong>QUALIFICATIONS EXPERIENCE &amp; EDUCATION</strong></p> <ul><li>Experience in web application development with minimum 2+ years' experience Drupal programming experience</li><li>Knowledge and/or advanced level PHP, MySQL and HTML/CSS/AJAX/ JavaScript</li><li>A Bachelor's degree in Computer Science or a related field (or combined with related experience)</li><li>Understanding of HTML, JavaScript, React, JSON, and CSS.</li><li>Knowledge and/or advanced experience with Drupal architecture, best practices, and coding standards.</li><li>Experience with object-oriented design and data modeling</li><li>Familiarity with user experience design principles and processes</li><li>Experience with third-party applications/tools and integration</li><li>Knowledge of web application security considerations</li><li>Working knowledge of Web servers (Apache, IIS}</li><li>Experience with source/version control systems</li><li>Ability to communicate and work well with others</li><li>Ability to handle a fast-paced work environment, deadlines and new challenges</li><li>Excellent verbal/written communication skills and strong time management and analytical/problem solving abilities.</li><li>Experience with Java or C/C++ desired</li><br/></ul> <p> </p> <p> </p> <p> </p> <p>Thanks &amp; Regards,</p> <p>Santhosh Kumar </p> <p>Recruitment Head</p> <p>All IT Solutions LLC</p> <p>+1 609-299-1515 | 609-683-3675 | santosh@allitsolutions.us</p> <p><u>http://</u>www.<u>allitsolutions.us</u></p> <p>https://www.indeed.com/cmp/All-IT-Solutions-LLC</p> <p>https://www.linkedin.com/company/all-it-solutionsus/ </p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

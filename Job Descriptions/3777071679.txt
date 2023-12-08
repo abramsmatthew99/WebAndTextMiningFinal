@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Resolution Technologies, Inc.</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Samuel Slonkosky" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQEPVzZ_2dLErQ/profile-displayphoto-shrink_100_100/0/1662839071289?e=2147483647&amp;v=beta&amp;t=hRXxMmaOF52P9yN38iMDNDF8gzPd7Qo2VJkE7lW_Hjc" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Samuel Slonkosky
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Sr. Lead IT Recruiter - Resolution Technologies, Inc.
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Samuel Slonkosky" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fsamuel-slonkosky-0716628a&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Business Intelligence Engineer Job Description:</strong></p><p> This position is responsible for managing data retrieval and analysis through descriptive, predictive, and prescriptive analytical solutions that foster data-driven business decisions. This includes, but is not limited to, data modeling, data warehousing, ETL\ELT data processing, surfacing analytics through user interactive reporting, and data science techniques. In addition to development responsibilities, this position will establish standards, identify solution architecture, and train less-experienced software engineers.</p><p> </p><p> <strong>Business Intelligence Engineer Minimum Qualifications:</strong> </p><p>· Bachelor’s Degree in Computer Science or related field </p><p>· 6 years of database development experience using modern database technologies </p><p>· 6 years of business intelligence software development experience </p><p>· 1 years JavaScript, HTML, CSS experience </p><p> <strong>Business Intelligence Engineer Preferred Skills:</strong> </p><p>· Experience with relational database like MySQL, Postgres, SQL Server, etc. </p><p>· Experience with Qlik Sense </p><p>· Experience building dynamic reports leveraging JavaScript frameworks </p><p>· Previous experience with Object Oriented programming and server side frameworks a plus. </p><p>· Experience with JavaScript visualization libraries like D3, Google Charts, etc. </p><p>· Knowledge of machine learning, deep learning, and other advance analytic concepts. </p><p>· Experience with Python </p><p>· Experience with ETL/ELT platforms and data-driven streaming solutions </p><p><strong>Business Intelligence Engineer Key Responsibilities:</strong> </p><p>· Develops and modifies internal and external facing business intelligence analytical software applications </p><p>· Provides full application development life cycle support including specifications, prototypes, development, coding standards, testing, data quality assurance, and deployment </p><p>· Works with team members to identify and enforce design patterns, standards, etc. </p><p>· Explores and recommends new and emerging business intelligence technologies, data acquisition design patterns, and development techniques </p><p>· Coordinates application development with contract developers and other Ingram company developers </p><p>· Coordinates with users and product owners to gather, groom, and scope requirements </p><p>· Maintains or acquires an expert level of knowledge relative to the product and applicable business domain </p><p>· Communicates effectively with internal and external users as needed to support channel integration, development and support. </p><p>· Provides task and project level estimates based upon scope and priorities </p><p>· Provides on-call support on a rotating basis for all production-related problems, including support during non-business hours. May be required to provide support as a backup to the on-call associate where key knowledge exists.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

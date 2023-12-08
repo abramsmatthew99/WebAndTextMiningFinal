@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you interested in building the future of healthcare and transforming the patient experience? Are you hopeful about what data and medical research can do to improve medicine? We’re looking for a Sr. Manager, Data Engineering to ensure PatientIQ remains on the forefront of using data to drive positive healthcare outcomes.<br/><br/>As the manager for our Data Engineering Team, you will lead a team in a dynamic environment that works cross-functionally with all other departments, such as Engineering, Product, Customer Success, and Sales. You will work on a broad array of problems that rely heavily on solid data engineering principles being in place: business intelligence, data science, and software engineering. We heavily value diligence, curiosity, and initiative, as those are key to unlocking the value of PatientIQ's data for our users and our decision-making. Your work will be impactful across the entire organization.<br/><br/><strong>Role Responsibilities<br/><br/></strong><ul><li>Coordinate engineering efforts to positively impact the lives of our customers and their patients</li><li>Facilitate engineering team meetings and remove roadblocks for the team. Run standups and train others to do the same</li><li>Work with product managers and other engineering team leads to advocate for new product features</li><li>Report on project statuses to the company</li><li>Evangelize our software development best practices within the team</li><li>Perform peer code reviews to ensure the team is producing well-tested and maintainable code</li><li>Mentor team members on your direct team, as well as others</li><li>Planning for new hires, recruiting, hiring, and training Data Engineering team members</li><li>Develop and maintain ETL infrastructure to support the ingestion of external data sources</li><li>Build and maintain tools necessary to ingest new customer data</li><li>Define and implement key metrics for PatientIQ's data warehouse</li><li>Help scale PatientIQ's data strategy as the platform and business grows<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Ideal Qualifications<br/><br/></strong><ul><li>Experience leading a team of data engineers or software engineers</li><li>Experience with PostgreSQL, Redshift, Looker, Tableau, Metabase, or similar</li><li>BS/MS in Computer Science, Engineering, Mathematics, or related field</li><li>Deep knowledge of SQL and at least one database technology</li><li>Proficient in Python or Ruby a plus</li><li>Experience with version control systems (e.g. git) and writing reusable and extensible code</li><li>Highly self-motivated with strong analytical problem-solving skills and attention to detail</li><li>Ability to manage complex technical projects while maintaining a consistent, engaged presence with your team<br/><br/></li></ul><strong>Nice to Haves<br/><br/></strong><ul><li>Experience with workflow management systems</li><li>Experience designing, building, and maintaining ETL infrastructure in a production setting</li><li>Experience in machine learning and/or business intelligence</li><li>Experience with ETL tools like Apache Kafka, Logstash, Segment, or Informatica</li><li>Experience with cloud technologies such as AWS, Google Cloud Platform, or Azure</li><li>Experience working in Healthcare, Finance or another regulated industry<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li> Great Benefits - top-notch health, dental and vision insurance. Additional perks available including 401K</li><li> We are Mission Driven - our team is motivated to solve complex problems, drive medicine forward, and ultimately improve patient outcomes</li><li> True Idea Meritocracy - great ideas win out. We encourage all team members to challenge the status quo because our mission demands this</li><li> Flexible Time Off - we trust you to take the time you need when you feel it is appropriate, given your workload and responsibilities. No need to track it or save up</li><li> World-Class Team - we’re at the top of our industry because of our employees. They’re the best investment we can make, and we never forget that</li><li> Fast Growing - we are building the largest platform for healthcare providers, industry partners, researchers, and others to collaborate on the mission to improve patient outcomes</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        At NICE, we don’t limit our challenges. We challenge our limits. Constantly. We’re relentless. We’re ambitious. And we make an impact. Our NICErs bring their A game and spend each day turning it into an A+. And if you’re like us, we can offer you the kind of challenge that will light a fire within you.<br/><br/>NICE Customer Engagement Analytics is looking for a Data Scientist to join our team. You will play a vital role in enhancing our contact center solutions through the development of advanced NLP algorithms and models. You will work in a collaborative team environment to explore and create solutions to industry problems using machine learning and state-of-the-art large language models. You bring to this team environment a strong foundation in machine learning and deep learning, as well as the curiosity and grit to see a project to delivery.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Explore high-level, undefined ideas and business problems using structured and unstructured data </li><li>Develop product offerings through careful consideration of business value and data analysis </li><li>Build and fine-tune deep learning and machine learning models, with an emphasis on large language models</li><li>Communicate research findings, technical concepts, and model recommendations effectively to technical and non-technical stakeholders<br/><br/></li></ul><strong>Minimum Skills And Experience<br/><br/></strong><ul><li>Minimum of 2 years of experience implementing machine learning and NLP models using real-life (“industry”) data</li><li>Experience working with deep learning models</li><li>Excellent proficiency in Python programming</li><li>Advanced knowledge of statistics</li><li>Excellent communication and presentation abilities<br/><br/></li></ul><strong>Additional Desired Skills And Experience<br/><br/></strong><ul><li>Proficiency with one more deep learning libraries (PyTorch, TensorFlow, JAX, etc.)</li><li>Experience deploying NLP models in production environments, ensuring scalability and performance</li><li>Experience with building and/or fine-tuning large language models</li><li>Experience as part of a software organization<br/><br/></li></ul><strong>About NICE<br/><br/></strong><em>NICE Ltd. (NASDAQ: NICE) software products are used by 25,000+ global businesses, including 85 of the Fortune 100 corporations, to deliver extraordinary customer experiences, fight financial crime and ensure public safety. Every day, NICE software manages more than 120 million customer interactions and monitors 3+ billion financial transactions. <br/><br/></em><em>Known as an innovation powerhouse that excels in AI, cloud and digital, NICE is consistently recognized as the market leader in its domains, with over 8,500 employees across 30+ countries. <br/><br/></em><em>NICE is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, age, sex, marital status, ancestry, neurotype, physical or mental disability, veteran status, gender identity, sexual orientation or any other category protected by law.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

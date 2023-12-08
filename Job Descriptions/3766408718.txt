@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are<br/><br/></strong>Neya is a leader in advanced robotics developing off-road autonomy for both commercial and defense customers. Our deep domain expertise spans semi-autonomy, autonomy, perception, and mission planning; all of which support a wide range of DoD and commercial thrust areas. Our main center of gravity is in the Pittsburgh area and we have teams located in RI and CO.<br/><br/><strong>This position can be hybrid or in-person in our Pittsburgh, PA office.<br/><br/></strong>We're looking for a Robotics Software Engineer to support full-stack autonomy including perception, localization, navigation, and task optimization. You will have the opportunity to work on a diverse set of robotics challenges ranging from control of large construction equipment, drone navigation and planning autonomous jet-ski perception, 3D scene reconstruction, and self-driving off-road vehicles. You will work with a strong team of scientists and engineers to help drive critical architecture decisions within our machine learning and computer vision pipeline.<br/><br/><strong>What You’ll Do<br/><br/></strong><ul><li>Design and optimize implementation of cutting-edge localization and path planning systems for off-road vehicles.</li><li>Enhance unified back-end architecture that coordinates tasking for multi-platform autonomy behaviors across a wide variety of UGVs and UAVs</li><li>Simulate scenarios using tools such as Unreal and Gazebo</li><li>Assist in the development and implementation of unit testing of code using simulation tools and actual hardware.<br/><br/></li></ul><strong>What We’re Looking For<br/><br/></strong><ul><li>B.S. or M.S. in Computer Science, Computer Engineering, Robotics, etc., or equivalent in industry experience</li><li>5+ years of relevant industry experience</li><li>Experience with autonomous and robotic systems</li><li>Must be proficient in writing production-quality object-oriented code in C++, using a git-based workflow in a Linux environment</li><li>Experience with publish/subscribe communication frameworks, especially ROS</li><li>Solid experience with modern software principles, architecture, and design</li><li>Excellent mathematical reasoning skills, especially with probability</li><li>Experience with unit testing suites such as GTest, CppUnit</li><li>Strong understanding of Agile software development cycle and development methodology</li><li>Some experience with sensor data processing sensor error modeling, environment modeling, and simulation tools<br/><br/></li></ul><strong>How To Stand Out<br/><br/></strong><ul><li>Experience developing robotic algorithms, such as sensor processing and perception, planning, and vehicle control</li><li>Experience with game engines (Unreal, Unity, etc.) and simulation frameworks based on them</li><li>Experience with 3D modeling and animation</li><li>Familiarity or experience with implementing SLAM systems<br/><br/></li></ul><strong>What Makes Neya Unique<br/><br/></strong><ul><li>Solve immediate and pressing real-world problems that advance the state-of-the-art</li><li>Work with some of the smartest people in unmanned systems</li><li>Great company culture</li><li>Competitive salary and benefits including 401k, ESOP, and company-paid medical, dental, life insurance</li><li>Flexible hours and working conditions<br/><br/></li></ul><strong>Interested in joining our team? If you feel that you meet most but not all of the requirements, please reach out to us, you could be a great fit!<br/><br/></strong><em>This position requires the use of information that is subject to the International Traffic in Arms Regulations (ITAR) and/or the Export Administration Regulations (EAR), Non-U.S. persons selected must meet eligibility requirements for access to export-restricted information. The ITAR/EAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e. ‘Green Card Holder’), Political Asylee, or Refugee<br/><br/></em>Powered by JazzHR<br/><br/>t2UU3S7hGV
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

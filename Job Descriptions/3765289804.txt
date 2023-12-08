@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>KEY OBJECTIVE:<br/><br/></strong>This position offers the opportunity to leverage the entire spectrum of AI tools towards solving a wide variety of business problems as well as unique challenges in problem-solving. The focus is on applying a combination of industry-standard practices and innovative ideas using structured and unstructured data from multiple sources and applying AI, machine learning and statistical techniques to build, evaluate and implement models.<br/><br/><strong>Major Responsibilities<br/><br/></strong><ul><li>Work closely with team of data scientists to design, build, and test machine learning models to solve complex business challenges.</li><li>Work with large structured and unstructured datasets across multiple source systems to generate insights and solve business problems.</li><li>Implement advanced statistical and deep learning models to solve problems related to forecasting, pricing, underwriting and risk engineering. </li><li>Build production quality solutions and work with IT/AI Engineering teams to integrate them in business applications.</li><li>Present results to both technical and non-technical leaders.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong> QUALIFICATIONS <br/><br/></strong><ul><li>Pursuing undergraduate or graduate degree in computer science, computer engineering, statistics, economics or other similar fields.</li><li>Experience in Python programming including common libraries such as Scikit Learn, Pandas, Numpy, NLTK etc. </li><li>Knowledge of databases and approaches to extracting data preferred.</li><li>Familiar with the development of machine learning &amp; deep learning models. </li><li>Text Analytics &amp; Natural Language Processing experience preferred.<br/><br/></li></ul><strong>About Us<br/><br/></strong>Chubb is the world’s largest publicly traded property and casualty insurer. With operations in 54 countries, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance, and life insurance to a diverse group of clients. The company is distinguished by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength, underwriting excellence, superior claims handling expertise and local operations globally.<br/><br/>At Chubb, we are committed to equal employment opportunity and compliance with all laws and regulations pertaining to it. Our policy is to provide employment, training, compensation, promotion, and other conditions or opportunities of employment, without regard to race, color, religious creed, sex, gender, gender identity, gender expression, sexual orientation, marital status, national origin, ancestry, mental and physical disability, medical condition, genetic information, military and veteran status, age, and pregnancy or any other characteristic protected by law. Performance and qualifications are the only basis upon which we hire, assign, promote, compensate, develop and retain employees. Chubb prohibits all unlawful discrimination, harassment and retaliation against any individual who reports discrimination or harassment.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

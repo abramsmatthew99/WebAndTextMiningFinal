@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Position Description</strong>:</p><p>The qualified candidate will be responsible for actively designing and maintaining solutions targeting next generation internal and external applications.</p><p>Responsibilities will include but not limited to the implementation of UI/UX design into code that will supply the visual presentation for our customers. This candidate will take an active role in both how our applications are designed as well as how they work.</p><p><br/></p><p><strong>Position Requirements</strong>:</p><p>Candidate should have an advanced understanding of Open Source development technologies and tools as well as the ability to design/develop applications from interpretations of business requirements.</p><p>Candidate must have a strong willingness to learn, adapt and actively contribute to the success of the organization.</p><p>* Minimum of 2-3 years creating and designing front end solutions in an enterprise digital landscape environment</p><p>* A solid understanding of web markup, including HTML5 and CSS3</p><p>* A solid understanding of cross-browser compatibility</p><p>* Knowledge and experience developing applications using JavaScript</p><p>* Knowledge of Bootstrap and/or Responsive Design</p><p>* A basic understanding of server-side CSS pre-processing platforms</p><p><br/></p><p><strong>Preferred Qualifications</strong></p><p>* Preferences will be given to candidates who possess a Bachelor's degree in Computer Science or a related field, or possess equivalent work experience</p><p>* Experience in a financial institution</p><p>* Experience with asynchronous request handling, partial page updates, and AJAX</p><p>* Experience with image authoring tools: Crop, resize, and adjustment of images</p><p>* Experience developing solutions for native platforms: iOS and Android</p><p>* Experience with React and React Native considered a plus</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

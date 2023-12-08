@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Build the future of data. Join the Snowflake team.<br/><br/>We’re looking for a Senior Data Scientist to join Snowflake's Corporate Data Science function. In this role, you will apply machine learning to a variety of domain specific problems across Sales, Sales Engineering, IT, Security, Legal, Professional Services &amp; Workplace. This is a generalist role and will provide an opportunity to work on a breadth of problems, applying a good mix of models &amp; methods to structured &amp; unstructured data.<br/><br/><strong>AS A SENIOR DATA SCIENTIST AT SNOWFLAKE YOU WILL :<br/><br/></strong><ul><li>Work closely with stakeholders to understand the use-cases and identify focus areas with the highest potential for impact</li><li>Research, design, and implement advanced ML algorithms using large-scale datasets. Leverage techniques such as reinforcement learning, deep learning, tree-based methods, bayesian techniques, kernel/non-parametric methods, gradient boosting and generative models</li><li>Own MLOps; deploy machine learning models into production systems, ensuring scalability and seamless integration</li><li>Mentor &amp; guide junior data scientists, fostering a culture of continuous learning and growth within the team<br/><br/><br/></li></ul>OUR IDEAL CANDIDATE WILL HAVE :<br/><br/><ul><li>High levels of curiosity and eager enthusiasm for open-ended problems</li><li>Experience and interest in problem formulation based on relatively abstract information</li><li>5+ years experience applying machine learning or statistical modeling on large-scale datasets</li><li>Deep understanding of the basic classes of ML algorithms and their underlying assumptions</li><li>Technical expertise in one or more of the following topics: Anomaly Detection, Clustering, Time-Series Analysis &amp; Forecasting, Natural Language Processing, Uncertainty Quantification</li><li>5+ years experience writing production-quality, scalable code using Python </li><li>Expert level knowledge working with libraries such as scikit-learn, pandas, etc., SQL and Airflow</li><li>Demonstrate keen senses of ownership, collaboration and mentorship</li><li>Ability to articulate results and complex concepts to leadership<br/><br/><br/></li></ul>The following represents the expected range of compensation for this role:<br/><br/><ul><li> The estimated base salary range for this role is $165,000 - $253,000.</li><li>Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.<br/><br/><br/></li></ul>The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending &amp; health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.<br/><br/>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.<br/><br/>How do you want to make your impact?
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

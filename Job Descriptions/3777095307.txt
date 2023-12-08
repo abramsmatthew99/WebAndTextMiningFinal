@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Software Developer In Test</strong></p><p>Utah County, Utah / Hybrid or Remote</p><p>$115K/year</p><p><br/></p><p>An innovative Utah company is looking for an experienced Software Developer In Test to join their Library and Mobile product engineering team. This is a great opportunity to make a big impact for a growing and profitable company.</p><p><br/></p><p><br/></p><p><strong>Key Areas of Responsibility:</strong></p><ul><li>Automate everything you do on a regular basis</li><li>Create scripts to generate test data to ensure consistent and comprehensive coverage of edge cases</li><li>Develop automation scenarios and scripts for testing code and infrastructure</li><li>Keep tests up to date as new features are added</li><li>Collect, analyze, and interpret test and quality assurance metrics</li><li>Assist with CI / CD pipeline for mobile apps</li></ul><p><br/></p><p><br/></p><p><strong>The Software Developer In Test will be:</strong></p><ul><li>A self starter with thorough attention to detail</li><li>A good communicator</li><li>Proactive in meetings</li><li>Able to work well with others in a fast paced environment</li><li>Interested in growing as an engineer, working on a cross-functional Agile Scrum team</li></ul><p><br/></p><p><br/></p><p><br/></p><p><strong>Requirements / Preferred Skills:</strong></p><ul><li>Bachelor's degree in computer science, information technology, or a relevant field preferred (but not required)</li><li>Ability to create a well-written bug report</li><li>Knowledge of the mobile device landscape</li><li>Solid understanding of both test engineering and development principles</li><li>2+ years working as an SDET</li><li>Proficient at coding in <strong>JavaScript/TypeScript</strong></li><li>Experienced in working with <strong>Appium</strong></li><li>Familiar with iOS and Android mobile apps</li><li>Experience with Browserstack</li><li>Experience with using testing software and test harnesses</li><li>Familiar with both closed-box and open-box testing</li><li>Experience with API development and tools (e.g. Postman)</li><li>Familiar with React / React Native</li></ul><p><br/></p><p><strong><em>No sponsorship available</em></strong></p><p><br/></p><p><br/></p><p><em>PrincePerelson &amp; Associates is an Equal Opportunity Employer and we do not discriminate against applicants due to race, color, religion, sex, national origin, age, disability, genetics, veteran status, or on the basis of disability or any other federal, state or local protected class. All applicants applying for U.S. job openings must be authorized to work in the United States.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Description: We are seeking a dynamic and experienced Software Quality Assurance Engineer to join our team of 20 software developers. As a member of our team, you will be responsible for improving the quality of our Positive Train Control (PTC) software by designing and executing tests, troubleshooting software problems, and monitoring and maintaining lab infrastructure.<br/><br/>Responsibilities:<br/><br/><ul><li>Design and execute test plans and test cases for desktop applications and websites </li><li>Troubleshoot software problems and analyze logs for errors and message flows </li><li>Monitor and maintain lab infrastructure and perform software configuration management activities </li><li>Conduct escaped defect root-cause analysis and perform general documentation activities </li><li>Collaborate with stakeholders to ferret out requirements and design tests </li><li>Report results and suggest QA process improvements </li><li>Work in a medium documentation, high productivity team and be a team player <br/><br/><br/></li></ul>Qualifications:<br/><br/><ul><li>Bachelor’s degree in Information Systems, Electrical Engineering, Computer Science, or a related technical field preferred </li><li>5 years of progressively responsible experience in software quality assurance </li><li>3 years of experience writing manual test cases for desktop applications and websites </li><li>Experience with MS Office Suite, Azure DevOps Test Plan, and configuration management </li><li>Strong organizational, communication, and time management skills </li><li>Experience in automation, SQL, SharePoint, and/or Linux (embedded) a plus </li><li>Railroad experience a plus <br/><br/><br/></li></ul>The candidate must be a dynamic self-starter who can excel with limited direction. Overtime is unlikely, but most work is expected to be completed at the office and/or labs. Limited hybrid schedule is available after appropriate ramp-up period. Candidates are expected to be in the office during core hours (8am-5pm) since we own, manage, and test equipment in our labs and the developers follow the same schedule to support our efforts.<br/><br/>Flexible work from home options available.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

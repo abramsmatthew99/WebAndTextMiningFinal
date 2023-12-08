@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Hebbia<br/><br/></strong>Hebbia is the first LLM productivity tool. Our general purpose suite allows users to extract, structure, and analyze information 10x faster and more accurately. Hebbia was securely built to process highly-sensitive data and supports full, end-to-end encryption so users can leverage the full capabilities of state-of-the-art LLMs over complicated and sensitive data.<br/><br/>Today, Hebbia powers core diligence workflows for the largest financial services firms in North America, with additional enterprise engagements in legal and federal.<br/><br/>We’ve raised $30M across three rounds of financing from the world's boldest AI investors, including Index Ventures, Peter Thiel, Jerry Yang, Ram Shriram, Marty Chavez, and Pieter Abbeel.<br/><br/><strong>About The Role<br/><br/></strong>Our technology powers financial services firms who are running due diligence on billion-dollar deals and want to make their analysts faster and smarter.<br/><br/>You will own the full ML pipeline from project ideation, data curation, project execution, and continuous evaluation in production. You'll have close feedback loops with users and our Product team. In the past few months, we have:<br/><br/><ul><li>Built sub-second, layout-aware semantic search on top of data in any format</li><li>Developed automatic safeguards to control generative models</li><li>Fine-tuned foundation models to scale beyond narrow academic benchmarks</li><li>Leveraged state-of-the-art NLP models to turn semi-structured data into actionable customer insights</li><li>Developed regression tests to enable rapid experimentation<br/><br/></li></ul>This role is based out of our New York City office in Soho.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Close the publication-to-practice gap: Turn proof-of-concept papers into a real customer feature the week they’re published</li><li>Own product features: Solve a customer need end-to-end in a way they can actually understand and trust</li><li>Know the user: Understand real use cases and pain points deeply<br/><br/></li></ul><strong>Who You Are<br/><br/></strong><ul><li>5+ years ML research or ML engineering at a venture-backed startup or top industry AI group</li><li>Embraces rapid prototyping with an emphasis on user feedback</li><li>Autonomous and excited about taking ownership over major initiatives</li><li>Extreme passion for learning, growth, and leadership</li><li>Focused on real user impact instead of academic work<br/><br/></li></ul><strong>Compensation And Benefits<br/><br/></strong>The annual salary/OTE range for 5+ years of experience for this role is $150,000 – $225,000 with target equity + benefits<br/><br/>Benefits:<br/><br/><ul><li>Medical, dental, and vision insurance coverage for you</li><li>401K</li><li>Two weeks PTO</li><li>Free meals</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

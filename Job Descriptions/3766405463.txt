@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Location: Remote in the United States<br/><br/></strong><strong>Us Citizenship Required<br/><br/></strong>BlueVoyant is seeking a knowledgeable System Development Engineer experienced in designing and maintaining dispersed data collection systems. The Collector Engineering team is part of BlueVoyant’s Infrastructure Engineering team and is responsible for the platform enabling our 24/7 Security Operations Center (SOC) to ingest, monitor, triage, and remediate security threats.<br/><br/>You’ll have the opportunity to learn about and integrate with industry leading security tools and threat intelligence to solve unique challenges that allow our service to scale with our rapidly growing customer base.<br/><br/><strong>What you will do:<br/><br/></strong><ul><li>Work on new designs/solutions, bringing them from concept to in life operations.</li><li>Relentlessly improve the quality of our operations, monitoring, and tools</li><li>Product prototype testing including design verification and validation of software, determine if program will perform according to requirements and specifications.</li><li>Collaborate with fellow engineering and support staff to conduct product testing.</li><li>Understand overall system requirements to develop and document supporting subsystem requirements and turn them into a software design.</li><li>Work with multiple teams across the globe to integrate software changes and ensure they are validated appropriately.</li><li>Lead or coordinate subsystem reviews</li><li>Ability to understand overall system requirements and translate them into subsystem requirements to drive subsystem design/development.</li><li>Liaise with internal stakeholders including various engineering teams as well as support, implementation, and customer health teams.<br/><br/></li></ul><strong>General responsibilities:<br/><br/></strong><ul><li>Work with cross-functional teams to proactively improve on existing integration automation/workflows.</li><li>Maintain up-to-date knowledge of technology standards, industry trends, emerging technologies, and best practices.</li><li>Ensure technical issues are quickly resolved and help implement strategies and solutions to reduce the likelihood of recurrence.</li><li>Work with peers to ensure the end-to-end solution provided by BlueVoyant works seamlessly for our clients.<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Experience with Linux system administration required. </li><li>Understanding of containerized systems and orchestration a plus.</li><li>Experience with Azure virtual machines, scaling sets, and virtual networks preferred.</li><li>Expertise with logging and monitoring using including Elastic, Datadog, and Splunk.</li><li>Experience with configuration Management tools including AWX/Ansible, Salt, Puppet and Chef.</li><li>Understanding of networking protocols and network-level troubleshooting.</li><li>Experience with Infrastructure as Code.</li><li>Experience working with and designing hybrid (cloud/on premise) solutions. </li><li>At least 3+ years of experience designing, tuning, and implementing large-scale, system architectures.</li><li>US citizenship required</li><li>BS/BA in Computer Science, Engineering, or relevant field experience.<br/><br/></li></ul><strong>About BlueVoyant<br/><br/></strong>At BlueVoyant, we recognize that effective cyber security requires active prevention and defense across both your organization and supply chain. Our proprietary data, analytics, and technology, coupled with deep expertise, works as a force multiplier to secure your full ecosystem. Accuracy! Actionability! Timeliness! Scalability!<br/><br/>Led by CEO, Jim Rosenthal, BlueVoyant’s highly skilled team includes former government cyber officials with extensive frontline experience in responding to advanced cyber threats on behalf of the National Security Agency, Federal Bureau of Investigation, Unit 8200, and GCHQ, together with private sector experts. BlueVoyant services utilize large real-time datasets with industry leading analytics and technologies.<br/><br/>Founded in 2017 by Fortune 500 executives, including Executive Chairman, Tom Glocer, and former Government cyber officials, BlueVoyant is headquartered in New York City and has offices in Maryland, Tel Aviv, San Francisco, London, Budapest, and Latin America.<br/><br/>All employees must be authorized to work in the United States. BlueVoyant provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, BlueVoyant complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities.<br/><br/><em>Disclaimer: Please note that pursuant to contractual requirements and applicable law, in order for employees to perform work on some of the company’s federal contracts, U.S. citizenship is required. Accordingly, an employee’s ability to perform work on such contracts is contingent upon the company’s verification of the employee’s citizenship status. Furthermore, individuals may be subject to additional background checks and fingerprinting.<br/><br/></em><strong>BlueVoyant Candidate Privacy Notice<br/><br/></strong>To understand how we secure and manage your personal data upon submitting a job application, please see our Candidate Privacy Notice, which can be found here -<br/><br/>Powered by JazzHR<br/><br/>qLE97fnAXc
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

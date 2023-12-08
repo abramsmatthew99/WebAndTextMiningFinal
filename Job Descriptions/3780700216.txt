@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Location: Remote<br/><br/>Duration: 6-7 month with Possible Extension<br/><br/><strong>Description<br/><br/></strong>Summary:<br/><br/>The main function of a Software Engineer is to design, develop, implement, test, and maintain business and computer applications software or specialized utility programs including mainframe and client/server applications, and major enhancement of existing systems<br/><br/><strong>Job Responsibilities<br/><br/></strong>Fine-tune and improve a variety of sophisticated software implementation projects<br/><br/>Gather and analyze system requirements, document specifications, and develop software solutions to meet client needs and data<br/><br/>Analyze and review enhancement requests and specifications<br/><br/>Implement system software and customize to client requirements<br/><br/>Prepare the detailed software specifications and test plans<br/><br/>Code new programs to clients specifications and create test data for testing<br/><br/>Modify existing programs to new standards and conduct unit testing of developed programs<br/><br/>Create migration packages for system testing, user testing, and implementation<br/><br/>Provide quality assurance reviews<br/><br/>Perform post-implementation validation of software and resolve any bugs found during testing<br/><br/><strong>Qualifications<br/><br/></strong>Bachelor's degree in a technical field such as computer science, computer engineering or related field required<br/><br/><strong>2-4 Years Experience Required<br/><br/></strong>A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design<br/><br/>large systems software design and development experience<br/><br/>Experience performing in-depth troubleshooting and unit testing with both new and legacy production systems<br/><br/>experience in programming and experience with problem diagnosis and resolution<br/><br/><strong>Typical Day In The Role<br/><br/></strong>Key projects The team supports tools used by supply chain and data centers.<br/><br/>Team makes tools and workflows to automate processes for data centers.<br/><br/>This contractor is backfilling the previous owner of an important tool the team uses.<br/><br/>They Will Spend a Few Months To Take Over This Tool, Then Maintain The Tool And Provide High-level Support Until The Tool Is Fully Deprecated Tool Support Will Likely Not Take Their Full Time, So They Will Also Help With Some On-call Related Work<br/><br/>The team works with a business team that does supply chain and deployment. If the business team needs additional information or action taken to unblock something, this contractor will identify problems and provide solutions. TSGs and other resources will help support this contractor.<br/><br/>They will not be touching on the super complex stuff, just help internal less-technical teams with some simpler stuff.<br/><br/>Candidate should have some programming experience, but will not be expected to do a lot of coding.<br/><br/>Typical task breakdown and operating rhythm 50% responding to support requests, email, ICM ticket, investigation, direct users or mitigate problems using PowerShell.<br/><br/>Remainder is tool maintenance and ad hoc support or other small coding tasks.<br/><br/>Not many meetings outside of support role<br/><br/><strong>Compelling Story &amp; Candidate Value Proposition<br/><br/></strong>What makes this role interesting? this org fulfills customer capacity in all client data centers, foundation of client Azure<br/><br/>Unique Selling Points theyll be working with very sophisticated architecture on a highly collaborative team<br/><br/><strong>Candidate Requirements<br/><br/></strong>Years of Experience Required 3-4+<br/><br/>Degrees or certifications required any college degree is required<br/><br/>Best vs. Average some support experience is good, but not necessary no formal customer support experience needed, but previous experience helping internal users is a big plus<br/><br/>The best candidate has previous experience working with business functionalities and/or did engineering work for business product instead of a regular product, and previous experience creating designs and solutions for internal business process<br/><br/>Performance Indicators quality of work and ability to meet timelines, doesnt need a lot of handholding<br/><br/><strong>Top 3 Hard Skills Required<br/><br/></strong>PowerShell and C#/.NET; 3+ years of experience<br/><br/>Azure DevOps; 3+ years of experience<br/><br/>Engineering for Business Product(s); 3+ years of experience<br/><br/>As an equal opportunity employer, ICONMA prides itself on creating an employment environment that supports and encourages the abilities of all persons regardless of race, color, gender, age, sexual orientation, citizenship, or disability.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

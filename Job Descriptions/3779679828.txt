@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:</strong> Full Stack Developer<br/><br/><strong>Location:</strong> Houston, TX 77002 (Hybrid: 2 days onsite / 3 days remote)<br/><br/><strong>Duration:</strong> Direct Hire Role<br/><br/><strong>Work Requirements:</strong> US Citizen, GC Holders or Authorized to Work in the US<br/><br/>Qualified candidates may send a copy of their resume (Word Format) to Mike Sabo at MSabo@inspyrsolutions.com<br/><br/><strong>Software Engineer<br/><br/></strong><strong>Job Duties &amp; Responsibilities<br/><br/></strong><ul><li>Debugging, fixing, and enhancing existing software</li><li>Developing front-end user experiences with a focus on intuitive ease of use</li><li>Developing robust and scalable integration between internal and external applications</li><li>Developing and testing software solutions for the business</li><li>Participate in application code reviews for correctness and quality as necessary</li><li>Perform any necessary data validation and write/execute queries</li><li>Participate in Scrum ceremonies including stand-up, refinement, and technical design sessions</li><li>Ability to generate technical designs from a given set of business requirements</li><li>Work alongside Product Designers to deliver front-end user experiences with a focus on attracting/retaining customers and intuitive ease of use</li><li>Work alongside stakeholders and product owners to review and clarify business requirements</li><li>Work alongside stakeholders and product owners to demo developed software</li><li>Work alongside and mentor other developers by providing code reviews, pair programing sessions, and technical guidance</li><li>Contribute to all technical aspects of development and integration (developing, configuring, unit testing, bug fixing, release management, etc.)</li><li>Adhere to developing against SES defined code quality standards</li><li>Other duties as assigned<br/><br/></li></ul><strong>Essential Skills &amp; Experience<br/><br/></strong>Successful job applicants will be able to perform these functions. Reasonable accommodations will be made to enable individuals with disabilities to perform the essential functions. <br/><br/><ul><li>3-7 years IT experience in a software development capacity</li><li>Bachelor's degree in Computer Science or related fields or equivalent combination of education and work experience</li><li>Experience in working with one or more of the following software languages:</li><ul><li>Node.JS</li><li>React or Angular</li><li>GoLang</li><li>Java</li><li>.NET and C#</li></ul><li>Experience in working with one database technology or query language</li><li>Experience in working with object-oriented and/or functional programing frameworks</li><li>Experience using GIT with command line or equivalent tool</li><li>Experience using Visual Code or other programming IDE</li><li>Experience in developing and testing RESTful APIs</li><li>Experience in writing and performing unit tests</li><li>Experience in the development of UI/UX components</li><li>Analytical mindset, demonstrate ability to problem solve and create practical solutions to overcome problems and mitigate risks</li><li>Excellent organization and time management skills, with the ability to maintain a strict level of attention to detail</li></ul> <strong>About INSPYR Solutions<br/><br/></strong>Technology is our focus and quality is our commitment. As a national expert in delivering flexible technology and talent solutions, we strategically align industry and technical expertise with our clients’ business objectives and cultural needs. Our solutions are tailored to each client and include a wide variety of professional services, project, and talent solutions. By always striving for excellence and focusing on the human aspect of our business, we work seamlessly with our talent and clients to match the right solutions to the right opportunities. Learn more about us at inspyrsolutions.com.<br/><br/><em>INSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

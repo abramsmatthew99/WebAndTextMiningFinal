@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people! Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. We are doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.<br/><br/>We are looking for an outstanding engineer for a Senior Performance Engineer role for at scale AI system performance and datacenter applications. Be a key player to the most exciting computing hardware and software to contribute to the latest breakthroughs in artificial intelligence and GPU computing! Provide insights on at-scale system design and tuning mechanisms for large-scale compute runs. You will work with the latest Accelerated Computing and Deep Learning software and hardware platforms, and with many researchers, developers, and customers to craft improved workflows and develop new, leading differentiated solutions. You will interact with HPC, OS, CPU and GPU compute, and systems specialist to architect, develop and bring up large scale performance platforms.<br/><br/><strong>What You’ll Be Doing<br/><br/></strong><ul><li>Lead all aspects of implementing performance practices in large scale infrastructure, deliver powerful tools, methodologies, and flows to validate and improve several datacenter products in parallel.</li><li>Accelerate strategic customer deployments and ensure speed-of-light bringup and deployment of ground-breaking AI infrastructure by working hand in hand tailoring design and faster processes to customer needs.</li><li>Specific responsibilities include owning the architecting of performance design and settings of datacenter at scale products both implemented in FW and SW components to ensure velocity and scale while efficiently using resources. This involves early engagement with HW/FW/SW/platform internal and customer teams, and other groups, to build end-to-end solutions and optimize datacenter product designs.</li><li>As a key member you will supply to architecting of the implementation of server and rack level telemetry aspects, collaborate and establish continuous improvements in our design flows.</li><li>Participating in engagements with various SW and FW (BMC/SBIOS/OS/drivers etc) teams to develop best-in-class practices and tools, you will be analyzing, debugging and resolving critical firmware and software issues for the best AI workload performance at scale.</li><li>Provide engineering solutions to enable large scale performance strategies for performance for Datacenter GPU Computing products and software stacks, ensure technical relationships with internal and external engineering teams, and assisting systems engineers in building creative solutions based on NVIDIA technology.</li><li>Be an internal reference for firmware, at scale deployment for datacenter and large-scale GPU-accelerated system solutions among the NVIDIA technical community.<br/><br/></li></ul><strong>What We Need To See<br/><br/></strong><ul><li>5+ years of experience in using accelerated computing for datacenter container computing solutions.</li><li>Strong knowledge of accelerated computing software stacks (CUDA).</li><li>Experience using and handling modern Cloud and container-based Enterprise computing architectures.</li><li>C/C++/Python/Bash programming/scripting experience.</li><li>Experience with CPU architecture.</li><li>Experience with container technology and Linux based OSes.</li><li>Experience working with engineering or academic research community supporting high performance computing or deep learning.</li><li>Strong verbal and written communication skills.</li><li>Strong teamwork and social skills.</li><li>Ability to multitask effectively in a dynamic environment.</li><li>Action driven with strong analytical and analytical skills.</li><li>Desire to be involved in multiple diverse and creative projects.</li><li>BS in Engineering, Mathematics, Physics, or Computer Science (or equivalent experience). MS or PhD desirable.<br/><br/></li></ul><strong>Ways To Stand Out From The Crowd<br/><br/></strong><ul><li>Deep Learning framework skills.</li><li>DL and graph compiling programming skills.</li><li>Exposure to virtualization techniques, cloud platform solutions.</li><li>Exposure to scheduling and resource management systems.</li><li>Experience with high performance or large scale computing environments.<br/><br/></li></ul>The base salary range is 144,000 USD - 270,250 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.<br/><br/>You will also be eligible for equity and benefits . <em> NVIDIA accepts applications on an ongoing basis. <br/><br/></em>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

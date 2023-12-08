@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        DriveWealth, the pioneer of fractional equities trading and embedded investing, is a visionary technology company that empowers more than 100 partners around the world to engage their customers by placing the markets in the palm of their hand. We believe the future is fractional, transactional and mobile. Every mobile device should be a gateway to accessing investing and savings products, services, advice, and assistance for global citizens of all ages, wealth stages, and levels of financial expertise. DriveWealth’s unparalleled consultative support and cloud-based, industrial strength technology platform allow partners to seamlessly offer branded investing experiences to drive customer acquisition, loyalty, retention, and revenue growth. DriveWealth’s commitment to continuous evolution and innovation makes it the partner of choice for powering the future of investing.<br/><br/>Completing a Series D raise in 2021, DriveWealth’s mission is to democratize investing globally by working with partners to invent new ways to use its API-based technology to provide emerging investors with cutting-edge embedded experiences, offer first-time access to U.S. markets, and the ability to begin investing with as little as $1. DriveWealth is committed to empowering consumers around the world to become owners by delivering the most modern brokerage infrastructure, unparalleled industry expertise, and a culture of continued evolution.<br/><br/>We are seeking a highly skilled Software Engineer to join our Post Trade Engineering team. As a Software Engineer, you will be responsible for the design, development, and implementation of our post trade platform which will be responsible for clearing, settlements of multiple asset classes and managing the firm's books and records. You will work closely with our engineering team and other stakeholders to create scalable, low latency, and highly available systems.<br/><br/><strong>What You’ll Do:<br/><br/></strong><ul><li>Responsible for design and delivery of high performance, low-latency systems using Java/Golang </li><li>Assesses the health and performance of software applications and databases and provides software and technology solutions</li><li>Design, develop, and maintain REST APIs and microservices</li><li>Work with the Broker Dealer Operations teams to support and enhance the trading and backend system for multiple asset classes like Equities, Options, Mutual Funds, etc.</li><li>Define specifications, develop components, modify existing software stack, prepare test data, and prepare functional specifications</li><li>Analyze service and application performance using various programming languages, tools and techniques</li><li>Develop and maintain automated testing frameworks and CI/CD pipelines</li><li>Provide guidance to non-technical staff in using software and hardware systems</li><li>Support applications with an understanding of system integration, test planning, scripting, and troubleshooting<br/><br/></li></ul><strong>What You’ll Need:<br/><br/></strong><ul><li>Be curious and hungry to learn</li><li>Bachelor’s degree in Computer Science/related field or equivalent experience</li><li>At least 2 years of experience in a Software Engineering with at least one of the programming languages with a strong focus on data structures: Java, Python, Golang</li><li>Experience with design and development of REST APIs</li><li>Understand Test Driven Development and how to write effective unit/integration tests</li><li>Understanding of CI/CD and automated testing frameworks.</li><li>Knowledge of No SQL, SQL and Stored Procedures such as in Postgres, MySQL</li><li>Knowledge of Messaging Platforms (AMQ, Kafka) and building Async platforms based on such technologies</li><li>Experience with Unix, Linux Operating Systems</li><li>Experience with Scrum and other Agile processes</li><li>Knowledge of Jira, Git, Jenkins</li><li>Knowledge of Post Trade is preferred, but not required<br/><br/></li></ul>Applicants must be authorized to work for any employer in the U.S. DriveWealth is unable to sponsor or take over sponsorship of an employment Visa at this time.<br/><br/><strong>Compensation<br/><br/></strong>Compensation package offerings are based on candidate experience and technical qualifications, as it relates to the role. These are identified and determined throughout your interviewing experience.<br/><br/><em><strong>Please note</strong>: this role is expected to come into our office on a cadence set by the Hiring Manager/Team.<br/><br/></em>Jersey City, NJ HQ (Hybrid) Pay Range<br/><br/>$115,000—$130,000 USD<br/><br/>US Benefits<br/><br/><ul><li>Insurance – Medical, Dental, Vision, Life, LTD &amp; STD. HSA and FSA options.</li><li>Unlimited PTO</li><li>401k plan</li><li>Most role have flexible working hours and work from home</li><li>Continuing education and conferences reimbursement</li><li>Fitness/Wellbeing reimbursement</li><li>Lunch program, snacks and beverages available in the office<br/><br/></li></ul><strong>Singapore Benefits<br/><br/></strong><ul><li>Insurance – Medical, Dental, Vision, Group Life, LTD &amp; STD</li><li>Unlimited PTO</li><li>Flexible working hours and work from home</li><li>Continuing education and conferences reimbursement</li><li>Fitness/Wellbeing reimbursement<br/><br/></li></ul>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.<br/><br/><strong>TO ALL AGENCIES:</strong> Please, no phone calls or emails to any employee of DriveWealth outside of the Talent organization. DriveWealth’s policy is to only accept resumes from agencies via Greenhouse (ATS). Agencies must have a valid services agreement executed and must have been assigned by the Talent team to a specific requisition. Any resume submitted outside of this process will be deemed the sole property of DriveWealth. In the event a candidate submitted outside of this policy is hired, no fee or payment will be paid.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Company<br/><br/></strong>Our client is an investment adviser with over $20 billion in AUM focused on investing in global credit and special situations. The Engineer will be responsible for building the in-house risk management and reporting systems along with integrating and customizing third-party libraries that are critical to the operation of the firm.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Develop, support, document, and test the firm’s custom risk management and reporting systems</li><li>Write well organized and thought-out documentation using Confluence</li><li>Identify performance bottlenecks and system bugs, and devise solutions to these problems</li><li>Work directly with the business teams to translate requirements into functional applications<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree in computer science required</li><li>3-10 years of software engineering experience</li><li>Strong experience with Python Development or SQL Server Development (preferably both)</li><li>Understanding fundamental design principles and has skill writing clean, readable, smartly commented code</li><li>C#, Java, or C++ experience</li><li>Financial industry/markets experience a plus</li><li>Experience with continuous integration and GIT<br/><br/></li></ul><strong>Salary Range<br/><br/></strong>$100,000-$150,000<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance and Accounting/Auditing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

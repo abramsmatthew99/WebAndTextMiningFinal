@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Provide hands-on support for Electronic trading systems with responsibility for application support, system monitoring, problem escalation, responding to system related user queries, level-1 database support as well as deployment of releases to test and production systems.<br/><br/>Tradeweb Technology jobs are fully remote. The Tradeweb Technology hub is located in our Jersey City office which can be used for team meetings and collaboration efforts. There may be days where travel to the Jersey City office is recommended for organizational off-sites.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li>Provide computer system support and administration, including hands-on support for Electronic trading systems with responsibility for application support, system monitoring, problem escalation, responding to system related user queries, level-1 database support as well as deployment of releases to test and production systems. </li><li>Deploy and support complex in-house &amp; 3rd party applications. </li><li>Proactively manage business critical real-time trading systems in order to identify issues and potential problem areas. </li><li>Interact with various internal IT support functions, Development, Quality Assurance, Operations and external 3rd party vendors to troubleshoot and resolve problems. </li><li>Actively identify incidents and as necessary manage the incident resolution process to provide service recovery and manage client communications and expectations in respect to incident resolution. </li><li>Ensure compliance with departmental policies (i.e. change management, IT security standards, release management, incident management). Work with all parties to provide services to agreed SLA’s. Work through Annual Disaster Recovery testing and BCP planning</li><li>This position may have responsibilities related to Dealerweb’s compliance with SEC Regulation SCI. This requires the person in this role to understand and comply with the requirements of Regulation SCI relevant to his or her position, as well as Dealerweb’s policies and procedures.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Requires a Bachelor’s degree in Computer Science, Computer Engineering or a directly related field </li><li>Two (2) years of related technical experience including Python, PERL, UNIX and SQL</li><li>Experience supporting electronic trading platforms utilizing Windows and scripting skills</li><li>Experience working on Real time trading systems</li><li>Demonstrated problem solving, planning and analytical skills.</li><li>Experience managing client queries and problems</li><li>Demonstrated communications skills and ability to interact and influence at all levels within the organization as well as with clients</li><li>Demonstrated documentation skills</li><li>Experience with Microsoft Windows and Workstation</li><li>Demonstrated basic knowledge of Network elements</li><li>Demonstrated scripting skills, including Python, PERL and Shell</li><li>RDBMS methodology and SQL scripting</li><li>Experience with MS SQL Server</li><li>Managing, owning and delivering high quality projects to objectives and within time scales</li><li>Working knowledge of SDLC, application integration and testing </li><li>Experience with Java</li><li>C++ experience in a Microsoft Windows development environment, utilizing object-oriented programming techniques</li><li>Database design and development utilizing SQL and relational database techniques<br/><br/></li></ul><strong>Additional Information<br/><br/></strong>Tradeweb is committed to providing valuable and competitive benefits. In addition to working in our culture of innovation and collaboration, we offer:<br/><br/><ul><li>Health Insurance: Highly competitive medical, dental, and vision programs</li><li>Hybrid Environment: Our employees have the flexibility of working in the office and from home.</li><li>Health Care and Dependent Care Flexible Spending Accounts: You may elect to set aside pre-tax earnings to pay for eligible health care and dependent day care expenses for you and your eligible family members.</li><li>Maven Family Building Benefit: Maven offers support for fertility and preconception; pregnancy and post-partum; adoption; surrogacy and pediatrics for children up to age 10. Tradeweb provide a $10,000 lifetime reimbursement towards fertility, egg freezing, adoption and surrogacy expenses.</li><li>Building Wealth - 401(k) Savings Plan: Employees are immediately eligible for the 401(k) plan. Participants may contribute up to 75% of eligible compensation into a traditional 401(k) and/or Roth 401(k). Tradeweb will match 100% of the first 4% of compensation that you contribute.</li><li>The current pay range for this role if performed in the city of New York is currently $100,000 to $160,000 per year, based on a regular, full-time schedule. The amount of pay offered will be determined by a number of factors, including but not limited to qualifications, market data, geographic location, and internal guidelines.<br/><br/></li></ul><strong>Other Benefit Programs<br/><br/></strong><ul><li>Pre-Tax Commuter Benefits Program</li><li>ARAG Legal Services</li><li>Employee Assistance Program</li><li>Tuition Reimbursement</li><li>Financial Wellness Tools</li><li>Travel Assistance Benefits</li><li>Pet Insurance</li><li>Corporate Gym Subsidies</li><li>Wellness Perks</li><li>Paid Time Off and Parental Leave<br/><br/></li></ul><strong>Company Description<br/><br/></strong>Tradeweb Markets is a world leader in the evolution of electronic trading. A fintech company serving approximately 2,500 clients – including the world’s largest banks, asset managers, hedge funds, insurance companies, wealth managers and retail clients -- in more than 65 countries across the globe. Since our first trade in 1998, we have helped transform and electronify the fixed income markets. Tradeweb is a culture built on innovation, creativity and collaboration. Through a combination of very talented and driven people, innovative products and solutions, cutting-edge technology, market data, and a vast network of clients, we continue to work together to improve the way financial markets trade.<br/><br/>Mission: Move first and never stop. Collaborate with clients to create and build solutions that drive efficiency, connectivity, and transparency in electronic trading.<br/><br/>Tradeweb Markets LLC ("Tradeweb") is proud to be an EEO Minorities/Females/Protected Veterans/Disabled/Affirmative Action Employer.<br/><br/>https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

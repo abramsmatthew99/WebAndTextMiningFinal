@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Junior COBOL Developer </strong></p><p><br/></p><p>Our enterprise client is looking to add Jr. Developers to their growing team. This is a great opportunity to learn from Senior Developers and expand your technical skills and knowledge. No prior work experience is required, just relevant coursework experience. This opportunity is the launching pad to long-term career growth at a reputable and stable company.</p><p><br/></p><p><strong>Position Summary:</strong> As a Junior COBOL Developer, you will be responsible for assisting in the development, maintenance, and support of COBOL applications within our organization. You will work under the guidance of senior developers and collaborate with cross-functional teams to ensure the smooth functioning of our business-critical systems.</p><p><br/></p><p><strong>What you’ll be doing:</strong></p><ul><li>Assist in the design, coding, testing, and debugging of COBOL programs and modules.</li><li>Collaborate with senior developers to understand system requirements and design specifications.</li><li>Modify and enhance existing COBOL and Java applications to improve functionality and performance.</li><li>Participate in code reviews to ensure code quality, adherence to coding standards, and best practices.</li><li>Work closely with business analysts to gather and understand user requirements and translate them into technical solutions.</li><li>Collaborate with database administrators to integrate COBOL applications with backend databases.</li><li>Perform unit testing and assist in system integration testing to identify and resolve defects.</li><li>Provide technical support and troubleshooting for production issues and incidents.</li><li>Document code changes, technical specifications, and system processes.</li><li>Stay updated with industry trends and advancements in COBOL programming techniques.</li><li>Work closely with other IT teams</li></ul><p><br/></p><p><strong>What you need to have:</strong></p><ul><li>Bachelor's degree, ideally in computer science, information technology, or software engineering or a bachelor's degree in any field with a coding bootcamp certification.</li><li>Familiarity with database concepts and SQL.</li><li>Basic understanding of software development lifecycle (SDLC) and version control system.</li><li>Problem-solving skills and attention to detail.</li><li>Effective communication skills, both written and verbal.</li><li>Ability to work in a collaborative team environment.</li><li>Willingness to learn, adapt, and take on new challenges.</li></ul><p><br/></p><p><strong>Preferred:</strong></p><ul><li>Prior experience with hands-on COBOL or Java development through internships, or personal projects.</li><li>Familiarity with other programming languages and technologies.</li></ul><p><br/></p><p><strong>Highlights of this role: </strong></p><ul><li>Competitive salary and benefits package.</li><li>Opportunity for growth and advancement within the company.</li><li>Stable and reputable company.</li><li>Training and mentorship from experienced senior developers.</li><li>Chance to work on critical systems with real-world impact.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

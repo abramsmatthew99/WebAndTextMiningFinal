@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Hi <br/><br/></strong>Greetings for the day,<br/><br/>This is Anthony from Marshall Technologies and I have a Contract position with my client. Below is the job description which can be filled immediately. Kindly respond to this requirement with your resume, contact and current location info to speed up the further process<br/><br/><strong>Infor Business Analyst<br/><br/></strong>As an Infor business analyst, you will be responsible for reviewing and analyzing the business operations and data of various industry-specific customers who use Infor’s cloud software products and solutions. You will work with the latest technologies and tools to deliver high-quality and innovative solutions that meet the business needs and expectations of the customers.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Evaluate the customers’ business processes, systems, and performance to identify areas for improvement and enhancement</li><li>Help to develop project plans and ensure their timely completion</li><li>Analyze the customers’ large data sets using Infor Reporting, Infor Analytics, and other tools to provide actionable insights and recommendations</li><li>Budget and conduct financial analysis for the customers’ projects and solutions</li><li>Communicate effectively with the customers and other stakeholders to understand their requirements and expectations</li><li>Document the business requirements, functional specifications, and test cases for the Infor software solutions</li><li>Provide technical guidance and support to the customers and the project team</li><li>Ensure the quality and satisfaction of the customers and the project deliverables<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s or master’s degree in computer science, software engineering, or related field</li><li>At least 3 years of experience in business analysis or software development</li><li>Proficient in Infor products and solutions, such as Infor ERP, Infor CRM, Infor CloudSuite, etc.</li><li>Knowledge of business processes, industry standards, and best practices</li><li>Experience in web services, BODS/BDES, DAL, extensibility, MMT, DLL, and LN Studio environment is an added advantage</li><li>Excellent communication, problem-solving, and analytical skills</li><li>Ability to work independently and as part of a team in a fast-paced and dynamic environment</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

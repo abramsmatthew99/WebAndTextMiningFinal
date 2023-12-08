@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>******************************* W2 ONLY - NO C2C - C2C WILL BE WASTING TIME **********************</strong></p> <p> </p> <p><strong>Location: </strong>Remote - Anywhere in the US – West Coast hours (can be flexible after onboarding)</p> <p><strong>Type: </strong>1 year contract on W2</p> <p> </p> <p><strong>Qualifications:</strong></p> <ul><li>Bachelors Degree in in a quantitative field such as Applied Mathematics, Statistics, Computer Science, MIS or related field or equivalent work experience. </li><li>Minimum 3 years of experience data analysis and database management </li><li>Minimum 7+ minimum years of experience with reporting packages, databases, ETL frameworks and demonstrated aptitude with technical systems and dealing with disparate data sources </li><li>Demonstrated expertise using Microsoft Office applications including Excel (including pivot tables and macros) and PowerPoint </li><li>Exhibits knowledge and/or technical experience regarding data models for database design development </li><li>Exhibits functional knowledge of statistical concepts (simple linear regressions, what-if scenarios, statistical inference, probability theory) </li><li>Exhibits knowledge of SQL, SAS or any other database management system </li><li>Proficient written and verbal communication in English</li><br/></ul> <p> </p> <p><strong>Responsibilities:</strong></p> <p><u>DIMENSIONAL MODELING</u>: </p> <ul><li>Craft and implement robust dimensional models for diverse datasets, including structured and semistructured data. </li><br/></ul> <p><u>SQL PROFICIENCY</u>: </p> <ul><li>Leverage advanced SQL skills to query and manipulate data efficiently in AWS Athena and other relevant platforms. </li><br/></ul> <p><u>PYSPARK PROFICIENCY</u>: </p> <ul><li>Develop and optimize data processing workflows. </li><br/></ul> <p><u>PROBLEM SOLVING</u>: </p> <ul><li>Engage in investigative data analysis to identify and resolve data-related challenges, including stakeholder requests and data integrity/accuracy. </li><br/></ul> <p><u>COLLABORATION</u>: </p> <ul><li>Work closely with our team, partner teams, and stakeholder groups to understand business requirements to provide valuable insights. </li><br/></ul> <p><u>OPTIMIZATION</u>: </p> <ul><li>Continuously assess and enhance existing processes, employing innovative approaches to optimize data pipelines and improve overall system efficiency. </li><br/></ul> <p><u>DOCUMENTATION</u>: </p> <ul><li>Thoroughly document data models, queries, and processes, ensuring clear communication and knowledge transfer within the team. </li><br/></ul> <p><u>QUALITY ASSURANCE</u>: </p> <ul><li>Conduct rigorous testing of data solutions to uphold data standards and ensure the reliability of analytical outputs.</li><br/></ul> <p> </p> <p> </p> <p><strong><u>NOTES FROM HIRING MANAGER</u></strong></p> <p>• Can you tell me more about your team?</p> <p>o 3 reports currently</p> <p>o Agile team – sprints and retros and stand ups</p> <p>o Ceremonies have been set by team – adjust based on the needs and working styles on the team</p> <p>o Business intelligence team – sometimes referred to as the data analytics team </p> <p>o Collaborative team </p> <p>o Enjoys having fun while also working hard </p> <p>o Loves real relationships </p> <p> </p> <p>• Organization &amp; Business Segment:</p> <p>o News Group HQ - Business Intelligence II</p> <p> </p> <p>• Can you tell me about this position and the day-to-day activities? </p> <p>o Data analysis and engineering together</p> <p>o Ability to synthesize findings </p> <p>o Figure out the right questions to ask </p> <p>o Comfortable with ambiguity and finding solutions </p> <p>o Agile – two out of five days there are live stand-up meetings – other days are on Slack</p> <p>o Get online – check emails, stand up (expected to state what working on, blocks, next steps, etc.), create tickets (sprint), ready for work – you pick the first ticket and start working on it. </p> <p>o Might write SQL scripts</p> <p>o Main tool is Databricks – write and run scripts </p> <p>o Expletory work </p> <p>o Exploring more than one ticket as there may be more than one for the same item</p> <p>o Review demo on Thursdays – bring what they have been working on and demo it (presentation experience)</p> <p>o Retro and kick off – every two weeks – anonymously share things that should be start doing, continue to do or stop doing and discuss/vote on it. – Use this to change team processes that might not be working, or good new ideas</p> <p>o Off weeks- grooming – tickets that exist and talk as a team to understand that they are clear on what is needed, what are the issues, and what is the resolution or how big the ticket is. May split of tickets if they are bigger and require more work than two weeks to resolve. </p> <p>o Interactive team meetings frequently</p> <p>o Finished with ticket – submit for review and someone else on the team will review and give feedback or adjustments (you will be doing this too) (added layer of support) </p> <p> </p> <p>•  Of the items listed on the job description, can you tell me the top 3 skills for the role? </p> <p>o DIMENSIONAL MODELING– taking raw data in any form and figure out how data should be structured for analytical purposes – inductive reasoning</p> <p>o Remaining will be addressed on spotlight call</p> <p> </p> <p>• What stands out to you on a resume?</p> <p>o PYSPARK – is a huge bonus – can be trained (primary tool)</p> <p>o SQL – is a huge plus and transfers to PYSPARK (Python not recommended)</p> <p>o DIMENSIONAL MODELING - craft and implement robust dimensional models for diverse datasets</p> <p>o Experience in the field can be compared to a degree – Willing to adapt to processes in the role </p> <p>o Remaining will be addressed on Spotlight Call </p> <p> </p> <p>•  What has made someone successful in this role in the past? Or unsuccessful in the past?</p> <p>o Successful – Wants to learn from others, share their ideas and success, Interest in solving problems (likes to do this), curious, come in with more open and wanting to learn mentality, but not a "I don't know anything" mentality, being open to feedback, delivery over perfection </p> <p>o Unsuccessful – Someone who wants to work alone or independently, being close minded, unwilling to help other people or be helped, unwilling to make assumptions (willing to go and find the information, or be wrong</p> <p> </p> <p>• Will this position be onsite or remote?</p> <p>o Remote – Anywhere in the US – West Coast hours (can be flexible after onboarding)</p> <p> </p> <p>•  When are you looking for this position to be filled?</p> <p>o ASAP</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

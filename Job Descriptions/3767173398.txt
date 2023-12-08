@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Type<br/><br/>Full-time<br/><br/><strong>Description<br/><br/></strong>Key Tasks/Duties:<br/><br/><ul><li>Work as part of a team to implement Esker’s on Demand cloud SaaS solutions with the majority of time dedicated to development and enhancement of Esker solutions</li><li>Utilize a variety of technologies to extend standard functionality of Esker solutions such as background logic, end-user interface, reports and workflow to meet client business requirements</li><li>Work closely with customers to define requirements, test the application and train end users</li><li>Create and execute test cases to validate development and product configurations</li><li>Develop or configure Esker solutions to integrate with customer ERP systems or custom external applications</li><li>Document product configurations and customizations</li><li>Trouble-shoot issues that arise in the course of configuring solutions and ensure these issues are resolved to the satisfaction of the project manager</li><li>Identify improvements to our solutions, processes or supporting documentation<br/><br/></li></ul><strong>Requirements<br/><br/></strong>Experience:<br/><br/><ul><li>1+ years of experience in software development and support or combination thereof<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li>Bachelor’s degree preferably in computer science, mathematics, engineering or business<br/><br/></li></ul><strong>Competencies<br/><br/></strong><ul><li>Strong customer service skills</li><li>Excellent verbal, written communication, interpersonal and presentation skills</li><li>Candidates should have exposure with: JavaScript, XML, JSON, relational databases (Oracle, SQL Server)</li><li>Experience with object-oriented programming</li><li>Familiarity with version control</li><li>Experience in the following is a plus: Automated unit tests, C#, Git, Oracle EBS, SAP, SOAP, REST, TypeScript</li><li>Ability to work as part of a team or independently to meet project goals</li><li>Ability to work well with other departments and varying levels of management</li><li>Ability to function effectively in a fast-paced environment and manage multiple projects simultaneously</li><li>Understanding and business knowledge of accounting and finance a plus</li><li>Understanding and business knowledge of Enterprise Resource Planning (ERP) a plus: SAP, Oracle, JDE</li><li>Ability and flexibility to travel (domestic and/or international)<br/><br/></li></ul>Salary Description<br/><br/>$65,800 - $82,200 + Incentive
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

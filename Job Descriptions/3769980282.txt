@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        As a Junior Embedded Software at L4B Software, you will have the opportunity to work alongside experienced professionals and contribute to real-world projects in the field of software development. This position is ideal for students or graduates with a strong interest in embedded software, particularly in areas of embedded Linux and/or Android AOSP.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Collaborate with Senior Engineers on embedded software development projects. </li><li>Assist in the design, implementation, and testing of embedded systems software. </li><li>Work with embedded Linux and Android Open Source Project (AOPS) technologies. </li><li>Develop and maintain code in C and C++. </li><li>Support software testers in fixing bugs. </li><li>Contribute to the improvement of software development processes. </li><li>Support in the software laboratory: flashing devices, updating software, integrating new end devices. </li><li>Report directly to the Technical Project Manager. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Recently graduated or currently pursuing a degree in Computer Science, Electrical Engineering, or a related fieldPassionate about embedded software and software development. </li><li>Proficiency in Python, C, C++ and shell programming. </li><li>Ability to work independently and in a team-oriented environment. </li><li>Excellent problem-solving and communication skills. </li><li>Self-motivated with a strong desire to learn and grow. </li><li>Basic understanding of microprocessors is a plus. </li><li>Exposure to Embedded Linux or Android Open Source Project (AOSP) is beneficial. <br/><br/></li></ul>BenefitsAre you an aspiring embedded software developer looking to kick-start your career? Here are five compelling reasons to consider our internship program:<br/><br/><ul><li>Hands-On Learning: Dive into the exciting world of embedded software development as you work on real projects alongside our seasoned Senior Engineers. Get ready for an internship thats all about learning by doing. </li><li>Cutting-Edge Technologies: Explore the latest in embedded tech, from embedded Linux to Android AOSP. This isnt just theory; its practical experience with technologies that power the industry. </li><li>Mentorship Matters: Our team of Senior Engineers is here to guide and mentor you. Learn from the best, receive valuable feedback, and sharpen your skills with their expert insights. </li><li>Chart Your Career Path: Think of this internship as your stepping stone to a promising career in embedded software development. We provide a nurturing environment where your growth is a top priority. </li><li>Flexible and Collaborative Culture: Experience the best of both worlds – the autonomy to work independently and the support of a collaborative team environment. Your ideas and contributions matter here. <br/><br/></li></ul>At <strong>L4B Software</strong>, we believe in providing our employees with a comprehensive compensation and benefits package that goes beyond the standard offerings. We value your well-being, work-life balance, and personal growth, and strive to create an environment where you can thrive both personally and professionally.<br/><br/>Join our team and experience the difference. Apply now and take the first step towards a rewarding career with us. We look forward to welcoming you to our team!<br/><br/><strong>Please note that we cannot sponsor a work permit for United States - candidates eligible must already be located in United States, as we do not provide relocation assistance to candidates.<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nanotechnology Research
+          </span>
+</li>
+</ul>
+</div>
+</section>

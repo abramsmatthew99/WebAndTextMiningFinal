@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Company Description: </strong></p><p><br/></p><p>We are the world’s first cloud AI platform that handles all aspects of machine and deep learning at enterprise scale. For repeatable use-cases such as churn prediction, time-series forecasting and deep-learning based personalization, we offer an extremely customizable end to end autonomous AI service where our expert AI agents wrangle data, train machine and deep learning models and monitor them in production. In addition to all available open source algorithms, we have developed techniques to train custom neural networks that outperform classical models and are easily automated.</p><p><br/></p><p><strong>Job Location</strong>: 100% remote (US)</p><p><br/></p><p><strong>Qualifications:</strong></p><p><br/></p><ul><li>Candidates will need to have a Phd in DL ideally or MS from top-notch CS programs</li><li>Minimum 2 years of industry experience</li><li>Should have worked on multiple deep learning approaches using different datasets</li><li>Should created deep learning models and launched them into production</li></ul><p><br/></p><p><strong>Preference:</strong></p><p><br/></p><p>Looking for experience in language, personalization, forecasting, GAN or diffusion models</p><p><br/></p><p><strong>Responsibility:</strong></p><p><br/></p><ul><li>Responsible for building Deep Learning models for different verticals and taking them to production.</li><li>As part of this, they will be responsible for implementing various algorithms to do automated feature extraction and dataset augmentation, optimizing runtimes of neural network algorithms and building higher-level abstractions for various common AI/ML techniques.</li><li>They will also work cross functionally amongst other engineers, on common ML operation tasks such as ML data management and training and model deployment, as well as build systems that are scalable.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

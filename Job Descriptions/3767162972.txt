@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Role: Assistant Manager- Data Integration and Visualization<br/><br/><strong>Location: El Segundo, CA<br/><br/></strong>Commercial Planning and Operations Data Team<br/><br/><strong>Overview<br/><br/></strong>L’Oréal USA’s Commercial Products Division is looking for a passionate and focused data analyst to join the Commercial Planning and Operations team, responsible for supporting enterprise analytics solutions through data quality, integration, and visualization.<br/><br/>Launched in 2021, CPD created the Commercial Data team to drive business growth by modernizing reporting and processes across the division. The team is responsible for reporting on data pillars including consumption, ecommerce, inventory, shipments, and competitive marketshare across the division. We provide detailed analytics and streamlined tools for commercial planning.<br/><br/>This role is responsible for managing the data quality within an analytics workspace, working with business users to drive adoption of the tools through data integrity. This includes managing data integrity issues raised by the user community and Product Owner, coordinating with IT and offshore teams, and working internally within the Commercial Data Team to implement solutions. The ideal candidate has a thorough understanding of a Business Intelligence reporting platform, databases, ETL, and other essential modern reporting competencies. This is not only a technical role, but a service role through delivering a positive end user experience through quality data.<br/><br/>This role also supports the Commercial Data team with designing and implementing customized data visualizations. The ideal candidate will have experience in beauty as a business analyst or category development manager, with a clear understanding of the business needs across various teams. With this perspective, they will harmonize and modernize old ways of working into modern data visualizations.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Manage data flow into and out of the division’s core SSAS and Power BI tools, with focus on:</li><ul><li>Data integrity – exception handling / accuracy</li><li>Data timeliness – meeting SLAs / issuing alerts</li><li>Data publication and paginated reports</li><li>Provide support on divisional reporting connected to centralized databases, such as retail tracking and forecasting workbooks</li><li>Develop and maintain integration plans, including mapping out data flows and dependencies</li><li>Establish processes for managing data quality during the integration process</li><li>Coordinate with vendors to ensure that data was formatted correctly before it is transferred from one system to another</li><li>Review data integration workflows to ensure that all steps were being completed correctly</li><li>Coordinate with IT and other internal departments to ensure that all data requests are completed within specified time frames</li><li>Monitor ongoing data integration projects to ensure that the project was on schedule and that the quality of the data was being maintained throughout the process</li><li>Partner with end users to make sure the data they are receiving is accurate and actionable</li><li>Assist Commercial Data team with creation of custom data visualizations in Power BI</li><li>Assist end users on how to leverage the centralized BI data in their specific spreadsheet-based use cases</li><li>Advocate for a data-driven culture across the division<br/><br/></li></ul><strong>Requirements</strong></ul><ul><li>3+ years in a strategy &amp; analytics-focused role, working on projects that have enabled them to build strong quantitative skills and business judgment (e.g., management consulting, eCommerce, Operations, Sales Planning, or Advanced Analytics) </li><li>Expert level Excel skills, inclusive of Power Query and Power Pivot</li><li>Experience with data models and visualization tools; Microsoft Power BI (desktop, service, power query, DAX) strongly preferred</li><li>Experience with relational databases such as SQL preferred</li><li>Technical background:</li><ul><li>Education in data science, engineering, math, statistics, computer science, operations research, supply chain, business analytics</li><ul><li>and/or </li></ul><li>Relevant software certifications such as Microsoft Certified Solutions Expert, Google Professional Cloud Database Engineer, Looker Certified Business Analyst, etc.</li></ul><li>Prior experience in Beauty, or CPG industries a plus </li><li>SAP or other ERP system experience preferred</li><li>Experience analyzing performance data and summarizing / communicating findings via reports and presentations</li><li>Communicates clearly and succinctly in both oral and written forms</li><li>Proactive and results oriented thinker who would flourish in an entrepreneurial environment where new ideas are championed</li><li>Must demonstrate strong analytical, critical thinking, and problem-solving skills</li><li>Highly organized with proven multi-tasking ability</li><li>Self-motivated and able to work independently<br/></li></ul><strong>Salary Range: 76k-108k + bonus<br/><br/><br/></strong>LI_USA_CORP
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Personal Care Product Manufacturing and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

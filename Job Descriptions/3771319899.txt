@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Zoox’s internship program provides hands-on experiences with state of the art technology, mentorship from some of the industry's brightest minds, and the opportunity to play a part in our success. Internships at Zoox are reserved for those who demonstrate outstanding academic performance, activities outside their course work, aptitude, curiosity, and a passion for Zoox's mission.<br/><br/>Zoox is looking for an intern to join our Autonomy Systems Test Engineering team. In this role, you will be working on building tools and automating processes for the autonomy release and validation org. You will work closely with System Test Engineers, Release Managers and Data Scientists to come up with automated solutions for manual efforts.<br/><br/><strong>Technical Qualifications &amp; Language Requirements<br/><br/></strong><ul><li>Rising senior or master’s degree pursuing a degree in computer science, Computer Engineering, electrical engineering, mechanical engineering, Robotics or equivalent experience</li><li>Experience with common software development languages, e.g. Python, C++ etc</li><li>Familiarity with modern software development methodologies and tools (Agile, Git, unit testing, CI, etc.)<br/><br/></li></ul><strong>Compensation<br/><br/></strong>The monthly salary range for this position is $6,500 to $9,500. Compensation will vary based on role, degree level and type, and benefits will be offered based on eligibility. Additional benefits may include medical insurance, 401k, and a housing stipend.<br/><br/><strong>About Zoox<br/><br/></strong>Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.<br/><br/>Follow us on LinkedIn<br/><br/><strong>A Final Note<br/><br/></strong><em>You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Automotive
+          </span>
+</li>
+</ul>
+</div>
+</section>

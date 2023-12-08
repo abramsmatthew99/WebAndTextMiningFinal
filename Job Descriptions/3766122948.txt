@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Duration:</u></strong> Long Term Contract</p><p><br/></p><p><strong><u>Job Description:</u></strong></p><p>Research, design, develop, and test operating systems-level software, compilers, and network distribution software. Set operational specifications and formulate and analyze software requirements. May design embedded systems software. Apply principles and techniques of computer science, engineering, and mathematical analysis.</p><p><br/></p><p><strong><u>Responsibilities:</u></strong></p><p>• Design and implement software solutions to address business needs</p><p>• Provide software designs and documentation to the development team</p><p>• Help systems engineers determine and design system specifications &amp; standards</p><p>• Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts</p><p>• Collaborate with SPO &amp; Scrum Master to create and maintain agile stories</p><p>• Participate in product cyber security reviews</p><p>• Participate in Change Control Board (CCB) meetings to prioritize new features &amp; defects</p><p>• Drive code quality initiatives through best practices including code reviews, unit test, functional/integration testing, and CI/CD Integration</p><p>• Provide technical support to the Software Product Owner and the entire project team</p><p>• Keeps up to date on the newest technological innovations in the field and be ready to apply relevant innovations</p><p>• Support weekly project reviews and governance milestone reviews</p><p><br/></p><p><strong><u>Skills &amp; Qualification</u></strong></p><p>• Demonstrable C/C++ programming skills with emphasis on its use in embedded systems</p><p><br/></p><p><strong><u>Experience:</u></strong></p><p>• Minimum 5+ years of experience in the design and development of embedded firmware</p><p><br/></p><p><strong><u>Education:</u></strong></p><p>• Bachelor’s degree in engineering</p><p><br/></p><p><strong><u>Preferred Qualifications</u></strong></p><p>• Master’s degree in engineering</p><p>• Strong hardware/electrical knowledge. You should know how to evaluate if your firmware is working as expected by probing the hardware (e.g., oscilloscope, logic analyzer, etc.)</p><p>• Demonstrated knowledge of firmware development best practices (code reviews, test, SCM, Git, etc.)</p><p>• Experience with industrial IoT protocols (TCP/IP, DNS, DHCP, HTTP, REST, MQTT) with a focus on embedded products</p><p>• Experience with one or more wireless technologies (Bluetooth, BLE, Zigbee, Zwave, 802.11, 802.15.4, LoRa, Cellular)</p><p>• Experience with common wired messaging architectures (UART, RS232/485, I2C, SPI)</p><p>• Experience with IoT / Embedded systems’ standard modules - bootloaders, OTA, firmware applications and integration with cloud services</p><p>• Experience with one or more embedded GUI frameworks (QT, Crank, LVGL)</p><p>• Understanding of cyber security technologies and best practices (encryption, key management, certificates/exchanges, HMACs, PKI, HSMs, Secure Boot)</p><p>• Experience in the use of Jira/Confluence, ADO or other requirements management tool experience</p><p>• Experience with open-source code, communities, and licenses</p><p>• HVAC Controls Systems experience.</p><p><br/></p><p><strong><u>About US Tech Solutions:</u></strong></p><p>US Tech Solutions is a global staff augmentation firm providing a wide range of talent on-demand and total workforce solutions. To know more about US Tech Solutions, please visit www.ustechsolutions.com.</p><p><br/></p><p><strong><u>Recruiter Details:</u></strong></p><p><strong>Name: </strong>Abid Majeed</p><p><strong>Email: </strong>abid.majeed@ustechsolutionsinc.com</p><p><strong>Internal Reference Id: </strong>23-34160</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

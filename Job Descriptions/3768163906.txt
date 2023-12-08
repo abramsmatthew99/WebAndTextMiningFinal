@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        At BentoML, we aim to provide the state-of-the-art AI infrastructure to help teams around the world compete and succeed with AI. We are the developers of the popular open source project BentoML and OpenLLM. We also maintain a global developer community of 3000+ members. As an engineer of the BentoML team, you would have the opportunity to work with a team of talented engineers, influence the directions of popular open source projects, and have your work visible to a global audience.<br/><br/>Role Responsibilities<br/><br/><ul><li>Develop prototype applications using industry-leading AI models for quick and innovative adaptation.</li><li>Guide the community and customers in best practices for utilizing the latest AI models.</li><li>Build cutting edge open-source AI application frameworks to simplify the building and optimize the performance of AI applications. </li><li>Collaborate with community design partners to architect innovative solutions using open-source frameworks and cloud platforms from BentoML.</li><li>Jointly shape the team's strategic roadmap in line with evolving AI and technology trends.<br/><br/></li></ul><strong>Basic Qualifications<br/><br/></strong><ul><li>At least 3 years of software development experience and 1 year in building AI-based applications.</li><li>Stay updated with the latest AI industry trends and rapidly build prototypes under a tight timeline.</li><li>Enjoy guiding and sharing AI application best practices to influence a community of users.</li><li>A strong passion for open-source software.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> Actively engage with the developer community by consistently publishing insightful blog posts and maintaining an active presence on social media platforms.</li><li> Experience landing Generative AI applications from prototype to production.</li><li> Hands-on experience training, fine-tuning, and serving Generative AI models for production use cases.<br/><br/></li></ul><strong>Learn More About BentoML<br/><br/></strong><ul><li>BentoML GitHub</li><li>Read the BentoML documentation</li><li>Join the Slack community</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

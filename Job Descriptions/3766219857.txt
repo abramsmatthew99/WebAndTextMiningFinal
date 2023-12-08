@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are a respected IT solution firm with a rich history of serving Fortune 1000 companies, public sector entities, and small to medium-sized businesses. Our commitment to excellence has earned us certifications as a WMBE and 8a firm by the Federal government's Small Business Administration. Join our team and be part of a dynamic environment where your skills and passion for information security will make a significant impact.<br/><br/><strong>Position Overview<br/><br/></strong>We are currently seeking a skilled Information Security Analyst for a 12-month contract opportunity in Nashville, TN. The role offers a hybrid schedule, combining remote and in-office responsibilities. To thrive in this role, you should be within a reasonable commuting distance of Nashville. The work hours are Monday-Friday from 8:00 am to 4:30 pm.<br/><br/><strong>Responsibilities And Duties<br/><br/></strong>Enforce policy, guidance, and training requirements following Best Business Practices.<br/><br/>Implement system updates, reporting, and compliance procedures.<br/><br/>Ensure users meet security requirements before granting access to department information.<br/><br/>Conduct initial and annual Cyber Security Awareness training for users.<br/><br/>Maintain and review log files, audits, and authentication policies for compliance.<br/><br/>Prepare, distribute, and maintain security plans.<br/><br/>Review and evaluate the security effects of system changes.<br/><br/>Certify, accredit, and reaccredit systems within your responsibility.<br/><br/>Monitor and respond to security alerts from various information security solutions.<br/><br/>Investigate, contain, eradicate, and/or escalate security detections as needed.<br/><br/>Collaborate with the Cyber Security Architect and network security team for secure network design.<br/><br/>Provide information security expertise to system development teams.<br/><br/>Document and generate reports of detections and response actions for review.<br/><br/>Assist in the analysis of vulnerabilities.<br/><br/>Monitor security platforms for errors, misconfigurations, or performance alerts.<br/><br/>Utilize the SIEM platform for threat identification and investigations.<br/><br/>Support end-users and stakeholders’ requests related to information security service.<br/><br/>Perform control testing and other risk management activities.<br/><br/>Provide information in response to assessments and audits.<br/><br/>Maintain an understanding of deployed systems, solutions, and network technologies.<br/><br/>Work with network monitoring and management applications, creating reproducible configuration scripts and templates.<br/><br/><strong>Qualifications<br/><br/></strong>Experience in Information Security and/or Information Technology in an operations or support role.<br/><br/>Prior experience in information security incident response.<br/><br/>Experience troubleshooting and securing computer systems and networks.<br/><br/>Familiarity with SIEM platforms and Cisco security products.<br/><br/>Awareness of Information Security best practices and regulatory requirements.<br/><br/>Bachelor’s degree in Computer Science, IS, or Information Security (CISSP, CISM, GIAC certifications are a plus).<br/><br/>Strong professional communication skills, both verbal and written.<br/><br/>Strong understanding of computer systems and networking principles.<br/><br/>Analytical skills and knowledge of data analysis tools.<br/><br/>Ability to parse logs, create queries, and perform root cause analysis.<br/><br/>Understanding of logical security, user access, and identity management.<br/><br/>Detail-oriented and process-focused.<br/><br/>Ability to prioritize work independently with minimal oversight.<br/><br/>Team player with a passion for problem-solving.<br/><br/><strong>Additional Information<br/><br/></strong>This 12-month contract opportunity is based in Nashville, TN, with a hybrid schedule. Remote work is available. The position requires you to be located within a reasonable commuting distance of Nashville. Working hours are Monday-Friday from 8:00 am to 4:30 pm. Join us and be part of a collaborative team dedicated to delivering maximum benefit through innovative solutions.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

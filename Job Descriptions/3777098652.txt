@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>General Summary:</strong></p><p>A Lead Software Engineer (LSE) is recognized as an expert in their strategic functional area and uses a systematic application of advanced technical knowledge to deliver software solutions using modern day technology stacks. The LSE leads large complex projects consisting of on-shore and off-shore resources, uses strong organizational and leadership skills to set and maintain efficient development progress, and defines all software components for large-scale systems with minimal oversight.</p><p><strong> </strong></p><p>Knowledge, Skills &amp; Abilities:</p><p><br/></p><ul><li>Develops and debugs software in support of new and existing applications</li><li>Develop, execute and thoroughly document unit test plans</li><li>Provides support for production applications (7x24)</li><li>Participate in Agile methodology and ceremonies</li></ul><p><br/></p><p>Knowledge, Skills &amp; Abilities:</p><p><br/></p><ul><li>Results oriented, critical thinker who uses a sense of urgency to deliver results.</li><li>Must be a self-starter, adapt easily to change and have a collaborative personality.</li><li>Continuous learner able to identify skills gaps and acquire and employ new knowledge.</li><li>Offers and seeks mentoring.</li><li>Understanding of general business concepts and user procedures.</li><li>Excellent written, oral and listening communication skills.</li><li>Proactively identifies opportunities to improve current programs and procedures.</li><li>Employs test-driven development and integrates unit tests in development tasks.</li><li>Meet quality, performance, coding standards and delivery commitments.</li><li>Possesses and shares domain knowledge of at least one system.</li></ul><p><br/></p><p>Work Experience and/or Education:</p><p><br/></p><ul><li>2+ years experience in software development in an IT organization or equivalent educational experience.</li><li>2+ years experience with a relational database (i.e., Oracle, MSSQL, Postgres, etc.).</li><li>Bachelor’s degree in computer science or related field, trade school or equivalent work experience.</li><li>Experience with a higher-level language (i.e. C#, Java, etc.) preferred.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Meta's Reality Labs(RL) focuses on delivering Meta's vision through Augmented Reality (AR). Compute power requirements of Augmented Reality require custom silicon. Meta RL Silicon team is driving the state of the art forward with breakthrough work in computer vision, machine learning, mixed reality, graphics, displays, sensors, and new ways to map the human body. Our chips will enable AR devices where our real and virtual world will mix and match throughout the day. We believe the only way to achieve our goals is to look at the entire stack, from transistor, through architecture, to firmware, and algorithms. As a Design Verification Engineer at Meta Reality Labs, you will work with a world-class group of researchers and engineers, and use your digital design and verifications skills to implement the testing infrastructure to validate new core IP implementations and contribute to development and optimization of state of the art vision and sensing algorithms. You will work closely with researchers, architects and designers in creating test bench requirements and test cases for multiple state of the art IPs.<br/><br/>Design Verification Engineer Responsibilities:<br/><br/><ul><li>Work with researchers and architects defining verification plans for each of the different core IP.</li><li>Define and track detailed test plans for the different modules and top levels.</li><li>Drive Design Verification to closure based on defined verification metrics on test plan, functional and code coverage.</li><li>Debug, root-cause and resolve functional failures in the design, partnering with the Design team.</li><li>Collaborate with cross-functional teams like Design, Model, Emulation and Silicon validation teams towards ensuring the highest design quality.</li><li>Develop and drive continuous Design Verification improvements using the latest verification methodologies, tools and technologies from the industry.<br/><br/></li></ul>Minimum Qualifications:<br/><br/><ul><li>Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.</li><li>Track record of 'first-pass success' in ASIC development cycles.</li><li>5+ years of hands-on experience in Verilog, SystemVerilog, C/C++ based verification and UVM methodology.</li><li>5+ years experience in IP/sub-system and/or SoC level verification based on SystemVerilog UVM/OVM based methodologies.</li><li>Experience in one or more of the following areas along with functional verification - SV Assertions, Formal, Emulation.</li><li>Experience in EDA tools and scripting (Python, TCL, Perl, Shell) used to build tools and flows for verification environments.</li><li>Experience in architecting and implementing Design Verification infrastructure and executing the full verification cycle.<br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience in development of UVM based verification environments from scratch.</li><li>Experience with Design verification of Data-center applications like Video, AI/ML and Networking designs.</li><li>Experience with revision control systems like Mercurial(Hg), Git or SVN.</li><li>Experience with low power design.</li><li>Experience working across and building relationships with cross-functional design, model and emulation teams.<br/><br/></li></ul>About Meta:<br/><br/>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br/><br/>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br/><br/>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

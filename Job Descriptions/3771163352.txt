@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>The Audacy Data Engineering team is looking for the right person to join us. At Audacy, you’ll contribute to our growing data warehouse engineering efforts. You’ll have a chance to focus in areas you’re already skilled and take on new challenges over time. Our distributed team has a fun and inclusive environment with a commitment to work life balance.<br/><br/>We are data engineers and we understand what data engineers need. We’ll provide you with a work environment where collaboration is encouraged but you’re not bombarded with superfluous interruptions.. We work in modern agile feature teams that self-organize and work together to build great data solutions. You’ll have the opportunity to contribute to new ideas, learn new technologies, and architect new features. We have fun doing what we do, and you will too.<br/><br/><strong>Responsibilities<br/><br/></strong><strong>What You'll Do:<br/><br/></strong><ul><li> Designing and developing enterprise level data solutions using Snowflake and AWS tools </li><li> Design, build and deploy scalable streaming and batch data pipelines capable of processing and storing petabytes of data quickly and reliably </li><li> Partnering with product teams, data analysts and data scientists to help design and build data-forward solutions </li><li> Build, maintain, and optimize data infrastructure including dimensional data warehouses in support of business intelligence and optimization product tools </li><li> Build, maintain, and optimize data between data warehouse zones </li><li> Optimize data workflows for speed and efficiency </li><li> Build and maintain foundational semantic level data products for and from our consumption zone for business domain teams use </li><li> Develop data catalogs and data validations to ensure clarity and correctness of key business metrics </li><li> Contributing to technical documentation and overall team culture using your awesome verbal and written communication skills <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>More About You:<br/><br/></strong><strong>Required &amp; Preferred<br/><br/></strong><ul><li> You possess strong experience with relational data warehouses, Snowflake DB and data models of all kinds </li><li> You are exceptionally skilled at building ETL’s and pipelines using Python and other data services like Airflow and AWS Glue </li><li> You have a solid understanding of cloud technologies and particularly AWS features like S3 policies, IAM, ARN, and EC2 </li><li> You understand the difference between a row based storage db like Postgress or MySQL and a columnar database like Snowflake, BigQuery, or Singlestore </li><li> You are strong in understanding data quality issues and have used tools to validate, cleanse, and standardize data, developing data quality frameworks, metrics, and standards </li><li> You take ownership of the data under your purview, and always consider privacy and security first </li><li> You work well with competing tasks, and if things change, you pivot quickly and execute smoothly </li><li> You are strong in documenting data processes, workflows and system changes </li><li> If you have experience in the radio broadcast, streaming, or ad tech industry, that’s a plus </li><li> Degree in Computer Science or related field, or equivalent practical experience </li><li> 3+ years of enterprise or related experience <br/><br/></li></ul><strong>Additional Information<br/><br/></strong>This position will be based in Philadelphia PA, or Remote in the United States.<br/><br/><strong>About Us<br/><br/></strong>Audacy, Inc. (NYSE: AUD; OTC: AUDA) is a leading multi-platform audio content and entertainment company with the country’s best collection of local music, news and sports brands, a premium podcast creator, major event producer, and digital innovator. Audacy engages 200 million consumers each month, bringing people together around content that matters to them. Learn more at www.audacyinc.com , Facebook (Audacy Corp), X (@AudacyCorp), LinkedIn (@Audacy-Inc), Instagram (@lifeataudacy) and Threads (@Audacy_Corp).<br/><br/><strong> EEO <br/><br/></strong>Audacy is an Equal Opportunity and Affirmative Action Employer. Audacy affords equal employment opportunity to qualified individuals regardless of their race, color, religion or religious creed, sex/ gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, national origin, ancestry, age (over 40), physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or other classification protected by applicable federal, state, or local law, and to comply with all applicable laws and regulations. Consistent with our commitment to equal employment opportunity, we provide reasonable accommodations to qualified individuals with disabilities who need assistance in applying electronically for a position with Audacy, unless doing so would impose an undue hardship. To request a reasonable accommodation for this purpose, please call 1-610-660-5614. Please note that this phone number is to be used solely to request an accommodation with respect to the online application process. Calls for any other reason will not be returned. Reasonable accommodation requests are considered on a case-by-case basis.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Advertising Services, Online Audio and Video Media, and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

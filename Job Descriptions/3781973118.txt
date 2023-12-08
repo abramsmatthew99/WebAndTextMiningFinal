@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About NetApp<br/><br/></strong>We’re forward-thinking technology people with heart. We make our own rules, drive our own opportunities, and try to approach every challenge with fresh eyes. Of course, we can’t do it alone. We know when to ask for help, collaborate with others, and partner with smart people. We embrace diversity and openness because it’s in our DNA. We push limits and reward great ideas. What is your great idea?<br/><br/>"At NetApp, we fully embrace and advance a diverse, inclusive global workforce with a culture of belonging that leverages the backgrounds and perspectives of all employees, customers, partners, and communities to foster a higher performing organization." -George Kurian, CEO<br/><br/><strong>Job Summary<br/><br/></strong>We are looking for a Full Stack Software Engineer to join our Engineering team to develop our enterprise SaaS product. This role requires a hands-on developer with rich experience in building scalable services for web applications, backed by a solid understanding of distributed systems, web services architecture, and REST APIs.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Understand given functional requirements for new services and features </li><li>Come up with system architecture and component-level designs based on PRDs and UX design </li><li>Implement backend services and API endpoints for client applications </li><li>Design and implement reusable frontend components to build pixel-perfect web applications </li><li>Develop automated unit and integration tests </li><li>Follow software development methodologies in an agile environment </li><li>Follow design principles and best practices to ensure software performance and scalability </li><li>Provide ongoing support and improvement of the developed products and platforms </li><li>Debug and fix problems identified in automated testing or reported from the field </li><li>Work closely with product and engineering leadership and deliver features on time </li><li>Collaborate with other engineers, provide quality code reviews, solicit and give feedback proactively<br/><br/><br/></li></ul>Job Requirements<br/><br/><ul><li>Bachelor’s Degree or above in computer science or related fields. </li><li>3+ years of experience in developing enterprise applications. </li><li>Excellent verbal and written communication skills. </li><li>Test-driven development and automated testing frameworks </li><li>CI/CD automation frameworks such as CircleCI, Jenkins, GitHub Actions </li><li>Backend experience </li><li>Proficiency in Python. </li><li>Hands-on experience in the following areas or with the following tools: </li><li>Building and testing application services with REST APIs. </li><li>Designing, implementing, or building on top of backend SQL or NoSQL databases. </li><li>Building integration with third-party services with authentication. </li><li>Deploying and managing applications in public clouds such as AWS, GCP, or Azure. </li><li>Frontend experience </li><li>Experience with React JS (and/or other modern frontend frameworks – AngularJS, VueJS) and associated tooling (Redux, Jest, Webpack, Babel, Enzyme, Cypress). </li><li>JavaScript (and preferably Typescript) experience including asynchronous programming, closures, types, and ES6/ES7. </li><li>Thorough understanding of React.js and its core principles including Virtual DOM, Data Binding, State, Props and React Lifecycle and Redux Middleware such as Thunk or Saga. </li><li>Experience with frontend technologies such as HTML5, CSS3, LESS, Bootstrap, and Material UI. </li><li>Experience consuming and transforming internal and 3rd-party API’s (REST and GraphQL) </li><li>Experience with code quality and reusability practices (eslint, prettier) </li><li>Knowledge of cross-browser compatibilities, responsiveness, and web accessibility standards </li><li>Familiarity with the following technologies is strongly preferred: </li><li>AWS Lambda, API Gateway, or serverless frameworks. </li><li>Container platforms and cluster orchestration frameworks such as Kubernetes. </li><li>Cloud native applications and microservices architecture. </li><li>Infrastructure-as-code tools like Terraform, CloudFormation, Ansible, Pulumi. </li><li>Role-based access control (RBAC) policies and implementation. </li><li>Understanding information security and implementing security features. </li><li>Monitoring/logging tools like CloudWatch, Datadog, Prometheus, Splunk, or ELK. <br/><br/><br/></li></ul>Education<br/><br/>IC - Typically requires a minimum of 5 years of related experience.Mgr &amp; Exec - Typically requires a minimum of 3 years of related experience.<br/><br/><strong>Equal Opportunity Employer:<br/><br/></strong>NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.<br/><br/><strong>Did you know…<br/><br/></strong>Statistics show women apply to jobs only when they’re 100% qualified. But no one is 100% qualified. We encourage you to shift the trend and apply anyway! We look forward to hearing from you.<br/><br/><strong>Why NetApp?<br/><br/></strong>In a world full of generalists, NetApp is a specialist. No one knows how to elevate the world’s biggest clouds like NetApp. We are data-driven and empowered to innovate. Trust, integrity, and teamwork all combine to make a difference for our customers, partners, and communities.<br/><br/>We expect a healthy work-life balance. Our volunteer time off program is best in class, offering employees 40 hours of paid time off per year to volunteer with their favorite organizations. We provide comprehensive medical, dental, wellness, and vision plans for you and your family. We offer educational assistance, legal services, and access to discounts. We also offer financial savings programs to help you plan for your future.<br/><br/>If you run toward knowledge and problem-solving, join us.<br/><br/><strong>USA and Canada Residents Only: <br/><br/></strong>The base salary hiring wage range for this position which the Company reasonably and in good faith expects to pay for the position in the specified geographic areas or locations, is $120,150- $181,500. Final compensation will be dependent on various factors relevant to the position and candidate such as geographical location, candidate qualifications, certifications, relevant job-related work experience, education, skillset and other relevant business and organizational factors, consistent with applicable law. In addition, the position may include some of the following comprehensive benefits such Medical, Dental, Vision, Life, 401(K), Paid Time off (PTO), sick time, leave of absence as per the FMLA and other relevant leave laws, Company bonus/commission, employee stock purchase plan, and/or restricted stocks (RSU’s).
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

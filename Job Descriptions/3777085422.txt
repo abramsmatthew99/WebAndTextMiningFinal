@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Insight Global</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Vannis Smith" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQHNmqL0uL7WvA/profile-displayphoto-shrink_100_100/0/1687442064832?e=2147483647&amp;v=beta&amp;t=tFrfvtr-_TlYPW5frgUfztAoqnyZwQpxQYghqBfDr4k" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Vannis Smith
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Recruiter | Insight Global
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Vannis Smith" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fvannis-smith-832a50157&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>What are our requirements:</strong></p><ul><li>Bachelor’s, Master’s or Ph.D. in Computer Science, Electrical Engineering, Machine Learning, Statistics or related field</li><li>New Graduate or 1-3 years of relevant industry experience (as a Computer Vision Scientist, Data Scientist, Research Scientist, Machine Learning Scientist, etc.) preferred; or proven qualifications.</li><li>Excellent knowledge of Python and experience with PyTorch or TensorFlow</li><li>Min 3 years experience python (academic projects, hobby, work\intern experience)</li><li>Min 2 years experience pytorch (academic projects, hobby, work\intern experience)</li><li>Experience with image processing using Deep Learning (semantic segmentation, object detection, classification)</li><li>Familiarity with various deep learning architectures (UNET, EfficientNet, Yolov5 &amp; Yolov8, letr etc)</li><li>Experience with traditional image processing techniques (e.g. use of OpenCV, skimage)</li><li>Experience with deployment to the edge devices (jetson nano or similar technologies) is a plus</li></ul><p> </p><p><strong>Nice to Haves:</strong></p><ul><li>Knowledge of Linux</li><li>Knowledge of Docker</li><li>Multi Node Inference\Training</li><li>Tracking algorithms such as DeepSort</li></ul><p> </p><p><strong>What will be your duties:</strong></p><ul><li>Design, develop, and implement novel computer vision algorithms for unique use cases.</li><li>Design and build novel/custom deep learning architectures.</li><li>Evaluate accuracy and quality of the designed models as well as data sources.</li><li>Stay up to date with the latest models and changes in the technology.</li><li>Create datasets from repository of data.</li><li>define labeling scheme and track quality of labels.</li><li>Design and develop production ready code.</li><li>Communicate results and implications to colleagues and business partners.</li><li>Coordinate with application development teams to integrate developed models with existing applications</li></ul><p> </p><p><strong>Day to Day:</strong></p><p> Computer Vision/Deep Learning Scientists work with various product teams across various business units to define high-impact business problems, solve them using novel techniques, and execute and monitor them throughout their lifecycle. They are required to design, develop, and implement novel computer vision algorithms for unique use cases. They evaluate accuracy and quality of the designed models as well as data sources. They also do quite a bit of research to stay up to date with the latest technologies/algorithms. They are highly technical and require advanced skills with computers and proficiency with Open-Source tools and technologies such as Tensorflow, Keras, PyTorch, and MXNet for Deep Learning, and OpenCV for traditional Computer Vision. They need to have excellent knowledge of Python and industry experience with TensorFlow, Keras and/or PyTorch. Additionally, they need experience with image processing using Deep Learning (semantic segmentation, object detection, classification). They also require familiarity with various CNN architectures (VGG16, ResNet, MobileNet, etc). Also need experience with traditional image processing techniques (e.g., use of OpenCV, skimage). They work on dedicated GPU machines and run their models in parallel on GPU Clusters. To sum it up, this position requires heavy python coding, and familiarity ML/DL knowledge. We will also focus on testing those during the interview.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Design, Information Technology, and Science
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Truck Transportation and Railroad Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

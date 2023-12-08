@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong><strong>Looking for a developer in the Denver area! <br/><br/></strong>The software developer position encompasses defining, building and maintaining - software for in-house services and applications, external web applications for vendors, and testing work using modern automation and tools wherever possible and will work closely with the business in an agile, fast-paced environment This position will primarily work with technologies written in C# and JavaScript, and SQL server 2016, Elastic and InfluxDB. The in-house technology includes proprietary business process automation and financial asset pricing models. The software developer is also responsible for implementing software updates and enhancements to the technology stack as well as providing solutions for integrations with other software systems and applications. This position will also support the team by ensuring that testing is conducted properly in all phases of systems development life cycle. The software developer must exhibit a passion for learning new technologies. The salary range for this role is $100,000 to $150,000; however, Bayview considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, location and key skills.<br/><br/><strong>Responsibilities<br/><br/></strong>Essential duties and responsibilities:<br/><br/><ul><li> Design, code, and debug applications in various software languages, i.e., C#, JavaScript, SQL.</li><li> Maintain front-end graphical user interface design.</li><li> Conduct performance tuning, improvements, balancing, usability, and automations.</li><li> Support, maintain, and document software functionality across platforms.</li><li> Integrate new software with existing systems.</li><li> Research, evaluate and identify new technologies for implementation and present them to the team for consideration.</li><li> Maintain both internal and external compliance standards.</li><li> Perform ad-hoc analysis where necessary to develop solutions to reported incidents.</li><li> Perform tasks outside of specific responsibilities as directed by management.</li><li> Effectively communicate with the appropriate internal and external business and technical customers for information gathering and follow up.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong>SKILLS/KNOWLEDGE/ABILITIES:<br/><br/><ul><li> Experience with web development and Javascript. Experience with React or similar framework preferred.</li><li> Experience in object-oriented development</li><li> .NET core REST services</li><li> Ability to utilize Object-oriented Design and Analysis technical approaches in the product life cycle;</li><li> Thorough understanding of the SDLC, source control, deployment, change management, and the segregation of duties.</li><li> Preferred languages: SQL, C#, JavaScript.</li><li> React, .NET, ADO, HTML, Web services, XML, ASP, AJAX deployment tools is a plus.</li><li> Experience with Git, Jira, TeamCity, Octopus also a plus.</li><li> 2-8 years of experience with relational database and TSQL structure and development.</li><li> Proven analytical and creative problem-solving abilities.</li><li> Excellent written and oral communication skills.</li><li> Excellent listening and interpersonal skills.</li><li> Ability to conduct research into systems issues and products as required.</li><li> Ability to communicate ideas in both technical and user-friendly language.</li><li> Highly self-motivated and directed.</li><li> Keen attention to detail.</li><li> Ability to effectively prioritize and execute tasks in a high-pressure environment.</li><li> Experience working in a team-oriented, collaborative environment.<br/><br/></li></ul>EDUCATION AND EXPERIENCE:<br/><br/><ul><li> BA/BS in Computer Science, Engineering, or equivalent bachelor’s degree.</li><li> 2-8 years of programming and software development life cycles (e.g. Agile, Scrum).</li><li> 2-8 years of experience with relational database and TSQL structure and development.<br/><br/></li></ul>CERTIFICATIONS, LICENSES, AND/OR REGISTRATION<br/><br/><ul><li> No minimum requirements.<br/><br/></li></ul>PHYSICAL DEMANDS AND WORK ENVIRONMENT<br/><br/>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br/><br/>While performing the duties of this job, the employee is regularly required to sit and use hands to handle, touch or feel objects, tools, or controls. The employee frequently is required to talk and hear. The noise level in the work environment is usually moderate. The employee is occasionally required to stand; walk; reach with hands and arms. The employee is rarely required to stoop, kneel, crouch, or crawl. The employee must regularly lift and/or move up to 10 pounds. Specific vision abilities required by this job include close vision, color vision, and the ability to adjust focus.<br/><br/>EEOC<br/><br/>Pingora Asset Management is an Equal Employment Opportunity employer. All aspects of consideration for employment and employment with the Company are governed on the basis of merit, competence and qualifications without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, or any other category protected by federal, state, or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        71250 - Application Developer<br/><br/>Need Glider Test must be completed<br/><br/>Application Engineer<br/><br/>Pittsburgh, PA-Onsite 3 days per week in Pittsburgh office<br/><br/>12M<br/><br/>Skills: <strong>Software development with WebLogic/WebCenter Portal and Java/J2EE technologies<br/><br/></strong>Bachelor's degree in computer science, engineering or a related discipline, or equivalent work experience required<br/><br/><ul><li> 4 to 7 years of experience in software development required with WebLogic/WebCenter Portal and Java/J2EE technologies</li><li> Experienced in 3-tier, n-tier, cloud computing (AWS), microservices architectures and SOA</li><li> 3+ years of Hands on experience designing and developing microservices using Java/Spring Boot, Node.js</li><li> 3+ years of relevant experience with API concepts and technologies such as REST, JSON, XML, SOAP, YAML, GraphQL, and Swagger</li><li> Develop and build microservices leveraging AWS Cloud Services</li><li> Must have hands on experience in writing RESTful webservices using Spring/JAXRS</li><li> Experience developing within agile methodology using CI/CD pipeline</li><li> Experience supporting and/or implementing complex integration projects</li><li> Experience with Spring Portlet development</li><li> Must have good working knowledge of Html, Ajax, JQuery, Java Script</li><li> Must have experience with Oracle RDBMS. Exposure to PL/SQL is a big plus</li><li> AWS Cloud development experience and AWS Developer Certification highly desired</li><li> Experience with WebCenter ADF Framework and Remote portlet configurations with WebCenter Spaces/Portal is a plus</li><li> Experience implementing top-notch user interfaces using JavaScript and the Angular framework</li><li> Must have working experience with SVN/GIT or with other equivalent source control systems</li><li> Must have working experience as part of a large team with ability to work independently</li><li> Experience configuring Web service security policies is a plus</li><li> Experience with secure coding practices</li><li> Good to have exposure to SOA suite middleware</li><li> Excellent communication and presentation skills</li><li> Experience in the securities or financial services industry is a plus<br/><br/></li></ul>Supplier Call Notes<br/><br/><ul><li> Ginnie Mae project</li><li> Onsite 3 days per week in Pittsburgh (would consider candidates requiring relocation)… would also consider Lake Mary candidates as a secondary option</li><li> Contract to Hire</li><li> Interview process: 1 video interview (1 hour) with panel</li><li> Designing microservices as well as trying to convert screens to Angular</li><li> Work with designer (style sheet changes) and create mock ups</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

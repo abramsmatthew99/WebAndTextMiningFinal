@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Summary:<br/><br/>As a Computer Engineer II (EC2), you will be responsible for designing, developing, testing, and maintaining software and hardware components for computer systems. You will work in a team environment, collaborating with other engineers, developers, and technicians to deliver high-quality solutions that meet customer Software and Hardware needs. Computer software engineers develop new computer software systems and to incorporate new technologies in a rapidly growing range of applications. Computer software engineers apply the principles and techniques of computer science, engineering, and mathematical analysis to the design, development, testing, and evaluation of the software and systems that enable computers to perform their many applications. Software engineers analyze users’ needs and design, construct, test, and maintain computer applications software or systems. Computer software engineers can be involved in the design and development of many types of software, including software for operating systems and network distribution, and compilers, which convert programs for execution on a computer. They also solve technical problems that arise. Software engineers must possess strong programming skills, but are more concerned with developing algorithms and analyzing and solving programming problems than with actually writing code.<br/><br/>Key Responsibilities:<br/><br/><ul><li>Design and develop software and hardware components for computer systems, including microprocessors, memory, and peripherals.</li><li>Conduct research to identify new technologies and techniques that can be used to improve system performance and functionality.</li><li>Test and debug software and hardware components to ensure they meet performance and quality requirements.</li><li>Collaborate with other engineers, developers, and technicians to integrate software and hardware components into larger systems.</li><li>Write technical documentation to describe software and hardware designs, development processes, and testing procedures.</li><li>Provide technical support to customers and other stakeholders, including troubleshooting and issue resolution.</li><li>Stay current with industry trends and technologies, and make recommendations for improvements to existing systems.<br/><br/><br/></li></ul>Qualifications:<br/><br/><ul><li> Target Education Requirements: Bachelor's level degree in Computer, Electrical or Electronics Engineering or Mathematics with field of concentration in computer science.</li><li> Target Work Experience: Five (5) years of professional experience in computer design, software development or computer networks.</li><li> Possess experience regarding the research, design, development, and test of computer hardware and software programs.</li><li>Strong knowledge of computer architecture, programming languages, and software development methodologies.</li><li>Experience with embedded systems and real-time operating systems.</li><li>Familiarity with electronic design automation tools and simulation software.</li><li>Ability to work independently and as part of a team.</li><li>Excellent written and verbal communication skills.</li><li>Strong problem-solving and analytical skills.<br/><br/><br/></li></ul>Certifications/Clearance<br/><br/><ul><li>Must have a current SECRET security clearance.</li><li>Required to meet DOD Directive 8570.1/ Cybersecurity Work Force IAT-1 criteria, (ex: A+ CE, CCNA Security, Network+ CE, SSCP).<br/><br/><br/></li></ul>Certifications:<br/><br/><ul><li>A+ CE, CCNA Security, Network+ CE, SSCP<br/><br/><br/></li></ul>This is an exciting opportunity for a talented computer engineer who is looking to grow their career and work on challenging projects with a highly skilled team. If you are passionate about technology and have a strong desire to create innovative solutions, we encourage you to apply for this position.<br/><br/>Flexible work from home options available.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

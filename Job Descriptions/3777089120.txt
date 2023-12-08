@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you a passionate coder with a knack for solving business problems through innovation and engineering practices? Join our Software Engineering Group, where we value individuals who thrive on accelerating the delivery of high-impact projects that support critical trading workflows.<br/><br/><strong>What You Will Be Doing<br/><br/></strong>Collaborate within a small core team of senior individual contributors dedicated to accelerating project delivery.<br/><br/>Engage directly with stakeholders to comprehend challenges, formulate innovative solutions, and drive successful delivery.<br/><br/>Develop dynamic modern UIs, microservices, and Java architecture, utilizing private and/or public cloud resources (AWS).<br/><br/>Make a significant impact on thousands of clients and expedite project delivery for internal teams.<br/><br/>Collaborate closely with the mutual fund team to pioneer cutting-edge solutions.<br/><br/><strong>Qualifications<br/><br/></strong>Passionate coders with a minimum of 4 years of experience in modern web development.<br/><br/>Strong Full Stack Developer proficiency, particularly with Java Spring Boot, React, HTML, Cypress, and CSS.<br/><br/><strong>Client-facing Or Consulting Experience Is Highly Preferred.<br/><br/></strong>Preferred 2+ years of experience in React UI development, but candidates with strong JavaScript skills are welcome.<br/><br/>4+ years of experience in Java Spring Boot Rest/Microservice API development.<br/><br/>Familiarity with CSS utilities such as LESS, SAS.<br/><br/>Good working knowledge of databases/SQL is preferred.<br/><br/>Development experience on AWS, Cloud Foundry is a plus.<br/><br/>3+ years of Agile development experience with globally distributed teams.<br/><br/>Proven problem-solving skills and a drive to create innovative solutions.<br/><br/>Desirable background in financial services.<br/><br/>Future technology leaders—dynamic individuals energized by fast-paced personal and professional growth.<br/><br/>Phenomenal communicators capable of explaining concepts to both technical and non-technical audiences, including high-level decision-makers.<br/><br/>Bachelor's Degree in MIS, Computer Science, or a comparable major.<br/><br/>Solid foundation in Computer Science, with strong competencies in data structures, algorithms, and software design.<br/><br/>Knowledge and experience in developing software using agile methodologies.<br/><br/>Effective communication skills.<br/><br/>We welcome candidates who share our commitment to innovation, problem-solving, and continuous growth. If you are enthusiastic about making a difference in a dynamic environment, we encourage you to apply. Join us in shaping the future of technology!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

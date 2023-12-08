@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Your Job<br/><br/></strong>Georgia-Pacific is seeking an Automation Engineer to join our team based out of our headquarters in Atlanta, Georgia. The Automation Engineer will report directly to the Infrastructure Reliability and Automation IT Director. Collaborating with other automation talent, you will be responsible for developing a new capability to leverage automation to reduce cost, increase speed of execution, and deliver consistent results. This role will also partner with GP Architect to standardize tools and platforms. Additionally, you will have the opportunity to use your personal knowledge and skills to develop automated processes to address existing problems and opportunities. This role will have the opportunity to change the way infrastructure is deployed and managed across GP and our corporation (Koch Industries). The ideal candidate will have the ability to both work independently and collaborate with a team and prioritize a complex workload. They will also have a passion to apply automation and drive superior business results.<br/><br/><strong>Our Team<br/><br/></strong>The Infrastructure Reliability and Automation team is a group of highly talented infrastructure resources with an expectation to deliver value at the GP enterprise level. Our focus is to deliver always on / always connected’ infrastructure to our business. Your role will focus on advancing automated solutions and creating a culture that embraces automated solutions through partnerships and demonstrated value.<br/><br/><strong>What You Will Do<br/><br/></strong><ul><li>Collaborate with multidisciplinary teams and Business Units to implement and support existing and future automation solutions</li><li>Designing and developing automated processes to deliver consistent results</li><li>Create and maintain automated scripts and workflows using industry-standard automation tools and frameworks</li><li>Developing modern API-based integrations with other applications outside of ServiceNow</li><li>Economically consider opportunities for automation and focus on the highest value</li><li>Consult with customers as the subject matter expert and recommend automation improvements to address cost and reliability</li><li>Stay up to date with industry best practices and emerging automation technologies to ensure our automation strategies remain competitive and effective<br/><br/><br/></li></ul><strong>Who You Are (Basic Qualifications)<br/><br/></strong><ul><li>5+ years of experience in the following:</li><ul><li>Programming languages such as Python, Java, or Ruby.</li><li>Continuous Integration/Continuous Deployment (CI/CD) pipelines.</li><li>Model Driven Programmability, Network Function Virtualization.</li></ul><li>Possess a strong understanding of automation tools and frameworks (e.g., Ansible, Terraform, Puppet, Declarative Configuration)</li><li>Microsoft Excel fluency<br/><br/></li></ul><strong>What Will Put You Ahead<br/><br/></strong><ul><li>5+ years of experience in Network Management, Platform/Device Management, Server/Storage management and/or other infrastructure technologies</li><li>Certification in automation or related technologies</li><li>Bachelor’s degree in computer science, Information Technology, or a related field</li><li>Experience with containerization and orchestration tools (e.g., Docker, Kubernetes).</li><li>Knowledge of scripting languages (e.g., Bash, PowerShell).</li><li>Linux Administration, Containerization, Micro Service Platforms, Cloud Understanding</li><li>Experience with ServiceNow forms, Data Formats (JSON/YAML), Python and APIs (REST), Source Control (git), Config Management (Ansible)</li><li>Knowledge of ITSM best practices and capabilities</li><li>Familiarity with DevOps practices and principles</li><li>Understanding and familiarity with Agile/SCRUM and Dev Ops mindset <br/><br/><br/></li></ul><em>At Koch companies, we are entrepreneurs. This means we openly challenge the status quo, find new ways to create value and get rewarded for our individual contributions. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the range provided considering each candidate's knowledge, skills, abilities, and geographic location. If you have questions, please speak to your recruiter about the flexibility and detail of our compensation philosophy.<br/><br/></em><strong>Hiring Philosophy<br/><br/></strong>All Koch companies value diversity of thought, perspectives, aptitudes, experiences, and backgrounds. We are Military Ready and Second Chance employers. Learn more about our hiring philosophy here.<br/><br/><strong>Who We Are<br/><br/></strong>As a Koch company and a leading manufacturer of bath tissue, paper towels, paper-based packaging, cellulose, specialty fibers, building products and much more, Georgia-Pacific works to meet evolving needs of customers worldwide with quality products. In addition to the products we make, we operate one of the largest recycling businesses. Our more than 30,000 employees in over 150 locations are empowered to innovate every day – to make everyday products even better.<br/><br/>At Koch, employees are empowered to do what they do best to make life better. Learn how our business philosophy helps employees unleash their potential while creating value for themselves and the company.<br/><br/><strong>Our Benefits<br/><br/></strong>Our goal is for each employee, and their families, to live fulfilling and healthy lives. We provide essential resources and support to build and maintain physical, financial, and emotional strength - focusing on overall wellbeing so you can focus on what matters most. Our benefits plan includes - medical, dental, vision, flexible spending and health savings accounts, life insurance, ADD, disability, retirement, paid vacation/time off, educational assistance, and may also include infertility assistance, paid parental leave and adoption assistance. Specific eligibility criteria is set by the applicable Summary Plan Description, policy or guideline and benefits may vary by geographic region. If you have questions on what benefits apply to you, please speak to your recruiter.<br/><br/><strong>Equal Opportunities<br/><br/></strong>Equal Opportunity Employer, including disability and protected veteran status. Except where prohibited by state law, all offers of employment are conditioned upon successfully passing a drug test. This employer uses E-Verify. Please visit the following website for additional information: http://www.kochcareers.com/doc/Everify.pdf<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Paper and Forest Product Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

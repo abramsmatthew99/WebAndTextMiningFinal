@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<span><span>Kolter Solutions is seeking a Senior Data Engineer.<br/><br/></span></span><strong><span><span>Location: </span></span></strong><span><span>Remote<br/><br/></span></span><strong><span><span>Job Description<br/></span></span></strong><span><span>The Senior Data Engineer is a talented, experienced problem-solver, who has experience loading databases using modern data integration tools.<br/><br/>The ideal candidate should be familiar with creating tables, writing stored procedures, functions and building ETL/ELT jobs to load data from disparate systems.<br/><br/>The Sr Data Engineer will be loading data to and from a variety of sources including data marts and transactional applications with conventional ETL/ELT patterns as well as modern data streaming or messaging patterns.<br/></span></span> <br/><strong><span><span>Job duties<br/></span></span></strong><span><span>-Develop and maintain high-performance code based on SQL Server stack, including Stored Procedures, Views, Functions, and table design for transactional and analytic purposes.<br/></span></span><span><span>-Develop and maintain Extract Transform Load jobs (ETL/ELT) and other data integrations<br/></span></span><span><span>-Develop new data solutions and migrate existing on-premise data solutions to cloud platforms such as Azure or GCP<br/></span></span><span><span>-Create Continuous Integration and Continuous Delivery (CI/CD) pipelines to automate delivery of solutions<br/></span></span><span><span>-Provide support for data solutions, including remediation of failed ETL jobs, integrations and investigation of data quality issues.<br/></span></span><span><span>-Data modeling for transactional and analytical platforms.<br/></span></span><span><span>-Work directly with stakeholders to gather requirements and provide status updates and solution support<br/></span></span><span><span>-Ensure data solutions meet or exceed enterprise regulatory and compliance requirements<br/></span></span> <br/><strong><span><span>Qualifications<br/></span></span></strong><span><span>-Bachelor's degree in business, computer science, computer engineering, electrical engineering, system analysis or a related field of study, or equivalent experience.<br/></span></span><span><span>-5+ years experience using Microsoft SQL Server<br/></span></span><span><span>-5+ years experience building data integrations leveraging ETL tools such as SSIS or Talend<br/></span></span><span><span>Familiarity with data integration patterns including ETL/ELT, event messaging and APIs<br/></span></span><span><span>Familiarity with database change capture tools including Change Tracking and Change Data Capture<br/></span></span><span><span>-Familiarity with data modeling patterns<br/></span></span><span><span>-Familiarity with Master Data Management concepts and platforms<br/></span></span><span><span>-Familiarity with data product Software Development Lifecycle (SDLC)<br/></span></span><span><span>-Excellent communications skills.<br/></span></span><span><span>-Excellent analytical and technical skills.<br/></span></span><span><span>-Excellent planning and organizational skills.<br/></span></span><span><span>-The ability to work in a collaborative team environment.<br/></span></span> <br/><strong><span><span>Preferred Qualifications<br/></span></span></strong><span><span>Master's degree in business, computer science, computer engineering, electrical engineering, system analysis or a related field of study, or equivalent experience.<br/><br/></span></span><span><span>10+ years experience with Microsoft SQL stack<br/></span></span><span><span>Experiencing with an Enterprise Architecture and Service Delivery model, such as TOGAF and ITIL<br/></span></span><span><span>Certification in a cloud data engineering curriculum<br/></span></span> <br/><strong><span><span>Kolter Solutions</span></span></strong><span><span> is a leading professional staffing company based in Central Florida. We place highly skilled individuals on a contract, contract-to-hire and direct hire positions at clients nationwide.<br/><br/></span></span><span><span>Kolter Solutions has proudly been recognized as the "2023 <em>Best Places to Work</em>” by the Orlando Business Journal and  "2022 Best Staffing Companies to Work for" by Staffing Industry Analysts (SIA).  We are also in the <strong><em>Fast 50 - 2022 Fastest growing companies in Central Florida</em></strong>!<br/><br/></span></span><span><span>We offer:</span></span><ul><li><span><span>Full Health Benefits</span></span></li><li><span><span>Vision</span></span></li><li><span><span>Dental</span></span></li><li><span><span>401 (k)</span></span></li><li><span><span>Pet Insurance</span></span></li><li><span><span>Life Insurance</span></span></li><li><span><span>Supplemental Benefits such as short-term disability, accidental insurance, and supplemental dental and vision.  </span></span></li><li><span><span>Employee Discounts</span></span></li><li><span><span>Referral Program</span></span></li></ul> <br/><em><span><span>Kolter Solutions is an Equal Opportunity Employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under federal, state or local applicable law.<br/></span></span></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

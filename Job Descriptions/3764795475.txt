@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Exotec is at the forefront of technological excellence, redefining the relationship between humans and robots. Our solutions are contributing to the success of some of the largest brands in retail and e-Commerce by revolutionizing the way they fulfill their orders to the end consumers, all while mitigating labor constraints and increasing workplace safety.<br/><br/>Through the unification of artificial intelligence and high-performance hardware, our robotic solutions are now deployed across the globe and our exponential growth has led us to become the first industrial unicorn in France.<br/><br/>Working at Exotec is an exciting opportunity to give purpose to your skills. Learn and grow with over 600 ExoPeople around the world to help turn your ideas into a reality.<br/><br/><strong>The robotics revolution is just the beginning at Exotec. Will you be part of it?<br/><br/></strong><strong>Responsibilities<br/><br/></strong><ul><li>Provide first level contact and convey resolutions to user issues</li><li>Provide orientation and guidance to users on how to operate new software and computer equipment</li><li>Conduct remote and local troubleshooting for all members of the business unit</li><li>Identify and suggest possible improvements on procedures</li><li>Install, configure and manage network servers, endpoints and IT tools</li><li>Monitor performance and maintain systems according to requirements</li><li>Apply and monitor security processes defined by the global IT operations team</li><li>Ensure good performance of our fleet of computers</li><li>Implement corrective measures when necessary<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>BS degree in Information Technology, Computer Science or equivalent</li><li>Previous work experience assisting internal users as a Desktop Support Engineer, Technical Support Engineer or similar role, ideally within an international scale-up setting</li><li>Hands-on experience with Windows and Linux (Ubuntu, Nginx, PostgreSQL)</li><li>Knowledgeable in Azure Active Directory</li><li>Good knowledge of LAN/WAN networks, TCP/IP protocols and network technologies: VPN IPsec, OpenVPN, Firewall, etc. </li><li>An understanding of AWS IT infrastructure</li><li>Ability to perform remote troubleshooting and provide clear instructions</li><li>Excellent problem-solving and multitasking skills</li><li>Knowledge of network security practices</li><li>Tech savvy with working knowledge of office automation products, databases and remote control<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Stock option plan and company performance based bonus</li><li>Comprehensive medical, dental and vision coverage</li><li>Generous holiday pay and time off</li><li>Retirement savings plan (401(k))</li><li>Numerous training and development opportunities <br/><br/></li></ul>Exotec is an equal opportunity employer and all applicants will be considered without regard to race, religion, color, sex, gender, sexual orientation, pregnancy, age, national origin, ancestry, physical or mental disability, medical condition, military or veteran status, genetic information, marital status, ethnicity, or any other protected classification, in accordance with applicable federal, state, and local laws. We provide an inclusive work environment that respects all differences.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Robotics Engineering
+          </span>
+</li>
+</ul>
+</div>
+</section>

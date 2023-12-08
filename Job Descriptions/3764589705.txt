@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Hello,<br/><br/>Momento USA is a global technology consulting, talent acquisition and creative development firm that addresses clients most pressing needs and challenges.<br/><br/>We currently looking for <strong>UI Developer</strong>. Please see the job description below for your reference.<br/><br/><strong>Position: UI Developer<br/><br/></strong><strong>Location: TX - VIRTUAL SUITE 2200, HERITAGE PLAZA - 1107006 (1107006)<br/><br/></strong><strong>Period: 12/18/2023 to 03/31/2024<br/><br/></strong><strong>Maximum Submissions per Supplier: 2<br/><br/></strong><strong>Job Description<br/><br/></strong>We are seeking a highly skilled and motivated <strong>Full Stack Developer</strong> with expertise in React for the <strong>frontend</strong> and <strong>Node.js</strong> (Express or Factify) for the backend. You will play a pivotal role in developing and maintaining our web applications and ensuring seamless communication between the server and user-facing elements.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Design, develop, and maintain efficient, reusable, and reliable code for both the frontend and backend components.<br/><br/>Collaborate closely with cross-functional teams to understand business requirements and translate them into technical specifications.<br/><br/>Implement and maintain state-of-the-art user interfaces using React, ensuring an excellent user experience.<br/><br/>Develop and optimize server-side applications using Node.js, with a focus on performance, scalability, and security.<br/><br/>Write unit and integration tests to ensure the quality and reliability of code.<br/><br/>Debug and troubleshoot issues across the entire stack, from frontend UI to backend services.<br/><br/>Work with version control systems (e.g., Git) and continuous integration/delivery tools.<br/><br/>Stay up-to-date with the latest industry trends and technologies to make informed recommendations and improvements.<br/><br/><strong>Requirements<br/><br/></strong>Bachelor's degree in Computer Science, Engineering, or related field, or equivalent work experience.<br/><br/>Proven experience working as a Full Stack Developer (at least 8 years of experience), with a strong portfolio showcasing React and Node.js projects.<br/><br/>Proficiency in frontend technologies, including React, JavaScript, HTML, and CSS.<br/><br/>Strong knowledge of server-side technologies, particularly Node.js and frameworks like Express or Fastify.<br/><br/>Familiarity with RESTful API design and best practices.<br/><br/>Experience with database systems, such as SQL or NoSQL databases.<br/><br/>Solid understanding of version control, particularly Git.<br/><br/>Knowledge of cloud platforms (e.g., AWS, Azure) is a plus.<br/><br/>Strong problem-solving skills and the ability to work both independently and in a team.<br/><br/>Excellent communication and collaboration skills.<br/><br/>Best Regards,<br/><br/><strong>Sunitha Thapa<br/><br/></strong><strong>Momento USA</strong> | Exceeding Customer Expectations<br/><br/>440 Benigno Blvd, Unit#A 2nd Floor. Bellmawr, NJ 08031<br/><br/>Interstate Business Park<br/><br/><strong>Desk </strong>856 372 4625, 856-456-1805 Ext 1025<br/><br/><strong>Email:</strong> sunitha@momentousa.com | Sunitha's LinkedIn<br/><br/><strong>Web:</strong> www.MomentoUSA.com
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

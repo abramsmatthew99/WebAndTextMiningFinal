@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>ConGlobal is a leading transportation &amp; logistics company that specializes in full stack of terminal operation services with advanced, technology-enabled systems and processes. We are dedicated to fostering innovation and growth, and we are committed to providing exceptional learning opportunities for emerging talent in the field of computer science. As part of our commitment to nurturing the next generation of engineers, we are excited to offer a dynamic engineering internship program.<br/><br/>As a part-time Engineering Intern at ConGlobal, you will have the unique opportunity to gain hands-on experience in a fast-paced, real-world environment. Our internship program is designed for students currently pursuing a degree in a computer science-related field. This program offers exposure to a wide range of technical disciplines, allowing you to apply your classroom knowledge to meaningful projects and collaborate with our experienced engineering team.<br/><br/><strong>Responsibilities<br/><br/></strong><strong> Key Responsibilities: <br/><br/></strong><ul><li> Collaboration: Work closely with our engineering team to design, develop, test, and deploy innovative solutions that address real-world challenges. </li><li> Coding and Development: Write clean, efficient, and maintainable code in various programming languages, depending on project requirements. </li><li> Research and Analysis: Conduct research to understand industry trends, emerging technologies, and best practices, and contribute your findings to the team. </li><li> Problem-Solving: Analyze complex technical issues, troubleshoot problems, and propose effective solutions. </li><li> Documentation: Create and maintain documentation for projects, including code documentation, project reports, and user guides. </li><li> Testing and Quality Assurance: Assist in testing and quality assurance efforts to ensure the reliability and performance of software applications and systems. </li><li> Mentorship: Receive mentorship and guidance from experienced engineers, fostering your professional growth and development. </li><li> Presentations: Have the opportunity to present your work, progress, and findings to the team and, in some cases, to company leadership. <br/><br/></li></ul><strong>Additional Information<br/><br/></strong><ul><li> This is a part-time internship position. </li><li> Successful interns may have the opportunity to be considered for full-time positions upon graduation, based on performance and business needs. </li><li> ConGlobal is an equal opportunity employer and welcomes applications from individuals of all backgrounds. </li><li> The internship program is designed to provide a comprehensive learning experience, with opportunities for skill development, mentorship, and networking. </li><li> Interns will work at our office located at 2549 Success Drive, Odessa, FL 33556, and may have the chance to work on-site or remotely, depending on the project and current public health guidelines. <br/><br/></li></ul><strong> Note: </strong> This job description is intended to convey information essential to understanding the scope of the internship. It should not be seen as an exhaustive list of duties, skills, efforts, or qualifications. We encourage all qualified applicants to apply.<br/><br/>At ConGlobal, we are dedicated to empowering the next generation of computer science professionals. Join us and embark on an exciting journey toward professional growth and innovation.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li> Current enrollment in a computer science-related degree program (e.g., Computer Science, Software Engineering, Computer Engineering, etc.). </li><li> Strong programming skills in one or more languages, such as Python, Java, C++, or JavaScript. </li><li> Excellent problem-solving and analytical abilities. </li><li> Effective communication and teamwork skills. </li><li> A passion for technology and a desire to make a meaningful impact in the field.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title:</strong> Big Data AI Developer<br/><br/><strong>Experience Required:</strong> 3-5 years<br/><br/><strong>Job Summary<br/><br/></strong>We are seeking a skilled Big Data AI Developer to join our Big Data team. The role involves designing and deploying AI models using machine learning and deep learning techniques within big data environments. You will work with distributed computing technologies to create scalable and efficient AI solutions.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Develop AI models using supervised, unsupervised, and semi-supervised learning techniques.</li><li>Design and implement end-to-end machine learning pipelines from data ingestion and preprocessing to model training, evaluation, and deployment.</li><li>Utilize TensorFlow, PyTorch, and other frameworks for building deep learning models applicable to computer vision, NLP, and other AI domains.</li><li>Manage and optimize Spark-ML and Flink-ML jobs within distributed environments for large-scale machine learning tasks.</li><li>Implement NLP and computer vision algorithms to solve complex problems in data analytics.</li><li>Engage in graph-based machine learning using Neo4j to uncover insights from connected data.</li><li>Work with the Cloudera suite to maintain and manage big data workflows, ensuring compatibility with AI model requirements.</li><li>Optimize data storage and processing using technologies like Kafka, HDFS, HBASE, KUDU, and Cloudera Machine Learning.</li><li>Collaborate with infrastructure teams to deploy models using cloud-native technologies and Kubernetes orchestration.</li><li>Develop custom data models and algorithms, and apply advanced Python programming skills to solve challenging data science problems.</li><li>Stay current with AI research and implement novel algorithms that can contribute to business goals.</li><li>Collaborate with stakeholders to understand business challenges and translate them into technical solutions.</li><li>Ensure models comply with data privacy and security regulations, applying best practices in data governance.</li><li>Run AI Models on GPUs, tweak Models to utilize distributed GPUs. </li><li>Design and implement robust MLOps (Machine Learning Operations) workflows to automate the machine learning lifecycle, from data collection and model development to deployment and monitoring, ensuring continuous integration and delivery (CI/CD) for AI products.<br/><br/></li></ul><strong>Technical Qualifications<br/><br/></strong><ul><li>Strong expertise in machine learning and deep learning with frameworks like TensorFlow and PyTorch.</li><li>Experience with distributed data processing frameworks, particularly SPARK-ML and Flink-ML.</li><li>Proficient in Python for data science, with a solid understanding of libraries and toolkits for AI and machine learning.</li><li>Experience in RAPIDS &amp; GPU-Aware Scheduling. </li><li>Familiarity with Cloudera Data Services and the broader Cloudera suite in a big data context.</li><li>Proven ability in leveraging Kubernetes for deploying scalable AI applications.</li><li>Knowledgeable in advanced areas of AI, such as large language models (LLM), and the ability to apply them to real-world scenarios.</li><li>Experience with computer vision, NLP, and graph-based machine learning techniques.</li><li>Understanding of data management practices and ETL processes within distributed environments.<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li>Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or related fields.<br/><br/></li></ul><strong>Certifications<br/><br/></strong><ul><li>Relevant certifications in AI, big data technologies, or Kubernetes are advantageous.<br/><br/></li></ul><strong>Soft Skills<br/><br/></strong><ul><li>Excellent problem-solving ability and critical thinking skills.</li><li>Strong communication skills for effectively conveying complex technical concepts.</li><li>Team-oriented mindset with experience working in collaborative environments.</li><li>Commitment to continued exploration and staying abreast of emerging AI technologies.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

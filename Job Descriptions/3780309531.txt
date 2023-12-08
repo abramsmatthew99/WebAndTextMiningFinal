@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Dordt University is currently seeking a computer science faculty member to serve in a growing computer science program that offers a computer science major with flexibility to select curricular options related to software engineering and development, systems administration, business analytics and programming, data science, device programming, graphics animation, or computational mathematics. The program also supports student preparation in the related fields of electrical and computer engineering, geographical information systems, bioinformatics, industrial automation, and precision agriculture. The department seeks candidates with qualifications and experience in either computer science, software development, systems administration, data science or related computer science field with a willingness to support general and introductory computer science instruction related to their background.<br/><br/><strong>Responsibilities: </strong>Dordt faculty advance the mission of the university through contributions to Reformational teaching and scholarship, student recruitment and retention, campus and community service, Core program support, and ongoing professional and program development.<br/><br/><ul><li>Teaching opportunities include introductory and advanced courses in computer science, data science, or computer engineering in topics aligned with the candidate's experience and qualifications.</li><li>Our professors engage in scholarship and academic service within Dordt University's growing and highly collaborative community of faculty and students. The successful candidate will regularly involve students in design, consulting, or research projects with industry partners and engage in other scholarly activity central to the mission of the program.<br/><br/></li></ul><strong>Qualifications: </strong>Experience as a practicing industry professional will be favorably considered. Applicants with a bachelor's degree in computer science with exceptional field experience and professional certification will be considered; a master's or Ph.D. degree in computer science or related field with industry experience is preferred.<br/><br/><strong>To apply: </strong>Qualified persons committed to a Reformational Christian perspective and educational philosophy are encouraged to read the detailed job description and follow the full-time application process at the link below. Review of applications will begin immediately and continue until the position is filled.<br/><br/>https://www.dordt.edu/about-dordt/job-openings<br/><br/><em>Dordt University endeavors to diversify its staff within the framework of its mission. The commitment of the university to nondiscrimination on the basis of age, color, disability, gender, national or ethnic origin, or race is consistent with federal and state requirements for nondiscrimination in employment.<br/><br/></em><strong><em>Job Posted by ApplicantPro</em></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

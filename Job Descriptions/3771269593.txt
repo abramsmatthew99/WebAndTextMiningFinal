@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Location: <strong>Remote</strong> anywhere in the continental US (lower 48 states). Cannot work outside of the U.S.<br/><br/>Contract to Hire, Long term Contract<br/><br/><strong>Job Description:<br/><br/></strong>We are supporting a Senior Director in the Quality Assurance space, who is looking for a talented, <strong>Lead Data SDET</strong>.<br/><br/>Our client works in a Big Data department that processes north of 250 Billion market events/day. This groups handles massive amounts of financial data and more projects and work are appearing in the Crypto/Blockchain space. Our client is looking for a Lead Data SDET that has a data engineering background mixed in with Quality assurance.<br/><br/><strong>Requirements:<br/><br/></strong><ul><li>7+ years of experience.</li><li>Bachelor of Science in Computer Science or related field.</li><li>Very strong programming skills in Scala, Java and/or Python.</li><li>Strong experience and knowledge of Spark/Spark SQL.</li><li>Experience writing automated tests and building test frameworks from scratch.</li><li>AWS experience is a must EMR, S3, DynamoDB.</li><li>Experience with Data pipeline tools like Airflow or DBT.</li><li>Data engineering/ETL experience.</li><li>Strong communication skills.</li><li>Proactive and strong sense of ownership and self-reliance.<br/><br/></li></ul><strong>Preferred Experience:<br/><br/></strong><ul><li>Crypto/Blockchain QA Experience.</li><li>Exposure to Behaviour Driven Development and experience in programming and testing.</li><li>The ability to recognize risks and errors in an application.</li><li>Excellent verbal and written communication skills.</li><li>Good time management and organizational skills.</li><li>The ability to keep current with the constantly changing technology industry.</li><li>A passion for testing, development, and design.<br/><br/></li></ul>Powered by JazzHR<br/><br/>L6OZrEZ8QE
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

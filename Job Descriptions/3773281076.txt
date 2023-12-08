@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Company Overview:<br/><br/></strong>As a Business Analyst with a specialization in documentation at Qualer, Inc., you will play a pivotal role in bridging the nuances of our comprehensive SaaS platform with the practical needs of our service providers and clients. Your ability to decipher complex processes, combined with a passion for creating precise and accessible documentation, will be instrumental in ensuring that stakeholders at all levels can interact with our platform effectively. This role demands not just an eye for detail but also a deep understanding of our software's multifaceted features, as you'll be responsible for crafting documents that capture both the overarching system architecture and the intricate functionalities within. At Qualer, your contributions will be at the forefront, guiding our users and facilitating seamless experiences. Embrace the opportunity to be a cornerstone in a dynamic environment where technology meets utility.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li> Comprehensive Documentation:</li><li> Develop detailed documentation covering system architecture, application flow, and design specifications. </li><li> Create clear business processes, user guides, best practices, and FAQ sections. </li><li> Draft request requirements, Statements of Work (SOWs), and other pertinent technical documents. </li><li> Requirements Gathering:</li><li> Collaborate closely with product owner and stakeholders to ascertain and document their requirements. </li><li> Analyze system prerequisites and identify potential bottlenecks or issues. </li><li> Feature Requests:</li><li> Develop and record feature requests based on identified business needs and system potential. </li><li> Work in tandem with developers and project managers to ensure clear understanding and execution of features. </li><li> Stakeholder Communication:</li><li> Act as a conduit between technical teams and non-technical stakeholders. </li><li> Translate intricate technical terms into accessible language for diverse audiences. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong>Lab experience with equipment calibration, equipment lifecycle management, and/or working in the biotechnology industry.<br/><br/>Bachelor’s degree in business, Computer Science, Information Systems, or a related domain.<br/><br/>Robust analytical and problem-solving capabilities.<br/><br/>Outstanding written and verbal communication prowess.<br/><br/>Commitment to generating top-tier documentation with meticulous detail.<br/><br/>Solid organizational abilities with the knack to juggle multiple projects concurrently.<br/><br/>Preferred Qualifications:<br/><br/>Prior exposure to a similar role focusing on business analysis and documentation.<br/><br/>UI/UX experience designing and wireframing interfaces.<br/><br/>What We Offer:<br/><br/><strong>A Competitive Compensation And Benefits Package.<br/><br/></strong>Opportunities for professional evolution and enhancement.<br/><br/>A vibrant and inclusive workspace.<br/><br/>The privilege of contributing to the expansion of Qualer, Inc.<br/><br/><strong>Application Instructions:<br/><br/></strong>To become a part of our dynamic team, please forward your resume, an introductory letter highlighting your relevant experience, and samples of your previous documentation/writing work (if available) to our application portal/email. We are eager to explore how your expertise aligns with Qualer, Inc.'s goals.<br/><br/>Note: Qualer, Inc. is an equal opportunity employer. We respect and seek diversity in our team, ensuring that all candidates are considered for employment without any bias related to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br/><br/><strong>Company Description<br/><br/></strong>Qualer is a fast-growing technology company that offers a transformative cloud-based asset and service management B2B SaaS platform focused on life science and other regulated industries. We are at the forefront of the SaaS market, focusing on helping our customers to streamline their operations while providing a better customer experience for all parties involved ...and we could sure use your leadership and experience.<br/><br/>Qualer is a fast-growing technology company that offers a transformative cloud-based asset and service management B2B SaaS platform focused on life science and other regulated industries. We are at the forefront of the SaaS market, focusing on helping our customers to streamline their operations while providing a better customer experience for all parties involved ...and we could sure use your leadership and experience.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

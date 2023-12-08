@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Department: </strong>Application Software<br/><br/><strong>Employment Type: </strong>Internship<br/><br/><strong>Location: </strong>Irvine, California<br/><br/><strong>Compensation: </strong>$70,000 - $85,000 / year<br/><br/><strong>Description<br/><br/></strong>Turion's mission is to build a sustainable future in space. Turion launched its first DROID satellite in June of 2023 and will launch its next in October of 2024. As a Machine Learning Integration Intern, you will help rapidly prototype, mature, and monitor ML/CV solution that are integral to Turion's Space Domain Awareness data products. You will work on integrating those solutions into Turion's infrastructure pipeline with a small ML team that operates at the junction of R&amp;D and deployment.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Contribute to the research, design, implementation, and testing of CV and/or AI/ML software</li><li>Analyze large datasets used for AI/ML model development</li><li>Identify opportunities to improve AI/ML model performance and efficiency</li><li>Assist in the deployment of AI/ML models onto AWS</li><li>Contribute to the deployment of MLOps processes and techniques</li><li>Assist in the development of automated methods for responsible AI monitoring and best practices<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>Strong experience in Python</li><li>Hands-on experience in prototyping and maturing ML algorithms</li><li>Comfort working in a fast-paced, self-driven entrepreneurial workplace</li><li>Enrolled in a Computer Science degree or a related field.<br/><br/></li></ul><strong>Preferred Skills And Experience<br/><br/></strong><ul><li>Experience working with AWS</li><li>Experience working with Docker</li><li>Experience designing and building microservices</li><li>Experience with Jira or other defect-tracking software</li><li>Experience building complex systems that have been successfully delivered to customers</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

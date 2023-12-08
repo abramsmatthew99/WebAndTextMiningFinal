@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title: </strong>Computer Science Intern<br/><br/><strong>Location:</strong> College Park, Maryland (across the street from campus)<br/><br/><strong>Who We Are:<br/><br/></strong>Rackner is a software consultancy that builds cloud-native solutions for startups, enterprises, and the public sector. We are an energetic, growing consultancy with a passion for solving big problems for both startups and enterprises. We enable digital transformation for large organizations through the newest in distributed technologies as we are laser focused on end-to- end application development, DevSecOps, AI/ML and systems architecture and our methodology focuses on cloud-first and cost-effective innovation. Our customers hail from a diverse, ever-growing list of industries. We work with small startups, hyper-growth companies, and some of the largest enterprises.<br/><br/><strong>Position Overview:<br/><br/></strong>As a Computer Scientist Intern at Rackner, you will have the chance to work closely with our team of experienced computer scientists and engineers on challenging and impactful projects. You will be involved in research, development, and problem-solving, helping to shape the future of technology. This internship is designed to provide you with valuable real-world experience in a supportive and innovative environment. The primary objectives will be around automation of business processes and conducting research and development for DevSecOps tools. We intend to hire many interns with similar responsibilities.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li>Collaborate with the R&amp;D team to design, develop, and implement software solutions and algorithms. </li><li>Conduct research on emerging technologies and industry trends to support project development. </li><li>Assist in troubleshooting and debugging software issues. </li><li>Participate in coding, testing, and documentation of software components. </li><li>Analyze and interpret data to generate insights and support decision-making. </li><li>Work on cross-functional projects and contribute to team discussions. </li><li>Learn and apply computer science principles to solve complex problems. </li><li>10 hours/week during the school year, 40 hours/week in the summer, &gt;51% of the time will be in office<br/><br/></li></ul><strong>Qualifications:</strong> <br/><br/><li>Currently pursuing a Bachelor's or Master's degree in Computer Science or a related field. </li><li>Strong programming skills in languages such as Python, Java, C++, or similar. </li><li>Familiarity with data structures, algorithms, and software development methodologies. </li><li>Excellent problem-solving and critical-thinking abilities. </li><li>Strong communication and teamwork skills. </li><li>Eagerness to learn and adapt in a fast-paced and evolving tech environment. </li><li>Passion for technology and a desire to contribute to innovative projects. </li><li>Must be able to prove HUBZone occupancy in the current year* within the first week of employment using one of the following methods</li><ul><li>Lease covering March 26-September 23</li><li>Drivers License acquired before March 26</li><li>Voter Registration Card acquired before March 26</li><li>Students at the University of Maryland likely reside in a HUBZone, if you aren't sure, the map can be found here (https://maps.certify.sba.gov/hubzone/map)<br/><br/></li></ul><strong>Additional Info/Benefits<br/><br/></strong>Rackner embraces and promotes employee development and training and covers the cost of certifications relevant to a position and the technologies/services provided. Fitness/Gym membership eligibility, weekly pay schedule and employee swag, snacks, &amp; events are offered as well!<br/><br/><ul><li>401k with 100% matching up to 6%</li><li>Highly competitive PTO</li><li>Great health Insurance with large network of providers</li><li>Medical, Dental and Vision</li><li>Life insurance, and short + long term disability</li><li>Industry-Leading Weekly Pay Schedule</li><li>Home office &amp; equipment plan</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Details<br/><br/></strong><strong>Description<br/><br/></strong>The Internist<br/><br/>Internist will learn planning and delivery of customer support services including installation, consultation, troubleshooting, user assistance, and training. Functions may include diagnosing and resolving problems in response to customer reported incidents; planning and analysis of work processes; researching and reporting trends and patterns of problems; developing training materials and performing information system training sessions; installing, troubleshooting, and maintaining hardware and software; performing backup and recovery operations; consulting with users to identify needs and requirements; conducting feasibility studies and trade-off analyses.<br/><br/><strong>Responsibilities<br/><br/></strong>INTERN DUTIES AND RESPONSIBILITIES:<br/><br/><ul><li> Learning process provisioning/de-provisioning and transfer requests in a timely and complete manner, including Active Directory, email, network storage accounts and other system/software access and memberships</li><li> With guidance learn provisioning of laptops, desktops, desk phones, tablets/cell phones for all new users</li><li> Learn how to keep Laptop/Desktop image up to date with latest software versions</li><li> Learn how to process urgent deactivation or reactivation security requests from Human Resource departments</li><li> Learn how to modify accounts when required, including update of asset inventory, which will become the authoritative source for information related to a user (hardware and software)</li><li> Learn how important to document support-related processes and procedures (SOP)</li><li> Learn how to work with end users to evaluate and solve technical problems using all tools provided, including remote access tools, VPN, and RMM solutions</li><li> Provide knowledge- based article information to be documented when processes/fixes can be made available to end users, but also to other support teams who may be able to resolve the ticket first</li><li> Learn how to be the primary escalation point technology issues that are unable to be resolved by Tier-1 and Tier-2 support staff, work directly with system engineer to diagnose higher level issues and future systems</li><li> Help provide quarterly reports to review authorized access within an environment and take corrective action when necessary</li><li> Learn how to manage ticket queue to meet SLAs and provide clear, concise notes on all tickets for all internal tickets, systems alerts from Systems Engineering team</li><li> Analyze and determine the applicability of electronic data processing data, to draw conclusions and make appropriate recommendations</li><li> Determine proper format for assembling items of information in accordance with established procedures</li><li> Ability to adjust to changing situations to meet emergencies or changing program or production requirements<br/><br/></li></ul><strong>Knowledge, Skills, And Abilities<br/><br/></strong><ul><li> Must have in-depth knowledge and hands-on experience (3-5 years) in user account management or IT in a fast-paced enterprise environment using the following technical tools: Active Directory Management Tool and or Office365 Administrative Center</li><li> A+, NET+ certification is a plus</li><li> Strong hands-on experience, extensive knowledge of Windows 10, hardware / software, and Microsoft Office 365 functionality</li><li> Hands on experience and knowledge with IT service management ticketing systems</li><li> Excellent customer skills are a must as well as strong aptitude to learn and adapt to new technologies</li><li> Strong attention to detail</li><li> Excellent verbal, interpersonal and written communication, and documentation skills</li><li> Must be able to interact with customers professionally and diagnose problems to lead customers through the necessary steps to correct their issues</li><li> Strong customer and team orientation with a focus on collaboration, an ability to work independently, and a high level of professionalism and quality</li><li> High attention to detail with the ability to manage multiple priorities</li><li> Ability to follow and give oral and written instructions in a precise, understandable manner</li><li> Associates Degree or Bachelor’s Degree in computer science, Information Systems, Business Administration or other related field, or equivalent work experience<br/><br/></li></ul><strong>Required<br/><br/></strong>EDUCATION AND REQUIREMENTS:<br/><br/><ul><li> Undergraduate student in good standing</li><li> Advanced proficiency in Microsoft Office (Outlook, Word, Excel, PowerPoint) and Google</li><li> Strong ability and desire to take initiative with assignments and work through ambiguity with changing priorities</li><li> Ability to communicate effectively with all levels throughout the organization, as well as outside of the organization</li><li> Excellent organizational and follow up skills, as well as the ability to work independently with minimal supervision<br/><br/></li></ul><strong>Preferred<br/><br/></strong><ul><li> Proven ability to maintain good working relationships with stakeholders including senior leaders</li><li> Strong verbal and written communication skills</li><li> Experience dealing with multiple priorities and deadlines / proven ability to meet hard deadlines<br/><br/></li></ul><strong>Travel<br/><br/></strong><ul><li> As needed<br/><br/></li></ul><strong>Physical Requirements<br/><br/></strong><ul><li> Prolonged periods sitting at a desk and working on a computer</li><li> Must be able to lift up to 55 pounds at times<br/><br/></li></ul>The Parker Companies is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture. Parker’s does not discriminate on the basis of disability, veteran status or any other basis protected under federal, state, or local laws.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

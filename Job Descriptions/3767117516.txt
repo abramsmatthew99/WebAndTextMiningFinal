@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        LinQuest is seeking a Web Application Software Developer Intern to join our team in our El Segundo, CA office. This will be an on-site position.<br/><br/>LinQuest is seeking a Web Application Software Developer Intern to join our team in our El Segundo, CA office. This internship will span from June 1, 2023, through August 31, 2023, with the potential to go part time past this period.<br/><br/>This intern will support and develop updates to the MSEIT Integrated Data Environment (IDE), also known as the Enterprise MSEIT Collaboration and Communication (eMC2) tool. This intern will also learn professional skills related to teamwork, coordination, and communication. They will expand their skills in relevant technologies and languages through personal research and share that knowledge with the MSEIT team.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Communicate and coordinate with users to understand their business needs.</li><li>Identify web app strategies and design approaches.</li><li>Identify steps and build items needed to achieve capability.</li><li>Prototype solutions on a SharePoint 2016 server, identify and run appropriate test cases.</li><li>Demonstrate prototype solutions to the product owner, and verify solutions are deployed correctly</li><li>Update the task status backlog, update associated feature documentation, and provide weekly status updates to management.<br/><br/></li></ul><strong>Required Skills And Experience<br/><br/></strong><ul><li>You must be a college student in good standing, enrolled in a 4-year university in your Senior year (preferably graduating in Summer 2024, Fall 2024 or Winter 2024)</li><li>Pursing a Bachelors degree in (Computer Science or Engineering)</li><li>You must have a minimum college GPA requirement of 3.00 on a 4.00 scale. If you are selected for an internship, you must maintain a cumulative GPA of 3.00 after each completed semester/term</li><li>Must be a U.S. citizen with the ability to obtain a DoD security clearance is required to be considered for this position<br/><br/></li></ul><strong>Compensation<br/><br/></strong><ul><li>Starting hourly pay for this position is $24 an hour<br/><br/></li></ul><strong>Why LinQuest?<br/><br/></strong>LinQuest Corporation has a stellar 40-year track record of providing end-to-end system-of-systems (SoS) architecture definition, engineering design, integration and test, and operations expertise to enable full lifecycle development and deployment of pre-eminent Space, Air, Land, Sea, Ground, and Cyberspace game-changing capabilities across US DOD and IC Customers’ portfolios. Unique combination of in-depth domain knowledge, lessons learned-honed best practices, and mission-specific applications of principles, tools, and techniques of Digital Engineering (DE), DE Ecosystem (DEE), and Model-Based Systems Engineering (MBSE) set LinQuest apart from the competition to consistently deliver stellar high-value results for our customers. LinQuest’s corporate vision and values place the employee at the center of utmost customer satisfaction, strategic business growth, and tactical execution excellence. Our employees’ creative and inspirational drive, sense of fulfillment of personal and professional growth, and tightknit camaraderie within and across lines of business are essential in gaining and maintaining exceptional LinQuest corporate-wide results of new business awards and renewed contracts.<br/><br/><strong>Benefits<br/><br/></strong>LinQuest offers comprehensive and competitive benefit offerings to our team members to include medical, dental, vision, retirement, paid time off, tuition reimbursement, company paid life insurance, and more! For additional information please visit: https://www.linquest.com/careers/our-benefits
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

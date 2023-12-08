@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Responsibilities<br/><br/>Supports college IT operations by designing, implementing, monitoring, securing, and documenting enterprise systems in virtual datacenter and cloud environments while serving as primary systems administrator for virtualization, email, network storage, and backup systems. Provides systems-level support to helpdesk, developers, database administrators, and network personnel and develops scripts to automate tasks, manage systems, and audit security controls.<br/><br/>Knowledge and technical expertise in information systems to include: analysis, design, testing, security and maintenance. Experienced knowledge of computer hardware, software, operating systems, scripting languages, and other information technology tools/resources to include: Windows, AIX, Linux, and VMWare servers; Storage Area Networks; Exchange Server; Active Directory; Azure/ M365; and PowerShell. Knowledge in system backups and disaster recovery.<br/><br/>Midlands Technical College is dedicated to providing excellent service to its students, employees, and the community.<br/><br/><strong>This position is located on the Beltline Campus in the Information Resource Management department.<br/><br/></strong><strong>Minimum And Additional Requirements<br/><br/></strong>A bachelor's degree in computer science or related field and experience in computer system development and modification. Relevant experience may be substituted for bachelor's degree on a year-for-year basis.<br/><br/><strong>Preferred Qualifications<br/><br/></strong>A bachelor’s degree in computer science, information security, information systems, or related field and three (3) years of relevant experience in systems administration; or an equivalent associate's degree and five (5) years of equivalent experience in systems administration.<br/><br/>Additional Comments<br/><br/><strong>DIVERSITY STATEMENT: </strong>Midlands Technical College (MTC) believes diversity, equity, and inclusion are key pillars in achieving success in the classroom, workplace, and beyond. The college is committed to attracting and retaining a diverse group of faculty and staff as well as fostering a climate where all individuals and groups feel welcomed, valued, and heard. Through this commitment, MTC is maintaining a working and learning environment that fosters empathy, critical thinking, and cultural understanding.<br/><br/><strong>EEO STATEMENT: </strong>It shall be the policy of Midlands Technical College to make employment decisions (recruitment, hiring, promotion, compensation, training, benefits, and all other terms and conditions of employment) without discrimination on the basis of race, sex, sexual orientation, national origin, ethnic group, color, age, religion, disability, genetic information, gender, gender identity, military service, pregnancy, childbirth, or related medical conditions including but not limited to lactation, or any other category protected by applicable law.<br/><br/>In accordance with South Carolina state law, Midlands Technical College is also committed to making qualified veterans a priority for employment.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

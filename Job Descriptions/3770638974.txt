@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Summary:</strong></p><p>Our client is seeking a R&amp;D IT Systems Support Specialist who will provide end user support, troubleshooting, issue tracking and software documentation, monitoring for R&amp;D hardware and software automation teams.</p><p><br/></p><p><strong>Duties:</strong></p><ul><li>Work with the enterprise networking team for necessary configurations and support networked laboratory computers, instruments, and troubleshoot connections where needed while coordinated with the enterprise domain teams</li><li>Ensure continuous monitoring of all laboratory data operations</li><li>Implement backup procedures and restore activities for the laboratory environment for short- and long-term retention of instrument data</li><li>Support the laboratory PC sign-on facility that has been set up so that all data is stored centrally</li><li>Support and troubleshoot barcode scanners and label printers</li><li>Work closely with researchers to support GLP related activities, validation requirements, and maintain GLP-related documentation</li></ul><p><br/></p><p><strong>Desired Skills/Experience:</strong></p><ul><li>Computer science degree, certifications, or business degree IT with 3+ years of experience</li><li>Hands on corporate IT networking experience</li><li>Strong hands-on knowledge of Linux, Windows 10, 7 and Windows XP and ability to deploy desktop functional PC images, rebuilds from scratch, virtual ESXi and NAS storage supporting</li><li>Ability to work with scientists to specify data management workflows and order specialized laboratory hardware, devices and software supporting as needed for new scientific instrumentation and automations being acquired</li><li>Strong knowledge of network data topologies</li><li>Experience in GLP regulated laboratory IT environments is preferred, or ability to quickly learn the unique requirements and procedures involved in validated systems</li><li>Application database understanding of SQL or Oracle related R&amp;D software</li><li>LIMS niche is preferred</li></ul><p><br/></p><p><strong>Benefits:</strong></p><ul><li>Medical, Dental, &amp; Vision Insurance Plans</li><li>401K offered</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology, Consulting, and Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

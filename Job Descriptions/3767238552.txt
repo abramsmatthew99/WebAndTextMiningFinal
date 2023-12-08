@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong><strong>Job Description<br/><br/></strong>This is an amazing opportunity for someone to collaborate with a team of analysts that deliver valuable data and insights for digital marketing and operations. Every day will be an information scavenger hunt on how we can make people's jobs more efficient, improve data quality, visualize performance measures, and ultimately drive digital marketing. With continual team expansion and growth, there will be plenty of opportunities to grow, learn, and develop. If you enjoy data discovery and visualization through SQL and statistical tools, plus have an entrepreneurial spirit, you will thrive in this role.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Analyze and visualize data that will lead to improved sales performance and operational efficiency.</li><li>Define data points and deliver clean dashboards for various digital marketing. needs including cycle time, sales, performance tracking, and executive level reporting.</li><li>Work with business partners and sales leadership to define requirements for reporting and dashboards.</li><li>Work in a fast-paced, self-directed, agile environment</li><li>Using a “problem statement” structure, clearly define the desired outcome, including analytic results and resulting actions.<br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>Excellent organization and self-management skills. Work in ambiguous environments and take extreme ownership of your work.</li><li>Efficient; can thrive when there are more things to do than less.</li><li>Adaptable; can get on board quickly with whatever is decided next.</li><li>Naturally curious of how things work to understand the ‘why’ behind the data and the impact it has on various teams and departments.</li><li>Proactive; when you notice something is off in the data, you dig in and figure out why before anyone else notices, and then excitingly share with the team.</li><li>Effectively communicate your ideas and insights whether it’s to an executive, a product manager, or an intern.</li><li>Dynamic; you don’t mind switching gears and focusing on a wide variety of projects.</li><li>Highly analytical with strong, demonstrated problem-solving and critical thinking capabilities.<br/><br/></li></ul><strong>Required Education/Experience<br/><br/></strong><ul><li>1-2 years' work experience preferably as an analyst or related quantitative role.</li><li>Proficiency with SQL</li><li>Experience with:</li><ul><li>Data Visualization software</li><li>Marketing ads or analytical platforms</li><li>Mid to large audience presentations</li></ul><li>Minimum Bachelor’s Degree in Marketing, Business, Mathematics, Statistics, Computer Science, or related field.<br/></li></ul>Learn about the Vivint Culture and why it’s a great place to grow your career!<br/><br/>Here are some highlighted perks you should ask us about:<br/><br/><ul><li>Free daily lunch and drinks on site</li><li>Paid holidays and flexible paid time away</li><li>Employee/Friends/Family Discounts</li><li>Onsite health clinic, gym, gaming tables</li><li>Medical/dental/vision/life coverage &amp; 24/7 Medical Hotline</li><li>401(k) + Employer Match</li><li>Employee Resource Groups<br/><br/></li></ul><strong>Working Conditions<br/><br/></strong><em>This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines.<br/><br/></em><strong>Safety<br/><br/></strong><em>Vivint enforces a safety culture whereby all employees have the responsibility for continuously developing and maintaining a safe working environment. Each new employee is responsible for completing all training requirements. Additionally, the employee must accept they have responsibility for maintaining the safety of themselves, their co-workers, and the public. Employee must adhere to all written and verbal instructions, promptly report and correct all hazards or unsafe conditions, question non-standard operations or unmitigated hazards, and provide feedback to management on all safety issues.<br/><br/></em><strong>If you are an active Vivint employee, please apply through Workday by searching "Find Jobs".</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

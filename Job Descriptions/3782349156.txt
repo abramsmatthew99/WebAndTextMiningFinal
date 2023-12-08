@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Dice is the leading career destination for tech experts at every stage of their careers. Our client, Jobot, is seeking the following. Apply via Dice today!<br/><br/><strong>Exciting opportunity to join an industry leading building materials manufacturing company!<br/><br/></strong>This Jobot Job is hosted by: Matt Tassoni<br/><br/>Are you a fit? Easy Apply now by clicking the "Apply Now" button and sending us your resume.<br/><br/>Salary: $100,000 - $115,000 per year<br/><br/><strong>A bit about us:<br/><br/></strong>Exciting opportunity to join an industry leading building materials manufacturing company! New site!<br/><br/><strong>Why join us?<br/><br/></strong>Medical<br/><br/>Dental<br/><br/>Vision<br/><br/>401k<br/><br/>PTO<br/><br/>and more!<br/><br/><strong>Job Details<br/><br/></strong>Job Details:<br/><br/>We are seeking a passionate and dynamic Permanent Data Analyst to join our growing team in Jessup, MD. This is an exciting opportunity to work with a diverse team of professionals in a fast-paced environment, where you will be responsible for providing key insights and information to support decision-making processes. You will be working with cutting-edge technology and tools, and your work will directly impact the success of our business. You will be expected to analyze and interpret complex data, create reports, and provide IT support. This role is ideal for someone who thrives in a challenging environment and is continuously looking for opportunities to learn and grow.<br/><br/>Responsibilities:<br/><br/><ul><li> Analyze and interpret complex data sets, using statistical techniques to provide insights and recommendations to the team.</li><li> Work closely with the IT support team to manage and maintain our ERP systems, including Infor XA and SAP.</li><li> Develop and implement databases, data collection systems, data analytics, and other strategies that optimize statistical efficiency and quality.</li><li> Use Microsoft Power BI, Python, and SQL to create detailed reports that present data in a clear and actionable way.</li><li> Identify, analyze, and interpret trends or patterns in complex data sets.</li><li> Work with management to prioritize business and information needs.</li><li> Collaborate with different teams to implement data-driven strategies and improve business processes.</li><li> Ensure data integrity and compliance with company policies and regulations.</li><li> Provide technical expertise on data storage structures, data mining, and data cleansing.<br/><br/></li></ul>Qualifications:<br/><br/><ul><li> Bachelor's degree in Engineering, Computer Science, Information Systems, or a related field.</li><li> Minimum 3 years of experience as a Data Analyst or in a similar role.</li><li> Strong knowledge of and experience with reporting packages (Microsoft Power BI), databases (SQL etc), programming (Python).</li><li> Knowledge of ERP systems, specifically Infor XA or SAP.</li><li> Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.</li><li> SQL certification and Python certification are preferred.</li><li> Excellent verbal and written communication skills.</li><li> Strong problem-solving skills and the ability to work under pressure.</li><li> Demonstrated ability to manage projects and lead teams.</li><li> Proven ability to work in a fast-paced environment and meet deadlines.</li><li> Strong understanding of IT and IT support.<br/><br/></li></ul>We value the diversity of perspectives and backgrounds our team brings and we encourage individuals from all backgrounds to apply. We are committed to providing a work environment where everyone feels included, respected, and valued. If you are passionate about data analysis and want to make a significant impact, we would love to hear from you!<br/><br/>Interested in hearing more? Easy Apply now by clicking the "Apply Now" button.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

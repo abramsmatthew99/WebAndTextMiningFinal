@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Pay rate is $55 to $70 per hour</u></strong></p><p><br/></p><p><strong><u>Hybrid position</u></strong></p><p><br/></p><p><strong><u>Job Description:</u></strong></p><p>Seeking a highly skilled and experienced Business Analyst with experience in Software Development Life Cycle (SDLC) methodologies, Agile practices, and a deep understanding of the insurance industry, specifically in Property and Casualty (P&amp;C) insurance Claims. As a Business Analyst in our team, you will play a crucial role in bridging the gap between business needs and IT solutions, ensuring the successful delivery of high-quality software projects within the insurance domain.</p><p><br/></p><p><strong><u>Key Responsibilities:</u></strong></p><p>1. Requirements Gathering: Collaborate with stakeholders to elicit, analyze, and document detailed business requirements, ensuring a clear understanding of business needs and objectives.</p><p>2. SDLC Expertise: Apply your in-depth knowledge of Software Development Life Cycle (SDLC) methodologies to guide projects from conception to implementation, ensuring alignment with business goals and industry best practices.</p><p>3. Experience with P&amp;C insurance claims, such as Guidewire, Duck Creek, Insurity, Accenture Claim Components, Majesco, EIS Suite, StoneRiver, OneShield, Adaptik, Instec, Sapiens DECISION, Origami, Oceanwide, i2go, TIA Technology, Bolt Platform, Prima Solutions, Fineos, SimpliGov, Snapsheet.</p><p>4. Agile Implementation: Work closely with cross-functional Agile teams to facilitate effective communication, collaboration, and delivery. Use Agile principles to adapt to changing requirements and promote iterative development.</p><p>5. Insurance Industry Insight: Leverage your Insurance industry experience, specifically Insurance Claims, and understanding of insurance products, processes, and regulations to provide valuable insights and recommendations for system enhancements and optimizations.</p><p>6. Data Analysis: Analyze complex data sets to identify patterns, trends, and insights that inform business decisions. Proficiency in data analysis tools and techniques is essential.</p><p>7. Documentation: Create comprehensive documentation including business requirements, user stories, process flows, and test cases. Ensure documentation is accurate, clear, and accessible to all stakeholders.</p><p>8. Stakeholder Management: Build strong relationships with business stakeholders, development teams, and other relevant parties. Act as a liaison between business units and IT, ensuring effective communication and alignment of objectives.</p><p>9. Quality Assurance: Collaborate with QA teams to develop and execute test plans, ensuring that solutions meet the specified requirements and are of high quality before deployment.</p><p><br/></p><p><strong><u>Qualifications:</u></strong></p><p>• Bachelor’s degree in Business Administration, Computer Science, or related field.</p><p>• Proven experience as a Business Analyst in the insurance industry, specifically Insurance Claims.</p><p>• Strong understanding of Software Development Life Cycle (SDLC) methodologies.</p><p>• Expertise in Agile frameworks and practices.</p><p>• Excellent analytical, problem-solving, and communication skills.</p><p>• Proficiency in data analysis tools and techniques.</p><p>• Ability to work effectively in a collaborative, team-oriented environment.</p><p>• Relevant certifications such as Certified Business Analysis Professional (CBAP) or Agile certifications are a plus.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

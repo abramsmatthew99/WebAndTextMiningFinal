@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Summary...<br/><br/>What you'll do...<br/><br/>As a Senior Software Engineer role will be helping reshape the GIF application through architecture, design, and the coding of new features/spikes. You'll develop technologies, products, or services that could revolutionize the way Walmart stores operate. You'll build applications and processes to help better experience for 1.6 million Associates every day to operate faster and efficient.<br/><br/><strong>About Team<br/><br/></strong>Our team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Primarily responsible for delivering high quality technical designs and code for the product requirements in a fast-paced agile scrum environment.</li><li>Lead and participate in small to medium-scale projects by reviewing project requirements; translating requirements into technical solutions; gathering requested information (for example, design documents, product requirements, wire frames); writing and developing code; conducting unit testing; communicating status and issues to team members and stakeholders; collaborating with project team and cross functional teams; troubleshooting open issues and bug-fixes; ensuring on-time delivery and hand-offs; interacting with project manager to provide input on project plan; and providing leadership to the project team..</li><li>Strive for continuous improvement in efficiency.</li><li>Troubleshoot business and production issues by gathering information (for example, issue, impact, criticality, possible root cause); engaging support teams to assist in the resolution of issues; formulating an action plan; performing actions as designated in the plan; interpreting the results to determine further action; performs root cause analysis to prevent future occurrence of issues; and completing online documentation.</li><li>Provide support to the business by responding to user's questions, concerns, and issues (for example, technical feasibility, implementation strategies); identifying short- and long-term solutions; facilitating resolutions; and leading cross-functional partnership.<br/><br/></li></ul><strong>What You'll Bring<br/><br/></strong><ul><li>Knowledge of Mobile App Development with React Native and supporting libraries</li><li>Experience building customizable, reusable, and dynamic components in Mobile APP UI using ReactJS, React Native, Redux, JavaScript, ES6, Typescript, HTML and CSS.</li><li>Must have strong knowledge &amp; hands-on experience UI components and building the app in React Native environment (on Android or iOS devices).</li><li>Experience in implementing UI analytics to report customer behavior and improve UI accordingly.</li><li>A disciplined approach to development, code review, testing, documentation and code structure in a team environment.</li><li>A constant desire to improve, learn more and take things to the next level and a passion for adopting the latest industry best practices.</li><li>Experience with monitoring tools such as Dynatrace, Splunk, Grafana.</li><li>Native iOS or Android experience is a plus.</li><li>Experience with Cloud technologies (Azure preferred) &amp; Kubernetes.<br/><br/></li></ul><strong>About Walmart Global Tech<br/><br/></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.<br/><br/><strong>Flexible, Hybrid Work<br/><br/></strong>We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.<br/><br/><strong>Benefits<br/><br/></strong>Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.<br/><br/>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.<br/><br/><strong>Minimum Qualifications...<br/><br/></strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.<br/><br/>Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area.Option 2: 5 years' experience in software engineering or related area.<br/><br/><strong>Preferred Qualifications...<br/><br/></strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.<br/><br/>Master's degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area.<br/><br/>Primary Location...<br/><br/>10790 PARKRIDGE DR. SUITE 200, RESTON, VA 20191, United States of America
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

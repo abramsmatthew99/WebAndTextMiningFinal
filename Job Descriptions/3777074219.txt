@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Responsibilities<br/><br/></strong>Kforce has a client in Saint Louis, MO that is seeking a Software Engineer. Responsibilities:<br/><br/><ul><li> The Software Engineer will design, develop, test, deploy, maintain and improve software</li><li> Contribute to end-to-end solution design &amp; development with work on both the front end and back end</li><li> Build underlying data &amp; service layers used by applications to interact with data stores such as MS SQL, Oracle and more</li><li> Participate in the design of contracts and schemas for APIs and middleware services</li><li> Establish patterns, build component libraries, and contribute to documentation</li><li> The Software Engineer will embrace continuous learning in daily work on company time to work towards company paid certifications and accreditations<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, related field or equivalent experience</li><li> 1+ years of professional software development experience</li><li> Excellent understanding of the SLDC (Software Development Lifecycle) and end-to-end solution execution</li><li> Experience with design, implementation, and consumption of API services and service-oriented architecture patterns</li><li> Experience utilizing C# .NET or Python in building back-end services, and JavaScript, TypeScript, HTML and CSS in front-end</li><li> Experience with decoupled front-end architectures</li><li> Experience in debugging and profiling applications, and improving their efficiency, scalability, and stability</li><li> Experience working with RESTful and event-driven architectures</li><li> Experience and working knowledge of GraphQL and other API strategies</li><li> Working knowledge of Azure cloud services, IoT and edge computing</li><li> Experience working with OpenAPI / Swagger spec</li><li> Familiarity with modern authorization mechanisms that enable secure, role-based access</li><li> Core programming concepts, such as algorithms and data structures</li><li> Proficiency with Git, Azure DevOps or other CI/CD tooling</li><li> Working knowledge of Infrastructure as Code (IaC) and Terraform</li><li> Microsoft AZ-204 (Azure Developer) certification and experience using Azure services (Functions, App Services, APIM, etc) is a plus</li><li> Experience including SPA and PWA projects is a plus</li><li> Experience with a specialty JavaScript UI framework such as React, Angular or Vue is a plus<br/><br/></li></ul>The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.<br/><br/>We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability &amp; ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.<br/><br/>Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.<br/><br/>This job is not eligible for bonuses, incentives or commissions.<br/><br/>Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.<br/><br/>Salary: $45 - $55 per hour
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Food and Beverage Services, Food and Beverage Manufacturing, and Beverage Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

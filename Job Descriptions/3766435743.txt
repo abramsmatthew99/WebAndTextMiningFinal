@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Hims &amp; Hers Health, Inc. (better known as Hims &amp; Hers) is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are revolutionizing telehealth for providers and their patients alike. Making personalized solutions accessible is of paramount importance to Hims &amp; Hers and we are focused on continued innovation in this space. Hims &amp; Hers offers nonprescription products and access to highly personalized prescription solutions for a variety of conditions related to mental health, sexual health, hair care, skincare, heart health, and more.<br/><br/>Hims &amp; Hers is a public company, traded on the NYSE under the ticker symbol “HIMS”. To learn more about the brand and offerings, you can visit hims.com and forhers.com , or visit our investor site . For information on the company’s outstanding benefits, culture, and its talent-first flexible/remote work approach, see below and visit www.hims.com/careers-professionals .<br/><br/><strong>About The Job<br/><br/></strong>Hims &amp; Hers is seeking an experienced Software Engineer to help us build the platform used to reliably fulfill customer orders and prescriptions, at scale. As a member of the growing Fulfillment and Pharmacy Engineering Backend team, you will help build, test, deploy, and support the platform that delivers self-service capabilities to our partners in the Operations and Pharmacy teams.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Build backend services within our service-oriented architecture</li><li>Participate in team design sessions</li><li>Develop high quality solutions that meet expectations described in requirements and design documents</li><li>Implement observability, monitoring and alerting solutions</li><li>Contribute to operational excellence through on-call responsibilities which include issue resolution and code improvements</li><li>Team collaboration and communication, including daily stand ups, code reviews, and cross domain interactions with product management and pharmacy/operations personnel</li><li>Actively participate in retrospectives and contribute ideas that help drive continuous improvement in our architecture, agile process and team culture<br/><br/></li></ul><strong><strong>Requirements:<br/><br/></strong></strong><ul><li>Bachelor degree in Computer Science or equivalent professional experience</li><li>1+ years experience as a software engineer including languages such as Java and Kotlin</li><li>1+ years of experience with back end distributed system design, development and delivery, preferably in an eCommerce environment</li><li>1+ years of experience with service oriented architectures</li><li>Experience hosting services with Kubernetes and AWS</li><li>Experience with agile software development and delivery methodologies </li><li>Experience with continuous integration/delivery including automated unit and integration test strategies</li><li>Experience with Relational Databases, PostgreSQL preferred</li><li>Excellent written and verbal communication skills<br/><br/></li></ul><strong>Nice To Have<br/><br/></strong><ul><li>Experience with Datadog, Spring Boot, Postgresql, Kubernetes, Docker<br/><br/></li></ul><strong><strong>Our Benefits (there are more but here are some highlights):<br/><br/></strong></strong><ul><li>Competitive salary &amp; equity compensation for full-time roles</li><li>Unlimited PTO, company holidays, and quarterly mental health days</li><li>Comprehensive health benefits including medical, dental &amp; vision, and parental leave</li><li>Employee Stock Purchase Program (ESPP)</li><li>Employee discounts on hims &amp; hers &amp; Apostrophe online products</li><li>401k benefits with employer matching contribution</li><li>Offsite team retreats<br/><br/></li></ul>Outlined below is a reasonable estimate of H&amp;H’s compensation range for this role.<br/><br/>H&amp;H also offers a comprehensive Total Rewards package that includes equity grants of restricted stock (RSU’s) so that H&amp;H employees own a piece of our company.<br/><br/>The actual amount will take into account a range of factors that are considered in making compensation decisions including but not limited to, skill sets, experience and training, licensure and certifications, and location.<br/><br/>Consult with your Recruiter during any potential screening to determine a more targeted range based on the job-related factors. We don’t ever want the pay range to act as a deterrent from you applying!<br/><br/>An estimate of the current salary range for US-based employees is<br/><br/>$110,000 — $150,000 USD<br/><br/>We are focused on building a diverse and inclusive workforce. If you’re excited about this role, but do not meet 100% of the qualifications listed above, we encourage you to apply.<br/><br/>Hims is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Hims considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Hims &amp; hers is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations@forhims.com . Please do not send resumes to this email address.<br/><br/>For our California-based applicants – Please see our California Employment Candidate Privacy Policy to learn more about how we collect, use, retain, and disclose Personal Information.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wellness and Fitness Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

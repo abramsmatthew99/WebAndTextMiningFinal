@@ -1,0 +1,56 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from talentd</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Thanh Lu" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Thanh Lu
+
+<!-- -->
+</h3>
+<!-- -->
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Thanh Lu" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fthanhdlu&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>talentd is looking for a Machine Learning Developer for one of our clients.</p><p><br/></p><p>Job Title: Machine Learning Developer</p><p><br/></p><p>Location: New York (Hybrid - 3 days/week in office)</p><p><br/></p><p>Type: Full time </p><p><br/></p><p>An award winning global investment and technology development firm, Company has earned an international reputation for successful investing based on innovation, careful risk management, and the quality and depth of our staff.</p><p><br/></p><p><span>Our culture rewards analytical rigor and adherence to the highest possible ethical and legal standards, and we've cultivated a collegial work environment that promotes collaboration across disciplines, geographies, and investment strategies. Our firm has been built in part by attempting to do what other companies might consider impossible, or never imagine at all. A single transformative idea that ultimately works—for a new business, a new trading model, or an improved back office process—is worth a dozen ideas that lead nowhere. We've learned that when an extraordinary team sets extraordinarily ambitious goals, astonishing breakthroughs can be expected. </span></p><p><br/></p><p><strong>OVERVIEW:</strong></p><p><span>Machine learning developers at the Company work closely with researchers to creatively apply their knowledge of machine learning and software engineering to design, build, and maintain systems for high-performance, large-scale knowledge discovery in financial data. Machine learning developers have the opportunity to be part of an inclusive, collaborative, and engaging working environment.</span></p><p><br/></p><p><span>WHAT YOU’LL DO DAY-TO-DAY: Specific responsibilities include designing, implementing, testing, and documenting modules for all stages of the pipeline from data to predictions, assembling these modules into end-to-end systems, and interacting with researchers to achieve highly productive experimentation, model construction, and validation.</span></p><p><br/></p><p><span>WHO WE’RE LOOKING FOR: Successful candidates will have a strong knowledge of software engineering, machine learning, and open-source machine learning ecosystems. A track record of building and applying high-performance machine learning systems is desired • While an impressive record of academic achievement is a plus, we welcome outstanding candidates from diverse academic disciplines and backgrounds. </span></p><p><br/></p><p><span>The expected annual base salary for this position is $250,000 to $350,000. Our compensation and benefits package includes substantial variable compensation in the form of a year-end bonus, guaranteed in the first year of hire, a sign-on bonus, and benefits including medical and prescription drug coverage, 401k contribution matching, wellness reimbursement, family building benefits, and a charitable gift match program.</span></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

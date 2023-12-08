@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        100% Remote<br/><br/><strong>Who We Are…VERSES<br/><br/></strong>VERSES is a cognitive computing company specializing in next-generation Artificial Intelligence. Modeled after natural systems and the design principles of the human brain and the human experience, VERSES' flagship offering, GIA™, is an Intelligent Assistant for everyone powered by KOSMOS™, a network operating system enabling distributed intelligence. Built on open standards, KOSM transforms disparate data into knowledge models that foster trustworthy collaboration between humans, machines, and AI, across digital and physical domains. Imagine a smarter world that elevates human potential through innovations inspired by nature. Learn more at VERSES, LinkedIn, and Twitter.<br/><br/>We are a distributed, diverse, and inclusive workforce that aspires to do our best work on important problems with exceptional people and we value: <strong>AUDACITY, ASSERTIVENESS, ALIGNMENT, ACCOUNTABILITY, ABUNDANCE, &amp; AWESOMENESS.<br/><br/></strong>We’re looking for trailblazers passionate about tackling complex challenges with global impact. If you are looking to help us reimagine the world, come join us!<br/><br/>We are seeking a Senior Machine Learning Engineer who is an expert in AI and ML to join our team. The successful candidate will be responsible for designing, implementing, and maintaining advanced models that help to improve our products and services. You will work closely with data scientists, software engineers, and other stakeholders to develop and deploy scalable solutions.<br/><br/><strong>Essential Functions - A/k/a Your Mission<br/><br/></strong><ul><li>Design, develop, and deploy models and systems that leverage machine learning algorithms and techniques</li><li>Work with data scientists, software engineers, and other stakeholders to identify and understand business requirements and develop solutions that meet those requirements</li><li>Stay up-to-date with the latest research in NLP, machine learning, and related fields, and apply that knowledge to our products and services</li><li>Develop and maintain data pipelines and infrastructure to support workflows</li><li>Collaborate with other teams across the organization to ensure that our solutions are integrated into our products and services in a seamless manner</li><li>Provide technical leadership and mentorship to other members of the team<br/><br/></li></ul><strong>Who You Are…<br/><br/></strong><ul><li>Bachelor's or Master's degree in Computer Science, Machine Learning, or a related field</li><li>At least 5 years of experience in building and deploying NLP solutions using machine learning algorithms and techniques</li><li>Strong programming skills in Python and experience with machine learning frameworks such as TensorFlow, PyTorch, or Keras</li><li>Knowledge of NLP techniques such as text classification, sentiment analysis, named entity recognition, and topic modeling</li><li>Experience with data processing and analysis tools such as Pandas, Numpy, and Scikit-learn</li><li>Experience with data storage technologies such as SQL and NoSQL databases</li><li>Strong problem-solving skills and ability to work independently as well as in a team</li><li>Excellent communication and interpersonal skills<br/><br/></li></ul><strong>Even better…<br/><br/></strong><ul><li>If you are an experienced Senior Machine Learning Engineer who is passionate about NLP and wants to work on exciting projects with a talented team, we encourage you to apply for this position</li><li>Aside from being a culture of highly-engaged, collegial, and energized people, at VERSES, we offer:</li><li>Global virtual work environment (although some positions may need to operate within specific time zones)</li><li>For Canadian employees: benefits stipend</li><li>Paid time off includes: responsible time off policy (RTO), sick time complying with all State and Federal guidelines, and of course... Company recognized Holidays!!</li><li>Vested interest in developing and growing our people</li><li>Generous total rewards package which includes equitable base pay, potential for bonuses, equities</li><li>The pay range for our roles are market based and commensurate with multiple factors. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications, and applicable laws<br/><br/></li></ul>These statements are meant to comply for positions in the U.S., for positions based in San Francisco, consideration of qualified candidates with arrest and conviction records will be in a manner consistent with the San Francisco Fair Chance Ordinance. For positions in Colorado, and New York City, the statements are to comply with applicable laws.<br/><br/>Job Type<br/><br/>Regular, Full-time<br/><br/>Location: Remote<br/><br/>All qualified applicants will receive consideration for employment without regard to race, sex, color, religion, national origin, protected veteran status, or on the basis of disability, gender identity, and sexual orientation.<br/><br/>All listed tasks and responsibilities are deemed as essential functions to this position; however, business conditions may require reasonable accommodations for additional tasks and responsibilities.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

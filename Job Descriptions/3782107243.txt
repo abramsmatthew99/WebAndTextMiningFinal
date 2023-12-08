@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>Creates design documents that ensure consistency in development across the IT organization. Participates in the definition of software architecture to ensure that the IT organization's software solutions are built within a consistent framework and aligned to strategy. Implements activities that generally impact multiple components / processes and the work of own and possibly other teams. Assigned complex undertakings that regularly require the application of independent judgment. Receives work in short– and mid- term outcomes and operates within the context of approved methods.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li>Creates design documents that ensure consistency in development across the IT/Engineering organization. Participates in the definition of IT/Engineering architecture to ensure that the IT/Engineering organization’s solutions are built within a consistent framework.</li><li>Participates in the decision-making processes related to the selection of software architecture solutions.</li><li>Serves as a technical and business-savvy resource to software development engineering personnel on a range of software design issues.</li><li>Implements and improves core software infrastructure. Participates in improving software development lifecycle, technical operations and technology innovation.</li><li>Participates in developing technical / business approaches and new or enhanced technical tools.</li><li>Shares complex information related to areas of expertise and/or to gain acceptance of new or enhanced technology / business solutions.</li><li>Effectively resolves problems and roadblocks as they occur.</li><li>May perform systems and applications performance characterization and trade-off studies through analysis and simulation.<br/><br/></li></ul><strong>About Walgreens And WBA<br/><br/></strong>Walgreens (www.walgreens.com) is included in the U.S. Retail Pharmacy and U.S. Healthcare segments of Walgreens Boots Alliance, Inc. (Nasdaq: WBA), an integrated healthcare, pharmacy and retail leader with a 170-year heritage of caring for communities. WBA’s purpose is to create more joyful lives through better health. Operating nearly 9,000 retail locations across America, Puerto Rico and the U.S. Virgin Islands, Walgreens is proud to be a neighborhood health destination serving nearly 10 million customers each day. Walgreens pharmacists play a critical role in the U.S. healthcare system by providing a wide range of pharmacy and healthcare services, including those that drive equitable access to care for the nation’s medically underserved populations. To best meet the needs of customers and patients, Walgreens offers a true omnichannel experience, with fully integrated physical and digital platforms supported by the latest technology to deliver high-quality products and services in communities nationwide.<br/><br/><strong>Basic Qualifications<br/><br/></strong><ul><li>Bachelor's degree and at least 4 years of experience in an IT, Engineering and/or Architect role OR High school / GED and at least 7 years of experience in an IT, Engineering and/or Architect role.</li><li>At least 3 years of experience in server side or client side technologies.</li><li>Experience in domain-specific architecture concepts and emerging technologies. (Design patterns, frameworks, current Java based solutions, cloud technologies, public cloud technologies, Microservices based solutions,mobile, OR Infrastructure Administration OR Data Sciences).</li><li>At least 1 year of experience in domain-specific Architecture.</li><li>Experience working with matrix teams including teams in different time zones.</li><li>Experience creating and promoting guiding development principles and influencing development teams, business users and management in adoption of technical solutions.</li><li>At least 2 years of experience contributing to financial decisions in the workplace.</li><li>At least 2 years of direct leadership, indirect leadership and/or cross-functional team leadership.</li><li>Willing to travel up to 10% of the time for business purposes (within state and out of state).<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Master's degree in Computer Science, Information technology, Engineering, Science, or Math.</li><li>Bachelor's degree and at least 5 years of experience in an IT, Engineering and/or Architect role OR High school / GED and at least 8 years of experience in an IT, Engineering and/or Architect role.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

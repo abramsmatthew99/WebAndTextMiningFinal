@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Role: </strong>Senior Business Systems Analyst<br/><br/><strong>Location: </strong>Annapolis, MD (Onsite)<br/><br/><strong>Duration</strong>: 12+ Months<br/><br/><strong>Job Description<br/><br/></strong>We are actively seeking an experienced Senior Business Systems Analyst to lead our dynamic team. With a minimum of 6 years of proven expertise in data analysis and business analysis, the ideal candidate will play a pivotal role in driving data-driven decision-making processes. As a Senior Business Systems Analyst, you will not only leverage your strong understanding of systems and processes but also provide strategic guidance to the organization in implementing innovative solutions. This role offers an exciting opportunity for individuals with a track record of success in systems analysis to take their career to the next level.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Lead collaborative efforts with stakeholders to meticulously gather and document system requirements, ensuring alignment with overarching business goals and objectives.</li><li>Conduct in-depth analysis of existing systems, processes, and workflows, identifying opportunities for enhancement and driving the implementation of effective solutions.</li><li>Employ advanced data analysis techniques and tools, including SQL, Excel, and advanced data visualization tools (e.g., Tableau, Power BI), to extract actionable insights, identify trends, and monitor key performance indicators (KPIs).</li><li>Architect and develop comprehensive reports, dashboards, and visualizations that eloquently communicate analysis findings to stakeholders at various organizational levels.</li><li>Champion cross-functional collaboration to define and execute complex data-driven initiatives and projects, demonstrating leadership and strategic thinking.</li><li>Play a key role in the successful implementation of new systems or enhancements, ensuring seamless integration and optimal functionality.</li><li>Oversee and conduct user acceptance testing (UAT) to validate system changes, ensuring alignment with defined requirements and business objectives.</li><li>Provide expert training and support to end-users, ensuring their proficient understanding and utilization of systems and tools.</li><li>Proactively monitor and troubleshoot system issues, collaborating closely with technical teams to swiftly identify and resolve any challenges.</li><li>Remain at the forefront of industry trends, best practices, and emerging technologies related to systems analysis and data analysis, contributing to the continuous improvement of organizational processes.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in computer science, Information Systems, Business Analytics, or a related field.</li><li>Minimum of 6 years of progressive experience as a Senior Business Systems Analyst, demonstrating a strong track record of successful projects and initiatives.</li><li>Exceptional analytical and problem-solving skills, coupled with the ability to translate complex data into actionable insights.</li><li>Proficiency in advanced data analysis tools and techniques, such as SQL, Excel, and expert-level use of data visualization tools (e.g., Tableau, Power BI).</li><li>In-depth familiarity with business analysis methodologies, including requirements elicitation, process modeling, and use case development.</li><li>Proven knowledge of the systems development life cycle (SDLC) and substantial experience in system implementation and testing.</li><li>Outstanding communication and collaboration skills, with the ability to engage effectively with stakeholders across all levels of the organization.</li><li>Detail-oriented with a strong ability to prioritize and manage multiple tasks and deadlines in a dynamic environment.</li><li>Proactive, self-motivated, and dedicated to continuous learning and professional growth in the fields of systems analysis and data analysis.</li><li>Any additional certifications or extensive experience in project management, data modeling, or programming languages (e.g., Python, R) would be a significant advantage.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

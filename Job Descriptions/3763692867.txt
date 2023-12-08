@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>POSITION DUTIES:<br/><br/></strong>Develop Automation framework to automate the functionality of business-critical applications using Java, Selenium, Python, C#, HTTP Client/Server, API, REST Assured, Django, Maven, TFS and PIP as Build tools, Git and SVN as version control system. Develop, maintain, and refactor new and existing Automated Integration Test Suites to validate the integrations between the applications used internally within the organization and evaluate/report the metrics regularly using Python, C#, Java, Selenium, Cucumber, Git, Postman, Version One, Jira, Azure Devops and OBI reports. Interpret business rules, translate into system requirements, configure and implement to achieve desired system functionality using tools and technologies like IntelliJ, PyCharm, Visual Studio Code, Eclipse, Maven, BPMN, Git, Jenkins, Page Object Model (POM), Model View Controller (MVC). Write complex SQL queries to verify data flow and integrity between multiple components and systems using Quest Toad, SQL Server management studio and Advanced Query Tool in Oracle and SQL databases. Develop automation programs to ingest data from a variety of sources in varying formats. Analyze, process, identify patterns, perform Extract Transform Load (ETL) operations, house data and route it to the appropriate systems and data warehouses based on business rules and logic using Python, Informatica, SQL Developer and Jupyter Notebook. Perform and coordinate multiple types of black-box, white-box, and grey-box testing including functional, system, end-to-end, data integrity, user acceptance, smoke, regression, and ad-hoc testing on enterprise applications using Automation Suites built in Python, C# and Java to make sure quality standards and specifications are met. Develop framework to implement test plans for required automated test processes using Python, Java, C#, Jenkins, Git, Service Now. Perform defect management, tracking, reporting and Release management in different environments using Jira, Version One, Azure Devops, Service Now and QTest by adopting Agile methodologies.<br/><br/><strong>POSITION REQUIREMENTS:</strong> Master’s degree in Computer Science, Computer Engineering, a closely related field and 2 years employment experience as a Software Developer/Engineer or related positions working with Java, Selenium, Python, SQL, Azure, DevOps, Jira, C#, Eclipse, ETL and Jenkins.<br/><br/><strong>HOURS:</strong> 40 hours/week; 9:00 a.m. – 5:30 p.m.<br/><br/><strong>LOCATION OF EMPLOYMENT: </strong>200 Continental Dr., Suite 401, Newark, DE 19713. Travel is not required but candidates must be willing to relocate to unanticipated work locations throughout the U.S. as required.<br/><br/><strong>CONTACT: </strong>To apply, please mail resume and cover letter referencing the ‘<strong>Automation Engineer’</strong> position to Venkat Manda, HR Coordinator, Ecclesiastes, Inc., 200 Continental Dr., Suite 401, Newark, DE 19713.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

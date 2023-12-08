@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Hours:<br/><br/></strong>40<br/><br/><strong>Schedule:<br/><br/></strong>Monday - Friday 8:00 a.m. - 5:00 p.m. Must remain flexible to meet current and future business needs.<br/><br/><strong>Pay: <br/><br/></strong>Starting Salary: $122,849 Pay Range: $108,684 - $137,014<br/><br/><strong>Primary </strong><strong>Accountability:<br/><br/></strong>The Network Engineer position is responsible for the architecture, planning, implementation, administration, maintenance and support of ESL’s network infrastructure. This includes all internal and external network connectivity between sites, within buildings, wireless and internet connectivity. Network Engineer will evaluate hardware and software vendor products and recommend purchases consistent with ESL’s architectural and Information Security standards and objectives. The Network engineer will provide support, training and mentoring of the Network Administrators. Provides day-today direction of tasks, technical guidance, and work assignment and prioritization to the Network Administrators.<br/><br/><strong>Purpose of Position:<br/><br/></strong>Lead the overall effort in designing, supporting and managing ESL’s Network infrastructure and connectivity between all sites and the Internet.<br/><br/><ul><li>Architect network infrastructure in a manner that provides stable solutions that are cost efficient, scalable, secure and adhere to ESL’s architecture and infrastructure standards.</li><li>Plan and execute upgrades and routine maintenance to ensure that high availability and performance standards are met.</li><li>Lead the selection, implementation and support of hardware and software.</li><li>Ensure that hardware and software systems are properly maintained and achieve agreed upon uptimes.</li><li>Serve as a change agent leader by participating in and educating others regarding systems changes and ESL’s Change<br/><br/><br/><br/></li></ul>Management System and methodologies.<br/><br/><ul><li>Collaborates with Information Security on design and configuration of all DMZ networks and firewall environments. Maintains firewall rules, updates and hardware support for all firewalls in the ESL network.</li><li>Ensure all mission critical systems and connectivity employ proper redundancy and/or backup processes and that tested recovery procedures are in place.</li><li>Work with and assist the Manager, Network Services to plan and manage yearly capital and expense budget for Network Services and other business units as needed.</li><li>Provide technical consultation to business units on departmental and corporate projects, and participate in those projects as needed.<br/><br/><br/><br/></li></ul>Ensure that strong client relationships exist with all internal clients and business stakeholders<br/><br/><ul><li>Approach each client interaction with the intent of providing exceptional service.</li><li>Provide a high-level of professionalism and technical expertise when consulting on any projects, issues and/or related customer and stakeholder interactions.</li><li>Ensure third-party vendors adhere to contractual or stated service level agreements and seek remediation where appropriate.</li><li>Coordinate the work of and manage relationships with third-party vendors engaged in servicing or supporting ESL’s CORE systems infrastructure<br/><br/><br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor’s Degree in Computer Science, Information Technology or related degree or 4 additional years of very strong equivalent experience required</li><li>Minimum 3 years of experience developing, managing, and designing enterprise network environments</li><li>Minimum 5 years of experience in network engineering related functions including a combination of architect, engineering, and deploying solutions.</li><li>Thorough understanding of the OSI network model and extensive experience in network technologies: IP Switches, Routers, Firewalls, IDS/IPS, LAN/WAN, TCP/IP, DNS, UDP, VoIP, QoS, BGP, OSPF, HSRP, ATM, PPP, MPLS, and VPN.</li><li>Excellent communication and organizational skills, and the ability to stay focused on completing tasks and meeting goals within a busy workspace</li><li>Strong planning, organizing, and coordination skills</li><li>Excellent analytical and interpersonal skills </li><li>Able to work independently without supervision and relies on experience and judgment to plan and accomplish goals<br/><br/><br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Industry certification(s) preferred pertaining to Cisco or Arista network infrastructure engineering, administration, design and maintenance, and advanced administration. Examples: Cisco CCNA, CCNP, CCIE, Arista ACE Certification</li><li>Experience with Microsoft Azure or other cloud networking and firewall environments.</li><li>Experience with Fortinet and Checkpoint firewall environments.</li><li>Experience with Arista and Meraki.</li><li>Experience with Automation, Scripting, Python.</li><li>Experience working in an environment with multiple remote (branch) locations.</li><li>Experience architecting Public Cloud network infrastructure.</li><li>Experience with Cisco, Meraki, Checkpoint, F5, Azure, Arista, Fortinet<br/><br/><br/><br/></li></ul><strong>We’re committed to diversity, equity, and inclusion.</strong> ESL recognizes the importance of a culture that embraces diversity and values individual differences. We are committed to cultivating a diverse workforce at all levels that mirrors the communities we serve. We welcome applications from people with diverse perspectives and backgrounds. We strive to create an inclusive, respectful and equitable environment, which makes ESL a great place to work!<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

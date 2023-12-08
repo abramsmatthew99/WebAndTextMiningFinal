@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Role:</strong> Java/Android Developer (Backend)<br/><br/><strong>Location:</strong> Atlanta, GA (hybrid role)<br/><br/><strong>Duration:</strong> Contract (12 months to start)<br/><br/><strong>Location :</strong> Hybrid (Atlanta, GA)<br/><br/>| <strong>Top Skills:</strong> | 60% Java Spring Boot<br/><br/>| 40% Android SDK (Java/Kotlin)<br/><br/>| iOS Development is preferred<br/><br/><strong>Job Description:<br/><br/></strong>This Software Engineer II will be responsible for the analysis, design, development, and delivery of software solutions of our next edge marketing technologies. We build the technologies that support the end-to-end user journey from awareness to managing and growing their products. This position helps build new applications, technologies and enhancements that will positively impact our customers while adhering to standards, processes, and best practices.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li> Will be working on Java back end 60% and Android 40%.</li><li> Will be moving in between teams as they don’t have enough work for 100% mobile.</li><li> Design, build, and release software that advance marketing capabilities</li><li> Participate in team prioritization discussions with Product/Business stakeholders</li><li> Able to troubleshoot and refactor existing code</li><li> Adopt new languages and architecture patterns needed for the work</li><li> Influence the decisions made by the team</li><li> Assist peers and less experienced members</li><li> Influence the decisions made by the team</li><li> Demonstrate active learning and sharing of software practices via community initiatives</li><li> Assist in technical documentation of APIs and services being delivered<br/><br/><br/></li></ul><strong>Experiences:<br/><br/></strong><ul><li> Help design &amp; development of our Android SDK features to support scaling customer feature requests</li><li> Develop mobile applications, including demo applications, making use of our technology</li><li> Work with customer-facing colleagues to gather requirements and troubleshoot issues</li><li> Extensive knowledge of Android architectures patterns, mobile landscape, trends, and emerging</li><li> technologies</li><li> Has ability to write secure code in three or more languages (e.g., Java, JavaScript, React, COBOL,<br/><br/><br/></li></ul>SQL)<br/><br/><ul><li> Familiar with secure coding standards (e.g., OWASP, CWE, SEI CERT)</li><li> Understands and implements standard branching (e.g., Gitflow) and peer review practices</li><li> Apply tools (e.g., Sonar, Zally, Checkmarx ) and techniques to scan and measure code quality and<br/><br/><br/></li></ul>anti-patterns as part of development activity<br/><br/><ul><li> Understands and builds test code at unit level, service level, and integration level to ensure code<br/><br/><br/></li></ul>and functional coverage<br/><br/><ul><li> Understands the use of basic design patterns (e.g., factory, adaptor, singleton, composite,<br/><br/><br/></li></ul>observer, strategy, inversion of control)<br/><br/><ul><li> Understands requirement analysis being essential part of delivering value to our customers and<br/><br/><br/></li></ul>partners and participate in elaboration, prioritization, and effort estimation<br/><br/><ul><li> Familiarity with agile development methodologies</li><li> Understands the basic engineering principles used in building and running mission critical<br/><br/><br/></li></ul><strong>Software Capabilities (security, Customer Experience, Testing, Operability, Simplification, Service-<br/><br/></strong>oriented architecture)<br/><br/><ul><li> Familiar with different application patterns to implement different types of business processes<br/><br/><br/></li></ul>(e.g., APIs, event-driven-services, batch-services, web-applications, big data)<br/><br/><ul><li> Understands CI/CD concepts, and capabilities to support automation, pipelines, virtualization,<br/><br/><br/></li></ul>and containerization<br/><br/><ul><li> Has ability to write code (in languages such as Java, Python, Ruby, Bash, Perl, Groovy) to build<br/><br/><br/></li></ul>automation tasks that are repeatable and efficient<br/><br/><ul><li> Understands functional and non-functional testing types to elaborate and estimate test efforts<br/><br/><br/></li></ul><strong>Education:<br/><br/></strong>Bachelor or Master’s Degree in Computer Science or equivalent
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

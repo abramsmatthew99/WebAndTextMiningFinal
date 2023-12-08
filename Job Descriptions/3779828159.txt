@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>pOSITION: Sr. Full Stack Java Developer<br/><br/></strong><strong>Location: Raleigh, NC and Wilmington, DE (Onsite</strong><strong>)<br/><br/></strong><strong>Experience: 10+ Years<br/><br/></strong><strong>PETADATA</strong> is currently looking to hire for the position of <strong>Sr. Full Stack Java Developer</strong> for one of their clients.<br/><br/><strong>Roles &amp; Responsibilities<br/><br/></strong><ul><li>Minimum 8+ years of experience in design, execution, maintain high scale Enterprise Application development with Java (preferably Java-8).</li><li>Should Partner with Business SMEs, and Product Owners to review the requirements and turn them into technical standards and develop various applications.</li><li>6+ years of experience in designing and deploying cloud-based Microservice applications in the fast face development environment.</li><li>Experience in end-to-end development process and implement Application development and conduct code review, guide other team members and junior/mid-level developers.</li><li>Coordinate with internal and external teams, including business users, Product &amp; Service groups for the deliverables.</li><li>Able to coordinate with cross-functional teams to plan and develop/implement new project requirements, technical design and coding, and delivery.</li><li>Experience in Agile Scrum process and develop code and conduct code reviews for other team members.</li><li>Develop and implement new features from the product backlog with quality and deliver timely to meet SLA’s.</li><li>Should be a great team player who can collaborate and provide leadership through influence to achieve the required development organizational results.</li><li>The ideal candidate should possess excellent verbal, written communication skills and coordinate and communicate with different departments.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li> 8+ years of experience required in Java development (preferably Java 8).</li><li> 6-8 years of strong experience in ESB/Microservices, JSON, Linux, Python.</li><li> 5 years of good experience in Agile and Oracle SQL.</li><li> 6 years’ experience in Spring 4 (Core, MVC, Rest, Transactions), Spring Boot.</li><li> Must have good knowledge on AWS Cloud (S3, EC2, Kubernetes).</li><li> Strong experience in Linux systems, Jenkins,.<br/><br/></li></ul><strong>Educational Qualification<br/><br/></strong>Bachelor's/ Master’s degree in Computer Science, Engineering, or a related field.<br/><br/><strong>We offer a professional work environment and are given every opportunity to grow in the Information technology world.<br/><br/></strong><strong>Note<br/><br/></strong>Candidates required to attend Phone/Video Call / In person interviews and after Selection of candidate (He/She) should go through all background checks on Education and Experience.<br/><br/>Please email your resume to: <strong>swaroopb@petadata.co<br/><br/></strong>After carefully review on your experience and skills one of our HR team members will contact you on the next steps.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

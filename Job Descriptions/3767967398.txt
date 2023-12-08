@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Mandatory<br/><br/></strong><strong>Job Description:<br/><br/></strong><ul><li> 8+ years of experience in Solution, Design and Development of Java, J2EE, WebServices and JMS.</li><li> Strong hands-on experience with Spring, Hibernate/ORM, Apache CXF and JAXB</li><li> Strong experience in Unix and Shell scripting</li><li> Strong experience in Schedulers and Batch Jobs, preferably AutoSys.</li><li> Strong experience in any one of the Application Servers (WebLogic / WebSphere / JBoss)</li><li> Good knowledge of database concepts with working knowledge on SQL and Stored Procedures.</li><li> Experiences in full life cycle of application development and deployment<br/><br/></li></ul>Nice to have:<br/><br/><ul><li> Expert in tuning all tiers of applications on JEE platform.</li><li> Experience in Object Oriented Analysis and designing architecture, reusable components, and frameworks.</li><li> Expert in JEE patterns and ability to use commonly used on in real time situations<br/><br/></li></ul><strong>Soft Skills<br/><br/></strong><ul><li> Should be able to guide the Team from Technical perspective</li><li> Ability to share technical knowledge and clearly communicate technical concepts</li><li> Strive to constantly improve the application development processes and tools.</li><li> Must have strong communication skills with ability to work with all management levels</li><li> Degree in Computer Science, Engineering or equivalent</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

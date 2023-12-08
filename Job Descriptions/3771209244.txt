@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong>Quality Assurance Engineer Role: <br/><br/></strong>As a member of the company’s Information Technology team, the QA Engineer is responsible for testing all code changes, ensuring the customer’s requirements are met and validating the overall quality of the production systems.<br/><br/><strong>Duties<br/><br/></strong><ul><li>Develop, publish and implement test plans for complex commercial off-the-shelf (COTS) applications such as Salesforce and/or SAP</li><li>Conduct functional, integration, system and regression testing for all software releases</li><li>Analyze functional specifications and design documents and translate them into test plans</li><li>Work directly with business analysts, developers, and product owners/end-user groups to ensure software functionality and technical design requirements are met </li><li>Develop and execute automated test cases/scripts using Apex, Provar, Selenium and C#</li><li>Create and maintain all QA documentation including; test cases and test results for all phases of testing </li><li>Define, track and report metrics such as defect densities and open defect count </li><li>Participate in company’s SOX/Audit compliance activities </li><li>Support User Acceptance Testing with business personnel </li><li>Promote and demonstrate the behaviors consistent with CoreSite’s culture and Guiding Principles</li><li>Special projects as assigned<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Knowledge, Skills &amp; Abilities:<br/><br/></strong><ul><li>Ability to occasionally work evenings and weekends in response to needs of the systems being supported</li><li>Ability to thrive in a hybrid work environment and work in the downtown Denver office Tuesdays and Wednesdays</li><li>Ability to focus on deadlines and deliverables</li><li>Self-starter, self-motivated, driven individual</li><li>Ability to work well with shifting priorities</li><li>Experience with JAVA or C# based testing framework/tools</li><li>Understanding of database schemas and querying tools (SOQL or SQL)</li><li>Experience with Systemic and Functional Testing in a Salesforce environment</li><li>Experience in regression test management is required</li><li>Proficiency in the following tools is a plus: Agile Accelerator, Postman, MuleSoft, Provar, Selenium, SQL, Workbench, JIRA</li><li>Solid understanding of QA methodologies in an Agile environment is required</li><li>Experience with manual white and black box testing for backend and customer applications</li><li>Proven track record that demonstrates continual growth in leadership, technical and business analysis, along with quality assurance skills</li><li>Excellent interpersonal, written and oral communication skills</li><li>Strong analytical and trouble shooting skills</li><li>Ability to write technical instructions in the use of Apex test scripts and/or test script modifications</li><li>Knowledge of Continuous Integration (CI) and use of CI tools like Jenkins.</li><li>Knowledge of Test Driven Development (TDD) and/or Behavior Driven Development (BDD)<br/><br/></li></ul><strong>Education/Experience<br/><br/></strong><ul><li>BA/BS in Information Technology, Computer Science, or related field or equivalent work experience</li><li>At least 3-5 years of testing experience</li><li>At least 1-2 years automation experience </li><li>Experience in an Agile SDLC methodology environment<br/><br/></li></ul><strong>Physical Demands<br/><br/></strong>The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br/><br/>While performing the duties of this job, the employee is occasionally required to stand; walk; sit; use hands to handle, or feel objects; reach with hands and arms; climb stairs; balance; stoop or kneel; talk and hear. The employee must occasionally lift and/or move up to 25 pounds.<br/><br/><strong>Compensation<br/><br/></strong>Compensation for this role includes a base salary between $80,000 and $95,000 annually. This role is also eligible for an annual bonus and equity, based upon individual and company performance.<br/><br/><strong>Benefits<br/><br/></strong>Not only does CoreSite have a fun, team-focused work environment, but we also offer great benefits!<br/><br/><ul><li>Medical and Vision coverage through Cigna Heath Care</li><li>Telemedicine through MDLive</li><li>Dental Insurance through Delta Dental</li><li>Life Insurance and Short-Term &amp; Long-term Disability Insurance fully paid by the company</li><li>Voluntary coverage benefits for Life and AD&amp;D, Critical Illness, Accident Coverage, and Hospital Indemnity</li><li>Medical and Dependent Care Flexible Spending Account (FSA) Plans and Health Saving Account (HSA) Plans</li><li>401(k) retirement savings plan with a generous company contribution</li><li>Discretionary Annual Bonus and Equity Incentive Plan</li><li>15 days of Flextime</li><li>11 paid Company Holidays and Floating Holidays</li><li>School Visitation and Elder Care Paid Time</li><li>Parental Leave</li><li>Free parking or a company contribution toward a public transit pass<br/><br/></li></ul><strong>Applicant Privacy Notice</strong>: CoreSite is committed to protecting the privacy and security of personal information submitted by applicants. The California Consumer Privacy Act (CCPA) requires us to provide you information about our personal information handling practices. As a result, we’re providing this Privacy Notice that describes how we collect, use, share, and update personal information from individuals who wish to be considered for employment with CoreSite. To read the Applicant Privacy Notice, please go to https://www.coresite.com/applicant-privacy-notice.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

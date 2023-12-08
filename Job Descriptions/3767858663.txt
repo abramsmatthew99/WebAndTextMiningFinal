@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Details<br/><br/></strong><strong>Description<br/><br/></strong>The anticipated hiring range for this position is $80,000 to $85,000. Hiring offers will be determined based on the final candidate’s qualifications and experience. The recruiter can share more information about what the anticipated hiring salary would be based upon your specific qualifications during the selection process.<br/><br/>The CIA offers a substantial benefits package that includes <strong>medical coverage available at no cost</strong> to qualifying employees, dental insurance, vision insurance, life insurance, short and long term disability insurance, retirement savings plan with high employer contributions, a generous paid time off program, and more!<br/><br/>As the benefits package at the CIA results in a significant value above the base hiring salary for this position, we encourage you to apply so that our recruiters can share more information with you about the benefits of working for the CIA.<br/><br/><strong>Position Summary<br/><br/></strong>The Business Intelligence (BI) Analyst designs and builds data marts and data warehouses by aggregating data from multiple sources for data mining, writing queries and designing reports and dashboards. This includes gathering and analyzing data in support of business reporting and analysis. The Analyst collaborates in the planning, design, development, and deployment of new applications, and enhancements to existing applications.<br/><br/><strong>Essential Responsibilities<br/><br/></strong><ul><li>Design and build BI effective solutions in a timely manner.</li><li>Debug, monitor and troubleshoot BI solutions.</li><li>Write relational and multidimensional database queries.</li><li>Create and deploy reports as needed.</li><li>Prepare and deliver reports, recommendations, or alternatives that address existing and potential opportunity areas of data in the database.</li><li>Work closely with other team members to deliver effective global BI architecture in a timely manner.</li><li>Educate and advise internal customers on how to leverage available data for consumption.</li><li>Assist in development, roll-out, and maintenance of dashboards, both executive and management reporting, across the enterprise.</li><li>Build relationships with BI partners to understand data needs in order to execute with excellence on documented user requirements and prototypes.</li><li>Develop and maintain an enterprise data architecture roadmap to improve the maturity and effectiveness of enterprise data management.</li><li>Any and all other duties as assigned.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong>Education :<br/><br/><ul><li>A Bachelor's Degree in computer science or a related field, or significant work experience in lieu thereof.<br/><br/></li></ul><strong>Experience<br/><br/></strong><ul><li>Minimum of three to five (3-5) years experience with developing technical BI data solutions with Microsoft tools.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Prior work experience as a Database Programmer or Programmer Analyst strongly preferred.</li><li>Experience in higher education work experience.</li><li>Experience with data modeling.</li><li>Experience with Entrinsik Informer.</li><li>Experience in technical support and training.<br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>Excellent verbal and written communication skills, including ability to communicate complex ideas in a simple way.</li><li>Strong organizational, detail, and project management skills, with the ability to solve problems and consistently meet demanding deadlines.</li><li>Demonstrated SQL skills with extensive experience in developing stored procedures, views, functions, triggers and advanced logical methods.</li><li>Strong skills in Microsoft Excel, expertise in SQL Server, Microsoft Reporting and/or Crystal BI tools.</li><li>Strong interpersonal skills.</li><li>Strong documentation skills.</li><li>Demonstrated ability to show a high level of service responsiveness to customers.</li><li>Excellent analytical and troubleshooting skills to test and solve database and application issues.</li><li>Proficient knowledge of MS Office applications.</li><li>Expertise utilizing Microsoft data integration tools (SQL scripts).<br/><br/></li></ul><strong>WORKING CONDITIONS <br/><br/></strong><ul><li>Must be available to work nights and weekends as required due to business needs.</li><li>Regular work requires the use of a computer, sometimes in excess of eight (8) hours per day.</li><li>Dexterity of hands and fingers to operate a computer keyboard, mouse, and to handle other computer components.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

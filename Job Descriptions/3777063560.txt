@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>YOUR TASKS<br/><br/><br/></strong><ul><li>Develop, implement and maintain innovative software for industrial systems</li><li>Leverage your own experience and expertise by bringing up your inventive ideas</li><li>Work alongside machine learning engineers to optimize visualizations and product experience</li><li>Create data pipelines that are directly integrated into industrial production processes</li><li>Develop data-oriented backends for customer-facing web applications<br/><br/><br/></li></ul><strong>YOUR PROFILE<br/><br/><br/></strong><ul><li>Bachelor’s, Master’s or Ph.D. in Computer Science, Statistics, Mathematics, Physics or Engineering</li><li>Experience working alongside and within a Python server framework, especially Flask</li><li>Experience working with a variety of databases</li><li>Experience in data engineering</li><li>Experience in Linux is a must</li><li>Knowledge of machine learning technologies is a plus<br/><br/><br/></li></ul><strong>Benefits<br/><br/><br/></strong><ul><li>We offer flexible work hours, a remote friendly environment and competitive compensation. Employee Benefits include medical, dental, vision, basic and supplemental life insurance, short and long-term disability and 401(k) with up to 4% company match. Paid Time Off up to 20 days per year, in addition to 10 holidays and parental leave.</li><li>We do not offer sponsorship for the visa process<br/><br/><br/></li></ul><strong>About Us<br/><br/></strong>Smart Steel Technologies supplies ready-to-use artificial intelligence software products for process optimization in steel mills that lead to improved quality, reduction of energy cost and improvement of CO2 efficiency. The machine learning and data science we employ comes in several varieties: image processing, signal processing, classical supervised modeling, unsupervised methods, and fundamental statistics and probability. We are hiring talented experts across disciplines to join our team and help us to further develop our industry leading solutions. Did you know that steel is the most recycled material worldwide?
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

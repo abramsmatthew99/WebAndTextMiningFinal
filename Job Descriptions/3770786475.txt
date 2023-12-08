@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Thank you for considering Progyny!<br/><br/>Progyny is looking for a Data Scientist to join the Business Strategy and Analytics team in New York City. Our team is at the forefront of key initiatives and strategic development of the nation’s leading fertility benefits management company. In this role, you will lead these efforts through finding insights into potential revenue growth, process enhancements, and benefit enhancements through analyses, cross-functional collaboration, and presentations to various internal stakeholders, including executive leadership. This is a unique opportunity to own multiple functions within Progyny to support the company’s strategic development and growth.<br/><br/><strong>What You'll Do...<br/><br/></strong><ul><li>Develop complex algorithms, statistical models, determine analytical approaches and modeling techniques to evaluate historical trends and predictive models</li><li>Lead identifying market trends and member needs to build a short, medium, and long-term growth strategy</li><li>Develop KPIs to measure organizational performance toward achieving quality, efficiency, and satisfaction targets</li><li>Present to stakeholders in a clear and concise manner so they can understand and leverage your data-driven and actionable insights to improve their team</li><li>Advance and expand current analyses to drive new insights leveraging Data Science methodologies</li><li>Develop a deep understanding of industry metrics and key trends to build insights that drive business decisions<br/><br/></li></ul><strong>About You...<br/><br/></strong><ul><li>You have 2-5 years of relevant work experience</li><li>You have a bachelor’s degree in Math, Statistics, Computer Science, or a related master’s degree</li><li>You have an analytical mindset and are comfortable analyzing large, complex datasets</li><li>Proficiency in SQL and Python required</li><li>Prior experience with data visualization packages (e.g. Matplotlib, GGPlot, Seaborn, etc.)</li><li>You can explain complex methodologies of your models to stakeholders</li><li>You are organized and methodical with strong attention to detail</li><li>You are driven to deliver results with the ability to establish rapport, earn trust, and effectively collaborate with others<br/><br/></li></ul><strong>About Progyny:</strong>  <br/><br/>Progyny is a leading fertility benefits management company in the US. We are redefining fertility and family building benefits, proving that a comprehensive and inclusive fertility solution can simultaneously benefit employers, patients, and physicians. Our benefits solution empowers patients with education and guidance from a dedicated Patient Care Advocate (PCA), provides access to a premier network of fertility specialists using the latest science and technologies, reduces healthcare costs for the nation’s leading employers, and drives optimal clinical outcomes. We envision a world where anyone who wants to have a child can do so. <br/><br/> <br/><br/>Our mission is to make any member’s dream of parenthood come true through a healthy, timely, and supported fertility and family building journey. <br/><br/>Come join a company that’s been recognized by Modern Healthcare as one of the Best Places to Work in Healthcare. <br/><br/> <br/><br/><strong>Our perks:</strong> <br/><br/><ul><li>Family friendly benefits: Paid maternity and paternity, fertility benefits (including egg freezing and IVF), emergency childcare program, parent’s group  </li><li>Health, dental, vision and life insurance options for employees and family  </li><li>Paid vacation and summer flex time  </li><li>Company equity  </li><li>Bonus program  </li><li>401K Match  </li><li>Company social events  </li><li>Flex days (3 days a week in the office) for positions located at NY office <br/><br/></li></ul>In compliance with New York City's Wage Transparency Law, the annual salary [wage] range for NYC-based applicants is: $135,000 - $160,000. There are a variety of factors that go into determining a salary range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required. Progyny offers a total compensation package comprised of base salary, cash bonus, and equity.<br/><br/>Progyny is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

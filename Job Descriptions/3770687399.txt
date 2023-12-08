@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What we’re building and why we’re building it. <br/><br/></strong>There’s a reason Fetch is ranked top 10 in Shopping in the App Store. Every day, millions of people earn Fetch Points buying brands they love. From the grocery aisle to the drive-through, Fetch makes saving money fun. We’re more than just a build-first tech unicorn. We’re a revolutionary shopping platform where brands and consumers come together for a loyalty-driving, points-exploding, money-saving party.<br/><br/>Join a fast-growing, founder-led technology company that’s still only in its early innings. Ranked one of America’s Best Startup Employers by Forbes two years in a row, Fetch is building a people-first culture rooted in trust and accountability. How do we do it? By empowering employees to think big, challenge ideas, and find new ways to bring the fun to Fetch. So what are you waiting for? Apply to join our rocketship today!<br/><br/><em>Fetch is an equal employment opportunity employer.<br/><br/></em><strong>The Role<br/><br/></strong>Fetch’s next step in evolving the shopping experience will require growing the engineering team. We’re looking for a<strong> Frontend Engineer Apprentice</strong> to contribute immediately and work on real features that impact our customers and partners. You will build and maintain world class web applications for our customer and external partners working directly with our backend services. You’ll be working on a small, multi-functional team that may include other engineers, a designer, product manager, data scientist and other roles. Success in this role requires the ability to take on challenging problems and design &amp; develop an amazing solution with light mentorship of an experienced team member.<br/><br/><strong>In Your Tool-bag<br/><br/></strong><ul><li>Flexibility to implement a feature from either a highly specific design OR a bare bones idea that needs thought &amp; iteration</li><li>Ability to strike the right balance between product design and technology to create the best possible solution</li><li>Familiarity with functional and/or object-oriented programming</li><li>Ability to optimize poorly performing code.</li><li>Ability to explain both short and long-term solutions with trade-offs</li><li>Effective communication, including the ability to translate and explain technical issues to non-technical team members<br/><br/></li></ul><strong>You Have Experience With<br/><br/></strong><ul><li>2 Frontend frameworks (React, Angular, Vue, Svelte)</li><li>Frontend Styling and layout (CSS, HTML, Sass or Less)</li><li>Deep understanding of JavaScript and experience with TypeScript</li><li>Design System Implementation</li><li>Responsive UI Design</li><li>Application State Management</li><li>Version control system (Git)</li><li>Test writing and quality assurance</li><li>Must be able to begin working for us immediately upon hire<br/><br/></li></ul><strong>Bonus Points<br/><br/></strong><ul><li>Full-stack development (Kotlin/Java, Javascript/Node, Python/Django, etc)</li><li>Messages queue and event streaming (Kafka, Kinesis, Redis Streams) </li><li>Continuous development </li><li>Experience with the automation of testing, building, and deploying frontend solutions</li><li>Data-Driven Design</li><li>Experience with Tailwind CSS or similar utility-first CSS framework</li><li>Charting, Dash-boarding, and Report Generation</li><li>Asynchronous or Reactive Programming</li><li>In-memory data stores and caches (Redis, Memcache)</li><li>Understanding of the complexity and failure domains of micro-services and distributed architectures, and how these can impact end-user experiences.</li><li>Undergraduate or graduate degree in computer science, engineering or mathematics</li><li>You will earn $40 per hour</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

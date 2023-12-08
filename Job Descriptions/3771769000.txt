@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Leonardo.Ai is seeking an AI Researcher to join our expanding, global AI team.<br/><br/>This is an exciting opportunity for AI or Machine Learning professionals and academics to join the brightest minds, helping Australia’s most potent AI-powered platform unleash the world’s creativity.<br/><br/><strong>The role:<br/><br/></strong>We are passionate about doing foundational AI (deep learning) research. We strive to integrate our breakthroughs into our platform to enhance the experience for our users.<br/><br/>In this position, you'll ethically investigate, design, and train cutting-edge foundational AI models, all while exploring methods to empower users with greater authority and influence over their digital art creations.<br/><br/><strong>About us:<br/><br/></strong>Leonardo.Ai is an AI-powered platform from Australia that enables users to create high-quality visual assets for various projects with unprecedented speed. It offers image generation, AI canvas, and 3D texture generation.<br/><br/>Since launching in December 2022, we’ve amassed over 7 million users, generating 100s millions of images.<br/><br/><strong>What you'll do:<br/><br/></strong><ul><li>Own complex problems, lead your specific area and integrate new research work into the pipeline and workflow. </li><li>Collaborate with the entire team to own a collective problem</li><li>Ensure that Research and Product are closely aligned to have a better impact on the customer</li><li>Developing and maintaining AI models, exploring, debugging, and validating AI models. </li><li>Ensuring that AI systems are working as intended and trust learning from software engineering best test practices</li><li>Improve data access, using generative AI, and developing a pro-innovation approach to AI regulation<br/><br/></li></ul><strong>Skills we like:<br/><br/></strong><ul><li>Experience in Python, deep learning frameworks, cloud computing, and software engineering</li><li>Knowledge of natural language processing, computer vision, ML model training, and data pipeline model creation. </li><li>Team player attitude capable of collaborating with cross-functional teams</li><li>Curious and stays on top of new and changing tools and techniques in the AI space. </li><li>Ph.D. in AI, experience in data, ML, and AI research,</li><li>Written research papers in NLP or CV and contributions to open-source AI code or repos<br/><br/></li></ul>If you're passionate about reading and publishing AI research papers, have a history of implementing AI models (open source/ proprietary), and are keen for exposure to bringing models to production, this role might be the perfect fit for you.<br/><br/><strong>Why Leonardo Ai?<br/><br/></strong><ul><li>Impact the Future of AI: Contribute to a unique opportunity to revolutionise content creation and build a platform at the forefront of generative AI. </li><li>Hybrid and Remote Options: We understand that flexibility is key. Choose a work arrangement that suits your lifestyle and allows you to do your best work. Our hybrid team members gather in the office 1-2 times per week on average, and we cater lunch on Fridays. </li><li>Sydney Headquarters: Our stunning office overlooking Neutral Bay serves as a collaborative space where teams come together to ideate, innovate, and build lasting relationships. </li><li>Diversity and Inclusion: We recognise that diversity is a superpower. We actively seek individuals from varied backgrounds, experiences, and perspectives to join our team. We believe in creating an inclusive environment where every voice is heard, valued, and contributes to our collective success. <br/><br/></li></ul>What to expect during your interview process with us<br/><br/>While we love technology, rest assured our interview process is all human! Your application will be reviewed by a member of our recruitment team and we'll be in touch either way to let you know the outcome. Here's what you can expect:<br/><br/><ul><li>Meet your recruiter: your friendly recruiter will schedule a 30 minute screening call with you to find out why you're interested in Leonardo and learn more about your experience so far. </li><li>Technical challenge: if you're applying for a technical role, there may be a short challenge to complete before moving to the next stage. </li><li>Meet your hiring manager: you'll spend time with the hiring manager for the role where they'll discuss your experience in depth with you. </li><li>Leadership interview: you'll meet someone from the leadership team at Leonardo as a final stage. <br/><br/></li></ul>If there are any adjustments we can make that would make you more comfortable at any point of the interview process, please don't hesitate to let us know.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

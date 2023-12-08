@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        About us: Mission Driven, Employee Focused<br/><br/>At CTI, you’ll be at the center of an award-winning corporate culture, breaking technological barriers and solving real-world problems for our federal government customers. We are committed to hiring the best of the best, and in return, we offer a world-class, truly unique employee experience that is rare within our industry.<br/><br/>If you’re a technical changemaker with a passion for Cyber Operations, Cloud and Data Analytics, or Engineering, we’re looking for you! Love what you do AND where you work - alongside a supportive, innovative team of like-minded individuals. After all, we know that your best work happens when you live your best life, and we do everything we can to make that possible. Are you ready for your best career move? Intel Agency polygraph is strongly preferred.<br/><br/>Due to Federal contract requirements, US citizenship and a TS/SCI security clearance is required for this position.<br/><br/>Description:<br/><br/>CTI is seeking an experienced TS/SCI polygraph cleared Java Software Engineer to contribute to Java software development activities both individually and as a member of an agile team. Actively participate in program increment planning and related team activities. Promote code reuse and cross-program collaboration while reducing maintenance costs by creating common functions and shared actions for developers and testers. Engineer, author, tune and document automation scripts in a development environment and deploy to the test/production bench.<br/><br/>The day-to-day:<br/><br/>As a Java Software Engineer you will perform software development activities as a member of an agile development team. Development includes the full range of turning agile stories into implementable concepts, through development, testing, and deployment of the new capabilities in this complex system. There are a range of opportunities for server-side business logic implementation as well as client web application and user interface (UI) development.<br/><br/>The qualifications (required):<br/><br/><ul><li> Must be a US Citizen</li><li> Must have TS/SCI clearance w/ active polygraph</li><li> Must have demonstrated experience with Java</li><li> Experience or familiarity with multiple the following: Java/JEE, Python, C/C++, SQL, SOAP, WSDL, WADL, PERL, PowerShell, VBS, Eclipse, Postgres, Oracle, Jenkins</li><li> Experience with Web Application User Interface Development, knowledge of databases and structures, and/or experience working with JSON, HTML, XML, XSLT</li><li> Experience with technologies underlying cryptographic systems (symmetric and asymmetric cryptography, ASN.1 encoding, XML canonicalization, digital signatures)</li><li> Must have documented professional experience with web services</li><li> Must have a strong understanding of sound Java software development principles and practices</li><li> Must be an independent thinker, capable of performing high quality work, both independently and with a team in a fast-moving environment<br/><br/><br/></li></ul>The nice-to-haves (desired, not required):<br/><br/><ul><li> Bachelor's degree in Computer Science or a related discipline</li><li> Experience with the following: JEE (EJB, JPA, JTA, JAX-B, JAX-RS, JAX-WS), SQL, application servers (Tomcat, WebLogic, JBoss), scripting.\</li><li> Experience with high level requirements management including requirements decomposition, secure systems engineering and development, trade-off analysis, interface control, and testing and continuous integration</li><li> Experience in software development on Agile teams using Agile Developer practices such as Pair Programming, TDD, Refactoring, and ATDD</li><li> Experience with FITNesse, Mockito, Cucumber, Unified Functional Tester (UFT), Selenium</li><li> Experience with Behavior Driven Development (BDD)</li><li> Secure Software development (i.e., Layer 7 Policy)</li><li> Experience with the Scaled Agile Framework (SAFe) methodology, SAFe Agilest Certification, or experience as a member of an agile team</li><li> Additional experience in J2EE, Python, C/C++, SQL, SOAP, WSDL, Postgres, Oracle, Mongo, PowerShell a plus<br/><br/><br/></li></ul>The benefits package:<br/><br/><ul><li> Affordable healthcare options with 80% employer paid premium PLUS a company-funded HSA</li><li> Dental insurance with 100% employer paid premium</li><li> Vision with 80% employer paid premium</li><li> Employer paid Life insurance 100%</li><li> Employer paid Short-term and Long-term disability 100%</li><li> Annual training, continued education, and professional memberships reimbursement</li><li> Unlimited access to Red Hat Enterprise Linux, AWS, and NetApp training and accreditation</li><li> Annual reimbursement for technology i.e. phones, computers, printers, etc</li><li> 401(k) with company match up to 5% with 100% immediate vesting (after 90 days of employment)<br/><br/><br/></li></ul>The environment and perks:<br/><br/><ul><li> Professional development investment and paid time off for training</li><li> Contract and work locations in Maryland, Virginia, Colorado, Texas, California, Florida and Hawaii</li><li> Team building events throughout the year such as Destination Family Events, Holiday Party, Monthly Get-Togethers</li><li> Leadership Team engagement and mentorship</li><li> Performance Recognition</li><li> Unlimited complimentary branded apparel<br/><br/><br/></li></ul>Don't see a job opening that's the perfect fit? Apply to our General Position to join our talent pool for consideration for future or potentially unlisted opportunities.<br/><br/>Know someone else who may be a good fit? Refer them through the CTI External Referral Program and you could receive a one-time referral bonus of up to $10,000! Email cti-staffing@cti-md.com for more information.<br/><br/>Constellation Technologies is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, religion, creed, color, national origin, ancestry, sex (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, medical condition, marital or domestic partner status, sexual orientation, gender, gender identity, gender expression and transgender status, mental disability or physical disability, genetic information, military or veteran status, citizenship, low-income status or any other status or characteristic protected by applicable law. Job applicants can submit questions about CTI’s equal employment opportunity policy to cti-hr@cti-md.com.<br/><br/>The pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are in search of skilled Data Analysts to join our team in support of a long-term program within Homeland Security, led by the Office of the Chief Financial Officer (OCFO). Our mission is to empower data-driven decision-making by developing and integrating cutting-edge analytical tools across various tasks. As a Data Analyst with us, you will play a pivotal role in constructing dashboards and reports that facilitate comprehensive data analysis, ensuring key stakeholders and subject matter experts can make informed decisions.<br/><br/><strong>Responsibilities<br/><br/></strong>Gather information from diverse sources and compile it into comprehensive work products such as dashboards, reports, and briefings for leadership's consideration.<br/><br/>Synthesize large datasets, creating visually appealing charts, graphs, reports, and dashboards.<br/><br/>Identify and implement model enhancements, document workload drivers, and incorporate forecasting and scenario analysis.<br/><br/>Collect, maintain, and update operational data from subject matter experts and systems of record.<br/><br/><strong>Education Requirements<br/><br/></strong>Bachelor's degree in Computer Science, Information Systems, or other technically relevant fields.<br/><br/><strong>Experience Requirements<br/><br/></strong>3 years of professional experience working with Data supported Federal clients.<br/><br/>Proficiency with Tableau, Tableau Desktop, R, and/or RStudio.<br/><br/>Translate complex data into easily understandable concise data visualizations, dashboards, and presentations.<br/><br/>Experience in dashboard and report development.<br/><br/><strong>Desired Requirements<br/><br/></strong>Ability to apply advanced concepts of operations research and statistics in solving a variety of complex problems.<br/><br/>Location:<br/><br/>Washington, DC (REMOTE)<br/><br/><strong>Security Requirements<br/><br/></strong>Ability to obtain and maintain a government clearance (Public Trust).<br/><br/>U.S. citizenship required, as this role supports a government agency.<br/><br/><strong>About Us<br/><br/></strong>We are a Data &amp; Digital Transformation company dedicated to delivering exceptional client service and transformative technology solutions for Government mission success. Specializing in Homeland Security, Biometrics, Law Enforcement, and Healthcare domains, we provide deep subject matter expertise to address complex mission challenges today and tomorrow. As a verified Service-Disabled Veteran-Owned Small Business (SDVOSB), we prioritize a customer-centric experience, building trusted partnerships with our clients and people.<br/><br/>Our Company is an Equal Opportunity Employer/Veterans/Disabled<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

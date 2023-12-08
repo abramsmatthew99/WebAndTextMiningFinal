@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: </strong>Programmer<br/><br/><strong>Security Clearance: </strong>N/A<br/><br/><strong>Suitability: </strong>DHS EOD<br/><br/><strong>Travel Requirement:</strong> N/A<br/><br/><strong>Telecommuting</strong>: Yes<br/><br/><strong>Location: </strong>Remote, but must live in commutable distance to White Oak, Maryland<br/><br/><strong>**This position requires either an active Public Trust clearance or an ability to obtain one.</strong>**<br/><br/><strong>Job Description<br/><br/></strong>OBAN is seeking a highly qualified Programmer to join our team dedicated to federal projects. In this critical role, you will analyze functional business applications and design specifications for various operational activities. Your expertise will be instrumental in translating intricate designs into robust computer software, developing block diagrams, and creating logic flow charts to ensure seamless functionality and compliance within federal regulations.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Analyze functional business applications and design specifications within the federal context.</li><li>Develop block diagrams and logic flow charts to visualize and enhance system architecture.</li><li>Translate intricate designs into compliant and efficient computer software.</li><li>Rigorously test, debug, and refine software to meet stringent federal standards and produce the required product.</li><li>Prepare comprehensive program-level and user-level documentation adhering to federal guidelines and protocols.</li><li>Enhance software systems to optimize efficiency and meet federal regulatory requirements.</li><li>Provide technical guidance and support to fellow programmers working on federal projects.</li><li>Apply specialized experience in large-scale database management systems to address complex software development needs aligned with federal mandates.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s Degree in Computer Science, Software Engineering, or a related field.</li><li>Minimum of six (6) years of progressive experience as an applications programmer in federal environments.</li><li>Proficiency in developing complex software aligned with federal compliance and security standards.</li><li>In-depth knowledge of computer equipment and systems, particularly in the federal sector.</li><li>Strong experience with large-scale database management systems in federal settings.</li><li>Exceptional problem-solving skills with an ability to navigate complex federal requirements.</li><li>Ability to work effectively within federal compliance frameworks and procedures.</li><li>Excellent communication, documentation, and collaboration skills, critical in federal project environments.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>Must be able to obtain and maintain the required government security clearances.</li><li>U.S. Citizen.<br/><br/></li></ul><strong>Company Summary<br/><br/></strong>We Help Our Clients Solve Complex Mission-Critical Challenges.<br/><br/>Established in 2008 and based in the Washington Metro Area, OBAN Corporation is a Service-Disabled, Veteran-Owned, Small Business (SDVOSB) and Small Business Administration 8(a) Program Participant that provides practical, strategic, and tactical management solutions to public and private sector clients.<br/><br/>OBAN works with our clients to meet their mission-critical objectives through expert advisory, administrative, and implementation support solutions. We develop and implement efficient and effective near-term and long-term roadmaps to help our clients navigate through some of their toughest and most complex business challenges.<br/><br/><strong>Top Benefits Or Perks<br/><br/></strong>As a team member at OBAN, you’ll enjoy:<br/><br/><ul><li>Active work environment</li><li>Comprehensive Benefits Package, including Health, Vision and Dental Insurance</li><li>Paid Time Off</li><li>Paid Federal Holidays</li><li>401K Retirement Plan</li><li>Training and Development</li><li>Employee Referral Bonus</li><li>Option to work remotely (subject to customer guidelines)<br/><br/></li></ul><em>OBAN is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Strategy/Planning and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from KTek Resourcing</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Mohammad Sohail" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4D03AQG8ie0LiqCTIA/profile-displayphoto-shrink_100_100/0/1691590258770?e=2147483647&amp;v=beta&amp;t=nEe1jgudiTZ7DN63BNoA-MQznC83KWOAk2Wp3Ywakj0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Mohammad Sohail
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Associate Manager @ KTek Resourcing | Certified, Experienced, Recruitment Expert
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Mohammad Sohail" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmohammad-sohail-1b70b7174&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Description: </strong></p><ul><li>Candidates for this role should have experience of working within a financial organization and display an understanding and appreciation for the complexities therein.</li><li>Experience with digital platforms, distributed systems, and Cloud technologies is also critical.</li><li>Experience within a continuously changing environment that influences the banking experience for clients and employees, including driving consistent frameworks and methodologies to support consistency is critical for this role. Attention to detail and an ability to convey relevant information at summary and detailed levels are key factors to success in this role. Requires experience in both waterfall and agile methodologies.</li></ul><p><br/></p><p><strong>Job Responsibilities</strong></p><ul><li>Executes creative software solutions design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems,</li><li>Work with product managers, architects, and other engineers to follow in translating requirements to solution options and recommendations.</li><li>Drive solution designs inclusive of clear annotations on key components and flows, considerations and options, recommendations, and justifications</li><li>Develops secure and high-quality production code and reviews and debugs code written by others.</li><li>Ensure commitments are met while providing high-quality and cost-effective systems that meet client expectations. </li><li>Adapt digital Agile approach and work with mobile vendors to implement the mobile solution.</li><li>Keep up to date on modern technology, standards, protocols, and tools in areas relevant to the rapidly changing digital environment.</li><li>Troubleshoot and fix issues in production and non-production environments.</li><li>Work with server engineers to design API (Application Programming Interfaces) specs.</li><li>Propose and implement process improvements to make our engineering team even better.</li></ul><p><br/></p><p><strong>Required qualifications, capabilities, and skills.</strong></p><ul><li>Bachelor’s degree (or equivalent) in Computer Science or related field</li><li>5-7+ years of experience with strong app development skills and relevant practice in a technology environment</li><li>Experience in Native Mobile app development (Android devices); hands on Kotlin/RxJava</li><li>MVVM/Clean Architecture</li><li>OOP</li><li>Networking HTTP, SOAP, and REST</li><li>Advanced Android Platform Skills - Strong knowledge of Android frameworks, familiar with Android design principles and material design</li><li>Experience securing applications via device registration, biometrics, platform integrity and keychain. </li><li>Experience in mobile app encryption, data protection, and addressing security vulnerabilities.</li><li>Familiar with test driven development and testing frameworks.</li><li>A knack for benchmarking and optimization</li><li>Familiarity with cloud message APIs (Application Programming Interfaces) and push notifications</li><li>Experience with offline storage, threading, and performance tuning</li></ul><p><br/></p><p><strong>Preferred qualifications, capabilities, and skills</strong></p><ul><li>Experience in developing hybrid mobile applications using frameworks like Ionic React, React Native, Flutter</li><li>Experience in releasing apps to App Store or Enterprise App Stores using CI/CD pipeline.</li><li>Experience in working on large and complex mobile apps.</li><li>Strong People leadership skills</li><li>Excellent written and oral communication skills</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

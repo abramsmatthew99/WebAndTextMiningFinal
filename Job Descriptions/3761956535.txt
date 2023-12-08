@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Kavaliro has partnered with a client who is seeking a Programmer Analyst in Daytona Beach, FL.</p><p><br/></p><p><strong>Responsibilities:</strong></p><ul><li>Analyze current applications for efficiency</li><li>Identify problems and recommend changes and upgrades</li><li>Oversee implementation of new programs</li><li>Develop training programs for staff on new systems</li><li>Monitor systems and troubleshoot when necessary</li></ul><p><br/></p><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>Bechelor's degree in computer science, IT, or a related field; bachelor's degree preferred</li><li>Experience with C# programming and .Net, HTML, CSS</li></ul><p><br/></p><p><br/></p><p><em>Kavaliro provides Equal Employment Opportunities to all employees and applicants. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. Kavaliro is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Kavaliro will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please respond to this posting to connect with a company representative.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Relations Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

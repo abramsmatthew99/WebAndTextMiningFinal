@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        “We Power the Magic!” That’s our motto at Disney Experiences. Our team creates world-class immersive digital experiences for the Company’s premier vacation brands including Disney’s Parks &amp; Resorts worldwide, Disney Cruise Line, Aulani, A Disney Resort &amp; Spa, and Disney Vacation Club.<br/><br/>We are responsible for the end-to-end digital and physical Guest experience for all technology &amp; digital-led initiatives across the Attractions &amp; Entertainment, Food &amp; Beverage, Resorts &amp; Transportation and Merchandise lines of business as well as other initiatives including MyDisneyExperience and Hey, Disney!<br/><br/>The Software Engineer applies practical knowledge of development and engineering to conceive, design, develop, test, and implement software fixes, improvements, components, and/or new software systems and applications of moderate complexity. The Software Engineer focuses on coding at the component level and works under minimal direction. The Software Engineer designs and develops highly scalable software systems and applications in a designated functional focus area(s).<br/><br/><strong>Responsibilities<br/><br/><br/></strong><ul><li>Complete assigned component level software development and fixes using new or existing technologies</li><li>Participates in developing specifications for assigned components, projects or fixes</li><li>Writes code, completes programming, writes tests, performs testing and debugs code</li><li>Follows established protocols for installation and maintenance and completes documentation</li><li>Develops, runs, builds and maintains the technical components related to server-side and web service-based solutions</li><li>Develops an understanding of the front-end technology stack and is able to assist with end-to-end solving</li><li>Interacts and coordinates work with other technical groups in the organization</li><li>Reviews or solves problems and performs testing</li><li>Participates in conceiving and setting the architectural direction for web development projects<br/><br/><br/></li></ul><strong>Qualifications<br/><br/><br/></strong><ul><li>Bachelor’s degree in computer science or similar field or related work experience</li><li>3+ years of progressively related experience in coding and development of highly scalable, high-volume software components, and/or client-facing web applications</li><li>Knowledge of object-oriented design principles, design patterns, coding standard methodologies, database applications, and web application development<br/><br/><br/></li></ul><strong>Significant knowledge/experience in relevant technologies:<br/><br/><br/></strong><ul><li>Java</li><li>Web Services (SOAP &amp; REST)</li><li>SQL</li><li>CS Fundamentals</li><li>Development Tools</li><li>JSON</li><li>Message Queues</li><li>XML DTDs</li><li>HTTP Protocol<br/><br/><br/></li></ul><strong>Preferred qualifications:<br/><br/><br/></strong><ul><li>AWS – Lambda, SQS, S3, API Gateway, CloudWatch</li><li>Solid understanding of micro-services</li><li>RESTful Web Services or APIs using Spring boot, Spring Cloud Function, JPA, JAXB<br/><br/><br/></li></ul>#DISNEYTEHC<br/><br/>#DPEPFL<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

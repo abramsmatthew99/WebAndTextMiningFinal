@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Senior Machine Learning Engineer<br/><br/></strong><strong>Pay: </strong>$120 - $130 w2<br/><br/><strong>Contract Length:</strong> 3 months contract (potential extension)<br/><br/><strong>Location: 100% remote <br/><br/></strong><strong>Purpose<br/><br/></strong>We are working to Advance Care through data-driven decisions and automation. This mission serves as the foundation for every decision as we create the future of travel. We can’t do that without the best talent – talent that is innovative, curious, and driven to create exceptional experiences for our guests, customers, owners and colleagues.??<br/><br/>In this role you will design and implement algorithmic product architectures to bring our machine learning models to life across the full lifecycle of the product including data ingestion, ML processing, and results delivery/activation. This role will work cross-functionally with various data science teams, data engineering teams, and data architecture teams. The ideal candidate can serve as both solutions architect as well as hands-on implementation engineer and guide the team towards best-in-class algorithmic product implementations.<br/><br/>You will be a part of a ground-floor, hands-on, highly visible team which is positioned for growth and is highly collaborative and passionate about data science.<br/><br/>Applying the latest techniques and approaches across the domains of data science, machine learning, and AI isn’t just a nice to have, it’s a must.<br/><br/><strong>Position Responsibilities<br/><br/></strong><ul><li> Partner with data scientists to design workflows/architectures that activate ML models and maximize their impact, such as real-time streaming use-cases and offline batch optimizations.</li><li> Partner with data scientists to develop prototype solutions of algorithmic products leveraging appropriate AWS services with appropriate consideration for scale and latency where applicable.</li><li> Implement and productionize final solutions via infrastructure-as-code pattern.</li><li> Implement data processing workflows to enhance our Feature Store with impactful data including appropriate data cleansing/imputation logic.</li><li> Enhance existing algorithmic products architecture/workflow as needed to maximize impact of the algorithmic product.</li><li> Partner with data engineering team to ensure data science data needs are being delivered in the appropriate format/cadence required for maximum impact.</li><li> Stay up to date with latest design patterns and AWS services with respect to Machine Learning Engineering.</li><li> Partner with data architecture, data governance, and security team to ensure solutions meet required standards.<br/><br/></li></ul><strong>Experience And Qualifications<br/><br/></strong><ul><li> 5+ years of implementing software product solutions in a cloud environment with a focus on algorithmic/machine learning products, hospitality experience not required</li><li> Expertise in AWS cloud services</li><li> Expertise in Python, SQL, PySpark, Docker</li><li> Experience with streaming and batch data architectures at scale</li><li> Experience operating in an Agile Methodology environment.</li><li> Experience with DevOps and CI/CD concepts<br/><br/></li></ul><strong>Education<br/><br/></strong>master’s degree in computer science, software engineering, or related fields required<br/><br/>#PCIT<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

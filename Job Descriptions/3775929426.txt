@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Microsoft’s <strong>Cloud Operations and Innovation (CO+I)</strong> Team builds and operates Microsoft datacenters, which in turn power Microsoft’s cloud business. We anticipate and provide capacity for continuous scale. The CO+I Engineering (CO+IE) Team delivers services, applications, and automation supporting datacenter planning, construction, and operation. We own a large portfolio of services, including workflows that enable predicable, lowest cost datacenter construction, telemetry systems that drive high availability and optimized energy usage, and task and performance management applications that help our operation run as efficiently as possible. CO+IE is a competitive advantage for Microsoft, and an important pillar in its cloud success.<br/><br/>As a Software Engineer, you will be responsible for delivering automation capabilities (that power the long-range execution planning efforts), driving workflow improvements, and building solutions to assist in the delivery of large scale datacenters through efficient management of cost and schedule.<br/><br/>In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Work with appropriate stakeholders to determine user requirements for features.</li><li>Support identification of dependencies and the development of design documents for product features with oversight.</li><li>Learn to create and implement code for a product, service, or feature reusing code as applicable.</li><li>Assist and learn about breaking down work items into tasks and providing estimation.</li><li>Act as a Designated Responsible Individual (DRI) in monitoring system/product feature/service for degradation, downtime, or interruptions for simple problems, and recommend actions to restore system/product/service by following the playbook.</li><li>Review current developments and proactively seek new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Required/Minimum Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><ul><li>OR equivalent experience.<br/></li></ul></ul><strong>Other Requirements<br/><br/></strong><ul><li>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to, the following specialized security screenings:</li><ul><li>Microsoft Cloud Background Check - This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br/></li></ul></ul><strong>Preferred/Additional Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science or related technical field AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><ul><li>OR Master's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><li>OR equivalent experience.<br/></li></ul></ul>Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $76,400 - $151,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $100,300 - $165,400 per year.<br/><br/>Software Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.<br/><br/>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay.<br/><br/>#COICareers<br/><br/>#COIEngCareers<br/><br/>#COIE_DPXEcareers<br/><br/>Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

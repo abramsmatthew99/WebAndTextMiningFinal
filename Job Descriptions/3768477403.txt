@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        A perfect car is the product of the perfect process. Production at the BMW Group is highly automated and carried out using the most modern facilities. But it doesn’t run itself. To ensure that driving pleasure is built in from the beginning, means people working with passion and pride. Independently and as part of a motivated team, they perform extraordinary things every day and contribute to the fulfilling of automobile dreams.<br/><br/>IT PEG Systems Specialist:<br/><br/><ul><li>Manages and executes the planning, testing, setup, and maintenance for new and existing production systems while ensuring no negative impacts to running production.</li><li>Installs, maintains software and implements measures to protect against malicious cyber security threats for network connected production devices/systems.</li><li>Works closely with Planning and IT departments to ensure adherence to established standards and norms.</li><li>Adheres to BMW Groups IT Process Quality Management (ITPM) methodology in performing all tasks.</li><li>Ensures that all production devices are protected by ensuring latest group malware and virus protection software and patches are implemented.</li><li>Tests, plans, communicates and provides patching application to devices on a defined schedule.</li><li>Supports the central task force organization targets and goals for protection against malicious threats to network connected production devices/systems.</li><li>Plans, analyzes, designs (including functional design), defines requirements, tests and implements IT solutions according to BMW Group's IT Process Quality Management (ITPM) methodology.</li><li>Coordinates with project planners, CERT, central Task Force organization and IT for the installation or removal of network required by project work.</li><li>Works continuously to identify opportunities to apply new and existing technology to business processes.</li><li>Works with business key users to define technology needs, understand costs, business benefits and implementation requirements.</li><li>Documents and maintains complete device registry for the department.</li><li>Establishes and maintains technical security architecture, availability, overall performance and maintenance activities.</li><li>Ensures system availability, redundancy, backups and recoverability (installations, upgrades, patches, business copies, preventative maintenance, high availability, fast recovery, drive lock, etc.).</li><li>Manages all related KPI for software licensing, malware protection, risk avoidance, network performance, etc. for production systems.</li><li>Manages multiple projects simultaneously including investment, budget, new product planning, development and implementation of system solutions.</li><li>Coordinates change management through communication of project plans, status updates, including milestone variance to management.</li><li>Administers and/or participates in group network meetings and Change Control Boards with business users and IT associates for information exchange and benchmarking activities.</li><li>Develops system interface scripts to automate administrative tasks and facilitate data movement.</li><li>Understands and models VPS (Value Added Production System) Principles and concepts of Standard Work.</li><li>Adheres to 5S and Safety Standards and Principles.</li><li>Performs other duties as assigned by management.<br/><br/></li></ul>BMW Manufacturing is a leader in innovations and excellence. Come be a part of the extraordinary advanced manufacturing team where new technologies and ideas are constantly being discovered and implemented.<br/><br/>BMW Manufacturing is proud to be located in Upstate, South Carolina at the foothills of the beautiful Blue Ridge Mountains, providing the perfect mix of exciting city life and the great outdoors, or simply a great environment in which to raise a family.<br/><br/>In addition to offering a stimulating work environment and a great place to live, BMW Associates have access to an exceptional range of benefits. Our comprehensive benefits program includes:<br/><br/><ul><li> Medical, Dental, Prescription and Vision coverage</li><li> Paid time off</li><li> 401(k) plan with company matching contribution</li><li> Retirement Income Account</li><li> Life insurance</li><li> BMW Associates Assistance Program</li><li> Medical Flexible Spending Account (FSA)</li><li> Company vehicle program<br/><br/></li></ul>Qualification:<br/><br/><ul><li>BA/BS Degree in Engineering, Information Technology, or Computer Science or the equivalent of 4 years professional of engineering, IT, or controls experience in a manufacturing environment.</li><li>5+ years of experience in IT or Systems Management (preferably in a manufacturing environment) to include system security, project management, administration, network services, business processes, script creation and operating systems required to support production.</li><li>2+ years of experience planning, analyzing, designing, testing, implementing, and maintaining production systems and developing related IT solutions.</li><li>MS Professional Engineer or A+ Certification (preferred).</li><li>2+ years of knowledge of operating system management, system architecture and development techniques (Windows XP, 7.0, 10, CE), Windows Scripting and MSI package.</li><li>2+ years of knowledge of system architectures; Operating Systems, Active directories, Group policies, Networks, Databases, Internet Technologies, &amp; Data communication.</li><li>2+ years of knowledge of networking, storage management, retrieval, redundancy and performance tuning concepts, high availability architectures and solutions (clusters).</li><li>Basic knowledge of Siemens TIA and Wincc flex (preferred).</li><li>Basic German language skills (preferred).<br/><br/></li></ul>BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.<br/><br/>Employment with BMW Manufacturing Co., LLC (BMW MC) is at-will and may be terminated at any time, with or without notice, at the option of BMW MC or the employee.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

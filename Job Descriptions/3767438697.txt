@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        EGlobalTech (EGT), a Tetra Tech Company, is searching for an experienced website developer to bring style sheets, user personas, and wireframes to life for our federal client. Successful candidates will build and develop software applications by understanding user needs, writing well designed code, conducting validation/testing and executing full SDLC from design through release. They will work collaboratively sharing information, valuing diverse ideas, and partnering with cross functional and remote teams. Candidates should be curious and innovative to improve efficiency of a technical component. EGT offers excellent compensation, career growth potential, and a benefits package that includes PTO and Holidays, continuing training and education reimbursements, 401K match after just 90 days, an Employee Stock Purchase Plan (ESPP) and more!<br/><br/><ul><li>Work regularly with an existing customer in the federal government to develop and deploy software applications</li><li>Develop enhancements to already existing applications built using React.js</li><li>Conduct validation and testing</li><li>Work with Team Lead to address challenges and develop innovative solutions to solve our client's most critical problems</li><li>Bachelor of Science in Engineering, Computer Science, Mathematics, or relevant field</li><li>At least 3 years experience with front end web development (HTML, CSS)</li><li>At least 3 years with GitHub and understand GitHub workflow for development</li><li>Has experience with Jekyll, Ruby, or other static site generators</li><li>Has experience with UI/UX human centered design</li><li>Experience with REACT or JavaScript</li><li>Excellent communication and interpersonal skills</li><li>This position requires a badge and or clearance that will require an extensive background, credit, and drug screening requirement</li><li>10+ years of professional software development experience<br/><br/><br/></li></ul>EGlobalTech (EGT), a Tetra Tech Company, is a leading management and IT consulting firm in the Washington, D.C. metropolitan area. Our focus is to provide the public sector with innovative solutions, leveraging cutting-edge tools and methodologies to meet the Government’s most pressing business needs. To achieve this objective, our core practice areas – strategy, IT solutions development, cyber security, and cloud computing – are integrated to provide clients with comprehensive end-to-end results. This integration enables our highly motivated teams to thrive in a culture that encourages out-of-the-box thinking, collaboration and an environment where you can excel. For more information, please visit our website at www.eglobaltech.com<br/><br/><strong>Equal Employment Opportunity<br/><br/></strong>As a condition of employment with EGlobalTech, any successful job applicant will be required to successfully complete a background investigation, which may also include a pre-employment drug screen and/or a credit check for positions in some areas of our business. EGlobalTech is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, age, status as a protected veteran, sexual orientation, gender identity, or status as a qualified individual with a disability. EGlobalTech participates in the E-Verify program. <em>EEO is the law.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

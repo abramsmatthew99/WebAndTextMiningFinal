@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Our Company<br/><br/></strong>At Teradata, we believe that people thrive when empowered with better information. That’s why we built the most complete cloud analytics and data platform for AI. By delivering harmonized data, trusted AI, and faster innovation, we uplift and empower our customers—and our customers’ customers—to make better, more confident decisions. The world’s top companies across every major industry trust Teradata to improve business performance, enrich customer experiences, and fully integrate data across the enterprise.<br/><br/><strong>Teradata’s Intern Program<br/><br/></strong>Our summer internship program lasts 10-12 weeks beginning in May/June and ending in August/September. We offer a fast-paced, flexible, fun environment where you will have the opportunity to work on meaningful projects and face new challenges every day.<br/><br/><strong>Location <br/><br/></strong>Our program is fully virtual. Interns must remain in the US for the duration of the internship.<br/><br/><strong>What You’ll Do<br/><br/></strong>You will get to work on one of the many exciting projects in our pipeline. Some examples include<br/><br/><ul><li>Extending our telemetry solution to the next level - clean reporting on opportunities for CX or efficiency improvement, identification of and alerting on performance profile changes etc.</li><li>Enabling high granularity real time monitoring of change controls, estimate time remaining, alerting on variance</li><li>Customer-facing upgrade benefits reports (i.e. list of new features, bug fixes, security patches etc. upon upgrading to the new version)<br/><br/></li></ul><strong>Who You’ll Work With<br/><br/></strong>Our global Software Development team is focused on delivering secure, high-quality solutions for automated service delivery to delight our customers. We are grounded by our core principles and building teams that are<br/><br/><ul><li>Customer and market-driven</li><li>Agile in execution, and</li><li>Accountable to each other<br/><br/></li></ul><strong>What Makes You a Qualified Candidate<br/><br/></strong><ul><li>Must be enrolled in a MS/PhD degree program in Computer Science, Engineering, or other relevant discipline, With graduation dates between December 2024-June 2026</li><li>Experience with coding in Python or any object-oriented programming language</li><li>Demonstrable project experience in school or from personal projects</li><li>Unit testing experience (a plus). <br/><br/></li></ul><strong>What You’ll Bring<br/><br/></strong><ul><li>Openness to learn new things and work in a collaborative, global team environment </li><li>Experience or familiarity with virtual computing, Linux OS, Jenkins, and PyTest, </li><li>Familiarity with Agile software development principles. <br/><br/></li></ul><strong><br/><br/><strong>Why We Think You’ll Love Teradata<br/><br/></strong>We prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both personally and professionally. We are an anti-racist company because our dedication to Diversity, Equity, and Inclusion is more than a statement. It is a deep commitment to doing the work to foster an equitable environment that celebrates people for all of who they are.<br/><br/>Teradata invites all identities and backgrounds in the workplace. We work with deliberation and intent to ensure we are cultivating collaboration and inclusivity across our global organization. ​ We are proud to be an equal opportunity and affirmative action employer. We do not discriminate based upon race, color, ancestry, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related conditions), national origin, sexual orientation, age, citizenship, marital status, disability, medical condition, genetic information, gender identity or expression, military and veteran status, or any other legally protected status.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

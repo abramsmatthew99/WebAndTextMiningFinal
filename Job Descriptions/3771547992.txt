@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Bring your heart to CVS Health.</p><p><br/></p><p>Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.</p><p><br/></p><p>Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.</p><p><br/></p><p><strong>Position Summary</strong></p><p><br/></p><p>This individual contributor position is responsible for in-depth development of business analytics solutions. This position will work in collaboration with business stakeholders, developers, and analysts to develop data driven solutions. This is a technical position that will involve gathering requirements, preparing documentation, combining data from multiple sources, developing ETL pipelines, and creating new datasets to support downstream reporting.</p><p><br/></p><p><strong>Required Qualifications</strong></p><p><br/></p><ul><li>5+ years of analytics experience with advanced SQL programming ability in a data warehouse or big data analytics environment (CTEs, subqueries, windowed aggregations, stored procedures, etc.).</li><li>Experience preparing and combining data from multiple sources (SAS, SSIS, Alteryx, etc.) or equivalent tools.</li><li>3+ years of experience building efficient, high quality, integrated and increasingly real-time ETL processes using tools, programming languages and services (SSIS etc.).</li></ul><p><br/></p><p><br/></p><p><strong>Preferred Qualifications</strong></p><p><br/></p><ul><li>Experience conducting analysis and working with healthcare claims and services data.</li><li>Experience developing and publishing dashboards/reports with BI tools (Tableau, Power BI, etc.) or equivalent tools.</li><li>Experience in Google Cloud Platform such as BigQuery, Composer, Storage Buckets, DataProc, Vertex AI, etc.</li><li>Well-versed in data modeling concepts (dimensional/fact, cardinality, normalization, etc.).</li><li>Strong problem-solving skills and critical thinking ability.</li><li>Strong collaboration and communication skills within and across teams.</li></ul><p><br/></p><p><br/></p><p><strong>Education</strong></p><p><br/></p><ul><li>Bachelor's degree in computer science, computer engineering, information systems, or related field</li></ul><p><br/></p><p><strong>Pay Range</strong></p><p><br/></p><p>The typical pay range for this role is:</p><p><br/></p><p>$67,900.00 – $136,400.00</p><p><br/></p><p>This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. This position also includes an award target in the company’s equity award program.</p><p><br/></p><p>In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company’s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits. CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (“PTO”) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.</p><p><br/></p><p>For more detailed information on available benefits, please visit jobs.CVSHealth.com/benefits</p><p><br/></p><p>CVS Health requires certain colleagues to be fully vaccinated against COVID-19 (including any booster shots if required), where allowable under the law, unless they are approved for a reasonable accommodation based on disability, medical condition, religious belief, or other legally recognized reasons that prevents them from being vaccinated.</p><p><br/></p><p>You are required to have received at least one COVID-19 shot prior to your first day of employment and to provide proof of your vaccination status or apply for a reasonable accommodation within the first 10 days of your employment. Please note that in some states and roles, you may be required to provide proof of full vaccination or an approved reasonable accommodation before you can begin to actively work.</p><p><br/></p><p>CVS Health is committed to recruiting, hiring, developing, advancing, and retaining individuals with disabilities. As such, we strive to provide equal access to the benefits and privileges of employment, including the provision of a reasonable accommodation to perform essential job functions. CVS Health can provide a request for a reasonable accommodation, including a qualified interpreter, written information in other formats, translation or other services through ColleagueRelations@CVSHealth.com If you have a speech or hearing disability, please call 7-1-1 to utilize Telecommunications Relay Services (TRS). We will make every effort to respond to your request within 48 business hours and do everything we can to work towards a solution.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology, Engineering, and Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wellness and Fitness Services and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

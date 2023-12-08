@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        At Qualia, we've built the leading B2B real estate technology that transforms the home buying and selling experience into a simple, secure, and enjoyable process. Our SMB and Enterprise products bring together users from across the real estate ecosystem---homebuyers and sellers, lenders, title and escrow agents, and real estate agents---onto a single shared digital closing platform, providing greater clarity and transparency to real estate transactions. Today, through our business customers across the country, millions of consumers use Qualia to close on homes every year.<br/><br/><strong>What You'll Work On<br/><br/></strong>We are hiring entrepreneurial engineers interested in being a part of our product-focused engineering team. Our engineers are conscientious hackers who like teamwork but are also comfortable with independent projects. Our engineering team releases new software every week, moves at a fast pace, and works directly with our design and customer-facing teams to imagine and build the new experiences our customers love. Because of that, you’ll get a rewarding variety of projects to work on.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Your work will focus on building web technologies, both frontend, and backend. You will develop exciting new products and add new features to our core web applications. </li><li> Our engineers are generalists, and your responsibilities will be flexible based on company needs as well as your skills and interests. <br/><br/><br/></li></ul><strong><strong>YOUR BACKGROUND THAT LIKELY MAKES YOU A MATCH<br/><br/></strong></strong><ul><li> We are looking for strong full-stack engineers. </li><li> We value engineers who have good product sense, attention to detail, and passion for the impact of the software they build. </li><li> 3+ years of professional experience in software development and a Bachelor's Degree in Computer Science or in a relevant field of study. <br/><br/><br/></li></ul><strong><strong>THE TECH STACK YOU'LL USE<br/><br/></strong></strong><ul><li> Javascript / NodeJS </li><li> Semantic UI </li><li> MongoDB </li><li> Microservice architecture / Kubernetes </li><li> AWS <br/><br/></li></ul>California and Colorado Applicants: This role has a base annual salary of $130,000-$150,000 plus a competitive equity and benefits package. (Salary to be determined by relevant experience, location, knowledge, and skills of the applicant, internal equity, and alignment with market data.)<br/><br/><br/><strong><strong>WHY QUALIA<br/><br/></strong></strong>Qualia is made up of incredibly bright, mission-driven coworkers who are passionate about using technology to solve real world problems---and we're growing quickly. In order to continue building an engaging and dynamic organization, we're committed to giving everyone the support they need to do great work.<br/><br/>Our benefits package is designed to allow our team members to be their best selves, both in and out of the workplace. In addition to comprehensive health plans, a 401k program, and commuter benefits, we prioritize family and personal well-being through professional development, parental leave, and a flexible time off policy. Qualia offers a robust online onboarding program to train new hires, biweekly all hands meetings, and a variety of internal virtual events to keep employees connected.<br/><br/>We believe diverse perspectives and backgrounds are critical to building great technology, and our goal is to cultivate an environment where people feel equally valued and respected. Qualia is proud to be an equal opportunity workplace, and we welcome applicants from all backgrounds regardless of race, color, ancestry, religion, gender identity or expression, sexual orientation, marital status, age, citizenship, socioeconomic status, disability, or veteran status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

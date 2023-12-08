@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Current is a leading U.S. fintech serving people who have been overlooked by traditional banks with nearly 4 million members. Headquartered in NYC, our results-driven environment enables us to build better products, grow faster and empower everyone on our team to have an impact on our business and our mission to improve financial outcomes for our members.<br/><br/><strong>About The Role<br/><br/></strong>We are looking for an experienced Credit Risk Associate to join our rapidly growing credit risk team work within a highly quantitative framework. This person will play a critical role in developing data driven credit risk management frameworks for credit and lending products offered by Current.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Write new and maintain existing credit policies and procedures.</li><li>Build credit risk rules across the credit lifecycle for lending/ liquidity products that include secured credit card, liquidity products or future credit products.</li><li>Monitor performance and optimize credit risk rules for target risk adjusted returns</li><li>Perform in-depth analysis using internal, 3rd party and credit bureau data to identify gaps, mitigate losses and support product growth.</li><li>Build and manage ongoing processes and reporting for existing lending/ liquidity products</li><li>Develop insights to solve complex problems and communicate ideas to internal stakeholders.</li><li>Partner with Product and Engineers to validate &amp; deploy strategies in an efficient, sustainable &amp; usable manner.</li><li>Partner with the Data &amp; Analytics team to develop credit portfolio tracking.<br/><br/></li></ul><strong>About You<br/><br/></strong><ul><li>3 to 6 years of progressive experience in credit risk management with consumer credit, or a combination of credit risk and payments risk.</li><li>At least 3 years of prior experience in building risk policies, rules and strategy for credit/ lending products.</li><li>Detailed knowledge of credit bureau data, bank statement transaction data, or alternative credit data from providers. </li><li>Experience within the start-up space is a plus.</li><li>Minimum Bachelor’s Degree in a quantitative field such as Finance, Economics, Mathematics, Computer Science or equivalent.</li><li>Advanced knowledge and experience with SQL and MS Excel</li><li>Intermediate level of expertise and experience using Python <br/><br/></li></ul>This role has a base salary range of $120,000 - $145,000. Compensation is determined based on experience, skill level, and qualifications, which are assessed during the interview process. Current offers a competitive total rewards package which includes base salary, equity, and comprehensive benefits.<br/><br/><strong>Benefits<br/><br/></strong><ul><li>Competitive salary </li><li>Meaningful equity in the form of stock options </li><li>401(k) plan</li><li>Discretionary performance bonus program </li><li>Biannual performance reviews</li><li>Medical, Dental and Vision premiums covered at 100% for you and your dependents </li><li>Flexible time off and paid holidays </li><li>Generous parental leave policy</li><li>Commuter benefits </li><li>Fitness benefits</li><li>Healthcare and Dependent care FSA benefit </li><li>Employee Assistance Programs focused on mental health </li><li>Healthcare advocacy program for all employees </li><li>Access to mental health apps </li><li>Team building activities</li><li>Our modern Chelsea-based office with open floor plan, stocked kitchen, and catered lunches</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

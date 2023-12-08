@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Please note: this role will require some on-site in Warwick, Rhode Island.<br/><br/></strong>At Ferrilli, we are committed to driving positive change in higher education through the revolutionary power of technology. Our mission is to foster student success by maximizing the potential of technology on campuses. With a comprehensive and holistic approach, we provide unwavering support in IT services and IT consulting, optimizing existing technology infrastructure, and implementing cutting-edge solutions to help our clients achieve their goals.<br/><br/><strong>Position Summary<br/><br/></strong>We are currently seeking an experienced IT Operations Manager to join our team in Warwick, Rhode Island. Reporting to the Vice President of Information Technology, this role is pivotal for the day-to-day delivery of essential IT services and support, with a specific focus on data and telecommunications, disaster recovery, security, servers and networking, vendor management, and project management.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Administer VOIP and cellular phone hardware, including vendor management.</li><li>Collaborate with the IT Security team to monitor, investigate, and escalate alerts.</li><li>Manage IT vendor relationships, contracts, and purchases.</li><li>Lead projects related to the implementation of new services and technologies.</li><li>Utilize ITIL best practices for issue resolution and end-user support.</li><li>Manage deployment, monitoring, and maintenance of IT systems, including servers (on-premise and cloud), computers, hardware, software, and communication technologies.</li><li>Oversee MSP and other vendors, ensuring optimal availability and performance of IT services.</li><li>Implement IT policies and plans based on industry best practices.</li><li>Analyze and recommend improvements for network infrastructure and IT systems.</li><li>Collaborate with internal stakeholders and external vendors to support new business capabilities and optimize processes.</li><li>Develop and implement business continuity and data backup plans.</li><li>Collaborate on cybersecurity program development and execution.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Computer Information Technology, Management Information Systems, Computer Science, or related field.</li><li>10+ years of IT operations experience in Microsoft Windows environments.</li><li>Expertise in MDM solutions, Microsoft 365, Azure administration, and supporting Microsoft SQL Server.</li><li>Strong project management, organizational skills, and industry-standard certifications (Network+, Security+).</li><li>Experience with configuring and maintaining Windows imaging and deployment tools.<br/><br/></li></ul><em><strong>This position requires you to be on-site three days a week in Warwick, Rhode Island.</strong></em><em><strong> We will cover all travel expenses.</strong></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Strategy/Planning and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

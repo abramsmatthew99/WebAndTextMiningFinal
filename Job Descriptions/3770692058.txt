@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Problem Solvers. Proactive Protectors. Relentless Allies. <br/><br/></strong><strong>Ready to join us? Let's get started. <br/><br/></strong>This part-time position is responsible for working as part of a team, enhancing and maintaining existing software products. The ideal candidate seeks to work 15-20 hours per week while enrolled in a related software development program and has experience with IBM i, RPG, and CL.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Implement all assigned tasks</li><li>Will work within a team structure</li><li>Diagnose and fix assigned defects and enhancements within the assigned project</li><li>Actively participate in Agile ceremonies. </li><li>Other duties as assigned<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Be currently enrolled in a software development-related degree program. </li><li>Be scheduled to graduate on or after Spring 2024. </li><li>Some relevant coursework or experience with IBM i, RPG, and/or CL. </li><li>Some knowledge and understanding of the Agile/Scrum Project development methodology preferred. </li><li>Good communications skills both verbal and written. </li><li>The ability to collaborate and work with on team are necessary. </li><li>Some previous coding experience is necessary - either in an education or professional environment. <br/><br/></li></ul><strong>About Us<br/><br/></strong>This is Fortra, where we're making a difference by offering a best-in-class solutions portfolio, proactively adapting to the ever-evolving cybersecurity threat landscape, and putting people first. Fortra is a cybersecurity company like no other. We're known for our innovative software and services, world-class support, and the commitment and satisfaction of employees across the globe. Our approach is different, and we’re proud of that. For more information about what it's like to work for us, and learn about our culture, benefits, or perks, connect with us on LinkedIn.<br/><br/><strong>We Are Fortra<br/><br/></strong>Our people make us great. Our employees are a resilient and diverse group of global problem solvers, proactive protectors, and relentless allies, empowered to show up every day authentically, ready to fight the good fight with Fortra. Here at Fortra, we believe we're stronger when we're all stronger. That's why we're committed to supporting and empowering our employees through a host of offerings, including competitive benefits and salaries, personal and professional development opportunities, flexibility, and much more!<br/><br/>Visit our website to learn more about why employees choose to work for Fortra. Remember to check out our Glassdoor to learn what our employees are saying and connect with us on LinkedIn.<br/><br/>As an EEO/Affirmative Action Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, veteran or disability status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

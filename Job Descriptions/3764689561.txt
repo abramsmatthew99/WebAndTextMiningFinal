@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Company background<br/><br/>Swarmbotics AI is a low-cost, swarm robotics company for industry and defense. We see a world of ubiquitous low-cost robots transforming almost all aspects of society, but we see an urgent need in the defense industry. We focus on building swarms of robots that incorporate a low-cost BOM, an autonomous stack optimized for off the shelf components, and a global planner that enables swarm capabilities for groups of robots to accomplish sophisticated tasks.<br/><br/>Our first product is a defense application building Unmanned Ground Vehicles (UGVs), collectively termed - Attritable, Networked, Tactical Swarm (ANTS). Each UGV in ANTS is an independently-tasked, attritable robot designed for on-demand and autonomous mobility. When operating as a swarm, ANTS is capable of executing more advanced and coordinated, high-level capabilities across a battlespace. ANTS will help solve some of the DoD’s biggest problems that will save lives and increase defense capabilities.<br/><br/>and are the Founders and have decades of experience in self-driving cars and trucks, humanoids, and UAVs with experience from NASA, JPL, Cruise, Embark, McKinsey, Amazon, and the CIA.<br/><br/>Position description<br/><br/>Swarmbotics is seeking a highly skilled Perception/ML Engineer to spearhead development of cutting-edge off road terrain-aware navigation systems for autonomous DoD ground vehicles. This engineer will play a pivotal role in designing and implementing machine learning-based perception systems that enable our autonomous vehicles to navigate complex and unstructured off road environments. This engineer will work closely with company leadership to align autonomous navigation capabilities with the Swarmbotics product roadmap.<br/><br/><strong>Required Qualifications<br/><br/></strong><ul><li>4+ years of experience in Machine Learning Systems, AI infrastructure and ML Frameworks </li><li>Experience developing architecture, implementation, and performance of an ML-based perception system to support off-road autonomous navigation</li><li>Experience developing machine-learning models and training pipelines for terrain perception using a mixture of LIDAR and camera data.</li><li>Strong experience with Python and/or C++ </li><li>Experience with ML frameworks such as Tensorflow, Caffe, and/or PyTorch. </li><li>Strong understanding of code efficiency/performance and reliability</li><li>Outstanding ability to write clean, fast, reliable, and highly scalable software</li><li>BS in CS, Math, or equivalent real-world experience</li><li>Strong organization and communication to work well across teams in a fast-paced startup environment</li><li>Comfort working in the high-paced, fluid environment of a tech startup</li><li>Excitement about contributing to the defense of the United States and its allies</li><li>Ability to obtain and hold a U.S. security clearance<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Real-world experience fielding ML perception navigation systems on autonomous ground vehicles, such as DARPA RACER or other DoD applications.</li><li>MS, PhD in CS, Math, or equivalent industry ML experience</li><li>Experience with robotics/sensor simulation</li><li>Ability to relocate to Phoenix, AZ area<br/><br/></li></ul>The preceding description is not designed to be a complete list of all duties and responsibilities required for the position. Swarmbotics is an equal-opportunity employer. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, caste, creed, religion, sex, gender identity, sexual orientation, national origin, ancestry, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law.<br/><br/>Powered by JazzHR<br/><br/>kpAXigj5jW
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

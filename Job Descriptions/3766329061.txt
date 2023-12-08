@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>“We’re not in the shipping business; we’re in the information business” -Peter Rose, Expeditors Founder<br/><br/>Global supply chain management is what we do, but at the heart of Expeditors you will find professionalism, leadership, and a friendly environment, all of which foster an innovative, customer service-based approach to logistics.<br/><br/><ul><li>18,000 trained professionals</li><li>350+ locations worldwide across 60+ countries</li><li>Fortune 500</li><li>Globally unified systems<br/><br/></li></ul>Job Description<br/><br/>Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. We are looking for strong candidates who want to help design, maintain and expand our library of automation tools and frameworks. You will be responsible for shaping the direction and quality of our unique business applications and the frameworks utilized to test them. The Developer in Test designs, develops, and maintains complex automation and custom test frameworks. They participate in the design and development of systems with an eye for assuring quality and testability. They fully understand and support the role of the Quality Assurance Engineer by providing automation test strategies and tools for our technologies and systems. They also perform quality assurance tasks such as test planning, test case generation and feature testing.<br/><br/><em>This position is on-site and will reside in the greater Seattle, WA. area at one of the following locations depending on availability. Candidates must be local or willing to relocate. Relocation assistance is not offered for this position.<br/><br/></em><ul><li>Downtown Seattle</li><li>Federal Way</li><li>Lynnwood</li><li>Bellevue (Factoria)<br/><br/></li></ul>Qualifications<br/><br/><strong>Minimum Qualifications<br/><br/></strong><ul><li>2+ years of experience or familiarity working with object oriented languages. </li><li>2+ years of experience in a technical quality assurance role. </li><li>Experience working with databases and web application frameworks. </li><li>Experience with reading/writing code (Java). </li><li>Experience working with test automation frameworks. </li><li>Customer service-oriented attitude and top-notch time management. <br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong><ul><li>Proficiency with Agile methodologies, test automation, and testing best practices. </li><li>Familiarity with Java application development and Windows/Linux systems. </li><li>BS in Computer Science or comparable work experience. </li><li>Proficiency with troubleshooting and communicating technical issues. </li><li>Proficiency in driving technical and process improvements. </li><li>Proficiency with automation tools and writing automation tests</li><li>Familiarity with SQL and Behavior Driven Development/Test Driven Development experience. </li><li>Experience with GIT or other versioning tool, Cucumber, IntelliJ, Kafka, Docker, Selenium/Webdriver. <br/><br/></li></ul><em>Applicants are required to be eligible to lawfully work in the U.S. immediately; employer will not transfer or sponsor applicants for U.S. work authorization (such as an H-1B visa) for this opportunity. <br/><br/></em>Additional Information<br/><br/>Expected base salary: $85,000 to $129,000<br/><br/>May be eligible for bonus following first year of continuous employment in position.<br/><br/>Expeditors offers excellent benefits:<br/><br/><ul><li>Paid Vacation (first year prorated based off month of hire then eligible for 15 days) </li><li>Holidays (10)</li><li>Flexible Days (2)</li><li>Paid Sick Time (accrual rate of 1 hour of sick time per 30 hours paid)</li><li>401(k) Retirement Savings Plan with employer match</li><li>Employee Stock Purchase Plan (ESPP)</li><li>Medical, Prescription Drug, Dental &amp; Vision Coverage</li><li>Health Savings Account (HSA)</li><li>Life and Disability Insurance</li><li>Paid Parental Leave (additional eligibility criteria)</li><li>Dependent Care Flexible Spending Account (DC FSA)</li><li>Commuter Benefit</li><li>Employee Assistance Program (EAP)</li><li>Training and Personnel Development Program</li><li>Educational Assistance and Reimbursement</li><li>Position is full time (40 hours per week) Monday through Friday </li><li>Business professional dress code<br/><br/></li></ul><em>All your information will be kept confidential according to EEO Guidelines.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage
+          </span>
+</li>
+</ul>
+</div>
+</section>

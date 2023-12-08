@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Rivian<br/><br/></strong>Rivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.<br/><br/>As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.<br/><br/><strong>Role Summary<br/><br/></strong>Internship Term:<br/><br/>Rivian internships are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the internship term with an expected graduation date between May 2024 through June 2026.<br/><br/>If you are not pursuing a degree, please see our full time positions on our Rivian careers site.<br/><br/>Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.<br/><br/>The goal of this project is to support with prototyping embedded software for the next generation of autonomy platform.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Integrate and validate device drivers for sensors and sensor processing engines in C programming language. </li><li> Implement performance and functional tests for the device driver. </li><li> Root cause and fix device driver code bugs. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Must be currently pursuing a bachelors, masters, or PhD degree at the University of Illinois Urbana Champaign </li><li> Actively pursuing a degree or one closely related in Electrical Engineering, Computer Engineering or Computer Science </li><li> Proficient in C programming </li><li> Experience with RTOS (Real time operating systems) </li><li> Experience with FPGA platforms </li><li> Experience writing device driver in C programming language preferred <br/><br/></li></ul> -SA5<br/><br/><strong>Pay Disclosure<br/><br/></strong><strong> Salary Range/Hourly </strong><strong> Rate for Internships </strong> : The range of pay for internships is 25.00-51.00 per hour. Actual compensation will be determined based on location, and other factors permitted by law.<br/><br/>Rivian provides robust wellness benefits, and a medical insurance package for interns, their spouse or domestic partner, and children up to age 26. Coverage is effective on the first day of employment, and Rivian covers most of the premiums.<br/><br/><strong><strong>Equal Opportunity<br/><br/></strong></strong>Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.<br/><br/>Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com .<br/><br/><strong><strong>Candidate Data Privacy<br/><br/></strong></strong>Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.<br/><br/>Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.<br/><br/>Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.<br/><br/><strong>Please note that we are currently not accepting applications from third party application services.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

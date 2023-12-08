@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: Tester-Senior <br/><br/></strong><strong> Task ID: HBITS-05-13189 <br/><br/></strong><strong> Position Duration: 24 months <br/><br/></strong><strong> Client: State of NY <br/><br/></strong><strong> Agency: Office of Addiction Services and Supports <br/><br/></strong>Please call <strong> (703) 466-0951 | (571) 351-1868 </strong> or email at <strong> nysreqs@ilinksolutions.com <br/><br/></strong><strong>Description<br/><br/></strong><strong> Description: <br/><br/></strong>The consultant will be performing testing tasks including:<br/><br/><ul><li> Create detailed, comprehensive, and well-structured test plans, test scenarios, and test cases for manual as well as automated testing to address business use cases </li><li> Estimate, prioritize, plan, and coordinate testing activities </li><li> Validate the data mapping of the fields between the legacy and the PORTS &amp; Grants systems </li><li> Document, report, track, assign, and escalate defects appropriately; perform thorough regression testing when defects are resolved </li><li> Support User Acceptance Testing (UAT) and Pilot Testing </li><li> Provide guidelines, reviews and support to developers and business analysts creating unit tests and integrating them into the build cycles. </li><li> Manage testing activities, including UI automation, integration testing, performance, and scalability testing </li><li> Create status reporting mechanisms to monitor the status of the above activities. </li><li> Ensure that requirements and deliverables are verified and validated at each testing phase and final acceptance. </li><li> Ability to Execute all levels of testing (System, Integration, and Regression) </li><li> Experienced in Responsive and Web accessibility testing </li><li> Experienced in Cross-browser testing to test systems across multiple browsers and settings </li><li> Work with end users to ensure acceptance testing is thorough and complete. <br/><br/><br/></li></ul>M Andatory Qualification<br/><br/>1 Bachelor level or higher degree in computer science computer engineering, math or related engineering fields. 2 60 months of experience in creating test plans, test scenarios, and test cases for manual testing 3 60 months of experience in performing manual testing activities. 4 60 months of experience in validating the data mapping of the fields between the legacy and newly developed systems 5 60 months of experience in documenting, reporting, tracking, assigning, and escalating defects appropriately; performing thorough regression testing when defects are resolved 6 60 months of experience in providing guidelines, reviews and support to developers and business analysts creating unit tests and integrating them into the build cycles. 7 60 months of experience in ensuring that requirements and deliverables are verified and validated at each testing phase and final acceptance 8 60 months experience using industry recognized testing tools such as soapUI, Selenium Suite (Selenium IDE, Selenium Server, Selenium Remote Control, Selenium Grid, Selenium Java Client Driver); Agile; Silk Test; HPE Unified Functional Testing (UFT), Client LoadRunner, Client Performance Center 9 60 months experience in Responsive and Web accessibility testing and Cross-browser testing to test systems across multiple browsers and settings 10 60 months experience with MS Office including Excel, Word, Power Point 11 60 months of government experience<br/><br/><strong> Disclaimer: </strong> i-Link Solutions Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. We especially invite women, minorities, veterans, and individuals with disabilities to apply. EEO/AA/M/F/Vet/Disability.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Dexcom<br/><br/></strong>Founded in 1999, Dexcom, Inc. (NASDAQ: DXCM), develops and markets Continuous Glucose Monitoring (CGM) systems for ambulatory use by people with diabetes and by healthcare providers for the treatment of people with diabetes. The company is the leader in transforming diabetes care and management by providing CGM technology to help patients and healthcare professionals better manage diabetes. Since the company’s inception, Dexcom has focused on better outcomes for patients, caregivers, and clinicians by delivering solutions that are best in class - while empowering the community to take control of diabetes. Dexcom reported full-year 2022 revenues of $2.9B, a growth of 18% over 2021. Headquartered in San Diego, California, with additional offices in the Americas, Europe, and Asia Pacific, the company employs over 8,000 people worldwide.<br/><br/><strong>Meet The Team<br/><br/></strong>Dexcom is hiring for a Software Development Engineer to join our team in San Diego, CA. In this position, you will be defining architecture as well as define and guide the process of architecture development, and software development to help improve the lives of people with diabetes. You will be joining a well-established company that’s on an upward growth trajectory.<br/><br/><strong>Where You Come In<br/><br/></strong><ul><li>You have a minimum 0-1 years’ experience and a Bachelor’s degree in a technical field, such as computer science, computer engineering, or related field</li><li>You have proven history of computer science with strong competencies in data structures, algorithms, and software design</li><li>You have experience working in Agile teams &amp; using tools such as Jira and Confluence</li><li>You have experience using CI/CD tools such as Jenkins, Bamboo, Github Actions<br/><br/></li></ul><strong>What Makes You Successful<br/><br/></strong><ul><li>You will design and build applications</li><li>You’ll provide input and implement requirements</li><li>We’ll rely on you to write and update design documents</li><li>You’ll interface with software test to ensure high quality products</li><li>You will develop automated unit and integration tests</li><li>You’ll participate in design, code, and test reviews<br/><br/></li></ul><strong>What You’ll Get<br/><br/></strong><ul><li>A front row seat to life changing CGM technology. Learn about our brave #dexcomwarriors community .</li><li>A full and comprehensive benefits program.</li><li>Growth opportunities on a global scale.</li><li>Access to career development through in-house learning programs and/or qualified tuition reimbursement.</li><li>An exciting and innovative, industry-leading organization committed to our employees, customers, and the communities we serve.<br/><br/></li></ul><strong>Travel Required<br/><br/></strong><ul><li>0-5%<br/><br/></li></ul><strong>Remote Workplace: </strong>Your location will be a home office; you are not required to live within commuting distance of your assigned Dexcom site (typically 75 miles/120km). <em>If you reside within commuting distance of a Dexcom site (typically 75 miles/120km) a hybrid working environment may be available. Ask about our Flex workplace option.<br/><br/></em>Please note: The information contained herein is not intended to be an all-inclusive list of the duties and responsibilities of the job, nor are they intended to be an all-inclusive list of the skills and abilities required to do the job. Management may, at its discretion, assign or reassign duties and responsibilities to this job at any time. The duties and responsibilities in this job description may be subject to change at any time due to reasonable accommodation or other reasons. Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.<br/><br/>An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability. Dexcom’s AAP may be viewed upon request by contacting Talent Acquisition at talentacquisition@dexcom.com.<br/><br/>If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Dexcom Talent Acquisition at talentacquisition@dexcom.com.<br/><br/>View the OFCCP's Pay Transparency Non Discrimination Provision at this link .<br/><br/>UnitedHealthcare creates and publishes the Machine-Readable Files on behalf of Dexcom. To link to the Machine-Readable Files, please click on the URL provided: https://transparency-in-coverage.uhc.com/.<br/><br/>To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.<br/><br/><strong>Salary<br/><br/></strong>$65,000.00 - $108,300.00
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

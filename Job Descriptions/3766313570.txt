@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Position<br/><br/></strong>The Clark County District Attorney's Office is seeking qualified candidates to apply for the Data Base Administrator I/II position. This position performs data base development, implementation, maintenance support and related staff training of a routine to complex nature in support of County administrative and business services for centralized and distributed network database applications.<br/><br/><strong>Data Base Administrator I: $31.79 - $49.33 Hourly<br/><br/>Data Base Administrator II: $34.35 - $53.28 Hourly <br/><br/></strong>The Data Base Administrator I is a training underfill position, upon successful completion of the training program the successful candidate will be non-competitively promoted to Data Base Administrator II.<br/><br/>This is an open and continuous recruitment, scheduling dates will vary depending on when the application was received and reviewed by Human Resources.<br/><br/>Human Resources reserves the right to call only the most qualified applicants to the selection process.<br/><br/>Employment is contingent upon the results of a background investigation, which may include both a pre-and post-offer background check for positions within the District Attorney’s Office.<br/><br/><strong>Minimum Requirements<br/><br/></strong><strong>Education and Experience:<br/><br/>Data Base Administrator I - Equivalent to a Bachelor's Degree in Computer Science, Management Information Systems, or a closely related field AND two (2) years of full-time systems analysis and/or applications programming experience, preferably in a large-scale computer system environment.<br/><br/>Data Base Administrator II - In addition to the above: Minimum of one (1) year of full-time professional level experience in complex data base definition and installation in a large-scale computer system environment. <br/><br/></strong>Qualifying education and experience must be clearly documented in the “Education” and “Work Experience” sections of the application. Do not substitute a resume for your application or write "see attached resume" on your application.<br/><br/><strong>Background Investigation:</strong> Employment is contingent upon successful completion of a background investigation. Periodically after employment background investigations may be conducted.<br/><br/><strong>Pre-Employment Drug Testing:</strong> Employment is contingent upon the results of a pre-employment drug examination.<br/><br/>EXAMPLES OF DUTIES<br/><br/>Plans, prepares, defines, structures, develops and implements data base systems. Defines and implements interfaces to insure that various applications and user-installed or vendor-developed systems interact with the required data base systems. Tests, troubleshoots, refines and documents systems; applies quality assurance and security standards to ensure against the loss of data and a minimal interruption of usage in the event of equipment failure. Plans and develops test data to validate new or modified data base applications; monitors system performance by the use of appropriate utilities, online capabilities and batch reports. Confers with programmer/analyst and customer staff to define functional requirements, perform data modeling and implement final products; resolves errors and interface problems and ensures integrated systems in accordance with development standards. Writes program documentation and user procedures and instructions and assists user departments and staff in implementing new or modified data base applications; tracks and evaluates project and systems progress. Confers with customer staff regarding assigned functional program areas; serves on a variety of committees, project teams and task forces and provides "help desk" support, as assigned. Maintains records and prepares periodic and special reports of work performed. Maintains current knowledge of technology and data base applications and systems. Contributes to the efficiency and effectiveness of the unit's service to its customers by offering suggestions and directing or participating as an active member of a work team. Uses standard office equipment in the course of the work; may drive a County motor vehicle or be able to arrange for appropriate transportation between various work sites.<br/><br/>PHYSICAL DEMANDS<br/><br/>Mobility to work in a typical office setting and use standard office equipment, stamina to remain seated and maintain concentration for an extended period of time, vision to read printed materials and a computer screen, and hearing and speech to communicate in person or over the telephone. Accommodation may be made for some of these physical demands for otherwise qualified individuals who require and request such accommodation.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

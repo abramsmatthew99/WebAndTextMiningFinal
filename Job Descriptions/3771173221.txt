@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Due to the client contract you will be assigned, this position requires you to be a U.S. citizen.</strong></p><p><strong>This position is in person for Kansas City, MO</strong></p><p><br/></p><p>The Oracle Health Application &amp; Infrastructure Data Center Engineering team, provides hands-on system implementation, support, monitoring, and maintenance of Oracle Health’s compute hardware running in the data centers.</p><p> </p><p>Come and join us! Building off our Cloud momentum, Oracle has formed a new organization - Oracle Health Applications &amp; Infrastructure. This team will focus on product development and product strategy for Oracle Health while building out a complete platform supporting modernized, automated healthcare. This is a net new line of business, constructed with an entrepreneurial spirit that promotes an energetic and creative environment. We are unencumbered and will need your contribution to make it a world-class engineering center with a focus on excellence.</p><p> </p><p>Technical Skills Required:</p><p>Resolve and diagnose server hardware issues at scale.</p><p>Identify and help document for the Data Center Engineering knowledge base.</p><p>Assist with process improvements and standard methodologies.</p><p>Ability to work both independently and as a part of a team.</p><p>A desire to learn more about the industry and a passion to make a difference in healthcare.</p><p> </p><p>Basic Qualifications:</p><p> </p><p> -4-year degree or higher education, computer science or technology, or equivalent work experience.</p><p>-Receipt of the appropriate government security clearance card applicable for your position.</p><p><strong>-Due to the client contract you will be assigned, this position requires you to be a U.S. citizen.</strong></p><p>-This position is in person for Kansas City, MO.</p><p>-The night shifts are four 10 hour shifts from 7pm to 5am Monday evenings to Tuesday mornings thru Thursday evenings to Friday mornings. There will be minimal on-call opportunities for emergencies.</p><p> </p><p>About the Team:</p><p>The Data Center Engineering team is a small, close-knit team that comes from a wide range of backgrounds and experiences. Teamwork is incredibly important as we deliver the best experience to our clients and making healthcare better.</p><p> </p><p>Responsibilities displayed in the job posting</p><ul><li>Perform performance trend analysis and manage the server/network capacity.</li><li>React to potential problems using automation, scheduling, and monitoring tools -- escalating to management where appropriate.</li><li>Participate in configuration and implement technical solutions to enhance and/or troubleshoot the system.</li><li>Responsible for support documentation as well.</li><li>Replacing failed server components, upgrading servers to meet the demands of applications, and proactively maintaining hardware to ensure efficient performance for its entire lifecycle.</li><li>Responding to client emergencies in Oracle Health’s data centers as the Data Center Engineering team is the very last line of defense for clients before the server hardware itself.</li><li>Replacing completely failed client machines quickly to reduce the amount of time the client is in either a loss of redundancy or an outage situation.</li><li>Coordinating with third-party vendors. The Data Center Engineering team is the bridge between Oracle Health Application &amp; Infrastructure and third-party contractors and vendor companies who interact with the data centers.</li><li>Maintaining a spare parts inventory with Data Center Capacity and Asset Management.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Brief summary of role:<br/><br/></strong>OpenSpace is looking for a Manager of IT to lead our IT team. The ideal candidate will be responsible for overseeing and enhancing our IT processes, including hardware management, centralizing software procurement and renewals and ensuring compliance through the deployment of IT best-practices. The candidate should have a deep understanding of Mac, Linux, and Windows hardware/operating systems and possess a thorough knowledge of Okta, including single sign-on workflows. This position is remote, but is ideally located on the West Coast.<br/><br/><strong>What you will be doing:<br/><br/></strong><ul><li>Support and coach staff in providing world-class IT support for employees worldwide.</li><li>Train staff on new concepts and procedures, improving processes and workflows.</li><li>Lead large IT projects, focusing on the design and deployment of secure IT systems/services.</li><li>Perform ongoing support and maintenance of all hardware, software, and network components, including periodic access reviews and security assessments.</li><li>Assess vendors and develop test strategies for new software, focusing on security and vendor management.</li><li>Oversee the assessment and purchasing of new and replacement hardware.</li><li>Responsible for ensuring the compatibility, security, and scalability of our company's hardware and software. </li><li>Analyze business needs in partnership with key stakeholders to develop secure solutions for company needs.</li><li>Ensure IT activities comply with internal controls as well as applicable laws, codes, and regulations, (such as SOC2, FedRAMP, etc.).<br/><br/></li></ul><strong>What we are looking for:<br/><br/></strong><ul><li>8+ years of progressive IT security operations experience including 3+ years of management experience.</li><li>In-depth experience with IAM tools, such as IDP, active directory and MFA.</li><li>In-depth knowledge of and proven deployment of IT best-practices, including security and reporting frameworks </li><li>Thorough understanding of and experience in administering cloud-based software, including Google Suite, Atlassian and Okta </li><li>Thorough understanding of SaaS tools, their integration, and security implications.</li><li>Strong vendor management and partner relation skills</li><li>Bachelor’s degree in Information Technology, Computer Science, or a related field, or equivalent experience.<br/><br/></li></ul><strong><em>Knowledge, Skills, and Abilities Required:<br/><br/></em></strong><li>Strong written and verbal communication skills.</li><li>Proficiency in scripting or programming (e.g., SQL &amp; Powershell).</li><li>Excellent time management skills; ability to manage multiple priorities simultaneously.</li><li>Proven track record in implementing and managing IT security protocols and infrastructure.</li>This role requires the ability to travel. The average travel requirements of this role are <br/><br/><strong>Base Salary:</strong> $120,000 - $160,000<br/><br/>The “Base Salary: range represents the low and high end of the anticipated salary range for this position across all US locations including but not limited to CA, CO, NY, WA, NV, MD, CT and RI. The determination of this anticipated Base Salary involves the consideration of many factors in making compensation decisions including but not limited to: location of candidate, unique skill sets, experience, training, performance, licensure and certifications, as well as other business and organizational needs. Our anticipated Base Salary determination is just one component of OpenSpace’s competitive total rewards strategy that also includes equity awards, 401k match, as well as other region-specific health and wellness benefits.<br/><br/>If this role isn't what you're looking for, please consider other open positions.<br/><br/>OpenSpace welcomes employees from varied backgrounds and walks of life, and it’s reflected in our diverse community. OpenSpace is proud to be an equal opportunity employer and is committed to providing equal employment opportunities to all employees and applicants for employment, without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

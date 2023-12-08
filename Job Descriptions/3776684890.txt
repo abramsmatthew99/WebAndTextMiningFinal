@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Shipium<br/><br/></strong>Shipium is on a mission to solve the ‘Prime problem’ that modern retailers face today—how to make fast, free, and on-time delivery promises a cornerstone of the customer’s shopping experience. We work with both fast-growing companies and well known large retailers to cut costs, speed deliveries, and increase flexibility through great APIs, easy integrations into existing infrastructure, and powerful services optimizing the full retail supply chain.<br/><br/>We’re building tech that connects previously fragmented systems and automates complex supply chain decisions to deliver speed and value across operations.<br/><br/>Founded in 2019 by supply chain technology experts from Amazon and Zulily, the company is on a mission to help every eCommerce company provide its customers a great delivery experience while simultaneously reducing their costs to fulfill orders.<br/><br/>Job Title: Software Development Engineer UI Focused- Level II (*Remote)<br/><br/><strong>Description<br/><br/></strong>Shipium is looking for a full-stack software-focused engineer to join us in building modern APIs and web-based applications that enable our customers to make use of superior supply chain methods at an enterprise scale.<br/><br/>A successful candidate will be a hands-on software developer with an established background in developing and operating software and services at large scales. You will need strong technical skills, great communication skills, and motivation to achieve results in a dynamic fast-paced environment.<br/><br/>You will collaborate with business teams, product management teams, and other software engineers to develop cutting-edge supply chain software to enable our customers’ businesses, achieve operational excellence, and scale our business<br/><br/>You will work to develop both internal and customer-facing software that makes mission-critical decisions for some of the world’s largest retail companies as they move inventory from suppliers to warehouses to shippers to customers.<br/><br/>What You Will Do<br/><br/>Develop, build, and interact with Shipium services, APIs, and frontend interfaces to create a product that empowers our customers to easily manage complex supply chain operations.<br/><br/>Leverage your generalist expertise to envision and build intuitive full-stack UIs and workflows that enable our customers to visualize and navigate their often complex fulfillment network configuration.<br/><br/>Participate in the design and development of new software solutions, including code reviews, testing, deployment, and post-launch monitoring.<br/><br/>Participate in incident management to resolve outages and communicate with both internal and customer audiences as well as participate in calls to resolve outage<br/><br/>Technologies &amp; Techniques<br/><br/>Experience with RESTful API design and development, both as a developer and as a customer of such APIs.<br/><br/>Node and JavaScript experience is critical and professional experience with Typescript is preferred.<br/><br/>Experience designing, building, and operating large-scale distributed systems or web services.<br/><br/>Experience building services in a cloud environment (AWS, GCP, or Azure) preferred.<br/><br/><strong>Experience<br/><br/></strong>5+ years of hands-on experience building scalable web apps and tools using React and Node.js.<br/><br/>A Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field.<br/><br/>Experience with one or more of our core technologies:<br/><br/>React/Redux/ (JavaScript)<br/><br/>Fastify (Node.js/Typescript)<br/><br/>PostgreSQL<br/><br/>Redis<br/><br/>AWS<br/><br/>Kubernetes<br/><br/>At Shipium, Employees enjoy full medical, dental &amp; vision coverage (with 50% coverage for dependents), optional life insurance and long-term disability coverage, a 401(k) retirement plan, fully remote work-from-home options in 21* states, 8 paid weeks of parental leave, 12 paid holidays annually, self-managed vacation time, sick &amp; safety leave, and volunteer time off.<br/><br/>Shipium is committed to creating a diverse environment and is proud to be an equal opportunity employer. Women, people of color, people with disabilities, and veterans are strongly encouraged to apply. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. If you need reasonable accommodation because of a disability for any part of the employment process, please email Human Resources (hr@shipium.com) and let us know the nature of your request and your contact information.<br/><br/>This applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and mentorships. Shipium makes hiring decisions based solely on qualifications, merit, and business.<br/><br/><ul><li>Although based out of Seattle, WA, Shipium is 100% remote in the following states: Arizona, California, Colorado, District of Columbia, Florida, Georgia, Idaho, Illinois, Indiana, Maryland, Michigan, Montana, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, South Carolina, Texas, Washington &amp; Wisconsin<br/><br/><br/></li></ul>Shipium participates in E-Verify<br/><br/>We do not provide any type of sponsorship either now or in the future. Only those with Green Cards, US Citizens, or Permanent Residents are eligible.<br/><br/>We do not transfer work visas or hire out of the US or C2C
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Title: <strong><u>Software Developer</u></strong></p><p><strong><u>About CRISIL GR&amp;A:</u></strong></p><p><br/></p><p>CRISIL Global Research &amp; Analytics (GR&amp;A) is the largest and top-ranked provider of high end research and analytics services to the world's leading commercial and investment banks, insurance companies, corporations, consulting firms, private equity firms and asset management firms. CRISIL GR&amp;A operates from centres in Argentina, China, India and Poland, providing support across several time zones and in multiple languages to global organizations. It has deep expertise in the areas of equity and fixed income research (covering global economies, 150 global sectors and over 3000 global companies), credit analysis, exotic derivatives valuation, structured finance, risk modelling and management, actuarial analysis and business intelligence.</p><p>Our client is seeking consultants with 2-4 years’ experience to facilitate Market and Credit Risk operations and reporting processes in the Risk Operations team. The role includes process engineering, administration, 10Q/K disclosures, data mining and global Credit/Market risk Initiatives.</p><p><br/></p><p><strong><u>Role &amp; Responsibilities</u></strong></p><p>Our client is seeking consultants with 5-7 years’ experience to work as Software developer in</p><p>their Financial Engineering team</p><p><br/></p><ul><li>Contribute individually towards the development of application based on the requirements from portfolio managers</li><li>Upgrade backed of a legacy web application to new version of Perl and Apache server.</li><li>improve application test suite and address application security vulnerabilities</li><li>Maintains existing software code to meet the same standards/criteria as new code</li><li>Write and ship code daily and takes ownership of their work</li><li>Regularly delivers software on time, makes accurate estimates of complexity and time, and delivers on those estimates.</li><li>Maintain necessary documentation for the project</li></ul><p><br/></p><p><strong><u>Skill required</u></strong></p><ul><li>Bachelor's Degree in Computer Science, Engineering, or related field, or demonstrable equivalent experience.</li><li>5+ Years of professional experience in Perl, HTML, CSS, JavaScript, and SQL programming.</li><li>Good written communication skills.</li><li>Solid understanding of the SDLC and tools. Azure DevOps, Git.</li><li>Proven ability to lead junior and mid level engineers</li><li>Experience modernizing code maintaining working functionality</li><li>Strong technical communication , collaboration that works well across horizontal and vertical teams within our firm.</li><li>Experience or knowledge with Agile will be a plus</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Financial Services, and Investment Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        - C#, Restful APIs, Microservices, MS SQL<br/><br/><strong>MUST LIVE IN THE STATE OF MICHIGAN<br/><br/>Royal Oak/Hybrid (2 onsite; 3 remote)<br/><br/></strong><strong><em>A minimum requirement for this position is the ability to work legally in the United States. No visa sponsorship/support is available for this position.</em></strong><strong> In addition, NO C2C or 3rd parties please.<br/><br/></strong>The Senior (5+ years) Software Engineer role is integral to our continued success and mission, which is to remove the complexity from logistics. You need to be a leader and a team player, dedicated to your customer, passionate about our industry and disciplined to do what it takes to get the job done. If you are energized by overcoming challenges from clients and carriers and by building lasting relationships, then accelerate your career with our rapidly growing company. We empower our employees to take charge and to step up to any challenge.<br/><br/><strong>Desired Qualifications<br/><br/></strong><ul><li>BS/BA in Computer Science or a related degree</li><li>5+ years of experience in IT Applications Development</li><li>Advanced Coding experience in .NET stack (ASP.NET, C#, LINQ, MVC, SQL Server)</li><li>Microservices experience</li><li>Experience with Restful API design and integration</li><li>Experience with Microsoft SQL Server Scripting and Data Models</li><li>Experience with Microsoft Azure Deployments</li><li>Strong written and verbal communication skills</li><li>Analytical mind with problem-solving aptitude</li><li>Ability to work independently and as a member of team</li><li>Excellent organizational and leadership skills</li><li>Unit and Integration Testing experience</li><li>Understanding of object-oriented design principles and software patterns.</li><li>Experience with configuring DevOps environment on Azure.</li><li>Knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations</li><li>Experience in development of distributed/scalable systems and high-volume transaction applications<br/><br/><br/></li></ul><strong>ATTRIBUTES &amp; SKILLS<br/><br/></strong><ul><li>Strong IT background with application design and development</li><li>Evidence of problem solving and multi-tasking skills in a fast-paced environment</li><li>Evidence of being detail-oriented</li><li>Excellent written and verbal communication skills</li><li>Demonstrated ability to plan work and meet deadlines with little or no supervision</li><li>Ability to quickly learn new concepts and software as necessary</li><li>Team player and ability to be flexible, adaptable, and accommodating to employees at all levels<br/><br/><br/></li></ul><strong>RESPONSIBILITIES<br/><br/></strong><ul><li>Collaborate with colleagues in product design, product management and systems architecture to develop solutions and bring great ideas to life</li><li>Stay on top of industry trends and best practice to continuously improve what we do and ensure our internal and external customer experience is the best it can be</li><li>Develops software solutions by studying information needs, conferring with appropriate staff, studying systems flow, data usage, and work processes.</li><li>Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.</li><li>Prepares and installs solutions by determining and designing system specifications, standards, and programming.</li><li>Improves operations by conducting systems analysis and recommending changes in policies and procedures.</li><li>Lead technical execution within an agile environment including discovery, design, development, and testing</li><li>Perform code reviews to ensure adherence to coding, security, and data protection best practices</li><li>Supports and develops other team members by providing advice, coaching, and educational opportunities</li><li>Be available for on-call support as needed.</li><li>Other job duties as assigned</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

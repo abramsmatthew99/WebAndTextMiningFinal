@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Company Background<br/><br/></strong>Boomer Benefits® is an insurance agency specializing in Medicare, founded by David Kunkle and Danielle Kunkle Roberts in 2005. The agency is licensed in 49 states and works with national insurance carriers such as Blue Cross Blue Shield, Aetna, Cigna, Mutual of Omaha, and others. With a website that attracts millions of visitors each year, the company’s online-based business is trusted by thousands of<br/><br/><strong><strong>Job Description<br/><br/></strong></strong>We are looking for a skilled IT Solutions Architect to join our growing IT Department. We are specifically seeking a candidate who appreciates the dynamics of a small business environment rather than a corporate one at our North Fort Worth office<strong>.</strong> The role involves collaboration, technical leadership, cloud computing, networking, security, and endpoint management, with a focus on Microsoft Intune. If you're a forward-thinking problem-solver with a deep understanding of security, join us in contributing to our continued success.<br/><br/><strong>Preferred Technical Skills:<br/><br/></strong><strong>Architecture Knowledge:<br/><br/></strong><ul><li>In-depth understanding of enterprise-level IT architecture, including systems, applications, data, and infrastructure. </li><li>Familiarity with various architectural styles and frameworks. <br/><br/></li></ul><strong>Programming and Scripting:<br/><br/></strong><ul><li>Proficiency in programming languages relevant to the organization's technology stack (e.g., Java, C#, Python). </li><li>Scripting skills for automation and orchestration (e.g., PowerShell, Bash). <br/><br/></li></ul><strong>Endpoint Management:<br/><br/></strong><ul><li>Proficiency in Microsoft Intune for endpoint management and security. </li><li>Experience in designing and implementing device management solutions. <br/><br/></li></ul><strong>Cloud Imaging Solutions:<br/><br/></strong><ul><li>Knowledge of cloud imaging solutions for deploying and managing OS images in cloud environments. </li><li>Experience in automating and customizing image deployment processes. <br/><br/></li></ul><strong>Cloud Computing:<br/><br/></strong><ul><li>Experience with cloud platforms such as AWS, Azure, or Google Cloud. </li><li>Knowledge of cloud-native architectures and services. <br/><br/></li></ul><strong>Networking:<br/><br/></strong><ul><li>Strong understanding of networking concepts and protocols. </li><li>Experience with designing and implementing network solutions. <br/><br/></li></ul><strong>Security:<br/><br/></strong><ul><li>Knowledge of cybersecurity principles and best practices. </li><li>Ability to design secure IT solutions, considering data privacy and compliance requirements. <br/><br/></li></ul><strong>Databases:<br/><br/></strong><ul><li>Proficiency in working with various database systems (SQL and NoSQL). </li><li>Experience in database design and optimization. <br/><br/></li></ul><strong>Virtualization and Containerization:<br/><br/></strong><ul><li>Experience with virtualization technologies (eg., Hyper-V, VMware) and containerization (e.g., Docker, Kubernetes). <br/><br/></li></ul><strong>DevOps and CI/CD:<br/><br/></strong><ul><li>Knowledge of DevOps practices and tools. </li><li>Experience in implementing continuous integration and continuous deployment pipelines. <br/><br/></li></ul><strong>Soft Skills:<br/><br/></strong><strong>Communication:<br/><br/></strong><ul><li>Excellent verbal and written communication skills. </li><li>Ability to communicate complex technical concepts to non-technical stakeholders. <br/><br/></li></ul><strong>Problem-Solving:<br/><br/></strong><ul><li>Strong analytical and problem-solving skills. </li><li>Ability to design solutions that meet business requirements<br/><br/></li></ul><strong>Team Collaboration:<br/><br/></strong><ul><li>Ability to work collaboratively with cross-functional teams. </li><li>Leadership skills to guide and mentor junior team members. <br/><br/></li></ul><strong>Experience:<br/><br/></strong><ul><li>Bachelor’s or master’s degree in computer science, information technology, or equivalent hands-on experience. </li><li>Proven experience as a Solutions Architect or a similar role. </li><li>Experience in leading and contributing to the successful implementation of complex IT projects. </li><li>Familiarity with industry best practices and emerging trends in IT architecture. <br/><br/></li></ul><strong><strong>Benefits &amp; Work-Environment<br/><br/></strong></strong><ul><li>Group health, dental, vision and life insurance benefits</li><li>401K Retirement plan + company match</li><li>Paid sick days and holidays (including Christmas Eve)</li><li>Paid vacation benefits, including 3 weeks annual vacation after 12 months (2 weeks in first year)</li><li>Brand-new and modern office space</li><li>Business casual, smoke-free work environment</li><li>We close at 4:30pm on Friday afternoon so you can start your weekend early!<br/><br/></li></ul><strong>Job Type: Full-time<br/><br/></strong><strong>Schedule:<br/><br/></strong><ul><li>8-hour shift, Monday to Thursday</li><li>7-hour shift, Friday</li><li>Periodic weekend availability<br/><br/></li></ul><strong>Company Description<br/><br/></strong>Boomer Benefits is an award-winning and top-producing licensed insurance agency that helps baby boomers and seniors with supplemental health insurance products. Our company attracts millions of visitors to its website each year, and the company’s online-based business is trusted by tens of thousands of policyholders throughout the United States. It is our goal to provide the highest level of service anywhere in the nation.<br/><br/>Boomer Benefits is an award-winning and top-producing licensed insurance agency that helps baby boomers and seniors with supplemental health insurance products. Our company attracts millions of visitors to its website each year, and the company’s online-based business is trusted by tens of thousands of policyholders throughout the United States. It is our goal to provide the highest level of service anywhere in the nation.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

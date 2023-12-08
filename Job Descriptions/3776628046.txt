@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Description</strong>:</p><p>Our client is seeking a motivated and experienced IT professional to join the team as a Business Analyst. This individual will support their Workday Corporate Systems and serve as a resource to both Finance and People teams. The Business Analyst will be responsible for requirements gathering, development and preparation of system documentation, and meeting facilitation.</p><p><br/></p><p><strong>Your day to day:</strong></p><ul><li>Support both enhancements to existing Workday modules and the implementation of new Workday modules</li><li>Collaborate and interact with developers, stakeholders, external vendors and various subject matter experts to manage the implementation of changes and issue resolution</li><li>Participate in discovery and customer confirmation sessions with Workday Implementation Partner</li><li>Facilitate internal discovery sessions</li><li>Document business processes, system solutions and capabilities</li><li>Gather requirements and create documentation for system configuration, integrations, and report requirements</li><li>Maintain multiple Jira boards including logging issues, updating team members and creating releases</li><li>Facilitate Backlog Grooming sessions and daily standup calls</li><li>Determine test scenarios and track testing status</li></ul><p><br/></p><p><strong>Education and Experience:</strong></p><ul><li>Bachelor’s Degree in Computer Science, Information Systems, Business Administration or other related field, or equivalent work experience.</li><li>Minimum five (5) years of related work experience</li><li>Strong analytical and critical thinking skills</li><li>High level of attention to detail and curiosity to investigate</li><li>Able to work independently in a dynamic environment, handling multiple projects, meeting deadlines, prioritizing appropriately, and responding to issues quickly and creatively with an open and positive attitude</li><li>Experience with Agile methodology, and the usage of JIRA for story writing and project tracking</li><li>Ability to understand business needs and translate them to functional/technical requirements</li><li>Strong verbal and written communication skills</li><li>Self-starter who completes responsibilities with minimal supervision</li><li>Demonstrated ability to complete projects and achieve results</li><li>Experience with Microsoft Office tools</li></ul><p><br/></p><p><strong>About WiredHive:</strong></p><p><strong>WiredHive is an Information Technology staffing and direct hire placement firm based in Dallas, TX. WiredHive supports clients across multiple industries including, but not limited to, Technology, Energy / Utilities, Financial Services, and Healthcare.</strong></p><p><br/></p><p><strong>Equal Employment Opportunity</strong></p><p><strong>WiredHive, Inc. is committed to having a workplace free of illegal discrimination and harassment on the basis of age, race, color, gender, gender identity, national origin, religion, disability, genetic information, sexual orientation and any other status protected by federal, state, or local law</strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

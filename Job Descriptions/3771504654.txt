@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>POSITION DESCRIPTION<br/><br/></strong><ul><li> Entry Level</li><li> Conduct Testing &amp; Troubleshooting of embedded systems (Hardware &amp; Software)</li><li> System integration</li><li> Provide reports and feedback to assist staff</li><li> Learn product offering and learn troubleshooting process</li><li> RMA (repair) process</li><li> Growth opportunities to move to Engineering position<br/><br/></li></ul><strong>Skills Required/Preferred<br/><br/></strong><ul><li> Technical degree</li><li> Knowledge of Computer Architecture</li><li> Windows or Linux Experience</li><li> Microsoft Office Software (Excel, Word, Outlook, Power Point)</li><li> Problem Solving</li><li> Ability to work independently and with team members</li><li> Bi-lingual is a plus<br/><br/></li></ul><strong>Company Description<br/><br/></strong>Avalue Technology is a global embedded solutions provider. Avalue manufacturers industrial computers for many different industries including Medical, Gaming, Communications, and Military. Our Headquarters is based in Taiwan and we have offices in China, Japan, Europe &amp; the United States. The United States branch office provides sales and support to all of North &amp; South America. Our office is based in Marlboro, NJ and we are looking for motivated individuals looking to grow along with our local team. Please check our website for more information. http://www.avalue.com.tw. Please submit your resume to career@avalue-usa.com<br/><br/>Avalue Technology is a global embedded solutions provider. Avalue manufacturers industrial computers for many different industries including Medical, Gaming, Communications, and Military. Our Headquarters is based in Taiwan and we have offices in China, Japan, Europe &amp; the United States. The United States branch office provides sales and support to all of North &amp; South America. Our office is based in Marlboro, NJ and we are looking for motivated individuals looking to grow along with our local team. Please check our website for more information. http://www.avalue.com.tw. Please submit your resume to career@avalue-usa.com
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

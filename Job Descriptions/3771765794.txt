@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title: Test Engineer <br/><br/></strong><strong> About Us </strong><strong> : <br/><br/></strong>AMETEK is using innovation to make the world a better place, technology to improve lives, and talent to solve challenges that matter. We need people like you to help make it happen!<br/><br/><strong> Job Summary: <br/><br/></strong>As a Test Engineer, you have the opportunity to work closely with talented individuals from various departments, including Engineering, QA, and Manufacturing. Your role is crucial in every step of the product life cycle, where you will design and execute testing strategies in collaboration with Engineering. By providing support to factory test technicians, you will troubleshoot and resolve non-conformities. Your expertise in handling and utilizing test instruments will enable you to create improvement plans for the management team. Your contributions as a Test Engineer will be invaluable to the success of the company and the satisfaction of our customers.<br/><br/><strong> Key Responsibilities: <br/><br/></strong><ul><li> Develop, deploy, execute, and maintain test processes, plans, instructions, fixtures, calibration logs, and documentation for acceptance and production testing of components and systems in a factory environment </li><li> Identify, troubleshoot, and coordinate the resolution of factory test failures. Acquire test yield data, track and analyze failure trends, identify issues, plan campaigns for yield improvements, and develop, implement, and continually improve real-time yield tracking systems </li><li> Create, modify, and maintain factory software </li><li> Direct, train, and mentor Test Technicians </li><li> Ensure proper use, handling, and calibration of test instruments such as Network Analyzers, Power Meters, Spectrum Analyzers, Oscilloscopes, Low voltage probes, Capacitance / Inductance meters, and Digital Multimeters </li><li> Provide support for the implementation of new testing procedures at the factory </li><li> Other duties as assigned <br/><br/></li></ul><strong> Minimum Qualifications </strong><strong> : <br/><br/></strong><ul><li> Bachelor's degree in Engineering, Computer Science, or a related STEM discipline. </li><li> Minimum of 5 years of prior related experience. In place of a degree, a minimum of 8 years of prior related experience </li><li> Experience in a low volume / high mix or New Product Introduction (NPI) manufacturing environment </li><li> Proficient with Python, Java, MATLAB, or LabVIEW </li><li> Experience with technical writing, specifically work instructions and process documentation </li><li> Ability to handle multiple programs and responsibilities simultaneously </li><li> Experience using Microsoft Office products <br/><br/></li></ul><strong> Desired Qualifications: <br/><br/></strong><ul><li> Excellent people skills, with experience leading and collaborating in a multi-disciplinary, diverse, and dynamic team environment </li><li> Excellent communication skills (written, verbal, &amp; presentation) </li><li> Experience troubleshooting to component level. </li><li> Experience/certification in lean practices; 5S, Six Sigma, etc. </li><li> Experience in aviation or military systems manufacturing preferred </li><li> Possess excellent debugging and troubleshooting skills, both in analog and digital domains <br/><br/></li></ul><strong> What’s in It for You: <br/><br/></strong><ul><li> Competitive compensation, holiday pay, and paid time off </li><li> Great benefits package that includes health, vision, and dental insurance </li><li> 401(k), plus matching </li><li> Flexible spending accounts (FSAs), health savings account (HSA) with AMETEK contribution, life insurance, disability insurance, and family medical leave </li><li> Employee referral program </li><li> Tuition reimbursement program </li><li> Employee assistance program </li><li> Exciting, fast-paced environment where you could make a true impact </li><li> Opportunities for career advancement within our business unit and across all other AMETEK business entities <br/><br/></li></ul><strong> Location Information: <br/><br/></strong>This position is located in sunny <strong>Orange, California</strong>. Orange is a great place to live, work, and shop. From the center of town referred to as the Plaza to our top-rated hospitals, schools, and parks, we’re a “Slice of Old Towne Charm.” The City of Orange includes plenty of natural, undeveloped areas that offer outdoor enthusiasts the opportunity to get outside and explore nature in Orange County with trails for hikers, equestrians, and mountain bikers of all skill levels.<br/><br/><strong> To learn more about our company and our job opportunities, visit us at: <br/><br/></strong>https://www.ametek.com/careers<br/><br/><strong> To learn more about the business unit you’ll be joining, visit us at: <br/><br/></strong><ul><li> IntelliPower: https://www.intellipower.com/ <br/><br/></li></ul><strong>Compensation<br/><br/></strong>Salary Minimum: $100,000<br/><br/>Salary Maximum: $120,000<br/><br/>Incentive: No<br/><br/>Disclaimer: Where a specific pay range is noted, it is a good faith estimate at the time of this posting. The actual salary offered will be based on experience, skills, qualifications, market / business considerations, and geographic location.<br/><br/>AMETEK is committed to making a safer, sustainable, and more productive world a reality. We use differentiated technology solutions to solve our customers’ most complex challenges. We employ 18,500 colleagues, in 30 countries, that are grounded by our core values: Ethics and Integrity, Respect for the Individual, Diversity and Inclusion, Teamwork, and Social Responsibility. AMETEK (NYSE:AME) is a component of the S&amp;P 500. Visit www.ametek.com for more information.<br/><br/>We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. Individuals who need a reasonable accommodation because of a disability for any part of the employment process should call 1 (866) 263-8359.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

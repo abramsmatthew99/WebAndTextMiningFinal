@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Our client is seeking a skilled and motivated Data Engineer to join their dynamic team. This is a unique opportunity to contribute to transformative projects and shape the future of data architecture.</p><p><br/></p><p>As a Data Engineer, you will play a pivotal role in designing and implementing scalable data solutions. You will collaborate with cross-functional teams to understand data requirements, develop robust data pipelines, and ensure the integrity and performance of the data architecture. This role offers the chance to work on exciting projects, leverage cutting-edge technologies, and make a significant impact on our client's data infrastructure.</p><p><br/></p><p><br/></p><p><strong>Key Responsibilities: </strong></p><ul><li>Design, develop, and maintain scalable and efficient data pipelines.</li><li>Implement ETL processes to extract, transform, and load data from various sources.</li><li>Design and implement data models to support business requirements.</li><li>Optimize data storage and retrieval for performance and efficiency.</li><li>Integrate data from diverse sources to provide a unified view for analysis.</li><li>Collaborate with data scientists and analysts to ensure data availability and accuracy.</li><li>Manage and optimize databases for performance, scalability, and reliability.</li><li>Implement and maintain database security protocols.</li></ul><p><br/></p><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in Computer Science, Engineering, or a related field.</li><li>Proven experience as a Data Engineer with expertise in data pipeline development.</li><li>Proficient in programming languages such as Python, Java, or Scala.</li><li>Experience with big data technologies (e.g., Hadoop, Spark) and cloud platforms (e.g., AWS, Azure, GCP).</li><li>Strong knowledge of database design, SQL, and data warehousing concepts.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

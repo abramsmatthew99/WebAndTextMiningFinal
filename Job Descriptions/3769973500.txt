@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our client, a product manufacturing company in Wilmington, NC, is hiring a software engineer to join their team! The company works with some of the largest companies in the world to design and produce customized solutions and world-class products.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Design and develop new software in C and C++.  </li><li>Design and develop embedded applications and PC applications within defined standards, procedures, and guidelines.  </li><li>Support the addition of new features in existing architectures.  </li><li>Assist hardware engineers in development of new target platforms and in troubleshooting hardware/software interfaces.  <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>BS in Electrical Engineering, Computer Engineering, Computer Science, or related field.  </li><li>Programming and debugging experience with embedded systems using C and C++.  </li><li>Use of debugging tools, including software debuggers and in-circuit microprocessor emulators for software development, integration, debugging, and troubleshooting </li><li>Self-motivated with the ability to work well in a team environment.  </li><li>Strong drive for quality along with excellent written and verbal communication skills.  </li><li>Follow through on the deadlines that you establish. Adhere to software engineering processes.  </li><li>Strong troubleshooting, problem-solving, and debugging skills.  </li><li>Strong analytical, organizational, and communication skills.  </li><li>Experience with software development methodologies, standards, configuration management tools, and production controls.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Tech Firefly is teaming up with a statistical analysis company to hire an SDET to join the team. If you are experienced in these areas, please apply today!</p><p>Position Type: Full Time</p><p>Location: Cary, NC (Hybrid on-site)</p><p><strong>As an SDET you will be responsible for:</strong></p><ul><li>Identify test scenarios and implement automation around all scenarios. </li><li>Analyze test results to ensure regression tests are successful, identify defects in the software, report issues, and verify defects have been fixed. </li><li>Interact directly with developers, work effectively in a fast-paced Agile environment. </li><li>Create reporting mechanisms to effectively communicate status and risks. </li><li>Affect the quality of software products by influencing the design and testability during development. </li><li>Keep current of the state-of-the-art technology, via on-the-job learning . </li></ul><p><strong>Requirements</strong></p><ul><li>Bachelor’s degree in computer science or related quantitative field. </li><li>2+ years of experience writing software applications, testing software, and general programming. </li><li>Experience in programming in JavaScript, debugging code, and identifying issues with code. </li><li>Experience in using Selenium with JavaScript for test automation across multiple browsers and involving various types of applications – Web Applications, Web Services, APIs. </li><li>Hands-on experience working with automation infrastructure and tools. </li><li>Experience with Node.js, npm scripts, and Webpack. </li><li>Experience with Mocha, Jasmine, Jest, Cucumber, Gherkin or similar testing frameworks. </li><li>Experience with using REST APIs. </li><li>Working knowledge of both Windows and Unix operating systems, platforms, technologies. </li><li>Strong teamwork skills, ability to learn quickly, excellent written and verbal communication. </li><li>Ability to work independently and own projects from conception to release. </li><li>Perform complex tasks executing and modifying processes, plans and design when needed. </li><li>Solid understanding of software testing tools, methodologies, and principles. </li><li>Strong passion towards building efficient processes to increase software development productivity. </li></ul><p><strong>Preferred</strong></p><ul><li>Experience using Jenkins and Docker. </li><li>Experience with Load Runner and JMeter. </li><li>Experience in using Sauce Labs to scale up test execution. </li><li>Experience with testing and performance testing for cloud-based applications.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

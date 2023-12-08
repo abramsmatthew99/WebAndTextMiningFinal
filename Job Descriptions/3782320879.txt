@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        A Junior Systems Engineer is an entry-level position in the field of systems engineering. Systems engineering is a discipline that focuses on designing, integrating, and managing complex systems throughout their entire lifecycle. These systems can range from computer systems and software applications to large-scale infrastructure projects.<br/><br/>Key Responsibilities:<br/><br/><ul><li>Supporting Senior Engineers: Junior Systems Engineers often work closely with more experienced engineers to learn and assist in various tasks related to system design, development, and maintenance.</li><li>Documentation: They may be responsible for creating and maintaining technical documentation, including system design specifications, process documentation, and configuration management records.</li><li>Troubleshooting: Identifying and resolving issues with systems, applications, or infrastructure components. This may involve troubleshooting hardware or software problems.</li><li>Testing: Conducting tests and quality assurance activities to ensure that systems meet performance and reliability standards.</li><li>System Maintenance: Assisting in routine system maintenance tasks, such as updates, patches, and backups.</li><li>Collaboration: Collaborating with cross-functional teams, including software developers, network engineers, and project managers, to ensure systems meet project requirements.</li><li>Requirements Analysis: Participating in requirements gathering and analysis to understand the needs of the system users and stakeholders.</li><li>Research: Staying updated with industry trends and emerging technologies to contribute to the improvement of systems and processes.<br/><br/><br/></li></ul><strong>Desired Skills<br/><br/></strong><ul><li>Experience with cloud computing platforms (AWS, Azure, GCP, Nutanix)</li><li>Experience with virtualization technologies (VMware, Hyper-V)</li><li>Experience with networking protocols and technologies (TCP/IP, DNS, DHCP)</li><li>Experience with security technologies (firewalls, intrusion detection systems, encryption)</li><li>Experience with programming languages (Python, Bash, PowerShell)<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in computer science, information technology, or a related field</li><li>2-3 years of experience in system administration or a related field</li><li>Strong knowledge of operating systems, software, and hardware</li><li>Experience with system troubleshooting and problem solving</li><li>Ability to work independently and as part of a team</li><li>Excellent communication and interpersonal skills<br/><br/><br/></li></ul>Flexible work from home options available.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

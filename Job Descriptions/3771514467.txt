@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>IS Client Services Analyst<br/><br/></strong><strong>Description<br/><br/></strong>Become part of Arizona Community Physicians (ACP), Arizona’s largest and most successful physician-owned medical group. ACP is a patient-centered organization consisting of approximately 800 employees. Our group includes 166 providers in the specialties of family medicine, internal medicine, geriatrics, pediatrics, endocrinology, rheumatology, dermatology, and gynecology. We are located in 50+ locations of varying sizes in Tucson, Oro Valley, and Green Valley. Our dynamic group offers many opportunities for professional growth and personal satisfaction.<br/><br/>Our IS Department is currently seeking a qualified candidate to join our collaborative team in delivering excellence in user support. This position is located in our Executive Central Business Office where employees enjoy a casual and professional work environment.<br/><br/><strong>Job Summary<br/><br/></strong>Serves as a source of technical assistance and support to the user community for data, voice, video, hardware, and software. Responds, coordinates, diagnoses, and troubleshoots calls for break/fix, software installs, moving/relocating, and equipment swaps in a timely manner; or escalates problem on behalf of the customer to the appropriate technical staff for resolution. Electronically documents activities. Supports and maintains effective relationships with users.<br/><br/><strong>Responsibilities<br/><br/></strong>Provides and documents day-to-day technical support to employees for network infrastructure and internal desktop systems including software, hardware, data, voice, and related peripherals.<br/><br/><ul><li> Installs, configures, and troubleshoots desktop systems, workstations, peripherals, voice/mobile devices, and network issues in a heterogeneous environment. </li><li> Maintains passwords, data integrity and file system security for the IT environment. </li><li> Organizes and follows complex and/or detailed technical procedures. </li><li> Provides and/or attends technical training. </li><li> Conduct training programs designed to educate an organization’s computer users about basic and specialized applications. </li><li> Consults with clients and higher-level specialists and analysts to resolve technical problems and ensure customer satisfaction. </li><li> Provides courteous and timely customer service. </li><li> Coordinating and communicating with internal and external customers/vendors. </li><li> Independently resolves routine and non-route problems. </li><li> Maintains / tracks movement and status of IT assets. </li><li> Participates in rotating on-call schedule with team members. </li><li> May participate in IT projects and/or lead small scale projects. </li><li> May routinely be required to upgrade skills to maintain changing technology / business requirements. <br/><br/></li></ul><strong>Requirements And Skills<br/><br/></strong>The requirements listed below are representative of the knowledge, skills, and/or abilities required.<br/><br/><ul><li> This position requires the physical ability to do work requiring kneeling, crawling, bending, and reaching overhead, the physical strength to lift 50 pounds, move and carry computer related equipment such as computers, monitors, printers, and audio/visual equipment, as well as the ability to perform all duties related to the installation of computer related equipment. </li><li> Knowledge of Windows operating system, client/server environments within a corporate network structure, fundamental networking concepts, and troubleshooting methodologies. </li><li> Proficient in using Microsoft Office Suite. </li><li> Knowledge of voice/mobile communication devices. </li><li> Ability to work as a team player in a fast-paced environment. </li><li> Ability to explain and communicate complex technical processes and terminology to a non-technical audience. </li><li> Organizing personal workload, being proactive, and progressing multiple tasks and customer requests simultaneously. </li><li> Identifies and makes process improvements and suggestions. </li><li> Ability to troubleshoot customers’ problems by phone or in person. </li><li> Proven experience as a Driver</li><li> A valid driver’s license</li><li> A clean driving record</li><li> Ability to remain calm in stressful driving situations (e.g., at rush hour)</li><li> Minimum visual acuity of 20/50 (or corrected to 20/50)</li><li> Familiarity with GPS devices. </li><li> Knowledge of area roads and neighborhoods. </li><li> Availability to occasionally take weekend and night shifts. <br/><br/></li></ul><strong>Education And Experience Requirements<br/><br/></strong><ul><li> Associate degree in computer science or related field, or equivalent technical certification. </li><li> 2 years of experience supporting desktop users in a networked environment. </li><li> Experience working with Linux is a plus. </li><li> Experience administrating Microsoft SharePoint is a plus. </li><li> Experience with Web administration (IIS, Apache, PHP, JavaScript) is a plus.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Practices
+          </span>
+</li>
+</ul>
+</div>
+</section>

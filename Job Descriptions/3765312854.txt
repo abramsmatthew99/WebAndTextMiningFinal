@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        AIPSO is a management organization and service provider for various insurance industry groups responsible for administering the residual market. We are a national organization that serves local customer needs. Centralization and standardization are key to many AIPSO services because of the inherent economies of scale and other efficiencies. However, our organization is based on customer focus and recognizes the need for flexibility in serving customer groups with diverse interests.<br/><br/><strong>Essential Duties &amp; Responsibilities<br/><br/></strong><ul><li> Designs, deploys, manages, and serves as an expert for the VMWare and server environments.</li><li> Manages virtualization software such as VMware, vSphere, NSX and SRM.</li><li> Supports HPE servers, Dell Servers, HPE SANs and Cisco MDS switches.</li><li> Assist in VM system design, develop and update system documentation.</li><li> Works with cross-functional teams to design and implement virtual solutions for the deployment<br/><br/></li></ul>of applications.<br/><br/><ul><li> Support Windows Server 2016, 2019, 2022, Active Directory and Microsoft Azure.</li><li> Work with business units to identify technology solutions to business issues.</li><li> Follow up on remediation of audit and penetration testing finds.</li><li> Collaborate effectively with end-users as well as Network &amp; Security, Application Development,<br/><br/></li></ul>Facilities and Project Management Office staff.<br/><br/><ul><li> Provides after-hours support for Infrastructure related emergencies as well occasional weekend<br/><br/></li></ul>maintenance.<br/><br/><ul><li> Performs related work as assigned.<br/><br/></li></ul><strong>Education<br/><br/></strong>Bachelor's degree (BA/BS) from four-year college or university in Computer Science, Information Systems, or related field preferred; Master's degree (MIS) is a plus. Additional appropriate experience will be considered in lieu of a degree.<br/><br/><strong>Experience<br/><br/></strong>Seven or more years related experience in administration of virtualization, network systems, and security. Implement, monitor, and maintain Microsoft Azure solutions, including major services related to compute, storage, network, and security.<br/><br/><strong>Skills &amp; Knowledge<br/><br/></strong><ul><li> Proficient in the use of Microsoft Office productivity tools (e.g. Office 365) to manage personal<br/><br/></li></ul>work.<br/><br/><ul><li> Effective problem-solving skills, including ability to analyze complex issues, find the root cause<br/><br/></li></ul>of the problem, and consider a wide range of alternatives before acting.<br/><br/><ul><li> Demonstrate strong verbal and written communication skills, including ability to effectively<br/><br/></li></ul>present information and respond to questions from groups or individuals.<br/><br/><ul><li> Ability to multi-task and demonstrate flexibility while maintaining attention to detail.</li><li> Strong technical aptitude and stays on top of new technology and industry trends.</li><li> Ability to work independently and interact professionally and effectively in a team environment.</li><li> Provides best practice advice and guidance to management and across the enterprise.</li><li> Creates processes and procedures for building new and upgrading servers, and completing<br/><br/></li></ul>routine, repeatable tasks.<br/><br/><strong>Salary Range<br/><br/></strong><strong>$92,200 - $147,400 Annual</strong>. Actual salary for this position will be determined by a number of factors, including the scope, complexity, and location of the role as well as the cost of labor in the market; the skills, education, training, credentials, and experience of the candidate; internal equity and other conditions of employment.<br/><br/><em>AIPSO is an equal opportunity employer. To this end, all employment related decisions are made on a non-discriminatory basis and in full compliance with federal, state, and local laws prohibiting discrimination in employment.<br/><br/></em>This is a non-management position<br/><br/>This is a full time position
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

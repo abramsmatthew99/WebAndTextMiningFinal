@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Hope you are doing well !<br/><br/>Please just go through the below job Description, if interested please share your updated resume.<br/><br/><strong>Role: Technical Analyst<br/><br/></strong><strong>Location: Atlanta, GA (Onsite)<br/><br/></strong><strong>Duration: Long Term Contract<br/><br/></strong><strong>Job Description<br/><br/></strong><ul><li> Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.</li><li> Five (5) plus years of native mobile engineering experience working with iOS and Android.</li><li> Expertise in designing testable software and building large scale, complex applications.</li><li> A well-rounded understanding of a variety of mobile app frameworks and web services.</li><li> Working knowledge of common build tools.</li><li> An understanding of iOS performance optimization best practices.</li><li> An understanding of hardware compatibility and versioning strategy.</li><li> Effective verbal and written communication skills.</li><li> Willingness to apply your skillset broadly and expand it to meet client needs.</li><li> Experience working with globally distributed teams</li><li> Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve.</li><li> Limited immigration sponsorship may be available.<br/><br/></li></ul><strong>Puneet Kumar<br/><br/></strong><strong>302-889-0616<br/><br/></strong><strong>Smart Bot Systems LLC</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

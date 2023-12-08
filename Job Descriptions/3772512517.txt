@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job Description:<br/><br/></strong>The Service Desk Technician is responsible for handling first level computer related support of service requests in a professional and timely manner. This relates to all technology, to include: workstations, servers, printers, networks, and vendor specific hardware and software.<br/><br/><strong>Basic Functions:<br/><br/></strong><ul><li>Provide technical assistance with computer hardware and software</li><li>Resolve issues for clients via phone, in person, or electronically</li><li>IT Support relating to technical issues involving Microsoft’s core business applications and operating systems. </li><li>IT Support relating to technical issues involving Apple’s core business applications and operating systems. </li><li>IT Support relating to technical issues involving our clients core business applications. </li><li>Basic technical support at the network level: WAN and LAN connectivity, routers, firewalls, and security. </li><li>Monitor the remote monitoring and management system alerts and notifications, and respond accordingly through service tickets. </li><li>System documentation maintenance and review in ConnectWise. </li><li>Communication with customers as required: keeping them informed of incident progress, notifying them of impending changes, and agreed outages. <br/><br/></li></ul><strong>Additional Duties and Responsibilities:<br/><br/></strong><ul><li>Improve customer service, perception, and satisfaction. </li><li>Fast turnaround of customer requests. </li><li>Ability to work in a team and communicate effectively. </li><li>Work with the Service Desk Dispatcher to ensure requests are routed to the proper resource in order to be resolved quickly and efficiently. </li><li>Escalate service requests that require engineer level support. </li><li>Responsible for entering time and expenses in ConnectWise as they occur. </li><li>Understand processes in ConnectWise by completing assigned training materials and blueprints on the ConnectWise University. </li><li>Enter all work as service tickets in ConnectWise. <br/><br/></li></ul><strong>Knowledge, Skills, and/or Abilities Required: <br/><br/></strong>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br/><br/><ul><li>Advanced understanding of operating systems, business applications, printing systems, and network systems. </li><li>Interpersonal skills: such as telephony skills, communication skills, active listening and customer-care. </li><li>Diagnosis skills of technical issues. </li><li>Ability to multi-task and adapt to changes quickly. </li><li>Technical awareness: ability to match resources to technical issues appropriately. </li><li>Service awareness of all organization’s key services for which support is being provided. </li><li>Understanding of support tools, techniques, and how technology is used to provide services. </li><li>Typing skills to ensure quick and accurate entry of service request details. </li><li>Self-motivated with the ability to work in a fast moving environment. <br/><br/></li></ul><strong>Educational/Vocational/Previous Experience Recommendations:<br/><br/></strong><ul><li>BA/BS, preferably in computer science or a related field. </li><li>1-3 years of IT or related experience</li><li>A+, Network+, CCT, CCENT, CMNA, MCP Certifications a plus<br/><br/></li></ul><strong>Benefits:<br/><br/></strong><ul><li> Competitive salary based on experience and qualifications. </li><li> Premier health, dental, and vision benefits</li><li> 401K Retirement Plan</li><li> Full on the job training &amp; support. </li><li> Fun working environment and culture</li><li> Work from home days</li><li> Great opportunity for advancement<br/><br/></li></ul><strong>Company Description<br/><br/></strong>Shartega IT is a leading managed IT provider in Chicago IL and surrounding areas. Our mission is to provide business with a Complete IT management and support solution, acting as a trusted partner to ensure IT works all the time every time for the company and protect its critical data and customers so they can focus on their core business.<br/><br/>Shartega IT is a leading managed IT provider in Chicago IL and surrounding areas. Our mission is to provide business with a Complete IT management and support solution, acting as a trusted partner to ensure IT works all the time every time for the company and protect its critical data and customers so they can focus on their core business.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

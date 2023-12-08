@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are looking for a passionate Software Engineer to build and support a variety of web applications and services. These include the development of a suite of cross-platform routing systems that often feature both complex GIS and mapping functionality. The Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages, C# .NET, .NET Core, ReactJS, and C++. You will work with other Software Engineers and Product Managers throughout the software development life cycle. In this role, you should be a team player with a keen eye for detail and problem-solving skills who’s ultimate goal is to build high-quality, innovative, and fully performing software that complies with coding standards and technical design.<br/><br/>The typical base pay range for this position at the start of employment is expected to be between $90,000-$120,000 per year. RouteSmart Technologies, Inc. has different base pay ranges for different work locations within the US and base pay will vary based on experience.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Write well written, testable, and efficient code by using software development best practices that comply with the specifications provided by team lead and/or supervisor</li><li>Demonstrate the ability to troubleshoot, debug, and upgrade existing software code</li><li>Write various back-end services that can be leveraged by web designers to create web products</li><li>Research new industry coding standards that can be used to improve the team’s ability to create secure, high-quality, high-performance applications</li><li>Other duties/responsibilities as assigned<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Proficient in C#, .Net Core development using Visual Studio and other Microsoft development tools</li><li>Proficient writing and maintaining REST API services</li><li>Familiarity with relational databases (Postgres, MS SQL, etc.) and writing basic database queries</li><li>Understanding web application security as well as code development best practices</li><li>Bachelor’s Degree in Computer Science, Information Systems, or a related field</li><li>2+ years minimum experience as a programmer writing client or server side components<br/><br/></li></ul>Additional beneficial skills - Familiarity with GIS technology from ESRI (ArcGIS Maps SDK for Javascript)<br/><br/><strong>Benefits<br/><br/></strong>RouteSmart offers its employees numerous opportunities for professional development. Our goal is to provide our employees the chance to learn and grow as the company grows. We recognize that our employees are our most valuable asset. The work they do is key to our ability to provide high quality service to our clients. We also recognize that our employees are unique individuals with their own lifestyle and interests. RouteSmart Technologies pays a significant share of the cost of benefits for our employees. We believe our investment makes good business sense by helping to create a positive and productive work environment. Among the benefits we offer are:<br/><br/><ul><li> Medical/Dental/Vision/STD &amp; LTD Plans</li><li> Employer paid Life Insurance Plan</li><li> Employee Training &amp; Development</li><li> 401(k) Retirement Savings Plan w/ Employer Match</li><li> Vacation/Sick/Holiday Leave</li><li> Tuition Reimbursement</li><li> Flex hours</li><li> Casual Dress<br/><br/></li></ul>RouteSmart Technologies is proud to be an equal opportunity workplace. Individuals seeking employment at RouteSmart Technologies are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation.<br/><br/>We do not accept resumes from headhunters, placement agencies, or other suppliers that have not signed a formal agreement with us.<br/><br/>All candidates must have legal authorization to permanently live and work in the United<br/><br/>States.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

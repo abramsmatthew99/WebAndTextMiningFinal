@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Overview<br/><br/></strong>Kairos Power is a new nuclear energy technology and engineering company whose mission is to enable the world’s transition to clean energy, with the ultimate goal to dramatically improve people’s quality of life while protecting the environment. This goal will be accomplished through the commercialization of the fluoride-salt-cooled, high-temperature reactor (FHR) that can be deployed with robust safety, affordable costs, and flexible operation to accommodate the expansion of variable renewables.<br/><br/><strong>Job Summary<br/><br/></strong>Kairos Power is looking for a highly motivated software engineer intern to work within a small software development team that supports the needs of our design, research, and development organizations. In this role you will support engineering teams in the development of code and compute infrastructure related to the design and analysis of nuclear power systems. This includes developing code for a variety of software projects, deploying CI/CD pipelines, and building out cloud-based compute infrastructure. You will play a crucial role in optimizing our code development processes, ensuring smooth and consistent code integration, and deploying code into production. The position requires a strong self-starting mentality and the ability to develop and deploy novel solutions in support of the company mission.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Collaborate with nuclear and other non-software engineers to define and develop software projects based on their needs.</li><li>Develop, test, and maintain code that meets best practices in terms of readability, scalability, and performance.</li><li>Assist in the development and enhancement of CI/CD processes to support efficient code development and deployment.</li><li>Contribute to the documentation of code, ensuring clarity for current and future team members.</li><li>Review existing code and recommend optimizations or refactoring where necessary.</li><li> Assist in developing software standards which other teams will use to develop and deploy code.<br/><br/></li></ul><strong>Qualifications</strong> <br/><br/><ul><li>Currently enrolled in a BS, MS, or PhD program in Computer Science, Computer Engineering, or a related field.</li><li>Strong proficiency in interpretive languages such as Python.</li><li>Proficiency in compiled languages such as C++ is desired.</li><li>Familiarity with common software concepts such object-oriented programming, polymorphism, data structures, and algorithms.</li><li>Familiarity with scientific computing is desired.</li><li>Familiarity with modern coding best practices, including but not limited to:</li><ul><li>Version Control: Experience with tools such as Git.</li><li>Continuous Integration/Continuous Deployment (CI/CD): Hands-on experience with platforms like Jenkins, Travis CI, or GitHub Actions.</li><li>Automated Testing: Experience in writing unit tests and utilizing frameworks like PyTest or GoogleTest.</li><li>Code Documentation: Familiar with tools such as Doxygen or Sphinx.</li><li>Containerization: Exposure to Docker or other container tools.</li><li>Cloud Platforms: Experience with AWS or other cloud-based platforms.</li></ul><li>Strong analytical and problem-solving skills.</li><li>Excellent communication and collaboration abilities.<br/><br/></li></ul><strong>Physical Conditions<br/><br/></strong><ul><li>Remaining in a stationary position, often standing, or sitting for prolonged periods</li><li>Communicating with others to exchange information<br/><br/></li></ul><strong>Environmental Conditions<br/><br/></strong><ul><li>General office environment</li><li>High-concentration, demanding and fast-paced<br/><br/></li></ul><em>The salary range for this position is $28-32 per hour for employees working onsite at our Alameda, CA headquarters. The range provided in this job posting represents the typical range or starting rate of candidates hired in California. Factors that may be used to determine your actual salary may include your education, experience, knowledge, skills, abilities, the market data for your work location, and a comparison to other employees already in the role.<br/><br/></em><strong>About Our Benefits<br/><br/></strong>We know that we have some of the most talented and dedicated employees, and we believe in rewarding them accordingly. If you work here, full-time employees (excludes interns) expect to have access to the benefits below:<br/><br/><ul><li>Competitive compensation packages</li><li>Medical, dental and vision benefits for employees and their dependents</li><li>Paid Vacation</li><li>401(k) and pre-tax health insurance, dependent care, and commuter benefits (FSA)<br/><br/></li></ul>Kairos Power is committed to building a diverse workforce that reflects the communities where we do business. Kairos Power is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We actively welcome people of different experiences, abilities, and perspectives.<br/><br/>Kairos Power participates in E-Verify.<br/><br/>Candidates only, no recruiters or agencies please.<br/><br/>Note: You are applying for a position that is located in a facility that handles information that is subject to export control restrictions by the Department of Energy under 10 CFR Part 810. To work in this facility, you need to be authorized by the Department of Energy to access Part 810-controlled information. Foreign nationals who are citizens of countries that are not on the Department of Energy’s general authorization list (link below) are not permitted to work in our facility unless the Department of Energy issues an export control license to the company to permit that individual to have access to Part 810-controlled information. The following questions are intended to determine the licensing requirements that may apply. https://www.law.cornell.edu/cfr/text/10/appendix-A_to_part_810
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nuclear Electric Power Generation
+          </span>
+</li>
+</ul>
+</div>
+</section>

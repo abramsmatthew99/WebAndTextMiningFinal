@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>We are now recruiting top Research Scientists for Autonomous Vehicles!<br/><br/></strong>AI-powered autonomous vehicles that can learn, reason, and interact with people are no longer science fiction. Self-driving cars, autonomous delivery vehicles, and autonomous construction vehicles, among others, are getting increasingly close to widespread deployment. However, fundamental research questions still need to be addressed for us to achieve full vehicle autonomy. For instance, how can we: Remove the traditional barriers among perception, prediction, and planning in order to improve overall system performance? Equip autonomous vehicles with online and offline assurances that meet the standards for safety-critical systems? Ensure that autonomous vehicles work seamlessly in new places?<br/><br/>These are some of the exciting questions that the NVIDIA Autonomous Vehicle Research group is tackling. We bring together a diverse, interdisciplinary research team working on core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as critical related areas such as decision making under uncertainty, deep learning, reinforcement learning, and the verification and validation of safety-critical AI systems. Our focus is on basic research; lab members are encouraged to publish their work and open-source code. NVIDIA is well known for its team culture, and lab researchers are able to closely interact with others within the company who are experts in perception systems, machine learning, and robotics. There is an opportunity to make a strong impact on products, while having the freedom and bandwidth to conduct ground-breaking publishable research.<br/><br/><strong>What You'll Be Doing<br/><br/></strong><ul><li>Designing and implementing cutting-edge techniques in the field of vehicle autonomy.</li><li>Publishing your original research.</li><li>Collaborating with other research team members, a diverse set of internal product teams, and external researchers.</li><li>Transferring technology you've developed to relevant product groups.<br/><br/></li></ul><strong>What We Need To See<br/><br/></strong><ul><li>Completing or recently completed a PhD in Robotics, Computer Science, Computer Engineering or related field (or equivalent experience).</li><li>3+ years of relevant research experience in the field of vehicle / robot autonomy.</li><li>Strong knowledge of theory and practice of vehicle / robot autonomy, or a related area with a strong interest in connecting your work to autonomous vehicles.</li><li>A track record of research excellence with your work published in top conferences and journals such as RSS, ICRA, IJRR, NeurIPS, ICML, CVPR, TAC, etc, and other research artifacts such as software projects.</li><li>Exceptional programming skills in Python; C++ and parallel programming (e.g., CUDA) are a plus.</li><li>Knowledge of common machine learning frameworks such as PyTorch and Tensorflow.</li><li>Strong communication and interpersonal skills are required along with the ability to work in a dynamic, research-focused team.<br/><br/></li></ul>Are you dedicated, upbeat and dynamic with excellent analytical ability? Are you an engineer passionate and highly motivated about solving complex problems? If so, you may be a perfect fit for NVIDIA!<br/><br/>The base salary range is 156,000 USD - 247,250 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.<br/><br/>You will also be eligible for equity and benefits . <em> NVIDIA accepts applications on an ongoing basis. <br/><br/></em>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

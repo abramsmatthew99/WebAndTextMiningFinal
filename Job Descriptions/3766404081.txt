@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Build the future of data. Join the Snowflake team.<br/><br/>We're on the hunt for dynamic Senior Software Engineers to accelerate the development of our next-gen observability and alerting products at Snowflake. Your expertise will be crucial in empowering our customers to leverage time-series data, streamline alerts, and fine-tune notifications within their data pipelines in Snowflake. Your contributions will significantly enhance their continuous data processing capabilities, carving a smoother pathway to informed decision-making.<br/><br/>Located in San Mateo, CA, this role will immerse you in a collaborative environment spearheaded by a team of industry leaders with deep expertise in observability, databases, and distributed data processing. We're searching for dynamic engineers with a zest for innovation, a knack for grappling with complex data system challenges, and a propensity to dive deep and grasp technical intricacies swiftly.<br/><br/>If you're enthusiastic about crafting groundbreaking technologies and eager to tackle complex issues head-on, this position offers an excellent opportunity to fast-track your career with Snowflake!<br/><br/><strong>AS A SENIOR SOFTWARE ENGINEER AT SNOWFLAKE YOU WILL:<br/><br/></strong><ul><li>Work with other engineers and PMs to define the functionality and design of our next generation observability platform.</li><li>Be responsible for driving new feature development from inception, design, testing to the eventual release to address customer requirements and meet business goals.</li><li>Build highly reliable software to meet and exceed the needs of our largest customers.</li><li>Analyze fault-tolerance, availability, performance and scale challenges, and come up with appropriate solutions.</li><li>Ensure operational readiness of the services and meet the commitments to our customers regarding reliability, availability and performance.<br/><br/><br/></li></ul><strong>OUR IDEAL SENIOR SOFTWARE ENGINEER WILL HAVE:<br/><br/></strong><ul><li>7+ years industry experience designing and building distributed data systems.</li><li>Experience building enterprise grade, reliable and trustworthy software or services.</li><li>Advanced degree in Computer Science or related field.</li><li>Excellent problem solving skills, and strong CS fundamentals including data structures, algorithms, and distributed systems.</li><li>Fluency in Java or C++.</li><li>Ability to work in a team environment, collaborate well, and mentor junior engineers.</li><li>Ability to work on-site in our downtown Bellevue office.<br/><br/><br/></li></ul><strong>BONUS POINTS FOR EXPERIENCE WITH THE FOLLOWING:<br/><br/></strong><ul><li>Building modern data processing systems</li><li>Experience in using or building observability and time series systems</li><li>Database technologies including internal design and implementation</li><li>Developing distributed systems internals</li><li>Large scale distributed systems, transactions and consistency models.</li><li>Implementing multi-tenant systems, with focus on reliability, performance, isolation and security.</li><li>Designing and implementing systems for public or private clouds.<br/><br/><br/></li></ul>The following represents the expected range of compensation for this role:<br/><br/><ul><li>The estimated base salary range for this role is $214,000 - $327,700.</li><li>Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.<br/><br/><br/></li></ul>The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending &amp; health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.<br/><br/>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.<br/><br/>How do you want to make your impact?<br/><br/>The following represents the expected range of compensation for this role:<br/><br/><ul><li> The estimated base salary range for this role is $214,000 - $327,700.</li><li>Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.<br/><br/><br/></li></ul>The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending &amp; health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.<br/><br/>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.<br/><br/>How do you want to make your impact?
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

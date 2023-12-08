@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Altum Solutions</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Sabrina Fleming" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4E03AQE4gD9T7odO-w/profile-displayphoto-shrink_100_100/0/1698062207016?e=2147483647&amp;v=beta&amp;t=KuXoWEWFLg1iaSEZV7FGuvOuUUzZCtgL3HQ9GW4uYoM" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Sabrina Fleming
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Technical Recruiter at Altum Solutions
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Sabrina Fleming" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fsabrina-d-fleming&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Title: Analyst, Database Senior</strong></p><p><strong>Location: Columbia, SC (onsite)</strong></p><p><strong>Rate: $70/hr</strong></p><p><strong>Duration: 11/20/23 through 5/17/24</strong></p><p><br/></p><p><strong>*Not open to C2C*</strong></p><p><br/></p><p><strong>Duties</strong></p><ul><li>Data Architecture and Modeling (40%): Focus on enterprise-wide data modeling and database design. Establish data architecture standards, policies, and procedures for the organization.</li><li>Customer Engagement &amp; Technical Solutions (25%): Engage with customers and application architects to design data structures and provide technical solutions. Ensure alignment with data content standards.</li><li>Management Support &amp; Decision-making (20%): Support management objectives and provide input into complex and high-impact decisions relating to data architecture.</li><li>Maintenance &amp; Troubleshooting (15%): Monitor database performance, conduct maintenance, and troubleshoot issues. Mentor junior staff in these areas.</li></ul><p><br/></p><p><strong>Required Skills and Abilities</strong></p><ul><li>Comprehensive knowledge in designing operational data stores, data architectures, and data marts.</li><li>Proficient in business analysis, data acquisition, and access analysis and design.</li><li>Experience in coaching and mentoring junior technical staff.</li><li>Strong knowledge of data management programming languages and tools.</li></ul><p><br/></p><p><strong>Work Environment</strong></p><ul><li>Fast-paced, multi-platformed environment requiring 24x7 support.</li></ul><p><br/></p><p><strong>Required Education and Work Experience</strong></p><ul><li>Education: Bachelor’s degree in Computer Science, Information Technology, or related field. Or 4 years of job-related work experience, or 2 years of job-related experience plus an associate’s degree.</li><li>Work Experience: A minimum of 10 years of IT experience, including diverse database administration experience.</li></ul><p><br/></p><p><strong>Languages</strong></p><ul><li>English: Speak, Read, Write</li></ul><p><br/></p><p><strong>Skills Required</strong></p><ul><li>Architecture</li><li>Business Analysis</li><li>Database Management</li><li>Performance Tuning</li><li>Oracle</li></ul><p><br/></p><p><strong>Schedule:</strong></p><p>Start Date: 11/20/2023</p><p>Hours Per Week: 40.00</p><p>Hours Per Day: 8.00</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

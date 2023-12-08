@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Must be local - Hybrid role.<br/><br/>Must have a valid LinkedIn profile<br/><br/>MUST have recent medical device experience<br/><br/><strong>Position Summary<br/><br/></strong>Due to our continued growth, we are recruiting Test Automation Engineers to join our Digital Solutions team. This position will be in our Minneapolis, MN location. In this role, you will be responsible the effectiveness of the test automation process, including implementation, enhancement, and sustainability in support of our digital solutions products including the clinician programmer, patient mobile app and cloud-based systems.<br/><br/><strong>Responsibilities<br/><br/></strong>Analyze system and software requirements, test cases, and other documentation to breakdown functionality and automate such functionality using a predefined framework and set of tools to support the respective requirements and manual test cases<br/><br/>Work closely with software development to ensure the automation is working as expected<br/><br/>Deliver robust, scalable, and sustainable test automation assets as part of a larger automated regression test suite<br/><br/>Write and execute manual test cases as necessary<br/><br/>Perform ripple effect analysis for requirements and design level changes using technical standards, principles, theories, concepts, and techniques as they relate to software testing<br/><br/>Continually monitor the test automation results and adjust accordingly<br/><br/>Report and investigate observations and defects, working with other members of the development team to establish root cause and options for correction<br/><br/>Actively maintain the automation test suite so it continues to provide the value expected<br/><br/>Provide and manage traceability evidence between requirements, tests, and risk documentation<br/><br/>Follow established standard operating procedures.<br/><br/><strong>Qualifications<br/><br/></strong>Bachelor's Degree in Engineering, Software, Computer Science, or related discipline or equivalent experience<br/><br/>6+ years of similar experience, including software testing, authoring automated testing, and verification experience and/or software development experience<br/><br/>Experience with automated software test tools and techniques on desktop, mobile and/or cloud-based systems such as Selenium, Aligned Elements, Appium, and/or other automated and manual test management tools<br/><br/>Strong written and verbal communication skills with the ability to communicate with both internal and external stakeholders<br/><br/>Proficient with MS Suite (Word, Excel, Outlook) and software code languages such as C#, Python, etc.<br/><br/><strong>Preferred Qualifications<br/><br/></strong>Advanced level degree in Engineering, Software, Computer Science, or related discipline<br/><br/>Medical device experience, especially active implantable or Class III devices<br/><br/>Familiarity with FDA regulation part 820 and/or standard IEC 13485 / 62304<br/><br/>Demonstrated experience automating tests<br/><br/>Experience working in an Agile and hybrid development methodology utilizing Jira or Azure
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

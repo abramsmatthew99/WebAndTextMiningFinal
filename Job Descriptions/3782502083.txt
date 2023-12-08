@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from eTeam</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Kumar Neelkamal" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4D03AQGhfdr364IECg/profile-displayphoto-shrink_100_100/0/1697116816373?e=2147483647&amp;v=beta&amp;t=H8K9LOanno7y9PZKAQyqPS6DNdBj9lN4deLdY0CwTjM" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Kumar Neelkamal
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Senior Technical Recruiter at eTeam
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Kumar Neelkamal" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fkumar-neelkamal&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Title: Systems Engineer - Workday</strong></p><p><strong>Location: Seattle, WA (Remote)</strong></p><p><strong>Duration: 6+ Months</strong></p><p><strong>Hourly Rate: $60/hr on W2</strong></p><p><br/></p><p><strong>Job Description:</strong></p><ul><li>We are in search of an experienced application engineer to build cutting edge employee centric solutions. The People Tools team is composed of Application Engineers that own the delivery and maintenance of native Workday integrations, Workday Extend (formerly, 'Workday Cloud Platform') applications and custom services built on AWS. This position is for a Workday Applications Engineer who will help build and maintain our HR technology solutions using Workday and other supporting tech stack.</li></ul><p><br/></p><p><strong>Duties:</strong></p><ul><li>Build and maintain cutting edge employee centric solutions in Workday</li><li>Partner with People Technology's analysts and other corporate IT teams to build and test end to end solutions</li><li>Analyze requirements, design, configure, test and deploy solutions using Workday configurations and other applications supported by the team.</li><li>Care deeply about technical architecture, design standards and love to provide mentorship to develop scalable, multi-functional applications</li><li>Work in Agile/ Scrum framework</li></ul><p><br/></p><p><strong>Requirements:</strong></p><ul><li>A Bachelor's degree in Computer Science or equivalent</li><li>5+ years of experience as an Applications Engineer or equivalent role with prior development experience in Workday integration technologies such as EIB, Core Connectors, Document Transformation, and Workday Studio</li><li>Hands-on experience with web technologies, such as RESTful and SOAP APIs, XML, JSON, and Oauth 2.0. Code management using GitHub or similar.</li><li>Experience building across the stack: frontend, services, data integrations.</li><li>Track record of driving efficiencies, reducing tech debt by enhancing and constantly improving our integrations, and application code base.</li><li>You thrive in a fast paced environment where you own individual projects, components and deadlines.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description:<br/><br/></strong><strong>Johnson &amp; Johnson Innovative Medicine</strong> is recruiting for a <strong>2024</strong> <strong>Summer Intern</strong> position in <strong>Data Sciences and Engineering,</strong> located in <strong>Titusville, NJ.</strong> The Data Sciences and Engineering group offers the Summer Intern position within the Commercial, Strategy and Operations division of <strong>Johnson &amp; Johnson.<br/><br/></strong>At <strong>Johnson &amp; Johnson,</strong> we use technology and the power of teamwork to discover new ways to prevent and overcome the world’s most significant healthcare challenges. Our Medical Devices and Pharmaceutical teams leverage data, real-world insights, and creative minds to make life-changing healthcare products and medicines. We're reinventing outdated healthcare ecosystems and infusing them with ground-breaking ideas to help people thrive throughout every stage of their lives. With a reach of more than a billion people every day, there’s no limit to the impact you can make here.<em> Are you ready to reinvent healthcare? </em><em>Here, your career breakthroughs will change the future of health, in all the best </em><em>ways. </em>And you’ll change, too. You’ll be inspired, and you’ll inspire people worldwide to change how they care for themselves and those they love. <strong>Amplify </strong><strong>your impact. Join us!<br/><br/></strong>At <strong>Johnson &amp; Johnson,</strong> we are working to create a world without disease. Transforming lives by finding new and better ways to prevent, intercept, treat, and cure disease inspires us. We bring together the best minds and pursue the most promising science.<br/><br/><strong>Johnson &amp; Johnson Innovative Medicine.</strong> We collaborate with the world for the health of everyone in it. The Data Sciences and Engineering teams’ vision is to provide advanced sales and marketing analytics capabilities to benefit our patients and key stakeholders. We accomplish this using innovative machine learning techniques, data engineering solutions, and an advanced agile, scalable, and forward-looking data platform. The Internship program is focused on providing graduate students with practical Data Science and Engineering experiences leveraging real-world pharmaceutical use cases.<br/><br/><strong>In this role, you will:<br/><br/></strong><ul><li>Understand and analyze pharmaceutical sales &amp; marketing data sets using tools being Dataiku, Kedro, Argo and Sagemaker and programming languages and tools such as Jupyter notebooks, Tableau, SQL workbench, Python, and PySpark.</li><li>Be assigned to a specific Sales &amp; Marketing problem to solve by applying data science methodologies.</li><li>Apply advanced statistical techniques and machine learning concepts (feature engineering, model selection, hypothesis testing, statistical inference, etc.) to solve real-world business problems.</li><li>Build and deploy data pipelines using components that are integrated into our Omnichannel solution.</li><li>Assist our support teams with troubleshooting, researching the root cause, and resolving defects in the event of customer or data quality issues.</li><li>Monitor and troubleshoot operational or data issues in our commercial assets data pipelines. Spend the summer developing valuable intellectual property and present your work to an executive audience.</li><li>Work collaboratively with data stewards, advanced analytics team members, and other internal partners to identify solutions to customer engagement problems.</li><li>Have the opportunity to explore the experience of working with ChatGPT (LLM) solutions.<br/><br/></li></ul><em>The anticipated base pay for this position is between $24.00 and $32.00 per hour, but will be based on candidate’s program year, discipline, degree and/or experience.<br/><br/></em><strong>Qualifications:<br/><br/></strong><ul><li>Be currently enrolled in an accredited college/university pursuing a master’s or doctoral degree in information systems, data sciences, computer sciences, or related discipline.</li><li>Possess strong oral and written communication skills. </li><li>Knowledge of collaborative data science/data engineering platforms like Dataiku, Kedro, Argo, and SageMaker, is highly desirable.</li><li>Display proficiency in programming languages and tools like Python, R, PySpark, and Microsoft Office products.</li><li>Knowledge of cloud computing technologies, large language models, machine learning, and feature engineering concepts will be preferred.</li><li>Having a minimum cumulative GPA of 3.5 or higher is strongly preferred.</li><li>Be available to work full-time (40 hours/per week) between May 2024 and August 2024.</li><li>Display a detail-oriented, progressive mindset and ability to manage multiple tasks.</li><li>Have the ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines.</li><li>Work independently as well as in a team.<br/><br/></li></ul><strong>Johnson &amp; Johnson </strong>is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against based on disability.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

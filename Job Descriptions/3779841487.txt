@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        NYCERS seeks a Cyber Security Analyst to join their Infrastructure Management unit in the Information Technology division. This individual will join a team of senior technicians who support 600 users in our locations in Brooklyn and Long Island City.<br/><br/>Following is a list of technologies in which the individual must be proficient, and will be required to support:<br/><br/><ul><li> VMWare version 7.0 U3, including vCenter management, vMotion and storage management; DellEMC Data Domain and Veritas Netbackup; building and deploying Windows Server 2016/2019/2022 and Windows 10 VM server templates, and troubleshooting all VM relevant issues including SRM site recovery in a Cisco UCS HW environment; Windows Server 2012 r2/2016/2019 administration including Active Directory, group policy, DNS, Certificate Authority, DHCP, FTP etc.; printers and print server administration; Microsoft365 (including ADConnect, AzureAD, InTune/Endpoint Management, Teams, OneDrive, Sharepoint, Exchange Online, and Office365), and the Azure computing platform including virtual servers and desktops (AVD)</li><li> Citrix server, virtual applications and desktops (VDIs), Exchange Server 2019, FSLogix, SCCM, Web server platform build and administration (IBM Websphere, IIS, and Apache Tomcat), SQL experience, Powershell scripting, and Linux server experience a plus.</li><li> The candidate should be prepared to enter an environment that is transitioning core IT services to a number of 3rd party cloud service providers (primarily DaaS and SaaS), so experience with providers such as Box, Salesforce, ServiceNow, and others is a plus.</li><li> The technician will be required to work with minimal supervision and in a project team environment, including interaction with application development, network administrators, and storage administrators.</li><li> The technician should be a “self-starter” as they will be required to troubleshoot problems and research solutions independently. This may include extensive interaction with support staff from NYCERS’ vendor partners</li><li> The technician will be required to clearly document technical solutions including software installation, application configurations, and platform schematics - preparing and reviewing technical LAN/WAN documentation as situations dictate.</li><li> The technician will be required to develop automation scripts to carry out routine tasks where possible.</li><li> The technician will be responsible for identifying, diagnosing, and resolving service tickets via phone, email, and in person. They will be responsible for handling escalations from the BSC support team (level 1 helpdesk) and other IT Division staff.</li><li> The person will be required to work overtime upon request, including the potential for the occasional weekend. The technician may be responsible for coordinating deployment across NYCERS Systems.<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li> A baccalaureate degree, from an accredited college including or supplemented by twenty-four (24) semester credits in cyber security, network security, computer science, computer programming, computer engineering, information technology, information science, information systems management, network administration, or a pertinent scientific, technical or related area; or</li><li> A four-year high school diploma or its equivalent approved by a State’s department of education or a recognized accrediting organization and three years of satisfactory experience in any of the areas described in “1” above; or</li><li> Education and/or experience equivalent to “1” or “2”, above. College education may be substituted for up to two years of the required experience in “2” above on the basis that sixty (60) semester credits from an accredited college is equated to one year of experience. In addition, twenty-four (24) credits from an accredited college or graduate school in cyber security, network security, computer science, computer programming, computer engineering, information technology, information science, information systems management, network administration, or a pertinent scientific, technical or related area; or a certificate of at least 625 hours in computer programming from an accredited technical school (post high school), may be substituted for one year of experience.<br/><br/></li></ul><strong>Preferred Skills<br/><br/></strong>The candidate must have Excellent Customer Service and communications (Oral and Written) skills. Minimum of Seven (7) years of experience working in an IT Infrastructure team supporting roughly 600 users.<br/><br/>55a Program<br/><br/>This position is also open to qualified persons with a disability who are eligible for the 55-a Program. Please indicate at the top of your resume and cover letter that you would like to be considered for the position through the 55-a Program.<br/><br/>Public Service Loan Forgiveness<br/><br/>As a prospective employee of the City of New York, you may be eligible for federal loan forgiveness programs and state repayment assistance programs. For more information, please visit the U.S. Department of Education’s website at https://studentaid.gov/pslf/.<br/><br/>Residency Requirement<br/><br/>New York City residency is generally required within 90 days of appointment. However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County. To determine if the residency requirement applies to you, please discuss with the agency representative at the time of interview.<br/><br/>Additional Information<br/><br/>The City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.<br/><br/>$85,371.00 – $98,177.00
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

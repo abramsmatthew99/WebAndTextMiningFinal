@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What's the role? <br/><br/></strong>We are looking for an intern with strong background in Computer Science and Machine Learning to join the Places team. The candidate must have prior experience in developing and testing machine learning or statistical projects. Also, the candidate must have a strong background in NLP ( Natural Language Processing), Hugging Face transformer models and prompt engineering. Experience in web scraping, SQL/Athena and AWS is a plus. In addition, the candidate must be able to work effectively in a multidisciplinary team environment focused on innovation and be able to learn and integrate complementary technologies outside their specific area of expertise.<br/><br/><strong>What You’ll Get<br/><br/></strong><ul><li> Challenging problems to solve </li><li> Opportunities to learn cool new things </li><li> Work that makes a difference in the world </li><li> Freedom to decide how to perform your work </li><li> Variety in the types of projects </li><li> Feedback so you will know how well you are doing </li><li> Collaborative, Supportive Colleagues <br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li> Work with Senior Data Scientists to develop proof of concepts, minimum viable products, and fully deployable solutions </li><li> Take ownership for the data science workflow including exploratory data analysis, model development, and potentially deployment </li><li> Participate in design discussions and code reviews of your work. </li><li> Evaluate model performance and contribute to optimization efforts, ensuring that our NLP solutions meet high standards of accuracy and efficiency. </li><li> Participate in agile scrum ceremonies like daily standup, sprint planning, sprint review and retrospective. </li><li> Presenting and demonstrating your work to co-workers <br/><br/></li></ul><strong> Who are you? <br/><br/></strong><ul><li> Strong programming skills in Python and proficiency in data manipulation libraries (e.g., Pandas) and machine learning frameworks (e.g., scikit-learn). </li><li> Solid understanding of the PyTorch and Tensorflow ecosystem. </li><li> Utilize state-of-the-art transformer-based models such as BERT, GPT, or other variants to solve natural language processing (NLP) tasks. </li><li> Build and deploy machine learning models using Docker containers to ensure consistency and reproducibility across different environments. </li><li> Optimize deep learning models using Nvidia CUDA libraries to accelerate computation on GPU hardware. </li><li> Experience developing and testing machine learning or statistical projects, with strong background in supervised, unsupervised, semi-supervised and reinforcement learning algorithms and modelling. </li><li> Demonstrate expertise in prompt engineering methodologies to fine-tune and optimize language models for specific tasks and domains, ensuring improved performance and efficiency. </li><li> Excellent communication skills, both written and verbal. <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> Familiarity with web scraping tools and techniques to gather data from diverse online sources. </li><li> Strong SQL/Athena skills </li><li> Experience working with AWS + Experience working with Hadoop and other distributed </li><li> Strong data visualization skills </li><li> Experience in a software development environment and code management or versioning </li><li> Experience working with continuous integration and delivery (CI/CD) pipelines <br/><br/></li></ul>HERE is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, age, gender identity, sexual orientation, marital status, parental status, religion, sex, national origin, disability, veteran status, and other legally protected characteristics.<br/><br/><strong> Who are we? <br/><br/></strong>HERE Technologies is a location data and technology platform company. We empower our customers to achieve better outcomes – from helping a city manage its infrastructure or a business optimize its assets to guiding drivers to their destination safely.<br/><br/>At HERE we take it upon ourselves to be the change we wish to see. We create solutions that fuel innovation, provide opportunity and foster inclusion to improve people’s lives. If you are inspired by an open world and driven to create positive change, join us. Learn more about us on our YouTube Channel.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

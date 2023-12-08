@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Are you a digitally savvy and detail-oriented individual who enjoys working with data? We invite you to consider a great career opportunity with Hodgson Russ LLP.<br/><br/>Hodgson Russ LLP, a regional law firm with two hundred attorneys in nine offices, is seeking a <strong>Data Entry Clerk </strong>to collaborate across our information technology, finance, and marketing teams. In this role, you will be responsible for the integrity, completeness and quality of data within the firm’s Client Relationship Management (CRM) system. You will also develop and implement standard procedures for capturing, cleaning, and updating information in the CRM, including tagging and updating contact and other information housed in the CRM. You will also have responsibility for measuring, analyzing, reporting on key marketing metrics, including deliverability, open rate, click rate, conversion rate together with collecting/analyzing web, social media, and event analytics to steer content marketing. You will help practice area and group leaders and individual attorneys to establish and maintain lists for targeted business development. A Bachelor's degree in management information systems, informatics or a closely related field, with three years’ hands-on experience in data quality management including at least one year with lead responsibility for CRM system.<br/><br/>Hodgson Russ offers competitive compensation and a comprehensive benefit package, including medical, dental, vision, life, long term disability, flexible spending, 401(k), Paid Time Off, pension plan, and more. At this time, the good faith estimate of the annual salary range for this position, if the successful applicant is based in Buffalo, Rochester or Albany, is $45,727.50 to $58,500. Where a successful applicant is slotted within this range will vary based on legitimate criteria, such as experience and skill level.<br/><br/>Please apply on-line by visiting our career page at www.hodgsonruss.com.<br/><br/>Hodgson Russ LLP is an Equal Opportunity Employer. The Firm is committed to providing equal employment opportunities regardless of race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, age, disability, veteran status, familial status, or any other legally protected basis. https://www.hodgsonruss.com/about-diversity.html.<br/><br/><strong>Company Description<br/><br/></strong>For over 200 years, Hodgson Russ has worked alongside innovators and leaders of businesses large and small whose ideas and fortitude have changed the world. As our clients have succeeded, our firm has flourished, and today Hodgson Russ is among the largest law firms in the country. Then and now, our mindset and our day-to-day professional philosophy have remained simple and steadfast: working respectfully and collaboratively with our clients is the key to our mutual success. As business people ourselves, we realize that our future vitality and longevity depend on it.<br/><br/>For over 200 years, Hodgson Russ has worked alongside innovators and leaders of businesses large and small whose ideas and fortitude have changed the world. As our clients have succeeded, our firm has flourished, and today Hodgson Russ is among the largest law firms in the country. Then and now, our mindset and our day-to-day professional philosophy have remained simple and steadfast: working respectfully and collaboratively with our clients is the key to our mutual success. As business people ourselves, we realize that our future vitality and longevity depend on it.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Administrative
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Law Practice
+          </span>
+</li>
+</ul>
+</div>
+</section>

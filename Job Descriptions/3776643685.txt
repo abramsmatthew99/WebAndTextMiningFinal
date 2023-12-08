@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from 80Twenty</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Marlon Vargas" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Marlon Vargas
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Senior Sales &amp; Marketing Recruiter at 80Twenty
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Marlon Vargas" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmarlon-vargas-69a97747&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our client, a financial and technology services firm, with offices in SF/Bay and Texas, is hiring for a Networking Engineer. As a key member of our network operations team, you will be responsible for the design, implementation, configuration, and maintenance of Palo Alto and Fortinet firewalls, as well as Dell and Cisco switches. Your expertise will be essential in ensuring the security, stability, and performance of our network infrastructure.<br/>Responsibilities:1. Firewall Management:- Design, deploy, configure, and maintain Palo Alto and Fortinet firewalls to ensurenetwork security and compliance with industry best practices.- Perform firewall rule analysis, optimization, and troubleshooting to enhance network performance and mitigate security risks.- Collaborate with cross-functional teams to develop firewall policies and proceduresaligned with organizational requirements.- Implement and manage VPN tunnels and remote access solutions to facilitate secure communication across the network.<br/>2. Switch Configuration:- Configure and maintain Dell and Cisco switches, including VLANs, Spanning TreeProtocol (STP), link aggregation, and Quality of Service (QoS).- Ensure proper network segmentation and traffic isolation through VLAN configuration.- Implement and optimize STP to ensure loop-free and resilient network connectivity.- Utilize link aggregation techniques for efficient utilization and redundancy of network links.- Implement QoS policies to prioritize critical network traffic and optimize performance.3- Network Troubleshooting and Optimization:- Troubleshoot network connectivity issues and perform root cause analysis to resolve problems promptly.- Conduct regular network performance monitoring and capacity planning to ensureoptimal network operation.- Collaborate with vendors and other IT teams to evaluate, recommend, and implement network infrastructure upgrades or enhancements.- Document network configurations, procedures, and troubleshooting steps to createcomprehensive network documentation.<br/>Requirements:- Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent work experience).- Minimum of 3 years of experience working as a Network Engineer, with a focus on Palo Alto and Fortinet firewalls, as well as Dell and Cisco switches.- Strong knowledge and hands-on experience with Palo Alto and Fortinet firewall platforms.- Proficient in configuring and managing Dell and Cisco switches, including experience with VLANs, STP, link aggregation, and QoS.- Familiarity with network protocols, including TCP/IP, BGP, OSPF, and MPLS.- Solid understanding of network security principles and best practices.- Experience with network monitoring tools and technologies.- Strong analytical and problem-solving skills, with the ability to troubleshoot complex network issues.- Excellent communication skills, both verbal and written, with the ability to convey technical concepts to non-technical stakeholders.- Certifications such as Palo Alto Networks Certified Network Security Administrator (PCNSA), Palo Alto Networks Certified Network Security Engineer (PCNSE), Fortinet Network Security Expert(NSE), Cisco Certified Network Professional (CCNP), or equivalent certifications are highly desired.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking, Financial Services, and Consumer Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

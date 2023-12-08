@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Benefits/Perks<br/><br/></strong><ul><li>Competitive Compensation</li><li>Flexible Scheduling</li><li>Career Growth Opportunities<br/><br/><br/></li></ul><strong>Job Summary<br/><br/></strong>We are seeking a knowledgeable IT Technician to join our team. As the IT Technician, you will be responsible for ensuring our computer systems, networks, and equipment are operating at peak performance. You will also handle all IT support requests and assist colleagues with their IT needs. Your role is vital to the smooth operation of our company and allowing us to reach our business goals. The ideal candidate has strong technical skills as well as excellent customer service and communication skills.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Maintain computer hardware in working order</li><li>Set up employee workstations (computers, printers, routers, etc)</li><li>Install and configure software</li><li>Train colleagues in best practices in technology and how to use software and equipment</li><li>Assess security risks and ensure the security of networks and computer systems</li><li>Maintain optimized local network<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>A bachelor’s degree in Computer Science or a related field is preferred</li><li>Previous experience as an IT Technician or an IT Certification is preferred</li><li>Strong troubleshooting and analytical skills</li><li>Ability to work well as part of a team</li><li>Strong written and verbal communication skills</li><li>Understanding of data privacy and security</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

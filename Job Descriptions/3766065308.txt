@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Primary Purpose<br/><br/></strong>The purpose this role is to assist in delivering scalable technical solutions for Cydcor’s Order Management and payment system. This will be done by designing, enhancing, and maintaining existing database-based solutions, working with, and building object-oriented scripts, and collaborating with other stakeholders.<br/><br/><strong>Primary Duties And Responsibilities<br/><br/></strong><ul><li>Responsible for managing Xactly Connect to integrate with other systems in the enterprise (e.g., Salesforce CRM, custom-built ERP, accounting system, etc.). Troubleshoot/debug existing SQL pipelines and steps.</li><li>Manage, enhance and support ETL and workflow processes which are implemented using python-based solution scripts.</li><li>Aiding with the internal finance team to help executing payments using Xactly Incent.</li><li>Design, develop and test reports and dashboards on Xactly Analytics for various paysheet related scenarios.</li><li>Responsible for managing Xactly Connect to integrate with other systems on enterprise (e.g., Salesforce CRM, custom built ERP, accounting system etc.).</li><li>Work with the stakeholders to develop and enhance database solutions for reconciliations, reporting, and processes flow.</li><li>Development, configuration and administrative processes within the platform and related payment processes.</li><li>Drive technology, business and Xactly adoption best practices.</li><li>Coordinate ongoing prioritization, shaping and delivery of payment solutions.</li><li>Other duties as assigned based on departmental needs.</li><li>Conforms with and abides by all regulations, policies, work procedures, instruction, and all safety rules.</li><li>Exhibits regular, reliable, punctual, and predictable attendance.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in computer science or at least 3+ years of equivalent experience.</li><li>Should be an expert working with relational databases (MS SQL Server, Oracle, PostgreSQL, etc.).</li><li>3+ years of experience with database development by writing performance efficient SQL. Able to construct, modify and troubleshoot database objects (stored procedures, formulas, etc.). Easily design and implement a business process into functional and efficient code.</li><li>Experience with object-oriented programming languages (python is highly preferable).</li><li>Critical thinker and excellent problem-solving skills.</li><li>Individual must be self-motivated with high energy, strong technical and organizational aptitude.</li><li>Possess excellent verbal and communication skills with technical IT and team members at all levels.</li><li>Must have eagerness to contribute to a team-oriented environment and willing to learn new technologies and skill sets.</li><li>Proactively and regularly make recommendations for system improvements.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience working with Xactly sales performance management platform (Incent, Connect and Analytics).</li><li>Experience with ETL tools (Informatica, Microsoft SSIS, etc.)</li><li>Experience with developing reports on Data Analytics platforms (Qlik, Tableau, SSRS, etc.)<br/><br/></li></ul><strong>Working Conditions<br/><br/></strong><ul><li>Currently, In-office Tuesdays, Wednesdays, and Thursdays, work is remote the rest of the days of the week.</li><li>Occasional travel in case of department or companywide events.<br/><br/></li></ul><strong>Benefits And Compensation<br/><br/></strong><ul><li>Medical, Dental, Vision</li><li>401k</li><li>401k match</li><li>Base salary starting at $100,000 + Bonus Opportunity<br/><br/></li></ul><em>"Cydcor will consider qualified candidates with criminal histories in a manner consistent with the law."<br/><br/></em><em>This job description includes a summary of essential job functions and does not restrict management’s right to assign other duties and responsibilities as required. Please contact Cydcor’s People Services Department for a detailed listing of essential functions, as required.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Strategy/Planning and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Advertising Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

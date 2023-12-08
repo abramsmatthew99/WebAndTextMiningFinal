@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Title: Junior Python Developer<br/><br/>Location: Raleigh, NC /Hybrid<br/><br/>Visa: Open for EAD &amp; H1B-T<br/><br/>Our client is seeking a Python Developer to join their team. This role offers a great opportunity for entry level candidates with 1-3 years of Python development experience. You will work on projects involving AI, Snowflake, containers, and AWS, gaining hands-on experience with cutting-edge technologies.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Write clean, efficient Python code for various software applications.</li><li>Collaborate with cross-functional teams to understand project requirements.</li><li>Participate in debugging and code reviews.</li><li>Create and maintain technical documentation.</li><li>Optimize code and solve technical challenges.</li><li>Stay updated with the latest Python trends and libraries.<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in computer science, Software Engineering, or a related field.</li><li>1-3 years of Python development experience.</li><li>Proficiency in Python and frameworks like Pandas, Django, or Flask.</li><li>Familiarity with databases, Cloud Platforms (e.g., Azure, AWS, or Google), and version control (Git).</li><li>Exposure to AI and Machine Learning technologies.</li><li>Knowledge of front-end technologies is a plus.</li><li>Strong problem-solving skills and teamwork.</li><li>Self-motivated with a desire to learn and grow.<br/><br/></li></ul>Skills: snowflake,teamwork,front-end technologies,flask,ai,databases,pandas,containers,python,version control,problem-solving,django,python, django,git,aws,cloud platforms,machine learning
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from LanceSoft, Inc.</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Mansi Pahwa" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4D03AQG_8gygFdoO1A/profile-displayphoto-shrink_100_100/0/1701303918927?e=2147483647&amp;v=beta&amp;t=EOSXU_AHpVUcrHChaTYJaRN_8SBPy_LHQJ4scw53a_w" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Mansi Pahwa
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        US Recruiter at LanceSoft, Inc.
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Mansi Pahwa" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmansi-pahwa-126343227&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Must- Haves (Hard Skills)</strong></p><p><br/></p><p><strong>Experience with data analysis, and SQL queries with a Background in manufacturing operations.</strong></p><p><strong>Must have </strong><strong>PowerBI, MS Excel</strong></p><p><strong>3-5 years of Experience</strong></p><p> </p><p> <strong>Nice-To- Haves (Hard Skills)</strong></p><p><br/></p><p><strong>In-depth competency with data visualization and analytics tools</strong><strong> (MS PowerPoint, MS Excel, SharePoint, Power Apps, / Tableau) </strong> </p><p><br/></p><p><span>Plans, schedules and monitors the efficient movement of material from receiving or the warehouse to production. Develops raw material requirements and scheduling requirements from engineering specifications and production schedules and coordinates material movement with purchasing, warehouse, and production. Utilizes Material Requirements Planning (MRP) systems. May negotiate lead times with suppliers and manage schedules for timely delivery. May interpret laws, rules and regulations regarding shipping and prepares applications for export/import control certifications and licenses.</span></p><p><strong> </strong></p><p><span>Experienced professional with proficient knowledge of job area and practical knowledge of project management.</span></p><p><span>May manage projects or processes with general supervision.</span></p><p><span>Communicates with contacts inside and outside of own department to explain and interpret operational processes, practices, and procedures.</span></p><p><span>Recommends enhancements to systems and processes.</span></p><p><span>Works to achieve operational targets for specific programs and projects with moderate impact on departmental results.</span></p><p><br/></p><p><span>Bachelor in Industrial or Mechanical Engineering, Business, Computer Science, Data Analytics or combination of AA and experience within manufacturing operations and/or continuous improvement activities, particularly of high mix - low volume production</span></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

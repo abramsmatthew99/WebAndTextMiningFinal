@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong> Description <br/><br/></strong>Part-time lecturer positions for the MSCS Online program, within the Computer Science department in the School of Engineering &amp; Computer Science. These positions are all remote and will teach course(s) in the MSCS Online program. These positions prioritize experience related to software engineering, object-oriented development, distributed systems, and software verification and validation.<br/><br/>As part of the Baylor family, eligible employees receive a comprehensive benefits package that includes medical, dental, and vision insurance, generous time off, tuition remission, and outstanding automatic retirement contributions. To the extent that a faculty or staff member is benefits eligible, Baylor has a comprehensive benefits plan that supports you and your family’s wellbeing and allows you to be a part of the life of a vibrant and active college campus. To learn more, go to Baylor Benefits &amp; Advantages .<br/><br/>The budgeted salary range that the University reasonably expects to pay for this position is<br/><br/>$ 6,500 - $ 10,000<br/><br/>This range takes into account the wide range of factors that are considered in making compensation decisions including but not limited to experience, skills, knowledge, abilities, education, licensure and certification, analysis of internal equity, and other business and organizational needs.<br/><br/><strong>Qualifications<br/><br/></strong><strong> Qualifications <br/><br/></strong>Masters degree in Computer Science or related field, PhD is preferred. Related fields include, but are not limited to, software engineering, data systems, data science, cybersecurity, and computer/electrical engineering.<br/><br/><strong> Application Instructions <br/><br/></strong>All materials should be submitted via Interfolio.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>REI Systems provides reliable, effective, and innovative technology solutions that advance federal, state, local, and nonprofit missions. Our technologists and consultants are passionate about solving complex challenges that impact millions of lives. We take a Mindful Modernization approach in delivering our application modernization, grants management systems, government data analytics, and advisory services. Mindful Modernization is the REI Way of delivering mission impact by aligning our government customers’ strategic objectives to measurable outcomes through people, processes, and technology.</p><p>Learn more at REIsystems.com. </p><p> </p><p>Employees voted REI Systems a Washington Post Top Workplace in 2015, 2016, 2018, 2020, 2021 and 2022! </p><p><br/></p><p>REI Systems is experiencing phenomenal growth – more than 20% year over year. Led by a strong Chief Growth Officer, REI has an impressive track record of winning federal contracts. Our best-in-class contract vehicles, great client relationships, excellent past performance, and pipeline position us to win even more opportunities in 2022 and beyond.</p><p> </p><p><strong>You will-</strong></p><p>Write well designed code following best practices with automated testing</p><p>Operations and maintenance of Data.gov websites </p><p>Triage security and compliance issues</p><p>Migration to cloud infrastructure </p><p>Operate within an agile scrum framework</p><p><br/></p><p><strong>Required Skills</strong></p><ul><li>5+ years of experience in python web development (Python web framework along with python test frameworks)</li><li>Experience building DevSecOps pipeline with build, deploy, automated testing and Security/vulnerability scanning.</li><li>Linux system administration</li><li>Containerization experience</li><li>Cloud Computing experience</li><li>Hands on experience deploying and supporting Kubernetes on at least one cloud provider (Azure, Amazon, GCP)</li><li>Experience building and supporting distributed computing environments and Kubernetes cluster deployments</li><li>Git/Github</li><li>Willing to learn new technologies and contribute as needed</li></ul><p><strong>Desired Skills</strong></p><ul><li>Maintenance of Solr/SolrCloud instance</li><li>Experience with Cloud Foundry</li><li>Experience with Terraform</li><li>Proficient with developer tools to analyze, debug and profile code</li><li>Updates job knowledge by studying state of the art development tools, programming techniques and computing equipment</li><li>Front-End experience</li></ul><p><strong>Education</strong>: B.S. in Computer Science, or a related field</p><p><strong>Location:</strong> 100% remote with 10% travel may be required</p><p><strong>Clearnce:</strong> able to obtain Public Trust</p><p> </p><p><strong>Covid Policy Disclosure: </strong> Should the essential functions of this position require that the employee performing this role work on-site at REI’s Sterling location the following requirements will apply: the individual holding this position must be fully vaccinated, as defined in CDC guidance, as a condition of continued employment. REI will consider requests to be excused from this policy whenever necessary to comply with legal requirements and will consider any requests for reasonable accommodations due to a disability, religion, or other exemptions on an individual basis in accordance with applicable legal requirements. Employees and applicants requesting accommodations should request the accommodation in writing and should explain in detail the reasons why they are seeking an accommodation. REI will request additional information or documentation it deems necessary to inform its decision on an employee’s or applicant’s accommodation request.</p><p> </p><p>REI Systems is an Equal Opportunity Employer (Minority/Female/Disability/Vet)</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Immediate need for a talented <strong>Python Developer </strong>with experience in the industry. This is a <strong>12-18+ Months</strong> Contract opportunity with long-term potential and is located in <strong>Richmond, VA/ Chicago, IL/ Atlanta, GA &amp; Charlotte, NC (Hybrid 3 days onsite)</strong>. Please review the job description below. </p><p><br/></p><p><strong>Job ID: 22-80143</strong></p><p><br/></p><p><strong>Pay Range: $60 - $65/hour. Employee benefits include, but are not limited to, health insurance (medical, dental, vision), 401(k) plan, and paid sick leave (depending on work location).</strong></p><p><br/></p><p><strong>Key Requirements and Technology Experience: </strong></p><p><br/></p><ul><li>8+ years of experience in Python programming.</li><li>Strong knowledge of Python libraries like Pandas and NumPy.</li><li>Experience in frameworks like Django, Flask or any other web frameworks.</li><li>Experience in UI library or Framework such as React, Angular or Vue (Preferred React).</li><li>Proficient with Data structures and Collections.</li><li>Experience in Relational (MySQL, Postgres) and No SQL (Cassandra, Mongo) database technologies.</li><li>Experience in designing and developing distributed &amp; scalable systems using OOPS and/or Functional programming.</li><li>Experience in Distributed Computing and High Velocity data processing.</li><li>Exposure to CI/CD tools like Jenkins, Maven, Git etc.</li><li>Experience with Software engineering design patterns and practices.</li><li>Analytical and problem-solving skills.</li><li>Experience working in distributed Agile teams.</li></ul><p><br/></p><p>Our client is a leading<strong> Banking and Finance</strong> Organization, and we are currently interviewing to fill this and other similar contract positions. If you are interested in this position, please apply online for immediate consideration. </p><p><br/></p><p>Pyramid Consulting, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.​</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

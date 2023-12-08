@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong>JOB DESCRIPTION<br/><br/></strong>Duties: Design, develop and implement software solutions. Solve business problems through innovation and engineering practices. Involved in all aspects of the Software Development Lifecycle (SDLC) including analyzing requirements, incorporating architectural standards into application design specifications, documenting application specifications, translating technical requirements into programmed application modules, and developing or enhancing software application modules. Identify or troubleshoot application code-related issues. Take active role in code reviews to ensure solutions are aligned to pre- defined architectural specifications. Assist with design reviews by recommending ways to incorporate requirements into designs and information or data flows. Participate in project planning sessions with project managers, business analysts, and team members to analyze business requirements and outline proposed solutions. Participate in and promote Agile practices across the team. Train junior developers.<br/><br/><strong>Qualifications<br/><br/></strong>Minimum education and experience required: Bachelor's Degree in Information Systems and Technology, Computer Science, or related field of study plus 5 years of experience in the job offered or as Software Engineer, Applications Developer, Systems Engineer, IT Consultant, or related occupation. The employer will alternatively accept a Master's Degree in Information Systems and Technology, Computer Science or related field of study plus 3 years of experience in the job offered or as Software Engineer, Applications Developer, Systems Engineer, IT Consultant, or related occupation.<br/><br/>Skills Required: Requires experience in the following: Java; React; Angular; JSON; Maven; Oracle; SVN; Dynatrace; Junit; Microservices; Performance Testing; Apache Kafka; GIT; Jenkins; SOAP; REST; Spring Framework; Apache Tomcat; Cassandra; J2EE; SQL; and Splunk.<br/><br/>Job Location: 600 Travis Street, Houston, TX 77002.<br/><br/><strong>About Us<br/><br/></strong>JPMorgan Chase&amp; Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.<br/><br/>We recognize that our people are our strength and the diverse talents and perspectives that they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs. (If you are a US or Canadian applicant with a disability and wish to request an accommodation to complete the application process, please contact us by calling the<strong>Accessibility Line</strong>(US and Canada Only) 1-866-777-4690 and indicate the specifics of the assistance needed.)<br/><br/>We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.<br/><br/>JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans<br/><br/><strong>About The Team<br/><br/></strong>The Corporate&amp; Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

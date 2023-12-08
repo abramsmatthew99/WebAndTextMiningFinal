@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.<br/><br/></strong>Are you a dynamic engineer, ready to learn new concepts, take on leading-edge opportunities and passionate about developing high quality, scalable software components that are integrated into "best-in-class" products and solutions?<br/><br/>We offer amazing opportunities to grow, no matter where you are in your career.<br/><br/>Cadence Design Systems is looking for a highly motivated software engineer to work as a member of the R&amp;D staff on Cadence verification tool platforms focusing on elevating its tools, Xcelium, Verisium, Palladium etc… to new orders of efficiency and scalability. We are looking for skilled and motivated candidates with background in one or more of Computer Science or Engineering, Digital Simulation and some exposure to either behavioral modeling for verification or adjacent technologies like data mining, data analytics or machine learning.<br/><br/>You will be part of a team responsible for creating the innovative technologies required for technology leadership in this space. Development responsibilities include designing, developing, troubleshooting, debugging and supporting software products towards its next phase of growth.<br/><br/><strong>The successful candidate will possess the following combination of education and experience:<br/><br/></strong><ul><li>New College Grad (Class of 2024) with BS or MS in Computer Science, Computer Engineering, Electrical Engineering or equivalent curriculum with a foundation in software engineering </li><li>Strong analysis and problem-solving skills</li><li>Strong ability to learn new concepts quickly</li><li>Excellent programming and software engineering skills(C/C++) </li><li>Excellent knowledge of data structures and algorithms and their applications</li><li>Good communication skills</li><li>Good debugging skills and knowledge of source control systems<br/><br/></li></ul><strong>Following Are Desirable<br/><br/></strong><ul><li>Experience in either digital or analog/mixed signal simulation or modeling/simulation of any Multiphysics system is desirable but can be learned on the job</li><li>Prior experience with Linux platform</li><li>Experience with one of Python, TCL, SQL or machine learning or Matlab is desirable<br/><br/></li></ul>We are looking for innovative engineers who have a flair for high quality as well and enjoy working with a great team in a high-performance culture.<br/><br/>Be proud and passionate about the work you do. Together, our One Cadence -- One Team culture drives our success.<br/><br/><strong>We’re doing work that matters. Help us solve what others can’t.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

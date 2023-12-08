@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>The Data Analyst will work as a member of Stifel’s Analyst team within the IT &amp; Technology Product Development groups. The Data Analyst is responsible for servicing ad-hoc data extraction and reporting requests originating from various firm business areas including compliance or regulatory areas as well as product management. This position will be expected to interpret requests, work with business users to further define requirements, analyze pertinent underlying data to ensure proper use and then translate those requirements into queries that will provide the objective data sets. The Data Analyst will also be responsible for learning as much as possible about company applications and business practices in the context of how they affect the firm's data.<br/><br/><strong>Essential Duties &amp; Responsibilities<br/><br/></strong><ul><li>Field inbound requests from business users and/or related project development teams, and refine requirements until a full understanding is reached on the data being requested. </li><li>Build and leverage T-SQL queries that isolate data according to the business requirements gathered. </li><li>Perform limited due diligence on data produced to ensure quality and accuracy. </li><li>Maintain strong communication with stakeholders, following up as needed to ensure all requests are being actively addressed and/or status is being communicated. </li><li>Triage requests to focus first on more time-sensitive items. </li><li>Work according to standards and practices set by Product Management or senior team members. </li><li>Gain an understanding of company applications and business practices in the context of how they affect the firm's data. <br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Basic understanding of financial industry terminology and concepts. </li><li>Ability to leverage SQL to create queries which model and/or aggregate large complex datasets. </li><li>Understanding or willingness to learn basic concepts of Microsoft T-SQL and database design within first six months on job. </li><li>Strong analytical skills focused on using logic and reasoning to identify complex relationships within a data structure as well as to research and discuss recommended uses. </li><li>Ability to quickly adjust priorities, tasks, and deadlines based on severity and urgency of departmental and firm-goals. <br/><br/><br/></li></ul><strong>Education &amp; Experience<br/><br/></strong><ul><li>Bachelor's degree in Information Technology, Computer Science, or Business Administration, or related field; or equivalent work experience required</li><li>1+ years' experience in the investment, financial, or technical field required<br/><br/><br/></li></ul><strong>About Stifel<br/><br/></strong>Stifel is a more than 130 years old and still thinking like a start-up. We are a global wealth management and investment banking firm serious about innovation and fresh ideas. Built on a simple premise of safeguarding our clients’ money as if it were our own, coined by our namesake, Herman Stifel, our success is intimately tied to our commitment to helping families, companies, and municipalities find their own success.<br/><br/>While our headquarters is in St. Louis, we have offices in New York, San Francisco, Baltimore, London, Frankfurt, Toronto, and more than 400 other locations. Stifel is home to approximately 9,000 individuals who are currently building their careers as financial advisors, research analysts, project managers, marketing specialists, developers, bankers, operations associates, among hundreds more. Let’s talk about how you can find your place here at Stifel, where success meets success.<br/><br/>At Stifel we offer an entrepreneurial environment, comprehensive benefits package to include health, dental and vision care, 401k, wellness initiatives, life insurance, and paid time off.<br/><br/>Stifel is an Equal Opportunity Employer.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

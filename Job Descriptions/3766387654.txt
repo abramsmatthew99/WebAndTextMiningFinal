@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Job<br/><br/></strong>At Delart, we are a team of world-class engineers building the next generation of advanced wireless technologies that are deployed across the globe. Some of the biggest technology companies entrust us to build highly scalable, mission critical, communication and network solutions. Since our founding in 2017, we have participated in designing some of the most cutting-edge telecommunication and consumer products in the world.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Create and execute on complex project plans, end-to-end. </li><li>Manage complex software development processes</li><li>Contribute to non-functional requirements such as usability, security, reliability, performance and scalability, by understanding of customer requirements</li><li>Identify and escalate risks early and often, coordinate with the right people and get them resolved</li><li>Work with external vendors to execute on project deliverables</li><li>Identify bottlenecks in system design and proactively proposing solutions to teams<br/><br/></li></ul><strong>Minimum Qualifications: <br/><br/></strong><ul><li>Bachelor's degree in a technical field such as computer science, computer engineering or related field required</li><li>Experience working on embedded systems/hardware integration projects</li><li>Understanding of how firmware works and different over the air (OTA) firmware update architectures</li><li>Knowledge of SW/FW project management</li><li>High level understanding of Lithium ion battery operation</li><li>Ability to triage bugs effectively, set priorities and escalate issues. </li><li>Managing device development schedules at least 3 years of experience</li><li>Basic knowledge of circuit boards, processors, electronic equipment and computer hardware and software. </li><li>Basic knowledge of business and management principles involved in strategic planning, resource allocation, and production methods. </li><li>Basic knowledge of computer software, such as google docs, sheets, etc. </li><li>Verbal and written communication skills, problem solving skills, attention to detail and interpersonal skills. <br/><br/></li></ul><strong>Preferred Qualifications: <br/><br/></strong><ul><li>Semiconductor design/product management</li><li>C/C++ coding experience</li><li>PMI or PMP certification<br/><br/></li></ul><strong>Benefits<br/><br/></strong>Delart offers competitive compensation and employee benefits, including premium PPO and HMO medical insurance coverage, dental, vision, FSA, life insurance, short/long-term disability insurance, a company-matched 401k plan, and a generous paid time off policy.<br/><br/>Help us redefine the future of connectivity. Apply today!<br/><br/><em>Delart is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Networking
+          </span>
+</li>
+</ul>
+</div>
+</section>

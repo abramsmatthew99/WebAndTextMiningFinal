@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Domino’s Pizza, which began in 1960 as a single store location in Ypsilanti, MI, has had a lot to celebrate lately: we’re a reshaped, reenergized brand of honesty, transparency and accountability – not to mention, great food! In the rise to becoming a true technology leader, the brand is now consistently one of the top five companies in online transactions and 65% of our sales in the U.S. are taken through digital channels. The brand continues to ‘deliver the dream’ to local business owners, 90% of which started as delivery drivers and pizza makers in our stores. That’s just the tip of the iceberg…or as we might say, one “slice” of the pie! If this sounds like a brand you’d like to be a part of, consider joining our team!<br/><br/></p><strong>Job Description<br/><br/></strong><p>The Digital Data Science team at Domino’s is looking for a proven Data Science manager, who will come in as a technical expert to lead ML initiatives to drive meaningful business results via Personalization. We are looking for a candidate with several years of experience building personalization models and algorithms in a business context, and is able to hit the ground running with their preexisting domain knowledge and expertise. Leveraging data and modeling to improve each customer’s experiences across the entire digital space (online ordering, targeted offers and promotions, owned media and more) is a key focus area for the company, and the team is excited about the endless possibilities to tackle. The candidate we seek is somebody who thrives in ambiguity, and is already demonstrably experienced and well-versed in the technical Personalization space. The candidate should possess a strong action-bias and can-do attitude, and be a culture leader who will elevate and energize the whole team along the journey. The ability to not only build top-of-the-line models (LTV, Churn, Promo recommendation), but also successfully collaborate with technical data teams, as well as Marketing and Business teams and leadership will be critical.<br/><br/></p><p><strong>Main responsibilities<br/><br/></strong></p><p><strong>Technical Leadership and Guidance</strong></p><ul><li>Thought leader – The team will rely on your expertise as a technical authority in the realm of Personalization Data Science. Your role will include consistently presenting innovative ideas of high quality and quantity to inspire and generate solutions.</li><li>Lead from the front – Proactively scope out solutions and approaches, with a can-do energy and passion that will be infectious to your team. Supply the resources and expertise necessary to bring along team members and more.</li><li>Be hungry – Stay informed about industry trends and advancements in marketing personalization, digital innovation, and machine learning to guide internal strategies. Cultivate a culture that embraces technological advancement and risk-taking and pave the way for pioneering ML/AI breakthroughs at Domino’s.</li></ul><p><strong>Modeling</strong></p><ul><li>Ability to quickly navigate through, understand, and work with data in all shapes and forms to chart the course on how to ship ML models end-to-end.</li><li>Developing and shipping LTV, Churn Prediction, and Promo Recommendation Engine models and systems.</li><li>Knowledge of deep technical insights aiding in the appropriate selection of and use of machine learning personalization algorithms.</li><li>Open-minded and flexible, knowing how to build both ML models of incredible complexity and accuracy, but also ‘scrappy and quick’ ML models (80/20 principle), depending on the business need.</li><li>Project management and leadership ability in modeling: the ability to collaborate, delegate, and break big modeling projects down into smaller deliverable increments and iterations.</li></ul><p><strong>Strategic Planning, Collaboration, and Alignment</strong></p><ul><li>Bridge business strategy with technical execution, aligning ML initiatives with Personalization, Digital Innovation, and broader business goals.</li><li>Collaborate at all levels from IT to Finance to Innovation to Marketing. We are team players and win together at Domino’s.</li><li>Lead strategic planning across ML initiatives, ensuring alignment with Domino's overarching strategic objectives and long-term vision.</li></ul><p><strong>Managerial Duties</strong></p><ul><li>Take ownership of and demonstrate genuine commitment to fostering the professional growth and development of two individual contributor Data Scientist reports.</li><li>Provide regular 1-1s and coaching sessions to foster professional growth and address areas of improvement.</li><li>Oversee performance appraisal process for direct reports, ensuring fair and constructive feedback.</li><li>Maintain a commitment to ongoing self-improvement in leadership and managerial skills, in a manner similar to staying abreast of emerging technologies.</li><li>Continue to prioritize and address any team-related concerns and foster a positive, collaborative, and innovative work environment.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field; Master’s degree preferred.</li><li>Minimum of 6 years experience in technical project management or delivery management including people leadership.</li><li>Strong understanding of machine learning methods and technologies, particularly as they relate to personalization and digital innovation.</li><li>Hands-on experience with Python, PySpark, SQL, and other functional programming languages necessary to develop and ship models built on big data.</li><li>Track record of not only building Machine Learning personalization models, but translating it to measurable business impact.Direct experience building LTV, Churn Prediction, and Recommendation Systems highly preferred.</li><li>Proven ability to enable cross-functional teams and facilitate collaborative projects with strategic importance.</li><li>Exceptional skills in strategic thinking, problem-solving, and requirements gathering, especially within the context of marketing personalization and digital innovation.<br/><br/></li></ul><strong>Additional Information<br/><br/></strong><ul><li>Communicates Effectively: Developing and delivering communications that convey a clear understanding of the unique needs of different audiences.</li><li>Develops Talent: Developing people to meet both their career goals and organization’s goals.</li><li>Builds Effective Teams: Building strong-identity teams that apply their diverse skills and perspectives to achieve common goals.</li><li>Consistently achieving results using good judgement, even under tough circumstances.</li></ul><p><strong>This role is onsite in Ann Arbor, MI and will require full relocation for non-local candidates<br/><br/></strong></p><p><strong>All your information will be kept confidential according to EEO guidelines<br/><br/></strong></p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Restaurants
+          </span>
+</li>
+</ul>
+</div>
+</section>

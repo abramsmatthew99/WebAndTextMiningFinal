@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Wingbrace Senior Software Engineer<br/><br/>Wingbrace is looking for an experienced Senior Software Engineer to support our government clients and join our passionate team of high-impact problem solvers.<br/><br/>The role is client-facing, fast-paced, wide-ranging, and challenging. It requires a mixture of application design, development and deployment, hands-on coding, problem-solving, and presentation skills. The Senior Software Engineer will be a key experienced development presence, converting the customer vision and requirements into running software and deployed solutions. They will work together with solution architects, tech leads and client product owners to deliver critical capabilities in support of our nation’s defense and to support new growth for Wingbrace.<br/><br/>This is a unique opportunity to help build and shape our development organization where we put our customers and people first.<br/><br/>As a Senior Software Engineer, you will be responsible for implementing modern, responsive front-end web user interfaces calling on back-end RESTful services implemented in Python and Java. Backend services will leverage an extensive set of third-party libraries and applications to provide needed capabilities, including relational, NoSQL and graph databases and third-party data visualization tools. You will build appropriate and effective solutions, assist in refining designs, and leverage technical infrastructure to meet our government client expectations, while also providing experienced guidance and mentorship to junior software engineers.  <br/><br/>Your responsibilities<br/><br/><ul><li>Working collaboratively with Wingbrace System and Software Engineers, Solution Architects and Program Managers, especially during the early stages of adoption of technically challenging projects, to ensure successful implementations. </li><li>Recommending development patterns, migration strategies, and operational best practices </li><li>Supporting our clients during beta test programs or pre-launch activities </li><li>Implementing technical and functional architecture for Wingbrace Products to government clients </li><li>Advise and assist Project Managers during implementation on timeline and effort for technical work including partner and customer effort </li><li>Work with government clients to ensure technical design meets use cases and functional requirements and stays engaged with the client through the project lifecycle </li><li>Stay engaged with the program management and solution architects throughout the lifecycle via regular meetings to review progress against the documented solution and the timeline in the context of the Agile software methodology </li><li>Support the development of custom/site specific software that may or may not lead to future product enhancements </li><li>Provide technical support for implementation projects related to custom developments, interfaces, reports, extracts, and data manipulation routines <br/><br/></li></ul>What we are looking for:<br/><br/><ul><li>Ability to take highly complex ideas and explain them in plain language English. </li><li>Ability to zoom into the details but also zoom out at an abstract level. </li><li>Hands-on experience building solutions. </li><li>Demonstrated expertise in troubleshooting </li><li>Outstanding interpersonal, communication, and presentation skills </li><li>Technical and business writing skills </li><li>Will support technical hiring across the organization. </li><li>Proficiency in programming languages for quantitative analyses (ex. Mathematica, Python’s NumPy/Pandas, R) a plus <br/><br/></li></ul><strong>Required Experience.<br/><br/></strong><ul><li>At least 5 years’ experience of enterprise software development, design, and delivery </li><li>Demonstrated experience with most of the following: </li><li>HTML, JavaScript, CSS </li><li>Backend services in Python (Flask, Django) or similar modern language (NodeJS, Golang or Ruby) </li><li>Front-end JavaScript frameworks Vue, React </li><li>Java, C++ or similar object-oriented language </li><li>Relational databases / SQL / JDBC </li><li>Graph databases / Cypher </li><li>RESTful APIs &amp; JSON </li><li>Docker containers, Kubernetes, etc. </li><li>Unix/Linux, macOS </li><li>Managing cloud services </li><li>Application servers (e.g., JBoss, Quarkus, Tomcat) </li><li>OpenAPI management </li><li>Proven business analysis and problem-solving skills  </li><li>Development experience using Agile software methodology </li><li>Demonstrable solution delivery experience including functional/technical ownership. </li><li>Outstanding interpersonal, communication and presentation skills  </li><li>Personal presence and software industry expertise to establish yourself as a trusted advisor to development and delivery managers and senior executives </li><li>Experience with the DoD around modernization around Platform, Data, and/or App Dev </li><li>Deeply technical background and eagerness to constantly learn <br/><br/></li></ul>Clearance Requirements:<br/><br/><ul><li>Must be a U.S. citizen, living in the continental United States </li><li>Must have the ability to obtain/maintain a Top-Secret clearance within the first year of employment; existing clearance preferred <br/><br/></li></ul>Education:<br/><br/><ul><li>BS or MS in Computer Science / Software Engineering, or equivalent technical degree </li><li>3 years of client facing </li><li>5 years of industry software development and delivery <br/><br/></li></ul>Apply to www.wingbrace.com Join the team<br/><br/>Wingbrace LLC is an equal opportunity employer that does not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic. We value each individual and empower our people to fearlessly drive lasting change.<br/><br/><strong>About Wingbrace<br/><br/></strong>Wingbrace (<br/><br/>We consider successful outcomes as our metric, and our client engagements benefit from a depth of understanding of organizational, cultural and mission issues, yielding speed and integration of critical capabilities.<br/><br/>Service-disabled veteran owned, our culture is collaboration and performance with a commitment to diversity and the values it conveys. We actively support a variety of open and secure environments. We have prime and subcontractor relationships with the government and large corporate partners.<br/><br/>We are developers. Our ethos arises from the discipline of the deliverable and our efficiency from an unburdened approach to using the best tools and products for our client. Our compass is innovation, leading us to exceptional results delivered to our clients.<br/><br/>Wingbrace LLC is an equal opportunity employer that does not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or another protected characteristic.  We value each individual and empower our people to fearlessly drive lasting change.<br/><br/>If you need assistance email us at<br/><br/>Powered by JazzHR<br/><br/>pXElUchrUl
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

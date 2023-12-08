@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Full Stack Developer With Retail Experience<br/><br/></strong><strong>Remote but would like PST time zone (Local candidates to San Francisco, CA will be put ahead).<br/><br/></strong><strong>Must have a mix of Full Stack, Spring, Microservices with UI’s in React, HTML, CSS and Graph QL/SHOPIFY….<br/><br/></strong><strong>Candidate must have extensive Retail background<br/><br/></strong>Responsible for creation of concept, design, development, testing and maintenance of applications for reliability, security, manageability, scalability, extensibility, performance and re-use; provides technical expertise in the areas of architecture, design, and implementation. Works with technical and business team members to create excellent software. Determines the best implementation that will meet the design of the Application Architect. Ensures that thorough unit and component testing is carried out. Sets and adheres to software coding and style guides to ensure consistency. Performs code reviews to ensure consistency to style standards and code quality.<br/><br/><strong>Skill Set<br/><br/></strong>BS in computer science or equivalent. Software engineering development experience which includes Java/J2ee specific experience. Robust understanding of Java, an in depth understanding of other Java technologies including Servlets, JSP, JDBC, and other J2EE technologies; and familiarity with XML, XSD, and XSL. Other object oriented design experience, experience applying design patterns, and UML familiarity is essential. Hands-on SQL/RDBMS experience, Oracle strongly preferred. Full lifecycle development experience on large projects, creating distributed and scalable eCommerce systems. Experience in developing and driving SOA strategies within large enterprises and deploying SOA implementations to production a big plus. Hands on experience with Agile methodologies highly desirable. Strong communication skills.<br/><br/><strong>Must Have<br/><br/></strong><ul><li>Shopify theme development</li><li>JavaScript - React</li><li>GraphQL (specifically, Shopify API built with GraphQL)</li><li>HTML5 and CSS3 knowledge</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Ascendion<br/><br/></strong>Ascendion is a full-service digital engineering solutions company. We make and manage software platforms and products that power growth and deliver captivating experiences to consumers and employees. Our engineering, cloud, data, experience design, and talent solution capabilities accelerate transformation and impact for enterprise clients. Headquartered in New Jersey, our workforce of 6,000+ Ascenders delivers solutions from around the globe. Ascendion is built differently to engineer the next.<br/><br/>Ascendion | Engineering to elevate life<br/><br/>We have a culture built on opportunity, inclusion, and a spirit of partnership. Come, change the world with us:<br/><br/>Build the coolest tech for world’s leading brands<br/><br/>Solve complex problems – and learn new skills<br/><br/>Experience the power of transforming digital engineering for Fortune 500 clients<br/><br/>Master your craft with leading training programs and hands-on experience<br/><br/>Experience a community of change makers!<br/><br/>Join a culture of high-performing innovators with endless ideas and a passion for tech. Our culture is the fabric of our company, and it is what makes us unique and diverse. The way we share ideas, learning, experiences, successes, and joy allows everyone to be their best at Ascendion.<br/><br/>About the Role:<br/><br/>Job Title: Java Fullstack Developer<br/><br/>Key Responsibilities:<br/><br/>Develop server-side applications using Java, J2EE, and other related technologies.<br/><br/>Design and develop user interfaces using HTML, CSS, JavaScript, Angular<br/><br/>Experience working with NodeJS.<br/><br/>Develop databases using SQL and NoSQL technologies.<br/><br/>Develop web services and APIs using REST<br/><br/>Experience working with Azure Cloud.<br/><br/>Monitor performance and troubleshoot issues.<br/><br/>Collaborate with other developers, designers, and system administrators to improve the application.<br/><br/>Stay up-to-date with the latest technologies and trends.<br/><br/>Minimum Qualifications:<br/><br/>Bachelor's degree in computer science, Software Engineering, Information Technology or a related field.<br/><br/>Minimum of 6-10 years of work experience in Software Development roles.<br/><br/>Must have 60% backend and 40% frontend development focus<br/><br/>Proficiency in tools and technologies such as Java, Springboot, Rest API, Angular etc<br/><br/>Location: Onsite/hybrid in Bloomington MN<br/><br/>Salary Range: The salary for this position is between USD 90,000 – USD 130,000 annually. Factors which may affect pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate.<br/><br/>Benefits: The Company offers the following benefits for this position, subject to applicable eligibility requirements: [medical insurance] [dental insurance] [vision insurance] [401(k) retirement plan] [long-term disability insurance] [short-term disability insurance] [5 personal days accrued each calendar year. The Paid time off benefits meet the paid sick and safe time laws that pertains to the City/ State] [10-15 days of paid vacation time] [6 paid holidays and 1 floating holiday per calendar year] [Ascendion Learning Management System]<br/><br/>Want to change the world? Let us know.<br/><br/>Tell us about your experiences, education, and ambitions. Bring your knowledge, unique viewpoint, and creativity to the table. Let’s talk!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

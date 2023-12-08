@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Details:<br/><br/></strong>Job Description<br/><br/><strong> Stefanini Group is hiring! <br/><br/></strong><strong> Stefanini is looking for Full Stack Developer, Location: Dearborn, MI (Hybrid) <br/><br/></strong><strong> For quick apply, please reach out Gaurav Bhagat/ Phone: </strong><strong> 248-263-5240 /Email: Gaurav.bhagat@stefanini.com <br/><br/></strong><strong> Open to W2 candidates only! <br/><br/></strong><strong><strong> Project Description: <br/><br/></strong></strong><ul><li> The role embraces lean and agile practices, software best practices, automated CI/CD application builds using Jenkins or Tekton, alignment with the Open API Specification, software quality scanning, automated testing, and CI/CD. </li><li> DEGREE BA/BS in Computer Science or related field, or equivalent experience </li><li> Position Duties/Responsibilities </li><li> PRODUCT AND REQUIREMENTS MANAGEMENT : Participate in and/or lead development of use cases, requirements, test cases, epics, sub-epics, features, user stories, and tasks. </li><li> AUTHOR : Process and Design Documents </li><li> DESIGN/DEVELOP/TEST/DEPLOY: Work with the Business Customer, Product Owner, Architects, Product Designer and other Software Engineers on application design, development and deployment of applications and data products. Participate in daily stand-up meetings. </li><li> OPERATIONS : Generate Metrics, Perform User Access Authorization, Perform Password Maintenance, Perform SharePoint Administration. Participate in daily operations meetings. </li><li> INCIDENT, PROBLEM AND CHANGE/SERVICE REQUESTS : Participate and/or lead incident, problem, change and service request related activities. Includes root cause analysis (RCA). Includes proactive problem management / defect prevention activities. </li><li> Use ITConnect (BMC) and Webex Team Daily. <br/><br/></li></ul>Job Requirements<br/><br/><strong>Details:<br/><br/></strong><strong> Skills Required: <br/><br/></strong><ul><li> BA+ 5+ years Of Java SW development – both front-end and back-end development are expected </li><li> Java / J2ee o Development environments Eclipse or similar tooling </li><li> Web front end development including JavaScript, Angular, React, etc. </li><li> Develop REST based microservices using Spring, Spring Boot, Spring Cloud, Spring Listener, Spring MVC, JavaScript, HTML, XML, JUNITS </li><li> Cloud, container image development and container orchestration o Experience working with cloud environments, including GCP, Pivotal Cloud Foundary (PCF), OpenShift, Docker/Kubernetes </li><li> Data Manipulation o SQL data manipulation (Relational and NoSQL) </li><li> Products (relational) including SQL Server, Teradata, Oracle o Products (big data) including GCP, Hadoop </li><li> Products (streaming) including Kafka and MQTT </li><li> Build tools o GitHub o Build Tools like Tekton, Jenkins, GRADLE <br/><br/></li></ul><strong><strong> Skills Preferred: <br/><br/></strong></strong><ul><li> SW Development Methodology </li><li> Practiced eXtreme Programming (XP) disciplines including paired programming, test first / Test Driven Development (TDD) </li><li> Software Development o Python o Alteryx o QlikSense, QlikView o CPLEX </li><li> Data Engineering o Data Architecture o Database administration o Data Manipulation o Database and SQL tuning o Database operations </li><li> Personal and Professional o Self-starter / self-directed – able to work independently and take initiative o Critical Thinking o Strong Root Cause Analysis o Process improvement – able to identify areas of improvement (process, performance, communication, collaboration, etc.) </li><li> Strong written and verbal communication skills </li><li> Strong analytical and problem-solving skill </li><li> Ability to multitask and manage changing priorities o Strong teamwork and interpersonal skills </li><li>Listed salary ranges may vary based on experience, qualifications, and local market. Also, some positions may include bonuses or other incentives*** <br/><br/></li></ul>Stefanini takes pride in hiring top talent and developing relationships with our future employees. Our talent acquisition teams will never make an offer of employment without having a phone conversation with you. Those face-to-face conversations will involve a description of the job for which you have applied. We also speak with you about the process including interviews and job offers.<br/><br/><strong><strong> About Stefanini Group <br/><br/></strong></strong>The Stefanini Group is a global provider of offshore, onshore and near shore outsourcing, IT digital consulting, systems integration, application, and strategic staffing services to Fortune 1000 enterprises around the world. Our presence is in countries like the Americas, Europe, Africa, and Asia, and more than four hundred clients across a broad spectrum of markets, including financial services, manufacturing, telecommunications, chemical services, technology, public sector, and utilities. Stefanini is a CMM level 5, IT consulting company with a global presence. We are CMM Level 5 company.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

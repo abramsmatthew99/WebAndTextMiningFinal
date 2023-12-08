@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>You are an experienced data professional, who is able to work with minimal oversight, manage multiple tasks and projects simultaneously, and take ownership of deliverables end-to-end. Critical to the success of this role is your ability to work with large volumes of data, bring simplicity to complex situations, develop insightful analyses that tell a story, work effectively as part of a cross-functional team, think strategically, and communicate findings in a clear and compelling way .<br/><br/>This role can be based out of our New York, NY or Inglewood, CA offices and the NFL has fully returned to office, onsite 100%.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Lead a team of BI Developers.</li><li>Design, build and maintain data models used for reporting and analytics.</li><li>Create dashboards and KPIs to show business performance.</li><li>Build data visualizations that tell the story of trends, patterns, and outliers.</li><li>Monitor and tune BI tools to ensure optimum level of performance.</li><li>Drive business change through foundational data insights across the League and Clubs</li><li>Invent new ways to analyze data to identify trends and gaps to drive improvements in a variety of business areas.</li><li>Interface with cross-functional teams to build centralized tools that will allow for rapid anomaly detection.</li><li>Partner with data engineers and data analysts to deliver foundational insights at scale that meet data visualization best practices.</li><li>Analyze and synthesize large data sets across multiple inputs.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in computer science, statistics, or related discipline. </li><li>7+ years’ experience as a data/business analyst or business intelligence developer/analytics engineer.</li><li>3+ years’ experience leading a team of data/business analysts or business intelligence developer/analytics engineers.</li><li>Proficiency with data querying and data modeling using advanced SQL and/or Python.</li><li>Advanced proficiency in modern data visualization tools such as Tableau, PowerBI, Qlik Sense and/or Looker.</li><li>Proficiency in analytic data pipeline tools such as Python, Airflow, DBT, Talend, etc. </li><li>Experience working in an Agile development environment.</li><li>Experience and ability to effectively gather information from multiple sources.</li><li>Experience in automated self-service reporting/dashboarding tools.</li><li>Understands and can deliver upon data visualization best practices.</li><li>Confidence and proven track record in effectively dealing with technical and non-technical stakeholders.</li><li>Ability to operate independently and successfully in a fast-paced environment.</li><li>Be comfortable with ambiguity and curious to learn new skills.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Master’s degree in computer science, statistics, or related discipline.</li><li>10+ years of overall technical experience focusing on data/business analyst or business intelligence developer/analytics engineer roles.</li><li>Advanced proficiency and/or certification in PowerBI.</li><li>Comfortable making decisions and leading.</li><li>Familiar with version control and relational databases.<br/><br/></li></ul><strong>Other Key Attributes / Characteristics<br/><br/></strong><ul><li>Superior communication skills both oral and written.</li><li>Positive contributor, strong team member, loves to work with and empower others.</li><li>Collaborates with a team.</li><li>Time management skills.<br/><br/></li></ul><strong>Physical Demands<br/><br/></strong><ul><li>N/A<br/><br/></li></ul><strong>Travel<br/><br/></strong><ul><li>Occasional travel<br/><br/></li></ul><strong>Salary / Pay Range<br/><br/></strong>This job posting contains a pay range, which represents the range of salaries or hourly rates that the NFL believes, in good faith, at the time of this posting that it might be willing to pay for the posted job in the location(s) specified. The NFL expects to hire for this position near the middle of the range. Only in truly rare and exceptional circumstances, where an external candidate has experience, credentials or expertise that far exceed those required or expected for the position, would the NFL consider paying a salary or rate near the higher end of the range.<br/><br/><strong>Terms / Expected Hours of Work<br/><br/></strong><ul><li>NFL employees are required to work 40 hours per week. </li><li>FLSA Exempt.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Spectator Sports
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Life at Capgemini<br/><br/></strong>Capgemini supports all aspects of your well-being throughout the changing stages of your life and career. For eligible employees, we offer:<br/><br/><br/><ul><li>Flexible work </li><li>Healthcare including dental, vision, mental health, and well-being programs</li><li>Financial well-being programs such as 401(k) and Employee Share Ownership Plan</li><li>Paid time off and paid holidays </li><li>Paid parental leave</li><li>Family building benefits like adoption assistance, surrogacy, and cryopreservation</li><li>Social well-being benefits like subsidized back-up child/elder care and tutoring</li><li>Mentoring, coaching and learning programs</li><li>Employee Resource Groups </li><li>Disaster Relief <br/><br/><br/></li></ul><strong>About Capgemini Engineering<br/><br/></strong>World leader in engineering and R&amp;D services, Capgemini Engineering combines its broad industry knowledge and cutting-edge technologies in digital and software to support the convergence of the physical and digital worlds. Coupled with the capabilities of the rest of the Group, it helps clients to accelerate their journey towards Intelligent Industry. Capgemini Engineering has more than 55,000 engineer and scientist team members in over 30 countries across sectors including Aeronautics, Space, Defense, Naval, Automotive, Rail, Infrastructure &amp; Transportation, Energy, Utilities &amp; Chemicals, Life Sciences, Communications, Semiconductor &amp; Electronics, Industrial &amp; Consumer, Software &amp; Internet.<br/><br/>Capgemini Engineering is an integral part of the Capgemini Group, a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided every day by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 360,000 team members in more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2022 global revenues of €22 billion.<br/><br/>Get the Future You Want | www.capgemini.com<br/><br/><strong>Disclaimer<br/><br/></strong>Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.<br/><br/>This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship.<br/><br/>Capgemini is committed to providing reasonable accommodations during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.<br/><br/>Click the following link for more information on your rights as an Applicant http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law<br/><br/>Applicants for employment in the US must have valid work authorization that does not now and/or will not in the future require sponsorship of a visa for employment authorization in the US by Capgemini.<br/><br/><strong>Job description:<br/><br/></strong>What you’ll do:<br/><br/>As, a Senior Engineer- SRE, you will be responsible for<br/><br/><br/><ul><li>Design, architect and create the documentation for the entire system down to the details to meet team needs. Proactively create and review team contributions of documentation within your domain of expertise.</li><li>We will code entire software solutions to solve current problems, identify and fix issues within their areas of expertise. Participate as a CODEOWNER within their expertise and customer throughout in code-reviews.</li><li>Automate unit, integration, and end to end testing solutions and incorporate with the testing team flow. Be able to own your code in pre-production and ensure quality. Deploy your solutions across environments and platforms, including production releases!</li><li>We will teardown old solutions, products, and resources when no longer needed. Provide operational support of your deployed code and all code within your domain of expertise. Resolve issues within the entire team and prevent problems from occurring. Coordinate across all business teams to identify, resolve, mitigate and prevent technical issues, risks, and provide solutions. Other job-related duties as assigned!<br/><br/><br/></li></ul>What you’ll have:<br/><br/><br/><ul><li>4-year degree in Computer Science or related field with demonstrated ability</li><li>3+ years of shown experience with C#, .NET core, .NET.</li><li>3+ years’ experience with JavaScript (node.js, angular…)</li><li>Proven experience in CICD tools (Source Control, Build, Deploy)</li><li>Demonstrated ability in DevOps deployments.</li><li>Ability to solve high complexity issues.</li><li>Communicate across all teams within the organization to provide solutions.</li><li>Ability to take a given problem and complete a solution.<br/><br/><br/></li></ul>Capgemini discloses salary range information in compliance with state and local pay transparency obligations. The disclosed range represents the lowest to highest salary we, in good faith, believe we would pay for this role at the time of this posting, although we may ultimately pay more or less than the disclosed range and the range may be modified in the future. The disclosed range takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, geographic location, relevant education, qualifications, certifications, experience, skills, seniority, performance, sales or revenue-based metrics, and business or organizational needs. At Capgemini, it is not typical for an individual to be hired at or near the top of the range for their role. The base salary range for the tagged location is $65,200 - $158,550. This role may be eligible for other compensation including variable compensation, bonus, or commission. Full-time regular employees are eligible for paid time off, medical/dental/vision insurance, 401(k), and any other benefits to eligible employees. Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, or any other form of compensation that is allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

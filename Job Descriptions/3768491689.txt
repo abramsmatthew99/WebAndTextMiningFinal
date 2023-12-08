@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Praescient Analytics, LLC is a Veteran-led, certified Woman-Owned Small Business (WOSB) founded in 2011 which specializes in implementing advanced analytics solutions across the defense, intelligence, and law enforcement communities. Praescient has extensive experience designing, developing, and integrating solutions for customers including the US Army, Special Operations Command (SOCOM), US Navy (USN), US Marine Corps (USMC), US Coast Guard (USCG), Department of Justice (DOJ), Drug Enforcement Administration (DEA), and Federal Bureau of Investigation (FBI), Immigration and Customs Enforcement (ICE), intelligence community, and local law enforcement agencies, among others.<br/><br/>Praescient Analytics is in search of a Data Engineer to help develop best practices and providing consultative advice across a wide range of big data technologies and data management tools for our client. The Data Engineer will be expected to perform duties such as evaluating the performance of current data integrations, data management tools, and associated processes and procedures within a cloud systems environment. This position is fully remote. US Citizenship and a Public Trust clearance will be REQUIRED.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Manage and maintain ADLS file storage directories to support large multi-stage ETL pipelines</li><li>Implement pipelines to transfer sever-based data sources into ADLS, or directly to Synapse where appropriate.</li><li>Establish quality controls for any manual uploads of flat file extracts into ADLS</li><li>Implement ETL/ELT process and architecture within Azure Synapse and Azure Data Factory, including creating lookup tables where necessary to improve performance or efficiency</li><li>Implement fraud flag tables by entity and individual, linking all identified fraud flags for easy access via SQL query.</li><li>Implement aggregate views to quickly summarize key information and enable high performance queries by analysts and other users</li><li>Document all transformation processes and data architecture, including any derived or aggregate fields created to support the architectural design.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>5+ years of hands-on experience maintaining SQL databases, including expert level skills in SQL and T-SQL.</li><li>5+ years of hands-on experience working in cloud-based environments with distributed SQL pools.</li><li>Experience with designing and implementing ETL/ELT processes in support of cloud-based data analytics environments.<br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong><ul><li>Experience with distributed systems utilizing tools such as Apache Hadoop and/or Spark.</li><li>Experience with Azure cloud offerings.</li><li>Experience with big data analytic tools such as Databricks or Azure Synapse.</li><li>Experience working with graph databases such as Neo4j.</li><li>Working experience in Agile Scrum environments.</li><li>Experience with source control tools such as GitHub or Azure DevOps</li><li>Bachelor’s degree in Data Science, Business Intelligence, Computer Science or related fields, or the equivalent combination of education, professional training, and work experience<br/><br/></li></ul>If you are a self-starter who is passionate about data analysis and eager to make a meaningful impact, we invite you to apply for this exciting opportunity with Praescient Analytics!<br/><br/><ul><li>Very competitive salary based on qualifications and experience.</li><li>Comprehensive, Company paid healthcare for you (We pay your premiums and deductibles)</li><li>401(k) with company matching</li><li>Travel &amp; performance incentives</li><li>26 days of paid time off</li><li>$5K annual training allowance</li><li>$500 book allowance</li><li>Tuition reimbursement program<br/><br/></li></ul>Praescient Analytics is committed to providing equal employment opportunities for all. Employees and applicants without regard to race, color, age, religion, sex, sexual orientation, marital status, gender identity, national origin, legally protected physical or mental disability, genetic information, citizenship status, or status in the uniformed services of the United States, status as a disabled veteran or veteran of the Vietnam era, or on any other basis which is protected under applicable law. This includes a commitment to provide a work environment that is free from all forms of illegal harassment including sexual harassment.<br/><br/>This covers all terms and conditions of employment including (but not limited to):<br/><br/><ul><li>Hiring, placement, promotion, transfer, or demotion of all job classifications;</li><li>Recruiting, advertising, or solicitation for employment;</li><li>Treatment during employment;</li><li>Rates of pay or other forms of compensation;</li><li>Benefits;</li><li>Selection for training;</li><li>Company sponsored social and recreational activities; and</li><li>Layoff or termination<br/><br/></li></ul><em> Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. <br/><br/></em><strong>US Citizenship Required<br/><br/></strong><em>Praescient Analytics is an Equal Opportunity Employer.<br/><br/>Interested Candidates: Please forward your resume to <strong>recruiting@praescientanalytics.com</strong> and please visit our website to apply online at <strong>www.praescientanalytics.applicantstack.com/x/openings.</strong></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

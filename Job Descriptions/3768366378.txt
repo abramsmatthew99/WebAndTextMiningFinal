@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Us<br/><br/></strong>Founded in 2014, we offer the industry’s first and only cloud-based, fully-customizable, end-to-end software solution to automate securities-based lending from origination through the life of the loan. By combining thought leadership in suitability and risk management with industry-leading education and the latest technology, Supernova enables advisors to deliver holistic, goals-based advice and to help their clients achieve financial wellness. We partner with the industry’s largest banks, most prominent insurance companies and leading online brokerages to democratize access to securities-based lending and better the entire financial ecosystem.<br/><br/>At Supernova, we are dedicated to providing cutting-edge technology solutions that empower businesses and individuals to achieve their full potential. We are seeking an experienced and highly motivated Software Engineer to work either on platform projects or ETL data production projects.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Participate in the design, development, and maintenance of our platform team and related services. </li><li>Participate in the development and maintenance of ETL batch job</li><li>Collaborating with product managers, team leads, and other stakeholders to understand the technical requirements and translate them into actionable technical tasks. </li><li>Be the major force in the implementation, and ensure timely delivery of high-quality, scalable, and maintainable services or ETL jobs. </li><li>Reviewing code, providing constructive feedback, and ensuring adherence to coding standards and guidelines. </li><li>Participating in architecture and design discussions, contributing to the overall technical solutions. </li><li>Continuously improving the performance, reliability, and security of our platform. </li><li>Identifying and addressing technical debt, refactoring code, and driving improvements in the team's software development processes and practices. </li><li>Assisting in the recruitment, onboarding, and training of new team members. </li><li>Staying up-to-date with industry trends, emerging technologies, and best practices in software development, sharing knowledge and insights with the team.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Engineering, or a related field. A Master's degree is a plus</li><li>2+ years of software development experience, with a focus either on ETL batch job development with python, or backend restful services using Java Spring Boot framework.</li><li>Good understanding of RESTful API design principles and best practices is a plus. Proficiency in Java development and Spring Boot framework is a plus.</li><li>Proficiency with Python ETL batch job development is a plus.</li><li>Knowledge of API security standards and practices, including but not limited to OAuth, SAML and JWT</li><li>Experience with version control systems (e.g., Git) and CI/CD pipelines</li><li>Strong problem-solving skills, attention to detail, and ability to work independently and collaboratively</li><li>Excellent communication and interpersonal skills</li><li>Knowledge of microservice architecture and containerization technologies (e.g., Docker, Kubernetes) is a plus.</li><li>Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and related services preferred.<br/><br/></li></ul><strong>OUR CORE VALUES<br/><br/></strong><em>At Supernova, we...<br/><br/></em><ul><li> Form, execute, and communicate new ideas that add value to our employees and customers</li><li> Strive through obstacles and failures</li><li> Follow-through on promises or commitments to others, accept responsibility, and answer for actions &amp; decisions</li><li> Listen to, understand, and support our employees and customers</li><li> Act with speed, positive attitude, and flexibility</li><li> Exceed expectations and surpass ourselves every day; we embrace a sense of pride and never stop growing</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

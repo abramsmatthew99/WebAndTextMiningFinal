@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>How will this role have an impact?<br/><br/></strong>This is a position in Quality Engineering responsible for executing the test strategy on the scrum team. You will regularly work with your team and management to plan and execute effective and efficient automation and performance testing solutions to accomplish timely delivery of high-quality software products.<br/><br/><strong>What will you do?<br/><br/></strong><ul><li>Drive quality in a scrum team at every level of the SDLC. Championing and influencing use of core shift-left, behavior driven development (BDD) and test driven development (TDD) practices.</li><li>Write, and maintain automated testing for front end UI and backend API, including system, integration, and end-to-end testing strategies.</li><li>Document and perform manual testing of assigned products when necessary</li><li>Document and report bugs or issues found for automated or manual testing</li><li>Participate in release planning and assist in troubleshooting during rollbacks or failures.</li><li>Provide reporting on in-code coverage and defect density</li><li>Participate in efforts to research and document the root cause for output issues and identify which areas are not in sync</li><li>Participate in improvements to processes and technologies related with Quality Engineering</li><li>Build and maintain positive relationships with customers and internal staff and other stakeholders</li><li>Manage tasks to meet the assigned project dates<br/><br/></li></ul><strong>We Are Looking For Someone With<br/><br/></strong><ul><li>BS in Computer Science and/or 3+ years equivalent experience required</li><li>3+ years experience with deep requirements analysis; ability to rapidly understand a business domain, a system and its dependencies, and ask questions that drive depth and breadth of quality.</li><li>3+ years of experience in Quality Engineering / testing work; specific experience in test design for microservices and APIs is desirable.</li><li>3+ years of experience in testing native mobile applications</li><li>Experience using cloud mobile device services like Browserstack, Saucelabs etc.</li><li>2-3 years of experience with any object oriented programming languages, ie. C#, Java, Python</li><li>2-3 years of experience using API testing frameworks using tools such as RestSharp, SoapUI, REST-Assured, Postman, Jmeter.</li><li>2-3 years experience with frameworks and tools such as Appium, Xcode, Cypress, Selenium</li><li>Strong attention to detail</li><li>Strong written and verbal communication skills</li><li>Professional demeanor, dependable, and able to maintain confidential information</li><li>Flexible and able to successfully accept change and lead the charge</li><li>Able to successfully interact with all levels of an organization while building rapport and trust<br/><br/></li></ul><strong>About Us<br/><br/></strong>Signify Health is helping build the healthcare system we all want to experience by transforming the home into the healthcare hub. We coordinate care holistically across individuals’ clinical, social, and behavioral needs so they can enjoy more healthy days at home. By building strong connections to primary care providers and community resources, we’re able to close critical care and social gaps, as well as manage risk for individuals who need help the most. This leads to better outcomes and a better experience for everyone involved.<br/><br/>Our high-performance networks are powered by more than 9,000 mobile doctors and nurses covering every county in the U.S., 3,500 healthcare providers and facilities in value-based arrangements, and hundreds of community-based organizations. Signify’s intelligent technology and decision-support services enable these resources to radically simplify care coordination for more than 1.5 million individuals each year while helping payers and providers more effectively implement value-based care programs.<br/><br/>To learn more about how we’re driving outcomes and making healthcare work better, please visit us at www.signifyhealth.com.<br/><br/><em>Diversity and Inclusion are core values at Signify Health, and fostering a workplace culture reflective of that is critical to our continued success as an organization.<br/><br/></em><em>We are committed to equal employment opportunities for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

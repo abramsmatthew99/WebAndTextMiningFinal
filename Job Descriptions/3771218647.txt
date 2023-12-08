@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>A financial firm is looking for a <strong>QA Engineer </strong>to join their team in New York, NY or Stamford, CT (3 day onsite/week).</p><p><br/></p><p><em>Compensation: $200,000-250,000</em></p><p><br/></p><p><strong>Responsibilities:</strong></p><ul><li>Design, develop, and maintain scalable test plans and cases to validate and verify large volumes of software functionalities and features</li><li>Ensure software quality and reliability by implementing validation, monitoring, and anomaly detection techniques</li><li>Work with external teams to explore opportunities for innovation and develop corresponding bespoke testing solutions</li><li>Implement and optimize testing strategies, using best practices for version control, test modeling, and continuous integration</li><li>Optimize and improve test plans based on performance testing and user feedback</li><li>Perform experiments and data analysis to evaluate test performance and identify areas for improvement</li><li>Develop and implement practical and measurable performance criteria for evaluating test case performance</li><li>Collaborate with engineering and product teams to integrate test plans into applications and collaborate with other team members to identify and solve technical challenges and implement innovative solutions</li><li>Write clear and concise technical documentation for test plans, testing solutions, and proof of concept use cases</li></ul><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>A Bachelor's Degree in computer science, engineering, or related field</li><li>4+ years of experience in QA engineering, with a focus on building and maintaining test plans and cases</li><li>4+ years of hands-on experience working with Python and/or SQL</li><li>Strong knowledge of programming languages such as Java, Python, or Scala</li><li>Experience with testing frameworks such as Selenium, JUnit, or TestNG</li><li>Hands-on experience working with test management tools</li><li>Experience working with relational and non-relational databases, such as SQL, NoSQL, and time-series databases</li><li>Familiarity with software testing, data validation, and ETL tools</li><li>Strong analytical and problem-solving skills, with the ability to design and implement complex testing tasks</li><li>Strong communication skills to explain technical concepts to non-technical stakeholders</li></ul><p><br/></p><p><strong>23-06182</strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

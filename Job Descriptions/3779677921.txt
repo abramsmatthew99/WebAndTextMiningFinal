@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:</strong> Data Software Engineer - Python &amp; SQL<br/><br/><strong>Location:</strong> New York, NY<br/><br/><strong>Duration:</strong> Full-time / Permanent<br/><br/><strong>Compensation:</strong> $150,000 - $175,000<br/><br/><strong>Work Requirements: </strong>US Citizen, GC Holders or Authorized to Work in the U.S. without sponsorship<br/><br/><strong>Job Description<br/><br/></strong>Client is searching for a software developer to join our team in New York on a full-time basis. Our developers are organized into small teams with independent prioritization and release schedules. A flat organizational structure allows for the opportunity to migrate across teams and broaden your business knowledge and experience. The mandate of client's Data Team is to provide both traditional and alternative data sets to the front office. This candidate will work closely with the front office to improve our data ingestion and analysis. As a business-critical resource, members of the data team interact with our investment professionals to provide expertise, guidance, and high-quality data for usage across the firm. The role requires intellectual agility, solid judgment, exceptional communication skills, and the ability to deliver. The ideal software engineer will synthesize their experience in development, project management, business analysis, and data to partner with clients from across the firm.<br/><br/><strong>Responsibilities<br/><br/></strong>Partner with all departments in the firm, including front office analysts and quants, on a wide variety of financial, macroeconomic, and alternative data<br/><br/>Deliver data quickly while leveraging the appropriate software engineering techniques, including thoughtful design, unit testing, integration testing, and development<br/><br/>Provide new ideas and enhancements to automate systems and processes<br/><br/>Maintain and enhance our data platform and firm-wide shared software infrastructure in collaboration with the other Technology teams<br/><br/>Participate in the Level III support rotation<br/><br/><strong>Requirements<br/><br/></strong>Bachelor's degree in Computer Science or a related STEM field<br/><br/>Experience with data sets that are specific to an industry (financial data preferred)<br/><br/>2+ years of programming experience (Python preferred)<br/><br/>Strong SQL experience (Microsoft SQL Server a plus)<br/><br/>Proven track record of business analysis while working directly with front office users<br/><br/>Excellent verbal and written communication skills<br/><br/>Intellectual curiosity, strong analytical and quantitative skills, and a high degree of self-direction<br/><br/>Effective time management and organization skills - ability to adapt to changing priorities and work well in an environment driven by delivering well designed value to the business<br/><br/><strong>About INSPYR Solutions<br/><br/></strong>Technology is our focus and quality is our commitment. As a national expert in delivering flexible technology and talent solutions, we strategically align industry and technical expertise with our clients’ business objectives and cultural needs. Our solutions are tailored to each client and include a wide variety of professional services, project, and talent solutions. By always striving for excellence and focusing on the human aspect of our business, we work seamlessly with our talent and clients to match the right solutions to the right opportunities. Learn more about us at inspyrsolutions.com.<br/><br/>INSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

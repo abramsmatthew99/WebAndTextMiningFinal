@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>WHO ARE WE?<br/><br/></strong>Our team is the first in the world to use autonomous vehicles on public roads using end-to-end deep learning, computer vision and reinforcement learning. Leveraging our multi-national world-class research team we're focusing on using less data to learn more intelligent algorithms to bring autonomy for everyone, everywhere. We aim to be the future of self-driving cars, not vehicles that are told how to drive through hand-coded rules and maps, but ones which learn from experience and data.<br/><br/><strong>WHERE YOU'LL HAVE AN IMPACT<br/><br/></strong>We're looking for bold, talented and creative people to join our journey in developing next-generation autonomous vehicles. We're a growing start-up, building our first cohort of engineers and you can be at the heart of this!<br/><br/>We are looking for ML Engineers to help <em>productionize </em>an end-to-end self driving neural network for autonomous driving. You'll be working closely with Platform and Research teams to integrate, test and scale ML features for production. Productionizing and scaling our ML models by working across Data, Validation, Platform and Research is a core component of this role and why we need you!<br/><br/><strong>What You'll Bring To Wayve<br/><br/></strong><ul><li>Experience in shipping ML features and in applied research</li><li>Passion to take research ideas to production</li><li>Good grasp of machine learning literature</li><li>Experience in working in platform teams and working with research teams</li><li>Good insight into the training, validation, testing and metrics for deep learning features/models</li><li>Ability to write high quality, well-structured and tested Python code</li><li>Solid experience working with concurrent, parallel and distributed computing</li><li>Comfortable working with and visualising huge data sets</li><li>Knowledge of computing fundamentals - what makes code fast, secure and reliable</li><li>BS or MS in Machine Learning, Computer Science, Engineering, or a related technical discipline or equivalent experience<br/><br/></li></ul><strong>What We Offer You<br/><br/></strong><ul><li>Attractive compensation with salary and equity</li><li>Immersion in a team of world-class researchers, engineers and entrepreneurs</li><li>A unique position to shape the future of autonomous driving and to tackle the biggest challenge of our time</li><li>Bespoke learning and development opportunities</li><li>Relocation support with visa sponsorship</li><li>Flexible working hours - we trust you to do your job well, at times that suit you and your team</li><li>Private on-site chef, in-house bar, lots of socials, and more!<br/><br/></li></ul><em>Wayve is built by people from all walks of life. We believe that it is our differences that make us stronger, and our unique perspectives and backgrounds that allow us to build something different. We are proud to be an equal opportunities workplace, where we don't just embrace diversity but nurture it - so that we all thrive and grow.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

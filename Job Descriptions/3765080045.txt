@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Northwest Partners is looking to hire a Senior Infrastructure Engineer to develop and maintain scalable cloud infrastructure that is fundamental to one of our premier fintech clients software solutions.This is a 6-month contract to hire position.<br/><br/>**Candidates must be legally authorized to work for any employer in the United States without sponsorship**<br/><br/><strong>What YOU will do as a successful </strong><strong>DevOps Engineer<br/><br/></strong><strong>Responsibilities<br/><br/></strong>In this role, you will work with teams across the organization to refine deployment processes, improve system reliability, enhance performance, and solidify security, ensuring exceptional service delivery. Your day-to-day responsibilities will include:<br/><br/><ul><li>Craft and sustain Azure cloud infrastructure, prioritizing Platform as a Service (PaaS), to guarantee availability, fault tolerance, and scalability.</li><li>Employ Terraform and Infrastructure as Code (IaC) for efficient cloud resource management.</li><li>Design and implement reusable Terraform modules to optimize our IaC practices.</li><li>Construct and refine CI/CD pipelines using Azure DevOps, with a focus on multi-stage YAML pipelines.</li><li>Perform in-depth troubleshooting and optimization for infrastructure and applications, utilizing observability tools for system insights.</li><li>Maintain security protocols and compliance standards, including regular vulnerability assessments and patch management.</li><li>Develop and test disaster recovery and business continuity strategies to ensure minimal operational disruption.</li><li>Generate detailed documentation for system configurations and procedures, and contribute to enhancing CI/CD processes alongside information security and development teams.</li><li>Offer technical leadership and mentorship, and engage in on-call rotations for incident response.<br/><br/></li></ul><strong>Minimum Qualifications For Consideration<br/><br/></strong><ul><li>Bachelor’s degree in Business, Computer Science, or a related field plus 4 years of relevant experience, or 6-8 years of relevant experience in lieu of a degree.</li><li>Proven background in Infrastructure Engineering with Terraform expertise.</li><li>Comprehensive knowledge of Azure cloud services.</li><li>Skilled in scripting and automation with languages such as Python, Bash, PowerShell.</li><li>Familiarity with SDLC, CI/CD, Git, and cybersecurity best practices (e.g., SOC 2, PCI DSS).</li><li>Exceptional problem-solving and communication abilities, with a track record of addressing complex technical issues effectively.</li><li>Experience with SSL certificate management, SSO technologies like SAML, OIDC configuration, and Azure B2C.</li><li>Certifications like Azure DevOps Engineer, Azure Solutions Architect, Terraform Associate, or Security+ are a plus.</li><li>Openness to occasional travel (up to 20%).<br/><br/></li></ul><strong>About Northwest Partners<br/><br/></strong>Northwest Partners is dedicated to moving at the speed of innovation. We work with clients across the globe to provide exceptional knowledge, talent, and resources. As a trusted partner, we merge the client's vision with our expertise to deliver powerful results. Northwest Partners is known for building and managing elite teams in technology across diverse industries. Our mission is to empower every talent and every client to achieve more.<br/><br/><em><strong>Learn More About Northwest Partners<br/><br/></strong></em>Northwest Partners is dedicated to moving at the speed of its clients innovation. We work with clients across the globe to provide exceptional knowledge, talent, and resources. As a trusted partner, we merge the client vision with our expertise to deliver powerful results. Northwest Partners is known for building and managing elite teams in technology across diverse industries. Our mission is to empower every talent and every client to achieve more.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

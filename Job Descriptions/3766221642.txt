@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Front End Software Developer - Columbia, MD - Partially Remote<br/><br/>Are you an experienced Front End Software Developer seeking new opportunities in the Aerospace/Defense or Information Technology industries? We have an exciting position available for you. Join our dynamic team and help build intuitive applications for our Big Data Platform. This position is located in Columbia, MD with the flexibility of working partially remotely.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li> Collaborate with other engineers to develop holistic user experiences</li><li> Write efficient and maintainable code for web applications</li><li> Troubleshoot and provide support for customer-reported issues</li><li> Conduct quality assurance testing and write unit tests</li><li> Familiarity with Git version control software</li><li> Ability to work on a *nix command line</li><li> Multi-task and prioritize open issues effectively</li><li> Self-motivated with excellent problem-solving skills</li><li> Review and compile data as needed</li><li> Experience with JavaScript and web application frameworks (Vue, React, Angular, Backbone)<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor's Degree in Computer Science/Engineering or a related field (Master's degree preferred)</li><li> 5+ years of experience in front-end software development (3+ years with a Master's degree, or 9+ years with a high school diploma or equivalent)<br/><br/></li></ul><strong>Why Join Us<br/><br/></strong>Our company is known for attracting and retaining the most talented professionals in the APG-DC corridor. We prioritize work-life balance and take into consideration the unique circumstances of each employee. Our management team puts the goals and needs of employees first.<br/><br/>In addition to a competitive salary ranging from $130,000 - $170,000, we offer a comprehensive benefits package that includes:<br/><br/><ul><li> 5 weeks of PTO</li><li> 12 Paid Holidays</li><li> Sign-on bonuses</li><li> Annual performance bonuses</li><li> 401K matches</li><li> FSA plans</li><li> Robust healthcare benefits<br/><br/></li></ul>If you are ready for a new challenge in your career, apply today! Secret clearance is required for this position.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

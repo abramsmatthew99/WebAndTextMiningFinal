@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        In an era where 537 million individuals worldwide grapple with diabetes, our organization aims to redefine the relationship between patients and healthcare providers. We're on the lookout for a talented individual to join our team as a Security Analyst.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Foster a culture of security compliance and drive pivotal IT initiatives.<br/><br/>Contribute to enhancing the company's security posture and support its ongoing improvement.<br/><br/>Assist in obtaining and upholding crucial security certifications.<br/><br/>Oversee the security aspects of third parties, vendors, and business partners to mitigate risks from external entities.<br/><br/>Monitor and analyze the overall security program, reporting findings to security leadership for continuous enhancement.<br/><br/>Stay vigilant about security changes impacting regulatory, privacy, and industry best practices, contributing to the adaptation of security measures.<br/><br/>Address inquiries and questionnaires related to the company's security practices from customers and potential clients.<br/><br/>Play a key role in incident response, meticulously documenting and reporting occurrences and resolutions.<br/><br/>Contribute to cybersecurity risk analysis and ensure the tracking of security metrics.<br/><br/><strong>Requirements<br/><br/></strong>A Bachelor’s Degree in computer science, information systems, cybersecurity, or related quantitative/analytical fields. Relevant experience is also considered.<br/><br/>Strong analytical skills supported by technical knowledge, including understanding of computer systems, networks, and software.<br/><br/>Demonstrated ability to learn quickly, analyze issues, identify root causes, and develop corrective actions.<br/><br/>Adaptability to new environments and a commitment to meeting the standards of regulated industries, especially in medical device quality, personal health data, and personal data regulations.<br/><br/>Effective collaboration with diverse teams across different business functions and time zones.<br/><br/><strong>Additional Information<br/><br/></strong>This is a remote position.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

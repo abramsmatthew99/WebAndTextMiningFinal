@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a motivated and customer-oriented Data Analyst to support our US Courts client.<br/><br/>The customer is looking to consolidate and integrate existing data warehouses, data marts, and applications into an Integrated Enterprise Data Warehouse. The Data Analyst will perform analyses of data and data source characteristics, relationships, and logic necessary for effective implementation of information systems.<br/><br/><strong>Duties And Responsibilities Include<br/><br/></strong><ul><li>Identifies and documents problems traced to both original data quality issues and system outputs and recommends solutions. </li><li>Combines domain knowledge and knowledge of system performance requirements in supporting system development and performance testing processes.<br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>Three (3) or more years of experience in data analysis and the identification and documentation of data characteristics and entity relationships.</li><li>Prefer experience with R programming language and PowerBI.<br/><br/></li></ul><strong>Education Requirement<br/><br/></strong><ul><li>Bachelor's degree in computer science, information systems, engineering, or business management.</li><li>Education may be substituted with 4 additional years of experience.<br/><br/></li></ul><strong>Clearance Requirement</strong>: Ability to obtain and maintain a Public Trust.<br/><br/><ul><li>This position is contingent upon contract award to Gunnison Consulting.<br/><br/></li></ul><strong>Why Join Gunnison?<br/><br/></strong><ul><li>Gunnison takes on ambitious projects. We target fun, challenging work that requires creative thinking and innovation. </li><li>Quality is our top priority.</li><li>Gunnison employee benefits meet or exceed what other companies in the Washington, D.C. metropolitan area offer.</li><li>There is a great sense of camaraderie at Gunnison. This is an atmosphere we will maintain as we continue to grow.</li><li>We are growing rapidly and the opportunity for individual professional growth with Gunnison is outstanding. </li><li>We hire for careers at Gunnison, not to fill a position.<br/><br/></li></ul><strong>Employee Benefits<br/><br/></strong>Gunnison employee benefits meet or beat other companies in the Washington, D.C. metropolitan area, including:<br/><br/><ul><li>Bonuses AND profit-sharing!</li><li>401k Matching</li><li>Certifications and training allowance $2,500/year</li><li>3 weeks of personal leave your first year (160 hours can roll over every year)<br/><br/></li></ul>Equal Opportunity/Affirmative Action Employer. Must be eligible for employment in the United States. We are unable to sponsor candidates at this time<br/><br/>In 1994 Gunnison Consulting Group began serving the greater Washington, D.C. metro area, focused on tackling our customers' most ambitious technology projects. <em><strong>By creating a culture dedicated to enabling our customers and employees to achieve more than they ever thought they could</strong></em>, the company has thrived for 25 years.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<ul><li>Develop embedded software features in C programming language and Matlab/Simulink.</li><li> Utilize system requirements to design, develop, and test library software.</li><li> Collaborate with an architect to complete and merge software activities into the mainline library release.</li><li> Provide occasional support to process partners, involving troubleshooting software with a debugger.<br/><br/></li></ul><strong>Candidate Requirements<br/><br/></strong><strong>Education &amp; Experience Required:<br/><br/></strong>Bachelor's degree in computer science, software engineering, or relevant field.<br/><br/><ul><li> 4 years of experience required.<br/><br/></li></ul><strong>Technical Skills Required<br/><br/></strong><ul><li> 4 or more years of industry embedded software development experience.</li><li> 2 or more years of embedded C language programming.<br/><br/></li></ul><strong>Technical Skills Desired<br/><br/></strong><ul><li> Matlab/Simulink experience.</li><li> Experience with tools: Git, Clearcase, Trace 32 Debugger, CANalyzer, Cat ET Service Tool.</li><li> Experience working with and troubleshooting electrical systems.</li><li> Knowledge of diesel engine control and operation.</li><li> Strong analytical skills.</li><li> Prior work experience with CAN/SAE J1939.</li><li> Prior work experience with Engine or Machine software development.</li><li> Experience with scripting languages such as Python.<br/><br/></li></ul><strong>Soft Skills: Required <br/><br/></strong><ul><li> Good communication skills.</li><li> Desire to work in a fast-paced, team environment.</li><li> Ability to use PC tools such as MS Office, Visio.<br/><br/></li></ul>PSRTEK is a reputed technology recruitment and IT staffing brand with a global footprint and an admired client base. As an ideas and innovation powerhouse with a culture of excellence, we bring remarkable expertise and deliver powerfully transformative results.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

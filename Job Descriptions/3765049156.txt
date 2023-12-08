@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>Mountain View, CA, USA; San Diego, CA, USA</strong>.<strong>Minimum qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Electrical Engineering or equivalent practical experience.</li><li>5 years of experience with ASIC power management architecture.</li><li>Experience with Hardware or Software power control flows and methodology.<br/><br/></li></ul><strong>Preferred qualifications:<br/><br/></strong><ul><li>Master's degree or PhD in Electronics, Computer Engineering or Computer Science, with an emphasis on computer architecture and performance or power analysis.</li><li>Experience with power components, power modeling, and power management techniques such as Dynamic Voltage Frequency Scaling (DVFS)/AVS, etc.</li><li>Experience with algorithmic development and prototyping software for power management.</li><li>Experience with modeling and validation in Virtual prototyping and TLM environments.</li><li>Knowledge of industry trends and disruptive technologies.</li><li>Knowledge of the impact of software and architectural design decisions on power and thermal behavior of the system, such as thermal mitigation and scheduling, and cross-layer policy design.<br/><br/></li></ul><strong>About The Job<br/><br/></strong>Our computational challenges are so big, complex and unique we can't just purchase off-the-shelf hardware, we've got to make it ourselves. Your team designs and builds the hardware, software and networking technologies that power all of Google's services. As a Hardware Engineer, you design and build the systems that are the heart of the world's largest and most powerful computing infrastructure. You develop from the lowest levels of circuit design to large system design and see those systems all the way through to high volume manufacturing. Your work has the potential to shape the machinery that goes into our cutting-edge data centers affecting millions of Google users.<br/><br/>Google's mission is to organize the world's information and make it universally accessible and useful. Our team combines the best of Google AI, Software, and Hardware to create radically helpful experiences. We research, design, and develop new technologies and hardware to make computing faster, seamless, and more powerful. We aim to make people's lives better through technology.<br/><br/>The US base salary range for this full-time position is $146,000-$220,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br/><br/>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Define ASIC power management thermal architecture details for an ASIC that includes functions such as image compute, CPU/GPU, for maximum performance under power and thermal constraints.</li><li>Define the work for downstream cross-functional teams (e.g., Design,Verification,Validation) ensuring fulfillment of power architecture requirements, optimal implementation, hardware/software trade-off solutions, and ensuring scalability to entire product roadmap. </li><li>Perform algorithm development, modeling and analysis of various power management approaches.</li><li>Model and prototype power management techniques applicable at different design levels.</li><li>Work with external vendors on IP requirements and integration into Google SoC.<br/><br/><br/></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other, Information Technology, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Defense Intelligence Agency; National Media Exploitation Center<br/><br/>Bethesda, MD (1-2 day/ week remote)<br/><br/>Marathon TS is seeking a Automated Test Engineer supporting DIA-NMEC under our 10-year DOMEX Technology Platform (DTP) contract. Have impact as part of a mission focused, solutions oriented, and adaptive team that values innovation, collaboration, and professional development.<br/><br/>You will play a key role with the testing and deployment of software for the DOMEX Data Discovery Platform (D3P). The DOMEX Data Discovery Platform (D3P) program is a next generation machine learning pipeline platform providing cutting edge data enrichment, triage, and analytics capabilities to Defense and Intelligence Community members. While the work is primarily conducted on-site at our client location in Bethesda, MD, we offer a flexible schedule and, occasionally, some tasks may be performed remotely. Percentage of remote work will vary based on client requirements/deliverables. Come join our award-winning organization and work with some of the most talented and brightest minds in the GovCon industry.<br/><br/><strong>Responsibilities<br/><br/></strong>Set up, maintain, and perform test automation frameworks across multiple environments<br/><br/>Create and maintain test data for different environments<br/><br/>Create and maintain GitLab repositories for automated test suites<br/><br/>Author and automate API tests, functional UI tests and backend DB tests<br/><br/>Create Jenkins pipelines to run automated tests<br/><br/>Recording test results and reporting them using automated test result plugins such as Cucumber reports<br/><br/>Design test strategies, test plans, and test cases from requirements, design documents and specifications for testing across different platforms and with an emphasis on automation testing<br/><br/>Estimate test case writing and execution effort and keeping track of own progress<br/><br/>Test case authoring and holding test case reviews with stakeholders<br/><br/>Reporting, tracking, validating, and closing defects<br/><br/>Participation in daily scrum meetings<br/><br/>Participate in system design sessions to provide input on testability of new features<br/><br/>Support our processes by keeping track and gathering metrics on all testing activities<br/><br/>Participate in all phases of risk management assessments and software/hardware development with emphasis on analysis of user requirements, test design and test tools selection<br/><br/>Using metrics in quantitative project management concept to identify areas for improvement<br/><br/>Providing innovative solutions for more efficient testing strategy<br/><br/><strong>Minimum Requirements<br/><br/></strong>BS in Engineering, Computer Science, Systems Engineering, or related field or equivalent experience with 5+ years in software development, release management, or operations management or related field.<br/><br/>Must have an active TS/SCI security clearance with the ability to obtain and maintain a TS/SCI with Polygraph security clearance.<br/><br/>Working knowledge of the software development lifecycle and Agile-Scrum development methodology<br/><br/>Experience with API and endpoint testing<br/><br/>Experience with Continuous Integration pipeline<br/><br/>Experience in drafting test plans and test cases<br/><br/>Experience in using test management tools<br/><br/>Experience with use of tools such as Atlassian Jira and Confluence<br/><br/>Demonstrated ability to participate in cross-functional planning, coordination, and task execution situations involving the full spectrum of system integration activities.<br/><br/>Ability to work well/collaborate with people from many different disciplines with varying degrees of technical experience as well as working within a team environment; Experience and ability to work in a fast-paced environment.<br/><br/>Ability to express complex technical concepts effectively, both verbally and in writing<br/><br/><strong>Preferred Qualifications<br/><br/></strong>Experience with big data applications<br/><br/>Experience with selenium, cucumber, and java<br/><br/>Experience with Jenkins or similar tools<br/><br/>Technical degree and/or certifications<br/><br/>Experience with Elastic Search and experience with writing and executing backend tests using Kibana<br/><br/>Scaled Agile Framework certification (SAFe Agilist or other)<br/><br/>Familiarity with GitFlow development model<br/><br/>#cjjobs<br/><br/>Marathon TS is committed to the development of a creative, diverse and inclusive work environment. In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Marathon TS will be based on merit, qualifications, and abilities. Marathon TS does not discriminate against any person because of race, color, creed, religion, sex, national origin, disability, age or any other characteristic protected by law (referred to as "protected status").
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

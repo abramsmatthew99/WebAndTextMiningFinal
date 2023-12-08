@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Client seeks a Software Development Engineer in Test for the Bureau of Technology Development and Systems (BTDS). Reporting directly to the Deputy Director of BA, QA and UX, you will be responsible for creating test procedures for our Web &amp; Mobile Applications. You will understand Applications in-depth and design automated tests to validate their functionality &amp; performance. You will need a passion to find bugs and try to break an application.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Collaborate with product, engineering, and other domain teams to understand features, develop, and automate test cases, improve product quality, and shorten release time from dev to production.</li><li> Coordinating and driving E2E testing with cross-domains.</li><li> Being able to identify the manual processes and solve through automation.</li><li> Working with software engineers to understand product architecture and features.</li><li> Documenting and track bugs to closure.</li><li> Create and maintain data scenarios to support test plans and test cases.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor's Degree, Computer Science or similar, plus 8+ years of programming experience</li><li> Experience using automation tools such as Selenium, Appium, Cypress, Playwright or Microfocus QTP/UFT</li><li> Experience writing code using Java, JavaScript, and other similar languages including HTML &amp; CSS.</li><li> Experience with using defect management, test management tools, modern source control tools (Git/GitHub).<br/><br/></li></ul><strong>Preferred Skills<br/><br/></strong><ul><li> Experience in Continuous Integration and Continuous Deployment (CI/CD)</li><li> Experience creating strategies to cover vendor integrations.</li><li> Excellent SQL knowledge with the ability to write complex queries for validation as well as review stored procedures for verification.</li><li> Excellent analytical skills.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The salary range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs.<br/><br/>At WGU, it is not typical for an individual to be hired at or near the top of the range for their role, and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is:<br/><br/>Pay Range: $87,200.00 - $130,800.00<br/><br/>If you’re passionate about building a better future for individuals, communities, and our country—and you’re committed to working hard to play your part in building that future—consider WGU as the next step in your career.<br/><br/>Driven by a mission to expand access to higher education through online, competency-based degree programs, WGU is also committed to being a great place to work for a diverse workforce of student-focused professionals. The university has pioneered a new way to learn in the 21st century, one that has received praise from academic, industry, government, and media leaders. Whatever your role, working for WGU gives you a part to play in helping students graduate, creating a better tomorrow for themselves and their families.<br/><br/><strong>Essential Functions and Responsibilities: <br/><br/></strong><ul><li>Identify new data sources that will improve the diversification of university data. </li><ul><li>Deep knowledge of various data sources (government, open-source APIs, web scraping, etc.).</li><li>Ability to write and process complex SQL queries.</li><li>Experience extracting meaning data from social networking platforms.</li><li>Basic understanding of regular expressions to extract data from semi-structured and unstructured data sources.</li><li>Understanding of online web scraping to get data from sources that don’t offer API data access.</li></ul><li>Create predictive models leveraging machine learning algorithms.</li><ul><li>Traditional statistical models (logistic regression, classification algorithms, tree models, etc.).</li><li>Machine learning algorithms (neural networks, decision trees, association rules).</li><li>Text mining and natural language processing.</li></ul><li>Experience with very large data sets.</li><ul><li>Background in setting up and maintaining big data processes.</li><li>Experience with Hadoop, Hive, and HBase in the Amazon AWS environment.</li><li>Efficient processing of large amounts of unstructured data.</li></ul><li>Performs other related duties as assigned.<br/><br/></li></ul><strong>Knowledge, Skill and Abilities:<br/><br/></strong><ul><li>Advanced SQL programming, ETL development, Spark, and big data</li><li>Proficiency in Python, R, or Scala programming</li><li>Experience with machine learning predictive modeling, time-series forecasting, statistical analysis</li><li>Data reporting and visualization (e.g. Tableau, Cognos, Power BI)</li><li>Business writing and communication<br/><br/></li></ul><strong>Competencies: <br/><br/></strong>Organizational or Student Impact:<br/><br/><ul><li>Works on assignments of medium to complex level.</li><li>Structure project plans and manages cost-effective execution of tasks.</li><li>Limit errors to prevent impact to client operations, costs, or schedules.</li><li>This individual will follow established processes and protocols.<br/><br/></li></ul>Problem Solving &amp; Decision Making:<br/><br/><ul><li>Individual meets department and personal goals with some direction/ supervision.</li><li>An important player on large technical projects and programs.</li><li>Uses discretion to help design and implement solutions to somewhat complex problems.<br/><br/></li></ul>Communication &amp; Influence:<br/><br/><ul><li>Communicates with contacts both within and outside of function on matters that require explanation, interpretation, and advising; typically has responsibility communicating to parties outside of the organization.</li><li>Works to influence parties within the function at an operational level regarding policies, practices, and procedures.<br/><br/></li></ul>Leadership &amp; Talent Management:<br/><br/><ul><li>May be responsible for providing guidance, coaching, and training to other employees within the technical area.</li><li>May manage technical projects at this level, requiring responsibility for the delegation of work and reviewing others' work products.<br/><br/></li></ul><strong>Job Qualifications:<br/><br/></strong>Minimum Qualifications:<br/><br/><ul><li>Bachelor’s degree in Statistics, Economics, Computer Science, applied mathematics discipline, business, or other related degrees.</li><li>2 years’ relevant experience in data analytics, business intelligence, or information technology<br/><br/></li></ul>Department Specific Minimum Qualifications:<br/><br/><ul><li>Advanced degrees (Master’s or PhD) in quantitative discipline or bachelor's degree in quantitative discipline with two years relevant work experience</li><li>Experience working with Agile methodology</li><li>Demonstrated experience in project management<br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience in Higher Education</li><li>Experience working in Data bricks or related technologies (i.e. Spark)</li><li>2 years’ experience with Python<br/><br/></li></ul><strong>Physical Requirements:<br/><br/></strong><ul><li>Prolonged periods sitting at a desk and working on a computer.</li><li>Must be able to lift up to 15 pounds at times.<br/><br/></li></ul>As an equal opportunity employer, WGU recognizes that our strength lies in our people. We are committed to diversity.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

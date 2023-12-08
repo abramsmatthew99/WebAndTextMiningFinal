@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        About KQED:<br/><br/>KQED is redefining public media to be more inclusive, participatory, and community-powered. In a time when misinformation and distrust in media are growing, we are committed to being the trusted journalistic source serving the needs of the Bay Area.<br/><br/>Our digital product team develops experiences to serve the needs of our diverse audiences. This includes partnering with editorial teams on essential content like the 2020 Voter Guide, developing new content formats, and building the infrastructure to power personalized experiences. Our team is still small and growing, so this is an opportunity to shape the future of KQED’s digital efforts.<br/><br/>KQED envisions a public media organization with a culture that centers on human dignity, equity, and belonging. This will enable us to better serve and reflect the Bay Area through diverse and inclusive storytelling.<br/><br/>We value the contributions of marginalized people in society — including Black, Indigenous, and all people of color, people with disabilities, and LGBTQIA+ people — and we believe that these communities must be centered in the work we do, and we strongly encourage members of these communities to apply.<br/><br/>The mission that drives us:<br/><br/>KQED provides citizens of Northern California with a community-supported alternative to commercial media. We provide citizens with the knowledge they need to make informed decisions; convene community dialogue; bring the arts to everyone and engage audiences to share their stories. We help students and teachers thrive in 21st-century classrooms, and take people of all ages on journeys of exploration- exposing them to new people, places and ideas.<br/><br/>KQED Code of Ethics<br/><br/>This role will work hybrid between working in and working remotely. KQED requires employees to be fully vaccinated against COVID-19.<br/><br/>Salary Information: $99,000-$124,000 Annually<br/><br/><strong>Essential Functions: <br/><br/></strong><ul><li>Design, develop and maintain high-quality software solutions (including Microservices) using JavaScript/Node.js, PHP/WordPress, and Java with Spring Boot.</li><li>Collaborate with cross-functional teams to design, develop, and implement new features and functionality for our applications.</li><li>Work with Product Managers to define requirements, timelines, and deliverables.</li><li>Conduct code reviews and ensure code quality and best practices are being followed.</li><li>Monitor and maintain application performance and identify areas for improvement.</li><li>Build and maintain CI/CD pipelines for continuous integration and deployment.</li><li>Perform other duties as assigned. <br/><br/></li></ul><strong>Qualifications &amp; Skills<br/><br/></strong><ul><li>Demonstrable knowledge of Computer Science fundamentals - data structures, algorithms and software fundamentals like SDLC, networking</li><li>Good knowledge of Agile lifecycle methodologies: Agile, Scrum etc.</li><li>At least 5 years or more of experience in developing modern back-end applications using one or more of the following: Java with Spring Boot, Node.js/JavaScript, PHP and WordPress.</li><li>Strong knowledge &amp; experience with no-SQL databases such as Elastic Search and MongoDB.</li><li>Sound knowledge of source code management systems such as: git, github, bitbucket.</li><li>Strong knowledge of CI/CD environments (we use Spinnaker, in conjunction with Docker).</li><li>Familiarity with cloud native applications and cloud platforms like GCP and AWS.</li><li>Ability to collaborate and communicate within a cross functional team.</li><li>Ability to independently work on small features across codebases.<br/><br/></li></ul><strong>Physical Demands:<br/><br/></strong><ul><li>Ability to lift a minimum of fifteen (15) pounds;</li><li>Ability to exert maximum muscle force to lift, push, pull or carry;</li><li>Ability to use abdominal and lower back muscles over time without fatigue;</li><li>Ability to stand and/or sit for extended periods;</li><li>Ability to bend, stoop, stretch, twist, sit, and reach;</li><li>Fine motor skills;</li><li>Good visual and auditory acuity.<br/><br/></li></ul>The physical demands described here represent those that an employee must meet to perform the essential functions of this job successfully.<br/><br/>NOTE: This job description is not intended to be all-inclusive. Employees may be required to perform other related duties as necessary to meet the ongoing needs of this organization.<br/><br/>Benefits and Perks:<br/><br/>Whether you’re single, married, have children, are in a domestic partnership or anything in between, we have you covered. Employees at KQED enjoy a family friendly workplace with PTO, holidays, paid parental leave, family medical leave benefits, comprehensive health/vision/dental and commuter benefits as well as a 403(b) with employer match. KQED encourages diversity, openness and offers training to support personal and professional development. In addition, we are proud to offer Employee Resource Groups, wellness programs as well as free KQED membership.<br/><br/>KQED is a workplace in which civility and respect between and among all staff are core values. We are an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce, and we encourage individuals of color, LGBTQ and women to apply.<br/><br/>Powered by JazzHR<br/><br/>y3FZfaiLPC
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

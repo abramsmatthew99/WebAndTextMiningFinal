@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Therma° is a leading energy industry player dedicated to providing innovative and sustainable solutions to meet the ever-growing demand for energy. Therma° focuses on shifting and reducing electricity usage for commercial establishments.<br/><br/><ul><li>$160,000 – $200,000</li><li>0.10% – 0.20% equity<br/><br/></li></ul>As an Engineering Manager, you will manage the frontend engineering team at Therma, working on our innovative energy management system (EMS). You will guide, mentor, and assist the team, while contributing directly to the code, doing code review, and ensuring your team is continuously learning and delivering.<br/><br/>Furthermore, you will analyze existing issues in our applications and recommend adjustments in the form of architecture designs and implementation plans to resolve software issues and ensure application performance is at an optimum and meets our standards. You will stay abreast of new technologies and be responsible for creating, maintaining, and enforcing code standards for our UIs.<br/><br/>As a successful member of the engineering team, you will be able to empathize with our users and make decisions according to our user-focused and data-driven approach to developing applications.<br/><br/>This role reports directly to the Senior Director of Engineering and is based out of our SF Headquarters. The company prefers that the person works from the SF office at least 2 times a week.<br/><br/>Objectives<br/><br/><ul><li>Provide technical guidance to other members of the team</li><li>Implement product features to create world-class user-focused experiences</li><li>Maintain up-to-date knowledge of industry trends and advancements</li><li>Develop standard and scalable code that can serve as the foundation of future projects</li><li>Perform tasks accurately and up to our quality standard</li><li>Communicate issues and blockers with the development and management team<br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li>Mentor the javascript developer team on best practices and provide assistance on technical work</li><li>Improving the performance of our existing applications</li><li>Investigating software-related complaints and issues and making necessary adjustments or bug fixes to ensure optimal software performance and stability</li><li>Regularly attending team meetings to discuss projects, brainstorm ideas, and put forward solutions to new projects and issues</li><li>Collaborating closely with our Backend, DevOps, and QA development teams</li><li>Stay up-to-date with industry trends and develop and present plans to the management team for implementing new technologies </li><li>Monitor development progress and communicate with the team to resolve issues in a timely manner and inform management about recent developments of blockers</li><li>Monitor and prioritize blockers found during regression</li><li>interact with product managers and designers, to provide feedback and ensure alignment between your team and the rest of the organization. <br/><br/></li></ul><strong>About You<br/><br/></strong><ul><li>Bachelor's degree in computer engineering/computer science or related field</li><li>8+ years of experience building and maintaining frontend web applications</li><li>Prior experience working on energy management systems (EMS) or similar products. </li><li>Proven experience in software development methodologies</li><li>Proven experience building complex web systems</li><li>Ability to self-prioritize according to quarterly business goals<br/><br/></li></ul><strong>Compensation<br/><br/></strong><ul><li>$160,000 – $200,000</li><li>0.10% – 0.20% equity<br/><br/></li></ul><strong>About Therma°<br/><br/></strong>Therma° is a technology startup that builds IoT-powered temperature monitoring and analytics, which prevent food, product, and energy waste, the major drivers of climate change. Deployed across industry leaders, including McDonalds, Burger King, Domino's, TGI Fridays, 7-Eleven and Wyndham Hotels, we partner with diverse organizations, from national restaurant brands to top supply chain businesses in food and healthcare, to increase profits while protecting our planet.<br/><br/>Founded by experienced entrepreneurs from Harvard, Columbia and UC Santa Barbara, we're a mission-driven team passionate about food, climate and health. We are headquartered in San Francisco, and supported by experienced venture capitalists including D. E. Shaw, Deciens Capital, Sequoia Capital, Govtech Fund, Collaborative Fund, and Social Capital.<br/><br/>Our Commitment<br/><br/>At Therma°, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

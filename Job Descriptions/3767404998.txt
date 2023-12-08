@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title:</strong> AI Engineer<br/><br/><strong>Reports To: </strong>Senior AI and Machine Learning Scientist<br/><br/><strong>Department:</strong> AI/ML, Data &amp; Data Sciences, R&amp;D<br/><br/><strong>Location:</strong> Cambridge, MA (USA)<br/><br/><strong>About the Company:<br/><br/></strong>Sanofi is a global life sciences company committed to improving access to healthcare and supporting the people we serve throughout the continuum of care. From prevention to treatment, Sanofi transforms scientific innovation into healthcare solutions, in human vaccines, rare diseases, multiple sclerosis, oncology, immunology, infectious diseases, diabetes and cardiovascular solutions and consumer healthcare. More than 110,000 people in over 100 countries at Sanofi are dedicated to make a difference on patients’ daily life, wherever they live and enable them to enjoy a healthier life. As a company with a global vision of drug development and a highly-regarded corporate culture, Sanofi is recognized as one of the best pharmaceutical companies in the world and is pioneering the application of Artificial Intelligence (AI) in the R&amp;D organization including drug discovery, chemical manufacturing and control, translational research, clinical development, and regulatory document management and submission. Details of the organization and the company’s mission and goals can be found on our website (https://www.sanofi.us/en/).<br/><br/><strong>Overview:<br/><br/></strong>Artificial Intelligence (AI) and Machine Learning (ML) algorithms can significantly speed up drug discovery and shorten drug development and identification of patients for clinical trials thereby creating better medicines that save lives. AIML is a critical group in Digital and Data Science (DDS) organization at Sanofi focused on applications of AI/ML in drug design, diseases modeling, drug development, and analysis of outcomes of clinical trials with multimodal data.<br/><br/>The AI/ML team is focusing cutting edge deep learning models in LLM, computer vision, and time series data. Members in our team come from diverse backgrounds in computational sciences and engineering with deep expertise in AI/ML, deep learning, and algorithmic analysis of data.<br/><br/>We are looking for an AI/ML Engineer with a strong background in software development and deep learning applications for our AIML group at Sanofi R&amp;D.<br/><br/><strong><em>The responsibilities of the data scientist in AI and Deep Analytics will include: <br/><br/></em></strong><ul><li>Develop, train, and deploy machine learning models using Python and deep learning frameworks (e.g., TensorFlow, PyTorch).</li><li>Collaborate with cross-functional teams to define project requirements and deliver AI solutions that meet business objectives.</li><li>Implement and maintain CI/CD pipelines for model deployment and ensure seamless integration with GitHub.</li><li>Utilize experiment tracking tools such as MLflow and Weights &amp; Biases to monitor and optimize model performance.</li><li>Follow best software development practices to ensure code quality, maintainability, and scalability.</li><li>Stay up-to-date with the latest developments in AI and machine learning, and apply them to real-world projects.<br/><br/></li></ul><strong><em>Qualifications &amp; Requirements:<br/><br/></em></strong><ul><li>A PhD degree or Masters in Computer Science, Information and Engineering Sciences, Applied Mathematics or Applied Sciences with an emphasis on machine learning and deep learning</li><li>Preferable experience of 1-3 year(s) for Ph.D or 3-5 years for MS with a strong record of accomplishments and project experience in applications of AI/ML</li><li>Expertise in Deep Learning architectures including CNNs, RNNs, GNN’s, Embeddings, Transfer Learning, Attention-based Networks, Transformers.</li><li>Familiarity with experiment tracking tools such as MLFlow or WandB</li><li>Solid understanding of software engineering practices, including code review and testing.</li><li>Proficient with GitHub for version control and collaborative development.</li><li>Proficient with Python development</li><li>Strong knowledge of CI/CD principles and experience with setting up pipelines</li><li>Expertise in at least one deep learning libraries such as PyTorch and TensorFlow</li><li>The ability to work with APIs and multi-GPU machines on the cloud</li><li>A change agent with a combination of business, science &amp; technology, and diplomatic skills<br/><br/></li></ul>At Sanofi diversity and inclusion is foundational to how we operate and embedded in our Core Values. We recognize to truly tap into the richness diversity brings we must lead with inclusion and have a workplace where those differences can thrive and be leveraged to empower the lives of our colleagues, patients and customers. We respect and celebrate the diversity of our people, their backgrounds and experiences and provide equal opportunity for all.<br/><br/>As part of its diversity commitment, Sanofi is welcoming and integrating people with disabilities.<br/><br/>Sanofi Inc. and its U.S. affiliates are Equal Opportunity and Affirmative Action employers committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality; marital, domestic partnership or civil union status; sex, gender, gender identity or expression; affectional or sexual orientation; disability; veteran or military status or liability for military status; domestic violence victim status; atypical cellular or blood trait; genetic information (including the refusal to submit to genetic testing) or any other characteristic protected by law.<br/><br/>#GD-SA<br/><br/>At Sanofi diversity and inclusion is foundational to how we operate and embedded in our Core Values. We recognize to truly tap into the richness diversity brings we must lead with inclusion and have a workplace where those differences can thrive and be leveraged to empower the lives of our colleagues, patients and customers. We respect and celebrate the diversity of our people, their backgrounds and experiences and provide equal opportunity for all.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Chemical Manufacturing, Biotechnology Research, and Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

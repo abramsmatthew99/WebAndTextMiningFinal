@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>COMPUTER SCIENCE ADJUNCT<br/><br/></strong><strong>OC Mission and Purpose</strong>: <em>Oklahoma Christian University is a higher learning community transforming lives for Christian faith, scholarship, and service. OC is committed to hiring employees actively engaged in Christian discipleship as we strive to create an employment culture that encourages faculty and staff to lean into the university’s Christian mission, emphasizing authenticity and unity, not uniformity. We encourage you to explore our beliefs to determine if our mission is your calling.<br/><br/></em>Adjunct appointments are part-time (typically one or two courses) and made on a semester-by-semester basis but often result in recurring assignments within a regular course rotation. Adjunct openings frequently occur with short notice, so the Oklahoma Christian Human Resources office accepts adjunct applications at all times. This is an on-campus, in-person position.<br/><br/>The Division of Engineering and Computer Science seeks adjunct faculty for entry-level, upper-division, and graduate engineering and computer science courses. In addition, Oklahoma Christian University offers ABET-accredited baccalaureate degree programs in Computer, Electrical, and Mechanical Engineering and Master of Science degrees in Engineering and Computer Science.<br/><br/><strong>Primary Qualifications<br/><br/></strong><ul><li>Ph.D. in Computer Science or Engineering is preferred. However, a Ph.D. in a related field with Computer Science or Engineering experience or a Master's in Computer Science or Engineering with additional graduate work or experience will be considered.</li><li>Demonstrated commitment to diversity and the ability to communicate and positively engage students and colleagues across racial, gender, and cultural barriers</li><li>Teach both graduate and undergraduate courses</li><li>Advise students in their program of study</li><li>Serve on university committees</li><li>Participate in department curriculum planning and assessment tasks</li><li>Teaching: Teach courses in the needed subject area at the undergraduate and/or graduate level</li><li>Create and maintain appropriate educational records to document students' academic performance, observing appropriate confidentiality.<br/><br/><br/></li></ul><strong>Salary And Benefits<br/><br/></strong><ul><li>Salary commensurate with degree level<br/><br/><br/></li></ul><strong>Timetable: </strong>Application is ongoing and continues each semester based on enrollment and departmental needs. As candidates advance through the screening process, additional materials may be requested. To apply, click the button below.<br/><br/><em>Oklahoma Christian University does not unlawfully discriminate based on race, color, age, sex, disability, or national or ethnic origin in employment opportunities, in employment, admissions, or the provision of services, in keeping with applicable state and federal laws. Accordingly, subject to the following provisions, the University actively seeks to diversify its employee and student base. Oklahoma Christian University is affiliated with the fellowship of the Church of Christ, and the University is controlled by a Board of Trustees, all of whom are members of the Church of Christ. </em><em>The University operates within the Christian-oriented aims, ideals, and religious tenets of the Church of Christ as taught in Holy Scripture. Thus, as a religiously-controlled institution of higher education, Oklahoma Christian University is exempt from compliance with some provisions of certain civil rights laws, including some requirements of Title IX of the Education Amendments of 1972 and Title VII of the Civil Rights Act of 1974. The University intentionally claims and protects its rights to hire co-religionists and individuals who share and support the mission of the University.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

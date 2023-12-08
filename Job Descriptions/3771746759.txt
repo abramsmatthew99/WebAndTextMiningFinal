@@ -1,0 +1,35 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Introduction: </strong> </p><p>Since our inception in 2017, Graphite GTC has been on a mission to redefine the landscape of software development. Our groundbreaking No-Code development platform has transformed the way software is conceived and created, democratizing the process and making it accessible to all. Our mantra, “Better. Faster. Cheaper.™” is not just a slogan; it's the reality we deliver through our innovative platform. </p><p><br/></p><p>At Graphite GTC, we are not just a technology company; we are a beacon of innovation in the no-code application development sphere. Our vision is to provide equal access to cutting-edge technology for a diverse range of clients, from sprightly startups to established enterprises. We achieve this vision by moving away from traditional hand-coding methods and embracing a visually driven approach to application design, enabling anyone to craft sustainable, enterprise-class applications. Our proprietary software stands as a testament to our innovative spirit and technical prowess. This intellectual property has not only set us apart in the market but has also been the cornerstone of our service offerings. We have evolved into a full-service IT and consulting powerhouse, catering to an impressive roster of clients including the U.S. government, leading pharmaceutical companies, educational institutions, and giants in the construction and sustainability sectors. </p><p><br/></p><p>Our team is a melting pot of experienced professionals and vibrant technologists, all united by a shared passion for innovation. We foster a culture where humor meets humility, creativity intersects with collaboration, and where problem-solving happens at the speed of thought in our open, dynamic office environment. Graphite GTC stands today as a leader, not just in no-code application development, but as a full-fledged IT and consulting partner, trusted by some of the most prestigious organizations across various sectors. </p><p><br/></p><p><strong>Job Summary:</strong> </p><p>We are currently seeking a dedicated and technically skilled individual to fill the vital role of Junior Backend Content Developer. This position is crucial for candidates who have a solid foundation in backend development principles and a keen interest in content creation. In this role, the Junior Backend Content Developer will be a key contributor, working alongside our experienced team to develop, refine, and maintain the backend infrastructures essential for powering our sophisticated digital content platforms. The role demands a high degree of technical acumen and a commitment to ensuring robust functionality, operational efficiency, and an optimal user experience in all backend solutions. </p><p><br/></p><p><strong><em>Responsibilities: </em></strong></p><ul><li>Assist in developing and maintaining robust backend systems using programming languages such as Python, Ruby, Java, or .NET. </li><li>Contribute to the development of APIs and server-side logic to support web and mobile applications. </li><li>Help manage database systems like MySQL, PostgreSQL, or MongoDB. </li><li>Perform basic database maintenance and ensure efficient data storage and retrieval. </li><li>Ensure that content is effectively managed and displayed through backend systems. </li><li>Collaborate with front-end developers to ensure seamless integration of backend and frontend components. </li></ul><p><em> </em></p><p><strong><em>Qualifications: </em></strong></p><ul><li>Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent experience. </li><li>Familiarity with backend programming languages (Python, Ruby, Java, .NET, etc.). </li><li>Basic knowledge of database management systems. </li><li>Understanding of server-side frameworks and RESTful API development. </li><li>Strong problem-solving and analytical abilities. </li><li>Effective communication skills and a willingness to collaborate in a team environment. </li><li>Eagerness to learn and adapt in a fast-paced industry. </li><li>Must be a U.S. citizen. Ability and willingness to undergo any necessary security clearance processes for projects involving government entities.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

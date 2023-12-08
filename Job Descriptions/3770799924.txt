@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>The Role: QA Automation Lead<br/><br/></strong>As a QA Automation Lead at Billhighway, you will be responsible for leading the automation testing efforts, with a focus on implementing and maintaining automation frameworks. Using your hands-on experience, you will be responsible for improving the overall quality, efficiency, stability, and reliability of our platforms. Further, your leadership skills will be pivotal in positively influencing the QA team in the benefits and best use of test automation.<br/><br/>Eligible hybrid and remote candidates must reside in one of the following states: DC, FL, ID, IN, MD, MI, MN, NC, NJ, OH, PA, SC, TN, TX, VA, WV, IL and NH<br/><br/><strong>What you will do:<br/><br/></strong><ul><li>Lead the planning, design, implementation, and maintenance of automation frameworks to ensure scalability and efficiency.</li><li>Design, implement, and maintain scalable, reusable, and efficient automation frameworks and ensure the frameworks integrate into our CI/CD pipelines.</li><li>Identify opportunities for automation, implement best practices, and drive efficiency in testing processes.</li><li>Set the direction for automation testing strategies, aligning them with company objectives and industry best practices.</li><li>Drive initiatives focused on elevating the overall quality, stability, and reliability of our software platforms.</li><li>Represent the Product Development team by skilled interactions with internal and external clients to inspire confidence, ensure transparency and manage overall expectations.</li><li>Mentor team members on proper techniques to ensure quality, efficiency, and compliance with the team standards.</li><li>Handling periodic on-call duty and out-of-band requests<br/><br/></li></ul><strong>What you will need:<br/><br/></strong><ul><li>Ability to multi-task by applying strong time-management skills.</li><li>Ability to effectively communicate across organizational boundaries and work in a highly collaborative style with team members, stakeholders, and customers.</li><li>5 years of experience in QA automation leadership.</li><li>5 years of hands-on programming experience with Java and SQL.</li><li>3 years of experience working with Selenium and Page Object Model.</li><li>3 years of experience working with git and CI/CD tools, such as AzureDevOps or Jenkins.</li><li>BS/BA Computer Science or related field, and/or relevant work experience.<br/><br/></li></ul><strong>What will set you apart: <br/><br/></strong><ul><li>Experience using Cypress for automation.</li><li>Experience in effective use of issue tracking systems, such as Jira.</li><li>Familiarity with accounting and financial transaction concepts<br/><br/></li></ul>A flexible, entrepreneurial work environment and team atmosphere makes this a great place to work. To learn more about us, visit .<br/><br/>Please review our<br/><br/>Powered by JazzHR<br/><br/>EKJqaT28fr
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong> Description <br/><br/></strong>The Department of Computer Science in the College of Arts and Sciences at American University invites applications for a full-time, open-rank, tenure-line position beginning August 1, 2024. Applicants should have a PhD or an anticipated PhD completion by August 2024 in Computer Science or related fields. Depending on experience and qualification, the appointee to this position may be recommended for tenure at the time of hiring. Candidates can apply at the assistant, associate, or full professor level and we welcome applications from both academic and nonacademic organizations.<br/><br/>We are looking for candidates who are excited at the prospect of joining a growing department where they will be able to make their mark. Preference will be given to candidates with a record of high-quality scholarship. For candidates applying at the associate or full professor level, a record of external funding is also expected. The committee will consider candidates engaged in high-quality research in any area of Computer Science related to Artificial Intelligence (E.g., Natural Language Processing, Machine Learning, Network Analysis, Information Visualization), Theoretical Computer Science (Computational Theory, Graph Theory, Algorithms), Cybersecurity, and other traditional areas of Computer Science (E.g., Software Engineering, Database Systems, Graphics, etc.). The University has areas of strategic focus for research in Data Science and Analytics, Health, Security, Social Equity, and Sustainability. Applicants from historically underrepresented minority and identity groups are strongly encouraged to apply. In addition to scholarship and teaching, responsibilities will include participation in department, school, and university service activities. Attention to Diversity, Equity and Inclusion (DEI) in all activities within the academic environment are expected.<br/><br/>Salary and benefits are competitive. An overview of the benefits offered by American University can be found at https://www.american.edu/hr/benefits/.<br/><br/>Review of applications will begin on November 1. Please submit applications via Interfolio : http://apply.interfolio.com/130734 Please include a letter of application, curriculum vitae, list of three references, recent teaching evaluations (when possible), a diversity statement, and copies of recent published papers or working papers. Please contact Department Chair Nathalie Japkowicz at japkowic@american.edu if you have any questions.<br/><br/>American University is a private institution located in the nation’s capital and within easy reach of the many centers of government, business, research, and the arts. For more information about American University, visit www.american.edu .<br/><br/>The Department of Computer Science is a small but exciting department with a growing student population and strong research achievements. American University has identified Computer Science as one of its targets for growth. Computer Science also falls within several areas of strategic focus identified in the University’s strategic plan. Along with the Department of Mathematics and Statistics, the Department of Physics, the Game Center, and the Entrepreneurship and Innovation Incubator, the Department of Computer Science is located in the new Don Myers Technology &amp; Innovation Building. Computer Science currently offers an undergraduate and a Master’s program with four different tracks (Applied, Data Science, Game, and Cybersecurity). Learn more about the College of Arts and Sciences at https://www.american.edu/cas/ and about the Department of Computer Science at https://www.american.edu/cas/cs/ .
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

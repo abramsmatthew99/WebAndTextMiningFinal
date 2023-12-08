@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>We are seeking a highly motivated and customer-focused Level 2 Helpdesk Support Specialist to join our Technology Services team. The ideal candidate will have excellent people and communication skills and a strong technical background. This role will be required to be in the office 4 days per week.<br/><br/><strong>Responsibilities Include<br/><br/></strong><ul><li>Respond to and resolve customer inquiries and issues via phone, email, and in-person</li><li>Handle escalations from Level 1 support and provide technical assistance to customers and end-users</li><li>Document customer interactions and issues in our ticketing system</li><li>Escalate and forward more complex issues to the appropriate IT team</li><li>Provide exceptional customer service and maintain a positive attitude in a timely and professional manner</li><li>Identify and recommend solutions to improve customer satisfaction and reduce support calls</li><li>Collaborate with other teams to resolve complex issues and implement new systems and technologies</li><li>Create and maintain support documentation</li><li>Monitoring systems and processes</li><li>Administering users in Active Directory and applications</li><li>Coordinating with vendors to purchase, deploy, and RMA hardware</li><li>Instructing users on technology best practices<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>4-6 years of experience in Desktop support</li><li>The successful candidate must be a team player with strong customer service and communication skills</li><li>Strong technical knowledge of:</li><li>Microsoft Windows</li><li>PC applications, including Office 365</li><li>Network connectivity, including Wi-Fi</li><li>Mobile devices and associated apps</li><li>Laptop PCs, iPhones, iPads</li><li>Collaboration and meeting room technology</li><li>Zoom and Microsoft Teams meetings</li><li>Meeting room video conferencing</li><li>VPN and Citrix remote access</li><li>VOIP telephones</li><li>Strong technical skills and knowledge of hardware, software, and network systems</li><li>A deep understanding of the Windows operating system is a plus</li><li>Application packaging experience is a plus</li><li>Strong understanding of help desk functions and technical support experience</li><li>Strong knowledge of desktop/laptop hardware and BIOS upgrades</li><li>Strong knowledge of Windows 10, Windows 11, iPhones, iOS, and general productivity applications</li><li>Networking knowledge (TCP/IP, DHCP, DNS, Wireless)</li><li>Must be able to lift desktops, laptops, monitors, printers, and other IT-related equipment</li><li>Knowledge and understanding of Microsoft Active Directory<br/><br/></li></ul><strong>Personal Attributes:<br/><br/></strong><ul><li>Excellent people and communication skills and a passion for exceptional customer service</li><li>Excellent analytical and problem-solving skills</li><li>Flexibility in working in a fast-paced, high-expectations environment</li><li>Ability to work well under pressure and handle multiple tasks simultaneously</li><li>Working independently and as a member of a worldwide support team</li><li>Excellent analytical and problem-solving skills</li><li>Excellent listening, interpersonal, written, and oral communication skills</li><li>Pays extreme attention to details</li><li>Highly self-motivated and passionate about technology and people</li><li>Ability to prioritize and manage time effectively</li><li>Eager to learn new technologies and applications, and ability to absorb new topics quickly<br/><br/></li></ul><strong>Education:<br/><br/></strong><ul><li>A Bachelor's degree in Computer Science, Management Information Systems, or a related field (and/or equivalent experience).</li><li>IT certifications a plus (ex. CompTIA A+, CompTIA Network+, Microsoft MTA, etc.)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

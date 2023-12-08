@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Position at Tokio Marine HCC<br/><br/>Senior QA Analyst<br/><br/>In life, we trust things of great value with reliable, trustworthy, and efficient people. So, would you consider yourself to possess these qualities? Have you been trusted with tasks that hold high value and importance to a company? Do you want to do work that is meaningful and makes a difference? This might be the place for you! When looking for a position, it is important to consider the company and what they do. So, why us? Why would we be right for you?<br/><br/><strong>THMCC Stop Loss<br/><br/></strong>T MHCC Stop Loss, a $1.9 Billion division within Tokio Marine HCC, leads the way in providing medical stop loss insurance sold to employers. Medical Stop Loss provides an added layer of insurance protection to employers who choose to self-fund their health benefit plans. Self-funding can incur risks from catastrophic claims, and Medical Stop Loss insurance from Tokio Marine HCC is designed to protect employers from that risk.<br/><br/>Based in our Kennesaw, GA office this person will report to the Development Director. This position follows a hybrid work schedule with 3 days in the Kennesaw office.<br/><br/><strong>Position Summary<br/><br/></strong>This position will analyze product requirements to produce test requirements and develop and execute system test plans for complex information systems.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li> Lead the test effort for assigned projects/applications.</li><li> Create test plans, test requirements, test scenarios, and test data for use during the functional and system test phases of the software development process for new and existing applications.</li><li> Test Windows and web applications in a proprietary software-testing environment. Ensure that test plans and scenarios fully exercise every aspect of the product.</li><li> Develops, maintains, and executes automated test scripts using tools like Selenium / UiPath or similar automation frameworks.</li><li> Strong programming skills (e.g., JavaScript, .NET).</li><li> Working knowledge of test management software (e.g., q Test, Zephyr) and Test Harness experience.</li><li> Collaborate with cross-functional teams to ensure quality throughout the software development lifecycle.</li><li> Develop and maintain a thorough knowledge and understanding of products, both from a business perspective and a technical perspective.</li><li> Participate in software requirements reviews, design reviews, and change control activities.</li><li> Quickly familiarize yourself with the core systems that the development team maintains.TMHCC Stop Loss has several core systems that were created in-house.These systems support our insurance operations and our fiduciary and statutory reporting requirements.</li><li> Start working on a project assigned to you by your development manager.TMHCC Stop Loss has numerous projects underway and others that have not started yet.These projects vary in scope.Some projects are web-based.Other projects are traditional desktop applications.You will be assigned to a project based on business priority and development team needs.</li><li> Experience with Quick Test Professional or equivalent testing software</li><li> Relationship database management system experience (MS SQL Server and/or Oracle)</li><li> Ability to write complex SQL queries</li><li> Thorough understanding of quality assurance processes and testing methodology<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong> Education, Experience &amp; Knowledge </strong><strong> : <br/><br/></strong><ul><li> 4-year bachelor’s degree in Computer Science, a related field or equivalent education</li><li> 5 years of relevant and progressive professional experience in Quality Assurance Testing with client-served and/or web-based applications<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

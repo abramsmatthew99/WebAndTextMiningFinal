@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description:<br/><br/></strong>Abiomed is seeking an experienced Software Engineer to join our team in the development of a portable artificial lung (ECMO) in Baltimore, MD. Responsibilities for this role include software development for a device containing digital controls, sensors, batteries, user controls/displays, pneumatics, fluidics, pump drives and other electro-mechanical systems that manage blood flow and gas delivery. This individual must have experience working as part of a multidisciplinary team including internal and external resources. Experience with formal engineering development processes, regulated industry and compliance to industry standards is required.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Software design and implementation for a class II medical device </li><li>Construction and maintenance of software requirements </li><li>Design and implementation of software interfaces </li><li>Test case development, unit and integration testing </li><li>Leading and participating in design reviews, code reviews and system integration activities<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><strong>Qualifications:<br/><br/></strong><ul><li>BS degree in software, computer science, electrical engineering, or closely related field. </li><li>8+ years of experience in software development, preferably in a regulated environment, preferably medical. Experience should include: </li><ul><li>Development in C, HTML, CSS and Javascript </li><li>Embedded software development </li><li>Data acquisition in an embedded environment </li><li>Quality systems in a regulated industry </li><li>Version control and issue tracking systems </li><li>Medical device development, including ISO 62304 preferred </li><li>Linux use and development experience preferred </li><li>Basic electrical troubleshooting skills preferred </li><li>Motor control experience preferred </li></ul><li>Possesses a "team player" attitude, takes pride in their work and has excellent communication skills </li><li>Operates independently as a self-starter with high attention to detail<br/><br/></li></ul>Johnson &amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.<br/><br/>For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

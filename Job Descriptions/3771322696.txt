@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        MANDATORY SKILLS: Demonstrated experience tuning neural networks, such as LLMs, on custom data sets and applying results to specific use cases.<br/><br/>Demonstrated professional or academic experience developing models and ensembles in the AI/ML space, including selecting the best Python libraries for a given task, choosing appropriate pre-processing actions, performing analysis, and assessing model performance.<br/><br/>Demonstrated professional or academic experience using Python or R.<br/><br/>Demonstrated professional or academic experience with deep learning frameworks such as PyTorch, Tensorflow, or Keras.<br/><br/>Demonstrated professional or academic experience and proficiency with SQL to include using common table expressions, set operations, aggregated functions and nested subqueries.<br/><br/>Demonstrated professional or academic experience with version control systems such as Github and Jenkins.<br/><br/>Demonstrated experience leveraging GPUs for accelerated computing.<br/><br/>OPTIONAL SKILLS: Demonstrated professional or academic experience with the HuggingFace Transformers library and hub.<br/><br/>Demonstrated experience with cloud computing development and architecture.<br/><br/>Demonstrated experience with front-end web development frameworks such as Flask.<br/><br/>Demonstrated experience creating machine learning models that conduct text classification and topic modeling in Python using standard machine learning (SciKit Learn-) or deep learning models.<br/><br/>Demonstrated experience developing applications for semantic search.<br/><br/>Demonstrated professional or academic experience and proficiency with Tableau to produce visualizations and dashboards.<br/><br/>Demonstrated academic or professional experience communicating methodological choices and model results.<br/><br/>Demonstrated experience with verification and validation test benches.<br/><br/>Demonstrated experience with Explainable AI (XAI) techniques.<br/><br/>Demonstrated experience with ONNX (Open Neural Net Exchange).<br/><br/><strong>About Avid Technology Professionals<br/><br/></strong>Avid Technology Professionals, LLC (ATP) is a premiere provider of software and systems engineering, and acquisition program management services for the community. ATP is actively seeking to pursue contract opportunities with other departments and agencies in the federal government, in state governments, and in the commercial sectors. Delivered by seasoned experts in the IT field, ATP solutions adeptly address the IT concerns manifesting in both the federal and commercial sectors.<br/><br/><strong>Employee Benefits<br/><br/></strong>The ATP Employee Benefits package includes:<br/><br/><ul><li>A Supportive and Equitable Working Environment that is both Stimulating and Challenging</li><li>Competitive Hourly Salary</li><li>Unique Employee Success Sharing Program that allows ATP employees to Share in Company's Successes</li><li>Automatic Approved Overtime (as long as contract permits)</li><li>Retirement Pay (401K); 100% company paid, immediately vested with Profit-Sharing Component</li><li>Company Medical Coverage Plans - HMO, Open Access, PPO plans</li><li>Company Dental Plan - widely accepted, comprehensive, and flexible</li><li>Progressive Overtime Policy</li><li>Flexible Spending Account benefit</li><li>Lucrative Referral Bonus Policy</li><li>Holiday Scheduling that Coincides with Government Holidays</li><li>Robust Professional Expenses &amp; Training Program</li><li>Computer Allowance</li><li>Internet Allowance</li><li>Short and Long Term Disability</li><li>Life Insurance</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

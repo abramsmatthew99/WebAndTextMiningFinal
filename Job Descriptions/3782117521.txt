@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong> Job Title:</strong> Junior Backend Engineer<br/><br/><strong> Employment Type:</strong> Full-Time<br/><br/><strong> Salary:</strong> $68,000 - $74,000 per annum<br/><br/><strong> Experience Required: </strong> Minimum 1 year of project experience<br/><br/><strong> How to Apply: visit hiremefast.net </strong> to learn more &amp; apply.<br/><br/><strong>About us: </strong>HireMeFast is a leading staffing and recruitment agency specializing in connecting businesses with top-tier talent across various industries. Our mission is to bridge the gap between exceptional candidates and organizations needing their skills, expertise, and unique qualities. Our team of experienced and dedicated recruitment specialists utilizes innovative sourcing strategies, and a vast network to identify and attract top talent. We conduct comprehensive procedures to ensure that only the most qualified candidates are presented to our clients.<br/><br/><strong>Summary:<br/><br/></strong>You will play a key role in implementing new features, optimizing performance, and ensuring the reliability of our applications. This is an excellent opportunity for someone who is passionate about backend development and wants to grow their skills in a dynamic and challenging environment.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with the development team to design, develop, and maintain backend systems that meet the needs of our applications. </li><li>Write clean, maintainable, and efficient code using best practices. </li><li>Implement new features and functionality based on product requirements. </li><li>Optimize backend systems for performance, scalability, and reliability. </li><li>Troubleshoot and resolve software defects and issues on time. </li><li>Collaborate with cross-functional teams to ensure seamless integration between the backend and frontend components. </li><li>Participate in code reviews to maintain code quality and provide constructive feedback. </li><li>Stay up to date with industry trends and technologies related to backend development. <br/><br/></li></ul><strong>Requirements:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Engineering. </li><li>Strong understanding of backend development principles and concepts. </li><li>Proficiency in at least one backend programming language such as Python, Java, or Ruby. </li><li>Familiarity with web frameworks (e.g., Django, Spring, Ruby on Rails). </li><li>Experience with relational databases (e.g., MySQL, PostgreSQL) and writing efficient SQL queries. </li><li>Knowledge of RESTful APIs and experience in building and consuming them. </li><li>Familiarity with version control systems (e.g., Git). </li><li>Strong problem-solving skills and attention to detail. </li><li>Excellent communication and collaboration skills. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Experience with cloud platforms such as AWS, Azure, or Google Cloud. </li><li>Familiarity with NoSQL databases (e.g., MongoDB, Cassandra). </li><li>Understanding of containerization and orchestration technologies (e.g., Docker, Kubernetes). </li><li>Knowledge of CI/CD pipelines and automated testing frameworks. </li><li>Exposure to front-end technologies such as HTML, CSS, and JavaScript. </li><li>Active participation in open-source projects or personal coding projects. <br/><br/></li></ul><strong>Why HireMeFast LLC?<br/><br/></strong>At HireMeFast, we understand that finding the right individuals to join your team is crucial for success and growth of your organization. We are committed to streamlining the hiring process for our clients, ensuring they have access to a diverse pool of highly qualified candidates who are a perfect fit for their specific needs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

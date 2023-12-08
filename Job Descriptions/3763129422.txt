@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>Baasi is committed to making digital communication simpler than ever. Our dedicated team works hard on developing products for seamless and effortless online interactions and aims to create a single platform for all communication needs. In order to achieve our mission, we require a person who can help us enhance our business and ensure maximal efficiency.<br/><br/>We are seeking a motivated and experienced Business Analyst to join our team full-time. As the Business Analyst, you will be responsible for establishing effective communication between our technical and management teams, ensuring that our digital communication platform meets the needs and necessities of our users and aligns with the companys goals and objectives. The ideal candidate should have a strong analytical mindset, excellent communication skills, and a passion for driving product success.<br/><br/>Responsibilities:<br/><br/><ul><li>Collaborate closely with project managers, development teams, and business stakeholders to gather and document detailed requirements for new features, enhancements, and changes to our digital communication platform.</li><li>Continually analyze business processes, user needs, and market trends to identify opportunities for improving our product.</li><li>Create user stories, use cases, process flows, and wireframes to communicate requirements effectively to development teams.</li><li>Ensure clear and effective communication between technical teams and business stakeholders to ensure that development and business processes run smoothly.</li><li>Participate in sprint planning, backlog grooming, and prioritization sessions to ensure that development efforts align with business goals.</li><li>Define and document acceptance criteria for user stories, ensuring that development outcomes meet the specified requirements.</li><li>Perform user acceptance testing (UAT) to validate that developed features meet user needs and function as intended.</li><li>Collaborate with UX/UI designers to ensure user interfaces align with user expectations and business requirements.</li><li>Monitor and report on the progress of development efforts, ensuring that deadlines are met and any issues are addressed.</li><li>Stay updated on market trends, emerging technologies, and best practices in the digital communication industry.<br/><br/><br/></li></ul>Requirements:<br/><br/><ul><li>Bachelor's degree in Business Administration, Computer Science, or a related field. </li><li>Proven experience (4+ years) as a Business Analyst.</li><li>Strong analytical skills and the ability to translate business needs into clear and actionable requirements.</li><li>The ideal candidate should demonstrate advanced skills in creating and interpreting business process diagrams and Unified Modeling Language (UML) representations, translating complex business requirements into clear visual models.</li><li>Demonstrated expertise in understanding and applying Agile principles, particularly within Scrum frameworks, showcasing the ability to collaborate with cross-functional teams and facilitate effective communication to ensure project success.</li><li>Proven experience in evaluating and improving business processes through the implementation of Continuous Improvement (CI) strategies, with a keen understanding of how Continuous Deployment (CD) principles can enhance operational efficiency.</li><li>A solid understanding of DevOps principles and practices, with the ability to collaborate with development and IT teams to streamline workflows, automate processes, and optimize the integration of business systems.</li><li>Excellent communication, collaboration, and stakeholder management skills.</li><li>Proficiency in spoken and written English.</li><li>Proficiency in creating user stories use cases, process flows, and wireframes.</li><li>Experience with agile methodologies and working in cross-functional teams.</li><li>Strong problem-solving skills and attention to detail.</li><li>Ability to understand technical concepts and communicate them to business stakeholders.<br/><br/><br/></li></ul>Desired:<br/><br/><ul><li>Certified Business Analysis Professional (CBAP), Professional in Business Analysis (PMI-PBA), or Certification of Competency in Business Analysis (CCBA).</li><li>Experience in remote work environments or tech startups.</li><li>Masters degree in Business Administration. </li><li>Certifications relevant to business administration or computer science.</li><li>Experience working in the software or technology industry.<br/><br/><br/></li></ul>Benefits:<br/><br/><ul><li>Competitive salary and performance-based incentives.</li><li>Ability to work 100% remotely and a supportive work-from-home policy.</li><li>Comprehensive health insurance coverage (can be limited as it depends on the candidates location).</li><li>Generous vacation and paid time off.</li><li>Professional development opportunities and access to tech events.<br/><br/><br/></li></ul>Application Process:<br/><br/>To apply for the Business Analyst position, please submit your resume and other supporting documents. Shortlisted candidates will be contacted for further interviews.<br/><br/>Please note that we will review all applications within the next month. If you do not receive a follow-up communication within this timeframe, it indicates that your application was not selected for the role at this time. We appreciate your interest in our company and wish you the best in your job search.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

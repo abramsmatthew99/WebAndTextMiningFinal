@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Access opportunities with thousands of US-based companies seeking <strong>Technical Product Managers</strong> via IT Pros, a tech recruitment firm with a decade of experience since 2011.<br/><br/><strong>Work Location</strong>: Hybrid + 100% USA-Remote Work Schedule Options<br/><br/><ul><li>100% USA-Remote</li><li>1-2 Days In-Office</li><li>2-3 Days In-Office</li><li>3-4 Days In-Office</li><li>5 Days In-Office<br/><br/></li></ul><strong>Company Locations</strong>:<br/><br/><ul><li>New York City, New York</li><li>Los Angeles, California</li><li>Chicago, Illinois</li><li>Houston, Texas</li><li>Phoenix, Arizona</li><li>Philadelphia, Pennsylvania</li><li>San Antonio, Texas</li><li>San Diego, California</li><li>Dallas, Texas</li><li>San Jose, California</li><li>Austin, Texas</li><li>Jacksonville, Florida</li><li>San Francisco, California</li><li>Columbus, Ohio</li><li>Indianapolis, Indiana</li><li>Fort Worth, Texas</li><li>Charlotte, North Carolina</li><li>Seattle, Washington</li><li>Denver, Colorado</li><li>Washington, D.C. </li><li>Boston, Massachusetts</li><li>Raleigh-Durham, North Carolina</li><li>Boulder, Colorado</li><li>Portland, Oregon</li><li>Atlanta, Georgia<br/><br/></li></ul><strong>Compensation</strong>: Based on Years of Experience and Accomplishment<br/><br/><ul><li>3-5 Years = $130,000 - $150,000</li><li>6-8 Years = $150,000 to $170,000</li><li>9+ Years = $170,000 to $180,000+<br/><br/></li></ul><strong>Benefits</strong>:<br/><br/><ul><li>Medical, Dental, and Vision Insurance</li><li>Life insurance, Long Term Disability, and Short Term Disability</li><li>Paid Time Off (PTO)</li><li>Plus more... <br/><br/></li></ul>Job Description<br/><br/>Job descriptions for <strong>Technical Product Manager </strong>positions will be provided upon a successful match.<br/><br/><strong>Qualifications<br/><br/></strong>Successful <strong>Technical Product Managers</strong> will meet the following criteria:<br/><br/><ul><li>Must be located and authorized to work in the United States without any work restrictions, now or in the future. </li><li>Must have a Computer Science background. </li><li>Must have a solid work track record of delivering results. </li><li>Must have excellent communication skills. <br/><br/></li></ul>Additional Information<br/><br/>Your application will be reviewed by a real human. Feedback will be provided. Your patience is appreciated. We look forward to having the opportunity to work with you.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Product Management and Marketing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

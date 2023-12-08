@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>POSITION: </strong>Adjunct Instructor, Computer Science<p><br/></p><strong>STATUS:</strong> Part-Time, Exempt<p><br/></p><strong>EFFECTIVE DATE:</strong> ASAP<p><br/></p>MULTIPLE LOCATIONS<strong>:</strong> Hill County Campus, Hillsboro, TX; Johnson County Campus, Cleburne, TX; Burleson Center, Burleson, TX<p><br/></p><strong>QUALIFICATIONS:</strong> Master's degree with at least 18 graduate hours in the teaching discipline is required. Candidates should have the knowledge base on how to teach via new instructional formats (internet, 2-way video, etc.) or be willing to receive training on new formats.<p><br/></p><strong>RESPONSIBILITY: </strong>Adjunct Instructors are responsible for the planning of course materials, preparation of lectures, meeting all scheduled classes, clearly informing students of course requirements and fairly and impartially grading all students in accordance with the standards established by the institution.<p><br/></p><strong>SALARY: </strong> $1,560 per 3 hour course<p><br/></p><strong>SPECIAL INFORMATION: </strong> Face-to-face instruction is preferred.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

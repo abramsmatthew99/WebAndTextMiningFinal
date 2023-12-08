@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Company<br/><br/></strong>It is the leading destination for short-form mobile video. It is the largest Unicorn startup and the leader in short-form video hosting service now.<br/><br/><strong>About The Job<br/><br/></strong>Our mission is to protect personal data and privacy for billions of users on the platform, let users explore, create and connect with each other with trust. In order to meet the privacy requirements continuously, you will focus on improving the quality and stability of product privacy, including building smooth workflow, different types of testing methods, privacy testing framework and governance tools. As a leader, you will build a strong team to reach the business goal, and daily people management. You will have the opportunity to collaborate and manage an offshore team. We look forward to you joining. You will face challenges with global multi-datacenter deployment, high-concurrency micro service, and you will face global cooperation.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Own the entire system testing process, including but not limited to: analysis, design, test plan, monitor, user feedback and conducting defect tracking</li><li> Be able to cultivate a deep understanding of business and technical roadmap, and set clear quality standards in collaboration with other Engineering Managers and corresponding business leaders</li><li> Recommend process, testing methodology, and improve testing tools and framework</li><li> Provide technical guidance to team members and enhance technical capabilities</li><li> Introduce new techniques and methods to improve team productivity</li><li> Work closely with cross-function teams in the early stage of product developmentlifecycle, to define test strategy, test plans and test coverage</li><li> Help solve engineering problems and contribute to creative solutions<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li> Bachelor's degree in Computer Science or other relevant majors</li><li> 8+years experience in delivering high quality products, facilitating automation<br/><br/></li></ul>tests and monitoring.<br/><br/><ul><li> Experience managing people, whether as direct reports or through offshore teams<br/><br/></li></ul>or projects.<br/><br/><ul><li> Ability to deal with multiple priorities and work in a fast-paced environment</li><li> Willing to learn and passionate about helping team members grow</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

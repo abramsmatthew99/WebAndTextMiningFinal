@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Overview<br/><br/></strong>Hamilton Medical was founded with a vision: To develop intelligent ventilation solutions that make life safer for patients in critical care and easier for the people who care for them. Today, Hamilton Medical is a leading manufacturer of critical care ventilation solutions for a wide variety of patient populations, applications, and environments.<br/><br/><strong>Responsibilities<br/><br/></strong>The IT Specialist for Hamilton Medical will provide technical assistance and support to end users regarding applications, computers, and peripherals as well as manage IT projects and prepare IT-related standard operating procedures.<br/><br/><ul><li> Provide Tier 1 and Tier 2 support for incoming queries and issues related to systems and networking. </li><li> Provide exceptional IT service to all Hamilton Medical employees and resolve their support needs. </li><li> P rioritize workflow between external and internal employee requests. </li><li> Maintain appropriate documentation in all IT systems. </li><li> Develop and document solutions by developing standard operating procedures (SOPs). </li><li> Communicate complicated computer problems to Tier 3 IT Support. </li><li> Collaborate productively as appropriate with other members of the IT team. </li><li> Coach computer users on topics associated with their computer problems. </li><li> Manage and drive completion of IT projects for the company. Provide regular progress updates to leadership and project stakeholders. </li><li> Configure, install, modify, and maintain computers, laptops, and peripherals. </li><li> Utilize software/hardware tools to help diagnose computer problems. </li><li> Connect PCs to Local Area Networks (LAN) and resolve network-related issues. </li><li> Oversee administration of user accounts in Active Directory, Azure, and other systems. </li><li> Maintain an organized inventory of IT hardware. Coordinate with the purchasing and management team to keep appropriate stocks of supplies. </li><li> Perform onboarding and off-boarding of new or existing employees. </li><li> Other duties as assigned. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Strong interpersonal skills, pleasant demeanor, and the ability to work harmoniously with users at all levels. </li><li> Thorough understanding of computer hardware, software, peripherals, and current computer technology and trends. </li><li> General knowledge of network domains, VLANs, Active Directory, Azure AD, login procedures, and web browser settings. </li><li> General Knowledge of ERPs and manufacturing processes. </li><li> Ability to analyze problems, develop alternatives, and take appropriate steps toward a solution. </li><li> Capable of working with multiple systems in tandem and multitasking. </li><li> Ability to work quickly and efficiently under pressure. </li><li> Strong data management, accuracy, and eye for detail skills. <br/><br/></li></ul><strong>Education/Experience<br/><br/></strong><ul><li> Four-year degree in computer information systems or computer science is preferred. </li><li> Minimum of five years of experience in information technology required. </li><li> Current information technology certifications preferred. </li><li> Excellent verbal and written communication skills are required. </li><li> Experience in managing IT projects required. <br/><br/></li></ul><strong>Additional Information<br/><br/></strong><ul><li> Anticipated salary range for this non-exempt positon is $75,000 - $95,000/year. </li><li> Diverse portfolio of exciting and innovative design projects. </li><li> Tremendous opportunities for professional growth. </li><li> Commitment to sustainable design. </li><li> Competitive compensation. </li><li> Excellent benefit package includes medical, dental, vision insurance, paid vacation time, paid sick time, disability insurance, 401k, tuition reimbursement and more. </li><li> Solid stable company. </li><li> Must pass drug and background screens. </li><li> May be required to wear Personal Protective Equipment (provided by employer). <br/><br/></li></ul><strong> Mid Salary <br/><br/></strong>USD $85,000.00/Yr.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Biotechnology
+          </span>
+</li>
+</ul>
+</div>
+</section>

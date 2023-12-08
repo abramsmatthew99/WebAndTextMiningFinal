@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Role<br/><br/></strong>Location: Cambridge, MA<br/><br/>About this role:<br/><br/>250 genomics research projects every year are waiting for your data processing and analysis expertise!<br/><br/>The department of Discovery Sciences is looking for a highly motivated bioinformatician with expertise in the processing and analysis of sequencing data to support innovative drug discovery efforts. You will have the opportunity to work in a matrix team consisting of data analysts, members of a central sequencing facility, and disease area biologists. As a member of the data science community, you will also benefit from a global community of more than 200 experts with extensive knowledge and resources in data analysis, data engineering and machine learning.<br/><br/>Your Responsibilities Include:<br/><br/><ul><li> Processing, quality control, and statistical analysis of sequencing data sets such as bulk RNASeq, single-cell and spatial transcriptomics, epigenetics, amplicon sequencing, CRISPR screens, whole-genome sequencing, long-read technologies</li><li> Maintenance and automation of various data workflows to provide complete IT solutions</li><li> Support projects with sequencing data expertise in diverse scientific fields such as gene and cell therapy, target discovery, genetics, drug safety, compound screening, etc.</li><li> Development of processing strategies for new types of data by combining existing public and commercial tools with innovative solutions</li><li> Translation of data into biological knowledge, presentation and discussion of results in project team meetings and planning of new experiments with partners such as disease area biologists and bioinformaticians</li><li> Close collaboration in a team of data analysts, computer scientists and sequencing experts, contribution to shaping and implementing our digital strategy and scientific processes<br/><br/><br/><br/></li></ul>The pay range for this position at commencement of employment is expected to be between $130,400 and $195,600 per year; however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.<br/><br/><strong>EEO Statement<br/><br/></strong><em> We are Equal Opportunity Employers and take pride in maintaining a diverse environment. We do not discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, gender identity or expression, marital or veteran status, disability, or any other legally protected status. We are committed to building diverse teams, representative of the patients and communities we serve, and we strive to create an inclusive workplace that cultivates bold innovation through collaboration and empowers our people to unleash their full potential.<br/><br/></em><strong>Accessibility and Reasonable Accommodations:</strong> Individuals in need of a reasonable accommodation due to a medical condition or disability for any part of the application process, or to perform the essential functions of a position, please let us know the nature of your request, your contact information and the job requisition number in your message:<br/><br/><ul><li>Novartis: e-mail us.reasonableaccommodations@novartis.com or call +1 (877)395-2339</li><li>Sandoz: e-mail reasonable.accommodations@sandoz.com or call: +1-609-422-4098<br/><br/><br/><br/></li></ul><strong>Role Requirements<br/><br/></strong>What you’ll bring to the role:<br/><br/><ul><li> Scientific background with a PhD degree in bioinformatics, computer science, computational biology, statistics, mathematics, physics, or related field, or an MS degree and 3+ years of related industry experience</li><li> Experience in the processing and analysis of next generation sequencing data</li><li> Demonstrated coding ability in Python, R/Bioconductor, Bash, Java, SQL, etc.</li><li> Familiarity with Unix and high-performance computing environments</li><li> Knowledge of fundamental concepts in molecular biology, cellular biology, statistics, and bioinformatics including biological databases and web tools</li><li> Expertise in statistical data analysis and machine learning, complemented by strong visualization and presentation skills</li><li> Team working ability, learning agility, scientific curiosity with a problem-solving mindset, organizational skills and an enthusiastic, collaborative spirit</li><li> Excellent communication and interpersonal skills to translate biologist/project team’s scientific questions into analytical strategies and methods</li><li> Fluency in English (oral and written)<br/><br/><br/><br/></li></ul>Desirable Requirements:<br/><br/><ul><li> Hands-on experience with Pacbio and Oxford Nanopore data and projects</li><li> Experience with other types of Omics data and data integration</li><li> Deep learning expertise</li><li> Cloud computing experience such as AWS</li><li> Web-based deployment of models and results (shiny, rest, flask, js)<br/><br/><br/><br/></li></ul>Why Novartis: Our purpose is to reimagine medicine to improve and extend people’s lives and our vision is to become the most valued and trusted medicines company in the world. How can we achieve this? With our people. It is our associates that drive us each day to reach our ambitions. Be a part of this mission and join us! Learn more here: https://www.novartis.com/about/strategy/people-and-culture<br/><br/>You’ll receive: You can find everything you need to know about our benefits and rewards in the Novartis Life Handbook: https://www.novartis.com/careers/benefits-rewards<br/><br/>Commitment to Diversity and Inclusion / EEO:<br/><br/>The Novartis Group of Companies are Equal Opportunity Employers and take pride in maintaining a diverse environment. We do not discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, gender identity or expression, marital or veteran status, disability, or any other legally protected status. We are committed to building diverse teams, representative of the patients and communities we serve, and we strive to create an inclusive workplace that cultivates bold innovation through collaboration and empowers our people to unleash their full potential.<br/><br/>Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to hear more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network<br/><br/><strong>Division<br/><br/></strong>Novartis Institutes for BioMedical Research<br/><br/><strong>Business Unit<br/><br/></strong>DSc<br/><br/><strong>Work Location<br/><br/></strong>Cambridge, MA<br/><br/><strong>Company/Legal Entity<br/><br/></strong>NIBRI<br/><br/><strong>Functional Area<br/><br/></strong>Data Science<br/><br/><strong>Job Type<br/><br/></strong>Full Time<br/><br/><strong>Employment Type<br/><br/></strong>Regular<br/><br/><strong>Shift Work<br/><br/></strong>No<br/><br/><strong>Early Talent<br/><br/></strong>No
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

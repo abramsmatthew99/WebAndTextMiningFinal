@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Onsite hybrid role, must be local<br/><br/></strong><strong>Need Valid LinkedIn<br/><br/></strong><strong>Need GC Copy (Front + Back) and Photo ID for USC ( no info must be hidden/blacked out as they wont be considered)<br/><br/></strong><strong>Possible CTH role<br/><br/></strong><strong>Must Have<br/><br/></strong><ul><li>“Applying the latest techniques and approaches across the domains of data science, machine learning, and AI isn’t just a nice to have, it’s a must.”</li><li>Python, SQL, PySpark, Docker</li><li>DevOps and CI/CD concepts</li><li>AWS cloud services </li><li>5+ years of implementing software product solutions in a cloud environment with a focus on algorithmic/machine learning products<br/><br/></li></ul><strong>Duties And Responsibilities<br/><br/></strong><ul><li>Partner with data scientists to design workflows/architectures that activate ML models and maximize their impact, such as real-time streaming use-cases and offline batch optimizations.</li><li>Partner with data scientists to develop prototype solutions of algorithmic products leveraging appropriate AWS services with appropriate consideration for scale and latency where applicable.</li><li>Implement and productionize final solutions via infrastructure-as-code pattern.</li><li>Implement data processing workflows to enhance our Feature Store with impactful data including appropriate data cleansing/imputation logic.</li><li>Enhance existing algorithmic products architecture/workflow as needed to maximize impact of the algorithmic product.</li><li>Partner with data engineering team to ensure data science data needs are being delivered in the appropriate format/cadence required for maximum impact.</li><li>Stay up to date with latest design patterns and AWS services with respect to Machine Learning Engineering.</li><li>Partner with data architecture, data governance, and security team to ensure solutions meet required standards.</li><li>The ideal candidate demonstrates a commitment to Hyatt core values: respect, integrity, humility, empathy, creativity, and fun.<br/><br/></li></ul><strong>Experience And Qualifications<br/><br/></strong><ul><li>5+ years of implementing software product solutions in a cloud environment with a focus on algorithmic/machine learning products, hospitality experience not required</li><li>Expertise in AWS cloud services</li><li>Expertise in Python, SQL, PySpark, Docker</li><li>Experience with streaming and batch data architectures at scale</li><li>Experience operating in an Agile Methodology environment.</li><li>Experience with DevOps and CI/CD concepts</li><li>Excellent communication and teamwork skills</li><li>Position will not require customer-facing interactions.<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li>Master’s degree in computer science, software engineering, or related fields required</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitality
+          </span>
+</li>
+</ul>
+</div>
+</section>

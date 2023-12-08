@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong><strong>Job Description<br/><br/></strong></strong>Community Health Systems is one of the nation’s leading healthcare providers. Developing and operating healthcare delivery systems in 43 distinct markets across 15 states, CHS is committed to helping people get well and live healthier. CHS operates 76 acute-care hospitals and more than 1,000 other sites of care, including physician practices, urgent care centers, freestanding emergency departments, occupational medicine clinics, imaging centers, cancer centers and ambulatory surgery centers.<br/><br/><strong><strong>Summary:<br/><br/></strong></strong>As a member of the Identity &amp; Access Management Team, the Cyber Security Engineer Sr will be responsible for engineering new processes and integrations within IAM space. This will include Identity Management lifecycle, Access Governance, Federation, Multifactor Authentication and Privileged Account Management technologies. The Cyber Security Engineer Sr will also provide engineering level support to operational support teams, troubleshooting incidents to determine root causes, analyzing processes to resolve problems and suggest improvements, working independently and efficiently while also collaborating with team members, and communicating with customers and co-workers in a clear, professional manner. Additionally the Cyber Security Engineer Sr will be involved in all new application or application conversion deployments.<br/><br/><strong><strong>Essential Duties And Responsibilities<br/><br/></strong></strong><ul><li>Manage, maintain, and support the Identity &amp; Access Management technologies. This includes installations, upgrades, troubleshooting, and 3rd level support.</li><li>Creation, management, and support of roles based access for the applications integrated to the Identity Management System</li><li> Creation, management, and support of provisioning workflows in the Identity Management System.</li><li> Involvement in custom application connectors including requirements gathering, design, development, and implementation</li><li> Contribute to team efforts related to Federated SSO, Multifactor Authentication, Active Directory integrations and Privileged Access management.</li><li> Create easily understood, useful documentation for processes and solutions to be used by team members and end users.</li><li> Identify problems or inefficiencies in current processes and suggest modifications.</li><li> Strong ability to work on and prioritize multiple, concurrent projects while meeting aggressive deadlines in a fast-paced environment.</li><li>Strategic Skills:</li><li> Innovation, Problem Solving, and Critical Thinking Skills</li><li> Ability to work collaboratively to identify and solve problems</li><li> Great attitude, including a sense of ownership over the space</li><li> Effective communicator, including technical documentation<br/><br/></li></ul><strong>Business And Soft Skill Expectations:<br/><br/></strong><ul><li> Communicate and interact effectively and professionally with co-workers, management, customers, etc.</li><li> Maintain complete confidentiality of company business.</li><li> Communicate with management regarding development within areas of assigned responsibilities and perform special projects as required or requested.<br/><br/></li></ul><strong><strong>Qualifications<br/><br/></strong></strong><ul><li>Required Education: High School diploma</li><li>Preferred Education: Bachelor’s or Master’s Degree in Cyber Security, Computer Science, Information Systems (or other related field), or equivalent work experience.</li><li>Required Experience: Duration: 3+ years of IT or information security<br/><br/></li></ul><strong>Activities:<br/><br/></strong><ul><li> Provided support to end users in a corporate information technology or information security environment.</li><li> Designed and implemented novel solutions to complex problems.<br/><br/></li></ul><strong>Competencies:<br/><br/></strong><ul><li> Strong problem solving and troubleshooting abilities.</li><li> Effective communication of technical concepts to a non-technical audience</li><li> Excellent written and verbal communication skills</li><li> Good time management and prioritization capabilities.</li><li> Motivation for growth and self-improvement.</li><li> Ability and desire to do thorough, high-quality work.<br/><br/></li></ul><strong>Competencies:<br/><br/></strong><ul><li> Experience with automation.<br/><br/></li></ul><strong>Technologies:<br/><br/></strong><ul><li>Identity Governance &amp; Administration</li><li> Active Directory</li><li>MFA</li><li>SFTP</li><li>AS400</li><li>Health Management Systems</li><li>Service Now</li><li>GoAnywhere</li><li>Ping Identity / SSO</li><li>Microsoft Windows, Google workspace, Oracle<br/><br/></li></ul><strong>Preferred License/Registration/Certification:<br/><br/></strong><ul><li>Security+</li><li>GSEC</li><li>SSCP</li><li>Any ITIL Certifications<br/><br/></li></ul><strong>Computer Skills Required:<br/><br/></strong><ul><li>? Significant experience working in a Windows environment</li><li>? Python, Powershell, Microsoft SQL, and various other cybersecurity or IT tools are a plus<br/><br/></li></ul><strong><strong>Physical Demands:<br/><br/></strong></strong>In order to successfully perform this job, with or without a reasonable accommodation, the following are outlined below:<br/><br/><ul><li> The Employee is required to read, review, prepare and analyze written data and figures, using a PC or similar, and should possess visual acuity.</li><li>The Employee may be required to occasionally climb, push, stand, walk, reach, grasp, kneel, stoop, and/or perform repetitive motions.</li><li>The Employee is not substantially exposed to adverse environmental conditions and; therefore, job functions are typically performed under conditions such as those found within general office or administrative work.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

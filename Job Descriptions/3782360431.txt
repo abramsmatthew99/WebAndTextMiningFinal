@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Responsibilities:</strong></p><ul><li>The BI Principal Software Engineer is a key leader within the Information &amp; Analytics Department. This role will be responsible for ensuring that our software development projects serve the departmental goal of transforming performance through data intelligence. The ideal candidate for this position will have 10+ years of software engineering experience. They will have a passion for the revolution of the K-12 educational system. They will be leading and designing the technical solutions that will transform how our school system performs. This is a strategic role which will consistently evaluate the actions, decisions, and projects that yield the most value. The position has high levels of autonomy and authority to move quickly and efficiently. The individual will work closely with the business intelligence team and executives to understand high level objectives and use their expertise to propose and design solutions that address high level objectives. The selected individual will work out of the Service Center in Grand Rapids, Michigan. Hybrid Schedule - Developers are typically 2 days per week in the office.</li><li><br/></li><li><br/></li><li><strong>DUTIES AND RESPONSIBILITIES:</strong></li><li><strong>Software Development:</strong> Design, develop, and maintain complex software, ensuring high performance, scalability, and security. Software will be for internal use, commercial use, and for deployment on mobile devices.</li><li><strong>Architecture and Design: </strong>Collaborate with cross-functional teams to architect and design software solutions that align with business goals and industry best practices.</li><li><strong>Coding and Debugging: </strong>Write clean, efficient, and maintainable code while debugging and resolving complex technical issues. Be responsible for creating practices and processes that will be followed by the team.</li><li><strong>Code Reviews: </strong>Run code reviews to maintain quality, promote coding standards, and mentor team members.</li><li><strong>Technical Leadership: </strong>Provide technical leadership and guidance to the development team, making critical decisions on technology stack, frameworks, and tools. Conduct trainings and retrospectives for the team.</li><li><strong>Performance Optimization:</strong> Identify and implement optimizations to enhance the performance and efficiency of existing software systems.</li><li><strong>Research and Conventions:</strong> Stay updated with industry trends, emerging technologies, and best practices to drive innovation within the team and organization.</li><li><strong>Maintenance strategy: </strong>Plan and execute the supporting, upgrading, and maintaining the of the numerous systems owned by our department.</li><li><strong>UI/UX design:</strong> Design and create a commercial grade</li><li><strong>UI/UX Innovation:</strong> Create novel solutions for unique situations. Not all projects will have comparable solution to model after. Innovation will be required.</li><li><br/></li><li><strong>QUALIFICATIONS:</strong></li><li>Bachelor's or Master's degree in Computer Science, Software Engineering, or related field, preferred.</li><li>10+ years of experience as a software developer, with a strong portfolio of projects demonstrating expertise.</li><li>10+ years of experience with database design and SQL.</li><li>Proficiency in multiple programming languages, such as C#, Python, C++, Ruby, PHP or others.</li><li>In-depth knowledge of software development methodologies, design patterns, and best practices.</li><li>Strong problem-solving and debugging skills.</li><li>Familiarity with modern software development tools, version control systems, and continuous integration/continuous delivery (CI/CD) pipelines.</li><li>Experience creating software for commercial sale and use, preferred.</li><li>Experience as a consultant, freelancer, or entrepreneur, preferred.</li><li>Excellent communication and teamwork skills. Leadership and mentoring abilities.</li><li>Experience with cloud computing platforms (Azure, AWS, Google Cloud).</li><li>Knowledge of containerization and orchestration technologies (e.g., Docker, Kubernetes).</li></ul><li></li>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong> IT Support Technician <br/><br/></strong>12/05/2023<br/><br/><strong>Position Type/Hours<br/><br/></strong>Full-time Exempt position. Office hours are Monday through Friday, 8:00 a.m. to 4:30 p.m. and must be available for occasional after hours and on-call assignments.<br/><br/><strong>Position Purpose<br/><br/></strong>This position is responsible for providing technical assistance and support related to computer systems, software, and hardware. Assist computer users with setup, maintenance, troubleshooting and problems they have with their computers or other applicable systems, both in-person technical support and assist customers remote.<br/><br/><strong>Essential Functions<br/><br/></strong><ul><li> Builds or configures new hardware, installs, and updates software packages. </li><li> Installs and maintains peripheral devices including printers, hubs, routers, and other equipment. </li><li> Arranges service by software or hardware vendors to repair or replace defective products. </li><li> Communicates with end users to understand and troubleshoot problems. </li><li> Maintains email and intranet services, adding and removing users and accounts. </li><li> Assists with IS-related projects and tasks to ensure completion within specifications, on time, and within budget. </li><li> Conducts periodic diagnostics and testing to ensure optimal network function and minimal downtime. </li><li> Provides maintenance and updates to the organizations voice and data networks, troubleshooting and analyzing hardware, software, and peripheral issues. </li><li> Maintains knowledge of technology innovations and trends. </li><li> Assists with the installation and maintenance of IT systems, hardware, and software. </li><li> Educates staff and end users on proper function and use of equipment. </li><li> Maintains documentation according to standards and security best-practices. </li><li> Set up new employees with computer, phone system, and applicable software required to perform the functions of their job. <br/><br/></li></ul><strong>Other Duties<br/><br/></strong>This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.<br/><br/><strong>Education And Experience<br/><br/></strong><ul><li> Bachelor’s degree in computer science or a combination of education and experience providing equivalent knowledge. </li><li> Understanding of technology, software, hardware, and networking concepts. </li><li> Advanced Microsoft Office 365 knowledge. </li><li> Advanced IT security knowledge. </li><li> Advanced networking and Firewall knowledge. </li><li> Familiar with Microsoft server environments. </li><li> Proficient with or able to quickly learn the software and applications used in the organization and the industry. <br/><br/></li></ul><strong>Competencies<br/><br/></strong><ul><li> Positive Teamwork Orientation </li><li> Customer/Client Focus </li><li> Problem Solving/Analysis </li><li> Technical Capacity </li><li> Communication Proficiency (Verbal and Written) <br/><br/></li></ul><strong> Position Type, Work Environment &amp; Travel <br/><br/></strong><ul><li> Full time, Exempt </li><li> Normal office environment </li><li> Travel less than 10% <br/><br/></li></ul><strong>Physical Demands<br/><br/></strong>While performing the duties of this job, the employee is regularly required to sit. The employee frequently is required to walk; use hands to finger, handle or feel; reach with hands and arms; and talk or hear. The employee is occasionally required to stand. The employee must frequently lift or move objects up to 10 pounds and occasionally lift or move objects up to 25 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision and ability to adjust focus.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

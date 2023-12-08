@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG’s shares trade on the Tokyo, Nagoya, and New York (NYSE: SMFG) stock exchanges.<br/><br/>In the Americas, SMBC Group has a presence in the US, Canada, Mexico, Brazil, Chile, Colombia, and Peru. Backed by the capital strength of SMBC Group and the value of its relationships in Asia, the Group offers a range of commercial and investment banking services to its corporate, institutional, and municipal clients. It connects a diverse client base to local markets and the organization’s extensive global network. The Group’s operating companies in the Americas include Sumitomo Mitsui Banking Corp. (SMBC), SMBC Nikko Securities America, Inc., SMBC Capital Markets, Inc., SMBC Rail Services LLC, Manufacturers Bank, JRI America, Inc., SMBC Leasing and Finance, Inc., Banco Sumitomo Mitsui Brasileiro S.A., and Sumitomo Mitsui Finance and Leasing Co., Ltd.<br/><br/>Role Description<br/><br/>SMBC is in process of leading a Digital Transformation across our Americas Division as we continue to modernize our technology, focus on our data driven approach, grow and plan for the future. As a result of this expansion we are seeking an experienced Quality Assurance Sprint Developer to join our Nikko Securities Technology team.<br/><br/>Reporting to the Engineering Team Lead, this person will be a key member to provide quality assurance testing to ensure any business-requested changes are validated prior to handing off to UAT. This person will learn the business as well as understand the testing framework and processes for our applications. Required to draw on testing knowledge in order to creatively develop solutions for automating test processes as well as design maintenance procedures and documentation. Within this team, there is an open and collaborative approach to work on solutions for applications and workflow processes. Additionally, this person will be required to automate any repetitive steps in a workflow process or application in order to provide the highest quality for our technology and business and will be required to meet those standards and prove your ability to provide the best test capabilities.<br/><br/>Role Objectives<br/><br/><ul><li>Review user stories planned for the spring and provides user point estimation during sprint planning.</li><li>Design manual test cases and creates automation scripts for in-sprint testing.</li><li>Execute test cases either manually or using automation test tool during In-sprint testing.</li><li>Review test coverage and ensures traceability of test cases to the business requirements.</li><li>Perform impact assessment of all business requirements and any change to business requirements.</li><li>Maintain applicable test artifacts (Test plan, test cases, test data automation scripts) per the business requirements or change requests.</li><li>Provide in-sprint testing progress to the functional test lead and escalate any issues/risks.<br/><br/></li></ul><strong>Qualifications And Skills<br/><br/></strong><ul><li>Strong knowledge and coding experience in Python/Java to automate test cases for post trade back office and trade flow.</li><li>Strong hands-on experience in building test automation framework and developing automation scripts using Python or Java</li><li>3-5 years of experience in application development/automation framework development using Python / Java</li><li>5-7 years of working knowledge and ability to develop test automation script for post trade data lineage.</li><li>Strong knowledge and coding experience in Python/Java to automate test cases for post trade back office and trade flow.</li><li>Strong hands-on experience in building test automation framework and developing automation scripts using Python or Java</li><li>2-3 years of professional experience of implementing PyUnit, Junit or Unit test automation would be plus.</li><li>3 years of professional experience working with data sets, writing scripts and SQL</li><li>Desire to understand Financial / Banking domain.</li><li>Degree in Computer Science, Mathematics, Engineering or comparable discipline is desirable.</li><li>Ability to understand complex data flows between various internal and external applications.</li><li>Having knowledge in Investment Banking Back Office is a plus.</li><li>Should have thorough knowledge in Fixed Income Trade life cycle.<br/><br/></li></ul><strong>Additional Requirements<br/><br/></strong>SMBC’s employees participate in a hybrid workforce model that provides employees with an opportunity to work from home, as well as, from an SMBC office. SMBC requires that employees live within a reasonable commuting distance of their office location. Prospective candidates will learn more about their specific hybrid work schedule during their interview process.<br/><br/>We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status or any other characteristic protected by law. SMBC provides reasonable accommodations for employees and applicants with disabilities consistent with applicable law. If you need a reasonable accommodation during the application process, please let us know at accommodations@smbcgroup.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Banking, and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

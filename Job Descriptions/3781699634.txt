@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Brief<br/><br/></strong>Software Engineer<br/><br/>Infoscitex, a DCS Company, is seeking a Software Engineer to support various software engineering efforts. Are you interested in working in a high-tech company on cutting edge technology to help solve national security problems? Do you want to be challenged every day supporting world class research and development? If so, Infoscitex may be the place for you! A DCS company, Infoscitex is an employee-owned organization known for creating agile technology solutions across the U.S. Defense, Aerospace, Human Factors, and Security markets.<br/><br/>As a member of our team, you will support defense technologies along with research and development in Dayton, OH, having opportunities to work in a dynamic environment, with state-of-the-art simulation technologies, unique data processing software suites, and experienced military Subject Matter Experts (SME). This position will focus on supporting the research, development, evaluation, and deployment of software that directly supports the warfighter and Department of Defense (DoD) decision makers.<br/><br/><strong>Essential Job Functions<br/><br/></strong>Work directly with DoD stakeholders and the operational community to understand pain points and mission needs.<br/><br/>Conduct data analysis and develop visualizations in support of problem understanding, prototype development, and research studies.<br/><br/>Contribute to the full cycle of the software development process from user story development to prototyping through secure deployment of software to address pressing user needs.<br/><br/>Support analysis and debugging of developmental and production software.<br/><br/>Support the development and deployment of containerized microservices to integrate into larger systems and programs.<br/><br/>Support modeling and simulation activities to help inform decision makers.<br/><br/>Develop test plans, procedures, and organize resources to facilitate testing of advanced technologies and support research studies.<br/><br/>Document test activities, including writing test reports, analyzing test data, and making recommendations to the engineering team.<br/><br/>Ability to work independently and with a broader engineering team.<br/><br/><strong>Requirements<br/><br/></strong>Due to the sensitivity of customer related requirements, U.S. Citizenship is required.<br/><br/>At least a BS degree in with a STEM major, and five years of related experience.<br/><br/>Applicants selected will be subject to a U.S. Government background investigation and must meet eligibility requirements for access to classified information: ability to attain a Secret level U.S. DoD security clearance.<br/><br/>Proficiency developing software or services using Python.<br/><br/>Knowledge of modeling, simulation, and analysis environments (live, virtual, and/or constructive). Experience using AFSIM preferred.<br/><br/>Possession of excellent English oral and written communication skills.<br/><br/>Ability to work well in team environments.<br/><br/>Ability to travel, as required.<br/><br/><strong>Desired Attributes<br/><br/></strong>Master’s Degree in Computer Science or related field.<br/><br/>Experience with sensors and sensor modeling.<br/><br/>Experience with developing, deploying, and integrating software as micro-services.<br/><br/>5+ years of professional development experience.<br/><br/>Familiar with GitLab.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense &amp; Space
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Jobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position is open to candidates who reside in and have the legal right to work in the country where the job is located.<br/><br/>Company Name: Capital One<br/><br/><strong>Job Description<br/><br/></strong>Title: Technical Support Specialist - Join Our Inclusive Team! Location: 299 Park Avenue (22957), New York, NY, United States Description: We are seeking a Technical Support Specialist to provide exceptional onsite customer support for our diverse and growing business group of 1000+ employees across multiple divisions. This role will also support our remote workforce. Your main responsibilities will include laptop support, software and hardware troubleshooting, and delivering top-notch customer service. You will work with a mix of Windows PCs, Macs, and Mobile Devices. Basic Qualifications: - High School Diploma, GED, or equivalent certification. - At least 1 year of experience in remote administration and end user support. - Familiarity with ticketing and traffic reporting tools (Zendesk, HPSM, ServiceNow). Preferred Qualifications: - Associate’s Degree in Business, Information Systems, Computer Science, or Military experience. - Experience with Active Directory services integration. - Knowledge of process management functions (change, incident, problem) and implementation. - Apple certification(s). - Experience with virtualization technologies (VMWare tools). - Experience with macOS Server administration. - Familiarity with platform management and integration tools (JAMF Casper Suite or SCCM). - Proficiency in productivity tools on Mac (MS Office, Lync or Skype). - Experience in supporting a large number of end users on Mac. - Experience with image deployment, software and system testing, and encryption and security tools (McAfee) on Windows and macOS. Salary Information (New York City - Hybrid On-Site): - Principal Coordinator, Support Operations: $71,400 - $81,500 (full-time annual salary). Note: Part-time roles will have salaries prorated based on agreed upon hours. At Capital One, we offer a comprehensive and inclusive benefits package that supports your overall well-being. Learn more at our Careers website. Eligibility varies based on employment status. We are an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other prohibited basis under applicable laws. If you visited our website seeking employment information or to apply, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information provided will remain confidential and will only be used to provide necessary accommodations. For technical support or questions about our recruiting process, please email Careers@capitalone.com. Please note that any positions posted outside of the United States are specific to the respective country. No agencies, please.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong><u>Position Summary<br/><br/></u></strong>The position has an initial three-year appointment, and offers a competitive salary. The successful candidate will teach a range of undergraduate courses leading to a Bachelor's degree in Computer Science and will pursue a research program that engages advanced undergraduates in the discovery process.<br/><br/><strong><u>Experience &amp; Educational Background<br/><br/></u></strong>Ph.D. in Computer Science<br/><br/><strong><u>Skills &amp; Competencies<br/></u></strong><ul><li>Proven teaching and dynamic communication skills</li><li>Demonstrated ability to mentor and inspire undergraduate students</li><li>Research or advanced industrial experience in algorithms, computational biology, security &amp; privacy, network science, or AI<br/></li></ul><strong><u>Application Instructions<br/><br/></u></strong>Applicants should submit their CV and a PDF which includes a cover letter and three letters of recommendation. Any questions should be directed to Alan Broder at alan.broder@yu.edu.<br/><br/><strong><u>Salary Range<br/><br/></u></strong>$65,000-$160,000<br/><br/><strong><u>About Us<br/><br/></u></strong>Founded in 1886, Yeshiva University (YU) has a strong tradition of combining Jewish scholarship with academic excellence and achievement in the liberal arts, sciences, medicine, law, business, social work, Jewish studies, education, psychology, and more.<br/><br/>We are a leading global educational institution that employs 2,000 people across our various campus locations -- Wilf Campus, Beren Campus, Brookdale Center, Resnick Campus in the Bronx, the Gruss Institute in Jerusalem, the Boys High School in Manhattan and the Girls High School in Queens. From the distinguished faculty who teach here, to the dedicated staff, we work to fulfill our mission through all that we teach, by all that we do and for all those we serve. We seek to attract and retain engaged and committed individuals who contribute to an exciting working environment, where there is a sense of community and belonging, balanced with a significant cross section of people from diverse backgrounds working and studying together.<br/><br/>The University offers an excellent compensation package, and a broad range of employee benefit plans, including immediate participation in the University’s retirement plan. Staff members are typically eligible for four weeks paid vacation each year and have access to a shuttle to nearby subway locations.<br/><br/><strong><u>Equal Employment Opportunity<br/><br/></u></strong>Yeshiva University is an equal opportunity employer committed to hiring minorities, women, individuals with disabilities and protected veterans.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position Overview<br/><br/></strong>Join our dynamic team at America’s Test Kitchen, a forward-thinking food media company dedicated to connecting consumers with premium food content. We are actively seeking a talented Full Stack Software Engineer to contribute to the development of robust and innovative web applications. This position will work on a tight cross-functional team that includes Product Design, Quality Assurance, and Engineering on defined initiatives that solve our most important business problems.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Resolve moderately complex issues following guidance and best practices proposed by peers, leveraging a variety of professional concepts and experience</li><li>Follow standard practices in analyzing situations or data where answers may not be easily obtained</li><li>Receive detailed direction for most work by managers and product managers</li><li>Collaborate with cross-functional teams to design, develop, and maintain end-to-end solutions using React, TypeScript, JavaScript, and other server-side technologies</li><li>Highlight issues within systems to be further addressed</li><li>Support architecture and implementation of scalable content management systems (CMS) to streamline content creation, editing, and publishing processes.</li><li>Develop and maintain RESTful APIs to support seamless communication between the frontend and backend systems</li><li>Work on database design and optimization, particularly with PostgreSQL</li><li>Leverage expertise in React Native to contribute to our mobile app</li><li>Help Determine solutions based on product goals of multiple stakeholders</li><li>Participate in code reviews, provide constructive feedback, and contribute to the overall improvement of development processes<br/><br/></li></ul><strong>Skills You’ll Need<br/><br/></strong><ul><li>Proven experience as a Full Stack Software Engineer with a strong proficiency in React, TypeScript, JavaScript, and Content Management System architectures</li><li>Solid understanding of backend technologies, with experience in both SQL and NoSQL databases, RESTful API development, and documentation</li><li>Familiarity with React Native</li><li>Detail oriented, following coding standards, best practices, and methodologies</li><li>Exposure to server-side technologies, particularly Ruby, is a plus</li><li>Strong problem-solving skills and attention to detail</li><li>Excellent communication and collaboration skills</li><li>Demonstration of resiliency, empathy, adaptability, presence, innovation, humility, and navigating complexities</li><li>In-depth knowledge and experience working with agile development principles and processes</li><li>Bachelor's degree in Computer Science, related field, or equivalent work experience<br/><br/></li></ul><strong>About America’s Test Kitchen<br/><br/></strong>The mission of America’s Test Kitchen (ATK) is to empower and inspire confidence, community, and creativity in the kitchen. Founded in 1992, the company is the leading multimedia cooking resource serving millions of fans with TV shows (America’s Test Kitchen, Cook's Country, and America’s Test Kitchen: The Next Generation), magazines (Cook’s Illustrated and Cook’s Country), cookbooks, a podcast (Proof), FAST channels, short-form video series, and the ATK All-Access subscription for digital content. Based in a state-of-the-art 15,000-square-foot test kitchen in Boston’s Seaport District, ATK has earned the trust of home cooks and culinary experts alike thanks to its one-of-a-kind processes and best-in-class techniques. Fifty full-time (admittedly very meticulous) test cooks, editors, and product testers spend their days tweaking every variable to find the very best recipes, equipment, ingredients, and techniques. Learn more at https://www.americastestkitchen.com/.<br/><br/><strong>Why America’s Test Kitchen<br/><br/></strong>We're passionate about cooking, and about creating the best place to work. We're small enough for your ideas to make a big impact, and large enough to offer you opportunities to grow professionally at any stage of your career. We want you to take risks and make mistakes — that's how innovation happens in our test kitchen, in our offices, and in life.<br/><br/>We at America’s Test Kitchen believe food media can be a powerful force for social change. We are passionate about building an inclusive workforce that represents many different cultures, backgrounds, abilities, identities, and perspectives.<br/><br/>We welcome your application.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Strategy/Planning and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Media Production
+          </span>
+</li>
+</ul>
+</div>
+</section>

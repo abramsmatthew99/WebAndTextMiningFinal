@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Western Dental Services, Inc., California’s largest dental services provider and one of the nation’s largest dental HMO’s, is looking for a bright, motivated, seasoned data analyst. This position will be based at our Corporate Headquarters in Orange, CA. As a Data Analyst you will be responsible for collecting, analyzing, and interpreting complex data sets to uncover insights and drive data-informed decision-making. You will work closely with cross-functional teams, including business stakeholders, data scientists, and IT professionals, to ensure accurate data analysis and reporting. The ideal candidate has a strong analytical mindset, extensive experience in data analysis, and a proven ability to derive actionable recommendations from data.<br/><br/>Data Analysis and Interpretation<br/><br/><ul><li>Collect, cleanse, and transform large and complex data sets to ensure accuracy and reliability.</li><li>Conduct advanced statistical analysis, data mining, and modeling to identify patterns, trends, and insights.</li><li>Interpret data and communicate findings to stakeholders in a clear and concise manner, including data visualizations, reports, and presentations.<br/><br/><br/></li></ul>Data-Driven Insights<br/><br/><ul><li>Collaborate with business stakeholders to understand their requirements and provide data-driven insights and recommendations.</li><li>Identify key performance indicators (KPIs) and develop metrics to track and measure business performance.</li><li>Proactively identify opportunities for process improvement, cost reduction, and revenue enhancement based on data analysis.<br/><br/><br/></li></ul>Data Quality and Integrity<br/><br/><ul><li>Ensure data integrity and accuracy through data validation, quality checks, and adherence to data governance policies.</li><li>Work closely with IT teams to optimize data extraction, transformation, and loading processes.</li><li>Perform data profiling and data cleansing activities to improve data quality.<br/><br/><br/></li></ul>Tools and Technology<br/><br/><ul><li>Utilize a variety of tools and technologies for data analysis, such as SQL, Python, R, Excel, Tableau, or other data visualization and analytics platforms.</li><li>Stay updated with the latest advancements in data analysis techniques and tools and identify opportunities to leverage new technologies.<br/><br/><br/></li></ul>Cross-Functional Collaboration<br/><br/><ul><li>Collaborate with cross-functional teams, including business stakeholders, data scientists, and IT professionals, to align data analysis initiatives with organizational goals.</li><li>Provide guidance and mentorship to junior data analysts, sharing best practices and fostering a data-driven culture.<br/><br/><br/></li></ul>Data Standards and Policies<br/><br/><ul><li>Enforce data standards, naming conventions, and data management best practices.</li><li>Maintain data policies and procedures to ensure compliance with regulatory requirements.</li><li>Proven experience as a Data Analyst, with a track record of delivering impactful data-driven insights and recommendations.</li><li>Strong proficiency in data analysis techniques, statistical methods, and data visualization tools.</li><li>Expertise in SQL for data extraction and manipulation, and programming languages such as Python or R for advanced analysis.</li><li>Experience with data visualization tools, such as Power BI, Tableau, or similar platforms, to create interactive dashboards and reports.</li><li>Strong analytical thinking and problem-solving skills, with the ability to analyze complex data sets and derive actionable recommendations.</li><li>Excellent communication and presentation skills, with the ability to effectively convey complex findings to both technical and non-technical stakeholders.</li><li>Ability to work in a fast-paced, dynamic environment with shifting priorities and multiple concurrent projects.</li><li>Strong attention to detail and a commitment to data accuracy and quality.</li><li>Bachelor's degree in a quantitative field, such as Mathematics, Statistics, Economics, Computer Science, or a related field.</li><li>At least 3 years of experience in IT, Software Engineering or Statistical Data Analysis</li><li>Preference will be given to candidates with healthcare industry experience. </li><li>Join our team as a Seasoned Data Analyst and contribute to data-driven decision-making that shapes our organization's success. Apply now and help us unlock the power of data for strategic insights.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

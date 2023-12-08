@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>The opportunity | Software Development Intern<br/><br/></strong><ul><li>We are interested in undergraduate degree seeking students in Computer Science, Computer Engineering or other related engineering fields.</li><li>Positions generally last 3-6 month and are either full-time or part time.</li><li>Positions will be in Berwick, PA<br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li>Wide variety of functions including developing software applications</li><li>Troubleshooting software applications and integrated systems</li><li>Installing and configuring software applications and computer systems</li><li>Reviewing and updating Software Requirements Specifications</li><li>Development of Software Design Documents</li><li>Development of User Manuals and Acceptance Test Procedures<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Currently enrolled in an undergraduate program, preferable in computer science, computer engineering, or associated engineering field. Preference will be given to those in their junior or senior year.</li><li>Some C / C++ or C# programming experience</li><li>Experience using Microsoft Office Products and Microsoft Visual Studio helpful<br/><br/></li></ul><em>No unsolicited agency submittals please. Agency partners must be invited to participate in a search by our<strong> Talent Acquisition Team</strong> and have signed terms in place prior to any submittal. Resumes submitted directly to any Curtiss-Wright employee or affiliate will not qualify for fee payment, and therefore become the property of Curtiss-Wright. <br/><br/></em><strong>Compliance Statement<br/><br/></strong>This position may require exposure to export-controlled information and subject to additional security screening. In the event information provided during the security screening reveals ineligibility to access export-controlled information, any offer of employment may be reconsidered or withdrawn.<br/><br/>Curtiss-Wright values diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.<br/><br/>If you require accommodation due to a disability at any time during the recruitment and/or assessment process, please contact Talent Acquisition and we will make all reasonable efforts to accommodate your request.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

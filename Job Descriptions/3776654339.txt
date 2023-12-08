@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Robert Half</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Kara Lyon" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Kara Lyon
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Recruiting Manager at Robert Half
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Kara Lyon" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fkara-lyon-ba4171106&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Title: .NET C# Developer</p><p>Company Overview:</p><p>Robert Half is a dynamic and innovative leader in the staffing and consulting industry, dedicated to delivering cutting-edge solutions to businesses and professionals worldwide. We are seeking a skilled and motivated .NET C# Developer to join our talented team and contribute to the development of robust and scalable software solutions.</p><p>Position Overview:</p><p>As a .NET C# Developer at Robert Half, you will play a crucial role in designing, implementing, testing, and maintaining software applications using the .NET framework and C# programming language. You will collaborate with cross-functional teams to deliver high-quality solutions that meet or exceed customer expectations. This position offers an exciting opportunity to work on challenging projects and advance your career in a collaborative and fast-paced environment.</p><p>Responsibilities:</p><ol><li>Software Development: Design, develop, and maintain software applications using the .NET framework and C# language.</li><li>Code Review: Conduct and participate in code reviews to ensure code quality, adherence to coding standards, and best practices.</li><li>Collaboration: Work closely with cross-functional teams, including product managers, designers, and other developers, to deliver high-quality software solutions.</li><li>Problem Solving: Troubleshoot, debug, and resolve software defects and issues in a timely manner.</li><li>Code Optimization: Identify and implement performance improvements and optimizations to enhance the overall efficiency of applications.</li><li>Documentation: Create and maintain technical documentation for software components, ensuring clarity and completeness.</li><li>Adaptability: Keep up-to-date with the latest industry trends, technologies, and best practices to continuously improve skills and contribute innovative ideas to the team.</li></ol><p>Qualifications:</p><ol><li>Bachelor's degree in Computer Science, Information Technology, or a related field.</li><li>Proven experience in software development using .NET framework and C#.</li><li>Strong understanding of object-oriented programming principles and design patterns.</li><li>Experience with front-end technologies such as HTML, CSS, and JavaScript.</li><li>Familiarity with database systems, particularly SQL Server.</li><li>Excellent problem-solving and analytical skills.</li><li>Ability to work both independently and collaboratively in a team environment.</li><li>Effective communication skills, both written and verbal.</li><li>Familiarity with agile development methodologies is a plus.</li></ol><p>Preferred Skills:</p><ol><li>Experience with ASP.NET, MVC, and Web API.</li><li>Knowledge of client-side frameworks like Angular or React.</li><li>Familiarity with version control systems, such as Git.</li><li>Understanding of software testing principles and practices.</li></ol><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Freight and Package Transportation
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>APPLICATION INSTRUCTIONS:</strong><p><br/></p><ul><li>CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. </li><li>CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.</li><li>If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants.</li></ul><p><br/></p><strong>JOB DESCRIPTION AND POSITION REQUIREMENTS:</strong><p><br/></p>The Computer Science and Engineering Department Passonneau group is in search of a student who will assist with experiments to test algorithms for short answer grading, including writing code and managing datasets.<p><br/></p>Penn State is committed to and accountable for advancing diversity, equity, and inclusion in all of its forms. We embrace individual uniqueness, foster a culture of inclusion that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity, and engage all individuals to help them thrive. We value inclusion as a core strength and an essential element of our public service mission.<p><br/></p><strong>CAMPUS SECURITY CRIME STATISTICS: </strong><p><br/></p>Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here.<p><br/></p>Employment with the University will require successful completion of background check(s) in accordance with University policies.<p><br/></p><strong>EEO IS THE LAW</strong><p><br/></p>Penn State is an equal opportunity, affirmative action employer, and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473.<p><br/></p>Federal Contractors Labor Law Poster<p><br/></p>PA State Labor Law Poster<p><br/></p>Affirmative Action<p><br/></p>Penn State Policies<p><br/></p>Copyright Information<p><br/></p>Hotlines<p><br/></p>University Park, PA
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

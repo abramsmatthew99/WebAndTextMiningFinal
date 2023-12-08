@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Our Purpose<br/><br/></strong>We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.<br/><br/><strong>Title And Summary<br/><br/></strong>Technical Program Manager II<br/><br/><strong>Overview<br/><br/></strong>Are you a technical program manager who wants to work for a company that offers above and beyond benefits including paid parental leave, flexible work hours, gift matching, and even volunteer incentives? Do you want to work in an inclusive and nurturing culture that encourages your own professional learning and development?<br/><br/>At Mastercard, our industry expertise is enhanced by our commitment to being a force for good in the world. We do well by doing good. Our core values of trust, partnership, agility and thoughtful risk taking are displayed in everything we do. Our culture of collaboration and inclusion makes our company the place where the best people choose to be. Come join us!<br/><br/>In this position, you'll be the "glue" across several engineering teams spanning both front-end, calculation, and data infrastructure code. The Intelligence Center suite of products is used by issuing and acquiring banks around the world to understand their data, and we are building continuous improvements in our features, performance, and quality.<br/><br/>ROLE<br/><br/>We are looking for experienced technical program management professionals to join our team and help us build towards the future. Our Technical Program Managers (TPM) conceptualize, rationalize, and drive multiple simultaneous projects to deliver engineering work across the portfolio in our scrum execution model. In this role, you get to dive as deep as you want into the tech stack, the integration patterns, the organizational capabilities, and the company wide assets that can be leveraged to provide technical solutions to customer problems. You will contribute to the strategies, design choices, and even the cloud infrastructure necessary to build comprehensive believable and achievable execution plans to deliver high-profile new features and capabilities for our customers. You may drive the execution of a feature through the full stack or may drive a project which spans multiple teams and integrations, reporting meaningful status along the way.<br/><br/><strong>All About You<br/><br/></strong><ul><li> Demonstrated ability to operate with independence and autonomy</li><li> Experience defining and building cloud-native software products as a platform at scale with a deep understanding of those platforms capabilities and underlying technologies.</li><li> Demonstrated experience breaking down problems, organizing work, planning sprints, and delivering technical programs in agile delivery models (scrum, Kanban, etc.)</li><li> Experience working on programs to define and build cloud-native software products as a platform at scale</li><li> Enjoys diving deep to understand of the platforms capabilities and underlying technologies.</li><li> Proven track record of data driven decision-making and applying continuous improvement methodologies across teams</li><li> Can debate the delivery strategy with business teams, architects, engineers, and designers</li><li> Can communicate to executives, peers, and staff with impact, eloquence, and authenticity</li><li> Demonstrated experience building relationships, partnering with and influencing dependent teams while commanding the respect of the individuals you work with across the organization</li><li> Plus if you have expertise in Payments, IaaS, PaaS, huge plus if you have expertise in CI/CD, SQL databases, microservices APIs, and distributed systems operations in a DevOps model</li><li> Plus if you have a BS in engineering, computer science or related discipline.</li><li> Technical program delivery experience including time developing and testing software<br/><br/><br/></li></ul>In the US, Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. If you require accommodations or assistance to complete the online application process, please contact reasonable_accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.<br/><br/><strong>Corporate Security Responsibility<br/><br/></strong> All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:<br/><br/><ul><li>Abide by Mastercard’s security policies and practices;</li><li>Ensure the confidentiality and integrity of the information being accessed;</li><li>Report any suspected information security violation or breach, and</li><li>Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.<br/><br/><br/></li></ul>In line with Mastercard’s total compensation philosophy and assuming that the job will be performed in the US, the successful candidate will be offered a competitive base salary based on location, experience and other qualifications for the role and may be eligible for an annual bonus or commissions depending on the role. Mastercard benefits for full time (and certain part time) employees generally include: insurance (including medical, prescription drug, dental, vision, disability, life insurance), flexible spending account and health savings account, paid leaves (including 16 weeks new parent leave, up to 20 paid days bereavement leave), 10 annual paid sick days, 10 or more annual paid vacation days based on level, 5 personal days, 10 annual paid U.S. observed holidays, 401k with a best-in-class company match, deferred compensation for eligible roles, fitness reimbursement or on-site fitness facilities, eligibility for tuition reimbursement, gender-inclusive benefits and many more.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Technology, Information and Internet, and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

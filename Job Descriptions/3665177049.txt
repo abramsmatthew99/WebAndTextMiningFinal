@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Details<br/><br/></strong><strong><strong>Description<br/><br/></strong></strong>Job Title: Adjunct Professor of Computer Science<br/><br/><strong>Description<br/><br/></strong>The Department of Professional Studies at Southeastern University is seeking an innovative<br/><br/>and dedicated adjunct professor to teach undergraduate courses in computer science, with a<br/><br/>focus on web development, data science, and cybersecurity. The successful candidate will have<br/><br/>a strong commitment to excellence in teaching, research, and service and will actively engage<br/><br/>with students and contribute to the university's mission.<br/><br/><strong>Responsibilities Will Include:<br/><br/></strong><ul><li>Teaching a variety of courses, including web development, data science, and/or<br/><br/></li></ul>cybersecurity in both face-to-face and online formats<br/><br/><ul><li>Developing and updating course materials to reflect current trends and best practices</li><li>Mentoring and advising undergraduate students in both face-to-face and online<br/><br/></li></ul>environments<br/><br/><ul><li>Engaging in research and scholarly activities</li><li>Participating in departmental and university service<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>Master’s Degree in Computer Science, Software Development, Data Science,<br/><br/></li></ul>Cybersecurity, or a closely related field<br/><br/><ul><li>Demonstrated expertise in web development, data science, and cybersecurity</li><li>Excellent written and verbal communication skills</li><li>Commitment to fostering a diverse and inclusive learning environment<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Ph.D. in Computer Science, Software Development, Data Science, Cybersecurity, or a<br/><br/></li></ul>closely related field<br/><br/><ul><li>Prior successful teaching experience at the college level</li><li>Experience in curriculum development and assessment</li><li>Strong interpersonal skills and ability to work collaboratively</li><li>Proficiency in specific software, programming languages, and tools, such as Python,<br/><br/></li></ul>JavaScript, HTML/CSS, React.js, SQL, R, Tableau, and/or relevant cybersecurity tools
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

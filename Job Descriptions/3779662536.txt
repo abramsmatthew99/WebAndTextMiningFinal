@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>TITLE</strong>: Software Engineer<br/><br/><strong>LOCATION</strong>: Greenwood Village, CO<br/><br/><strong>JOB SUMMARY</strong>: Develop, modify, enhance, and implement software solutions to support new or existing video customer personalization. Design and develop solutions to problems associated with existing software systems. Develop unit and functional testing for implemented software solutions. Automate functional tests. Integrate automated testing into deployment pipelines. Update and support maintenance of software system documentation. Oversee software solutions through release processes. Support release of software into integration and production environments. Perform software development in the form of Java based AWS micro-services. Perform requirement analysis, design, coding, testing, and release management. Work alongside leads to perform end-to-end solutions. Utilize RDBMS and NoSQL databases, MongoDB, and Cassandra to perform data modeling and determine best use of database based on type. Utilize Linux/Unix operating systems for software development. Perform data structures, utilizing techniques to generated indices, aggregate data to manage and store data. Utilize algorithms including BFS, DFS, Sorting, and Counting and Coding Compression for organizational and structural understanding and software implementations. Utilize code analysis tools, including SonarQube, Jacoco Code coverage, Veracode, and Twist lock to perform code coverage analysis, measure code quality, and find and fix vulnerabilities.<br/><br/><strong>EDUCATION/REQUIREMENTS</strong>: Bachelor’s degree (or foreign equivalent) in Computer Science, Electronics Engineering, or a related field; must have 4 years of experience utilizing Java for software development; utilizing Linux/Unix operating systems for software development; performing data structures, utilizing techniques to generated indices and aggregate data to manage and store data; utilizing algorithms including BFS, DFS, Sorting, and Counting and Coding Compression for organizational and structural understanding and software implementations; and with code analysis tools, including SonarQube, Jacoco Code coverage, Veracode, and Twist lock to perform code coverage analysis, measure code quality, and find and fix vulnerabilities; and 2 years of experience utilizing RDBMS and NoSQL databases, MongoDB, and Cassandra to perform data modeling and determine best use of database based on type.<br/><br/>A hybrid office and remote work arrangement is available. Salaries depend on geography, experience, and education; negotiations begin at <strong>$130,520</strong> per year.<br/><br/><li></li><li><br/><br/></li>ESW340 2023-26203 2023<br/><br/>Here, employees don’t just have jobs, they build careers. That’s why we believe in offering a comprehensive pay and benefits package that rewards employees for their contributions to our success, supports all aspects of their well-being, and delivers real value at every stage of life.<br/><br/>A qualified applicant’s criminal history, if any, will be considered in a manner consistent with applicable laws, including local ordinances.<br/><br/>The pay for this position has a salary range of <strong> $130,520.00 to $138,000.00</strong>. The actual salary offer will carefully consider a wide range of factors, including your skills, qualifications, experience and location. Also, certain positions are eligible for additional forms of compensation such as bonuses.<br/><br/><strong>Get to Know Us</strong> Charter Communications is known in the United States by our Spectrum brands, including: Spectrum Internet®, TV, Mobile and Voice, Spectrum Networks, Spectrum Enterprise and Spectrum Reach. When you join us, you’re joining a strong community of more than 101,000 individuals working together to serve more than 32 million customers in 41 states and keep them connected to what matters most. Watch this video to learn more.<br/><br/><strong>Who You Are Matters Here</strong> We’re committed to growing a workforce that reflects our communities, and providing equal opportunities for employment and advancement. EOE, including disability/vets. Learn about our inclusive culture.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: Technical Writer - </strong><em><strong>Remote<br/><br/></strong></em><strong>Location:</strong> Work at home - Washington<br/><br/><strong>Work Schedule:</strong> Monday to Friday, 8 AM to 5 PM EST (6 AM to 2 PM PST)<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Education: Bachelor's Degree<br/><br/></li></ul><strong>Job Description<br/><br/></strong>As a member of our exceptional technical writing team, you will be responsible for ensuring the quality, accuracy, and discoverability of both internal and external technology content. The role involves hands-on research, gathering technical information from subject matter experts, and translating it into clear, concise, and well-structured documentation. The position combines tasks such as documenting content, editing contributions from others, reorganizing and fixing existing documentation, and possibly managing projects and writing code for various documentation requests. Your role will be that of a Documentation Engineer/Technical Writer.<br/><br/><strong>Writer Responsibilities<br/><br/></strong><ul><li>Create and maintain internal and external documentation for technologies and tools used within CVS.</li><li>Work closely with engineering, product, and support teams to ensure the quality, discoverability, and accuracy of the content you create and develop.</li><li>Design, write, and edit technical and process documentation.</li><li>Navigate through multiple platforms such as web, iOS, and Android.</li><li>Create and maintain code sample fragments and sample apps.<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>6+ years of experience in writing, technical documentation, and/or developer outreach for a developer audience or equivalent experience.</li><li>BA/BS degree in computer science, technical writing, physics, mathematics, or chemistry, or equivalent experience.</li><li>Experience with authoring tools such as XML, HTML, Markdown, etc.</li><li>2+ years of experience with a programming language such as SQL, Python, etc.</li><li>Experience in writing, proofreading, and editing.</li><li>Experience independently defining and driving technical documentation projects.</li><li>Experience producing and organizing content with a logical flow.</li><li>Experience programming, using the command-line, trying out user interfaces, and working with prototype hardware in test environments.</li><li>Experience meeting multiple deadlines.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Marketing, Public Relations, and Writing/Editing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

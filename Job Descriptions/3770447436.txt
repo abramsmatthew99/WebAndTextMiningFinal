@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong>Responsible for modeling complex healthcare inquiries, discovering insights, and identifying opportunities using statistical, algorithmic, data-mining, and visualization techniques. Integrate and analyze large, varied datasets and communicate the results of large-scale analytics.<br/><br/><strong>Description<br/><br/></strong><strong>Logistics:</strong> This position is onsite at 4101 Percival Road, Columbia, SC 29229.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Support decision-making by building, maintaining, and improving multiple analytic systems collaboratively. Design experiments, test hypotheses, and build analytical models to explore, explain, and predict health-related outcomes. Model and frame meaningful healthcare scenarios that impact strategic direction throughout the healthcare business.</li><li>Work closely with clients, data stewards, project managers, and Information Systems teams to turn healthcare data into critical information and knowledge that can be used to make sound organizational decisions. Collaborate with subject matter experts to select the relevant sources of information. Educate the organization from technical and business perspectives on advanced analytic approaches. Help the organization understand the principles and the computational analysis behind processes to ensure organizational support. Work with data stewards to ensure compliance with existing governance, regulatory, architecture, and security policies.</li><li>Apply statistical (descriptive, analytical, inferential) analysis and data mining techniques to generate real-world evidence and prediction systems for stand-alone projects or to be assimilated into production systems. Provide evidence that is congruent and reliable. Work iteratively to validate findings using experimental design, scenario modeling, and sensitivity analyses. Conduct data analyses that range from simple descriptive statistics to highly complex algorithms.</li><li>Develop innovative and effective approaches to solving analytics problems. Communicate results and methodologies with transparency. Identify, generate, and apply the appropriate algorithm to discover patterns. Come up with solutions to broadly defined business needs by leveraging pattern detection over complex datasets.</li><li>Present findings to the business leaders through presentations, dashboards, or other analytical output. Provide method validation with assumptions, strengths, and limitations in a way that stakeholders can easily understand. Recommend ongoing improvements to methods and algorithms that lead to more efficient processes.<br/><br/></li></ul><strong>To Qualify For This Position, You'll Need The Following<br/><br/></strong><ul><li>Required Education: Master’s degree in Data Science, Biostatistics, Epidemiology, Mathematics, Health Economics, Computer Science, Business Analytics, Informatics, or related field OR Doctorate (Ph.D.) in Data Science, Biostatistics, Epidemiology, Mathematics, Health Economics, Computer Science, Business Analytics, Informatics, or related field</li><li>Required Work Experience: Three years of relevant quantitative and qualitative analytics experience. Ph.D. training will be counted as three years of experience</li><li>Required Software and tools: Microsoft Office, SQL, Statistical programming tools (such as R, Python, or SAS)</li><li>Required Skills and Abilities: </li><li>Proficiency in using SQL to query large, complex datasets.</li><li>Strong programming, analytical, and problem-solving skills</li><li>Knowledge of statistical techniques, including statistical analysis, quantitative analytics, predictive analytics, and multivariate testing</li><li>Ability to innovate and collaborate</li><li>Team player who is proactive and detail-oriented<br/><br/></li></ul><strong>We Prefer That You Have The Following<br/><br/></strong><ul><li>Experience with healthcare financial analysis and program evaluation</li><li>Experience with data management in relational data sources</li><li>Experience creating dashboards and visualizations with Tableau or PowerBI</li><li>Experience working with healthcare data</li><li>Experience with Value Based Care programs</li><li>Strong written, verbal, presentation, communication, and interpersonal skills<br/><br/></li></ul><strong>Our Comprehensive Benefits Package Includes The Following<br/><br/></strong><ul><li>401(k) retirement savings plan with company match</li><li>Fantastic health plans and free vision coverage</li><li>Life insurance</li><li>Paid annual leave — the longer you work here, the more you earn</li><li>Nine paid holidays</li><li>On-site cafeterias and fitness centers in significant locations</li><li>Wellness programs and a healthy lifestyle premium discount</li><li>Tuition assistance</li><li>Service Recognition<br/><br/></li></ul><strong>What We Can Do For You<br/><br/></strong>We understand the value of a diverse and inclusive workplace and strive to be an employer where employees across all spectrums have the opportunity to develop their skills, advance their careers and contribute their unique abilities to the growth of our company.<br/><br/><strong>What To Expect Next<br/><br/></strong>After submitting your application, our recruiting team members will review your resume to ensure you meet the qualifications. This may include a brief telephone interview or email communication with our recruiter to verify resume specifics and salary requirements. Management will conduct interviews with those candidates who qualify, with prioritization given to those candidates who demonstrate the preferred qualifications.<br/><br/>We participate in E-Verify and comply with the Pay Transparency Nondiscrimination Provision. We are an Equal Opportunity Employer.<br/><br/>Some states have required notifications. Here's more information.<br/><br/>Equal Employment Opportunity Statement<br/><br/>BlueCross BlueShield of South Carolina and our subsidiary companies maintain a continuing policy of nondiscrimination in employment to promote employment opportunities for persons regardless of age, race, color, national origin, sex, religion, veteran status, disability, weight, sexual orientation, gender identity, genetic information or any other legally protected status. Additionally, as a federal contractor, the company maintains Affirmative Action programs to promote employment opportunities for minorities, females, disabled individuals and veterans. It is our policy to provide equal opportunities in all phases of the employment process and to comply with applicable federal, state and local laws and regulations.<br/><br/>We are committed to working with and providing reasonable accommodations to individuals with physical and mental disabilities.<br/><br/>If you need special assistance or an accommodation while seeking employment, please e-mail abilities@bcbssc.com or call 1-800-288-2227, ext. 43172 with the nature of your request. We will make a determination regarding your request for reasonable accommodation on a case-by-case basis.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

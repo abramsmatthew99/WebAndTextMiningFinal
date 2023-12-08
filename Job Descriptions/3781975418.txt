@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The LES Team at Labcorp has an opportunity for talented IT Business Analyst to join a motivated and productive team in delivering enterprise-level solutions. The ideal candidate has successful experience defining software systems and supporting teams throughout the project lifecycle. Our team is dynamic and growing so there is opportunity to be involved in all areas of the system development life cycle and have exposure to full project lifecycle including development methods.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Elicit requirements using interviews, document analysis, requirements workshops, surveys, site visits, business process descriptions, use cases, scenarios, business analysis, task and workflow analysis</li><li> Critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs</li><li> Proactively communicate and collaborate with internal customers to analyze information needs and functional requirements and deliver functional requirements, use cases, and user interface designs as necessary</li><li> Drive and challenge business units on their assumptions of how they will successfully execute their plans</li><li> Serves as the conduit between the customer community (internal and external customers) and the software development team through which requirements flow</li><li> Be the liaison between the business units, technology teams, support teams, and business partners/vendors</li><li> Develop requirements specifications according to standards, using natural language</li><li> Collaborate with developers and subject matter experts to analyze tradeoffs between usability and performance needs</li><li> Proactively communicate and collaborate with external customers to analyze information needs and functional requirements and deliver functional requirements, use cases, and user interface designs as necessary</li><li> Provide input into Test Plan creation and support test plan validation as required for QA.</li><li> Successfully engage in multiple initiatives simultaneously<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li> Normally requires a B.S. Degree in Computer Science w/5+ years of relevant experience.</li><li> Proficient in SQL query language<br/><br/></li></ul><strong>Pay Range: </strong><em>$100,000 - $130,000<br/><br/></em><strong>Benefits: </strong>All job offers will be based on a candidate’s skills and prior relevant experience, applicable degrees/certifications, as well as internal equity and market data. Regular, full-time or part-time employees working 20 or more hours per week are eligible for comprehensive benefits including: Medical, Dental, Vision, Life, STD/LTD, 401(K), ESPP, Paid time off (PTO) or Flexible time off (FTO), Commissions, and Company bonus where applicable. For more detailed information, please click here.<br/><br/><strong>Labcorp Is Proud To Be An Equal Opportunity Employer<br/><br/></strong>As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. We encourage all to apply.<br/><br/>For more information about how we collect and store your personal data, please see our Privacy Statement.<br/><br/><strong>2370044</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Immediate need for a talented <strong>ML Engineer</strong>. This is a <strong>Fulltime</strong> opportunity with long-term potential and is located in <strong>Dallas, TX and Basking Ridge, NJ (Onsite). </strong>Please review the job description below and contact me ASAP if you are interested. ​</p><p><br/></p><p><strong>Job ID: 23-47362</strong></p><p>​​</p><p><strong>Pay Range: $140k - $150k/Year. Employee benefits include, but are not limited to, health insurance (medical, dental, vision), 401(k) plan, and paid sick leave (depending on work location).</strong>​</p><p><br/></p><p><strong><u>Key Requirements and Technology Experience: </u></strong></p><p>​</p><ul><li>At least 7 years of experience as a Client Engineer, with fluency and experience in Python, Data Science, Data Engineering &amp; MLOPS</li><li>Knowledge in RESTful API design and implementation</li><li>Experience of Web framework like FastAPI/Tornado/Flask etc.</li><li>Data Science knowledge and familiarity with Client libraries such as Pandas, Scikit, TensorFlow, xgboost, time series frameworks like prophet/or equivalent frameworks</li><li>In-depth of big data frameworks like Pyspark &amp; gcp tools like data proc, data proc serverless</li><li>Experience designing, building and operating productions grade Client applications</li><li>Knowledge of design patterns and architecture, data science, and machine learning best practices</li><li>Experience with relational databases like Big Query, cloud environments, and a good understanding of optimizing storage cost/query cost while designing data engineering workflows</li><li>Good knowledge of Kubernetes, container technologies, docker registries, and applying them in the context of machine learning systems</li><li>Working knowledge of Client frameworks, such as Vertex, Kubeflow, MLflow, CloudRun etc.</li><li>Experience in designing post-deployment model management framework e.g. model monitoring tools, workflows for feature drift, error analysis of models</li><li>Proficiency with CI/CD tools, especially Jenkins</li><li>Experience in designing CI/CD pipelines (Jenkins) for deployment of Data Engineering and Client jobs workflow</li><li>Hands-on experience in orchestration frameworks like Airflow, Cloud Composer, DataProc Serverless for Pyspark jobs etc.</li><li>In-depth understanding of Client Cloud ecosystem for Data Engineering &amp; MLOps - cloud composer, dataproc, dataproc serverless, big query, cloudrun, vertex, vertex pipelines, GKE</li><li>Experience in designing MLOps platforms and architect big data systems on GCP cloud.</li></ul><p><br/></p><p>Our client is a leading<strong> IT </strong>organization, and we are currently interviewing to fill this and other similar contract positions. If you are interested in this position, please apply online for immediate consideration. ​ ​</p><p><br/></p><p>Pyramid Consulting, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, colour, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.​</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

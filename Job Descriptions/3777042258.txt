@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>DUTIES:</strong> Drive projects across multiple teams such as Information Technology, Finance, Service, Commercial, Customer Experience and Legal teams.<br/><br/>Responsible for all aspects of developing IT project plans, project scope, schedule, resources, risks, and overall management to ensure and drive successful delivery of projects.<br/><br/>Ensure project goals, charter and deliverables in project plans are achieved within cost, schedule, scope, and quality.<br/><br/>Responsible for leading and coordinating the operation of assigned projects, including requirements and design sessions, setting project plans, collaborating with resource managers, sending out weekly project health status reports, and resolving risks and issues.<br/><br/>Function as a liaison between cross-functional teams and leadership to ensure Business and IT needs have been met.<br/><br/>Translate high-level objectives into detail requirements, while staying focused on overall company business goals.<br/><br/>Work with the business to gather business requirements, identify business value and translate them into technical requirements, and prioritize requirements according to expected business benefits.<br/><br/>Critically evaluate information gathered from multiple sources, reconciling conflicts, and distinguish between user requests and underlying business critical needs.<br/><br/>Drive the execution of the project, and prepare and present to project teams, steering committees, and executive staff.<br/><br/>Ensure that the delivery of the project is in accordance with the standards and frameworks established by IT.<br/><br/>Work with teams to ensure post-production support for deliverables.<br/><br/>Provide hands-on support for SQL, Python and PowerBI development.<br/><br/><strong>REQUIREMENTS: </strong>Master’s degree or foreign degree equivalent in Computer Science, Statistics, Business Analytics, or related field of study plus 3 years of IT experience in life sciences or healthcare, in positions in which the required skills can be obtained or a related occupation. Employer will also accept a Bachelor’s degree or foreign degree equivalent in Computer Science, Statistics, Business Analytics, or related field of study plus 5 years of IT experience in life sciences or healthcare, in positions in which the required skills can be obtained or a related occupation as an equivalent alternative.<br/><br/>Must have experience or knowledge of:<br/><br/>Agile development of data-driven solutions;<br/><br/>Being a key point of contact between business functions and IT;<br/><br/>Analyzing and translating business requirements;<br/><br/>Identifying business value and prioritizing requirements according to expected business benefits;<br/><br/>Project management;<br/><br/>SQL, Python, and AWS services such as Databricks, Athena, or S3.<br/><br/><strong>Travel: </strong>Up to 50% domestic and international travel required.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Science, Information Technology, and Product Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Biotechnology Research and Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

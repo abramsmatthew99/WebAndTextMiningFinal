@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview:</strong> We are seeking a highly skilled and experienced Senior Backend Engineer proficient in Python to join our dynamic and innovative engineering team. As a key member of our development team, you will play a crucial role in designing, implementing, and maintaining the backend architecture of our cutting-edge software solutions.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Backend Development:</li><li>Lead the design and development of scalable, high-performance backend systems using Python</li><li>Collaborate with cross-functional teams to define and implement robust and efficient APIs</li><li>Architecture and Design:</li><li>Architect, design, and implement backend services and solutions that meet the business requirements</li><li>Provide technical leadership in selecting appropriate technologies and tools for backend development</li><li>Code Quality and Optimization:</li><li>Ensure code quality through code reviews, testing, and continuous integration</li><li>Identify and implement optimizations for performance and scalability</li><li>Collaboration and Communication:</li><li>Collaborate with frontend developers, product managers, and other stakeholders to deliver end-to-end solutions</li><li>Communicate effectively within the team, sharing insights, and participating in technical discussions</li><li>Troubleshooting and Debugging:</li><li>Investigate and resolve complex technical issues in the backend systems</li><li>Perform debugging and troubleshooting of production issues in a timely manner</li><li>Mentorship and Leadership:</li><li>Provide guidance and mentorship to junior developers</li><li>Contribute to the growth and development of the engineering team<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor’s or higher degree in Computer Science, Software Engineering, or a related field</li><li>Minimum of 3 years of proven experience as a Backend Engineer with expertise in Python development</li><li>Demonstrated ability to design and implement scalable and maintainable systems</li><li>Excellent problem-solving and debugging skills</li><li>Effective communication and collaboration skills<br/><br/></li></ul>If you are passionate about backend development, Python, and solving complex technical challenges, we invite you to join our team and contribute to the success of our innovative projects.<br/><br/><strong>Benefits<br/><br/></strong>Why Join Us:<br/><br/><ul><li>Be part of a dynamic team that values innovation and fosters creativity</li><li>Work on projects that contribute to shaping the future of the encryption market</li><li>Opportunity for growth and skill development within a forward-thinking company</li><li>Competitive salary and benefits package<br/><br/></li></ul>If you love technology and business development, we invite you to be a part of our journey.<br/><br/>To apply, please submit your resume and a cover letter detailing your relevant experience and qualifications for this position and why you're excited about the opportunity.<br/><br/>Futurex is an equal opportunity employer.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

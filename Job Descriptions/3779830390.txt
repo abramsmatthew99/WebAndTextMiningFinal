@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>POSITION: Cloud Engineer (Secret Clearance)<br/><br/>LOCATION: remote (on occasion might need to go on site, very rare, but can happen)<br/><br/></strong><strong>OPERATING HOURS: operates on EST<br/><br/></strong><strong>PLACEMENT TYPE: 6 month contract, with the intent to hire<br/><br/>DOES THIS POSITION QUALIFY FOR OVERTIME OR IS THIS A STRAIGHT TIME CONTRACT? Hours over 40 are not approved. Straight time rate<br/><br/></strong><strong>CLEARANCE REQUIREMENT: Secret<br/><br/>CERTIFICATION REQUIREMENT: Sec+ (could obtain within the first 30-45 days)<br/><br/></strong><strong>Manager's Job Description<br/><br/></strong><ul><li>This is a remote position and is part of a team that is migrating legacy applications into a Cloud environment. This is your opportunity have a rewarding career participating, learning and developing an invaluable skillset in the technology industry, while providing meaningful contributions to our DoD customers.</li><li>The primary responsibilities will include:</li><li>Evaluates legacy application architecture and proposes to-be cloud architecture</li><li>Assists in preparation of work breakdown structures and level of effort estimates</li><li>Creates Infrastructure as Code (IaC) scripts</li><li>Develops data migration approaches</li><li>Supports User Acceptance Testing and issue remediation</li><li>Conducts knowledge transfer activities for transition to sustainment teams</li><li>Produces technical documentation and procedures<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelors in Computer Science or related field and 5 or more years of experience</li><li>Knowledge of AWS and/or Azure cloud service offerings</li><li>Experience translating as-is architecture to cloud-based architecture selecting appropriate Infrastructure, Platform, and Software as a Service (IaaS, PaaS, and SaaS) cloud service offerings to best meet customer requirements.</li><li>Experience with IaC such as CloudFormation, Azure Resource Manager, Bicep, Ansible, and/or Terraform</li><li>Experience with automation technology such as Jenkins, TFS, and/or Azure DevOps</li><li>Experience with CI/CD pipelines, DevSecOps, and Agile methodology</li><li>Knowledge of software n-tier architectures</li><li>Knowledge of cloud high availability and scalability best practices and architectures</li><li>Knowledge of application middleware such as WebLogic, WebSphere, Tomcat, IIS</li><li>Ability to communicate complex technical information to an audience of varying technical levels</li><li>US Citizen – No dual citizenship</li><li>Possess a SECRET clearance or have the ability to obtain one. Must have at least an interim SECRET prior to start date.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>AWS and/or Azure certifications</li><li>CompTIA Security+ certification</li><li>Experience migrating legacy on-prem applications to a cloud service provider</li><li>Experience with relational or non-relational databases</li><li>Experience with DISA Security Technical Implementation Guides (STIGs)</li><li>Experience working with Department of Defense (DoD) and/or US Federal Government IT systems</li><li>Knowledge of application middleware such as WebLogic, WebSphere, Tomcat, IIS</li><li>Experience in programming languages such as Java, C#, JavaScript, ASP<br/><br/></li></ul><strong>Typical Education And Experience<br/><br/></strong><ul><li>Bachelor's degree in related technical discipline and 8+years experience. Advanced degree in related technical field desired. Experience in project management typically required.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

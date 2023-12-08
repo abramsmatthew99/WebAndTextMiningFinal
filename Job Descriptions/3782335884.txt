@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>The Vice President of Information Technology will oversee the planning, development, implementation, maintenance, and security of the company’s information systems and processes including computer, communication, and office systems.<br/><br/><strong>Supervisory Responsibilities<br/><br/></strong><ul><li> Recruits, interviews, hires, and trains staff in the department.</li><li> Oversees the schedules and responsibilities of staff in the department.</li><li> Provides constructive and timely performance evaluations.<br/><br/></li></ul><strong>Duties/Responsibilities<br/><br/></strong><ul><li> Establishes the strategic direction of the company’s information systems (IS); executes this strategy in collaboration with company leadership.</li><li> Directs and coordinates professional services such as systems analysis and design, feasibility studies, and programming of information, communication, and office automation systems.</li><li> Identifies and recommends new technologies and services that will improve efficiency, processes, and operations; reviews requests for additional services and upgrades, assessing the costs and benefits to the organization.</li><li> Approves the purchase, rent, lease, license, or other acquisition of hardware, software, or services needed to meet company needs.</li><li> Monitors and reports progress on development projects, resource utilization, and production performance to leadership team.</li><li> Ensures the integrity and reliability of computerized information systems, communication systems, and office systems including the security of data acquired and stored.</li><li> Facilitates preparation of project plans and proposals, outlining project objectives, IT requirements, and analytical and programming staffing requirements for proposed systems.</li><li> Maintains pace with technological progress, economic change, and company needs by directing continual improvements of IT staff, equipment, and procedures.</li><li> Prepares, implements, and executes IT budget.</li><li> Performs other duties as assigned.<br/><br/></li></ul><strong>Required Skills/Abilities<br/><br/></strong><ul><li> Excellent verbal and written communication skills.</li><li> Excellent organizational skills and attention to detail.</li><li> Strong analytical and problem-solving skills.</li><li> Strong supervisory and leadership skills.</li><li> Thorough understanding of IT policies and procedures.</li><li> Thorough understanding of or the ability to quickly master technology used in the organization.</li><li> Proficient with Microsoft Office Suite or related software.<br/><br/></li></ul><strong>Education And Experience<br/><br/></strong><ul><li> Bachelor’s degree in computer science required; Master’s degree or MBA preferred, Operations Research, or Computer Science, or equivalent training and experience required.</li><li> At least ten years of experience in a technical role required, with significant leadership experience preferred.<br/><br/></li></ul><strong>Physical Requirements<br/><br/></strong><ul><li> Prolonged periods of sitting at a desk and working on a computer.</li><li> Must be able to lift up to 15 pounds at times.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Executive
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

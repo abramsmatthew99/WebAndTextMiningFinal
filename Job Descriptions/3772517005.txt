@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Product Management Group Intern (Technical)<br/><br/></strong>Role Description<br/><br/>Vidrio is seeking a Product Group Intern (Technical) in the NY office that has a keen interest in data management and content organization to assist our team in enhancing our project management and documentation workflows. This role provides the opportunity to develop practical skills in data migration, automated system development, and content management, while also gaining experience in collaborating with cross-functional teams in a dynamic business environment.<br/><br/>This role sits in the Product Management team and reports to the Managing Director. The ideal candidate will have some background in both financial and technical field with excellent written skills. Vidrio employees are operating on a hybrid in-office/remote arrangement, with at least one day required in the office. The internship is paid at $20 per hour and will take place during summer 2024 for 30-40 hours per week. The ideal candidate will be tasked with the following responsibilities:<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Collect Insights from Experts: Engage with subject-matter experts within the company to understand the intricacies of our existing data and document management systems. </li><li>Develop Data Migration Mechanisms: Create an automated system that efficiently migrates historical ticket data, currently stored in documents on the company network, into HTML pages on Jira and Confluence platforms. </li><li>Collaborate on Content Revision: Work closely with product managers to review, revise, and edit existing content, ensuring it aligns with current standards and practices. </li><li>Assess Data Compilation Strategies: Determine the best solutions for compiling historical data, facilitating its centralized storage and accessibility within Jira and Confluence. <br/><br/></li></ul>Qualifications<br/><br/><ul><li>Pursuing a Bachelor’s degree, preferably in Computer Science, Software Engineering, Data Science, or related field</li><li>Proficiency in Python R and experience with scripting</li><li>Experience in manipulating large datasets using tools like Pandas, SQL, or similar technologies</li><li>Familiarity with Atlassian suite of products, specifically Confluence for documentation and Jira for project management</li><li>A portfolio or GitHub repository showcasing prior coding projects, indicating hands-on experience and a solid grasp of software development principles</li><li>A proactive approach to problem-solving, along with an aptitude for learning new technologies and concepts quickly</li><li>Eagerness to take on new challenges, accept feedback, and adapt to changing priorities and requirements </li><li>Strong working knowledge of Microsoft Office<br/><br/></li></ul>About Us<br/><br/>Launched in 2011, Vidrio is the first technology enabled service for allocators - providing software and data services to institutional investors globally. Vidrio’s data aggregation and analytics help solve complex fund management problems, improve operational efficiency and reduce risk for multi-asset-class portfolio investors. Our clients are the world’s premier allocators to external managers.<br/><br/>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Sales and Business Development
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

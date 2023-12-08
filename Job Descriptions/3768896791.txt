@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Minimum qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience.</li><li>5 years of experience with data migration strategies and moving production systems in on-premise/data center environments to the cloud.</li><li>5 years of experience with database technologies and database administration techniques. <br/><br/></li></ul><strong>Preferred qualifications:<br/><br/></strong><ul><li>Master's degree in Computer Science or a related technical field.</li><li>5 years of experience with optimizing database performance with respect to transactional or analytic workloads.</li><li>4 years of experience in technical sales or professional consulting in the fields of systems integration, data transfer/management, and enterprise database performance.</li><li>Knowledge of Disaster Recovery (DR) and data backup strategies.</li><li>Ability to learn, understand, and work with new emerging technologies, methodologies, and solutions in the Cloud/IT Technology space.<br/><br/></li></ul><strong>About The Job<br/><br/></strong>When leading companies choose Google Cloud it's a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You listen and deliver what is most helpful for the customer. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.<br/><br/>As an Enterprise Customer Engineer, you will work directly with the Technical Sales teams as an enterprise database subject matter expert to differentiate and portray the goal of Google Cloud to our customers. You will help prospective customers and partners understand Google Cloud, explain technical features, help customers design architectures, engage in proof- of-concepts, and troubleshoot potential roadblocks related to database migration and data back ends for new app development.<br/><br/>Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.<br/><br/>The US base salary range for this full-time position is $118,000-$177,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br/><br/>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Work with the team to identify and qualify business opportunities, identify key customer technical objections, and develop a strategy to resolve technical blockers. </li><li>Support the technical relationship with Google customers, including product and solution briefings, proof-of-concept work, coordination and prioritization of solutions impacting customer adoption of Google Cloud. </li><li>Work with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments. </li><li>Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to implement a complete solution using best practices on Google Cloud. </li><li>Travel to customer sites, conferences, and other related events as needed. <br/><br/><br/></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management, Consulting, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

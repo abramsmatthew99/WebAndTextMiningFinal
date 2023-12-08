@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        At Criterion Systems, we developed a different kind of business—a company whose real value is a reputation for excellence built upon the collective skills, talents, perspectives, and backgrounds of its people. By accepting a position with Criterion Systems, you will join a group of professionals with a collaborative mindset where we share ideas and foster professional development to accomplish our goals. In addition to our great culture, we also offer competitive compensation and benefit packages, company-sponsored team building events, and advancement opportunities. To find out more about how Criterion can help you take your career to the next level please visit our website www.criterion-sys.com. <strong>Criterion Systems is a Military/Veteran Friendly Company therefore we encourage Veterans to apply.<br/><br/></strong>Criterion Systems is seeking mission-focused <strong>Software Engineers</strong> to provide support to our government customer’s cross domain solutions in <strong>Chantilly, Virginia</strong>!<br/><br/><strong>Duties, Tasks, &amp; Responsibilities<br/><br/></strong>Successful candidates will have three (3) or more years of experience and demonstrated skills with the following<br/><br/><ul><li>Working as a member of an Agile Scrum team.</li><li>Developing new code and maintaining existing code on an existing system.</li><li>Working on minor bug fixes.</li><li>Performing automated builds and deployments</li><li>Contributing to technical documentation such as user guides, contract deliverable items, and supporting product training as needed.</li><li>Supporting risk assessments and developing risk mitigation countermeasures.<br/><br/><br/></li></ul><strong>Required Experience, Education, Skills &amp; Technologies<br/><br/></strong><ul><li>Three (3) or more years of experience in software development or engineering.</li><li>Bachelor’s degree in Computer Science or Information Technology.</li><li>Experience with the Java programming language.</li><li>Experience or familiarity with database technologies such as SQL, PostgreSQL, etc.</li><li>Experience or familiarity with front-end user interface technologies such as HTML, CSS, JavaScript, NodeJS, and JSON.</li><li>Experience with Linux operating systems.</li><li>Ability to develop modularized, maintainable software.</li><li>Ability to follow instructions and work in a team environment.</li><li>Ability to learn new software and technologies quickly.</li><li>Experience developing software using an IDE. <br/><br/><br/></li></ul><strong>Preferred Experience, Education, Skills &amp; Technologies<br/><br/></strong><ul><li>Experience with Eclipse or Visual Studio Code IDE.</li><li>Experience with Spring Boot and Spring Framework.</li><li>Experience with JIRA and GitLab.</li><li>Experience with Gradle.</li><li>Experience with IntelliJ and Kotlin programming languages.<br/><br/><br/></li></ul><strong><em>Security Clearance Level<br/><br/></em></strong><ul><li>TS/SCI with Polygraph<br/><br/><br/></li></ul><strong><em>Work Schedule<br/><br/></em></strong><ul><li>Full-time on-site at designated facility.<br/><br/><br/></li></ul><strong>Benefits Offered<br/><br/></strong><ul><li>Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Tuition/Training Assistance, Parental Leave, Paid Time Off, and Holidays.<br/><br/><br/></li></ul><em>Criterion Systems, LLC and its subsidiaries are committed to equal employment opportunity and non-discrimination at all levels of our organization. We believe in treating all applicants and employees fairly and make employment decisions without regard to any individual’s protected status race, ethnicity, color, national origin, ancestry, religion, creed, sex/gender, gender identity/gender expression, sexual orientation, physical and mental disability, marital/parental status, pregnancy (including childbirth, lactation, and related medical conditions), age, genetic information (including characteristics and testing), military and veteran status, or any other characteristic protected by law. For our complete EEO/AA and Pay Transparency statement, please visit </em><em>https//careers-criterion-sys.icims.com/.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

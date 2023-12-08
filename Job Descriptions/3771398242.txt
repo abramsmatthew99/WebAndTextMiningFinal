@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>As a Data Management Specialist you will assist the Bank in using information systems for decision making to achieve strategic competitive advantage. The position is responsible for iVue data warehouse administration, building relational database tables for third party data sets, and the design and timely distribution of key Bank reports. The role will utilize and support the reporting functions of other applications in use at the Bank.<br/><br/>The Data Management Specialist will participate in and adhere to data governance, promote best practices and mentor other Bank employees. The Data Management Specialist will recommend metrics and analysis, and leverage existing and new technology to create efficiencies and improve reliability.<br/><br/><strong>GENERAL DESCRIPTION OF DUTIES: <br/><br/></strong><ul><li> Support and utilize the reporting functions of existing Bank applications including but not limited to iVue, Touché Analyzer, Bank Intelligence, Prologue, and Nautilus to create efficiencies, deliver insight, and actionable information. <br/><br/></li></ul>Manage the iVue data warehouse as the Security, Powershare and Scheduling administrator.<br/><br/><ul><li> Work with Bank departments to create new relational database tables, design and automate import processes from third party systems. </li><li> Create and maintain product and organizational hierarchies based on the recommendation of product development and data governance committees. </li><li> Perform daily tasks necessary to keep systems operating efficiently including balancing applications and hierarchies daily. </li><li> Create balanced views for baseline reporting. </li><li> Ensure timely delivery of reports utilizing the Scheduler in conjunction with the IS department. Check reports for coding, assign triggers and set priority. </li><li> Review and distribute upgrade bulletins with detailed action plans. </li><li> Responsible for user and table access. <br/><br/></li></ul>Generate key metric reports such as Scorecards, Board Reports and select committee reports which analyze strategies and performance.<br/><br/>Work with Bank departments to identify reporting needs, develop requirements, and create reports or templates, recommend metrics and analysis, and develop ad-hoc reports as necessary.<br/><br/>Assist in identifying opportunities to leverage current and new technologies and recommends process improvements. Create efficiencies through scripting and data export and import processes across applications.<br/><br/>Support the creation and delivery of extracts to third party vendors and regulatory agencies.<br/><br/>Provide mentoring and training to report power users in the use of reporting tools, validation techniques, formulas, analysis, and report design. Promote best practices and instill report standards.<br/><br/>Participate in Data Governance meetings and adhere to governance guidelines.<br/><br/>Act as a resource to users regarding technical, operational and procedural problems including analysis of problems as they relate to reporting software in use at the Bank.<br/><br/>Aides in systems audits and works with the Enterprise Risk Management team to remain knowledgeable regarding current and future regulations.<br/><br/>Complete all required compliance training as assigned in a timely manner.<br/><br/>Perform other duties as assigned.<br/><br/><strong>FUNCTIONS SUPERVISED:<br/><br/></strong>Design and maintenance of custom tables in the data warehouse, day to day application and support activities for the data warehouse, and reporting activities as assigned.<br/><br/><strong>POSITIONS SUPERVISED:</strong> None<br/><br/><strong>BASIC KNOWLEDGE &amp; TRAINING REQUIRED FOR MAXIMUM PROFICIENCY: <br/><br/></strong>Work requires a strong understanding of relational databases and queries, as well as general banking or business knowledge, strong analytical skills, attention to detail, critical thinking, and organizational skills. A practical understanding of the concepts of data management, MSSQL and end user reporting tools, and a proficiency with Microsoft Excel and Access programs. The ability to function efficiently and effectively under deadlines.<br/><br/><strong>PHYSICAL DEMANDS/CONDITIONS REQUIREMENTS:<br/><br/></strong>Travel required to various Bank sites including branch locations, offsite business continuity facilities and/or training facilities utilized by the Bank.<br/><br/><strong>EXPERIENCE:<br/><br/></strong>One to three years of similar or related experience in database design, reporting, and analysis. Experience in the banking and/or financial services sector preferred. Must demonstrate a willingness to learn in an evolving department and show a strong ability to work collaboratively throughout the Bank while managing multiple tasks. Candidate should be one who embraces new technology and be capable of effectively communicating training to internal customers.<br/><br/><strong>EDUCATION: <br/><br/></strong>A four year college degree in either Computer Science or Business with a focus in data management, or completion of a specialized course of study at a business or trade school.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Advertising Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

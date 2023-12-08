@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>We are seeking a highly skilled and versatile professional to fulfill a multifaceted role that combines expertise in Azure ECA development, Collibra Data Catalog management, Informatica Cloud Data Quality, and data analysis!<br/><br/>This role involves designing and developing event-driven cloud applications on the Azure platform, maintaining data assets in Collibra Data Catalog, ensuring data quality with Informatica Cloud Data Quality, and performing data analysis to extract actionable insights from our data sources.<br/><br/><strong>Responsibilities Include But Are Not Limited To<br/><br/></strong><strong>Azure ECA Application Development:<br/><br/></strong><ul><li>Design, develop, and maintain event-driven cloud applications on the Azure platform.</li><li>Create scalable and resilient solutions that react to real-time events using Azure Functions, Logic Apps, and other Azure services.</li><li>Implement event-driven patterns for data integration and processing.</li><li>Ensure high availability, performance, and security of Azure-based applications.<br/><br/><br/></li></ul><strong>Collibra Data Catalog Management<br/><br/></strong><ul><li>Manage and maintain data assets in Collibra Data Catalog.</li><li>Define and enforce data governance standards and policies within Collibra.</li><li>Collaborate with data stewards and data owners to ensure data quality and compliance.</li><li>Support data lineage and metadata management efforts within Collibra.<br/><br/><br/></li></ul><strong>Informatica Cloud Data Quality<br/><br/></strong><ul><li>Implement and maintain data quality processes using Informatica Cloud Data Quality.</li><li>Develop and manage data quality rules, validations, and cleansing routines.</li><li>Collaborate with data stakeholders to improve data quality across the organization.</li><li>Monitor and report on data quality issues and improvements.<br/><br/><br/></li></ul><strong>Data Analysis<br/><br/></strong><ul><li>Perform in-depth data analysis to extract valuable insights from various data sources.</li><li>Create reports, dashboards, and visualizations to communicate findings to stakeholders.</li><li>Identify trends, patterns, and opportunities for data-driven decision-making.</li><li>Collaborate with business analysts and data scientists to support data-driven initiatives.<br/><br/><br/></li></ul><strong>Other Responsibilities Include<br/><br/></strong><ul><li>Strong analytical and problem-solving skills</li><li>Willingness to communicate complex findings effectively.<br/><br/><br/></li></ul>This role offers a unique opportunity to work across multiple domains, from cloud application development and data governance to data quality and analysis. If you are a skilled and versatile professional with a passion for data excellence, we encourage you to apply and make a meaningful impact on our organization's data-driven initiatives.<br/><br/><strong>Qualifications<br/><br/></strong>You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.<br/><br/><strong>Minimum Qualifications<br/><br/></strong>The candidate must have a Bachelor's Degree in Electrical/Computer Engineering or Computer Science or other Engineering related field and 4+ years of experience -OR- a Master's Degree in Electrical/Computer Engineering or Computer Science or other Engineering related field and 3+ years of experience -OR- a PhD in Electrical/Computer Engineering or Computer Science or other Engineering related field and 1+ year of experience in:<br/><br/><ul><li>Azure ECA/data warehouse development</li><li>Developing event-driven applications on the Azure platform</li><li>Programming languages like C#, Python, or JavaScript</li><li>Azure services, including Azure Functions, Logic Apps, and Event Grid</li><li>Event-driven architectures, messaging patterns, and stream processing</li><li>Data governance and metadata management using Collibra Data Catalog</li><li>Data governance and quality principles and best practices</li><li>Define and enforce data governance standards</li><li>Informatica Cloud Data Quality tools and processes</li><li>Developing data quality rules, validations, and cleansing routines</li><li>Data analysis tools such as SQL, Python, or R</li><li>Data visualization tools like Tableau, Power BI, or similar<br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Azure, Collibra and Informatica certifications are a plus<br/><br/><br/></li></ul>Inside this Business Group<br/><br/>Intel's Information Technology Group (IT) designs, deploys and supports the information technology architecture and hardware/software applications for Intel. This includes the LAN, WAN, telephony, data centers, client PCs, backup and restore, and enterprise applications. IT is also responsible for e-Commerce development, data hosting and delivery of Web content and services.<br/><br/>Posting Statement<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br/><br/><strong>Benefits<br/><br/></strong>We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.<br/><br/>Annual Salary Range for jobs which could be performed in US, Colorado, New York, Washington, California: $156,450.00-$234,770.00<br/><br/><ul><li>Salary range dependent on a number of factors including location and experience<br/><br/><br/></li></ul>Working Model<br/><br/>This role is available as a fully home-based and generally would require you to attend Intel sites only occasionally based on business need. This role may also be available as our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. <br/><br/><strong>In certain circumstances the work model may change to accommodate business needs.<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

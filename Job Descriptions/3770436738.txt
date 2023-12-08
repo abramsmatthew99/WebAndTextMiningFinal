@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:<br/><br/></strong>Software Application and Web Developer<br/><br/>KBR is seeking a Software Application and Web Developer to support government customers in the Washington Metropolitan Area. The Software Application and Web Developer role provides the expertise and experience to establish and maintain a development environment, incorporating industry standards and best practices, to enable management of development epics and support an agile sprint development schedule. This individual will also provide support, maintenance, and continued updates of the business process applications in use, while pursuing epics to consolidate disparate business processes into a single, cloud based capability.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Apply industry standards and best practices for managing test tool and software development, including: discrepancy tracking, reporting, and resolution. </li><li>Utilize industry best practices for dev, test, staging and production environments to include (but not limited to): </li><li>Infrastructure as Code </li><li>Platform as a Service Construct </li><li>Continuous Integration/Continuous Deployment (Delivery) Tools for development, deployment and configuration management of the architecture </li><li>Design for failure architecture approach </li><li>Containerization of Services </li><li>Continuous Monitoring and Inspection of health and compliance to policy of Services/Environments </li><li>Establish and maintain an agile sprint development environment in support of web tools, and test tool development and maintenance; adhering to agile processes and methodologies. </li><li>Adhere to prescribed processes and guidelines for web/tool development workstations and the development environment to include: requesting approval for software download/installation, software configuration, and software version control. </li><li>Manage and maintain content for the customer web presence on multiple security domains to include site design, content updates, collecting web metrics, and supporting access by external customers. </li><li>Perform physical installation, customization, support, maintenance, license updates, configurations, and monitoring of business process applications that are part of the customer internal support environment. </li><li>Develop a consolidated business process tool, integrating and replacing current project management capabilities; provide installation, customization, support, maintenance, license updates, and monitoring of the consolidated business tool after implementation. </li><li>Provide automated and manual test management capabilities to identify, standardize and import test objectives, test procedures, test plans, test documentation, releases and cycles structure, and design of overall and low level process flows. </li><li>Provide database design, development and maintenance (Oracle, PostGRSQL, or other as specified) for Test related web and tools projects. </li><li>Attend and support customer planning events and technical meetings </li><li>Participate in vendor product reviews and daily startup and wrap-up meetings <br/><br/></li></ul><strong>Required Education, Experience, &amp; Skills:<br/><br/></strong><ul><li>Bachelors degree in Software Engineering or Computer Science with at least 4+ years' of related technical experience (Additional professional experience may be considered in lieu of a degree) </li><li>Excellent interpersonal, organizational, and communication skills </li><li>Ability to work independently and as part of a team </li><li>Well versed in software engineering methodology and processes </li><li>Experience with web design, administration, and database-driven applications PHP, MySQL and HTML/CSS security concepts collaboration software </li><li>Familiarity with: </li><li>Java, Flex and Javascript </li><li>Python coding and other coding languages requirements and design analysis </li><li>Experience with testing and configuration management tools such as Git </li><li>GIS systems and tools (commercial or open source) </li><li>Open Geospatial Consortium (OGC) Specifications including WMS, WFS, WCS, CS-W spatial data, reference and projection systems <br/><br/></li></ul><strong>Security Clearance Requirements: </strong>Active TS/SCI with Poly<br/><br/>KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Civil Engineering, and Oil and Gas
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Reporting to our Director of Enterprise Enablement, you will play a key role on the Enterprise Business Systems team. You will be the liaison between Business and IT on enterprise system initiatives. This role requires a dynamic individual who can bridge the gap between business needs and technical solutions, with a focus on Salesforce expertise, passion to lean across on other supporting systems an overall commitment to improving the efficiency and effectiveness of enterprise systems.<br/><br/><strong>What you’ll do:<br/><br/></strong><ul><li> Partner closely with cross-functional GTM (go to market) teams on business requirements, data needs, supporting current processes and building new functionalities</li><li> You will work closely with Customer Success and Technical Support teams on supporting current processes and the journey to optimize current state within existing systems as well as implementing solutions on new systems</li><li> Lead requirement gathering sessions, prioritize requirements, collaborate with developers on design and implementation, and facilitate end-to-end execution of projects</li><li> Conduct gap analysis between applications and stated customer requirements, working alongside developers to estimate project impacts and provide solutions</li><li> Document existing business processes (As-Is), business requirements, and solution designs</li><li> Manage the day-to-day ticket queue while also contributing to the roadmap of upcoming initiatives</li><li> Support the implementation of new systems, migration of data, data synchronization across multiple systems</li><li> Writing test cases and supporting user acceptance testing (UAT) activities to ensure that business and system requirements are met</li><li> Assume the role of project manager as necessary to drive issue resolution and ensure project success</li><li> Delve into the interconnected systems within the Enterprise Business Systems ecosystem to ensure optimal functionality and data flow</li><li> Participate in RFPs and system evaluations</li><li> Make recommendations for process optimizations, system health and architecture</li><li> Analyze data, data flows, business processes, troubleshoot issues and partner with dev and business teams on optimized solutions<br/><br/></li></ul><strong>You will have</strong>:<br/><br/><ul><li> Relevant business analysis experience, with a strong understanding of how business and IT intersect</li><li> Salesforce experience as a Business Analyst or Administrator is required, demonstrating proficiency in Salesforce Sales Cloud and Support Cloud</li><li> Experience with other Salesforce apps is a nice to have</li><li> Experience with Customer success software such as Gainsight, Pardot/Salesforce account engagement or similar tools is highly preferable</li><li> Experience in SAAS (Software as a Service) business environment is highly preferable</li><li> Experience collaborating with go-to-market teams, customer success, technical support is highly advantageous</li><li> Experience with implementation initiatives, migration of systems and data will be advantageous</li><li> Experience with Quickbase is a plus</li><li> Excellent interpersonal skills, including exceptional verbal and written communication</li><li> The ability to communicate effectively at all levels of the organization, both with business and technical peers</li><li> A bachelor's degree (BA/BS) in Computer Science, Management Information Systems (MIS), or a related technical field</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

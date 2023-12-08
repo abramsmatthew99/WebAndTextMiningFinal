@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Qualis Corporation is seeking a talented Software Engineer to join our Qualis Software Engineering Directorate (QSED). As a QSED Software Engineer, you will be responsible for developing innovative software solutions to address a variety of problem-sets. You will work closely with a team of experienced multi-disciplinary engineers and subject matter experts to deliver exceptional software engineering services and solutions.<br/><br/><strong>Requirements<br/><br/></strong><strong>Essential Functions:<br/><br/></strong><ul><li>Perform software development in a process mature DevSecOps and Agile environment, primarily using C++ </li><li>Conduct independent research and rapid prototyping for various software projects, with a focus on hardware automation, performance optimization, and complex problem solving</li><li>Perform laboratory system and integration testing of software builds, prototypes, and experiments</li><li>Participate in cross-team communication and collaboration for requirements gathering and clarification, testing, validation, and other software consulting</li><li>Perform Linux system administration and cybersecurity support for engineering assets and high-performance computing environments</li><li>Contribute to the continual maturation of QSED infrastructure and processes<br/><br/></li></ul><strong>Minimum Requirements:<br/><br/></strong><ul><li>Bachelor of Science (BS) degree in Computer Science or Software Engineering from an ABET-accredited university with a minimum GPA of 3.5</li><li>3 - 5 years of Software Engineering experience</li><li>Candidate must have a minimum of 3 years of professional experience developing in C++ </li><li>Candidate must have experience in Windows and Linux system administration</li><li>Candidate must have the ability to learn new methods, technologies, and concepts</li><li>Candidate must have the ability to work efficiently and effectively independently and in a team/multi-team environment</li><li>Candidate must be willing to pursue certification as a Certified Secure Software Lifecycle Professional (CSSLP) when pre-requisites for certification have been met</li><li>Candidate must possess time-management skills</li><li>Candidate must be able to obtain an active Secret clearance</li><li>Candidate must be located in or willing to relocate to Huntsville, AL (or surrounding areas)<br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Experience with .NET languages or Java</li><li>Active DoD Security Clearance</li><li>Experience developing in a DevSecOps environment</li><li>Experience developing in an Agile environment</li><li>Experience developing in a process mature environment</li><li>Experience with web, mobile, and embedded development</li><li>Experience with cloud concepts and technologies</li><li>Experience with data engineering concepts<br/><br/></li></ul><strong>Benefits<br/><br/></strong>Qualis Corporation is committed to hiring and retaining a diverse and talented workforce who can contribute to the mission and vision of the Company. Our employees are our greatest asset, and we promote a positive work environment, teamwork, professional growth, innovation, community involvement, flexible scheduling and a family-friendly work environment.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

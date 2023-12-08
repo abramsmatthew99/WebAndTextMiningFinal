@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking dedicated and passionate educators to join our team as adjunct faculty members in the Computer Science undergraduate program for the spring 2024 semester. This opportunity involves teaching courses in Data Structures and algorithms and Computer Graphics in an online asynchronous format. While a single adjunct to teach both courses is preferred, we welcome applications from candidates interested in teaching either course.<br/><br/><strong>Responsibilities<br/><br/></strong>Deliver engaging instruction aligned with the course contract and schedule.<br/><br/>Participate in an orientation to acquaint yourself with our university's mission, academic policies, the Learning Management System, and expectations.<br/><br/>Clearly communicate course objectives, teaching methodologies, and deadlines while demonstrating practical applications of covered concepts.<br/><br/>Employ diverse teaching styles to effectively deliver course content and encourage active learning through discussions, assignments, and group projects.<br/><br/>Provide timely feedback and grading (within 24-48 hours) on assignments.<br/><br/>Engage with students not attending synchronous class times or displaying active engagement.<br/><br/>Report early alerts for students needing additional support.<br/><br/>Offer digital office hours for student inquiries and concerns.<br/><br/><strong>Qualifications<br/><br/></strong>Minimum:<br/><br/>Master's degree in Computer Science or a related field from a regionally accredited institution, supplemented by relevant IT work experience.<br/><br/>Student-centered approach and a passion for mentoring diverse student populations.<br/><br/><strong>Preferred<br/><br/></strong>Ph.D. in Computer Science or a related field from a regionally accredited institution.<br/><br/>Experience teaching online at a higher education level.<br/><br/>Proficiency in student learning assessment.<br/><br/>Demonstrated expertise in integrating instructional technology into teaching practices.<br/><br/>Ability to effectively use learning management systems for teaching and communication.<br/><br/>Your interest and qualifications, unofficial transcripts of advanced degrees, curriculum vitae, and contact details of three professional references. Finalists will be subject to a background check before receiving a formal employment offer. Official transcripts will also be required before the commencement of employment.<br/><br/>We are committed to fostering an inclusive, diverse, and supportive educational and work environment for all students, faculty, and staff. We encourage individuals from varied backgrounds, including diverse racial, ethnic, and cultural identities, women, veterans, and individuals with disabilities, to apply.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

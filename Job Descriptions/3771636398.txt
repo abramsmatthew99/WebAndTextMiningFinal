@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Concero</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Ben Oster" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQH0Wja9LBgO7A/profile-displayphoto-shrink_100_100/0/1687211261788?e=2147483647&amp;v=beta&amp;t=TxiaieOv82zxbvUT94Y-Y1BK7_oN19q7DkXrAdlyFBA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Ben Oster
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Technical Recruiter
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Ben Oster" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fben-oster-537879260&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Description</p><p><strong>Onsite St. Louis, MO</strong></p><p><strong><u>Data Scientist </u></strong></p><p>- Design and analyze lift experiments to drive product improvements with cross-functional teams.</p><p>- Conduct research and analysis to improve the statistical/ML model lift using experimental design and causal inference methods</p><p>- Write SQL queries to clean, aggregate, and/or impute data from multiple tables and/or across jump servers</p><p>- Manage IT tickets for simultaneous projects and tasks</p><p>- Maintain proper project documentation (Project scope, business requirements, workflow charts, data mapping, etc.)</p><p>- Build cross-functional relationships with SQL developers, business analysts, product marketing, Customer Success Managers (CSM), and other key stakeholders to identify opportunities to improve products, drive product launches, and influence product roadmaps</p><p><br/></p><p><strong><u>Qualifications</u></strong></p><p>- Bachelor's degree in a quantitative discipline (e.g., Statistics, Engineering, Biostatistics, Economics, Computer Science, Mathematics, Physics) and/or 2+ years of equivalent practical experience</p><p>- knowledge and experience in statistical methodologies, especially probability, hypothesis testing, experimental design, and causal inference</p><p>- Familiarity with machine learning algorithms and A.I. methodologies</p><p>- Understanding of project management principles</p><p>- Basic understanding of A/B testing</p><p>- Practical experience querying and analyzing large datasets using SQL</p><p>- Proficient in scripting languages like Java, JavaScript, Python, and/or R</p><p>- Able to work in an innovative and fast-paced environment</p><p><br/></p><p>#5737</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Information Services, and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

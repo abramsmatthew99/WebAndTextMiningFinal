@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About the Role:<br/><br/></strong>This role is a hybrid position, alternating between creating and maintaining web applications written in React as well as creating and maintaining data integrations primarily in SQL Server Integration Services. The team’s web applications are typically internally facing, though there are external facing applications as well. The integrations created/supported by this team include moving data between internal systems as well as business to business transfers, some requiring complex extract, transform and load processes prior to moving. A small, but important responsibility of this role is to complete support work via our ServiceNow queue to support our products for our customers.<br/><br/>This position would be a remote position with travel to our corporate office in Lafayette, IN once every 2 months.<br/><br/><strong>Yo</strong><strong>ur Responsibilities:<br/><br/></strong><ul><li>Translates business systems designs into appropriate technical solutions that may be implemented as a software development or systems integration efforts </li><li>Assesses feasibility for requested systems changes and enhancements and provides estimates of the effort required to make such changes and enhancements </li><li>Creates new software applications/integrations as well as maintain/enhance existing products </li><li>Automates application testing/deployment using DevOps tools and best practices </li><li>Be an active representative of the team by collaborating in daily Scrum meetings, including a willingness to highlight completed work each sprint </li><li>Participates in resolving customer reported problems by addressing assigned Service Now incidents in a timely manner <br/><br/></li></ul><strong>Let’s Talk About Your Qualifications:<br/><br/></strong>Bachelors degree in Computer Science or Computer and Information Technology with a plan of study focusing on software development or systems integration and 1-3 years of experience.<br/><br/><ul><li>Experience developing applications, specifically using Microsoft C# .net and Javascript, specifically using React </li><li>Experience utilizing data exchange formats such as JSON, XML, CSV </li><li>Experience building and consuming web-based APIs, ideally using node.js/express or Azure functions </li><li>Experience with relational databases, ideally SQL Server as well as writing SQL queries </li><li>Experience with SQL Server Integration Services, Logic Apps or other integration tools for facilitating Extract, Transform, and Load (ETL) operations </li><li>Experience implementing application, data and business to business integrations </li><li>Experience using source code repositories such as Git and DevOps pipelines for CI/CD operations <br/><br/></li></ul><strong>Leadership Attributes:<br/><br/></strong>At Wabash, we pride ourselves on being empowering, and there are some things we feel very strongly about:<br/><br/><ul><li>Embrace Diversity and Inclusion – Solicit and respect the input of others, celebrate differences, and strive for transparency and inclusiveness. </li><li>Seek to Listen – Actively listen to reach the best solution and make the strongest decisions. </li><li>Always Learn – Strive to improve; do not quit or settle for the status quo. </li><li>Be Authentic – Demonstrate honesty, incredible energy, and grit in everything you do. </li><li>Win Together – Collaborate, seek alignment, and excel at cross-group communication to success as one team and One Wabash. <br/><br/></li></ul>Join us in turning ideas into world-changing realities. Curate and build your high-impact professional career at Wabash!<br/><br/><strong>Affirmative Action/EEO Statement:<br/><br/></strong>Wabash is committed to providing equal employment opportunity for its associates and applicants without regard to race, color, religion, sex, age, national origin, veteran status, disability, or other protected class or activity under federal, state, or local law. All employment decisions must be based on neutral, legitimate criteria. All employment policies and rules shall be applied equally to similarly situated associates.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Truck Transportation
+          </span>
+</li>
+</ul>
+</div>
+</section>

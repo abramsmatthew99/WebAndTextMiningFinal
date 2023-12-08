@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong>Junior Node.JS Developer (US/Canada, 1 Year Experience, Remote)<br/><br/></strong>Team Remotely Inc. is a staffing and recruitment agency that offers a comprehensive solution for talent acquisition, including sourcing, vetting, pay rolling, and managing talent. Whether you need contract staffing, direct hire, direct sourcing, talent pools, or diversity initiatives, our model can support your hiring strategy.<br/><br/><strong> Hiring Type:</strong> Full-Time<br/><br/><strong> Base Salary:</strong> $62K-$78K Per Annum.<br/><br/><strong>Description:<br/><br/></strong>In this role, you will work closely with experienced developers and contribute to the design, development, and maintenance of robust and scalable applications using Node.js.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with the development team to gather project requirements and specifications. </li><li>Assist in the design, development, and maintenance of server-side applications using Node.js. </li><li>Learn to develop and consume RESTful APIs, integrating with third-party services. </li><li>Write clean and efficient code following best practices and coding standards. </li><li>Participate in unit testing and debugging to ensure code quality and reliability. </li><li>Collaborate with front-end developers to integrate server-side logic with client-side components. </li><li>Contribute to code reviews and actively participate in knowledge sharing. </li><li>Stay updated with emerging technologies and industry trends to enhance your skills and knowledge. </li><li>Seek guidance and support from senior team members to resolve technical issues. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Software Engineering, or a related field. </li><li>Basic understanding of JavaScript and web technologies. </li><li>Familiarity with Node.js and its ecosystem. </li><li>Understanding of asynchronous programming and event-driven architecture. </li><li>Knowledge of databases and SQL. </li><li>Strong problem-solving and analytical skills. </li><li>Excellent communication and collaboration abilities. </li><li>Eagerness to learn and a passion for web development. </li><li>Ability to work both independently and in a team-oriented, collaborative environment. <br/><br/></li></ul><strong> Why work with Team Remotely?<br/><br/></strong>Team Remotely Inc. is a staffing platform offering a seamless experience for employers and candidates. Employers can post job openings and specify their requirements, while candidates can create profiles and upload resumes.<br/><br/>The team of Team Remotely continuously learns and adapts based on previous successful placements, constantly improving its matching capabilities. This ensures that the recommendations provided by Team Remotely are tailored and accurate, increasing the likelihood of a successful match between employers and candidates. By providing intelligent and data-driven solutions, they strive to enhance the efficiency and effectiveness of the hiring process, ultimately helping companies find the best talent and individuals find their dream jobs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

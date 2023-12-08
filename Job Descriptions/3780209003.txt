@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Key Responsibilities:<br/><br/><ul><li> Defines the product vision , strategy and roadmap . </li><li> Gathers, manages, and prioritizes market/customer requirements . </li><li> Acts as the customer advocate articulating the user’s and/or buyer’s needs. </li><li> Works closely with engineering, sales, marketing, and support to ensure business case and customer satisfaction goals are met. </li><li> Has technical product knowledge or specific domain expertise. </li><li> Defines what to solve in the market needs document, where you articulate the valuable market problem you’re solving along with priorities and justification for each part of the solution. </li><li> Runs beta and pilot programs during the qualify phase with almost final products and samples. In Agile environments, regularly reviews completed work and checks with customers to ensure that it meets the customer expectations. </li><li> Is a market expert. Market expertise includes understanding the reasons customers purchase products. This includes a deep understanding of the competition, and how customers think of and buy your product. Product Managers need market research and competitive analysis skills to complete these tasks. </li><li> Acts as the product’s leader within the company. </li><li> Develops the business case for new products, improvements to existing products, and business ventures. </li><li> Develops positioning for the product. </li><li> Recommends or contributes information in setting product pricing . This point isn’t true in all industries, especially, for example, insuranc e; however, an awareness of competitive pricing is part of what companies expect you to provide as part of the pricing decision. <br/><br/></li></ul><strong>Must Have Qualifications<br/><br/></strong><ul><li> Bachelor’s degree in Engineering or Computer Science or equivalent OR Master’s in Computer Applications or equivalent. </li><li> 6+ years of experience as product owners and coordinating teams of engineers and scrum teams </li><li> Knowledge in handling data and cornerstone technology </li><li> Knowledge in handling microservice and understanding backend systems. </li><li> Demonstrated success in defining and launching products that meet and exceed business objectives. </li><li> Excellent written and verbal communication skills </li><li> Subject matter expertise in a particular product or market. This should include specific industry or technical knowledge. </li><li> Excellent teamwork skills </li><li> Proven ability to influence cross-functional teams without formal authority.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Product Management and Marketing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

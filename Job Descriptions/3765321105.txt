@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>My client is looking for an<strong><u> Application Support Analyst</u></strong> to join their growing team<strong> <u>onsite i</u>n <u>Worcester, MA.</u></strong> Application Support entails maintaining software applications deployed at the customer's end of the organization. This includes taking ownership of line of business application-related issues, ensuring the appropriate escalations, and assisting in ensuring the root causes of the issues are understood and addressed. </p><p><br/></p><p><u>Job Description:</u></p><ul><li><span>Investigating, diagnosing, and resolving faults and errors in the applications, coordinating resolution efforts with the application provider, as needed.</span></li><li>Serve as the subject-matter expert on various applications to troubleshoot end-user-related issues in line of business applications.</li><li>Perform all activities tied to the implementation and maintenance of the business application with end-users.</li><li>Ensure proper documentation for recordkeeping, change control, and configuration maintenance.</li><li>Provide effective project coordination of defined software implementations and upgrades as well as provide ongoing end-user support.</li><li>Conduct application testing with a test environment with end-users, as required.</li><li>Provide on-call coverage support as directed by the supervisor.</li><li>Maintaining and updating technical and instruction manuals, and procedures for users.</li><li>Test fixes and perform post-resolution follow-ups to ensure related problems have been adequately resolved related to business applications.</li></ul><p><br/></p><p><u>Qualifications:</u></p><ul><li>2 years of experience in the application support role with a focus on accounting, inventory, pricing, and similar ERP applications, preferably in the retail industry. Overall, five years of IT experience is desired.</li><li>A bachelor’s degree in information technology, computer science, mathematics, or equivalent education is required.</li><li>Proven ability to create and maintain standard operating procedures and document application support processes.</li><li>3+ years experience with ETLs </li><li>Experience supporting ERP Applications</li><li>Proven experience with PowerShell scripting and general programming background as a plus.</li><li>Working knowledge of writing and modifying SQL queries and Windows event monitoring of desktop and server operating systems.</li><li>Experience with the PDI Enterprise application suite is a plus.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Oil and Gas, and Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

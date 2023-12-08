@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: Information Security Analyst<br/><br/></strong><strong>Location: Atlanta, GA - Onsite work<br/><br/></strong><strong>Duration: 6 months+<br/><br/></strong><strong>Job Details<br/><br/></strong>Under general supervision, plans, directs and coordinates agency activities in Information Technology, specifically in the field of Information Security. Develops and enforces the organization's security policies and procedures. Audit reviews &amp; support.<br/><br/><strong>Job Summary<br/><br/></strong>Under general supervision, plans, directs and coordinates agency activities in Information Technology, specifically in the field of Information Security.<br/><br/>Develops and enforces the organization's security policies and procedures, information security awareness program, the security information portion of the business continuity and disaster recovery plans, and all industry and government compliance issues. Also responsible for reviewing, conducting, assessing, and supporting various security audit functions and procedures. Advise and oversee audit huddle to disseminate audit information and procedures. Provide support for information and cybersecurity analytical reviews, troubleshooting and research. Work with InfoSec security tools and applications. Incorporates the design of and develops security procedures to allow the deployment, management, control updating of platform and user specific security policies on a diverse range of internal hardware platforms supporting various software operating systems.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in information technology, computer science, information assurance, or a related field from an accredited college or university, Security+ Certification AND Five years of information technology experience, One year of which in information security or information assurance.<br/><br/></li></ul><strong>Required Skills And Experience<br/><br/></strong><ul><li>2+ years in Security Policy development, reviewing, and revision.</li><li>Strong oral and written communications.</li><li>3+ years of experience working with IT technology and security tools.</li><li>Networking terminology, analytical ability &amp; troubleshooting.</li><li>Microsoft Server, Windows, Active Directory (AD) &amp; MS-O365.</li><li>IRS Publication 1075 knowledge &amp; familiarity.</li><li>NIST SP 800-53, 800-37, CFS knowledge.</li><li>Bachelor's degree in information technology, computer science, information assurance, or a related field from an accredited college or university</li><li>Security+ Certification</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

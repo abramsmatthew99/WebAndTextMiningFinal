@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        SciTec has been awarded multiple government contracts and is growing our creative Team! SciTec, Inc. is a dynamic small business with the mission to deliver advanced sensor data processing technologies and scientific instrumentation capabilities in support of National Security and Defense. We support customers throughout the Department of Defense and U.S. Government in building innovative new tools to deliver unique world-class data exploitation capabilities.<br/><br/>SciTec is seeking an experienced Cloud Engineer. We are supporting our National Air and Space Intelligence Center (NASIC) customer under the recently awarded NOVASTAR contract. In this role, you will contribute Kubernetes platform capabilities to facilitate streamlined use of AWS cloud and performing cloud engineering activities related to the NASIC Enterprise platform to assist with configuring Istio Service Mesh. We follow Agile methodologies, specifically SCRUM. We're leveraging CI/CD, TDD, and cloud (AWS) infrastructure.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Installation and management of cluster management services like service mesh, storage providers, and centralized logging</li><li> Actively contributing to the technical growth of other partners</li><li> Navigating development teams through the benefits, trade-offs, and value of technology decisions</li><li> Write documentation to describe installation and trouble shooting procedures</li><li> Work collaboratively with multiple contractor teams</li><li> Present work completed to NASIC stakeholders</li><li> Other duties as assigned<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science or relevant technical field </li><li>TS/SCI Security Clearance </li><li>Experience with Kubernetes and Istio Service Mesh </li><li>Experience with Linux CLI and shell scripting</li><li>Detail oriented</li><li>Good verbal and written communication skills<br/><br/></li></ul><strong>Benefits<br/><br/></strong>SciTec offers a highly competitive salary and benefits package, including:<br/><br/><ul><li>3% Fully Vested Company 401K Contribution (no employee contribution required) </li><li>100% company paid HSA Medical insurance, with a choice of 2 buy-up options</li><li>80% company paid Dental insurance</li><li>100% company paid Vision insurance</li><li>100% company paid Life insurance</li><li>100% company paid Long-term Disability insurance</li><li>Short-term Disability insurance</li><li>Annual Profit-Sharing Plan</li><li>Discretionary Performance Bonus</li><li>Paid Parental Leave</li><li>Generous Paid Time Off, including Holiday, Vacation, and Sick Pay</li><li>Flexible Work Hours<br/><br/></li></ul>The pay range for this position is $85,000 - $134,000 / year. SciTec considers several factors when extending an offer of employment, including but not limited to the role and associated responsibilities, a candidate's work experience, education/training, and key skills. This is not a guarantee of compensation.<br/><br/>SciTec is committed to hiring and retaining a diverse workforce and is proud to be an Equal Opportunity/Affirmative Action employer.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

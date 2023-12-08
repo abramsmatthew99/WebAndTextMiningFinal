@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>For over 100 years, BlueScope continues to build on our reputation of quality brands and products, leading technology and a customer-first spirit. Through our global brands, we are one of the largest manufacturers of building solutions in the world. Our diverse, bright and inspired workforce is committed to bettering the communities we serve through breakthrough thinking and innovations. Your goals, ideas and perspective can help shape our future – we look forward to hearing them!<br/><br/><strong>Job Description<br/><br/></strong>The Internal Testing Specialist develops and implements testing plans for various software development initiatives. Development includes identifying test protocols, determining testing resources, and integrating test criteria into user stories. Implementation includes executing the testing plans, coordinating testing resources, and ensuring quality testing is completed. This testing is part of the Quality Assurance, Regression, and User Acceptance testing phases. The Coordinator supports and engages in a collaborative work environment between testers that assures and validates that software tools and applications developed by the Software Development group function as specified and meet or exceed the requirements and expectations of the end-use customer.<br/><br/><ul><li>Manage/supervise/execute testing processes and procedures in conjunction with Software Development and a virtual dynamic team</li><li>Communicate clearly to stakeholders, both in writing and verbally, specific test results, feedback, and any appropriate actions suggested</li><li>Mentor/train people supporting Testing</li><li>Lead and advise others regarding quality control for specific projects or applications as assigned by management</li><li>Proactively seek learning opportunities and stay current on new skills to bring benefit to the local program office and projects.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Minimum: <br/><br/></strong><ul><li>Bachelor's degree in computer science, engineering, or a related field or 4 years of equivalent work experience in lieu of degree</li><li>1 year of relevant experience <br/><br/><br/></li></ul><strong>Preferred: <br/><br/></strong><ul><li>2+ years of relevant experience</li><li>Experience with testing software</li><li>Experience leading a team</li><li>Internal product and systems knowledge</li><li>Competent in Engineering and Builder Services systems<br/><br/><br/></li></ul><strong>Additional Information<br/><br/></strong>The preceding job responsibilities and tasks were designed to indicate the general nature and level of work performed by associates in this job. It is not designed to contain or be interpreted as a comprehensive inventory of all job duties and responsibilities required of associates assigned to this job. Associates may be required to perform other duties as assigned. Additional job competencies, individual goals, and performance measurements are set at the department level.<br/><br/>The benefits are just as rewarding as the work at BlueScope. To support our goal, we offer a total compensation plan and an outstanding benefits package that includes health insurance, life insurance, short and long term disability, paid time off, and retirement.<br/><br/><strong>EEO Employer/M/F/Disabled/Protected Veteran<br/><br/></strong><strong>BlueScope is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status, as a protected veteran, among other things, or status as a qualified individual with disability.<br/><br/></strong><em>#AT-Hybrid<br/><br/><br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction
+          </span>
+</li>
+</ul>
+</div>
+</section>

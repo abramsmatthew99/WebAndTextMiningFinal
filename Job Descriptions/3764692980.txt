@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        HYBRID<br/><br/>Who we are: Groups360 is a booking engine for meeting space founded in 2014 by former Gaylord Entertainment executives Dave Kloeppel and Kemp Gallineau. Groups360 was created with a singular goal — to empower meeting planners by bringing innovation, transparency, and simplicity to the decades-old problem of booking groups. The company’s technology, GroupSyncTM, enables suppliers to distribute inventory, engage with planners, and optimize group revenue. GroupSync also equips planners to search and shop hotels worldwide and book rooms and space directly, online, or through a simplified RFP process. GroupSync is the first distribution channel to offer online booking for both group hotel rooms and meeting space. Groups360 has offices in Nashville, London, and Singapore.<br/><br/>Our Partners: In 2019, major hospitality players Accor, Hilton, IHG and Marriott, invested a combined $50 million in Groups360 to help fuel instant-booking development. In 2022, the world’s largest alternative asset manager Blackstone Innovations Partners, New York Hedge fund Fir Tree Partners, and property and technology investment firm, Zigg Capital invested a combined $35 million in Groups360 to help drive the industry wide transformation, making group travel simple.<br/><br/>Life at Groups360: Groups360 is an innovative, high-growth company with offices in Nashville, London and Singapore. Groups360 is an equal opportunity employer, and our dedication to promoting diversity, multiculturalism and inclusion is reflected in the foundation of all we do.<br/><br/>Who we’re looking for: The demand for Groups360 products and services is at an all-time high. So, we are looking for ambitious, self-starters who want to impact the $1 trillion meetings and events industry. Successful team members have been those with the desire to be a part of a high- growth team and organization that finds and solves problems individually and as part of a team. If you’re looking to be a part of a fast-paced, highly motivating and rewarding environment at the intersection of hospitality and technology, then your next career starts here!<br/><br/>The role: The Quality Assurance Analyst III will work within our Groups360 platform and be its’ Champion amongst other department teams made up of Architects, DBAs, Software Engineers, Product Development, Scrum Masters, and DevOps personnel. This position should be experienced with the concepts of Agile/Scrum processes and participating in and helping to maintain that culture, leading by example. Quality Assurance Analyst III must be experienced with the Software Testing Life Cycle (STLC) and have demonstrated experience with testing web applications, identifying defects, creating test plans, and writing complex automation scripts using tools such as Selenium, JavaScript/Python or Java/C#.<br/><br/>What you will do:<br/><br/><ul><li>Responsible for the oversight and coordination of Build Validation and Verification, Positive and Negative, Boundary Values, Smoke (Sanity), Functional/Feature, Integration, System, Ad-hoc (Exploratory), Cross–Browser, User Interface and Regression test development. </li><li>Execute the development of test automation framework and manual testing, actively involved in creation and management of detailed test plans test cases and test scenarios for different application modules according to functional requirements and business specifications. </li><li>Spearhead troubleshooting and triaging of issues with different teams to drive towards root cause identification and resolution. </li><li>Analyzes results and recommends a course of action if necessary to ensure that functionality and performance standards demanded by the organization are maintained. </li><li>Responsible for the creation and maintenance of a test dashboard that automation will utilize in an effort to keep department staff aware of test completion and status. </li><li>Develop and maintain complex SQL queries that validate backend data. </li><li>Design and create complex test conditions and scripts to address business and technical use cases. </li><li>Develop automation strategy/effort and generate scripts that continually automate testing cycles in tools such as Selenium, JavaScript/Python or Java/C#. </li><li>Partner with Product Management, Project Management and Development teams to develop a strong understanding of the project and testing objectives. </li><li>Partner with Quality Assurance Manager to manage QA workflow. <br/><br/></li></ul>Education and experience:<br/><br/><ul><li>Bachelor's Degree in Computer Science, Software Architecture or a similar field or equivalent experience. </li><li>4+ years’ experience in software quality assurance as an individual contributor. </li><li>2+ years’ experience in database skills, mainly in SQL. </li><li>2+ years’ experience in development of scripting for web applications using tools such as Selenium, JavaScript/Python or Java/C#. </li><li>Experience with GitHub, CI/CD tools, Mac/Windows, AWS/Cloud </li><li>Active practice of Agile and Scrum methodologies. </li><li>Experience creating test plans and strategies. <br/><br/></li></ul>Additional eligibility qualifications:<br/><br/><ul><li>Excellent verbal, written and group communication and presentation skills; ability to utilize communication skills to effectively influence across functions and business units as well as across different leadership levels. </li><li>Excellent organizational &amp; analytical skills and ability to multi-task in a fast-paced environment. </li><li>Results-driven and execution-oriented personality, ready to take ownership and get results. </li><li>Proficiency in Microsoft Office 365 Suite: Word, Excel, PowerPoint, Project, SharePoint. <br/><br/></li></ul>Core Business Hours: 8:00 a.m. to 5:00 p.m. M-F, Hybrid; due to a business need, you may be expected to perform these duties outside of these business hours.<br/><br/>Status: Exempt<br/><br/>Location: Brentwood, TN. HYBRID (3 days in-office, 2 days remote).<br/><br/> <br/><br/>(Company will not sponsor C2C or Work-related Visas) <br/><br/> <br/><br/>Groups360 is proud to be an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law. All employment is decided on the basis of qualifications, merit, and business need.   <br/><br/>NOT ACCEPTING AGENCY CALLS OR SUBMISSIONS
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitality
+          </span>
+</li>
+</ul>
+</div>
+</section>

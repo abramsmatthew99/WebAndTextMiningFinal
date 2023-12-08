@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>We Are Bed Bath &amp; Beyond<br/><br/></strong>At Bed Bath &amp; Beyond, we believe that everyone should “Be You!”. Bed Bath &amp; Beyond is a community that upholds a culture of understanding, acceptance, and respect. We believe a person’s individuality is at the core of diversity, and those traits, beliefs, and characteristics should be valued and embraced. Living by this ethos is essential to the success of our business. Our goal is to foster a more diverse environment where every employee visibly demonstrates inclusive behaviors and respect for individuals.<br/><br/><ul><li>Gather, clean, report, and interpret data rapidly and thoughtfully. Ingest large volumes of data, identify the critical signal in all that information, and then act on that signal to drive millions in growth or savings. </li><li>Perform ad hoc analysis through data mining and visualization. </li><li>Partner with product, engineering, and business teams to solve problems and identify opportunities.</li><li>Design and analyze experiments to generate actionable outcomes. </li><li>Report findings, recommendations, and conclusions resulting from analysis. </li><li>Construct informative and insightful visualizations. A good visualization can be the difference between confusion and comprehension. </li><li>ETL and analysis of large-scale data using SQL, Hadoop, BigQuery and related tools. </li><li>Build tools that enable other teams to perform and understand analytics. </li><li>Perform other duties as required and assigned by manager and upper management.<br/><br/></li></ul><strong>Minimum Requirements<br/><br/></strong><strong>EDUCATION:</strong> Bachelor’s degree strongly preferred or U.S. equivalent in Business, Business Analytics, Mathematics, Computer Science, Information Systems, Statistics, Economics or other related field.<br/><br/><strong>EXPERIENCE:</strong> 1 year professional experience working with structured data to perform analysis and provide business insight.<br/><br/><strong>Must Also Have The Following<br/><br/></strong><ul><li>1 year Extracting data from a structured data warehouse (100+ tables and 1 billion + observations)</li><li>1 year Creating useful data visualizations in MicroStrategy and creating and scheduling in memory data cubes and connecting to live data</li><li>1 year experience adapting the scientific method to a business application</li><li>1 year Commanding business computing skills including Microsoft Excel, PowerPoint, Word, etc…)<br/><br/></li></ul>Base Salary Range - $67,000 - $83,000<br/><br/><strong>Who We Are<br/><br/></strong>We’re a passionate group of collaborative problem solvers and creative innovators, working on cutting-edge technology. From building award-winning retail applications (with amazing AR functionality) to creating leading blockchain and machine learning technologies, each of us embodies a unique value and contributes a diverse perspective to the team.<br/><br/><strong>What We Offer<br/><br/></strong><ul><li>401k (6% match)</li><li>Flexible Schedules</li><li>Onsite Health Clinic</li><li>Tuition Reimbursement, Leadership Development Program, &amp; Mentorship Program</li><li>Onsite Fitness Center</li><li>Employee Resource Groups (LatinX, Black Employee Network, LGBTQIA+, Women’s Network, Women In Tech)</li><li>And More…</li><li>Benefits vary based on position, tenure, location, and employee election<br/><br/></li></ul><strong>Physical Requirements<br/><br/></strong>This position requires you to sit, stand and perform general office functions. You may also be required to lift up to 25 pounds occasionally. Bending, stooping and reaching are also frequently required.<br/><br/><strong>Equal Employment Opportunity<br/><br/></strong>It is our policy to provide equal employment opportunity for all applicants and associates.  This policy includes our commitment to ensure that all employment decisions are made without regard to race, color, religion, gender, national origin, disability, pregnancy, veteran status (including Vietnam era veterans), age, sexual orientation, gender identity, or any other non-job-related characteristic protected by law.<br/><br/>Back to Beyond Careers
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Marketplace Platforms
+          </span>
+</li>
+</ul>
+</div>
+</section>

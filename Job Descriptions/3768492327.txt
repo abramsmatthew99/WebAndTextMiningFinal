@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Concord is looking for a Machine Learning Operations Engineer to join our growing Decision Science team.<br/><br/>At a high level, the ML Ops Engineer will work directly with client and internal team members to:<br/><br/><ul><li>Plan, create, and fine-tune data pipelines and automation workflows for machine learning, data science modeling, and BI. </li><li>Create, prepare, and maintain databases and tables to power reports, dashboards, predictive models, and downstream analysis. </li><li>Architect Machine Learning &amp; AI Cloud environments from strategic roadmapping to technical implementation. <br/><br/></li></ul><strong>What You'll Be Doing<br/><br/></strong><ul><li>Develop processes and procedures for ingesting data from disparate sources. </li><li>Create and maintain customized SQL queries to build data science, AI, and BI data structures. </li><li>Develop and implement data models necessary to build analytic solutions as defined by stakeholder requirements. </li><li>Guide non-technical stakeholders and helping them build the technical requirements to fit their business requirements</li><li>Validate data to determine and document any gaps between available data and requirements for reporting outputs and downstream analysis. </li><li>Consult on and implement solutions that balance cost and performance in the cloud environment</li><li>Manage multiple client requests and detailed project activities at any one time to ensure accurate, timely and efficient reporting and analysis deliverables. </li><li>Grow &amp; evolve skills to stay ahead of the curve on engineering best practices for machine learning and AI. <br/><br/></li></ul>SQL and Python skills are critical for this ML Ops Engineer role. Consideration will be given to qualified candidates with varying levels of experience, with compensation commensurate with experience.<br/><br/>WHAT EXPERIENCE WOULD WE LIKE TO SEE?<br/><br/><ul><li>Working knowledge in at least one of the following scripting languages: Python, Bash, R</li><li>Advanced SQL &amp; API experience</li><li>Working with a leading analytics or relational database system, such as Redshift, DataBricks, BigQuery, PostgreSQL, or MySQL</li><li>Developing cloud-based data solutions on Snowflake, AWS, Azure, or Google Cloud</li><li>Working in big data solutions such as Hadoop, Hive, or Spark</li><li>Using change release processes and tools such as Git &amp; Jira</li><li>General understanding of how to conduct data analysis on large data sets, via Python, R, Sagemaker, or Snowpark</li><li>Experience operationalizing machine learning models created by statisticians, business analysts, and data scientists</li><li>Developing and implementing data transformation via ETL processes and data pipelines</li><li>Legally authorized to work in the United States without company sponsorship now or in the future</li><li>Minimum of a Bachelor’s degree in Computer Science, Information Systems, Business, Marketing, or a related discipline<br/><br/></li></ul><strong>Other Experience That Is Helpful, But Not Required<br/><br/></strong><ul><li>Working knowledge with Databricks</li><li>Working with clickstream web analytics tools such as Adobe Analytics (Omniture SiteCatalyst), Google Analytics, or working knowledge of the field of web analytics</li><li>Knowledge of commonly-used digital metrics, analytic concepts, and online marketing channel best practices</li><li>Working with data analysis tools such as SAS, Tableau, Google Data Studio, Qlik, or Power BI</li><li>Knowledge of business intelligence methodologies and tools</li><li>Proficiency in spreadsheet and presentation technologies such as Excel, PowerPoint, or Google Docs</li><li>Creating and preparing databases and tables for predictive modeling and data science applications</li><li>General understanding of machine learning models and statistical techniques</li><li>General understanding of artificial intelligence models and techniques<br/><br/></li></ul>More than just a consulting firm, Concord is an execution company helping clients enhance customer experience, optimize operations, and differentiate product offerings. From digital transformation and legacy modernization to domain-driven design, we deliver real solutions for the problems our clients face. Join one of the fastest growing consulting firms in the Midwest!<br/><br/>Our core capabilities work together to help companies untangle their toughest business and technology challenges: Business Strategy &amp; Alignment, Digital &amp; User Experience, Cloud Applications &amp; Integration, Data Solutions &amp; Analytics, Quality Engineering, and Information Security.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

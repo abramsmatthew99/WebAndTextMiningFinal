@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Verticalmove, Inc</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Patrick Lim" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQGjK4-Z2LReDw/profile-displayphoto-shrink_100_100/0/1668570515386?e=2147483647&amp;v=beta&amp;t=TmYsE2CtNVkgcPHQXqarquWSLJu0JAmT5wUp3PSz9is" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Patrick Lim
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Manager, Vendor Management and Lead Infrastructure (Ops | Infra | Prod. Support)
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Patrick Lim" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fpatrick-lim-3168ab212&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><u>ABOUT OUR COMPANY:</u></p><p>Verticalmove is among the 2023 Inc. 5000 list of the fastest-growing private companies in America! We build digital transformation, product, and software engineering teams...</p><p>Verticalmove is a respected Digital Transformation and Technical Recruitment services company with more than 20 years of proven results, delivering solutions to Fortune 500 companies and start-up organizations by finding top professional talent before their competitors can.</p><p><br/></p><p>About The Role:</p><p>We are actively seeking senior engineers to join our team, with a specific focus on enhancing our data engineering and machine learning capabilities. Senior engineers, in particular, should possess a minimum of 2 years of experience in machine learning and data engineering, enabling them to effectively process data and enhance data quality through (semi-)automated processes. Don't hesitate to apply, even if you believe you might not fulfill every qualification. If you are motivated to learn and contribute to the development of foundational models, we welcome your application.</p><p><br/></p><p>Responsibilities:</p><p>In this role, you will be responsible for:</p><ul><li>Designing and creating data collection pipelines to efficiently gather and preprocess diverse datasets from various sources.</li><li>Developing data processing pipelines encompassing tasks such as data labeling, data filtering, data cleaning, and data visualization.</li><li>Implementing machine learning models to elevate data quality and diversity.</li></ul><p>You may be a strong fit if you possess:</p><ul><li>A robust command of building large-scale data processing pipelines, including familiarity with distributed workloads (e.g., multiprocessing).</li><li>Proficiency in at least one programming language commonly employed in machine learning, such as Python, and the ability to produce clean, maintainable code.</li><li>Proficiency in at least one deep learning framework, such as PyTorch.</li><li>A Bachelor's degree in computer science or an equivalent field.</li><li>Exceptional problem-solving skills and meticulous attention to detail, especially when addressing data anomalies and biases to further refine data quality.</li></ul><p>Strong candidates might also have:</p><ul><li>Familiarity with tools used for data labeling (e.g., LabelStudio), data collection (e.g., VPN, Selenium), and data processing (e.g., Hadoop, Datasketch).</li><li>Experience in constructing extensive datasets.</li><li>Hands-on experience with cloud platforms such as AWS, Azure, or GCP.</li><li>Practical experience in machine learning, such as language, vision, or audio-related projects.</li><li>An active presence on GitHub, showcasing contributions to projects.</li><li>Multilingual proficiency contributing to the enrichment of language diversity, a crucial aspect of robust model training.</li><li>Familiarity with fairness considerations, toxicity, data privacy regulations, and compliance aspects.</li><li>If you're passionate about data engineering and machine learning and are motivated to make a difference, we encourage you to explore this opportunity. Our team is dedicated to cultivating a diverse environment where learning and innovation thrive. Whether you are an experienced engineer or a junior looking to grow, we welcome you to apply. Your contributions could shape the development of foundational models and contribute to our mission.</li></ul><p><br/></p><p><br/></p><p>Required Education: Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

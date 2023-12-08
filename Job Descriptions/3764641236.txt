@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Information Security Engineer II - Cloud<br/><br/><strong>Summary<br/><br/></strong>Conexess Group is aiding a Fortune 500 client in their search for an Information Security Engineer II within IT. This is an immediate full time need and our client is offering competitive pay, 401(k)/Profit Sharing/Employee Stock Ownership Program, PTO, very affordable healthcare options and career advancement opportunities within the company. Candidates will be asked to be onsite in the office just outside of Cincinnati, Ohio. We are offering a relocation package for this full time hire.<br/><br/><strong>Daily Responsibilities:<br/><br/></strong><ul><li>Engineering solutions (processes, technologies) to mitigate control gaps; presenting proposed solutions to IT management</li><li>Coordinating with vendors for proof-of-concept, proof-of-value, and pilot exercises</li><li>Reviewing information systems to identify potential security weaknesses, recommending improvements to reduce vulnerabilities</li><li>Taking part of on-call rotation to triage any potential security incidents</li><li>Participating in network and systems design to ensure implementation of appropriate systems security policies</li><li>Maintaining and growing knowledge and understanding of information security, risk management and regulatory compliance topics, providing occasional after hours and weekend support for project efforts. </li><li>Acting as mentor for junior engineers and working collaboratively with various company partners to design, build, and deploy security frameworks. <br/><br/></li></ul><strong>Required Skills/ Qualifications:<br/><br/></strong><ul><li>High school diploma/GED required; Bachelor's degree in Computer Science or related IT area, preferred</li><li>Minimum 7 years of experience in Information Technology</li><li>Minimum 4 years of experience in Information Security</li><li>Strong knowledge of cyber security practices and procedures</li><li>Strong knowledge of networking and infrastructure best practices</li><li>Ability to act as the primary SME for Cloud Security</li><li>Strong working knowledge of the CSF Framework</li><li>Strong working knowledge of GCP, GCVE required; Azure preferred<br/><br/></li></ul>Preferred:<br/><br/><ul><li>Industry certifications (e.g., GCP, ACE)<br/><br/></li></ul><strong>Location <br/><br/></strong>Mason, OH, US, 45040<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

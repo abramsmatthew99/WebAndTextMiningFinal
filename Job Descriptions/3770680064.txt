@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Role: Sr. Machine Learning Engineer<br/><br/></strong><strong>Location: Remote (US)<br/><br/></strong><strong>Duration: 12+ Months<br/><br/></strong><strong>Only W2<br/><br/></strong><strong>Responsibilities<br/><br/></strong><ul><li>Design, develop, debug, and modify components of machine learning and deep learning systems and applications, including data/ETL and feature engineering pipelines.</li><li>Work collaboratively with data scientists, machine learning engineers, program and product managers in the development of assigned components.</li><li>Prototype creative solutions quickly by developing minimum viable products<br/><br/></li></ul><strong>Technical Skills<br/><br/></strong><ul><li>Ability to write robust code in one or more of Python, Scala and Java</li><li>Proficient in core technologies like Spark, Hadoop and Hive.</li><li>Experience in building real-time applications, preferably in Spark and streaming platforms like Kafka and Kinesis.</li><li>Good understanding of machine learning pipelines and machine learning frameworks such as TensorFlow and PyTorch.</li><li>Familiar with cloud services like AWS, Azure and workflow orchestration tools (e.g., Airflow).</li><li>Experienced in using SQL for querying data from relational tables.</li><li>Degree with strong technical focus (Computer Science, Engineering).</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

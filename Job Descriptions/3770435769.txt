@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><u>About Hexaware:</u></p><p><br/></p><p>Hexaware Technologies is the fastest growing organization of today, Hexaware gives you great growth prospects, the opportunity to work along with brilliant minds, and a diverse range of high-profile clients, as well as an ideal work-life balance with 37 global offices. Our digital offerings have helped our clients achieve operational excellence and customer delight by ‘Powering Human-Machine Collaboration.’ We are now on a journey of metamorphosing the experiences of our customer’s customers by leveraging our industry-leading delivery and execution model, built around the strategy - ‘Automate Everything, Cloudify Everything, Transform Customer Experiences.’ We serve customers in Banking, Financial Services, Capital Markets, Healthcare, Insurance, Manufacturing, Retail, Education, Telecom, Hi-tech &amp; Professional Services (Tax, Audit, Accounting, and Legal), Travel, Transportation, and Logistics. Hexaware services customers in over two dozen languages, from every major time zone and every major regulatory zone. Our goal is to be the first IT services company in the world to have a 50% digital workforce. For more details Visit us at www.Hexaware.com.</p><p><br/></p><p><u>Position Summary:</u></p><p><br/></p><p>Hexaware‘s Next-Gen software engineering services are perfectly tailored to help enterprises scale their IT transformation goals. The services spectrum encapsulates key focus areas that can help businesses pivot to competitive advantage. The accent is on holistic enterprise-wide transformation driven by cloud native multi-cloud solutions, server less architecture, edge computing, observability platforms, low code/ no code development, and AI adoption bolstered by a best-fit integration of DevSecOps all through the development cycle.</p><p><br/></p><p>12+ years of experience in IT</p><p>Must have experience as an Agile Coach and also as a Scrum Master</p><p>More than 8 years of exp. as a Scrum master especially managing larger/complex projects.</p><p>Managing the work, including management of the Product Backlogs</p><p>Developing the organizational release plan/roadmap (project timeline)</p><p>Assessing the organization and guiding management/team towards the right Agile scaling methodology</p><p>Improving Scrum and technical practices</p><p>Run Scrum teams.</p><p>Writing acceptance criteria, user stories, and other requirements</p><p>Identifying impediments and bringing visibility</p><p>Experience in Banking and Financial services domain-based projects</p><p>Strong knowledge and experience in Agile ceremonies and scrum frameworks</p><p>Experience in tools like Jira, ADO etc.</p><p>Excellent communication skills</p><p>Good experience in stakeholders’ management</p><p>Good experience in creating features, user stories, track issues in Agile framework tools.</p><p><br/></p><p><br/></p><p><br/></p><p><u>Education &amp; Experience:</u></p><p><br/></p><p>· Masters/Bachelor’s Degree in Computer Science or equivalent with 5+ years work experience</p><p><br/></p><p><u>Benefits:</u></p><p><br/></p><p>In addition to a competitive salary and sign-on bonus, Hexaware has an excellent health benefit plan for medical, dental, and vision. We also offer paid holidays and time off so you can relax and unwind. And our sick leave plan allows you to take paid time off to care for yourself or even a family member. Throw in our 401(k), and we know you’ll feel the love!</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

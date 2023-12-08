@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Vertex Solutions Inc.</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Tammi Heiney" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Tammi Heiney
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Senior Technical Recruiter at Vertex Solutions Inc.
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Tammi Heiney" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Ftammiheiney&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Windows Systems Admin/Lead</p><p>Full time, On site</p><p>Marietta, OH</p><p>Send resume to Tammi@VertexSolutionsInc.com</p><p><br/></p><p>The Windows Systems Admin/Lead is responsible for the daily operations of the Windows servers and services infrastructure, and managing the desktop support team that includes the PC / Apple Technician, and A/V staff. Assists with the planning and management of the computing environment including planning for new applications; the installation, configuration, and management of servers; Windows services security and disaster recovery audits; troubleshooting and resolving problems related to the computing environment and services. This includes server and desktop support.</p><p><br/></p><p>Essential Functions of the Position:</p><ul><li>Manage all Windows Servers in various locations.</li><li>Manage software licensing.</li><li>Manage desktop support.</li><li>Supervise PC Technician staff.</li><li>Ensure best practices are implemented and followed.</li><li>Document all above plans, items, devices, procedures, etc.</li><li>Help users with system problems.</li></ul><p><br/></p><p>Required Experience &amp; Education:</p><ul><li>A four-year degree in computer science, information systems, or related major.</li><li>Preferred certification (optional): MCSE, MCIE, ITIL</li><li>Three years of experience administrating Windows servers.</li></ul><p><br/></p><p>Physical requirements:</p><ul><li>Ability to work in an office setting sitting, standing, and walking on a regular basis.</li><li>Use of office equipment including computers, printers, copiers with lifting of less than 20Ib occasionally to fill machines or move files.</li></ul><p><br/></p><p><em>Vertex Solutions Inc. is an Equal Opportunity Employer and does not discriminate on the basis of race, color, creed, national origin, ancestry, religion, age, citizenship, sex, marital or veteran status, disability or handicap, sexual orientation or any other basis prohibited by applicable law.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

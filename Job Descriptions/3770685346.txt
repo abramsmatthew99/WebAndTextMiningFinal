@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>We create possibilities that move life and commerce forward<br/><br/></strong>Welcome to Manhattan Associates. Our supply chain commerce technology positively affects how people on six continents work, shop and live. If you want to tackle complex problems, push limits and redefine what’s possible, you’ve come to the right place.<br/><br/>Under supervision of Manager, the Applications Engineer is responsible for software development for assigned product throughout the project lifecycle including: design, creation of technical design specs, software development, testing, issues analysis and resolution, and implementation/post implementation support. Performs basic configuration and testing. Learns and utilizes relevant terminology, methodologies, and services of core practice. Work on project teams in a technical capacity to assist the functional team and developers with custom code deployment, technical issue resolution and software environment management.<br/><br/><strong>Minimum Requirements<br/><br/></strong><ul><li>Four-year bachelor’s or foreign equivalent degree in computer science, engineering or a related technical field</li><li>1 year of post bachelor’s experience in a software related technical field preferred</li><li>1 year experience developing SQL Queries preferred</li><li>Up to 50% travel required</li><li>1 year of experience programming in Java or C++ preferred</li><li>1 year of experience developing in UNIX, LINUX or Windows operating systems preferred<br/><br/></li></ul><strong>Committed to diversity and inclusion<br/><br/></strong>At Manhattan, it’s about more than just the work. From cultural celebrations to interest groups to volunteer<br/><br/>opportunities, your true self is always welcome here. Our team members’ backgrounds, experiences and<br/><br/>perspectives add to us as a whole and make us unique.<br/><br/>We are proudly an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for<br/><br/>employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin,<br/><br/>disability, or status as a veteran. In the United States, Manhattan Associates participates in the Employment<br/><br/>Eligibility Verification Program (E-Verify) operated by the Department of Homeland Security in partnership with the<br/><br/>Social Security Administration. Participation in the E-Verify Program allows Manhattan to confirm the employment<br/><br/>eligibility of all newly hired employees after the Employment Eligibility Verification Form (Form I-9) has been<br/><br/>completed.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Transportation, Logistics, Supply Chain and Storage, and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

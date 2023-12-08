@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Spark Curiosity. Ignite Learning. <br/><br/></strong>Demco serves the library and education communities in providing innovative, inspiring learning environments that spark curiosity and ignite learning. Our team is filled with talented, insanely curious individuals who constantly seek new and different ways to connect with our customers. As we continue to grow as an organization, so does our need for strong individuals to join our Ecommerce team as our Front End Developer.<br/><br/><strong>As a Front End Developer You Will<br/><br/></strong><ul><li>A bachelor’s degree in web design or development, computer science or engineering, or related field</li><li>At least 3 years of professional front-end web design and development experience Ecommerce experience </li><li>Proven ability in writing HTML, CSS, JavaScript/jQuery from scratch </li><li>Proficiency in modern front-end technologies such as React, Jue.js, Node.js, and Angular </li><li>Experience working with a variety of APIs and integrations </li><li>Familiarity with browser testing and debugging </li><li>Proficiency in Figma, Adobe Creative Suite, MS 365 Suite, Asset Management, Product Information Management systems (PIM), Content Management systems (CMS) and Digital Asset Management (DAM) platforms </li><li>Experience building websites using a Content Management System</li><li>Ability to thrive in a fast-paced environment with strong analytical and multitasking skills.</li><li>Natural drive to seek out emerging web technologies, design approaches, interactive, cost‐savings applications to advance capabilities and increase efficiencies. Understanding of key website design principles and SEO Optimization</li><li>Proficiency in MS Office products<br/><br/></li></ul><strong>Candidates must submit work samples to be considered.<br/><br/></strong>This permanent, full-time role offers a remote or hybrid work environment coupled with a rich benefit package intended to support you both professionally and personally. Our work culture inspires collaboration and perseverance, while helping you build positive, professional relationships with your peers. Our coworkers enjoy tremendous satisfaction from serving library and school professionals who have such a rewarding impact on our community. Salary discussions will occur during your first contact with us.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Libraries
+          </span>
+</li>
+</ul>
+</div>
+</section>

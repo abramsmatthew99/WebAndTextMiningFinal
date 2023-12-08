@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who is Forcepoint?</strong> <br/><br/> <p>Forcepoint simplifies security for global businesses and governments. Forcepoint’s all-in-one, truly cloud-native platform makes it easy to adopt Zero Trust and prevent the theft or loss of sensitive data and intellectual property no matter where people are working. 20+ years in business. 2.7k employees. 150 countries. 11k+ customers. 300+ patents. If our mission excites you, you’re in the right place; we want you to bring your own energy to help us create a safer world. All we’re missing is you! <br/><br/></p> <strong>JOB TITLE: Linux Test Engineer <br/><br/></strong> <strong>LOCATION: Remote <br/><br/></strong> <strong>About the role:<br/><br/></strong>Forcepoint is currently seeking an enthusiasticand talented Linux Test Engineer to provide technical leadership to help plan, design, and implement sophisticated testing ofRHEL based network applications. Awell-qualified candidate will be responsible for the following job functions and possess the following skills:<br/><br/> <strong>Responsibilities:<br/><br/></strong><ul><li>Design testing strategies for the Linux operating system includingSELinux security and networking</li><li>Design, authorand execute both manual and automated test scenarios</li><li>Create and maintain thorough test plans and test cases</li><li>Review product documentation and othercompliancedeliverables</li><li>Ability to multitask and work on multiple projectssimultaneously </li><li>Ability and willingness to cross train co-workers <br/><br/><br/><br/></li></ul> <strong>Required Qualifications:<br/><br/></strong><ul><li>Self-starter with positive attitude and great communication skills</li><li>Ability to re-prioritize work due to schedule changes</li><li>Bachelor’s degree in computer science or similar technical degree OR equivalent experience may be accepted in lieu of a degree</li><li>At leasttwo years of experience testing complex Linux based software applications andoperatingsystems</li><li>A deep understanding of complex Linux based software architectures, that emphasize IT security</li><li>Working knowledge of networking concepts (e.g. TCP/IP, firewalls, routers, etc.)</li><li>Understanding and experience with common testing tools and concepts</li><li>Qualified applicants may be subject to a security investigation and must meet minimum qualifications for access to classified information <br/><br/><br/><br/></li></ul> <strong>Preferred</strong> <strong>Qualifications:<br/><br/></strong><ul><li>Automation Testing using Linux shell scripting, Python scripting. </li><li>Experience with Lab Base Security Assessments. </li><li>Experience using Zephyr Scale test case manager in JIRA. </li><li>Experience with Selenium web automation, but not required. <br/><br/></li></ul> <em><p>Don’t meet every single qualification? Studies show people are hesitant to apply if they don’t meet all requirements listed in a job posting. Forcepoint is focused on building an inclusive and diverse workplace – so if there is something slightly different about your previous experience, but it otherwise aligns and you’re excited about this role, we encourage you to apply. You could be a great candidate for this or other roles on our team.</p> <br/><p>The policy of Forcepoint is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status and to affirmatively seek to advance the principles of equal employment opportunity.<br/><br/></p><p>Forcepoint is committed to being an Equal Opportunity Employer and offers opportunities to all job seekers, including job seekers with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company’s career webpage as a result of your disability. You may request reasonable accommodations by sending an email to HumanResources@forcepoint.com</p> <br/><p>Forcepoint is a Federal Contractor. Certain positions with Forcepoint require access to controlled goods and technologies subject to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be "U.S. Persons," as defined in these regulations. Generally, a "U.S. Person" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or granted asylum.<br/><br/></p><p> Applicants must have the right to work in the location to which you have applied.</p></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

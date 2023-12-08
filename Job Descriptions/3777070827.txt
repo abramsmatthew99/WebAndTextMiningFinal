@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Do you want to be part of a growing global team creating solutions to critical business problems across multiple application and service platforms? We are looking for a full stack Software Engineer II who will drive innovative, scalable &amp; automated solutions, as well as delightful end user experiences.<br/><br/>Dynamics 365 Finance is one of the fastest growing applications in the Dynamics portfolio – the fastest growing SaaS Enterprise Resource Planning (ERP) portfolio in the world. We specialize in best-in-class solutions enabling businesses to run their end-to-end financial operations for the Dynamics 365 line of ERP software. We have a mission to be the most innovative, automated, and trusted financial solution on the market. We aim to enable managers and finance professionals to effectively run their business using the Dynamics 365 products.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Develop features with focus on quality, usability &amp; performance </li><li>Participate in livesite operations with emphasis on timely response &amp; delivery for our customers &amp; satisfaction of the engineers’ experience</li><li>Collaborate across internal &amp; external stakeholders including mentoring others <br/><br/></li></ul><strong>Other<br/><br/></strong><ul><li>Embody our culture and values<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Required Qualifications:<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><ul><li>OR equivalent experience.</li></ul><li>1+ years experience building cloud-based SaaS application<br/></li></ul><strong>Other Requirements<br/><br/></strong><ul><li>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Dynamics 365 Finance &amp; Operations or other enterprise resource and planning (ERP) or customer relationship management (CRM) software experience </li><li>Knowledge of microservices principles </li><li>X++/C#/Java, JavaScript/TypeScript, SQL experience </li><li>Demonstrable coding, debugging, design, testing and problem-solving skills <br/><br/></li></ul>Software Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.<br/><br/>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/v2/global/en/us-corporate-pay.html<br/><br/>#AIERPJobs #BAPJobs #CUSTOMERCAREAPPS<br/><br/>Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

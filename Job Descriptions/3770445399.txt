@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title<br/><br/></strong>Database Engineer<br/><br/>The KBR team in Colorado Springs, CO is seeking a highly motivated Database Engineer to join us in supporting our great nation, specifically on the Air Force Tactical Exploitation of National Capabilities (TENCAP) HOPE contract.<br/><br/>Air Force TENCAP exploits National space, cyber and intelligence capabilities to deliver rapid, cost-dominant and innovative warfighting solutions across the full spectrum of Air Force and Joint military missions. AF TENCAP is a Congressionally-mandated rapid acquisition organization supporting tactical and operational warfighters, and serves as the Air Force executive agent for the Military Exploitation of Reconnaissance and Intelligence Technologies (MERIT) program. As the Air Force's leader for National-to-Tactical capability development, AF TENCAP collaborates with leading experts across the Intelligence Community, Department of Defense, National Laboratories, industry, inter-agency, academia, and partner nations.<br/><br/>We are looking for innovative, creative, and highly motivated individuals to support the design and management of various databases. Specifically the implementation and configuration of structured and unstructured databases for big data analytics within a government enterprise. The ideal candidate will bring a passion for learning, the drive to innovate and a humble attitude. You will work cutting edge projects, solving problems that most aren't even aware exist.<br/><br/><strong>Work Location: <br/><br/></strong>Colorado Springs, CO - 100% On Site<br/><br/><strong>Security Clearance<br/><br/></strong>Active TS/SCI or Active TS with T5/SSBI within last two years.<br/><br/><strong>Required Experience And Education<br/><br/></strong>BS degree in Computer Science or Information Systems. Other degrees will be considered with relevant work experience.<br/><br/><strong>Required Skills<br/><br/></strong>Linux experience<br/><br/>Experience with creating and maintaining various database platforms (SQL, No-SQL, Graph Database)<br/><br/>Experience with database tables<br/><br/>Experience managing users, roles and namespaces<br/><br/>Security+<br/><br/><strong>Desired Skills<br/><br/></strong>Experience with programming (scripting) languages (i.e. Bash, Python, .Net or Java)<br/><br/>DevSecOps<br/><br/>Apache open-source products (i.e. NiFi, Kafka, Zookeeper)<br/><br/>Apache Accumulo, HDFS, Hadoop<br/><br/><strong>Basic Compensation:</strong> <strong>$90 - $130k<br/><br/></strong>The offered rate will be based on the selected candidate’s knowledge, skills, abilities and/or experience and in consideration of internal parity.<br/><br/><strong>Additional Compensation<br/><br/></strong>KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short term incentives, long term incentives, or discretionary payments for exceptional performance.<br/><br/><strong>Benefits<br/><br/></strong>KBR offers a selection of competitive lifestyle benefits which could include a 401K plan with company match, medical, dental, vision, life insurance, AD&amp;D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development. <br/><br/>KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.<br/><br/><strong>R2061024<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

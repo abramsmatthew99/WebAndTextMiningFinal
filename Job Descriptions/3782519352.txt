@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong><strong>Entry Level Trainee - Software Developer </strong>- US/Canada Only, 1 year of project experience<br/><br/></strong><strong>Employment Type:</strong> Full-time<br/><br/><strong>Base Salary:</strong> $60K-$70K<br/><br/>Phoenix Recruitment offers a variety of recruiting services to assist both employers and employees. They specialize in marketing open positions, recruiting, and helping employers to find qualified candidates across various industries. Phoenix Recruitment has expertise in streamlining the hiring process. They can help ensure that the process is efficient, well organized, and compliant with relevant regulations.<br/><br/><strong>Job Description<br/><br/></strong>As a Software Developer Trainee, you should be well-versed in programming languages, development frameworks, and third-party libraries. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.<br/><br/>Responsibilities and Deliverables:<br/><br/><ul><li>Understanding of Coding languages for frontend or backend development. </li><li>Ability to search for components and plugins in platforms matching the requirements. </li><li>Basic to medium knowledge of developing custom plugins and components </li><li>Should have good analytical skills and logical reasoning skills </li><li>Clean and structured coding pattern with a strong focus on documentation and commenting </li><li>Excellent at understanding the logic of code and algorithms </li><li>Work with development teams and product managers to ideate software solutions. </li><li>Creating servers and databases for functionality. </li><li>Write effective APIs </li><li>Create security and data protection settings </li><li>Design client-side and server-side architecture </li><li>Understanding of Data structure and complexity <br/><br/></li></ul><strong>Required Skills:<br/><br/></strong><ul><li>Able to learn new skill sets and develop software products. </li><li>Ability to analyze and understand technical aspects of a project to write code. </li><li>Good understanding of the IT industry and the latest technologies in trend. </li><li>Effective verbal and written communication skills. </li><li>Good at analytical approach, and client-centric approach with exceptional client interfacing and problem-solving skills. </li><li>Candidates should have strong knowledge of OOPS, Java / C, C++, HTML, Data Structure, and Algorithms. </li><li>The candidate must have excellent programming skills. </li><li>The candidate should be a fast learner </li><li>Knowledge of Android, iOS, or Angular, ReactJS, or NodeJS would be preferred. <br/><br/></li></ul>Qualification :<br/><br/><ul><li>The candidate with a B.tech in CS/IT, MCA/ MBA/ M.Tech, or any post-graduation in Computer Sciences. <br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Work from home </li><li>Opportunity to work on the latest technology domains including Blockchain, IoT, Cloud, or AI. </li><li>Fast Learning </li><li>Flexible working hours </li><li>Deep technical training from coding to architecture </li><li>Opportunity to interact and present work directly to the customer based in the US/UK. </li><li>Annual salary increment. <br/><br/></li></ul><strong>Why Phoenix Recruitment LLC?<br/><br/></strong>Phoenix Recruitment often has an extensive network of employers and candidates. This network allows them to tap into a pool of qualified candidates and connect them with suitable job opportunities. They can also leverage their connections to help employers find the right talent efficiently. Outsourcing the recruitment process to a specialized agency can save your time and resources, avoid delays, reduce administrative burdens, and increase the chances of finding the right fit for your organization.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

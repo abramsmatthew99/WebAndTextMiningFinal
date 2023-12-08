@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: </strong>Content Writer<br/><br/><strong>Employee Type:</strong> WS<br/><br/><strong>Expected Weekly Hours: </strong>40<br/><br/><strong>Location: </strong>Remote (PST Preferred)<br/><br/><strong>Pay Rate: </strong> $42.65 - $44.15 per hour<br/><br/><strong>Position Summary<br/><br/></strong>This position is responsible for organizing, controlling, and writing various content to support the client’s business unit(s).<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Write content such as blogs, product/service briefs, people “spotlight stories”, etc. for various audiences</li><li>Organize material and complete writing assignments according to the client’s set writing standards and styles regarding order, clarity, conciseness, and terminology</li><li>Maintain records, files of work and revisions, and work in alignment with the client’s change management processes and tools</li><li>Interview/collaborate with multiple stakeholders to achieve compelling storytelling</li><li>Work with multiple stakeholders to collect related information including editing and reviewing processes, and tracking deliverable status through assessment, development, and release phases</li><li>Occasionally work 40 hours in a week to meet certain team milestones</li><li>Perform other duties as needed<br/><br/><br/></li></ul><strong>Education And Credential Requirements<br/><br/></strong><ul><li>Bachelor’s degree in Marketing, Computer Science, English, Technical Communications, Journalism or related field</li><li>Eligible to work in the US without RLA sponsorship for employment visa status<br/><br/><br/></li></ul><strong>Experience Requirements<br/><br/></strong><ul><li>2+ years of experience in a content writer role</li><li>Experience interviewing/collaborating with multiple stakeholders to improve storytelling</li><li>Experience creating highly visible content and documentation for large and diverse audiences</li><li>Experience reading some technical document such as code bases, circuit schematics, mechanical drawings, etc. to better understand and incorporate technical content into general content</li><li>Experience using various content management systems e.g., SharePoint, eDOCS, Bluebeam, etc.</li><li>Experience using various document version control platforms (e.g., GitHub)</li><li>Experience using various markup languages (e.g., Markdown) preferred<br/><br/><br/></li></ul><strong>Skills Requirements<br/><br/></strong><ul><li>Ability to read, write, and speak English proficiently</li><li>High proficiency using productivity software such as M365 (Word, Outlook, Excel, PowerPoint, Visio, Teams and SharePoint)</li><li>Ability to use project/program management principles and methodologies to consistently meet task deadlines, triage changing priorities, and track issues to resolution</li><li>Ability to collaborate across diverse teams with a customer service mindset<br/><br/><br/></li></ul><strong>Work Environment<br/><br/></strong><ul><li>The position typically operates in a standard office environment and/or from employee’s home</li><li>Be able to lift and/or move up to 25 pounds<br/><br/><br/></li></ul>#Remote<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Marketing, Public Relations, and Writing/Editing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Professional Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

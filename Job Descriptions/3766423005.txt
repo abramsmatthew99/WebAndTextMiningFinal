@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Drivepoint<br/><br/></strong>Drivepoint (formerly known as Bainbridge Growth) is a strategic finance partner for scaling consumer brands.<br/><br/>CEOs, founders, and team leaders use our platform to understand what’s happening in their business, analyze results and options, make decisions and put their plans into action. The Drivepoint platform is an enterprise-grade data system with data warehouse and pipelines, pro-level analytics, a private equity quality financial model, and customizable dashboards that can combine operations and financial metrics and track progress to plans and goals on an hourly basis.<br/><br/><strong><em>The Role<br/><br/></em></strong>Drivepoint is seeking a highly motivated Data Analyst to join our growing team in a fast-paced startup environment. As a Data Analyst within the Customer Success team, you will work directly with founders and other members of early stage and high-growth DTC companies to provide key insights about their business. This includes creating custom BI reports, running exploratory data analyses, building models based on client requests, and more. You will also have the unique opportunity to develop our product by improving and building data pipelines, automated predictions, and analytics platform.<br/><br/><em><strong>Outcomes</strong> <br/><br/></em><ul><li>Work with clients to deliver insights and analysis about their business. </li><li>Transform client requests into data deliverables, such as models, data transformations, and interactive reporting. </li><li>Build standard reports for our analytics platform that will be used by every client. </li><li>Actively monitor and improve the data accuracy of the analytics platform. </li><li>Contribute to building the data pipeline that powers our analytics platform and financial model. </li><li>Collaborate with other members of the Customer Success team to share learnings about the client’s business. </li><li>Create new data product features to provide further value and automation for our clients.<br/><br/></li></ul><strong><em>Competencies <br/><br/></em></strong><ul><li>Fantastic SQL skills. </li><li>Strong communication and interpersonal skills to effectively interact with clients and team members in a remote environment. Ability to effectively communicate insights, answer client questions and build connections with clients.</li><li> Exceptional analytical and problem-solving skills with a high attention to detail. </li><li>Proficiency using spreadsheets (Excel and/or Google Sheets). </li><li>Experience creating visualizations with a BI tool (e.g. Looker, Tableau). </li><li>Experience using R or Python (*preferred*) for analysis and modeling. </li><li>Bachelor's degree or above in data science, computer science, statistics, economics, or related field. </li><li>3+ years of relevant work experience in data analytics. <br/><br/></li></ul><em><strong>Extra Points <br/><br/></strong></em><ul><li>Work experience with an e-commerce company. Even more points if you’ve ever worked with Shopify data and/or at a small startup. - Experience with dbt and building ELT pipelines. </li><li>Familiarity or experience with financial metrics.<br/><br/></li></ul><strong><em>More important details<br/><br/></em></strong><ul><li>Applicants must be currently authorized to work for any employer in the U.S on a full-time basis. We are unable to sponsor or take over sponsorship of an employment visa, such as the H-1B visa, at this time.</li><li>We are venture-backed having raised $6.5M in the past 18 months.</li><li>We are based in Boston. The role is remote, but you must be willing to work East coast hours, and travel to Boston 2-3 times a year.</li><li>We offer a competitive benefits package with unlimited PTO, a 401(k) with employer matching, and excellent health/dental insurance. </li><li>This is an exciting opportunity to get in on the ground floor with an early stage, fast-growing start up in a hot space. <br/><br/></li></ul>We are excited to hear from you!<br/><br/>Powered by JazzHR<br/><br/>yZQQglZmJU
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

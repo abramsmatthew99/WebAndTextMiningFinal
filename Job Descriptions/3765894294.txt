@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Department:<br/><br/></strong>Information Systems/IT<br/><br/><strong>Schedule/Status:<br/><br/></strong>Varies; 8:00am-4:30pm<br/><br/><strong>Standard Hours/Week:<br/><br/></strong>40<br/><br/><strong>Location:<br/><br/></strong>Titusville<br/><br/><strong>General Description:<br/><br/></strong>The Desktop Administrator is responsible for demonstrating Parrish Healthcare’s Culture of Choice®, managing and supporting the desktop, applications, and peripherals infrastructure. The Desktop Administrator ensures user environments function as necessary.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li>Installing, configuring, and troubleshooting desktop hardware components, such as computers, monitors, printers, and peripherals. Installing and maintaining software applications, patches, and updates. </li><li>Responding to end-user inquiries and resolving technical issues related to hardware, software, and network connectivity. Providing remote or on-site support to troubleshoot and resolve desktop-related problems. </li><li>Managing the deployment and imaging of desktop systems, including operating system installations, software configurations, and user profile setups. </li><li>Conducting user training sessions to help individuals understand and effectively use desktop systems and applications. Creating documentation, user guides, and knowledge base articles to assist end-users in troubleshooting common issues. </li><li>Implementing security measures on desktop systems, such as antivirus software, encryption, and access controls, to ensure data protection and compliance with organizational policies and regulations. </li><li>Maintaining an inventory of desktop hardware, software licenses, and configurations. Tracking and managing desktop assets throughout their lifecycle, including procurement, installation, upgrades, and retirement. </li><li>Maintaining current knowledge of new technologies and industry trends to ensure that systems are compatible with current standards. </li><li>Coordinating with vendors or contractors during technology upgrades or implementations of new systems. </li><li>Conduct office automation feasibility studies, including workflow analysis, and cost comparison analysis. </li><li>Knows fire, disaster and safety procedures and regulations as it pertains to the work area. </li><li>Performs similar or related duties as assigned. <br/><br/><br/></li></ul><strong>Requirements:<br/><br/></strong><strong>Formal Education:<br/><br/></strong><ul><li>Bachelor’s degree in computer science, information technology, computer engineering or a related field is required (A combination of experience and certifications may be considered). <br/><br/><br/></li></ul><strong>Work Experience:<br/><br/></strong>3 years to &lt; 5 years <br/><br/><strong>Required Licenses, Certifications, Registrations:<br/><br/></strong><ul><li>Citrix Certified Professional – Virtualization (CCP-V) and </li><li>Microsoft 365: Modern Desktop Administrator Associate certifications are required within 1 year. </li><li>Citrix Certified Professional – App Delivery and Security (CCP-AppDS), </li><li>certifications in other Microsoft Server products, Dell, EMC are strongly preferred.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

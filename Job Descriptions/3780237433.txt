@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job description</strong></p><p><strong>RESPONSIBILITIES:</strong></p><p>The Siegel Group Nevada, Inc, a real estate investment and management company, has an immediate opening for an IT Support Technician in Las Vegas, NV.</p><p>Excellent opportunity for goal-oriented, independent, high-energy, knowledgeable IT professional with outstanding customer service and well-rounded IT skills.</p><p>We are looking for a top-notch IT Support Technician to join the IT department at an established, nimble, fast moving company. A comprehensive compensation plan includes medical insurance, mobile device, and mileage allowance.</p><p>Daily activities require an individual to be capable of handling both routine and complex troubleshooting activities: working in office, utilizing remote diagnostics, or jumping in the car to head to a site. This is a critical position that requires interaction with internal customers, Senior level executives, outside vendors.</p><p><strong>Key Responsibilities include:</strong></p><ul><li>On a day to day basis, the technician’s responsibilities will be to provide technical support and troubleshooting network, desktop, and/or systems hardware and software.</li><li>Screens and diagnoses internal inquiries and work requests as they relate to maintenance of personal computers and related systems in our corporate office, hotels, and flexible stay apartment buildings.</li><li>Malware/Virus troubleshooting and resolution</li><li>Install, configures and upgrade computer hardware and software.</li><li>Provides end-user software troubleshooting and support.</li><li>Applies advanced diagnostic techniques to identify problems, investigate causes and recommend solutions.</li><li>Provides on-boarding processing to include Active Directory account creation; distribution list association; iPhone configuration; and Office365 and network accounts.</li><li>Participates in the administration of e-mail systems.</li><li>Provides phone, help-desk, and onsite support for local and remote users.</li><li>Maintains current knowledge of relevant technologies as assigned.</li><li>Participates in special projects as required.</li></ul><p><strong>Candidate Requirements:</strong></p><ul><li>Associate's degree in Computer Science or related field from an accredited college or university; 1+ years' moderate to complex experience troubleshooting and maintaining desktop systems and peripherals. Equivalent combinations of education and experience may be considered.</li><li>Network certifications are a plus.</li><li>Other Technology certifications a plus</li><li>Demonstrates professional writing skills; verbal communication; is comfortable in a multi-tasking; fast paced work environment. Possesses the ability to communicate technical knowledge in layman terms; to work independently; is aggressively motivated in the pursuit of knowledge and is selflessly team oriented.</li><li>Must be in good standing with DMV and have valid driver's license</li></ul><p><strong>Knowledge and experience in:</strong></p><ul><li>Windows 7-10</li><li>Active Directory Administration Router, firewall, and switch configuration and troubleshooting</li><li>LAN, SDWAN, VoIP, DHCP and DNS configuration and troubleshooting</li><li>POTS and low voltage cabling</li><li>Punch-down of 66 and 110 blocks</li></ul><p><strong>Physical Demands:</strong></p><ul><li>This job requires the employee to regularly talk and hear. The employee is often required to stand, walk, bend, kneel, stoop, crouch, crawl, lift, balance, push, pull, and climb.</li><li>The employee must frequently lift and/or move items over 50 pounds.</li><li>This job requires close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus.</li><li>Must be able to stand or sit for extended periods of time</li><li>Must be able to drive to client locations.</li></ul><p>For the right candidate, there is tremendous opportunity to grow in this company. We are in a growth mode. That means it's a fast-paced environment and opportunities will grow as the company does.</p><p>This is a full-time position. 8am-5pm, 40 hours per week. On call on rotation. Must be willing to travel out of state (10%), and work overtime when necessary.</p><p>Compensation commensurate with experience.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Restaurants, Real Estate, and Hospitality
+          </span>
+</li>
+</ul>
+</div>
+</section>

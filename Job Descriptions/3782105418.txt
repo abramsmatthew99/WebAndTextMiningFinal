@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title</strong>: Test Engineer/SDET<br/><br/><strong>Location: </strong>Denver, with some flexibility to work from home.<br/><br/>Always wanted to see your work make a real impact? As a rapidly growing firm in the law enforcement and corporate security space, we take pride in building a team of game changers, innovators, and thinkers who are driven to help our customers save money, save time, and save lives.<br/><br/>We are looking for a Test Engineer to join our team. The engineer will be responsible for testing new and existing features. You will be constantly challenged to learn and innovate while delivering technology that will change law enforcement and corporate security organizations around the globe. If you thrive in a fast-paced, start-up culture with a passion for technology, we want you on our team.<br/><br/>Job Type: Full-time<br/><br/><ul><li>Exempt<br/><br/></li></ul>Responsibilities &amp; Duties:<br/><br/><ul><li>Carry out testing, verification, and validation of the application, including developing test plans to ensure successful deployment of updates. (20-40% of time - sprint team work)</li><li>Develop, update, and maintain automated tests to fully validate new and existing software features. (20-40% of time - automation team work)</li><li>Work closely with the engineering team - including performing deep dives into complex functionality - to ensure quality and reliability. (10-20% of time)</li><li>Continually improve the testing sufficiency and efficiency by enhancing testing tools and test methodologies</li><li>Actively and independently acquire and analyze data for process improvements</li><li>Manage your work through the use of Gitlab, Jira, and our automated CI/CD pipelines</li><li>Work in an Agile and highly collaborative environment<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Required Education:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Computer Information Systems, Engineering or related field (Preferred)<br/><br/></li></ul><strong>Required Skills:<br/><br/></strong><ul><li>Deep understanding of test design, planning, and resolving test automation debt</li><li>Rigorous attention to detail and focus on quality of deliverables</li><li>Motivated self-starter who can identify issues, research solutions, and bring them to the team for implementation</li><li>The ability to work well with a small, agile, highly competent team</li><li>Have a strong understanding of Agile principles and concepts</li><li>Experience with JavaScript and Java (Preferred)</li><li>Experience with cloud platforms (Azure, AWS) (Preferred)</li><li>Experience with Linux (Preferred)</li><li>Experience with javascript based test automation frameworks (Webdriver.io, Cypress, jest, Selenium - 2 yrs professional experience) </li><li>Experience testing no-code configurable SAS products (Preferred) <br/><br/></li></ul><strong>Desired Skills:<br/><br/></strong><ul><li>X-ray or Zephyr test management plugin for jira experience</li><li>Postman experience<br/><br/></li></ul><strong>Required Experience:<br/><br/></strong><ul><li>2-5 years of experience of software development testing <br/><br/></li></ul><strong>Other Requirements:<br/><br/></strong><ul><li>Language: English<br/><br/></li></ul><strong>Benefits:<br/><br/></strong><ul><li>Competitive salary and bonus program in an entrepreneurial environment</li><li>Excellent health, dental, and vision insurance (70% company paid)</li><li>Unlimited paid time off plan plus paid holidays</li><li>401k with company matching</li><li>Salary range: $85,000-$115,000/year<br/><br/></li></ul><strong>About Kaseware:<br/><br/></strong>Kaseware is a dynamic start-up company located in the Denver metro area. We build state-of-the-art software for law enforcement and corporate security customers. We serve those that serve our communities and make our world safer.<br/><br/>Due to the nature of our business, you must be able to pass a full CJIS compliant fingerprint based background check, which is required for individuals needing access to criminal justice information (CJI).<br/><br/>U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

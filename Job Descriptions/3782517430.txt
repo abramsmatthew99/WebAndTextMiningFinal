@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>This individual contributor is primarily responsible for assisting in the translation of business requirements and functional specifications into software solutions, assisting in the implementation and maintenance of business software solutions, and supporting systems integration testing and user acceptance testing.<br/><br/><strong>Essential Responsibilities<br/><br/></strong><ul><li>Completes work assignments by applying up-to-date knowledge in subject area to meet deadlines; following procedures and policies, and applying data and resources to support projects or initiatives; collaborating with others, often cross-functionally, to solve business problems; supporting the completion of priorities, deadlines, and expectations; communicating progress and information; identifying and recommending ways to address improvement opportunities when possible; and escalating issues or risks as appropriate. </li><li>Pursues self-development and effective relationships with others by sharing resources, information, and knowledge with coworkers and customers; listening, responding to, and seeking performance feedback; acknowledging strengths and weaknesses; assessing and responding to the needs of others; and adapting to and learning from change, difficulties, and feedback. </li><li>As part of the IT Engineering job family, this position is responsible for leveraging DEVOPS, and both Waterfall and Agile practices, to design, develop, and deliver resilient, secure, multi-channel, high-volume, high-transaction, on/off-premise, cloud-based solutions. </li><li>Supports the recommendations of technical solutions that meet design and functional needs. </li><li>Assists in the implementation and post-implementation triage and support of business software solutions, with guidance from senior colleagues, by programming and/or providing configuration support for enhancements to new or packaged-based systems and applications. </li><li>Supports identification of specific interfaces, methods, parameters, procedures, and functions, as required, to support technical solutions. </li><li>Provides systems incident support and troubleshooting for non-complex issues. </li><li>Supports partnerships with IT teams and vendors to ensure written code adheres to company architectural standards, design patterns, and technical specifications. </li><li>Supports component integration testing (CIT) and user acceptance testing (UAT), with guidance from senior colleagues. </li><li>Develops understanding of emerging technical trends to develop insight into industry best practices and strategies. </li><li>Executes unit testing to identify application errors and ensure software solutions meet functional specifications. </li><li>Assists in reviewing business requirements and functional specifications for development into code modules, with guidance from senior colleagues, by reviewing and understanding company standards. </li><li>Supports the writing and reviewing of technical specifications and documentation. </li><li>Develops technical expertise and knowledge of industry trends by regularly reading publications and attending training events. <br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>Bachelors degree in Computer Science, CIS, or related field OR Minimum two (2) years experience in software development or a related field.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

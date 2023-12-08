@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Welcome to an exciting opportunity to kickstart your career in software development! We're seeking a motivated Junior Software Developer to join our dynamic team. If you're passionate about coding, eager to learn, and thrive in a collaborative environment, this might be the perfect fit for you.<br/><br/><strong>Opportunity Overview<br/><br/></strong>Are you ready to be part of a team that values innovation and continuous learning? We're not your typical corporate setting – no cubicles here! As a Junior Software Developer, you'll work alongside experienced peers and mentors, contributing to cutting-edge products that serve our diverse customer base. Embrace the chance to be an originator in the software development process and grow into a skilled coder, task master, and leader. Get ready to join a supportive work environment that encourages enthusiasm and performance!<br/><br/><strong>Position Details<br/><br/></strong>Salary Range: $80,000-$105,000 per year. (Full-time exempt position)<br/><br/>Work Arrangement: 100% remote!<br/><br/>Due to the clearance requirements, only U.S. citizens are eligible to apply.<br/><br/><strong>Responsibilities And Duties<br/><br/></strong>The successful candidate will actively participate, contribute, and document throughout the Software Development Lifecycle, including:<br/><br/>Independently design and engineer new software products or enhance existing ones.<br/><br/>Lead a team in designing highly complex software systems.<br/><br/>Act as the highest-level technical expert, addressing integration, compatibility, and multiple platform issues.<br/><br/>Conduct code reviews, tests, debugs, and documents programs.<br/><br/>Collaborate with the Cybersecurity team to implement and maintain a secure Software Development Lifecycle.<br/><br/><strong>Education And Certifications<br/><br/></strong>Bachelor's Degree in Computer Science or a comparable discipline is desired.<br/><br/>IAT level II Certification is required.<br/><br/><strong>Qualifications<br/><br/></strong>To be successful, you should have professional experience, knowledge, and skills in most of the following areas:<br/><br/>Three (3+) years of experience in software design, development, integration, and enhancement.<br/><br/>Five (5+) years of experience with software or system installation, evaluation, maintenance, testing, or problem resolution.<br/><br/>Proficiency in software such as Apache Tomcat, Oracle RDS, Spring Framework, MSWIN Server 2019, RHEL7.9 -&gt;RHEL8, Oracle Java 1.8, IronBank Containers.<br/><br/>Working knowledge of Java, SAQL, XML, Maven, JavaScript, JSP, CSS, Freemarker Template, JSON.<br/><br/>One year (1+) of leadership experience is preferred.<br/><br/><strong>Clearance<br/><br/></strong>This position requires, at a minimum, an active Secret Clearance.<br/><br/><strong>Travel<br/><br/></strong>Minimal travel is required for this position, if any.<br/><br/><strong>Benefits<br/><br/></strong>Our comprehensive benefits package includes:<br/><br/>Health, life, disability, dental, and vision insurance coverage.<br/><br/>401(k) policy with a 3% company contribution &amp; 3% company match.<br/><br/>Generous Paid Time Off, including a special PTO "gift day" for your birthday.<br/><br/>11 Federal Holidays per year.<br/><br/>Two weeks paid maternity/paternity leave.<br/><br/>Annual technology allowances.<br/><br/>Referral bonuses, professional recognition awards, healthcare stipends, and tuition/education reimbursement (once certain requirements are met).<br/><br/>Flexible daily start and stop times for most projects and positions.<br/><br/>Join us in shaping the future of software development! Apply now and embark on a fulfilling journey with our dynamic team.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

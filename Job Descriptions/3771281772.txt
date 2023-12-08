@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Tantus Technologies, Inc. (Tantus) - recognized by the Washington Post as a Top Workplace - is seeking a Full Stack Developer with focus on Artificial Intelligence/Machine Learning/NLP to help Tantus build solutions for our customers that enable them to extract value from their data. Experience with Python/React needed.<br/><br/>**This position allows 100% remote work. **<br/><br/><ul><li>Modify and maintain core processing software written in Python and deployed in AWS (Amazon Web Services)</li><li>Update and maintain and AWS environment and related configurations.</li><li>Design, build, and/or deliver AI/ML/NLP models and components that solve real-world business problems, while working in collaboration with development team.</li><li>Solve complex problems by writing and testing application code, developing and validating models, and automating tests and deployment.</li><li>Collaborate as part of a cross-functional Agile team to create and enhance software that enables state-of-the-art big data and applications.</li><li>Bachelor’s or Master’s degree in computer science, engineering, or related field.</li><li>1-2 years experience in the following programming languages – Python, C++, React.</li><li>1-2 years experience with AWS serverless platforms (Glue, Lambda, Step Functions)</li><li>Previous experience performing both front-end and back-end software development.</li><li>Ability to communicate technical findings to non-technical audiences.</li><li>API development.</li><li>Excellent communication, organization, and analytical skills.</li><li>Experience in AI/ML/NLP domain is a plus.</li><li>Use programming languages like Python, Scala, or Java.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

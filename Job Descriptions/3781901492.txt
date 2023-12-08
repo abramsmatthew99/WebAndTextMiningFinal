@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Together, we can beat cancer.<br/><br/></strong>At Varian, a Siemens Healthineers Company, we bring together the world's best talent to realize our vision of a world without fear of cancer. Together, we work passionately to develop and deliver easy-to-use, efficient oncology solutions.<br/><br/>We are part of an incredible community of scientists, clinicians, developers, researchers, professionals, and skilled specialists pushing the boundaries of what’s possible, to improve people’s lives around the world. We embrace a culture of inclusivity in which the power and potential of every individual can be unleashed. We spark ideas that lead to positive impact and continued success.<br/><br/>If you want to be part of this important mission, we want to hear from you.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Help deliver descriptive, predictive, and analytical insights for our diverse group of stakeholders</li><li>Work in small teams to deliver data pipelines and data models for our stakeholders</li><li>Use a variety of modern data technologies</li><li>Take the opportunity to explore, engage, ask questions, and make this experience your own.<br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong><ul><li>Student working towards a(n) Computer Science, Analytics, Data Science, MIS, or related degree, with Junior or later standing and an expected graduation date within two years</li><li>Experience with common data visualization tools (Qlikview, Tableau CRM, Power BI, etc.)</li><li>Knowledge of SQL and basic data management skills</li><li>Desire and ability to pick up new technologies quickly﻿</li><li>Displays a passion for what you do and a drive to improve</li><li>Strong problem-solving and design and/or research triage skills with the ability to work cross-functionally in a fast-paced and rapidly changing work environment<br/><br/></li></ul><strong>Fighting cancer calls for big ideas.<br/><br/></strong>We envision a world without fear of cancer. Achieving this vision takes dedication and commitment from all of us, every single day. That's why we celebrate and value the distinctly beautiful and intersectional identities of each of our employees. We are a mirror of our patient-base, which allows us to innovate. Big ideas come from everywhere, and the best ideas are fostered by our unique individual experiences. At Varian, we encourage you to bring your whole self to work and believe your bold and authentic perspective will help to power more victories over cancer.<br/><br/><strong>TogetherWeFight<br/><br/></strong>Privacy Statement<br/><br/><strong>Equal Employment Opportunity Statement<br/><br/></strong>Varian is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law.<br/><br/><strong>EEO is the Law<br/><br/></strong>Applicants and employees are protected under Federal law from discrimination. To learn more, Click here.<br/><br/><strong>Pay Transparency Non-Discrimination Provision<br/><br/></strong>Varian follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.<br/><br/>The base pay range for this position is<br/><br/>Min $47,200 - Max $88,000<br/><br/>The pay wage range shown is based on the job posting's primary location. Actual compensation packages are based on a wide array of factors, including but not limited to skill set, experience, certifications, and location.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Device
+          </span>
+</li>
+</ul>
+</div>
+</section>

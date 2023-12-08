@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Introduction<br/><br/></strong><strong>Introduction to the job<br/><br/></strong>We are offering an internship opportunity for a detail-oriented and enthusiastic individual interested in learning about data analysis and visualization in an industrial setting. As an Industrialization KPI Dashboard Intern, you will work closely with our team to assist in the development of Key Performance Indicator (KPI) dashboards aimed at improving industrial processes. This role involves gaining hands-on experience in data collection, analysis, and visualization to support informed decision-making within our organization.<br/><br/>This position requires access to controlled technology, as defined in the Export Administration Regulations (15 C.F.R.<br/><br/><ul><li>730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.<br/><br/></li></ul><strong>Role And Responsibilities<br/><br/></strong>Within the e-beam organization some typical KPI’s that are relevant for monitoring the new product development progress are not available or incomplete, whereas often raw data is available scattered in databases. The intern is expected to collaborate with the industrialization PL team to identify such KPI’s, and create a live dashboard to support the industrialization PL’s.<br/><br/><ul><li> Data Gathering and Organization<br/><br/></li></ul>Assist in collecting and organizing data from various sources related to industrialization processes.<br/><br/>Learn data cleaning and preparation techniques under guidance to ensure data accuracy.<br/><br/><ul><li> Supporting Dashboard Development<br/><br/></li></ul>Work alongside the team to contribute to the development of KPI dashboards using tools like Spotfire, Power BI, etc.<br/><br/>Participate in dashboard customization activities to cater to different departmental needs.<br/><br/><ul><li> KPI Monitoring and Analysis<br/><br/></li></ul>Aid in defining and monitoring KPIs in alignment with industrialization goals.<br/><br/>Learn basic data analysis techniques to extract insights and trends from datasets.<br/><br/><ul><li> Report Assistance<br/><br/></li></ul>Support in generating reports and presentations summarizing KPI trends and insights.<br/><br/>Assist in formatting and visualizing data for clear and concise presentations.<br/><br/>Learning and Development<br/><br/>Actively engage in learning about industrial processes, relevant KPIs, and performance metrics.<br/><br/>Embrace opportunities to learn new tools and techniques for data visualization and analysis.<br/><br/><strong>Education And Experience<br/><br/></strong><em>College/university student <br/><br/></em>Pursuing a Bachelor's degree in Data Science, Computer Science, Engineering, or a related field. Students from diverse backgrounds are encouraged to apply.<br/><br/><strong>Skills<br/><br/></strong><em>Data science / data engineering studies, with python and databases knowledge<br/><br/></em>Strong interest in data analysis, visualization, and a willingness to learn about industrial processes.<br/><br/>Basic knowledge of Excel or other data analysis tools is a plus.<br/><br/>Excellent communication skills and a collaborative mindset to work effectively within a team.<br/><br/>Eagerness to learn, adapt, and take on new challenges in a dynamic environment.<br/><br/>Ability to manage time effectively and prioritize tasks to meet deadlines.<br/><br/><strong>Diversity and inclusion<br/><br/></strong>ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.<br/><br/><strong>Other Information<br/><br/></strong>Internship<br/><br/>This internship provides an opportunity for a motivated individual to gain hands-on experience in creating KPI dashboards for industrialization while learning from experienced professionals. The role emphasizes learning, skill development, and active participation in supporting data-driven decision-making processes within the organization.<br/><br/>EOE AA M/F/Veteran/Disability<br/><br/>Need to know more about applying for a job at ASML? Read our frequently asked questions.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nanotechnology Research, Semiconductor Manufacturing, and Industrial Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

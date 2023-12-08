@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Department Overview<br/><br/></strong>The Oregon Clinical Translational Research Institute (OCTRI) at OHSU is a catalyst for scientific collaboration, translation of biomedical advances into the community, innovation, and research growth in Oregon and beyond. OCTRI¿s mission is to enhance the efficiency and quality of rigorously translating research ideas into impact. To accomplish our mission, our 80-90 employees spread across 13 teams provide a broad expanse of clinical and translational services that include training, funding, research support, and community engagement. OCTRI is part of the National Center for Translational Sciences (NCATS)-funded CTSA consortium that encompasses 60+ hubs around the country. Visit our website to learn more: octri.org .<br/><br/><strong> Function/Duties of Position <br/><br/></strong>The Project Manager/Scrum Lead is a key position in OCTRI’s Informatics Program with responsibilities to design, implement, and maintain projects and project management solutions in support of research infrastructure development and research projects. The OCTRI Informatics program supported $150M in research grants that used Research Data Warehouse (RDW) services. With strategic investment under the OHSU 2025 Strategic Initiative, OCTRI Informatics is undergoing significant transformation developing Next Generation RDW with multiple ongoing projects and supporting strategic tactics. This is a critical role to enhance OHSU’s research enterprise and data science activities in the region. This requires complex co-ordination, multi-institutional relationships and support for OCTRI Informatics, and operational expertise. The Project Manager/Scrum Lead is responsible for projects within the institution and with national and international collaborators in research informatics representing and supporting OCTRI and researchers.<br/><br/><ul><li> OCTRI Informatics is a software engineering group that builds applications and data to enable researchers at OHSU to conduct translational research </li><li> The Project Manager/Scrum Lead will be a key player on our team, having high impact and visibility </li><li> This role will be instrumental in the planning and execution of the Informatics roadmap, shaping how research engineering teams operate, and pushing them to reach their potential </li><li> The role will be part of a dynamic, collaborative, and mission-driven environment, and will have the opportunity to work on exciting new projects in OCTRI Informatics and the OHSU Research 2025 Initiative </li><li> Manage research software projects from discovery to launch </li><li> Collaborate with researchers, Business Analysts, and research engineering to define functional requirements, create project estimates, and plan development efforts </li><li> Improve processes and tooling related to project and portfolio management </li><li> Create reliable project plans, ensure timely delivery of commitments, and maintain team stability </li><li> Act as a servant leader to engineering teams, champion Agile principles, and evolve engineering teams' Agile processes </li><li> Foster an environment of high performance and continuous improvement <br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li> Master's Degree in Information Technology, Business, or Management AND 5 years of relevant experience; OR </li><li> equivalent combination of Bachelor's Degree in Information Technology, Business, or Management in conjunction with training and experience. </li><li> Planning and managing software engineering projects </li><li> Collaborating with engineering and business users across multiple technical domains </li><li> Developing and facilitating Agile processes within software engineering teams </li><li> Ability to communicate technical and non-technical concepts with engineering and stakeholders </li><li> Knowledge of project management and Agile best practices </li><li> Ability to identify gaps in processes and implement improvements </li><li> Excellent organization and communication skills <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> 7 years of relevant experience </li><li> Advanced knowledge of Jira and Confluence </li><li> Scrum Master certification </li><li> Project Management Professional (PMP) certification <br/><br/></li></ul><strong> All are welcome <br/><br/></strong>Oregon Health &amp; Science University values a diverse and culturally competent workforce. We are proud of our commitment to being an equal opportunity, affirmative action organization that does not discriminate against applicants on the basis of any protected class status, including disability status and protected veteran status. Individuals with diverse backgrounds and those who promote diversity and a culture of inclusion are encouraged to apply. To request reasonable accommodation contact the Affirmative Action and Equal Opportunity Department at 503-494-5148 or aaeo@ohsu.edu.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

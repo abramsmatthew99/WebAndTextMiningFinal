@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Introduction<br/><br/></strong><strong>Introduction<br/><br/></strong>ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.<br/><br/><strong>Job Mission<br/><br/></strong>Works in Brion HPC team. Interfaces with HPC team. Has basic knowledge of programming and cloud computing. Within the HPC (High Performance Computing) Platform group, we create cloud computing infrastructure for the development, testing, and deployment of HPC applications to our customers. These applications are used by our customers for the production of semiconductor chips. This internship will work in the HPC Platform group towards our current focus and vision of optimizing our internal computing workloads. This optimization is in terms of efficiently using the right sized resources for the given workloads. This intern position is a for a full stack web developer position that will create a new Model-view-controller (MVC) application to be used internally that gathers and stores an inventory of deployed cloud computing resources that can be queried to highlight overprovisioned and underutilized resources.<br/><br/><strong>Job Description<br/><br/></strong>Application projects supporting customers to enable their node performance requirements, to adopt ASML technology to its full capability and to maximize the lithography output in terms of WPD and performance.<br/><br/>New product introduction helps rolling out and implementing product deliveries.<br/><br/>Sustaining support analyses and resolves customer on-product application issues and or escalations.<br/><br/><ul><li>Analyze, organize, quantify, and report the utilization of provisioned cloud computing resources, and highlight the overprovisioned resources and underutilized resources.</li><li>Query and store cloud deployed computing resources from our cloud provider.</li><li>Query and store utilization metrics of the deployed resources in terms of CPU primary, secondary, and tertiary storage.</li><li>Create an interface to query, classify and present the resources and their utilization.</li><li>Work as a part of an agile development team.</li><li>Other duties as assigned</li><li>Job description subject to change at any time<br/><br/></li></ul><strong>Education And Experience<br/><br/></strong><ul><li>Must be pursuing a degree in Computer Science, Engineering, Physics, Chemistry, Mathematics or other STEM field with prior demonstrated experience creating full stack web applications.</li><li>Programming experience with one or more object oriented programming languages.</li><li>Knowledge and experience with web presentation layer to include HTML, CSS, and JavaScript.</li><li>Knowledge and experience with a database from the creation of a schema, indexing of the schema, and querying against the schema.</li><li>Strong verbal and written communication abilities.</li><li>Prior background in research environments is a plus.<br/><br/></li></ul><strong>Skills &amp; Competencies<br/><br/></strong><ul><li>Can observe and respond to people and situations and interact with others encountered in the course of work. </li><li>Can learn and apply new information or skills. </li><li>Must be able to read and interpret data, information, and documents.</li><li>Strong customer focus and commitment to customer satisfaction through prioritization, quality, efficiency and professionalism.</li><li>Ability to complete assignments with attention to detail and high degree of accuracy.</li><li>Proven ability to perform effectively in a demanding environment with changing workloads.</li><li>Result driven-demonstrate ownership and accountability.</li><li>Identifies bottlenecks and drives improvements.</li><li>Work independently or as part of a team and follow through on assignments with minimal supervision.</li><li>Demonstrate open, clear, concise and professional communication.</li><li>Ability to establish and maintain cooperative working relationships with co-workers and customer.</li><li>Work according to a strict set of procedures within the provided timelines.<br/><br/></li></ul><strong>Diversity &amp; Inclusion<br/><br/></strong>ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.<br/><br/><strong>Other Information<br/><br/></strong><ul><li>This position is located on-site in San Jose, CA. It requires onsite presence to attend in-person work-related events, trainings and meetings and to further ensure teamwork, collaboration and innovation.</li><li>Routinely required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch. Occasionally required to move around the campus.</li><li>Occasionally lift and/or move up to 20 pounds.</li><li>Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.</li><li>Must be willing to work in a clean room environment, wearing coveralls, hoods, booties, safety glasses and gloves for entire duration of shift.</li><li>While performing the duties of this job, the employee routinely is required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch.<br/><br/></li></ul>EOE AA M/F/Veteran/Disability<br/><br/><em>Potential candidates will meet the education and experience requirements provided on the above job description and excel in completing the listed responsibilities for this role. All candidates receiving an offer of employment must successfully complete a background check band any other tests that may be required. <br/><br/></em><em>The current base annual salary range for this role is currently $17.00 - $53.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.<br/><br/></em><em>Equal Opportunity Employer Statement ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nanotechnology Research, Semiconductor Manufacturing, and Industrial Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

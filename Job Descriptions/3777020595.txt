@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><em>Important: We have been made aware that individuals are posing as Redwood recruiters in an attempt to deceive candidates into sharing personal information. Redwood employees will only contact you from an “@redwood.com” email domain. If you have questions or suspect an email is fraudulent, please contact us at </em><u>recruitment@redwood.com</u><em>.</em></p><p><br/></p><p><strong><em>OUR MISSION </em></strong></p><p><br/></p><p><strong><em>At Redwood Software we unleash human potential. We empower our customers with lights-out automation for their mission-critical business processes.</em></strong></p><p><br/></p><p>Redwood Software is the leader in full stack automation for mission-critical business processes. With the first SaaS-based composable automation platform specifically built for ERP, we believe in the transformative power of automation. Our unparalleled solutions empower organizations to orchestrate, manage and monitor their workflows across any application, service or server – in the cloud or on premise – with confidence and control. </p><p><br/></p><p><strong><em>CORE VALUES</em></strong></p><p><br/></p><p>One Team. One Redwood.</p><p>Make Your Own Weather</p><p>Obsess over Customer Success</p><p>Work the Problem</p><p>Be Curious</p><p>Own the Outcome</p><p>Respect Each Other </p><p><br/></p><p><strong><em>YOUR IMPACT </em></strong></p><p><br/></p><p>The Director of IT Infrastructure is a critical member of the IT team. The Director is a leadership role and is an empowered representative of the IT team.</p><p><br/></p><p>This position requires an individual with a strong technical background, as well as an ability to work across all departments to align priorities and plans with key business objectives. The Director provides strategic direction for the organization’s technical infrastructure including hardware, software, servers, databases, storage solutions, networks, audiovisual equipment or physical facilities in support of critical business needs. </p><p><br/></p><ul><li>Develop the Server and Storage, Networking and Database Reference Architecture Library</li><li>Maintains system performance and ongoing compliance with technology standards.</li><li>Design and deliver training and communications around ongoing enhancements, development and sustainment of talent infrastructure tools.</li><li>Provide expert leadership to drive Infrastructure &amp; Network Security maturity improvements across the organization, in line with the changing Threat Landscape, Regulatory and Compliance requirements etc.</li><li>Provide leadership and accountability for planning and execution of tactical and strategic infrastructure and network security improvements.</li><li>Create the technical standards for all infrastructure areas.</li><li>Coordinates with vendors and staff for changes and repairs to technology hardware and software</li><li>Researches and installs new software releases documenting, reporting and following up with the technology team, vendors, regarding products and services in use</li><li>Holds, attends and participates in staff meetings and internal learning workshops</li><li>Ensures security of data, equipment and facilities at all times</li></ul><p><br/></p><p> </p><p><strong><em>YOUR EXPERIENCE</em></strong></p><p><br/></p><ul><li>Bachelor's degree in management information systems, computer science or closely related field plus 7 years of experience. </li><li>Experience in controlling information technology budget </li><li>Experience in analysis, implementation and evaluation of IT systems and their specifications </li><li>Outstanding communication abilities </li><li>Experience with ISO 27001 and SOC 1 &amp; SOC 2 certifications/ attestations</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

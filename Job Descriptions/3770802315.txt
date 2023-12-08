@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The State Accounting Office (SAO) provides accounting and financial reporting expertise for the State and is statutorily responsible for statewide financial reporting. The SAO also provides enterprise oversight and management of the State’s Enterprise Resource Planning (ERP) system, accounting policy development, financial business process improvement recommendations, and management of the payroll and accounting shared service centers.<br/><br/>Position Description:<br/><br/>Under general supervision, the Data Conversion Analyst will work closely with a group of talented Business Analysts and Technical Specialists with the objective of extracting and transforming data from various ERP and related systems into Workday.<br/><br/>This is a time-limited, at-will employment position assigned to a project with an approximate 3-year life cycle.<br/><br/>Primary Duties &amp; Responsibilities:<br/><br/><ul><li> Develop/test/execute data conversion extractions, transformations, and processes within an established<br/><br/></li></ul>conversion framework in a timely and accurate manner.<br/><br/><ul><li> Develop and maintain data conversion documentation</li><li> Write and maintain automation scripts as needed</li><li> Verify data integrity and identify data cleanliness issues</li><li> Reconcile converted data to ensure accuracy</li><li> Communicate effectively with management</li><li> Develop good working relationships with departmental staff in order to troubleshoot technical and<br/><br/></li></ul>functional issues that may arise during the implementation process.<br/><br/>Skills and Competencies:<br/><br/><ul><li> Solid grasp of relational database structures and strong use of SQL</li><li> Familiarity with a variety of database types and interfaces (Microsoft Access, Oracle, various text formats,<br/><br/></li></ul>ODBC).<br/><br/><ul><li> Solid understanding and usage of Microsoft Excel</li><li> Strong troubleshooting skills and analytical thinking to resolve issues</li><li> Positive, proactive, take-charge attitude and attention to detail</li><li> Strong time management skills with the ability to meet deadlines for multiple, concurrent projects</li><li> Ability to quickly gain working knowledge of product, interpret requirements, and recommend solutions</li><li> Excellent verbal and written communication skills<br/><br/></li></ul>Minimum Qualifications:<br/><br/>Bachelor's degree in computer science or a related field from an accredited college or university AND One year of job-related experience.<br/><br/>Preferred Qualifications:<br/><br/>Preference may be given to applicants who, in addition to meeting the Minimum Qualifications, possess the following:<br/><br/><ul><li> Experience with PeopleSoft, Oracle, Taleo, Workday or other SaaS and On-Premises ERP systems</li><li> Experience in Human Resource, Financial, or Procurement domains</li><li> Can work in a fast paced, fast-growth, high-energy environment and take care of multiple high priority<br/><br/></li></ul>activities concurrently.<br/><br/><ul><li> Ability to balance multiple projects and initiatives simultaneously</li><li> Standout colleague who can collaborate and communicate optimally with all partners, i.e. developers,<br/><br/></li></ul>technical operations, and customers.<br/><br/><ul><li> Possess excellent verbal and written communication skills</li><li> Passion for data accuracy and completeness<br/><br/></li></ul>12-18 month duration<br/><br/><strong>Application/Resume Must Clearly Describe Relevant Qualifications And Experience.<br/><br/></strong>Out-of-state candidates are welcome to apply, however local candidates are strongly preferred
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

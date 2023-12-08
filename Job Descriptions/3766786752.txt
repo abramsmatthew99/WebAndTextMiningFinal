@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Title: Director of Data and Analytics</p><p>$150-180k plus bonuses</p><p>100% fully remote</p><p><br/></p><p>Overview:</p><p>We are seeking a highly skilled and experienced Director of Data and Analytics to lead our data-driven initiatives and strategies. As the Director of Data and Analytics, you will be responsible for overseeing the entire data lifecycle, from collection and analysis to visualization and interpretation. Your role will be pivotal in driving informed decision-making, optimizing operations, and enhancing our competitive advantage through data-driven insights.</p><p><br/></p><p>Key Responsibilities:</p><p><br/></p><p>Strategic Leadership:</p><ul><li>Develop and execute a comprehensive data and analytics strategy aligned with the organization's goals and objectives.</li><li>Provide visionary leadership to the data and analytics team, fostering a culture of innovation, collaboration, and continuous improvement.</li></ul><p><br/></p><p>Data Management:</p><ul><li>Oversee data collection, storage, processing, and cleansing procedures to ensure accuracy, completeness, and integrity of data.</li><li>Establish and enforce data governance policies, ensuring compliance with relevant regulations and industry standards.</li></ul><p><br/></p><p>Data Analysis and Interpretation:</p><ul><li>Utilize advanced statistical and analytical methods to extract meaningful insights from large, complex datasets.</li><li>Translate data findings into actionable business recommendations, presenting them to stakeholders in a clear and compelling manner.</li></ul><p><br/></p><p>Team Management:</p><ul><li>Lead, mentor, and inspire a team of data analysts, data scientists, and other professionals, fostering their professional growth and skill development.</li><li>Foster a collaborative environment where team members are encouraged to share knowledge and expertise.</li></ul><p><br/></p><p>Technology and Tools:</p><ul><li>Evaluate, implement, and manage cutting-edge data analytics tools and technologies to enhance the team's capabilities and efficiency.</li><li>Stay updated with emerging trends and advancements in data analytics, incorporating relevant technologies into the organization's data ecosystem.</li></ul><p><br/></p><p>Stakeholder Collaboration:</p><ul><li>Collaborate effectively with cross-functional teams, including IT, marketing, finance, and operations, to identify data-related opportunities and challenges.</li><li>Act as a liaison between technical and non-technical stakeholders, ensuring clear communication and understanding of data-related initiatives.</li></ul><p><br/></p><p>· Qualifications:</p><p><br/></p><p>- Bachelor's or advanced degree in Data Science, Statistics, Computer Science, or related field.</p><p>- 8-10 years experience proven track record of leadership in data and analytics roles, preferably in complex and dynamic environments.</p><p>- Expertise in data analysis, data visualization, statistical modeling, and machine learning techniques.</p><p>- Strong programming skills in languages such as Python, R, SQL, etc.</p><p>- Experience with data warehousing, ETL processes, and data integration tools.</p><p>- Excellent communication and presentation skills, with the ability to convey complex data insights to non-technical stakeholders.</p><p>- Ability to think strategically and drive business outcomes through data-driven decision-making.</p><p><br/></p><p>Benefits:</p><p>We offer competitive salary packages, health benefits, professional development opportunities, and a supportive work environment that values innovation and collaboration.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Restaurants
+          </span>
+</li>
+</ul>
+</div>
+</section>

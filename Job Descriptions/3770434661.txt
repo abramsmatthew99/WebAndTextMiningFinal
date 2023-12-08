@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:<br/><br/></strong>System Administrator<br/><br/><strong>Belong. Connect. Grow. with KBR! <br/><br/></strong>Around here, we define the future.<br/><br/>We are a company of innovators, thinkers, creators, explorers, volunteers, and dreamers. But we all share one goal: to improve the world responsibly and safely.<br/><br/>KBR is seeking a highly skilled system administrator to provide technical expertise to implement strategies, evaluate products, and build/manage an infrastructure that supports the future needs of NASA. In this role, you will work with complex systems, designing, developing, and integrating them at every stage of its life cycle. If you’re reliable in delivering mission-critical infrastructure with an eye toward accessibility, optimization, and security, we’d like to hear from you.<br/><br/><strong>Objectives of this Role:<br/><br/></strong><ul><li>Manage and monitor all infrastructure and system installations, including configurations, testing, and maintenance</li><li>Implement and maintain backups, security, and redundancy strategies</li><li>Identify potential issues and integrate possible solutions</li><li>Craft custom scripts, reducing requirement of human interaction</li><li>Engage with upper management regularly with reports on project status, activities, and achievements<br/><br/></li></ul><strong>Daily And Monthly Responsibilities<br/><br/></strong><ul><li>Communicate with stakeholders to identify what they want a system to accomplish</li><li>Use expert-level administration and optimization of hosts and servers to ensure high availability and appropriate resource management</li><li>Standardize and automate processes and monitoring using scripting technology</li><li>Install and configure operating systems, software, and hardware components, and clearly document the design, maintenance, and support procedures for routine tasks to leverage IT support staff</li><li>Routinely test software for bugs, redundancies, and security issues</li><li>Conduct high-level root-cause analysis for service interruption and establish preventive measures</li><li>Create reports and documentation outlining findings and solutions; oversee the overall backup strategy and daily operations for secure backups and restore testing<br/><br/></li></ul><strong>Required Education, Experience, &amp; Skills:<br/><br/></strong><ul><li>Ten years experience as a System Administrator</li><li>Bachelor’s degree in technology or computer science or equivalent work experience</li><li>Basic understanding of cloud technologies</li><li>Experience with or knowledge of programming languages and operating systems; current equipment and technologies, enterprise backup and recovery procedures, system performance-monitoring tools, active directories, virtualization, HTTP traffic, content delivery, and caching</li><li>Expertise in creating, analyzing, and repairing large-scale distributed systems</li><li>Ability to pass Public Trust background check<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Innovative mindset</li><li>Technical documentation skills</li><li>VMWare experience</li><li>Containers (Docker/Kubernetes)</li><li>Strong Linux and Windows background</li><li>Understanding of networking technologies (TCP/IP)<br/><br/></li></ul><strong>KBR Benefits<br/><br/></strong>KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&amp;D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.<br/><br/>Click here to learn more: KBR Benefits<br/><br/><strong>Inclusion and Diversity at KBR <br/><br/></strong>At KBR, we are passionate about our people, sustainability, and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a more inclusive and diverse company. That commitment is central to our team of team’s philosophy and fosters an environment of real collaboration across cultures and locations. Our individual differences and perspectives bring enhanced value to our teams and help us develop solutions for the most challenging problems. We understand that by embracing those differences and working together, we are more innovative, more resilient, and safer. We Deliver – Together.<br/><br/>Click here to learn more: Inclusion and Diversity at KBR<br/><br/>KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Training, General Business, and Administrative
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Civil Engineering, and Oil and Gas
+          </span>
+</li>
+</ul>
+</div>
+</section>

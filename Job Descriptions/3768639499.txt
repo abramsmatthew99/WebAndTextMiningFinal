@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position Overview:</strong> We are seeking a highly skilled Senior Full Stack Engineer with expertise in Core Java to join our team. As a Senior Full Stack Engineer, you will play a pivotal role in designing, developing, and maintaining robust and scalable applications, utilizing your proficiency in Core Java across both front-end and back-end technologies.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Collaborate with cross-functional teams to design, develop, and implement high-quality software solutions leveraging Core Java across the stack. </li><li>Participate in the entire software development lifecycle, including requirements gathering, design, development, testing, deployment, and maintenance. </li><li>Develop clean, efficient, and reusable code while ensuring high performance and scalability of applications. </li><li>Design and implement user interfaces using modern front-end technologies (HTML5, CSS3, JavaScript, etc.) in conjunction with Core Java for back-end functionality. </li><li>Work on database design, optimization, and integration, ensuring data integrity and efficiency. </li><li>Troubleshoot, debug, and resolve issues across the full stack, providing technical support and guidance to junior team members when needed. </li><li>Stay updated with industry best practices, emerging technologies, and advancements in Core Java, incorporating them into development processes and strategies. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field. </li><li>Proven experience (X years) as a Full Stack Engineer with a focus on Core Java development. </li><li>Proficiency in Core Java programming language and frameworks (Spring, Hibernate, etc.). </li><li>Strong knowledge of front-end technologies such as HTML5, CSS3, JavaScript, and modern JavaScript frameworks/libraries (React, Angular, Vue.js, etc.). </li><li>Experience with relational databases (MySQL, PostgreSQL, etc.) and NoSQL databases (MongoDB, Cassandra, etc.). </li><li>Familiarity with RESTful APIs, microservices architecture, and version control systems (Git, SVN, etc.). </li><li>Excellent problem-solving skills and ability to work in a fast-paced, collaborative environment. </li><li>Strong communication skills and the ability to effectively convey technical concepts to team members. <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience working in [specific industry or domain]. </li><li>Knowledge of cloud platforms (AWS, Azure, GCP) and containerization technologies (Docker, Kubernetes).</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

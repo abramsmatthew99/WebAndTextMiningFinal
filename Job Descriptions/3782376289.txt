@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>The Team<br/><br/></strong>We are seeking a Senior Manager, Technical Solutions, to join American Tower’s U.S. Tower division’s Technology Solutions and Engineering team. Day to day you will provide technical consulting to customers by articulating the benefit of offered solutions and helping them understand and connect the dots between how those offerings can help solve their specific problems and needs. As a Senior Manager, you will drive success with internal and external customers by leading a team focused on methodical and disciplined approaches towards evaluating and translating customers’ desires, mapping to offered solutions, and presenting the values of the solutions to the customers.<br/><br/><strong>Responsibilities<br/><br/></strong><strong>What You Can Offer Us<br/><br/></strong><ul><li>Provide technical consulting on offered Managed Network solutions to internal and external customers.</li><li>Prepare and deliver impactful presentations that outline the value of American Tower solutions.</li><li>Serve as the lead technical resource for developing solutions and offerings to respond to time sensitive competitive requests for proposal.</li><li>Act as the pre-sales engineering interface for internal teams; resolve open issues and feed projects to the delivery team.</li><li>Conduct market trend research and analyses to assess customers’ needs, industry trends, and competitive landscapes.</li><li>Lead the planning, communication, execution, and executive updates of and for large special projects.</li><li>Engage with and manage updates, issue resolutions, etc., with established partners.</li><li>Analyze customers’ requests and provide recommendations for evolving solutions in accordance with market demand.</li><li>Serve as the prime point of contact with cross-functional teams for process and system optimization initiatives.</li><li>Develop strong partnerships with engineering peers; seek and provide feedback for continual improvements of designed solutions.</li><li>Other duties as assigned.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>What You Need to Succeed<br/><br/></strong><ul><li>Bachelor’s degree in Engineering, Computer Science, Information Technology, or a related field required.</li><li>A minimum of 10 years of relevant technical wireless communications experience required.</li><li>A minimum of 5 years of iBwave Design oversight of high capacity / multi-zone DAS Systems strongly preferred.</li><li>Excellent presentation preparation and delivery skills required.</li><li>Strong consultative ability to help customers articulate their key business and technical drivers.</li><li>Sound understanding of wireless technologies (e.g., Wi-Fi 6, LTE, 5G), private networks, CBRS, RAN, EPC, Cloud native, Virtualization, software defined, open RAN, etc.</li><li>Ability to grasp, and simplify for a target audience, complex technical details of solutions.</li><li>Strong critical thinking skills, with a proven capability to work both independently and with others to solve complex problems.</li><li>Strong written and oral communication skills; ability to present ideas and suggestions concisely, clearly, and effectively.</li><li>Strong organization, planning, and project management skills; ability to prioritize tasks for yourself and a team to meet requirements and deadlines.</li><li>Ability to work with different functional groups and levels of employees to effectively and professionally achieve results.</li><li>Strong leadership skills; ability to drive and motivate a team to achieve results.</li><li>Approximately 50% travel may be required to support the position’s responsibilities.<br/><br/><br/></li></ul><strong>About Us<br/><br/></strong>American Tower is a global digital infrastructure company serving customers through tower sites and other real estate solutions that support connectivity and opportunity, focused on achieving our vision of Building a More Connected World. Our success is rooted in the potential of our people and the power of local teams at our offices and sites across 25 countries.<br/><br/>We are one of the largest global Real Estate Investment Trusts (REITs) and a publicly traded (NYSE:AMT), Fortune 500 Company headquartered in Boston, Massachusetts. The next decade will be an exciting time as we evolve our infrastructure to meet tomorrow’s needs and position our people to elevate their impact, their potential, and our shared success. Come grow your career with us!<br/><br/>For more information about how American Tower is building a more connected world, visit americantower.com.<br/><br/>American Tower is proud to be an equal opportunity employer and will not discriminate against an applicant or employee based on age, sex, sexual orientation, gender identity, race, color, creed, religion, national origin or ancestry, citizenship, marital status, familial status, disability, military or veteran status, genetic information, pregnancy, reproductive decisions, or any other characteristic protected under applicable law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

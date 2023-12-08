@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are <br/><br/></strong>Cisco IT is a transformation engine enabling people to do the best work of their lives. Our vision is to be admired as the world’s best IT organization! We lead with user experience, embrace agile ways of working, drive engineering effectiveness, and deliver with Cloud first, shift left, AI powered technology.<br/><br/>In Finance IT, we deliver the technologies that power Cisco’s Finance and Commercial Processes through scalable and sustainable architectures to drive profitable growth &amp; operational efficiency. The Finance IT organization is a team of fun-loving and motivated individuals working on managing IT architecture, platforms, and engineering services for Cisco core financials area.<br/><br/><strong> What You'll Do <br/><br/></strong>We are currently looking for a talented and passionate Software Engineer to become part of our team. More than any other quality, we are looking for those inspired by the challenge of solving unique and difficult technical problems for our business partners, those who excel when given creative freedom, and those who aren't afraid to dive into new territory (technical or otherwise) and learn something new.<br/><br/><strong> You Will: <br/><br/></strong><ul><li> Work in an agile development environment with product owner, scrum lead, and global delivery teams to be a key contributor to Project releases and sprint payloads. </li><li> Be part of core operations team managing finance back-office applications and troubleshooting to implement proactive and preventive measures to avoid business disruption leveraging newer technologies. </li><li> Participate in end-to-end software development lifecycle, adhering to the defined processes, and implementing solutions that support business needs. </li><li> Conduct design review and walkthroughs with engineering teams. </li><li> Contribute to continuously improve the development process to enable build to operate capabilities. <br/><br/></li></ul><strong><br/><br/><strong>Who You'll Work With<br/><br/><br/><br/></strong></strong>When you work with us, you’ll be part of a highly empowered collaborative "FUTURE IT" team who's passionate about the use of technology to deliver outstanding business outcomes. You will work with business partners, internal and external partners, Cisco’s outsourced partners, and cross-functional teams.<br/><br/><strong> Who You Are <br/><br/></strong>Both your stakeholders and teammates consider you a go-to person for solving business problems and managing daily operations with the most efficient and innovative solutions for all Finance applications. As a result, you have a winning record of improving the systems and processes with out of the box thinking to deliver unprecedented operational efficiencies and productivity savings. You thrive in a fast-paced agile development environment and possess a passion for application development and delighting our users. You're a driven, resourceful, dynamic individual who loves to innovate, disrupt, and solve sophisticated problems.<br/><br/><strong>Basic Qualifications<br/><br/></strong><ul><li> 3+ years of work experience in software development lifecycle, agile delivery methods and DevOps, with finance ERP (Oracle EBS R12) and exposure to Invoice to Cash and Revenue </li><li> 2+ years of work experience with software development in building business applications and integrations using Oracle ERP OOB and Third-party Integration tools. </li><li> 3+ years of work experience in Oracle DB, PL/SQL, Performance tuning, Web Services, REST API’s. </li><li> Bachelor's degree +5 years or Master’s degree +3 years in engineering or computer science <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> 3+ years of software development experience in building business applications, integrations, preferably in Finance. </li><li> 3+years with MEAN Stack, Cloud Native Technologies, Kafka, Elastic Search, Unix Scripting, Python. </li><li> Proven experience with Finance ERP (Oracle EBS R12). </li><li> Experience with Continuous Integration/Continuous Delivery, Control-M Scheduling would be an asset. <br/><br/></li></ul><strong>Why Cisco<br/><br/></strong><ul><li> <br/><br/></li></ul>#WeAreCisco. We are all unique, but collectively we bring our talents to work as a team, to develop innovative technology and power a more inclusive, digital future for everyone. How do we do it? Well, for starters – with people like you!<br/><br/>Nearly every internet connection around the world touches Cisco. We’re the Internet’s optimists. Our technology makes sure the data traveling at light speed across connections does so securely, yet it’s not what we make but what we make happen which marks us out. We’re helping those who work in the health service to connect with patients and each other; schools, colleges, and universities to teach in even the most challenging of times. We’re helping businesses of all shapes and sizes to connect with their employees and customers in new ways, providing people with access to the digital skills they need and connecting the most remote parts of the world – whether through 5G, or otherwise.<br/><br/>We tackle whatever challenges come our way. We have each other’s backs, we recognize our accomplishments, and we grow together. We celebrate and support one another – from big and small things in life to big career moments. And giving back is in our DNA (we get 10 days off each year to do just that).<br/><br/>We know that powering an inclusive future starts with us. Because without diversity and a dedication to equality, there is no moving forward. Our 30 Inclusive Communities, that bring people together around commonalities or passions, are leading the way. Together we’re committed to learning, listening, caring for our communities, whilst supporting the most vulnerable with a collective effort to make this world a better place either with technology, or through our actions.<br/><br/>So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us! #WeAreCisco
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computer Networking Products
+          </span>
+</li>
+</ul>
+</div>
+</section>

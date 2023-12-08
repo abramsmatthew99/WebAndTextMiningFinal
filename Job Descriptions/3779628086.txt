@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Senior Software Engineer - Medical Devices</u></strong></p><p><br/></p><p>Are you a seasoned Senior Software Engineer with a passion for innovation and a drive to make a difference in the medical field?</p><p><br/></p><p>Do you thrive in a fast-paced environment and enjoy collaborating with cross-functional teams to bring groundbreaking medical devices to life?</p><p><br/></p><p>If so, then we have the perfect opportunity for you!</p><p><br/></p><p><br/></p><p>Our client, a leading innovator in the medical device industry, is seeking an experienced Senior Software Engineer to play a pivotal role in the design, development, and implementation of software solutions for our medical devices and systems. As a key member of the engineering team, you will contribute to the advancement of groundbreaking technologies that directly impact patient well-being.</p><p><br/></p><p><br/></p><p><strong><u>Responsibilities:</u></strong></p><ul><li>Software Design and Development - Design and implement innovative features for our robotic medical imaging platform.</li><li>Develop multi-threaded programs and testing tools using Python or C++.</li><li>Design and implement robust data structures to enhance software performance.</li><li>Ensure high-quality documentation, including program readability, code flow diagrams, and sequence diagrams.</li><li>Collaborate with software, imaging, product, data science, and clinical teams to understand needs and implement features for image-guided navigational tools in robotic systems.</li><li>Explore, understand, and integrate open-source APIs for software development.</li></ul><p><br/></p><p><strong><u>Required Qualifications:</u></strong></p><ul><li>Master's degree in computer science or related technical field</li><li>6 years of professional experience in programming using Python, C++, and related languages in a Linux-based environment.</li><li>3 years of experience in the Medical Device industry or related field. </li><li>Hands-on experience with low-level code development for embedded systems and instrumentation control, particularly with multithreading.</li><li>Proficiency in using software development tools such as gdb, gcc, git, and IDEs.</li><li>Strong technical skills, including a deep understanding of data structures and algorithms.</li><li>Excellent problem-solving and debugging capabilities.</li><li>Outstanding collaboration and communication skills.</li><li>Work effectively both independently, taking ownership of coding solutions, and collaboratively, seeking input from the team when necessary.</li></ul><p><br/></p><p><strong><u>Desirable Experience (not required):</u></strong></p><ul><li>Experience with MRI-guided technologies and/or Robotics systems.</li></ul><p><br/></p><p>The typical base pay range for this role is USD $150,000 - $190,000 per year. Compensation offered will be determined by level, job-related knowledge, skills, and experience.</p><p><br/></p><p>If you are a highly motivated and experienced Senior Software Engineer who is passionate about making a difference in healthcare, then we encourage you to apply!</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Research, and Product Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

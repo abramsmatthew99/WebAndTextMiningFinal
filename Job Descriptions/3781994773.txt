@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are Quantcast. A global Demand Side Platform (DSP) powered by AI. Rooted in our DNA is a strong foundation of measurement and consumer analytics, enabling us to empower marketers to reach audiences and achieve measurable advertising outcomes across the Open Web.<br/><br/>Since 2006, Quantcast has consistently set the industry standard by introducing groundbreaking initiatives such as the first measurement platform for digital publishers and the first AI-powered DSP. If you're prepared to be part of an enthusiastic team that crafts cutting-edge solutions, then Quantcast is the ideal place for you.<br/><br/>We are hiring an intern to join our engineering teams in our Seattle office for Summer of 2024. At Quantcast, data is king, and we know how to process it. As the real-time pulse of the Internet, Quantcast runs the world’s largest AI-driven insights and measurement platform directly quantifying over 100 million web destinations.<br/><br/>We are using machine learning to drive human learning. Quantcast provides brand marketers and publishers with significant audience insights, predictive targeting and measurement solutions across the customer journey. We do this at scale. Our typical day consists of dealing with 200+ billion transactions a day at 4M QPS at peak.<br/><br/>As a Software Engineer Intern, you’ll seek significant answers related to operating such a Software Platform at scale - Low-Latency, High-Scale Software Architectures; Machine Learning; Distributed Storage Systems; Big Data platforms; API Development and Data Visualization.<br/><br/>You’ll have the opportunity to learn Software Engineering methodologies and will own projects from start to finish. You are passionate about building scalable backend systems and customer-facing applications. You will thrive in an environment where independent decision-making based on product requirements is the norm. We foster an agile environment where new ideas and software development come together to optimally pursue some of our industry's toughest problems.<br/><br/><strong>Responsibilites<br/><br/></strong><ul><li>You will provide technical solutions to take on exciting problems in the advertising industry</li><li>You will partner with a team of engineers and work on a variety of large scale systems</li><li>You will collaborate with Product &amp; Business Operations teams to translate business requirements and build highly robust and scalable products</li><li>You will gain exposure to existing Quantcast systems and our technologies to internal and external customers<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>BS, MS or PhD degree in Computer Science or a related field</li><li>Graduation date must be 2025 or later</li><li>Excellent command of one or more programming languages such as Java, GoLang or Python</li><li>Experience working on projects involving distributed systems, big data and large-scale systems</li><li>Deep understanding of algorithms and data structures</li><li>Good verbal and written interpersonal skills<br/><br/></li></ul>This role pays $54.23/hr<br/><br/>Ultimately, in determining your offer, we will take into consideration your geographic location, relevant experience and expertise, and other job-related factors. Furthermore, full-time roles are eligible for a bonus, equity, and benefits (depending on your location) which include hybrid work, vacation, medical, dental, and vision insurance, and retirement plans. Please see our Careers page for additional information.<br/><br/>Founded in 2006 and headquartered in San Francisco, Quantcast has employees in 18 offices across 10 countries. We are committed to building an inclusive and diverse environment where everyone can be their authentic self. We work to ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.<br/><br/>Recognizing the importance of flexible work environments, Quantcast operates in a hybrid work model. This model gives employees the opportunity to work from home two days a week and work in the office for team collaboration for the remainder of the time. Our hybrid model may differ based on location or team, so please consult with your hiring manager for further information. All hybrid employees can also work remotely for two weeks each year or, if eligible, apply for our fully remote work program. We strongly encourage vaccination for all Quantcast employees as a way to stop the spread of COVID and protect yourself and others.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Other
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

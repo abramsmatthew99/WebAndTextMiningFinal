@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Do you have a passion for building data architectures that enable smooth and seamless product experiences? Are you an all-around data enthusiast with a knack for ETL? We're hiring Data Engineers to help build and optimize the foundational architecture of our product's data.<br/><br/>We’ve built a strong data engineering team to date, but have a lot of work ahead of us, including:<br/><br/><ul><li>Migrating from relational databases to a streaming and big data architecture, including a complete overhaul of our data feeds </li><li>Defining streaming event data feeds required for real-time analytics and reporting </li><li>Leveling up our platform, including enhancing our automation, test coverage, observability, alerting, and performance <br/><br/></li></ul>As a Data Engineer, you will work with the development team to construct a data streaming platform and data warehouse that serves as the data foundations for our product.<br/><br/>Help us scale our business to meet the needs of our growing customer base and develop new products on our platform. You'll be a critical part of our growing company, working on a cross-functional team to implement best practices in technology, architecture, and process. You’ll have the chance to work in an open and collaborative environment, receive hands-on mentorship and have ample opportunities to grow and accelerate your career!<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Build our next generation data warehouse </li><li>Build our event stream platform </li><li>Translate user requirements for reporting and analysis into actionable deliverables </li><li>Enhance automation, operation, and expansion of real-time and batch data environment </li><li>Manage numerous projects in an ever-changing work environment </li><li>Extract, transform, and load complex data into the data warehouse using cutting-edge technologies </li><li>Build processes for topnotch security, performance, reliability, and accuracy </li><li>Provide mentorship and collaborate with fellow team members <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s or Master’s degree in Computer Science, Information Systems, Operations Research, or related field required </li><li>3+ years of experience building data pipelines </li><li>3+ years of experience building data frameworks for unit testing, data lineage tracking, and automation </li><li>Fluency in Scala is required </li><li>Working knowledge of Apache Spark </li><li>Familiarity with streaming technologies (e.g., Kafka, Kinesis, Flink) <br/><br/></li></ul><strong>Nice-to-Haves<br/><br/></strong><ul><li>Experience with Machine Learning </li><li>Familiarity with Looker a plus </li><li>Knowledge of additional server-side programming languages (e.g. Golang, C#, Ruby) <br/><br/></li></ul>PrismHR is a fast-paced SaaS company which provides customers with a cloud-based payroll process software application. PrismHR also provides professional services including system implementation consulting, custom configurations, and training. Lastly, via the Company’s Marketplace platform customers and end users access other human resources and employee benefits applications from PrismHR’s Marketplace Partners.<br/><br/><strong>Diversity, Equity And Inclusion Program/Affirmative Action Plan<br/><br/></strong>We have transformed our company into an inclusive environment where individuals are valued for their talents and empowered to reach their fullest potential. At PrismHR, we strive to continually lead with our values and beliefs that enable our employees to develop their potential, bring their full self to work, and engage in a world of inclusion.<br/><br/>Ensuring an inclusive environment for our employees is an integral part of the PrismHR culture. We aren't just checking a box, we are truly committed to creating a workplace that celebrates the diversity of our employees and fosters a sense of belonging for everyone. This is essential to our success. We are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about our roles but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for these open roles or other open roles. We particularly encourage applicants from traditionally under-represented groups as we seek to increase the diversity of our workforce and provide fair opportunities for all.<br/><br/>As a proud Equal Opportunity and Affirmative Action Employer, PrismHR encourages talent from all backgrounds to join our team. Employment decisions are based on an individual’s qualifications as they relate to the job under consideration. The Company’s policy prohibits unlawful discrimination based on sex (which includes pregnancy, childbirth, breastfeeding, or related medical conditions, the actual sex of the individual, or the gender identity or gender expression), race, color, religion, including religious dress practices and religious grooming practices, sexual orientation, national origin, ancestry, citizenship, marital status, familial status, age, physical disability, mental disability, medical condition, genetic information, protected veteran or military status, or any other consideration made unlawful by federal, state or local laws, ordinances, or regulations.<br/><br/>The Company is committed to complying with all applicable laws providing equal employment opportunities. This commitment applies to all persons involved in the operations of the Company and prohibits unlawful discrimination by any employee of the Company, including supervisors and co-workers.<br/><br/>Privacy Policy: For information about how we collect and use your personal information, please see our privacy statement available at https://www.prismhr.com/about/privacy-policy.<br/><br/><em>PrismHR provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. If you have any difficulty using our online system and you need a reasonable accommodation due to a disability, you may use the following alternative email address to contact us about your interest in employment at PrismHR: taglobal@prismhr.com. Please indicate in the subject line of your email that you are requesting accommodation. Only candidates being considered for a position who require an accommodation will receive a follow-up response.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

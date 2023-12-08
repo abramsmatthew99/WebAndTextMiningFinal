@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Genzeon has an exciting role of Healthcre Data Engineer on remote basis, and I am happy to discuss about this opportunity (details below), you can also reach me on <strong>484-713-9023.</strong></p><p> </p><p>We are Genzeon Corp<strong>(</strong>www.genzeon.com<strong>)</strong>, established in 2009, A cutting-edge global digital company with focus on healthcare. Genzeon helps its clients achieve their goals by providing innovative services &amp; solutions to reduce costs, streamline operations, improve experience, increase provider productivity, and advance patient care and satisfaction. Our culture anchors our core values – Human connection, Accountability &amp; Empowerment.</p><p> </p><p><strong>Healthcare Data Engineer</strong></p><p><strong>Remote/With in USA </strong></p><p><strong>Employment Term: Fulltime with Benefits</strong></p><p> </p><p> </p><p><strong>Job Description</strong></p><p>The Data Engineer will be responsible to design, build, and maintain data pipelines, data warehouses, and other data-related infrastructure. You will work closely with data scientists, analysts, and other stakeholders to ensure that the data engineering solutions meet business requirements and are scalable, reliable, and efficient. You will also be responsible for mentoring and training team members, driving innovation and best practices, and collaborating with other cross-functional teams.</p><p> </p><p> <strong>Handling data integration, preprocessing, and database management. </strong></p><p><strong>Need someone to define data models; define business objects and defining the relationships (matching patient identifiers de-identification, mapping etc.; factor in EHR workflow data integrations)</strong></p><p> </p><p> <strong> Responsibilities</strong></p><p>- Design and build scalable, reliable, and efficient data pipelines using Python, SQL, AWS, and Linux.</p><p>- Develop and maintain data warehouses and other data-related infrastructure.</p><p>- Collaborate with data scientists, analysts, and other stakeholders to ensure that data engineering solutions meet business requirements.</p><p>- Mentor and train team members to ensure high-quality deliverables.</p><p>- Continuously drive innovation and best practices in data engineering.</p><p>- Collaborate with cross-functional teams to identify and resolve data-related issues.</p><p>- Perform code reviews and ensure code quality.</p><p>- Provide technical guidance and leadership to the team.</p><p> </p><p><strong>Qualification</strong></p><p>- Bachelor's or master’s degree in computer science or related field.</p><p><strong>- 3-5 years of experience in data engineering, with a focus on designing and building scalable, reliable, and efficient data pipelines.</strong></p><p><strong>- Strong expertise in Python and SQL.</strong></p><p><strong>- Experience with AWS services such as S3, Redshift, Glue, and EMR.</strong></p><p><strong>- Strong Linux skills.</strong></p><p><strong>- Experience with distributed systems and big data technologies such as Hadoop, Spark, and Kafka.</strong></p><p>- Experience leading and mentoring a team of data engineers.</p><p>- Excellent communication and interpersonal skills.</p><p>- Ability to work in a fast-paced environment and manage multiple priorities.</p><p>- Strong problem-solving skills and attention to detail.</p><p><strong>- Solid understanding of programming SQL objects (procedures, triggers, views, functions) in SQL Server. Experience optimizing SQL queries a plus.</strong></p><p><strong>- Working Knowledge of Azure Architecture, Data Lake</strong></p><p><strong>- Advanced understanding of T-SQL, indexes, stored procedures, triggers, functions, views, etc.</strong></p><p>- Must be detail-oriented. Must work under limited supervision. </p><p>- Must demonstrate good analytical skills as it relates to data identification and mapping and excellent oral communication skills. </p><p>- Must be flexible and able to multi-task and be able to work within deadlines; must be team-oriented, but also be able to work independently.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

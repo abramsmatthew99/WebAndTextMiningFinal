@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job brief<br/><br/>We are looking for a Network Engineer to design, implement, maintain, and support our growing network infrastructure. You will be part of a systems engineering team that is responsible for designing and developing scalable, maintainable, highly available network architectures that meet business objectives and SLAs.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Configure and install various network devices and services</li><li>Perform network maintenance and system upgrades including service packs, patches, hot fixes and security configurations</li><li>Monitor performance and ensure system availability and reliability</li><li>Monitor system resource utilization, trending, and capacity planning</li><li>Provide Level-2/3 support and troubleshooting to resolve issues</li><li>Work within established configuration and change management policies to ensure awareness, approval and success of changes made to the network infrastructure</li><li>Select and implement security tools, policies, and procedures in conjunction with the company’s security team</li><li>Liaise with vendors and other IT personnel for problem resolution<br/><br/></li></ul><strong>Requirements And Skills<br/><br/></strong><ul><li>Proven hands-on network engineering experience</li><li>CCNP and Juniper Certification</li><li>Deep understanding of networking protocols </li><li>Solid understanding of the OSI or TCP/IP model</li><li>Hands-on experience with monitoring, network diagnostic and network analytics tools</li><li>University degree in Computer Science or a related subject</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

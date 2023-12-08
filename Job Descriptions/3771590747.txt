@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>IT Systems Consultant<br/><br/></strong>Cyber Advisors, has been the recipient of multiple Top Companies to Work For awards by both Twin Cities Magazine and Star Tribune. Come and join a team where we solve a wide array of technology tasks, build individual skill sets, and have a good time doing it! We are looking to add a IT Systems Consultant. Cyber Advisors provides employees opportunities for growth and learning while servicing a dynamic customer base. Our customers depend on us as their technology consultants and you will be expected to play a major role in our growth and success. You will also build your own skill set as you are exposed to many different types of applications, environments, and platforms. We believe a healthy work-life balance is paramount to the success of our team.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li> Deliver onsite and remote support to multiple clients</li><li> Proactively anticipate, pre-empt, diagnose, and solve hardware, network, and software problems. </li><li> Develop and maintain knowledge of the client’s specific business environment</li><li>Maintain the whole client’s environment (Servers, Firewalls, Switches, Cloud Apps, Backups, and others)</li><li> Participate in the design and implementation of new networks, including Windows servers, Firewalls, workstations, remote backup, and virtualization<br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li> A Big Plus is experience as an IT Managed Services, in the field, Technical Consultant</li><li> Dedication to customer satisfaction and getting it right the first time. </li><li> Demonstrate ability to explain complex technical concepts to a non-technical audience</li><li> Strong troubleshooting skills across a broad and diverse population and environment. </li><li> Demonstrate ability to proactively look for process improvement opportunities, challenge conventional practices, and adopt new methods and best practices. Also focused on continuous self-improvement. </li><li> Demonstrate verbal and written communication skills; ability to communicate with all levels of the organization, clearly and concisely present issues, alternatives, and recommendation(s). </li><li> Strong technical documentation skills, ability to clearly record key information within ticketing and knowledge base systems. </li><li> Appreciation of internal customer business, goals and objectives, strategies, and needs. </li><li> Demonstrate ability to manage and prioritize multiple tasks, aggressive targets, and deadlines. </li><li> Demonstrate understanding of priorities and effective work procedures, self-manage work time, and prioritize multiple tasks and problems. </li><li> Passion for great customer service. </li><li> Long-standing curiosity and love of technology. </li><li> Proven ability to work with little or no supervision</li><li> High-quality, detail-oriented approach to work. </li><li> Well-developed organizational skills. </li><li> Reliable and punctual. </li><li> Ability to quickly learn new technologies. </li><li> Interest in building a long-term career position. <br/><br/></li></ul><strong>Essential Skills / Experience:<br/><br/></strong><ul><li> MUST have IT Technical Consulting experience with small to medium-sized businesses. </li><li> A Big Plus is experience as an IT Managed Services field Technical Consultant</li><li> Bachelor’s degree in computer science or commensurate work experience Preferred</li><li> A+, Network+, or similar IT certification</li><li> 5+ years IT experience</li><li> Strong knowledge of TCP/IP and networking fundamentals</li><li> Broad knowledge of Windows Server, Active Directory, and Exchange</li><li> Broad knowledge of Windows Desktop OS &amp; MS Office Suites</li><li> Experience with network security, anti-virus, and firewalls. <br/><br/></li></ul><strong>About Cyber Advisors:<br/><br/></strong>Cyber Advisors' culture is like no other. First and absolutely foremost, we believe in taking care of our employees and their families. Whether we are blowing off steam at Top Golf, gathering for a fun summer family picnic, or hosting sales –vs- engineering paintball war, we play just as hard as we work. We believe good things come to those who sweat.<br/><br/><strong>Company Description<br/><br/></strong>Cyber Advisors is a company that values people and their personal growth. We believe that happy and successful employees are the best way to take tremendous care of our customers. At Cyber Advisors employees have an opportunity to make a difference for our company and our clients and are not just a number.<br/><br/>Cyber Advisors is a company that values people and their personal growth. We believe that happy and successful employees are the best way to take tremendous care of our customers. At Cyber Advisors employees have an opportunity to make a difference for our company and our clients and are not just a number.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

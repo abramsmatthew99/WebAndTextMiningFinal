@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><em>Position at Apexon<br/><br/></em><strong>Company Description<br/><br/></strong>Apexon is a digital-first technology services firm backed by Goldman Sachs Asset Management and Everstone Capital. We specialize in accelerating business transformation and delivering human-centric digital experiences. For over 17 years, Apexon has been meeting customers wherever they are in the digital lifecycle and helping them outperform their competition through speed and innovation.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Title- Data Scientist<br/><br/></li></ul>Role Location – Hybrid/Onsite<br/><br/>Travel – None<br/><br/><strong>Purpose Of Role/Organizational Unit<br/><br/></strong>Data scientist resource will be member of Enterprise Data and Advanced Analytics team, working with cross-functional teams to leverage data and advanced analytical techniques and deliver data-driven solutions within an organization. This work entails problem solving in a variety of domains, including: regression and classification problems; natural language processing tasks; business process optimization; and conducting research and analysis on new technologies and business methodologies.<br/><br/><strong>Functions/Responsibility Performed<br/><br/></strong>The following functions are the responsibility of the Data Scientist. This individual may be asked to solely perform the functions, per agreement with the Enterprise Data Science Manager.<br/><br/><ul><li>Collaborate with business stakeholders to understand their challenges and requirements </li><li>Translate business problems into analytical frameworks and identify opportunities to address complex problems </li><li>Identify valuable data sources and use Analytical and Visualization tools to explore data, identify trends and discovery patterns </li><li>Apply statistical analysis and data mining techniques to analyze large and complex datasets </li><li>Enhance data collection process with preprocessing steps, transform raw data and apply cleansing of structured and unstructured data </li><li>Automate data collection processes using pipelines </li><li>Develop and implement models, algorithms, and statistical methodologies to derive actionable insights and make accurate predictions </li><li>Build interactive dashboards and data visualizations applications to present the model results to stakeholders </li><li>Document best practices and quality standards to be adherence during development of data science solutions </li><li>Conduct review and provide feedback on data science work applications </li><li>Monitor and manage production solutions. Optimize and fine-tune models for performance, accuracy, and scalability </li><li>Collaborate with cross functional teams to deploy models into production environments </li><li>Be a team player, proactive, an effective communicator with ability to work independently </li><li>Eager to learn new data domains <br/><br/></li></ul>Unique Competencies: <br/><br/><ul><li>8+ years of experience in Data Science and Analytical Domains </li><li>Understanding of machine-learning and operations research </li><li>Proficiency in Query languages SQL, Hive and scripting languages </li><li>Knowledge of R; familiarity with Scala, Java is an asset </li><li>Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop, Google Cloud Platform, SAP) </li><li>Working knowledge of containers. For example, experience with Docker or podman </li><li>Comfortable with git </li><li>Proven ability deploying automated data processing pipelines Strong command lines skills in Linux environments </li><li>Experience with Kubernetes, GCP, AWS, and cloud-native technologies generally A high tolerance for OpenShift, Confluence, Jira, and other enterprise tools </li><li>Analytical mind and business acumen </li><li>Proficiency in Data wrangling </li><li>Strong math skills (e.g. statistics, algebra) </li><li>Problem-solving aptitude </li><li>Excellent communication and presentation skills <br/><br/></li></ul><strong>You’ll have (Qualification &amp; Experience):<br/><br/></strong><ul><li> Bachelor's Degree in related field is required. <br/><br/></li></ul>Don’t worry if you don’t check all the boxes; we’d still love to hear from you.<br/><br/><strong>Our Commitment To Diversity &amp; Inclusion<br/><br/></strong>Did you know that Apexon has been Certified™ by Great Place To Work®, the global authority on workplace culture, in each of the three regions in which it operates: USA (for the fourth time in 2023), India (seven consecutive certifications as of 2023), and the UK.<br/><br/>Apexon is committed to being an equal opportunity employer and promoting diversity in the workplace. We take affirmative action to ensure equal employment opportunity for all qualified individuals. Apexon strictly prohibits discrimination and harassment of any kind and provides equal employment opportunities to employees and applicants without regard to gender, race, color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law.<br/><br/>You can read about our Job Applicant Privacy policy here Job Applicant Privacy Policy (apexon.com)<br/><br/><strong>Our Perks And Benefits<br/><br/></strong>Our benefits and rewards program has been thoughtfully designed to recognize your skills and contributions, elevate your learning/upskilling experience and provide care and support for you and your loved ones.<br/><br/>As an Apexer, you get continuous skill-based development, opportunities for career advancement, and access to comprehensive health and well-being benefits and assistance.<br/><br/><strong>We Also Offer<br/><br/></strong><ul><li>Health Insurance with Dental &amp; Vision</li><li>401K Plan</li><li>Life Insurance, STD &amp; LTD</li><li>Paid Vacations &amp; Holidays</li><li>Paid Parental Leave</li><li>FSA Dependent &amp; Limited Purpose care</li><li>Learning &amp; Development</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

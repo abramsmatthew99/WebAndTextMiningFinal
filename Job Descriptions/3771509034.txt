@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Pomeroy is currently recruiting for a Senior Java Developer. This is a full time direct hire opportunity with our client located in the Cleveland, OH area. The main responsibility of this role is to perform complex programming assignments requiring an advanced aptitude of established programming standards, methods, and best practices.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li>Acquire and interpret business requirements, creates a functional specification, and determines the most efficient/appropriate technologies. </li><li>While following department established standards, influence users in determining the best design to meet project requirements. Responsible for implementing approved architecture design. </li><li>Design, submit and review technical and process improvement recommendations as a member of the technical leadership team. </li><li>Perform complex programming assignments requiring an advanced aptitude of established programming standards, methods, and best practices. </li><li>Design application and database components for development projects. </li><li>Provide support for critical application problems and issues. Develop proactive measures to ensure issue is solved and or easily discovered going forward. </li><li>Conduct research into new technologies, including tools, components, and frameworks. <br/><br/></li></ul><strong>Formal Education &amp; Certification<br/><br/></strong><ul><li>Bachelor’s degree (or foreign equivalent) in a Computer Science, Computer Engineering, or Information Technology field of study (e.g., Information Technology, Electronics and Instrumentation Engineering, Computer Systems Management, Mathematics) or equivalent experience. <br/><br/></li></ul><strong>Knowledge &amp; Experience<br/><br/></strong><ul><li>5+ years of IT experience. </li><li>5+ years of experience working on all phases of the Software Development Lifecycle. </li><li>Experience working with customers to build and formulate business requirements. </li><li>5+ years Java, ORM/JPA/Hibernate, Web Services, Object-oriented design techniques, and common design patterns. </li><li>3+ years of experience in writing SQL queries and stored procedures to Oracle databases. <br/><br/></li></ul>Pomeroy is an industry-recognized North American IT services company. We help our clients in Retail, Healthcare, Financial Services and Manufacturing, for example, to optimize and enhance their digital infrastructures to transform the workplace experience with the resources required to assess, design, deploy and continually innovate in an agile, flexible IT environment.<br/><br/><strong>Company Description<br/><br/></strong>For over 40 years, Pomeroy has enabled technology that enhances and empowers people in the workplace.<br/><br/>Today we partner with our clients to help them transform from a “one size fits all” delivery model to a personalized human experience that is a differentiator and the key to delivering digital transformation and better business outcomes.<br/><br/>It’s all about delivering an exceptional experience, one that is simple, intuitive and secure – anytime, anyplace and from any device. Our workplace is no longer a physical location or workstation, rather it’s the place where a person can work at any given time with full capacity to do their job productively and effectively.<br/><br/>We deliver that experience by connecting the dots between people and their applications, across a network that is intuitive and automated to where the applications live, today that is in a hybrid IT environment, on premise and in the cloud, with security an integral part of everything we do. We provide managed IT services to support our clients from our locations throughout North America, Latin America and Europe. Our service delivery model combines monitoring, prevention and resolution in an approach that is always aware, proactive and responsive.<br/><br/>Our field engineers support more than 50,000 sites across North America alone and respond to more than 3 million incidents and user requests annually covering 2 million desktops, laptops, smartphones and tablets, servers, printers and other peripherals.<br/><br/>Our expertise connecting the workplace, network and hybrid IT is industry recognized, including Gartner recognition for over 17 years as one of a select few who can deliver agile, quality Managed Workplace Services. And although technology and innovation are key ingredients in our solutions, our people are our greatest asset. Over 3,000 highly motivated and diverse, dedicated to supporting our 700+ clients, from midsize organizations to large, well-known US and global brands, 15 in the Fortune 500.<br/><br/>“The Pomeroy Way” is our guiding principle. It’s a conscious understanding that who we are as individuals and how we choose to interact with others is a direct reflection of who we are as a company and how we will be viewed as an organization. It defines our company and our culture as the place to be, the place to stay and the place to grow.<br/><br/>For over 40 years, Pomeroy has enabled technology that enhances and empowers people in the workplace. Today we partner with our clients to help them transform from a “one size fits all” delivery model to a personalized human experience that is a differentiator and the key to delivering digital transformation and better business outcomes. It’s all about delivering an exceptional experience, one that is simple, intuitive and secure – anytime, anyplace and from any device. Our workplace is no longer a physical location or workstation, rather it’s the place where a person can work at any given time with full capacity to do their job productively and effectively. We deliver that experience by connecting the dots between people and their applications, across a network that is intuitive and automated to where the applications live, today that is in a hybrid IT environment, on premise and in the cloud, with security an integral part of everything we do. We provide managed IT services to support our clients from our locations throughout North America, Latin America and Europe. Our service delivery model combines monitoring, prevention and resolution in an approach that is always aware, proactive and responsive. Our field engineers support more than 50,000 sites across North America alone and respond to more than 3 million incidents and user requests annually covering 2 million desktops, laptops, smartphones and tablets, servers, printers and other peripherals. Our expertise connecting the workplace, network and hybrid IT is industry recognized, including Gartner recognition for over 17 years as one of a select few who can deliver agile, quality Managed Workplace Services. And although technology and innovation are key ingredients in our solutions, our people are our greatest asset. Over 3,000 highly motivated and diverse, dedicated to supporting our 700+ clients, from midsize organizations to large, well-known US and global brands, 15 in the Fortune 500. “The Pomeroy Way” is our guiding principle. It’s a conscious understanding that who we are as individuals and how we choose to interact with others is a direct reflection of who we are as a company and how we will be viewed as an organization. It defines our company and our culture as the place to be, the place to stay and the place to grow.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

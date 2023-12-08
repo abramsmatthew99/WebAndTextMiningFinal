@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Overview<br/><br/></strong>This job announcement will be accepting candidate submissions until 17 December 2023.<br/><br/><strong> Duties for the AI/ML Engineer position include, but are not limited to: <br/><br/></strong><ul><li> Serves as Research Computer Scientist for the AMOS Novel Technologies and Advanced Research program. </li><li> Leads as the 15th Space Surveillance Squadron’s AI/ML subject matter expert and liaison to numerous USSF and external partners. </li><li> Provides technical oversight and analysis in the realm of computer science and AI/ML for new/on-going Space Domain Awareness (SDA) research leveraging a vast array of telescopes, sensors, and computer systems. </li><li> Implements decisions on investments of research funding toward developing novel SDA technology. </li><li> Applies expert knowledge and/or develops new methods to support validation, improvements, and application of AI/ML models to space surveillance and space object acquisition. </li><li> Has familiarity and expertise across a broad set of technical areas, which include but are not limited to: computer vision, reinforcement learning, image classification, and object characterization research. </li><li> Leverages local and external High-Performance Computing (HPC) resources to execute algorithms and process data. </li><li> Applies statistical and numerical methods to reduce data processing time, improve algorithm accuracy, and achieve SDA objectives. </li><li> Evaluates contractor, in-house/outside laboratory programs, ensuring technical accuracy of proposed solutions. </li><li> Develops briefing materials to provide leadership, contractor partners and stakeholders on relevant program info. </li><li> Provides insight into development of annual execution &amp; programmatic requirements, while maintaining far-sighted vision of future site capability needs. </li><li> Delivers inputs into programmatic metrics such as cost, schedule, performance, risk-opportunity management. </li><li> Relocation costs or other incentives may be available and considered by the organization. <br/><br/></li></ul><strong> Duties for the Physicist ( Astronomer) position include, but are not limited to: <br/><br/></strong><ul><li> Serves as an Astronomer for the AMOS Novel Technologies and Advanced Research program. </li><li> Leads as the 15th Space Surveillance Squadron’s astronomy instrumentation subject matter expert and liaison to numerous USSF and external partners. </li><li> Provides technical oversight and analysis in the realm of optics and astronomy instrumentation for new/on-going Space Domain Awareness (SDA) research leveraging a vast array of telescopes, sensors, and computer systems. </li><li> Implements decisions on investments of research funding toward developing novel SDA technology. </li><li> Applies expert knowledge and/or develops new methods to support validation, improvements, and application of current optical hardware in space surveillance and space object acquisition. </li><li> Conducts reduction and analysis of collected data from telescopes and instrumentation to validate system performance and capabilities. </li><li> Collects day and/or night observations from ground-based telescopes. </li><li> Performs astronomical instrumentation development to improve SDA capabilities. </li><li> Leverages expertise to research novel techniques in the astronomical community; develops, implements, installs, and/or tests new optical sensors, cameras, and other telescope instruments. </li><li> Evaluates contractor, in-house/outside laboratory programs, ensuring technical accuracy of proposed solutions. </li><li> Develops briefing materials to provide leadership, contractor partners and stakeholders on relevant program info. </li><li> Provides insight into development of annual execution &amp; programmatic requirements, while maintaining far-sighted vision of future site capability needs. </li><li> Delivers inputs into programmatic metrics such as cost, schedule, performance, risk-opportunity management. </li><li> Relocation costs or other incentives may be available and considered by the organization. <br/><br/></li></ul><strong>Telework<br/><br/></strong>Yes, this position is eligible for telework opportunities; as determined by agency policy<br/><br/><strong>Remote Work (CONUS)<br/><br/></strong>No, this position is not approved for remote work.<br/><br/><strong>Required Qualifications<br/><br/></strong><ul><li> United States Citizenship. </li><li> Must possess a professional science or engineering (S&amp;E) degree from an accredited academic institution. </li><li> Must have at least one year of specialized experience at the DR-02/GS-13 or equivalent grade level. Specialized experience is experience providing the capacity and skills for working independently, leading collaborative events, working in teams and using these approaches to find and solve complex problems. Such experience may also include training, collaborative process facilitation, innovation design practice, writing background, editing job roles, continuous process improvement credentials, multi-agency liaison work, published work in refereed technical journals, and/or briefings to large groups. </li><li> Must be able to obtain and maintain a Special Sensitive security clearance. <br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong>Research Computer Scientist:<br/><br/><ul><li> A MS or PhD in Computer Science with a focus on Artificial Intelligence and Machine Learning (AI/ML). </li><li> Experience or education in computer vision, reinforcement learning, deep learning, neural networks, and/or automation. </li><li> Other degree fields will be considered if a strong education or work background exists in AI/ML. <br/><br/></li></ul>Experimental Physicist:<br/><br/><ul><li> A MS or PhD (preferred) in Physics (with a focus on Astronomy), Astronomy, Astrophysics, Optical Engineering, Planetary Science or similar. </li><li> Experience in optics, ground-based telescope observations, imaging sciences, and/or astronomy instrumentation development are highly desired. <br/><br/></li></ul>(Req.No: 87845)<br/><br/><strong>Series<br/><br/></strong>1310<br/><br/>1550
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Armed Forces
+          </span>
+</li>
+</ul>
+</div>
+</section>

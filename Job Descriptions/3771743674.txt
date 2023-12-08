@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job: </strong>Business Data Analyst </p><p> <strong>Location: </strong>Miami, Florida (Hybrid - 3 Days/Week)</p><p><strong> Referral Bonus</strong>: $70 +/- Month</p><p><strong> </strong></p><p><strong> Must be US Citizen / Green Card Holder</strong></p><p><strong> **No 3rd Parties**</strong></p><p><strong> </strong></p><p> The Business Data Analyst position falls under the purview of the IT Controls and Compliance organization. This role is integral to analyzing and interpreting datasets crucial for ensuring compliance across various disciplines, including Record Retention, Privacy, and other regulatory and operational requirements. The incumbent will engage in eliciting and analyzing data, defining project requirements, and fostering effective communication among multiple teams to accomplish organizational objectives.</p><p><strong> </strong></p><p><strong>Principal Duties and Responsibilities:</strong></p><p><strong>System Analysis:</strong></p><ul><li>Proficient in SQL programming or equivalent for database querying, statistical analysis, and report generation.</li><li>Capable of presenting findings in a clear and measurable manner.</li><li>Proficient in creating process flow documentation.</li><li>Familiarity with project management tools such as Microsoft Project, Jira, Smartsheet, or equivalent.</li><li>Above-average skills in Microsoft Word, Excel, PowerPoint, and Visual Basic.</li></ul><p><strong>Business Analysis:</strong></p><ul><li>Strong analytical skills with the ability to comprehend data structures across multiple applications.</li><li>Understanding of IT system configurations and data structures, playing a key role in data analysis for identification of data ready for destruction.</li><li>Application of advanced analytics to assist in data cleansing, migration, and integration activities.</li><li>Preparation of business requirements documents, collaborative participation in building new processes, and testing outcomes to meet requirements.</li><li>Ability to generate reports using standard reporting tools for key applications.</li></ul><p><strong>Project Tracking:</strong></p><ul><li>Leadership in multiple project deliverables, ensuring teams adhere to due dates.</li><li>Identification of project stakeholders, requirements, and overall timelines.</li><li>Definition of scope, schedule, risks, and stakeholder roles and responsibilities.</li><li>Maintenance of business support tracking software in a timely manner.</li><li>Provision of regular project status updates and overall communication on project deliverables.</li></ul><p><strong>Education and Experience Requirements:</strong></p><ul><li>Bachelor’s Degree in a technical field (e.g., computer science, engineering, or related field) is mandatory.</li><li>Preferred 5+ years of enterprise-level business analysis experience or equivalent.</li><li>Knowledge of Salesforce, BuildPro, and/or JDE system integration and application environment is advantageous.</li><li>Familiarity with working in a hybrid environment, including both Agile and PMO processes.</li><li>Hands-on experience with Teams, SharePoint, MS Project, MS Office, ServiceNow, Jira, or equivalent.</li><li>Strong presentation skills across all management levels.</li><li>Experience in managing multiple small to medium concurrent projects or equivalent.</li><li>Exceptional time management, meeting facilitation, and communication skills.</li><li>Experience in managing projects across multiple lines of business in separate geographical locations.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Build the future of data. Join the Snowflake team.<br/><br/>A massive new market opportunity is being created at the intersection of Cloud and Data, and the Snowflake Data Cloud is leading the way, all powered by the database engine we are building from the ground up.<br/><br/>Key to Snowflake’s Database Engine is our large scale distributed transactional Key-Value store - called FDB - which powers all of Snowflake’s products and services and is rapidly evolving to meet Snowflake’s future needs.<br/><br/>FDB is a cutting-edge, highly scalable database capable of ACID transactions at high frequencies and low latencies. FDB has been a core component in Snowflake's unique shared-metadata architecture since 2014, making possible Snowflake's vision to build the greatest data warehouse for the cloud.<br/><br/>As Snowflake works to build a comprehensive cloud data platform, FDB continues to play a critical role, handling new workloads and accelerating growth. We need talent to help FDB rise to this challenge and reach the next order of magnitude in scale, performance, and reliability.<br/><br/>We are looking for an exceptional Engineering Manager to join and grow this high-impact team.<br/><br/><strong>AS AN ENGINEERING MANAGER AT SNOWFLAKE, YOU WILL:<br/><br/></strong><ul><li>Lead a team of talented engineers in the design, development and support of a highly distributed and performant transactional KV store with a specific focus on building database internals, like high throughput, low latency, transactions, storage engine, etc</li><li>Lead and participate in technical, design, and product discussions relating to OLTP (online transaction processing) and HTAP (hybrid transactional and analytical processing) workloads.</li><li>Ensure reliability, performance and scale of the services you own in production.</li><li>Develop the future leaders of Snowflake by providing continuous mentorship, coaching, and growth opportunities</li><li>Translate product requirements into engineering work for your team, reaching out to others for assistance as needed</li><li>Partner with other leaders in the Engineering and Product organizations on quarterly planning, staffing, and project schedules</li><li>Know how and when to shift resources across areas to achieve execution goals and respond to lessons from production issues</li><li>Use your strong foundation as a technical leader to reliably deliver on complex projects while keeping the quality bar high</li><li>Grow the team by recruiting and hiring new team members and growing existing ones</li><li>Foster a culture of creativity and innovation while also promoting practical decision-making<br/><br/><br/></li></ul><strong>OUR IDEAL CANDIDATE WILL HAVE:<br/><br/></strong><ul><li>8+ years of experience in database internals or distributed systems.</li><li>5+ years of experience in managing and leading teams to build large scale systems or databases.</li><li>BS in Computer Science or related majors; Masters or PhD preferred.</li><li>Strong track record of delivering large scale and resilient distributed systems and services.</li><li>Strong collaboration and communication skills.</li><li>Strong hands-on skills. Can drill deep into the complex system design and implementation when needed.</li><li>Strong systems fundamentals including scheduling, IO subsystem and multi-threading.</li><li>Experience with modern C++, i.e. C++11 and beyond.</li><li>A track record of recruiting and leading technical teams in a demanding talent market</li><li>Knowledge and experience in cloud environments, such as AWS, Azure, and GCP is a huge plus.</li><li>Experience in SQL and data analysis is a big plus.<br/><br/><br/></li></ul><strong>WHY BE AN ENGINEERING MANAGER FOR DATABASE ENGINEERING AT SNOWFLAKE?<br/><br/></strong>This is an excellent opportunity to:<br/><br/><ul><li>Lead and grow an exceptional team of industry veterans and rising stars building the industry-leading data management system that customers love</li><li>Take charge of your own career – this role will push you to grow, both technically as well as a team leader</li><li>Learn at scale as you and your team deliver essential components of a highly distributed, robust and secure enterprise SaaS platform that services thousands of customers and more than a billion complex queries every day<br/><br/><br/></li></ul>The following represents the expected range of compensation for this role:<br/><br/><ul><li> The estimated base salary range for this role is $214,000 - $327,700.</li><li>Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.<br/><br/><br/></li></ul>The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending &amp; health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.<br/><br/>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.<br/><br/>How do you want to make your impact?
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

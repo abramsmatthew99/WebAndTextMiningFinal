@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        CodaMetrix is revolutionizing Revenue Cycle Management with its AI-powered autonomous coding solution, a multi-specialty AI-platform that translates clinical information into accurate sets of medical codes. CodaMetrix’s autonomous coding supports improved patient care and drives efficiency under fee-for-service and value-based care models.<br/><br/>We are passionate about getting doctors away from the keyboard and back to clinical care<br/><br/><strong>Job Description<br/><br/></strong>The NLP Scientist will join the AI team and report to our Chief Data Scientist. The AI team is responsible for inventing, developing, and deploying AI-driven solutions using healthcare data to improve administrative and clinical functions in delivering care.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Design and implement creative solutions for a broad range of NLP problems in the healthcare domain</li><li>Train and tune large language models for best trade-offs for the application</li><li>Characterize performance of solutions for adequate speed and scale</li><li>Incorporate an expansive set of unit tests to provide reasonable test coverage and protection from regression</li><li>Collaborate with engineering and production teams for incorporating NLP capabilities into the product</li><li>Document solutions clearly and work with the QA team to ensure proper testing</li><li>Function within an agile scrum team, embracing all tenets of scrum<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Advanced degree in Computer Science, Electrical Engineering, Mathematics, or related fields</li><li>Familiarity with state-of-the-art NLP techniques including large language models </li><li>Strong technical credentials in NLP, machine learning and deep learning including a track record of publications in relevant conferences and high impact journals</li><li>Solid fundamentals in problem solving, algorithm design, complexity analysis, mathematics and statistics</li><li>Proficiency in a major programming language (Python, Java, Scala or similar)</li><li>Superior verbal and written communication and presentation skills<br/><br/></li></ul>Beneficial Experience<br/><br/><ul><li>Familiarity and hands-on experience with healthcare data is a plus</li><li>Hands-on experience with cloud-based computing solutions such as AWS is a plus<br/><br/></li></ul>Location: Boston, MA with the ability to work remotely.<br/><br/>Job Type: Regular, full-time.<br/><br/><strong>Full-Time Employee Benefits<br/><br/></strong>Learn more about how we take care of our team.<br/><br/><ul><li>Insurance: We cover 80% of the cost of medical and dental insurance and offer vision insurance.</li><li>Retirement: CMX offers a 401(k) plan that eligible employees can contribute to one month after their first day.</li><li>Life: We offer employer-paid life insurance and short-term and long-term disability insurance.</li><li>Flexibility: We have an unlimited PTO policy so you can take the time you need to relax and rejuvenate.</li><li>Learning: All new hires complete our 7-week Fellowship program to learn about each of our departments.</li><li>Development: We provide annual performance evaluations and outline a clear path for promotions.</li><li>Engagement: We host recurring events like Meditation Mondays, CMX Connections and Socials.</li><li>Recognition: We recognize quarterly You've Been Awesome winners and celebrate our team's service milestones.<br/><br/></li></ul><strong>Background Check<br/><br/></strong>All candidates will be required to complete a background check upon acceptance of a job offer.<br/><br/><strong>Equal Employment Opportunity<br/><br/></strong>Our company, as well as our products, are made better because we embrace diverse skills, perspectives, and ideas. CodaMetrix is an Equal Employment Opportunity Employer and all qualified applicants will receive consideration for employment.<br/><br/>Powered by JazzHR<br/><br/>fpcJ5ePtFM
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

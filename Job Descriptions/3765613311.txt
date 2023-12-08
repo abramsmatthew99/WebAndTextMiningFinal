@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you a skilled Application Programmer ready to embark on an exciting journey in the financial industry? We're seeking a talented individual to join our dynamic team in Charlotte, NC. In this role, you'll play a pivotal part in hands-on application development, supporting current and future processes. You'll collaborate closely with multiple technology teams to implement cutting-edge architecture and facilitate the migration to a strategic platform.<br/><br/><strong>Responsibilities<br/><br/></strong>Take the lead in hands-on application development to enhance current processes and align with the future goals.<br/><br/>Collaborate with various technology teams to implement the target architecture and facilitate the migration to a strategic platform.<br/><br/><strong>Requirements<br/><br/></strong>Possess a minimum of 8 years of Python development experience.<br/><br/>Demonstrate a strong background with big data technologies like Spark and Hadoop, with at least 4 years of hands-on experience.<br/><br/>Show expertise in SQL programming, with a preference for experience in databases such as Oracle Exadata.<br/><br/>Have a knack for performance tuning data-intensive applications and the ability to identify performance improvements and memory optimizations.<br/><br/>Exhibit strong coding, debugging, and analytical skills.<br/><br/>Bring experience in designing and implementing large-scale enterprise applications.<br/><br/>Be a creative thinker with a track record of implementing innovative tech-based solutions.<br/><br/>Possess excellent communication skills.<br/><br/><strong>Desired Skills<br/><br/></strong>Hold a degree from a reputable university.<br/><br/>Bring a background in capital calculations.<br/><br/>Have a BS/MS in Computer Science, Engineering, or any quantitative discipline.<br/><br/>Familiarity with Hadoop or other big data distributed ecosystems is a plus.<br/><br/>Knowledge of cloud computing or distributed computing is beneficial.<br/><br/>At least 2 years of Java development experience.<br/><br/>Experience working with agile methodologies and SDLC processes.<br/><br/>Familiarity with UNIX scripting and unit test mock frameworks.<br/><br/>Exposure to Quartz (Internal bank platform).<br/><br/>Pay Range: Competitive salary between $55.06 - $63.06 per hour.<br/><br/><strong>Application Process<br/><br/></strong>If you possess the qualifications described above and are enthusiastic about this exciting opportunity, we encourage you to apply today!<br/><br/><strong>About Us<br/><br/></strong>We are a recognized leader in the industry, consistently ranked as a top staffing firm in the U.S. by Staffing Industry Analysts. At our core, we connect thousands of talented professionals with opportunities across the United States in contract, contract-for-hire, and permanent roles. With a diverse clientele that includes Fortune 100 companies and mid-market organizations spanning various industry verticals, we offer a platform for career growth and professional development.<br/><br/><strong>Benefits<br/><br/></strong>Access to a wide array of clients, many of whom have partnered with us for 5-20+ years.<br/><br/>The opportunity for a long-term career with us, with many of our consultants exclusively working with Genesis10 for years.<br/><br/>A supportive and experienced recruiting team with an average of over 7 years of experience.<br/><br/>Comprehensive benefits package, including medical, dental, vision, health savings account, and more.<br/><br/>401K retirement savings plan.<br/><br/>Sick pay (where applicable).<br/><br/>Commuter benefits (Dallas, NYC, SF).<br/><br/>Remote work opportunities.<br/><br/>For several years, we have consistently been recognized as a top staffing firm in the U.S., and we're excited to have you join our team!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

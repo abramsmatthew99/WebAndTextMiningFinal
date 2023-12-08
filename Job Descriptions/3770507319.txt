@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The New York Red Bulls are one of 29 teams in Major League Soccer (MLS). RBNY, one of the ten charter clubs of MLS, have competed in the league since its founding in 1996. The Red Bulls play home matches at Red Bull Arena (RBA) in Harrison, New Jersey. The three-time MLS Supporters' Shield Winners are owned by the Austrian beverage company Red Bull for which the team is named. The New York Red Bulls offer one of the nation's premier youth soccer development programs, from local soccer partnerships across New York and New Jersey to Regional Development Schools and the Red Bulls Academy teams.<br/><br/>During your time interning at the New York Red Bulls, you will learn how to apply your knowledge of data science, computer science, and mathematics to help multiple facets of a professional soccer team. You will assist multiple departments – including scouting, match analysis, and player development while aiding various processes including data cleaning, databasing, and software building.<br/><br/><strong><em>This is an unpaid, for credit internship (proof that you will receive credit is required). <br/><br/></em></strong><strong><em>Because of the cyclical nature of the entertainment industry, your assigned hours may vary to reflect our needs (includes nights and weekends).<br/><br/></em></strong><strong>Areas that play to your strengths<br/><br/></strong><strong>All the responsibilities we'll trust you with:<br/><br/></strong><strong>What You'll Learn<br/><br/></strong>Communication skills in an elite sporting environment Ability to foster a data-driven culture How to create new Key Performance Indicators across a multitude of different departments How to create algorithms and processes in an elite sporting environment<br/><br/><strong>Your areas of knowledge and expertise<br/><br/></strong><strong>that matter most for this role:<br/><br/></strong><ul><li>Proficient in R / SQL</li><li>Proficient in Microsoft Office Suite</li><li>Experience with Web Scraping</li><li>Excellent Communicator</li><li>In a Mathematics, Data Science, or Computer Science Program<br/><br/></li></ul>Red Bull New York is an equal opportunity employer and we will not discriminate against any employee or applicant for employment because of age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality or any other classification protected by law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Spectator Sports
+          </span>
+</li>
+</ul>
+</div>
+</section>

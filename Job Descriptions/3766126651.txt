@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><u>About Bose</u></p><p><br/></p><p>You know the moment. It's the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying "hello". It's in these moments that sound matters most. At Bose, we believe sound is the most powerful force on earth. We've dedicated ourselves to improving it for nearly 60 years. And we're passionate down to our bones about making whatever you're listening to a little more magical.</p><p><br/></p><p><u>About the Team</u></p><p><br/></p><p>Our Product Management team combines the best of Software and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with sound more seamless, immersive, and more powerful. Whether finding new ways to hear the world around us, advancing what our devices can enable users to do in their homes, on the go, or in their cars, or improving interaction methods, the Bose Product Management team is making people's lives better through innovative technology.</p><p><br/></p><p><u>About the Job</u></p><p><br/></p><p>The Bose Software Platform team is crucial to delivering a best-in-class, multi-device experience that is highly connected and differentiated. We are looking for a Product Manager to join our Software Platform product management team, focusing on defining the requirements of the underlying silicon/processing platform, driving SW platform requirements, building strategic partner roadmaps, facilitating core capabilities for future innovation, and defining the platform vision.</p><p><br/></p><p>As a Senior Platform Product Manager at Bose, you will be responsible for episodically defining the requirements of the underlying silicon/processing platform and consistently driving the SW platform requirements by understanding key customers (our first party consumer products and third-party requirements from our partnerships team), understanding key technical enablers to keep our platform differentiated and competitive. You will work with key partners, such as Qualcomm and ADI, to build the best platform possible, work with the research team to understand the core capabilities the platform needs to support future innovation and define the vision of the platform - what experiences it will light up and how we will make our mark.</p><p><br/></p><p>A Day in the Life: Start your day with a morning scrum with the connectivity team, staying informed of progress and updates, and assisting with prioritization. Before lunch, work on a vision document for our next gen wearables platform. After lunch, review experiment results from a new platform feature, sharing early results with the team and providing feedback. Round out the afternoon by participating in a design review to assist your wearables product manager and their designer on their LE Audio UX and end your day by updating stakeholders on the last delivery retrospective readout and changes to support faster velocity.</p><p><br/></p><p>Responsibilities:</p><p><br/></p><ul><li>Guiding Platform Strategy: Define and communicate the platform strategy, ensuring alignment with business objectives, scalability, flexibility, and robustness.</li><li>Communicating with Stakeholders: Regularly update internal and external stakeholders on platform progress, challenges, and future directions.</li><li>Understanding Internal User Requirements: Gather and understand requirements from internal users, such as our first party consumer products and partnerships team, to ensure the platform meets their needs and stays competitive.</li><li>Facilitating Innovation: Collaborate with the research team to ensure the platform supports the core capabilities required for future innovations.</li><li>Managing Platform Resources: Oversee the allocation and management of platform resources to ensure timely delivery and optimal performance.</li><li>Build broad consensus across multiple product teams within the Product management team on overall product direction and influencing other teams' projects accordingly.</li><li>Define solutions for complex user needs and be perceived by team members in both Design and Engineering as not just a facilitator but a full partner/leader in innovation.</li><li>Use a high-level perspective to define goals and create a vision for cross-functional development teams.</li><li>Build a platform strategy that enables us to deliver killer experiences now and long into the future.</li><li>Translate the software roadmap into well-defined features, user stories, and acceptance criteria.</li><li>Clarify, document, and communicate use-case and customer requirements to the software engineering team.</li><li>Drive final resolution on technical approaches where trade-offs impact the platform capabilities, priority, and delivery schedule of teams across technical disciplines.</li><li>Reinforce customer value and whole-product thinking when driving cross-functional requirements decision-making.</li><li>Break down complex concepts into a set of end-to-end user experiences optimizing for delivering early and often.</li><li>Operate in an iterative development environment and continuously review business needs, refine priorities, outline milestones and deliverables, and identify opportunities and risks.</li><li>Prioritize and maintain the sprint backlog for assigned products, balancing stakeholders' requirements.</li><li>Use data, insights, and fast feedback to discover quality through experimentation.</li><li>Partner with organizational stakeholders to inform product vision, Go to Market strategy, features, and prioritization.</li></ul><p><br/></p><p><u>About You</u></p><p><br/></p><p>Key Qualifications:</p><p><br/></p><ul><li>Bachelors Degree in Computer Science, Engineering or related field</li><li>Minimum of 5 years of experience in Software Project Management</li><li>Proficiency in Software Platforms.</li><li>Extensive experience with software platforms, preferably within embedded software environments.</li><li>Knowledge of scaling, integrating, and optimizing software in real-world applications.</li><li>Adept at strategizing and executing software strategies in complex environments.</li><li>Mastery in Effective Communication: Ability to translate complex software jargon into comprehensible insights for various stakeholders.</li><li>Capable of swiftly prioritizing tasks for agile development while delving deep into intricate issues for optimal solutions.</li><li>Solid Technical Foundation: Educational and early-career background in engineering.</li><li>Profound understanding of product development, system architectures, and developer challenges.</li><li>Experience in transitioning from a technical role to product management, bridging technical possibilities with market demands.</li></ul><p><br/></p><p>Preferred Qualifications:</p><p><br/></p><ul><li>Experience in software architecture is a plus.</li><li>Previous involvement in startups, managing a product from inception to shipping.</li><li>Expertise in Silicon Technologies: Familiarity with silicon, particularly within IoT and audio sectors, is a plus.</li><li>Ability to guide strategies around chip design, power efficiency, and IoT device integration.</li><li>Insight into enhancing product performance, reliability, and user experience.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Product Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

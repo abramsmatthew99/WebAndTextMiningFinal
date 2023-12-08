@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Details<br/><br/></strong><strong>Description<br/><br/></strong><strong>SOFTWARE DEVELOPER<br/><br/></strong><strong>Job Overview:</strong> The ideal candidate for this role will have a strong understanding of Python, VBA, SQL, SQL Server, and SSIS. They should also be proficient in object-oriented programming concepts, with experience in developing and maintaining enterprise applications. The candidate should also be highly motivated and results oriented individual, with excellent problem-solving and communication skills.<br/><br/><strong>The Candidate For This Position Will Be Responsible For<br/><br/></strong><ul><li>Developing, analyzing, and maintaining enterprise applications using Python, VBA, and SQL.</li><li>Working with other developers, system administrators, and business units to integrate applications and systems.</li><li>Designing, developing, testing, and documenting new and existing software applications.</li><li>Working independently or with a team of Developers to deliver high-quality software in accordance with business requirements, and on schedule.</li><li>Following industry best practices for software development.</li><li>Staying up-to-date on the latest software development technologies.<br/><br/></li></ul><strong>Requirements For The Position Include<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science, Information Technology, or a related field (may be waived in lieu of experience).</li><li>3+ years of experience developing enterprise applications using Python, VBA, and SQL.</li><li>A strong foundation in computer science concepts including data structures, algorithms, and object-oriented programming.</li><li>Experience with GitHub and other software development platforms.</li><li>Excellent problem-solving and analytical skills.</li><li>Ability to work independently and as part of a team.</li><li>Strong communication and documentation skills.<br/><br/></li></ul><strong>Preferred Qualification For The Position Include<br/><br/></strong><ul><li>Proficient with SQL Server and SSIS</li><li>Experience developing with the Linux operating system.</li><li>Familiarity with the AS400/iSeries/IBMi system.<br/><br/></li></ul><strong>EO/AA Employer: Title VII/Protected Veterans/Disability Status</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

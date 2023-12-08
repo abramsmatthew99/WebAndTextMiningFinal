@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Deloitte Transformation Office is looking for an applied scientist to join our GenAI Solutioning team within the Office of Generative AI. The Transformation team's mission is to serve as an enabler of Deloitte's prioritized strategic objectives through transformation across the firm. As an applied scientist, you will be working with cutting-edge Generative AI models and technologies in our Applied Gen AI lab and will be required to help discover novel technologies, build experimental use case applications, and showcase relevant use cases to our business transformation. You will also work closely with other applied scientists collaborating and contributing to deliverables and project goals.<br/><br/><strong>The Team<br/><br/></strong>Deloitte Transformation Office is dedicated to driving transformation across the firm to improve service delivery and help businesses remain competitive. The Office of Generative AI is a critical part of this mission, with GenAI Solutioning team as one of the three fundamental pillars. The GenAI Solutioning team is focused on discovering and experimenting with cutting-edge AI technologies to help reimagine business service delivery transformation.<br/><br/><strong>Work You'll Do:<br/><br/></strong>As an applied scientist on the GenAI Solutioning team, you'll play a key role in identifying and experimenting with state-of-the-art AI technologies. You'll work on practical applications of these technologies, collaborating with stakeholders across the firm to build prototypes and showcase use cases. You'll also proactively showcase live demos of in house-built prototypes applications to business stakeholders, to help foster the adoption of transformative technologies, along with strategizing end deliverables.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Extract, load and transform data (ETL) from structured and unstructured sources</li><li>Apply Natural Language Processing and Computer Vision with focus on Generative AI models to solve business use cases,</li><li>Evaluate, create and fine-tune Generative AI models</li><li>Work with public cloud provider and their related technologies for machine learning, cognitive services e.g. (Azure cognitive services, etc.)</li><li>Design and refine Generative AI solution through all layers of an application such as frontend, integration, application, and business logic</li><li>Dependency management as well as source code control such as Git</li><li>Excellent written and verbal communication skills for collaborating effectively within the team</li><li>Stay up to date with the latest advancements in machine learning like Generative AI (e.g., Large Language Models) and apply same for use cases within pipeline</li><li>(Optional) Experience with GPU-based training and optimization<br/><br/></li></ul><strong>Mandatory Skills:<br/><br/></strong><ul><li>Knowledge of Python and related libraries (Numpy, pandas, Scikit, Tensorflow, Keras, pytorch, etc.)</li><li>Good knowledge of statistics, scientific method, data collection and cleaning</li><li>Hands on knowledge in data mining and statistical analysis</li><li>Experience with all or one of the cognitive technologies like - Natural Language Processing, Computer Vision, etc.</li><li>Experience with data visualization tools, such as Tableau, PowerBI, etc.</li><li>Experience on deep learning, NLP/Large Language Models (e.g., GPT-4)</li><li>Experience with open-source web app framework in Python for data science (e.g., Streamlit, Gradio)</li><li>Accountable for ensuring that results are achieved with guidance; demonstrates a motivation towards achievement</li><li>Delivers work in a timely manner under supervision with allowance for learning and development</li><li>Able to report to a technical and a non-technical audience.</li><li>Excellent critical thinking, verbal communication, and problem-solving skills</li><li>Strong problem solving and troubleshooting skills</li><li>(Optional) Experience creating and using advanced machine learning algorithms and statistics: regression and clustering analysis neural networks, CNN's, RNN's, etc.</li><li>(Optional) Experience and hands on knowledge on UNIX<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor degree or equivalent degree or experience in Computer Science, Data Science, Mathematics, Statistics, or related fields with 1 year of related experience in AI solution design and ML models application. Preference for Generative AI experience.</li><li>Limited Sponsorship<br/><br/></li></ul>The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $60,000 to $123,200.<br/><br/>You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.<br/><br/>EA_ExpHire
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management, Strategy/Planning, and Consulting
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Business Consulting and Services, and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br/><br/></em>Job Category<br/><br/>Software Engineering<br/><br/>Job Details<br/><br/><strong>About Salesforce<br/><br/></strong>We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.<br/><br/>Our Security teams support the unwritten fourth tenet of Slack’s mission: make people’s working lives more secure. We’re serious about protecting our infrastructure, operations, and most meaningfully, our customers’ data. We take a systemic approach to security and strive to ensure we provide low friction high-impact security across everything we do!<br/><br/>As a key member of the Risk &amp; Compliance Team, you understand that building user trust is essential to Slack’s success. You are passionate about information security, risk management, Sarbanes-Oxley IT General Controls (SOX ITGC), privacy and maintaining customer confidence. You have the focus and organization to champion the adoption of sound security and SOX ITGC practices across all of Slack’s business and engineering teams. You are passionate about learning, building, and sustaining processes to address new regulatory and compliance requirements. In this role, your work will directly impact the way millions of users, teams and businesses get things done. We are seeking a motivated individual that is not only focused on delivering results but does so in a collaborative and courteous manner.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Act as the compliance domain expert for Engineering systems to provide leadership in leading ITGC auditing activities, requests and developing responses to audit findings, leading remediation of audit findings. </li><li>Provide quality assurance of ITGC controls for Engineering to ensure operational effectiveness of those security controls in Engineering.</li><ul><li>Identify risks and gaps and facilitate remediation</li><li>Conduct and participate in walkthroughs with engineering collaborators and auditors.</li><li>Facilitate tests of design and operational effectiveness for key information technology controls. </li><li>Assist control owners with root cause analysis and supervise risk management action plan progress. </li><li>Implement issue tracking and resolution process.</li><li>Deliver risk metrics to management regarding audit performance and findings</li></ul><li>Assist the performance of security risk assessments to maintain compliance with AICPA Trusted Service Principles and ISO security standards.</li><li>Assist in the design and implementation of information security compliance controls to address current risks, emerging threats and compliance standards.<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>BA or MA in Computer Science, Information Technology, or equivalent educational or professional experience and/or qualifications</li><li>2+ years of experience in auditing and assessing Sarbanes-Oxley (ITGC) controls.</li><li>Sound understanding of cloud security and control principles including logical access controls, change control, privileged access, segregation of duties, computer operations, network security, vulnerability management, and secure coding.</li><li>Experience implementing, participating in, or conducting security assessments of compliance programs (e.g. SOC 2, FedRAMP, NIST, ISO 27001/27017/27018, HIPAA, HITRUST, Sarbanes-Oxley ITGC, etc.)</li><li>Experience leading compliance efforts for Identity and Access Management solutions (E.g. Sailpoint IdentityNow)</li><li>Ability to work independently</li><li>Ability to work with multi-functional partners to reach desired outcomes</li><li>Effective communication with phenomenal interpersonal and presentation skills; ability to translate complex technical issues into simple language that people who are not experts can understand<br/><br/></li></ul>Bonus Points<br/><br/><ul><li>Hands on information security experience</li><li>Excellent time management and related organizational skills</li><li>Understanding of infrastructure technologies including AWS, Chef, Github, Jenkins, etc.</li><li>CISSP, CISA, or other industry certification<br/><br/></li></ul>Accommodations<br/><br/>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br/><br/>Posting Statement<br/><br/>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com .<br/><br/>Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce .<br/><br/>﻿Salesforce welcomes all.<br/><br/>Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.<br/><br/>For Colorado-based roles, the base salary hiring range for this position is $111,400 to $153,300.<br/><br/>For California-based roles, the base salary hiring range for this position is $122,600 to $183,900.<br/><br/>Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

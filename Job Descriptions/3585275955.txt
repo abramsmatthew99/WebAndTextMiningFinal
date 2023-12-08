@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Assistant/Associate Professor - Computer Science &amp; Information Technology</strong><strong>Full-time</strong><strong>Angola, Indiana<br/><br/></strong><strong><u>Summary<br/><br/></u></strong>The Allen School of Engineering &amp; Computing at Trine University invites applications for a faculty position in the Bachelor of Science degree program in Computer Science and Information Technology beginning Fall of 2022. The faculty member must be committed to deliver instruction in the computer science &amp; information technology program with passion, vision, and enthusiasm for teaching while working in concert with the other faculty to continually maintain the relevance of and improve the quality of the curriculum.<br/><br/><strong><u>Essential Duties And Responsibilities<br/><br/></u></strong>The ideal candidate will possess the ability to contribute to our student coding and hacking teams while also coaching and developing new student activities.<br/><br/>Competitive candidates will show potential for excellence in classroom teaching and will demonstrate strong IT computing skills and a focus on programming and web development. Candidates must be willing to learn or have knowledge of AR/VR, game design, health informatics, cybersecurity, and pedagogy. They also will demonstrate evidence of a commitment to diversity, equity, and inclusion. The successful candidate will be expected to engage in outreach and service activities and contribute to best practices and/or education research in the discipline.<br/><br/><strong><u>Education And/or Experience<br/><br/></u></strong>The ideal candidate will have an earned doctoral degree, in a field related to computer science, data science, information services, information technology, network administration, extended reality or web development, by the contract start date. Candidates with a master’s degree in a field related to computer science, data science, information services, information technology, network administration, extended reality or web development, by the contract start date, will also be considered. Candidates with relevant work experience in one or more of the above-mentioned fields are preferred.<br/><br/><strong><u>Outstanding Benefits<br/><br/></u></strong>Trine University offers a comprehensive benefit package designed to provide a variety of choices to best fit your needs and the needs of your family. Some benefits offered include:<br/><ul><li>Health – medical, dental, vision, flex spending, HSA accounts</li><li>Life Insurance – a variety of voluntary life options are available along with an employer paid employee life policy valued at 1½ times annual salary</li><li>Financial Insurance – employer paid Long Term Disability and voluntary Short-Term Disability, Accident, Hospital Indemnity, and Critical Illness options are available</li><li>Paid vacation and sick time</li><li>Retirement – after one year of full-time service you are eligible for an employer contribution of 5% and up to an additional 5% employer match</li><li>Education – after 6 months of full-time service, undergraduate education benefits are available for employee, spouse, and dependent children</li></ul><strong> <strong>Salary</strong> <br/><br/></strong><strong><u>Rank And Salary Will Be Based On Qualifications.<br/><br/></u></strong>Review of applications will begin immediately and will continue until the position is filled.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

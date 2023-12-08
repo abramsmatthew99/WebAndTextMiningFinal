@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong><strong>Ascent is a leading provider of comprehensive solutions for the planning, design, engineering, development and operation of data centres and other mission critical facilities. Headquartered in Saint Louis, MO, Ascent specializes in powerful, efficient and technologically advanced mission critical facilities and offers clients a broad range of delivery models spanning shell &amp; core, build-to-suit, turnkey and outsourced critical systems operations. Founded in 1998, Ascent provides a full spectrum of fast track services that include project programming, design management, facility assessment, development and construction management, commissioning and ongoing maintenance operations. Today, Ascent focuses on providing clients with innovative solutions and services yielding the highest levels of operational autonomy, efficiency and control. Ascent's clients include some of the most demanding mission critical organizations spanning multiple industries, Fortune 500 firms, and service providers. <br/><br/></strong><strong>Job Description<br/><br/></strong><ul><li>Collaborate with different departments and customers in the analysis, response, and document packages of Due Diligence Questionnaires (DDQs) and risk questionnaires as required by clients of Ascent. </li><li>Foster relationships with security, software engineering, operations, and business stakeholders to strengthen security governance and risk management. </li><li>Facilitate HIPAA, SOC1, SOC2, ISO 27001, and PCI audit engagements, data/artifact collection, exception remediation and monitoring. </li><li>Provide support and contribute to Ascents GRC programs such as: Policy Management, Risk Management, Third Party/Vendor Management, Compliance Management, and others. </li><li>Contribute to the execution of the overall security governance and risk management program. </li><li>Assist with development of audit reports and summarize them to facilitate remediation tasks for other IT operational teams. </li><li>Contributes to maintenance and update of library of information security control policies and standards based on ISO 27001 and other industry best practices. </li><li>Maintain awareness of changes or updates on security control frameworks, compliance laws and statutes and identify the impact to the business and its security posture. </li><li>Conduct or participate in cross-training sessions with the Operations team in the management and configuration of security tools and technical controls. </li><li>Providing updates, status, and completion information to leadership. </li><li>Complete certification training on new technologies, compliance standards, and security on an annual basis (Security+, Project+, ITIL, etc)<br/><br/></li></ul>Qualifications<br/><br/><ul><li>Six or more years in an IT Operations and information security role</li><li>Associates Degree in Information Systems / Computer Science preferred</li><li>Security+, Systems Security Certified Practitioner (SSCP), or equivalent</li><li>The candidate must possess strong problem solving and troubleshooting skills</li><li>Candidate must possess strong documentation and communication skills</li><li>The candidate must be flexible and able to adapt to a rapidly changing environment</li><li>The candidate must have a broad range of technical skills with a strong desire to expand skillset constantly</li><li>Must be a positive, self-motivated individual who can complete goals independently<br/><br/></li></ul>Additional Information<br/><br/>This position reports to the VP, Technology<br/><br/>All interested candidates should apply through the ad or visit www.ascent-corp.com and select the careers tab to apply for the position.<br/><br/>Ascent, LLC offers a full benefits package including medical, dental, vision, STD/LTD, life insurance, 401(k), PTO, paid holidays, casual work environment, and more.<br/><br/>Ascent, LLC is an Equal Opportunity Employer
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

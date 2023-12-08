@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>We are looking for a savvy Sales Executive with experience in selling Data Engineering and Data Analytics consulting services. The hire will be responsible for expanding sales of our current data pipeline and architecture offerings. The ideal candidate will have experience expanding sales in existing Fortune 500 customers as well as bringing in new services opportunities.<br/><br/>Responsibilities for Data Engineer<br/><br/><ul><li>Create and maintain optimal data pipeline architecture,</li><li>Assemble large, complex data sets that meet functional / non-functional business requirements. </li><li>Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc. </li><li>Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies. </li><li>Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics. </li><li>Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs. </li><li>Keep our data separated and secure across national boundaries through multiple data centers and AWS regions. </li><li>Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader. </li><li>Work with data and analytics experts to strive for greater functionality in our data systems. <br/><br/></li></ul><strong>Qualifications For Data Engineer<br/><br/></strong><ul><li>Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases. </li><li>Experience building and optimizing ‘big data’ data pipelines, architectures and data sets. </li><li>Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement. </li><li>Strong analytic skills related to working with unstructured datasets. </li><li>Build processes supporting data transformation, data structures, metadata, dependency and workload management. </li><li>A successful history of manipulating, processing and extracting value from large disconnected datasets. </li><li>Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores. </li><li>Strong project management and organizational skills. </li><li>Experience supporting and working with cross-functional teams in a dynamic environment. </li><li>We are looking for a candidate with 5+ years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience using the following software/tools:</li><ul><li>Experience with big data tools: Hadoop, Spark, Kafka, etc. </li><li>Experience with relational SQL and NoSQL databases, including Postgres and Cassandra. </li><li>Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc. </li><li>Experience with AWS cloud services: EC2, EMR, RDS, Redshift</li><li>Experience with stream-processing systems: Storm, Spark-Streaming, etc. </li><li>Experience with object-oriented/object function scripting languages: Python, Java, C</li></ul></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

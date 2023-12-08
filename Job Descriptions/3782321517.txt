@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from KTek Resourcing</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Shivraj Singh Chouhan" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQGfpAgaQOfBjg/profile-displayphoto-shrink_100_100/0/1681854408439?e=2147483647&amp;v=beta&amp;t=ER5eqc6oCY6tpgZwhbPEgEnh0BXXdEk2iDjInNbXcvA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Shivraj Singh Chouhan
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Lead Talent Acquisition Specialist at KTek Resourcing
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Shivraj Singh Chouhan" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fshivraj-singh-chouhan-01aab5179&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Responsibilities</p><p>Executes creative software solutions design, development, and technical</p><p>troubleshooting with ability to think beyond routine or conventional approaches</p><p>to build solutions or break down technical problems,</p><p>Work with product managers, architects, and other engineers to follow in</p><p>translating requirements to solution options and recommendations.</p><p> Drive solution designs inclusive of clear annotations on key components and</p><p>flows, considerations and options, recommendations, and justifications</p><p> Develops secure and high-quality production code and review and debugs code</p><p>written by others.</p><p>Ensure commitments are met while providing high-quality and cost-effective</p><p>systems that meet client expectations. </p><p>Adapt digital Agile approach and work with mobile vendor to implement the</p><p>mobile solution.</p><p>Keep up to date on modern technology, standards, protocols, and tools in areas</p><p>relevant to the rapidly changing digital environment.</p><p> Troubleshoot and fix issues in production and non-production environments.</p><p>Work with server engineers to design API (Application Programming Interfaces)</p><p>specs.</p><p>Propose and implement process improvements to make our engineering team</p><p>even better.</p><p>Required qualifications, capabilities, and skills.</p><p>Bachelor’s degree (or equivalent) in Computer Science or related field</p><p>5-7+ years of experience with strong app development skills and relevant practice</p><p>in a technology environment</p><p>Experience in Native Mobile app development (Android devices); hands on</p><p>Kotlin/RxJava</p><p>MVVM/Clean Architecture</p><p>OOP</p><p>Networking HTTP, SOAP, and REST</p><p>Advanced Android Platform Skills - Strong knowledge of Android frameworks,</p><p>familiar with Android design principles and material design</p><p>Experience securing applications via device registration, biometrics, platform</p><p>integrity and keychain. </p><p>Experience in mobile app encryption, data protection, and addressing security</p><p>vulnerabilities.</p><p>Familiar with test driven development and testing frameworks.</p><p> A knack for benchmarking and optimization</p><p>Familiarity with cloud message APIs (Application Programming Interfaces) and</p><p>push notifications</p><p>Experience with offline storage, threading, and performance tuning</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

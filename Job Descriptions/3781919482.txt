@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Summary...<br/><br/>What you'll do...<br/><br/>Manage Walmart Global Marketplace Site Reliability &amp; Infra operations. You will be responsible for setting up monitoring, alerting, processes and tooling for Global Marketplace (GMP) services and automate repeated operational activities. You should also be able to Implement best practices from the industry for the Marketplace reliability.<br/><br/>As a Walmart Software Engineer III, you will play a pivotal role in bringing reliability for GMP and is results-oriented with an intersection of strong Systems / Infra Engineering, Automation and DevOps.<br/><br/>You will be an integral part of Global Marketplace SRE/DevOps team. As we look at the growing Marketplace business and focusing for better seller experience, you will be collaborating and coordinating with multiple cross functional teams and will make great impact with experience in KTLO, infra upgrades, DevOps consultation and System Reliability aspects.<br/><br/><strong>About The Team<br/><br/></strong>Walmart ecommerce sites handle thousands of visitors and millions of transactions per hour and when something stops working, hundreds of thousands of dollars are lost. Imagine the activity, the transactions, and the data that flows through one of the largest ecommerce sites in the world. Now imagine what it might take to keep that site up, performing and running efficiently. Our team together will manage a large scale of systems made up of thousands of virtual servers / Container Pods, request rates in the hundreds of thousands per second and data measured in petabytes. Our team should be able to maintain high availability and reliability of Marketplace platform that helps our sellers to have a seamless experience. Team is responsible for 24/7 KTLO, consultation, tooling, monitoring, and alert / incident troubleshooting. You will bring energy and relentless focus on value adding contributions within a fast-paced environment.<br/><br/><strong>What You'll Do<br/><br/></strong>As a Software Engineer for Global Marketplace team at Walmart, you'll have the opportunity to<br/><br/><ul><li> Enjoy working on challenges that no one has solved yet.</li><li> Influence Dev teams to design applications which are more reliable and contribute fixing any reliability issues.</li><li> Define monitoring needs for ensuring Best Customer Experience</li><li> Partner with other Engineering teams to have the right tool set to deliver Best Customer Experience on Walmart eCommerce Site.</li><li> Build tools for efficient operational excellence.</li><li> Proactive contribution to tooling and automation opportunities for ease of handling large scale operations</li><li> Contribute to building and maintain Walmart's next generation of infrastructure Platform.</li><li> Administration and safeguarding of production infrastructure</li><li> Drive improvements in all aspects of service delivery, including change management, continuous delivery, security, monitoring, administration, and reliability in a mission-critical, 24/7 e-commerce marketplace environment.</li><li> Own the day-to-day health, uptime, monitoring, and reliability of services and server infrastructure.</li><li> Design, implement, and support high-performance, highly available services and infrastructure.</li><li> Maintain good communication with other stakeholders and partners.</li><li> Deployment, support and monitoring of new platforms and application stacks.<br/><br/></li></ul>What you'll Bring ...<br/><br/><ul><li> At least 2+ years of experience in Automation with Python or Golang language preferred.</li><li>Experience with any database such as SQL / NOSQL are preferred.</li><li> Hands-on working experience with Web API / REST services</li><li> Hands-on working experience on cloud (AZ/AWS/GCP/OpenStack), Kubernetes/Docker</li><li> Worked on analyzing any metrics data and monitor for trend changes.</li><li> Working knowledge on automation / tooling using any scripting language like Python / GoLang or any other programming language.</li><li> Can understand and handle, high level system design / distributed cloud setups.</li><li> Strong verbal and written communication skills</li><li> Experience with Unix/Linux systems with scripting experience in Shell, Perl or Python.</li><li> Strong knowledge of core protocols and tech such as: TCP/IP, HTTP, DNS, load balancers, distributed file systems, SSL Certs, key-value and relational databases.</li><li> Experience with configuration management tools such as Puppet, Chef, Salt, or Ansible</li><li> Experience with specific software such as Hadoop, Kafka, Spark, Cassandra, and similar technologies is desirable, but the ability to quickly learn new technology is most important.</li><li> Experience in Java Application Development working in the largely distributed system preferred.</li><li> Expertise in problem solving and analyzing global scale distributed systems.</li><li> Logging and Monitoring experience designing, deploying, and running systems like Splunk, ELK, New Relic or other APM solutions.</li><li> Contribute to automated approaches to avoid manual KTLO and repeated tasks.</li><li> Flexibility to learn and utilize internal / enterprise tooling in Walmart.<br/><br/></li></ul>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.<br/><br/><strong>About Global Tech<br/><br/></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered.<br/><br/>We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.<br/><br/>Flexible, hybrid work<br/><br/>We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.<br/><br/><strong>Benefits &amp; Perks<br/><br/></strong>Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.<br/><br/><strong>Minimum Qualifications...<br/><br/></strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.<br/><br/>Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering or related area.Option 2: 4 years' experience in software engineering or related area.<br/><br/><strong>Preferred Qualifications...<br/><br/></strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.<br/><br/>Customer Service<br/><br/>Masters: Computer Science<br/><br/>Primary Location...<br/><br/>PHYLLIS ST. N OF HWY 102, WEST SIDE OF STREET, BENTONVILLE, AR 72712, United States of America
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

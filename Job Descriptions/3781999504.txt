@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>The individual in this role will be creating and designing test artifacts in support of the ADAS SW and features roadmap. They will be working with cross-functional teams across the company to launch best in class technical solutions for testing software capabilities of our vehicles. They will be responsible for design, development and maintenance of new and existing test design artifacts and data sets, support the continued evaluation of automated test cases for inclusion in test regression, tests coverage and newly implemented features and functionality. They will be working directly with Developers, Architects, Technical Program Managers, and Project Managers to ensure quality development and quality of our applications and platforms. They will be responsible for driving the software development process toward quality-centric methodologies.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Conduct the verification and validation of ADAS software platform components and features</li><li>Develop test plans, designs, cases, procedures, data sets, and automated scripts </li><li>Define the test setup required to support validation and verification activities. For example, identify the equipment, tools, licenses, hardware, test systems (i.e. SiL, MiL, HiL), etc... needed and support test bench bring up </li><li>Assist in the planning, creation and control of test environments and data sets</li><li>Identify test dependencies such as specifications, interfaces, compliance, hardware, software components, etc... </li><li>Identify opportunities and provide support for automation and tooling </li><li>Perform automated and manual test execution, triaging, root cause analysis, and verifications </li><li>Represent testing in agile development scrums and support sprints objectives </li><li>Collaborate cross-functionally with technical specialists, feature owners, development teams, and other test teams in support of testing and development activities </li><li>Participate in performance and load testing efforts<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s Degree in Engineering, Computer Science, Software, Information System or 5+ years of experience in product development, software testing or software quality assurance </li><li>Understanding of Feature specifications, FMEAs, robustness disciplines and Design Verification Plan</li><li>Understanding of performance requirements and the interactions with other features and the system, and establish procedures to verify performance both quantitatively and subjectively</li><li>Experience with Driver Assistance technologies </li><li>Experience with data collection and analysis </li><li>Familiarity with QA methodology</li><li>Experience in agile or scrum software development methodologies</li><li>Knowledge of software releases process or configuration management</li><li>Proven ability working with Test Management tools for test strategy development, test case development, test execution (manual or automated), and test metric reporting</li><li>Demonstrated ability to work with defect management system (e.g. JIRA) </li><li>Ability to interpret C/C++, Java code, or logs to aid in issue resolution </li><li>Experience working with automated test systems</li><li>Experience with Matlab, Shell scripting, Jenkins, GitHub, or Linux development </li><li>Experience with CAN, XCP, TCP, UDP or other networking protocols</li><li>Familiarity with debugging tools (Lauterbach ICE, Wireshark, Oscilloscope, Canalyzer, etc….)</li><li>Experience with automated testing environment, frameworks, and programming languages (ex: Gtest, CUnit, Slash, Python, Ruby, etc…)</li><li>Experience with test environments such as software/hardware in the loop systems (e.g. SiL/SoL, HiL/HoL), test benches, in-vehicle, simulators, etc…<br/><br/><br/></li></ul>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!<br/><br/>As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:<br/><br/><ul><li> Immediate medical, dental, and prescription drug coverage</li><li> Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up child care and more</li><li> Vehicle discount program for employees and family members, and management leases</li><li> Tuition assistance</li><li> Established and active employee resource groups</li><li> Paid time off for individual and team community service</li><li> A generous schedule of paid holidays, including the week between Christmas and New Year’s Day</li><li> Paid time off and the option to purchase additional vacation time.<br/><br/><br/></li></ul>For a detailed look at our benefits, click here:<br/><br/>https://clicktime.symantec.com/15tpDLtmaspnnY2CVTbBm?h=dJvCrxvqQomPS0RPfOfVVvzjTb5SuU2qopmC396T3M0=&amp;u=https://fordcareers.co/GSR-HTHD<br/><br/>Visa sponsorship is available for this position.<br/><br/>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.<br/><br/>We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

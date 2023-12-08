@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: Big Data SDET<br/><br/></strong><strong>Location: Santa Monica, CA(remote)<br/><br/></strong><strong>Duration: Full Time<br/><br/></strong><strong>Experience level : 10+ yrs <br/><br/></strong><strong>Job Description<br/><br/></strong>Must have Strong Python Experience along with the Big Data Testing<br/><br/><strong>Basic Qualifications<br/><br/></strong>The DEE Technology team in Santa Monica is seeking a Sr. Software Development in Test Engineer to join our Engineering Services team to build test automation and processes to ensure the quality of our advertising systems. When our systems work properly, they can reliably deliver relevant ads to all of our viewers; driving higher revenue for our business and helping our customers to discover brands and products that are relevant to their interests. Defects in our ad systems can negatively impact revenue and deliver advertisements that detract from the viewer experience due to irrelevance, repetition, and other factors. This is a unique opportunity to join an excellent team and have a meaningful impact on the QE and automation process and culture, as well as the products we release.<br/><br/><strong>Preferred Qualifications<br/><br/></strong><strong>Responsibilities include:<br/><br/></strong><ul><li> Work closely with Software Engineers to understand the complex advertising ecosystem in place at DEE Technology</li><li> Develop automated test frameworks and suites on UI, API and Integration levels of testing using python or other OO language.</li><li> Participate in design discussions for our platform to help evolve the platform in a way that enables richer testing scenarios that simplify defect detection and prevention.</li><li> Assist with triage, diagnosis, and resolution of issues discovered across teams.</li><li> Contribute to end-to-end acceptance tests</li><li> Where necessary, develop and execute manual test cases to detect issues that cannot be detected through automated means</li><li> Drive the conversion of manual tests to automated whenever possible<br/><br/></li></ul><strong>Responsibilities And Duties Of The Role<br/><br/></strong>Summarize job responsibilities, core deliverables and major duties. What is required for the position to exist?<br/><br/>Focus on major areas of work, typically 20% or more of role % of Time<br/><br/>Part of product teams in building architectures which are robust, fault-tolerant, and cloud- native. Builds solutions for problems of sizeable scope and complexity that have been successfully deployed to customers/users. Influences and drives software engineering best practices within the team 25%<br/><br/>Technically lead and deliver multiple projects utilizing an Agile methodology while reviewing team member’s code. Participates in developing technical and/or business approaches; and new/enhanced technical tools. 25%<br/><br/>Owns the design of software programs or systems within the team, and within the organization. Writes codes that establishes and enhances frameworks. Reviews code for the design, testability and clear usability. Builds solutions that scale and perform. Identifies opportunities to improve the system/product/services with each iteration. 50%<br/><br/><strong>Required Education, Experience/Skills/Training<br/><br/></strong>Minimum and Preferred. Inclusive of Licenses/Certs (include functional experience as well as behavioral attributes and/or leadership capabilities)<br/><br/><ul><li> Minimum of 4 years of hands-on software test development experience, including both functional and non-functional test development</li><li> Passion around driving best practices in the testing space</li><li> Proficiency with Python or other OO language</li><li> Knowledge of software engineering practices and agile approaches</li><li> Strong desire for establishing and improving product quality.</li><li> Experience building or improving test automation frameworks .</li><li> Proficiency CICD integration and pipeline development in Jenkins, Spinnaker or other similar tools.</li><li> Proficiency in UI automation ( Selenium, Robot, Watir)</li><li> Experience in Gherkin ( BDD /TDD )</li><li> Willingness to take challenges head on while being part of a team</li><li> B.S. in Computer Science (or equivalent degree or work experience)<br/><br/></li></ul><strong>Required Education<br/><br/></strong>BA/BS Degree<br/><br/><strong>Thanks &amp; Regards<br/><br/></strong><strong>Anoop Tiwari<br/><br/></strong><strong>Extend Information Systems<br/><br/></strong><strong>Cell: - 571 - 386 - 2431<br/><br/></strong><strong>Email: Anoop@extendinfosys.com</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

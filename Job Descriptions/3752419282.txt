@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The Department of Computer Science (CS) at Saint Michael's College is excited to announce and invite applications for a tenure-track faculty position starting in August of 2024. Depending on qualifications and experience, the appointment could be at the Assistant Professor or Associate Professor level. This individual will have a unique opportunity to shape the future of computer science education at Saint Michael’s College. As a member of the Computer Science faculty, you will have the chance to inspire the next generation of computer scientists. You will play a pivotal role in teaching our foundational programming courses, including Introduction to Computer Science 1, Introduction to Computer Science 2, and/or Data Structures. Choosing from a wide array of exciting topics that match your skills, you will also have an opportunity to teach upper-level computer science courses depending on your expertise, including artificial intelligence and/or machine learning, programming languages, software engineering, operating systems, computer networks, databases, cryptography, and/or cybersecurity.<br/><br/>As a forward-thinking department, we also welcome your creative input in designing new courses. Your innovative ideas can shape the future of computer science education, giving our students even more opportunities to explore this dynamic field. We seek candidates who are excited to contribute to our vibrant residential campus community. The college is committed to supporting diversity and inclusivity among students, faculty, and staff; therefore, all members of the community are expected to contribute to fostering an inclusive and equitable learning and working environment.<br/><br/>Our lived experience impacts how we self-assess our skills, experience, and qualifications. In particular, data and statistics have shown that candidates who are BIPOC, LGBTQ+, women, people from working-class backgrounds, people with disabilities, and others with minoritized and marginalized identities may not apply to jobs when they do not believe they meet 100% of the requirements and expected responsibilities listed in the job descriptions. Some responsibilities and skills are teachable and can be learned on the job. If you can imagine yourself in this position, bringing value to our students and community and meeting most of what we are looking for, please apply.<br/><br/><strong>Benefits include health, dental, vision, employer paid life and disability insurance, voluntary life, critical illness and accident insurance options, parental leave, flexible spending accounts (healthcare and dependent care), 401(k), employee and dependent tuition benefits, employee assistance program, well-being programs and opportunities, discounted gym membership, paid volunteer time, use of the athletic facilities and the library, and countless opportunities to attend presentations, lectures, and other campus activities.<br/><br/></strong><strong>Required Qualifications<br/><br/></strong><ul><li>PhD degree in CS (or a related field) by August of 2024 is preferred. Doctoral candidates who will be close to completion on that date may be considered, as may those who hold a Master’s degree in CS (or related field) combined with significant industry experience.</li><li>Prior teaching and/or industry experience preferred but not required; we are willing to mentor the right person<br/><br/></li></ul><strong>Application Instructions<br/><br/></strong>Please be prepared to attach the following documents after clicking on the Apply Now button:<br/><br/><ul><li>Cover letter</li><li>Curriculum Vitae</li><li>Statement of teaching philosophy</li><li>Statement of diversity, equity, and inclusion articulating how your teaching, research, or creative work, advising, or other activities can contribute to our goal of creating an inclusive and equitable learning environment for all students</li><li>Names and contact information for 3 references. Reference letters will be requested at a later stage.<br/><br/></li></ul>An offer of employment will be contingent upon the successful completion of a background check.<br/><br/>Review of applications will begin on <strong>October 27, 2023</strong>. The position remains open until filled.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

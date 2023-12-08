@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Open Lending provides automated lending services to financial institutions. The company specializes in loan analytics, risk-based pricing, risk modeling, and automated decision technology for automotive lenders throughout the United States. The company was founded in Austin, TX in 2000.<br/><br/>Before taking the company public in 2020, Open Lending ranked among Austin’s fastest-growing, privately held companies. Starting in 2013, the company placed for seven consecutive years on the Austin Business Journal’s Fast 50 list. Additionally, Open Lending has been named as a top workplace by both the Austin Business Journal and the Austin American Statesmen.<br/><br/><strong>The Opportunity:<br/><br/></strong>We are looking for a Senior QA Manager to join our team and partner with our engineering organization striving to support mission-critical systems for all of our software platforms &amp; products.<br/><br/><strong>Three Reasons Why To Apply:<br/><br/></strong><ul><li>Ability to make an impact: Join a growing team working together to modernize testing technology stack, as well as participate in initiatives to grow Open Lending’s business and portfolio</li><li>Engineering culture: We have a tight-knit organization with a no-blame attitude. Our engineers go out of their way to help fellow team members succeed</li><li>Visibility of your work: This is one of the top priorities for the company. We have a flat organization, and this project is being followed by our CTO &amp; CEO<br/><br/></li></ul><strong>What You’ll Do:<br/><br/></strong><ul><li>In this role, you will have an opportunity to improve quality, enable a fast feedback engineering culture, and accelerate the delivery of the most privacy-forward, technologically sophisticated test suite</li><li>Collaborate with cross-functional teams to design and develop testing solutions that meet business requirements</li><li>Write clean, efficient, and maintainable code while adhering to coding standards and best practices</li><li>Participate in the entire software development lifecycle, including requirements gathering, design, development, testing, deployment, and maintenance</li><li>Stay current with emerging technologies and industry trends and apply them to Open Lending's products and services<br/><br/></li></ul><strong>What You Bring:<br/><br/></strong><ul><li>A bachelor’s degree in computer science, Information Technology, or another relevant field</li><li>5+ years' experience leading automation and manual quality teams</li><li>10+ years’ experience designing and architecting automation framework solutions that enable a shared accountability in quality</li><li>Establish a culture that continuously strives towards best practices, measurable outcomes, and operational excellence</li><li>Strong leadership, influence, and thought leadership skills</li><li>Demonstrated ability to achieve results through people and across an organization, forming relationships, collaborating with and influencing multi-functional teams</li><li>Able to deep dive into technical areas when needed but also up-level communications to a broader audience</li><li>Experience developing and testing front and back-end customer-facing components</li><li>Expertise with continuous integration systems that incorporate fast feedback mechanisms and quality metrics</li><li>Deep understanding of Java, Java Selenium, MySQL, Rest API, SOAP, Bitbucket, Jenkins, Maven, and Git</li><li>Expertise in analyzing, troubleshooting, and resolving complex issues<br/><br/></li></ul><strong>Benefits and Perks:<br/><br/></strong><ul><li>Medical, dental, life and short-term and long-term disability insurance (company pays 100% of the premium for employee and 100% of the premiums for family plans after 2 years of coverage)</li><li>Total annual cash compensation includes base salary and bonus, plus participation in the incentive plan for non-commissioned employees</li><li>Unlimited PTO</li><li>401k plan with match</li><li>Eligible for long-term equity compensation</li><li>Free onsite covered parking (Austin office)</li><li>Paid parental leave for new parents</li><li>Onsite gym (Austin Office)</li><li>Free snack options (Austin Office)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

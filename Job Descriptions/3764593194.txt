@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Category: Engineering<br/><br/>Time Type: Full time<br/><br/>Minimum Clearance Required to Start: TS/SCI<br/><br/>Employee Type: Regular<br/><br/>Percentage of Travel Required: Up to 10%<br/><br/>Type of Travel: Local<br/><br/>REMOTE work opportunity/Option to work REMOTE<br/><br/>CACI is currently looking for a Software Engineer to join our team with the option of working remote and developing next generation signals intelligence (SIGINT) and electronic warfare systems for the Department of Defense. Join this passionate team of industry-leading individuals on a program that leverages the best practices in Model-Based Systems Engineering and Agile software development to deliver state of the art capability in support of our nation’s warfighters.<br/><br/><strong>What You’ll Get To Do<br/><br/></strong><ul><li>Design, develop, integrate, test, and maintain complex software solutions </li><li>Collaborate in the design and implementation of distributed server-based infrastructure as well as modern web-based applications.</li><li>Work with hardware or software designers/engineers and analysts to develop, analyze, and evaluate hardware, software, and systems.</li><li>Evaluate emerging technologies to determine advantages and disadvantages of potential solutions in virtual, web-based, and desktop applications.</li><li>Work with the development and testing team to devise quality and performance related metrics and continuous testing systems.<br/><br/></li></ul><strong>You’ll Bring These Qualifications<br/><br/></strong><ul><li>Bachelor's or equivalent in Computer Science or Electrical Engineering</li><li>2+ years of related experience, including Java development experience.</li><li>Understanding of software design concepts</li><li>Programming methods and languages in Java OR C++, C</li><li>Familiarity with Linux and real time operating systems</li><li>Familiarity of IP networking concepts.</li><li>Excellent communication skills.</li><li>Effective teamwork skills.<br/><br/></li></ul><strong>These Qualifications Would Be Nice To Have<br/><br/></strong><ul><li>Experience with AWS (including any AWS Certifications)</li><li>Background in web technologies is highly desired.</li><li>Experience with database programming and cloud technologies.</li><li>Experience with Python and scripting.</li><li>Working knowledge of signal processing fundamental</li><li>Working knowledge of MATLAB is helpful</li><li>Willingness to learn and apply the best technology for a given application.<br/><br/></li></ul><strong>A “TS/SCI” clearance is required to begin employment. For this position, CACI has the ability to provide clearance sponsorship for qualified individuals.<br/><br/></strong><strong>What We Can Offer You<br/><br/></strong><ul><li> We’ve been named a Best Place to Work by the Washington Post.</li><li> Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives.</li><li> We offer competitive benefits and learning and development opportunities.</li><li> We are mission-oriented and ever vigilant in aligning our solutions with the nation’s highest priorities.</li><li> For over 60 years, the principles of CACI’s unique, character-based culture have been the driving force behind our success.<br/><br/></li></ul>Company Overview: At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic.<br/><br/>Pay Range: The proposed salary range for this position is $74,600-$156,700. There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. Employment benefits include health and wellness programs, income protection, paid leave and, life insurance, retirement and savings.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

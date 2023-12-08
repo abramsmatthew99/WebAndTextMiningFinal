@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>Intuit Mailchimp is the leading marketing platform for small businesses. We empower millions of customers around the world to build their brands and grow their companies with a suite of marketing automation, multichannel campaigns, CRM, and analytics tools.<br/><br/>We are looking for a Fullstack Software Engineer 2 to join our Guide Me team! You will build experiences that help QuickBooks and Mailchimp customers leverage the power of our combined products to grow their businesses. This role will bring our products, data, and AI capabilities together to give our users complete confidence in their leads and customer relationships. You can expect to assist with implementing the team’s technical vision and work collaboratively with other engineers on the team as you work across the codebase.<br/><br/>The ideal candidate has 2+ years of experience building and operating web applications, plus familiarity with current technology trends and patterns. They should also be a skilled communicator and collaborator comfortable working across multiple teams and departments.<br/><br/>Intuit Mailchimp is a hybrid workplace, giving employees the opportunity to collaborate in person with team members in our Atlanta and Brooklyn offices two or more days per week.<br/><br/><strong>What You'll Bring<br/><br/></strong><ul><li>You have 2+ years of experience building and operating web applications.</li><li>You are as comfortable working with and improving upon legacy systems and code as you are building new features and applications.</li><li>You have strong communication and collaboration skills.</li><li>You have a bachelor's degree in Computer Science or equivalent experience in a software development environment, with capability in frontend and backend development.</li><li>You have experience developing new and enhancing existing features as well as investigating and resolving defects.</li><li>You adhere to internal coding standards, development processes, and design best practices.</li><li>You ensure quality by performing thorough testing and leveraging peer reviews for your work and the work of others.</li><li>You have experience with PHP, Go, React JS, and/or Google Cloud Platform/AWS.<br/><br/></li></ul><strong>How You Will Lead<br/><br/></strong><ul><li>You’ll write and maintain scalable, efficient code for the Mailchimp application.</li><li>You’ll work with design and engineering team members to build features from concept through implementation.</li><li>You’ll assist with establishing patterns and processes and collaborate with team members through examples in your own work.</li><li>You’ll develop and enhance new and existing features as well as investigate and resolve defects.</li><li>You’ll provide technical guidance and mentorship to team members, as needed.</li><li>You’ll remain up-to-date on evolving tools and patterns for managing infrastructure and suggest their implementation when necessary.</li><li>You’ll help scope, estimate, and prioritize work.</li><li>You’ll embrace and demonstrate our values: empathy, creativity, and independence.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Edaptive Computing, Inc. (ECI) requires a Machine Learning Developer with experience in machine learning techniques, data analytics, software development, and researching the state of the art. This role includes investigation, identification, and application of innovative software solutions in areas such as machine learning, data mining, and big data processing. The developer will research and develop applications of advanced machine learning techniques, demonstrate through software prototypes and experimentation, and assist in transition to production applications. The role applies proven problem-solving, analytical and communication skills to successfully apply complex techniques and tools to automate the analysis of large, complex data. This position offers the opportunity to do hands-on research and development.<br/><br/>Location<br/><br/>Dayton, Ohio<br/><br/>Type<br/><br/>Full time with competitive benefits package<br/><br/>Qualitative Requirements<br/><br/>Knowledge of Neural Networks or similar machine and deep learning techniques<br/><br/>Knowledge of Python<br/><br/>Knowledge of Java or similar object-oriented languages<br/><br/>Capability to perform complex research<br/><br/>Capability to work independently to meet timely goals<br/><br/>Strong analytical and problem-solving skills<br/><br/>Excellent written and verbal communication skills; ability to clearly present analysis proposals and results<br/><br/><strong>Desired Qualifications<br/><br/></strong>Practical knowledge of open-source machine learning frameworks<br/><br/>Knowledge of Natural Language Processing techniques<br/><br/>Knowledge of software design patterns and best practices<br/><br/>Strong mathematical background<br/><br/>Knowledge and experience with Hadoop and/or Apache Spark/Storm<br/><br/>Knowledge of HTML5, React or similar JS frameworks<br/><br/><strong>Educational And Experience Requirements<br/><br/></strong>Master’s degree in Computer Science/Any Engineering<br/><br/>At least 1 year of training or experience with machine learning or related artificial intelligence techniques
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Murphy Company</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Jennifer Miller" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Jennifer Miller
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Recruiter/HR Generalist
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Jennifer Miller" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjennifer-miller-8aa397137&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Infrastructure Analyst</strong></p><p><br/></p><p><strong>About Murphy Company</strong></p><p>Since 1907, Murphy Company has been a leading mechanical contractor in the St. Louis and Denver markets that provides its professionals the environment, opportunities, technology, and tools to experience a rewarding career. Being a company that prides itself on its core values of employee well-being, enduring relationships, and integrity and professionalism, we know it starts with our employees. We strongly believe our people are our most important asset, and we strive every day to make Murphy a great place to work as we build our clients’ visions. </p><p><br/></p><p><strong>We Are Looking For Someone Like You </strong></p><p>We are in search of a dedicated Infrastructure Analyst to lead our migration from an on-premise VMware infrastructure to Azure cloud services. As a hands-on expert in cloud environments, migration, deployment, and maintenance, this role is pivotal to our IT strategy. If you possess a strong background in both on-premise and cloud systems, especially within hybrid models, and have a strong commitment to infrastructure security, we want you aboard our team.</p><p><br/></p><p><strong>Your Day-to-Day at Murphy Company </strong></p><ul><li>Collaborate with the IT team to devise a comprehensive migration strategy from our on-premise VMware environment to Azure cloud services.</li><li>Lead the migration of servers, networking components, VPNs, and other pivotal systems to Azure.</li><li>Set up and maintain the company's virtual network within Azure, focusing on security, scalability, and high availability.</li><li>Regularly monitor and optimize our cloud infrastructure to ensure performance, cost-efficiency, and alignment with best practices.</li><li>Implement disaster recovery plans, backup solutions, and rigorous security protocols within the Azure ecosystem.</li><li>Maintain and manage our Active Directory, ensuring seamless integration and synchronization with Azure AD services.</li><li>Stay aware of emerging cloud technologies, methodologies, and tools for optimum infrastructure performance.</li><li>Provide technical guidance to the team on Azure cloud capabilities, hybrid models, and best practices.</li><li>Diagnose and resolve issues in the cloud environment promptly, ensuring minimal service disruption.</li><li>Ensure the security of our hybrid infrastructure, from on-premise systems to cloud services, leveraging best practices and state-of-the-art solutions.</li><li><br/></li></ul><p><strong>Bring Your A-Game! </strong></p><p><strong>Our ideal candidate should possess the following traits: </strong></p><ul><li>Bachelor's degree in Computer Science, IT, Engineering, or a related discipline.</li><li>A minimum of 3 years in IT infrastructure, with a robust background in VMware.</li><li>At least 1 year of hands-on experience with Azure cloud services.</li><li>Demonstrable expertise in Active Directory and its integration with Azure AD.</li><li>Familiarity with hybrid on-premise/cloud infrastructure models.</li><li>Azure certification is a distinct advantage.</li><li>Proven ability to ensure the security of complex IT infrastructures, both on-premise and in the cloud.</li><li>Strong problem-solving skills and a team-oriented mindset.</li><li>Excellent communication skills, with an ability to translate technical intricacies for a non-technical audience.</li><li><br/></li></ul><p><strong>What We Will Bring to the Table </strong></p><ul><li>A collaborative, family-friendly work environment </li><li>Knowledge and expertise that has helped us grow and thrive for the last 100+ years </li><li>Competitive pay and an excellent benefits package, including health and life insurance, a robust wellness program, 401(k), and profit sharing. </li><li>A personal time off plan that rivals our competitors</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Aragen Bioscience is a leading contract research organization focused on accelerating product development. Aragen’s offerings include antibody discovery, recombinant protein production and purification, stable cell line development as well as cell-based assays and in vivo models of disease. We offer clients high quality service and superior R&amp;D partnerships.<br/><br/>The Part Time System Administrator/Support Engineer will be responsible for the following:<br/><br/><ul><li> Provides technical support to users</li><li> Troubleshoots hardware and software issues</li><li> Provides instructions or directly sets up desktop hardware</li><li> Assists with installation of computer software and operating system updates</li><li> Ensuring all Network and Systems related issues and tasks are resolved in a timely manner.</li><li> Working extensively on corporate infrastructure (both on-prem and in the cloud) of networks and systems, including firewalls, switches, WAPS, Microsoft 365, Exchange, Azure, Intune and more.</li><li> Manage Active Directory, DNS, DHCP, Group Policies Objects.</li><li> Monitor and troubleshoot infrastructure components to identify and resolve performance issues, security vulnerabilities, and other system-related problems.</li><li> Troubleshoot, maintain integrity, and configure network components along with implementing operating systems enhancements to improve reliability and performance.</li><li> Implementing and managing VMware virtualization in the most current versions in a high availability enterprise environment.</li><li> Perform backup operations or replications ensuring all required systems and data are successfully backed up including off site backups, as necessary.</li><li> Working with monitoring and performance tuning tools, such as Nagios, Zabbix, and MRTG.</li><li> Implement and test software patches and security fixes.</li><li> Coordinate, set up, and support technologies used in meetings including presentations, audio, and video conferences.</li><li> Work closely with 3rd party vendors providing various technology services.<br/><br/></li></ul>Other tasks may be assigned<br/><br/><strong>Requirements<br/><br/></strong>Qualifications<br/><br/><ul><li>Bachelor’s degree in Computer Science or similar</li><li>Prior experience of 2-5 years in desktop support or related field</li><li>In-depth knowledge of desktop hardware and software systems</li><li>Excellent written and verbal communication skills<br/><br/></li></ul>Aragen is an equal opportunity employer. We offer a stimulating work environment with excellent salary. No Sponsorship available.<br/><br/>Salary Description<br/><br/>$38.00 to $45.00 per hour
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Research
+          </span>
+</li>
+</ul>
+</div>
+</section>

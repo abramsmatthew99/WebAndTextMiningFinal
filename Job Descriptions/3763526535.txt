@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Must have LinkedIn <br/><br/></strong><strong>Skills<br/><br/></strong><strong>Billing heavy - #1<br/><br/></strong><strong>AR #2<br/><br/></strong><strong>AP and GL<br/><br/></strong><strong>PeopleSoft Finance Quality Assurance Tester - Job Description<br/><br/></strong><ul><li>Solid understanding of how to properly test interfaces.</li><li>Ability to write test cases for Billing, AR, AP, and GL.</li><li>Functional knowledge of Billing, AR, AP, and GL. Candidate should know the business process behind these modules.</li><li>Good written communication skills for publishing test results.</li><li>Ability to learn client’s customizations and understand their role in our Staffing Solution.</li><li>Ability to work independently and multi-task many issues at once.</li><li>Must have a high level of integrity and a strong desire to work within a team environment. </li><li>Ability to work with developers to understand requirements and solutions.</li><li>Ability to log defects in tracking tool and estimate progress toward completion of a task.<br/><br/></li></ul><strong>Qualification<br/><br/></strong><ul><li>Minimum of 3 - 7 years in PeopleSoft Finance.</li><li>BS in Computer Science, MIS, Business, or equivalent education/training/experience </li><li>Good communication skills are a must. </li><li>Must be able to comprehend requirements quickly.</li><li>Experience using Azure DevOps is a plus.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

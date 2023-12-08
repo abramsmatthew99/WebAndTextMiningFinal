@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Second Spectrum</strong> <strong>is a Sports Emmy-winning data &amp; tech company</strong> that is building <em>the next way of seeing sports</em> - by capturing and producing the highest quality data and innovative content for many of the world's largest leagues and media partners, such as the NFL, NBA, English Premier League, ESPN, Amazon, and CBS Sports.<br/><br/>We are pushing the boundaries of deep tech -- machine learning, computer vision, big data, augmented and virtual reality. Our passion for cutting-edge design and decades of experience playing college and professional sports is an equal part of the magic that brings unique and innovative products to life. These products have helped Second Spectrum partners to multiple NBA championships, to win matches on football pitches around the world, to entertain and educate millions of fans on TV and digital. In 2021, Second Spectrum was acquired by Genius Sports, bringing together a unique combination of technological, operational and commercial capabilities. We're just getting started turning our joint vision of transformative sports technologies into reality.<br/><br/>Second Spectrum is the place to be if you're interested in working on cutting edge technology in sports, alongside incredibly driven and ambitious teammates. Our innovative and dynamic environment emphasizes opportunities for motivated individuals to maximize their growth and impact.<br/><br/><strong>The Role: Machine Learning Engineer<br/><br/></strong>Second Spectrum is looking for a Machine Learning Engineer to join our Artificial Intelligence group to develop advanced ML-based sports data products.<br/><br/><ul><li>We have an office in LA but are open to remote, US-based candidates<br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li>Design, prototype, implement, evaluate, optimize and monitor machine learning algorithms and related software systems to generate sports data and insights with high accuracy and low latency</li><li>Build, test, deploy and maintain production systems</li><li>Maintain and promote best practices for software development, including deployment process, documentation, and coding standards</li><li>Contribute to technical and product discussions, and share knowledge and ideas with colleagues across the company<br/><br/></li></ul><strong>Our Stack<br/><br/></strong><ul><li>Languages: Python, Rust</li><li>Frameworks: PyTorch, PyTorch Lightning, Keras, TensorFlow, scikit-learn, xarray, pandas</li><li>Infrastructure, tools: AWS (S3, EC2), Docker, Pulsar, Grafana, Pachyderm<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>BSc or MSc or equivalent experience with a strong software engineering component</li><li>Experience with deep learning and some of the languages and technologies in our stack</li><li>Affinity for teamwork and collaboration with others to solve problems, share knowledge, and provide feedback</li><li>Strong communication skills when discussing technical concepts with technical and non-technical colleagues</li><li>Self-motivation and ability to work independently in an efficient manner</li><li>Flexibility and availability for work on-call, outside of regular work hours, as needed to support live sports<br/><br/></li></ul><strong>Nice to haves<br/><br/></strong><ul><li>Experience with data pipelines, devops<br/><br/></li></ul><em>As a general approach, we interview for aptitude over specific technologies or languages. Please be prepared to speak to anything listed on your resume or in your portfolio.<br/><br/></em><em>The base salary range for this role is $125,000 – $180,000. There are a number of factors which affect what the specific pay offer would be for this role, including location, seniority, and relevant educational and working experience. This is base salary only – all full-time roles will also be eligible to take part in Second Spectrum benefits and equity plan, and some roles may be eligible to take part in a bonus plan. For more details on the compensation and benefits package, please get in touch with our Talent team.<br/><br/></em><strong>Benefits<br/><br/></strong>In addition to flexible time off, other benefits include health insurance, skills training and more, depending on the location. We also offer a host of softer benefits, including many social events throughout the year such as holiday parties, team building events, sports tournaments, charity days and wellbeing activities.<br/><br/><strong>How We Work<br/><br/></strong>We have adapted a forward-thinking 'Ways of Working' framework, which sets out (amongst other things) the opportunities for Second Spectrum to work flexibly, remotely and on working holidays. It affects different teams and locations differently, so please ask for further information on how it would work with this role.<br/><br/>Our employees are empowered to stretch the boundaries of what's achievable, always reaching further and pushing the edges to see what gives. We collaborate, we innovate, and we celebrate. We will continue to grow as an organization and continue to invest in our highly talented and diverse team.<br/><br/><em>Second Spectrum, part of Genius Sports Group, is proud to be an equal opportunities employer. We recognize and celebrate the benefits that a diverse and inclusive workforce bring to our business, our customers and our staff. We welcome and will consider all applications regardless of age, different abilities or disability, gender identity or re-assignment, marriage, pregnancy, maternity, race or nationality, religion or belief, sex and sexual orientation (and any other applicable status). Please let us know when you apply if you need any assistance during the recruiting process due to a disability.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

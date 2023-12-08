@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Is this you?</strong> An AWS Cloud Engineer with experience working in a cloud service provider environment that strives for customer excellence, revels in being a part of constant innovation, and enjoys being an important member of the team? Then, this role is for you!<br/><br/><strong>Who are we? </strong>So glad you asked! Opti9 is a top hybrid cloud solutions provider. We’re committed to delivering industry-leading solutions to our customers based on their unique business needs. For those looking to the public cloud, we’re an AWS Advanced Consulting Partner and Certified Solution Provider focused on migration, optimization, transformation, and cloud-first application consulting. We also specialize in managed cloud, backup, and disaster recovery.<br/><br/>We have a fun, casual culture that embraces fresh ideas and innovation. We’re customer-driven and we are looking for authentic and accountable team players to collaborate with us to reach our goals.<br/><br/><strong>What would you do?</strong> As a Cloud Engineer for Opti9, you will be a part of a diverse and elite Team that works with a wide range of virtual and logical technologies in the Cloud provider space. As a team member, you will be tasked with weekly and monthly R&amp;D projects that involve pushing our Cloud offerings and services to the next level while staying competitive in the marketplace we reside in.<br/><br/>The ideal candidate will bring experience working as a systems or support engineer, diagnosing and resolving issues related to AWS infrastructure and keeping systems up to date. The primary focus is supporting our customers' Cloud environments, keeping customers’ workloads uptimes and Opti9 SLAs while building automation using AWS CloudFormaion, CDK, Terraform, or other Infrastructure as Code (IaC) tools to enable repeatable and consistent deployments. Also, creating and maintaining documentation for deployed solutions, configurations, and procedures.<br/><br/>This candidate will also require excellent interpersonal skills between internal teams and our customers representing the product workload owners. Also in this role, you will be acting as Tier 2-3 support to the CloudOps team as needed outside of regular project and R&amp;D opportunities.<br/><br/><strong>Job brief <br/><br/></strong>We are looking for a Cloud Engineer to join our team and work with our engineering team to optimize, implement, and maintain our organization’s cloud-based systems. <br/><br/>A Cloud Engineer’s responsibilities include deploying and debugging systems, as well as executing new cloud initiatives. <br/><br/>Ultimately, you will work with different IT professionals and teams to ensure our cloud computing systems meet the needs of our organization and customers.<br/><br/>A successful candidate will be highly self-motivated and directed, driven to learn and customer service focused.<br/><br/><strong>What are the details? <br/><br/></strong><strong>Primary Responsibilities: <br/><br/></strong><ul><li>Infrastructure Deployment and Management: </li><li>Design, deploy, and manage scalable and highly available AWS infrastructure</li><li>Implement and maintain cloud-based solutions, utilizing services like EC2, S3, RDS, Lambda, etc. </li><li>Configure and manage networking components such as VPCs, subnets, route tables, and security groups</li><li>Automation: </li><li>Implement and maintain infrastructure as code (IaC) using tools like AWS CloudFormation or Terraform</li><li>Develop and maintain automation scripts to streamline repetitive tasks and ensure consistency</li><li> Security and Compliance: </li><li>Implement security best practices in the AWS environment</li><li>Monitor and address security vulnerabilities and compliance requirements</li><li>Set up and configure AWS Identity and Access Management (IAM) for users and services</li><li>Performance Monitoring and Optimization: </li><li>Monitor system performance and implement optimizations as needed</li><li>Troubleshoot and resolve issues related to the AWS infrastructure</li><li>Implement scaling strategies for dynamic workloads</li><li>Collaboration: </li><li>Work closely with development and operations teams to understand project requirements and provide scalable and reliable solutions</li><li>Collaborate with other engineers and stakeholders to ensure smooth integration of applications with the AWS environment</li><li>Documentation: </li><li>Create and maintain comprehensive documentation for AWS architectures, processes, and procedures</li><li>Document configuration and changes made to the AWS environment</li><li>Other responsibilities: </li><li>Track time thoroughly and accurately </li><li>Participate in after hours on call rotation </li><li>Assist as needed with customer facing events or sales activities <br/><br/></li></ul><strong>What do you know? <br/><br/></strong><strong>Technical Knowledge and Experience: <br/><br/></strong><ul><li>Education and Certification: </li><li>Bachelor's degree in Computer Science, Information Technology, or related field</li><li>AWS certifications such as AWS Certified Solutions Architect, AWS Certified DevOps Engineer, or AWS Certified SysOps Administrator are often preferred</li><li>Technical Skills: </li><li>Strong knowledge of AWS services and architecture</li><li>Proficiency in at least one scripting language (e.g., Python, Bash)</li><li>Experience with infrastructure as code tools (CloudFormation, Terraform)</li><li>Familiarity with containerization and orchestration tools (Docker, Kubernetes)</li><li>Basic networking knowledge </li><li>Experience: </li><li>3+ years of previous experience in designing, deploying, and managing AWS infrastructure</li><li>Experience with CI/CD pipelines and tools</li><li>Knowledge of best practices for security, performance, and reliability in cloud environments</li><li>Experience monitoring and interpreting infrastructure and applications - logs, metrics, traces, events </li><li>Communication and Collaboration: </li><li>Strong communication skills to collaborate effectively with cross-functional teams</li><li>Ability to translate business requirements into scalable and secure cloud solutions<br/><br/></li></ul><strong>General Knowledge and Experience:  <br/><br/></strong><ul><li>Possess an innate sense of urgency; "do whatever it takes" attitude to meet our customer's high expectations </li><li>Must be highly self-motivated and dedicated </li><li>Must be able to coordinate several tasks/projects at once and pivot priorities easily </li><li>Must have outstanding written and spoken English communication skills </li><li>Desire to grow both personally and professionally <br/><br/></li></ul><strong>What do you get from us?  <br/><br/></strong><ul><li>Unlimited PTO </li><li>Medical/Dental/Vision Insurance  </li><li>Health Savings Account  </li><li>401(k)  </li><li>Casual atmosphere  </li><li>Recognition Programs  </li><li>Healthy Rewards Program  </li><li>A great place to spend most of your time </li><li>Option to be a remote position <br/><br/></li></ul><em>Opti9 provides equal employment opportunities to all employees and applicants for employment without regard to race, color, ancestry, national origin, gender, sexual orientation, marital status, religion, age, disability, gender identity, results of genetic testing, service in the military, or any other legally protected characteristic. <br/><br/></em>Powered by JazzHR<br/><br/>HgTNGca5gP
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

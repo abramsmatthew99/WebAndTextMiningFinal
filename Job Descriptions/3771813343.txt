@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Job Duties: Associate with Goldman Sachs &amp; Co. LLC in New York, New York. Multiple positions available. Execute tests to validate identified application system controls, which may require data analysis, to identify fraudulent activities, inappropriate access to sensitive data, financial risks, and control failures. Perform inspection of Java, SQL (Structured Query Language), and other coding languages to verify that key system controls and processes are operating appropriately as they relate to the assessment of financial and non-financial risk. Re-performance of system processes to examine and re-perform systematic business processes to ensure effectiveness of the automated controls and prevent risk of inaccurate or incomplete business transactions. Review automated access controls to Firm information resources including customer personal identifiable information (PII), material nonpublic information (MNPI), and transaction and position information, by auditing automated controls and system activity logs for vulnerabilities and unauthorized activities. Use advanced software tools and languages, such as Intellij, Python, Java, and Aqua Data Studio, to analyze the design of application controls and system architecture in the context of information security, data integrity, software change management, and availability. Document the results of the design assessment and test steps executed within the Internal Audit department’s project documentation repository. Analyze the business and technology processes to evaluate the effectiveness of the relevant technology controls and validate that system features meet business, technology, and regulatory requirements. Review and test automated surveillances that are coded based on the business and regulatory requirements, verifying that surveillances will confirm that transactions are in line with best practices. Assist in presenting the scope, progress and results of the audit to internal, technology, and business stakeholders. Follow up on open audit issues and ensure their resolution. Assist in every step of execution process in technology audits, including the risk assessment, scoping, and planning.<br/><br/>Job Requirements: Bachelor’s degree (U.S. or foreign equivalent) in Computer Science, Computer Engineering, Information Systems, or related field. Four (4) years of experience in the job offered or in a related role. Must have four (4) years of experience with: applying knowledge of risk analysis, particularly with assessing the probability and impact of an internal control weakness; assessing business and technology risks and applying ability to identify and relate technology risk to business risks in integrated audits; applying understanding of audit methodology, risk management and technology governance concepts to industry wide audit standards and procedures; utilizing concepts related to information systems, networks, system architecture, design, information security, technology resiliency, risk and control governance and metrics, incident management, SDLC, vulnerability management and data protection in audits; and collaborating with business and technology auditors within and across global teams on multi-region audit to accomplish common goals and articulating objectives or ideas persuasively to build mutually supportive relationships. Must have one (1) year of experience with: auditing complex and large environments, including applications, system interfaces and infrastructure; data processing, applying working knowledge of multiple IT controls, including data integrity, exception-based controls, change management, entitlement management, data backup and retention, performance and capacity management, technology SOX and system monitoring.<br/><br/>Salary Range: The expected annual base salary for this New York, New York, United States-based position is $126,000 - $140,000. In addition, you may be eligible for a discretionary bonus if you are an active employee as of fiscal year-end.<br/><br/>Benefits: Goldman Sachs is committed to providing our people with valuable and competitive benefits and wellness offerings, as it is a core part of providing a strong overall employee experience. A summary of these offerings, which are generally available to active, non-temporary, full-time and part-time US employees who work at least 20 hours per week, can be found here: https://www.goldmansachs.com/careers/discover/benefits-summary-US.pdf<br/><br/>©The Goldman Sachs Group, Inc., 2023. All rights reserved. Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

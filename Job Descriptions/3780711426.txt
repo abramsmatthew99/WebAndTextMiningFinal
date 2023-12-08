@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Experience &amp; Responsibilities<br/><br/></strong>The right candidate will have a proven track record with the following responsibilities within AWS:<br/><br/><ul><li>Sizing, architecting and designing cloud analytics solutions within AWS, Snowflake, Informatica Cloud and Tableau</li><li>Sizing, design and implementation of secure network solutions within AWS that meet business requirements.</li><li>Sizing, design and implementation of scalable Snowflake schemas and tables</li><li>Sizing, design and implementation of scalable Informatica Cloud native ETL and ELT integrations</li><li>Sizing, design and implementation of scalable Tableau dashboards (or any other reporting tools)</li><li>Sizing, design and implementation of disaster recovery procedures and solutions</li><li>Working with clients, third parties and internal teams to architect and design solutions to meet business requirements</li><li>Leading teams in the implementation of AWS, Snowflake, Informatica Cloud, and Tableau business solutions</li><li>Lead analysis of potential improvements to the system</li><li>Experience working with the pharmaceutical industry <br/><br/></li></ul><strong>Skills And Qualifications<br/><br/></strong><ul><li>Excellent communication skills</li><li>Expert customer skills</li><li>Strong analytical skills with the ability to own the creation and presentation of analysis</li><li>Solid understanding of networking and hosting technologies and solutions</li><li>Ability to multi-task in a fast-paced environment</li><li>A “can do” attitude and willingness to dig into customer issues </li><li>Bachelor of Science in Computer Science, Telecommunications, Information Technology, or other related fields</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Join our team to deliver engaging virtual educational experiences! We're seeking dedicated individuals to teach virtual, personalized classes for either one-on-one sessions or small groups. You can choose to work remotely from the comfort of your home or from our Hicksville location.<br/><br/><strong>Requirements<br/><br/></strong>Certified to teach K-12 with expertise in the specific subject area(s)<br/><br/>Proficient in computer skills<br/><br/>Familiarity with Skype or similar virtual communication platforms<br/><br/>Ability to commit to scheduled teaching hours<br/><br/>Candidates in the process of certification will also be considered if they exhibit exceptional credentials in other areas.<br/><br/><strong>Job Details<br/><br/></strong>Job Type: Part-time<br/><br/>Compensation: $25.00 per hour<br/><br/>Expected Weekly Hours: 4 – 6 hours<br/><br/><strong>Schedule<br/><br/></strong>Day shift<br/><br/>Evening shift<br/><br/>Night shift<br/><br/>Work Location: Remote<br/><br/>If you're passionate about education and meet these qualifications, we invite you to apply and be part of our team dedicated to fostering quality learning experiences!<br/><br/>Employment Type: Part-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

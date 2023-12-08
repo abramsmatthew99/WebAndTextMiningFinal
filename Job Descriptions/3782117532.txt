@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong><strong> <strong><strong>Junior </strong></strong>Backend Developer </strong>(US/Canada Residents Only, 1 year experience, remote)<br/><br/></strong>Team Remotely Inc. is a staffing and recruitment agency that offers a comprehensive solution for talent acquisition, including sourcing, vetting, pay rolling, and managing talent. Whether you need contract staffing, direct hire, direct sourcing, talent pools, or diversity initiatives, our model can support your hiring strategy.<br/><br/><strong> Hiring Type:</strong> Full-Time<br/><br/><strong> Base Salary:</strong> $58K-$68K Per Annum.<br/><br/>Job Description:<br/><br/>We are looking for a highly motivated and dedicated entry-level Backend Developer to join our team. As an Entry Level Backend Developer, you will play a key role in designing, developing, and maintaining the server-side components of our software applications. This is a great opportunity to gain hands-on experience and grow your skills in a supportive and collaborative environment.<br/><br/>Responsibilities:<br/><br/><ul><li>Collaborate with the development team to understand project requirements and objectives </li><li>Design and develop efficient and scalable server-side code using appropriate programming languages (e.g., Python, Java, Ruby, or Node.js) </li><li>Implement data models and database interactions for storage and retrieval of data </li><li>Create and maintain APIs and web services for seamless communication with front-end components </li><li>Conduct thorough testing and debugging to ensure the functionality and reliability of the software </li><li>Optimize application performance and scalability through code optimization and efficient database query design </li><li>Collaborate with front-end developers to integrate front-end components with the back-end systems </li><li>Stay up-to-date with the latest trends and advancements in backend development </li><li>Contribute to code reviews and provide constructive feedback </li><li>Document technical specifications and project details <br/><br/></li></ul>Qualifications:<br/><br/><ul><li>Bachelor's degree in Computer Science, Software Engineering, or a related field </li><li>Solid understanding of backend development principles and best practices </li><li>Proficiency in one or more programming languages such as Python, Java, Ruby, or Node.js </li><li>Familiarity with server-side frameworks and libraries (e.g., Django, Spring, Ruby on Rails, Express.js) </li><li>Knowledge of database systems and experience with SQL or NoSQL databases </li><li>Understanding of RESTful API design and implementation </li><li>Basic knowledge of version control systems (e.g., Git) </li><li>Strong problem-solving and analytical skills </li><li>Excellent communication and collaboration abilities </li><li>Eagerness to learn and adapt to new technologies <br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience with cloud platforms such as AWS, Azure, or Google Cloud </li><li>Familiarity with containerization technologies like Docker </li><li>Understanding of front-end technologies like HTML, CSS, and JavaScript </li><li>Knowledge of message queues and asynchronous processing </li><li>Exposure to Agile development methodologies </li><li>Basic understanding of software testing principles and methodologies <br/><br/></li></ul><strong>Why work with Team Remotely?<br/><br/></strong>Team Remotely Inc. is a staffing platform offering a seamless experience for employers and candidates. Employers can post job openings and specify their requirements, while candidates can create profiles and upload resumes.<br/><br/>The team of Team Remotely continuously learns and adapts based on previous successful placements, constantly improving its matching capabilities. This ensures that the recommendations provided by Team Remotely are tailored and accurate, increasing the likelihood of a successful match between employers and candidates. By providing intelligent and data-driven solutions, they strive to enhance the efficiency and effectiveness of the hiring process, ultimately helping companies find the best talent and individuals find their dream jobs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

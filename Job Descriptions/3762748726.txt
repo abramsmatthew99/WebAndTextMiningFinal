@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Systems Engineer<br/><br/></strong>Cyber Advisors Inc, (CAI) located in Maple Grove, MN, is looking for an experienced Systems Engineer. CAI is a steadily growing IT managed services provider (MSP) business that specializes in a very high-quality, customer-focused approach to designing, managing, and maintaining our customer's IT environment. We have invested a tremendous amount of time to develop our technology, processes, and support platform. We are now adding to our team of outstanding individuals to help in our growth. Come grow with us!<br/><br/>You can learn more about us at www.cyberadvisors.com<br/><br/>This is a full-time position- Hybrid. Working hours are Monday-Friday with occasional evenings and weekends.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li> Provide primarily remote and on-site support to our clients. </li><li> Proactively anticipate, pre-empt, diagnose, and solve hardware, network, and software problems. </li><li> Develop and maintain knowledge of the customer's specific business environment. </li><li> Perform major technology platform migrations (Exchange, Active Directory, and others)<br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li> Dedication to customer satisfaction and getting it right the first time. </li><li> Demonstrate ability to explain complex technical concepts to a non-technical audience</li><li> Strong troubleshooting skills across a broad and diverse population and environment. </li><li> Demonstrate ability to proactively look for process improvement opportunities, challenge conventional practices, and adopt new methods and best practices. Also focused on continuous self-improvement. </li><li> Demonstrate verbal and written communication skills; ability to communicate with all levels of the organization, clearly and concisely present issues, alternatives, and recommendation(s). </li><li> Strong technical documentation skills, ability to clearly record key information within ticketing and knowledge base systems. </li><li> Appreciation of internal customer business, goals and objectives, strategies, and needs. </li><li> Demonstrate ability to manage and prioritize multiple tasks, aggressive targets, and deadlines. </li><li> Demonstrate understanding of priorities and effective work procedures, self-manage work time, and prioritize multiple tasks and problems. </li><li> Passion for great customer service. </li><li> Long-standing curiosity and love of technology. </li><li> Proven ability to work with little or no supervision</li><li> High-quality, detail-oriented approach to work. </li><li> Well-developed organizational skills. </li><li> Reliable and punctual. </li><li> Ability to quickly learn new technologies. </li><li> Interest in building a long-term career position. <br/><br/></li></ul><strong>Essential Skills / Experience:<br/><br/></strong><ul><li> Bachelor's Degree in Computer Science or commensurate work experience Preferred</li><li> A+, Network+, or similar IT certification or working toward it</li><li> 5+ years IT experience</li><li> Strong knowledge of TCP/IP and networking fundamentals</li><li> Broad knowledge of Windows Server, Active Directory, and Exchange</li><li> Broad knowledge of Windows Desktop OS &amp; MS Office Suites</li><li> Experience with network security, anti-virus, and firewalls. <br/><br/></li></ul><strong>Compensation / Benefits:<br/><br/></strong><ul><li> Competitive salary depending on skills and experience. </li><li> Vacation and PTO. </li><li> Employer-paid Health and Dental Insurance for CAI employees. </li><li> Great opportunities for career advancement</li><li> 401k with employer matching</li><li> Paid time off to train for continuing education</li><li> Disability and Life Insurance</li><li> Bonuses eligible<br/><br/></li></ul><strong>About Cyber Advisors:<br/><br/></strong>Cyber Advisors' culture is like no other. First and absolutely foremost, we believe in taking care of our employees and their families. Whether we are blowing off steam at Top Golf, gathering for a fun summer family picnic, or hosting sales –vs- engineering paintball war, we play just as hard as we work. We believe good things come to those who sweat.<br/><br/>**This position requires vaccination per guidelines set forth by numerous clients that this position will service**<br/><br/><strong>Company Description<br/><br/></strong>Cyber Advisors is a company that values people and their personal growth. We believe that happy and successful employees are the best way to take tremendous care of our customers. At Cyber Advisors employees have an opportunity to make a difference for our company and our clients and are not just a number.<br/><br/>Cyber Advisors is a company that values people and their personal growth. We believe that happy and successful employees are the best way to take tremendous care of our customers. At Cyber Advisors employees have an opportunity to make a difference for our company and our clients and are not just a number.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

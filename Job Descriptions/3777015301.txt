@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The Software Development Intern is primarily responsible for coordinating project activities, reporting on project statuses and conducting initial testing on the software systems. This is a hands-on position where the intern and other technical resources work in an agile team environment to provide the technical capabilities that support AHRI’s mission and its member organizations.<br/><br/><strong>Principal Duties<br/><br/></strong>Coordinates project activities with the project stakeholders, the development team and external partners and vendors<br/><br/>Reports on project statuses and alerts management of potential road blocks<br/><br/>Works with software developers and end users to test and document new projects and project enhancements<br/><br/>Hands on testing of systems and processes prior to release<br/><br/>Communicates with project team on milestones and propose solutions to address issues encountered by the team<br/><br/>Completes all required project and service documentation<br/><br/><strong>Skills Required<br/><br/></strong>Ability to conduct software testing<br/><br/>Ability to organize and coordinate projects<br/><br/>Can collaborate well with other team members in an agile environment<br/><br/>Experience using Microsoft Project is a plus<br/><br/>Proficient with Microsoft Office products<br/><br/>Excellent written and verbal communications skills<br/><br/>Ability to work independently and as part of a team<br/><br/>Strong teamwork and interpersonal skills that enable the individual to work in a team with diverse skills and experience in order to respond to business needs.<br/><br/>Attention to detail<br/><br/>Able to read and comprehend complex instructions, correspondence and regulations<br/><br/><strong>THESE ARE NOT REAL JOB OPPORTUNITIES, DO NOT APPLY!</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Law Practice
+          </span>
+</li>
+</ul>
+</div>
+</section>

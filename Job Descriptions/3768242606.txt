@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        AI Software Developer is required by fast growing and highly successful organisation based in Bath. The company are working on cutting-edge technology including AI and machine learning. This is a newly created position due to growth and will join a well established and high calibre development team. The ideal candidate will have industry experience working with AI.<br/><br/>The company operate on a hybrid model which involves 3 days in the office and 2 days from home.<br/><br/><strong>Essential Experience<br/><br/></strong><ul><li>Degree in Computer Science or other STEM subject</li><li>1+ years' experience in a software development role</li><li>Passion for AI and Machine Learning</li><li>Experience working with C# and SQL<br/><br/></li></ul><strong>Any Experience In The Following Would Be Advantageous<br/><br/></strong><ul><li>.NET 5/6</li><li>JavaScript, TypeScript and frameworks such as React.js</li><li>Docker, Kubernetes</li><li>NoSQL<br/><br/></li></ul>This is an exciting opportunity to join a rapidly expanding company using the latest tools and technologies.<br/><br/><strong>Excellent training and career development opportunities exist for the right candidate.<br/><br/></strong><strong>Basic salary £25-35,000 + excellent benefits<br/><br/></strong><strong>Based in Bath / remote</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

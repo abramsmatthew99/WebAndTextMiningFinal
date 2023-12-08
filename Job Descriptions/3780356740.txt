@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!<br/><br/>Job details<br/><br/><strong>Exciting start up! | Houston, TX | Expansion/Growth!<br/><br/></strong>This Jobot Job is hosted by Kristin Lederer<br/><br/>Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.<br/><br/>Salary $100,000 - $140,000 per year<br/><br/><strong>A Bit About Us<br/><br/></strong>We're a bookkeeping &amp; accounting firm who's developed an automated accounting system poised to be the next generation accounting software. Welcome to the future of accounting! Modern, end to end bookkeeping and accounting solutions.<br/><br/>Our proprietary system delivers accurate records and actionable, real-time insights, and we help implement best practices and process improvements to streamline your accounting &amp; finance transformation.<br/><br/><strong><br/><br/><strong>Why join us?<br/><br/><br/></strong></strong>Come be a part of our team! Our solutions deliver value above and beyond that of traditional accounting service providers.<br/><br/><ul><li> Competitive salary</li><li> Comprehensive benefits</li><li> Hybrid or remote working environment</li><li> Growth potential<br/><br/></li></ul><strong>Job Details<br/><br/></strong>Job Details<br/><br/>We are seeking a passionate and experienced Frontend Developer to join our dynamic team in the Finance industry. The successful candidate will be responsible for developing and implementing user interface components using Electron, and other programming languages. You will be working with a team of talented developers, collaborating on the various layers of the infrastructure for our high-performing financial applications.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Developing new user-facing features using Electron.</li><li> Building reusable components and front-end libraries for future use.</li><li> Translating designs and wireframes into high-quality code.</li><li> Optimizing components for maximum performance across a vast array of web-capable devices and browsers.</li><li> Building single and multi-page applications with HTML, CSS, and JS.</li><li> Utilizing HTTPS and IPC for secure data transfer and communication.</li><li> Debugging with console and web inspector tools.</li><li> Creating and managing Git repositories to ensure smooth and coordinated workflow.</li><li> Designing and developing custom resources from scratch.</li><li> Creating and managing animations to enhance user experience.</li><li> Collaborating with back-end developers and web designers to improve usability.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, Information Technology, or a related field, or equivalent experience.</li><li> Proven work experience of 2+ years as a Frontend Developer.</li><li> Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.</li><li> Thorough understanding of React.js and Electron and their core principles.</li><li> Experience with popular React.js workflows.</li><li> Familiarity with newer specifications of EcmaScript.</li><li> Experience with data structure libraries.</li><li> Familiarity with modern front-end build pipelines and tools.</li><li> Ability to understand business requirements and translate them into technical requirements.</li><li> A knack for benchmarking and optimization.</li><li> Familiarity with code versioning tools, such as Git.<br/><br/></li></ul>If you are a passionate Frontend Developer with a keen eye for detail and a deep understanding of front-end technologies, we would love to hear from you. This is an exciting opportunity to work in a fast-paced, challenging, and dynamic environment. Join us and contribute to the next generation of financial technology.<br/><br/>Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.<br/><br/><strong>Want to learn more about this role and Jobot?<br/><br/></strong>Click our Jobot logo and follow our LinkedIn page!<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Come join our growing I.T. Team, it's time to be extraordinary.<br/><br/>In this role, you will be responsible for overseeing and executing infrastructure, cloud services, and security project initiatives throughout their full life cycle, utilizing both waterfall and agile methodologies.<br/><br/>This is a hybrid opportunity, based in the Niles, IL office.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Lead and manage projects from initiation to completion, ensuring adherence to project scope, timeline, and budget. Apply appropriate project management methodologies (waterfall, agile) based on project requirements. </li><li> Provide guidance and support to project teams as needed. </li><li> Effectively communicate project status, risks, and issues to stakeholders at all levels. </li><li> Collaborate closely with business owners, technical teams, and executive management to ensure alignment of project goals with overall business objectives. </li><li> Create and maintain comprehensive project documentation, including project charters, plans, schedules, status reports, and post-project reviews. Ensure documentation is accurate, up-to-date, and readily accessible to project team members and stakeholders. </li><li> Drive continuous improvement in project management processes and methodologies, staying current on industry best practices and trends. </li><li> Other duties as assigned. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, Information Technology, or a related field. A Master's degree or Project Management certification (PMP, PRINCE2, SAFe 6 or equivalent) is highly preferred. </li><li> Minimum of 7 years of experience in IT project management, with a focus on infrastructure, cloud services (AWS, Azure, and Office 365), and/or security initiatives. </li><li> Technical background and knowledge of cloud services, including AWS, Azure, and O365, as well as infrastructure and networking with a demonstrated ability to understand and navigate technical complexities in these areas and best practices in these areas. </li><li> Proven track record of successfully managing and delivering complex IT projects on time and within budget. </li><li> Excellent communication, negotiation, and interpersonal skills, with the ability to build and maintain relationships with stakeholders at all levels. </li><li> Strong problem-solving and decision-making skills, with the ability to think strategically and analytically. </li><li> Experience with Agile and Waterfall project management methodologies, and the ability to adapt to changing project requirements and priorities. </li><li> Proficient in project management tools, such as Microsoft Project, Smartsheet, or similar. </li><li> Demonstrated ability to work issues of diverse scope where analysis of situation or data requires evaluation of a variety of factors, including an understanding of current business trends. </li><li> Demonstrated experience in determining the best use of resources to meet goals of assignments received in the form of objectives. </li><li> Able to lead cooperative efforts among members of project teams. </li><li> Able to follow processes and operational policies in selecting methods and techniques for obtaining solutions. </li><li> Able to develop and administer schedules and establish performance requirements <br/><br/></li></ul><strong>Who We Are<br/><br/></strong>Shure’s mission is to be the most trusted audio brand worldwide – and for nearly a century, our Core Values have aligned us to be just that. Founded in 1925, we are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get. We offer an Associate-first culture, flexible work arrangements, and opportunity for all.<br/><br/>Shure Incorporated is headquartered in Niles, Illinois, with remote and hybrid opportunities throughout the United States. We have more than 35 regional sales offices, engineering hubs, and manufacturing facilities throughout the Americas, EMEA, and Asia.<br/><br/><strong>THE MIX MATTERS<br/><br/></strong>Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Audio and Video Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

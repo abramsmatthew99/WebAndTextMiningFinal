@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Work with the other members of the StoreConnect design team to develop, implement, and maintain front-end solutions for an IoT-based data analytics platform. Individually responsible for the development, implementation, support, and integration of new custom user interface tools to allow our users to get the most out of StoreConnect. This will include development in JavaScript, HTML, CSS, and requires some familiarity with both SQL and no-SQL databases.<br/><br/><strong>Responsibilities<br/><br/></strong><strong> Role and Responsibilities <br/><br/></strong><ul><li> Primary focus is front-end development, but there may be an occasional need to do some small back-end projects </li><li> Development and integration of customer user interface tools for an existing commercial product </li><li> Writing reusable, testable, and efficient code </li><li> Design and implementation of low-latency, high-availability, and performant applications </li><li> Integration with existing data storage solutions and data access APIs </li><li> Help to develop tests to verify integrated solution <br/><br/></li></ul><strong>Qualifications And Education Requirements<br/><br/></strong><ul><li> Bachelor’s Degree in Computer Science or a related field or Web Development Certification or comparable work experience </li><li> 2+ years experience with degree or certification </li><li> Must have 1+ years of work experience with JavaScript development and implementation </li><li> Must have 1+ years of work experience with HTML and CSS development and implementation </li><li> Familiarity with Agile/DevOps project planning, bug tracking systems </li><li> Familiarity with both SQL and no-SQL databases </li><li> Familiarity with Vue and/or D3 is a plus </li><li> Comfortable developing and integrating code into an existing code base </li><li> Experience with Linux and Mac development environments </li><li> Ability to work in a fast-paced environment </li><li> Ability to take initiative and effect change </li><li> Documentation skills <br/><br/></li></ul>The salary range of $66,500 - $123,500 is just one component of Hussmann’s total package. Actual compensation varies depending on the individual’s knowledge, skills, experience and location. This role may be eligible for discretionary bonuses and incentives. The minimum hourly wage for this role will be the greater of the posted range, or minimum wage for the location where the employee will be working, subject to local minimum wage requirements.<br/><br/>Our organization offers benefits that are the best fit for you at every stage of your career:<br/><br/>Comprehensive Insurance Plans: Health, Dental and Vision, 401k with Company Matching Contribution, Discretionary 401k Company Contribution, Tuition Reimbursement Program, Life/Disability Insurance, Family Leave, Panasonic Employee Discounts, Paid Vacation and Holidays, Wellness Program, Identity Protection, Community Stewardship, Employee Assistance Program and more<br/><br/>Hussmann is a subsidiary of Panasonic USA. Finding a better way has always been the Hussmann way. Since 1906, our focus on innovation has helped food retailers succeed. We hold over a 122 U.S. patents and 320 international patents from more than a dozen countries. We collaborate with customers across a variety of food retail segments as we work towards fulfilling a promise for better businesses, better partners, and a better world.<br/><br/><em> Hussmann is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to veteran status, disability, age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, genetics, marital status, pregnancy, or any other non- merit based factor.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail Groceries
+          </span>
+</li>
+</ul>
+</div>
+</section>

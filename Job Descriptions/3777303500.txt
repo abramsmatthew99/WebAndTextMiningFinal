@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<span><span><strong>Quality Assurance Engineer<br/></strong></span></span><span><span><strong>Montgomery AL 36104 [Onsite]<br/></strong><strong>6-12 Months contract<br/></strong> <br/><strong>Skills Preferred  <br/></strong>Orbus iServer experience preferred. Azure Dev Ops experience recommended. <br/><strong>Experience Required      <br/></strong>5 years of experience in QA engineer or similarly scoped position/role developing tests and test standard operating procedures (SOPs) for functional, performance and regression testing that include automated, ad-hoc, and manual testing elements<br/>Hands-on experience with creation and execution of automated tests<br/>5 years in performing, monitoring or validating performance testing including load, stress and spike testing<br/>Experience with multiple various, concurrent development/test methodologies<br/><br/><strong>Experience Preferred      <br/></strong>Experience with State Government, Medicaid, CHIP, and DHR business area or health care industry.<br/>Experience collaborating across multi-vendor, -solution, -methodology arena <br/><strong>Education Required        <br/></strong>BS degree in Computer Science, Information Systems or similar technical field of study, or equivalent proven, practical experience.</span></span>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

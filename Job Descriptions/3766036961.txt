@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Trilliant offers a universal communications platform that is at the convergence of the smart grid, smart city, and global Industrial Internet of Things (IIoT) applications. We bring together multi-technology solutions, global capabilities, and mission-critical communications to deliver future-proof solutions.</p><p><br/></p><p>We are a device-agnostic, integrated, multi-technology communication platform that provides flexibility to balance technological capabilities with economic needs. Trilliant is committed to best-in-class solutions that empower our customers and their customers to connect to the world of things.</p><p><br/></p><p>We are an equal-opportunity employer offering comprehensive benefits and compensation packages with a selection of insurance programs. We have dynamic and collaborative work environments with some of the brightest employees in the world. We invest in people and provide opportunities for our employees to grow hand in hand with our business.</p><p><br/></p><p>Trilliant is hiring a Software Support Engineer who will work under the supervision of a Software development/Support Manager. The Software Support Engineer will conduct detailed analyses of complex problems encountered by the customer to determine the causes and propose solutions. He will have to be autonomous and efficient in the management/realization of his projects while collaborating effectively with internal experts, to allow a quick resolution of customer problems. This role requires software development and diagnostic skills, as well as good customer relations and communication skills. </p><p><br/></p><p><strong>Job Responsibilities:</strong></p><ul><li>Participate in Agile team meetings. </li><li>Identify and investigate anomalies and implement corrective measures. </li><li>Participate in the planning of projects and the estimation of efforts to be made (work). </li><li>Participate in code inspection activities. </li><li>Mentor and provide mentorship to team members with less experience. </li><li>Participate in various software development activities with multidisciplinary teams. </li><li><br/></li></ul><p><br/></p><p><strong>Job Requirements:</strong></p><ul><li>5 – 7 years of programming experience in JAVA </li><li>Have worked in an iterative or Agile context. </li><li>Experience with Maven, AJAX, SOAP, Spring, XML, Hibernate, Artifactory </li><li>Have developed on Unix/Linux, Windows </li><li>Knowledge of DB – SQL Server, Percona and Oracle </li><li>Experience with Google Web Toolkit </li><li>JMX message queues (example ActiveMQ) </li><li>Ability to identify and solve problems. </li><li>Strong working knowledge of English, French a plus </li><li>Concern for quality and timeliness </li><li>Promote a customer-oriented approach. </li></ul><p><br/></p><p><strong>Education &amp; Certification:</strong></p><ul><li>A bachelor’s degree in computer engineering, Computer Science, Information Systems Management, Electrical engineering or a relevant discipline</li></ul><p><br/></p><p><strong>Trilliant Values:</strong></p><p>PASSIONATE-We find the right solutions for customers and exceed their expectations.</p><p>ACCOUNTABLE-We work smartly and tackle problems with urgency to get the job done.</p><p>CONFIDENT We look to the future and partner with each other to deliver world-class solutions.</p><p>ENERGIZED-We are excited and support the growth and direction of Trilliant.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

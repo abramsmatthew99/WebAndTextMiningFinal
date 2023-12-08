@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        As a Software Development Engineer in Test (SDET), you love writing test automation and are delighted when you troubleshoot and fix an issue or automate something. At QGenda you will advance our automated testing capabilities to deliver high-quality software to our customers. This includes designing, developing, and maintaining automated tests for our web and mobile applications. You will solve exciting and unique testing challenges and leverage the latest tools and processes. You will play an integral part in driving innovative solutions and shaping our automation approach as a champion of quality on the SDET team!<br/><br/><strong>How You'll Make an Impact:<br/><br/></strong><ul><li>Build and Maintain Automation</li><ul><li>Build automated test suites to exercise our web application using C#, NUnit, and Selenium using a Page Object Model</li><li>Build and maintain our mobile testing framework using Appium</li><li>Build and maintain backend tests using RestSharp and Postman</li><li>Build and maintain AWS Synthetics Canaries in JavaScript</li><li>Analyze product requirements and determine the level in the test pyramid and the testing framework where test cases best fit</li><li>Investigate new tools and processes to enable efficient, effective, automated testing</li><li>Provide solutions to common day-to-day testing problems by analyzing integration and regression testing failures</li><li>Collaborate on building internal tools to ensure quality at enterprise customer scale</li></ul><li>Deliver High-Quality Software</li><ul><li>Execute automated tests and report on results throughout the development life cycle</li><li>Champion delivering high-quality software releases across our web and mobile platforms while shifting testing left</li><li>You may work with developers and QA as part of a Scrum team or on the SDET team to advance our automated testing efforts</li><li>Participate in Code Reviews, including reviewing other SDET’s code<br/></li></ul></ul><strong>Who You Are<br/><br/></strong><ul><li>Demonstrated organizational and project management capabilities, with the ability to handle multiple tasks with shifting priorities and varying deadlines </li><li>Someone with excellent communication skills and able to collaborate cross-functionally </li><li>Strong critical thinking and problem solving abilities<br/><br/></li></ul><strong>Experience You Bring<br/><br/></strong><ul><li>1-5 years of experience writing automation tests</li><li>B.S. in Computer Science, Computer Information Systems, or Computer Engineering from a major U.S. university or equivalent industry experience</li><li>Experience with Selenium and Appium or a similar automation framework</li><li>Experience writing API tests using RestSharp, Postman, or similar</li><li>Source control, Git experience</li><li>Knowledge of test methodologies and automation strategies</li><li>Familiarity working with both Mac and Windows operating systems</li><li>Strong critical thinking and problem-solving skills</li><li>Excellent interpersonal communication skills and upbeat personality<br/><br/></li></ul><strong>Not Required, But Nice To Have<br/><br/></strong><ul><li>Experience writing code in an object-oriented programming language, C# or Java</li><li>Experience with AWS, Selenium Grid, or Docker</li><li>Experience working in CI/CD, Continuous Test, or Agile/Scrum environments</li><li>Beginning understanding of performance testing, using Python and Lotus<br/><br/></li></ul>At QGenda, we value and respect our employees and their contributions, and we recognize their individual efforts to promote career development, financial security and well-being. The salary range for this role is $61,000 - $106,000, and actual pay is based on skills, experience, education and other relevant factors for a potential new employee. This job is eligible for bonus pay.<br/><br/><em>Applicants must be currently authorized to work in the United States on a full-time basis. We are unable to sponsor or take over sponsorship of an employment visa at this time.<br/><br/></em><strong>Who We Are<br/><br/></strong>QGenda is redefining healthcare workforce management everywhere care is delivered. We’re on a mission to empower the healthcare industry to better onboard, deploy, and manage their workforce. Over 4,500 healthcare organizations have trusted us to help them make strategic workforce decisions through our unified software platform. With more than 600 employees across the US, we are united in our vision and culture to make a difference for our customers, while enjoying the day-to-day.<br/><br/>At QGenda, we value our employees and their contributions toward the success of the business. We strive to create a dynamic work environment that fosters growth, innovation, and collaboration, where employees can be proud of the work they do and the impact it has on the healthcare industry.<br/><br/>QGenda is headquartered in Atlanta, with additional offices in Baltimore, MD.<br/><br/>To learn more about QGenda, visit us at qgenda.com or follow us on Instagram (@QGendaLife) or LinkedIn.<br/><br/><strong>What's In It For You<br/><br/></strong>We offer a comprehensive total rewards package to support our employees and their family's day-to-day needs, well-being and major life events, which includes:<br/><br/><ul><li>Fully company-paid options for medical (both in-person and virtual), dental and vision insurance </li><li>Flexible paid time off (PTO) policy to enjoy periods of uninterrupted rest and relaxation for a healthy work/life balance </li><li>Paid parental leave for birth, adoption or permanent placement </li><li>401(k) with company match </li><li>Options to work at one of our two offices in a hybrid-working model or remotely from home, depending on the position </li><li>Annual Costco membership, cell phone stipend, commuter benefits, in-office perks and more <br/><br/></li></ul>QGenda delivers technology solutions to improve how healthcare is delivered and increase access - for everyone. We can only succeed by bringing together diverse minds, thoughts, ideas and team members to create better solutions for our customers and make us a better company as a whole. We are committed to creating a culture of embracing diversity, inclusion, equity for all.<br/><br/>QGenda is an Equal Employment Opportunity employer and makes all employment decisions without regard to race, color, religion, creed, gender, sex (including pregnancy), sexual orientation, gender identity or expression, natural origin, ancestry, age, marital status, disability or genetic information, military status, status as a disabled or protected veteran or any other protected status under applicable law.<br/><br/>If you require accommodations or assistance to complete the online application process, please contact recruiting@qgenda.com and identify the type of accomodation or assistance you are requesting. Do not include any medical or health information in your email. We will respond to your email promptly.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

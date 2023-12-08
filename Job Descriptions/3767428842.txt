@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        As part of Baseball Systems department, this role will work closely with the Data Engineering and Software Engineering groups within the Baseball Systems department to enhance existing tools and processes and build new ones.<br/><br/>Core duties for this role include, but are not limited to<br/><br/><ul><li>Investigate user identified data quality concerns relating to areas such as game statistics, scouting reports, and transactions. Diagnose and fix the issue(s).</li><li>Load new datasets from vendors into internal databases and make the data available to users.</li><li>Design tools to surface data in web applications and clearly communicate the tool’s functionality.<br/><br/><br/></li></ul>The ideal candidate will be currently enrolled pursuing a bachelor’s degree (B. A.) in Computer Science, Information Systems, or related field from four-year college or university; or related experience and/or training; or equivalent combination of education and experience. Experience with programming languages including but not limited to Python and Java preferred.<br/><br/><strong>Our Team<br/><br/></strong>Baseball Systems is the software backbone of Baseball Operations. We provide data and decision-making tools for analysts, coaches, and front office personnel to help win a World Series. Our department consists of a team of data engineers and a team of software engineers who work across all different aspects of Baseball Operations providing support and tools relevant to each group. We work directly with stakeholders in every department of Baseball Operations to ensure every project we work on drives value to the organization and helps us win more games on the field. We help drive technical innovation to find new ways to solve baseball problems<br/><br/><strong>Our Pitch<br/><br/></strong>You come here to make a difference. We are a purpose-led organization, focused on building an inclusive and engaging culture that fosters excellence, collaboration, and ingenuity. We strive to be a model employer and cultivator of talent, empowering our teams to drive innovation through the inclusion of diverse thoughts, ideas, and perspectives. We operate at the highest standard of excellence, investing in the development of our staff across all levels and embracing differences through a culture of respect and understanding.<br/><br/>We are proud to offer a highly competitive perks and benefits package including<br/><br/><ul><li>League wide insurance plan</li><li>Collaborative recognition program and incentives</li><li>Online educational platform for personal and professional development</li><li>Employee Resource Groups</li><li>Paid time off for volunteering </li><li>Year-round diversity, equity and inclusion training and development</li><li>Brewers Home Game tickets, promotional giveaways and other discounts!<br/><br/><br/></li></ul>For more information about our Crew, other benefits and insight into our Club culture please visit our Careers Page.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Spectator Sports
+          </span>
+</li>
+</ul>
+</div>
+</section>

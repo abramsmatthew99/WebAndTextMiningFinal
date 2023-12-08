@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a talented Software Developer to join our dynamic team. As a key player in our collaborative environment, you will work closely with Developers and Product Managers to craft and implement functional programs throughout the software development life cycle.<br/><br/><strong>Responsibilities<br/><br/></strong>Collaborate with fellow developers to design algorithms and create comprehensive flowcharts.<br/><br/>Produce clean and efficient code based on project specifications.<br/><br/>Integrate software components seamlessly and incorporate third-party programs when necessary.<br/><br/>Verify and deploy programs and systems, ensuring optimal performance.<br/><br/>Troubleshoot, debug, and upgrade existing software to enhance functionality.<br/><br/>Gather and evaluate user feedback to inform improvements and enhancements.<br/><br/>Recommend and execute enhancements based on user needs and technological advancements.<br/><br/>Create detailed technical documentation for reference and reporting purposes.<br/><br/><strong>Qualifications<br/><br/></strong>Proven experience as a Software Developer, Software Engineer, or in a similar role.<br/><br/>Familiarity with Agile development methodologies.<br/><br/>Experience in software design and development within a test-driven environment.<br/><br/>Proficiency in coding languages (e.g., C++, Java, JavaScript) and frameworks/systems (e.g., AngularJS, Git).<br/><br/>Familiarity with databases and Object-Relational Mapping (ORM) frameworks (e.g., Hibernate).<br/><br/>Ability to quickly learn new languages and technologies.<br/><br/>Excellent communication skills for effective collaboration.<br/><br/>Resourcefulness and strong troubleshooting aptitude.<br/><br/>Keen attention to detail.<br/><br/>Degree in Computer Science, Engineering, or a related field.<br/><br/><strong>Perks<br/><br/></strong>This is a remote position, offering flexibility and work-life balance.<br/><br/>We invite enthusiastic and skilled professionals to apply for this exciting opportunity to contribute to the development of efficient programs and systems that meet user needs. Join our team, where innovation and collaboration drive success!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

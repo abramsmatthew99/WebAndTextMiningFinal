@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Triunity Software, Inc. </p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Himanshi Lastami" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Himanshi Lastami
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Resource specialist at Triunity software Inc.
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Himanshi Lastami" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fhimanshi-lastami-744130233&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Company Description</strong></p><p>Triunity Software, Inc. is a Product Development, Staff Augmentation, and Consulting Services company that provides IT services and technology solutions to various business verticals like Healthcare, Pharma, Banking, Finance, etc. With expertise in IT consulting, software solutions, and staffing services, our goal is to develop long-term partnerships with clients and provide competitive advantages by providing IT infrastructure and software platforms. We have created teams across the globe that work round the clock to deliver cost-effective solutions seamlessly, taking advantage of onsite as well as offshore resources to deliver cost-effective business solutions in a minimal timeframe.</p><p><br/></p><p><strong>Role Description</strong></p><p>This is a contractual Java Developer role. Responsible for designing, developing, and maintaining complex Java-based applications, working on all phases of software development, and collaborating with software engineers and cross-functional teams.</p><p><br/></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's or Master's degree in Computer Science, Engineering, or related field.</li><li>Minimum 3 years of experience developing complex Java-based applications and solutions.</li><li>Experience with Spring Framework, Hibernate, and RESTful Web Services, and familiarity with SQL, NoSQL databases, JUnit, and Git.</li><li>Experience with Agile Methodologies, as well as Cloud Technologies and Development, is a plus.</li><li>Excellent problem-solving, collaboration, and communication skills, with the ability to work independently and in a team environment.</li><li>Ability to learn new technologies and frameworks, and adapt to changing requirements and priorities.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

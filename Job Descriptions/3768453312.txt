@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        SRC, Inc. is seeking an entry level engineer to work in the machine learning (ML) and artificial intelligence (AI) domains for our Syracuse, NY or Rome, NY office. The rapid advancement of deep learning continues to enable new and innovative applications, solutions, and capabilities for our products, including ground and airborne radar systems, electronic warfare (EW) systems, optical sensors, and more. The selected candidate will have the opportunity to design, develop, and field solutions using deep learning and other machine learning models on state-of-the-art hardware to solve a variety of challenges of national significance.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Applying machine learning models, tools, and techniques to imagery, video, signals, and other data products</li><li>Work with a team in the development of machine learning solutions for our customers</li><li>Performing data collections and running simulations to create, curate, and label machine learning datasets</li><li>Developing and delivering visualizations, demonstrations, and presentations for customers</li><li>Travel to technical conferences and various test sites in the United States</li><li>Remain current on state-of-the-art ML techniques and technologies<br/><br/></li></ul><strong>What You'll Bring<br/><br/></strong><ul><li>Bachelor's degree in computer science, electrical engineering, computer engineering, math, or physics. Other degrees may be considered if the candidate possesses a strong machine learning background.</li><li>Experience applying ML/AI to Department of Defense (DoD) and/or Intelligence Community (IC) problem domains, including radar, optical or infrared imagery, and electronic warfare systems.</li><li>Coursework in computer vision, machine learning, or neural networks</li><li>Technical proficiency in MATLAB, Python, and common deep learning frameworks (e.g., Tensorflow, PyTorch).</li><li>Excellent written and verbal communication and presentation skills.<br/><br/></li></ul><strong>Ways To Stand Out – Preferred Requirements<br/><br/></strong><ul><li>Experience designing and developing ML/AI solutions for deployment on embedded platforms.</li><li>Familiar with signal processing algorithms, techniques, and related technologies</li><li>Technical proficiency in C++ for edge deployment<br/><br/></li></ul><strong>What Sets SRC, Inc. Apart?<br/><br/></strong>SRC, Inc. is a not-for-profit research and development company that combines information, science, technology to deliver innovative, advanced defense solutions and products that are <em>redefining possible</em>®. Our commitment is to our employees, our customers, and our communities, not the bottom line. We are committed to ensuring an inclusive and equitable workplace for all our employees. When you join our team, you’ll collaborate with more than 1,300 engineers, scientists and professionals — with 20 percent of those employees having served in the military — helping to keep America and its allies safe and strong.<br/><br/>Total compensation for this role is market competitive. The anticipated salary range for this position based out of Syracuse, NY is estimated at $69,000 to $87,000 annually. The actual salary will vary based on applicant’s experience, skills, and abilities, geographic location as well as other business and organizational needs. SRC offers competitive benefit options, for more details please visit our website.<br/><br/><strong>Equal Opportunity<br/><br/></strong>Individuals seeking employment are considered without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, age, status as a protected veteran, or disability. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.<br/><br/><strong>About Us<br/><br/></strong><strong>Learn more about SRC:<br/><br/></strong><strong>Employee Benefits<br/><br/></strong><strong>Diversity, Equity &amp; Inclusion<br/><br/></strong><strong>Awards &amp; Recognition<br/><br/></strong><strong>Security Clearances<br/><br/></strong><ul><li> Location Syracuse, New York </li><li> Employment Type Full-Time Salaried </li><li> Experience Required 0+ Years </li><li> Education Required Bachelors Degree </li><li> Security Clearance Requirement Must meet eligibility requirements </li><li> Travel % 25</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

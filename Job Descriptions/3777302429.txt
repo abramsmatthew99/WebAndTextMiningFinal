@@ -1,0 +1,80 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from AllSTEM Connections</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Irene Ruiz" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQGawGuOulV4Lw/profile-displayphoto-shrink_100_100/0/1544583955803?e=2147483647&amp;v=beta&amp;t=-oLZsbqW_5kAQkOZJFBxeJLoUvvYSL9SLJOxBNiCj40" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Irene Ruiz
+
+<!-- -->
+</h3>
+<!-- -->
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Irene Ruiz" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Firene-ruiz-9b62b33&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>San Diego, CA </p><p>Direct Hire</p><p>Machine Learning Engineer</p><p> </p><p>DUTIES AND RESPONSIBILITIES:</p><ul><li>Work on architecture, design, and development of autonomous flight, sensor planning, and control utilizing AI techniques.</li><li>Optimize AI models and system solutions to meet edge-processing requirements.</li><li>Research academic papers and translate research into implementable software solutions.</li><li>Coordinate and lead the team’s establishment of design concepts, criteria, and engineering efforts for product research, development, testing, and integration.</li><li>Interact with internal and external representatives at various levels concerning resolution of technical and scheduling issues. Act as primary contact for engineering activities.</li><li>Ensure technical leadership and excellence is maintained by participating in the planning, attraction, selection, retention, and development of the required management, professional, and technical talent.</li><li>Lead progress review sessions to discuss cost, schedule, and technical performance.</li><li>Identify engineering issues and provide leadership in developing software solutions to meet customer requirements.</li><li>Lead a team in the preparation of proposals, business plans, proposal work statements and specifications, operating budgets and financial terms/conditions of contract(s).</li><li>Technical mentor to junior engineers.</li><li>Responsible for ensuring all laws, regulations and other applicable obligations are observed wherever and whenever business is conducted on behalf of the Company.</li></ul><p> </p><p>Requirements: </p><p> </p><ul><li>Typically requires a bachelors, masters degree or PhD in computer science, engineering, mathematics, or a related technical discipline from an accredited institution and progressive machine learning engineering experience as follows; five or more years of experience with a bachelors degree or three or more years of experience with a masters degree. May substitute equivalent machine learning engineer experience in lieu of education.</li><li>Experience in developing fully autonomous systems and deployment.</li><li>Experience in development and deploying Machine Learning/Deep Learning solutions.</li><li>Experience in leading and building high performance and technical teams.</li><li>Experience in developing and leading scalable software architectures from scratch.</li><li>Experience in optimizing AI models to meet edge processing requirements.</li><li>Strong coding skills in Java, Java Script, C/C++, Python</li><li>Experience in AI frameworks such as Tensorflow and pyTorch.</li><li>Must be able to architect, design, and develop complex software.</li><li>Active membership and participation in relevant conference and professional society organizations.</li><li>Demonstrated recent history of academic quality publications in the area of AI/ML and autonomy.</li><li>Ability to obtain and maintain a DoD security clearance is required.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Aviation and Aerospace Component Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

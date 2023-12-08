@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced <strong>Cloud Data Engineer - Healthcare</strong> you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. If so, consider an opportunity with Deloitte under our Project Delivery Talent Model. Project Delivery Model (PDM) is a talent model that is tailored specifically for long-term, onsite client service delivery.<br/><br/>Work you'll do/Responsibilities<br/><br/><ul><li>You will determine processes and automation tools to reduce IT spend and increase efficiencies on multiple projects within the Healthcare domain.</li><li>This position includes collaborating with DevOps teams to implement CI/CD pipelines, automated deployments, and infrastructure as code (IaC) practices for AWS-based solutions. Document design, development, and deployment processes, as well as create technical specifications and user guides for developed solutions.</li><li>Your role will be to design, develop, and deploy cloud-based solutions for data processing, analytics, and integration using cloud services and big data technologies. Collaborate with architects, data engineers, and business stakeholders to understand requirements and translate them into technical solutions.</li><li>You will implement data ingestion, transformation, and storage processes using cloud services like AWS's S3, Glue, Athena, Redshift, and EMR. Implement security, data governance, and compliance measures to ensure data integrity and protection in AWS-based solutions. Develop and optimize data pipelines using Snowpark, SnowSQL, Hadoop and PySpark to extract, transform, and load data efficiently.</li><li>You will conduct performance tuning and optimization of data processing and analytics workflows to maximize efficiency and scalability. Work with cross-functional teams to troubleshoot and resolve issues related to data processing, data integration, and analytics solutions.</li><li>Communicate regularly with Engagement Managers (Directors), project team members, and representatives from various functional and / or technical teams, including escalating any matters that require additional attention and consideration from engagement management<br/><br/></li></ul>The Team<br/><br/>As a part of the US Strategy &amp; Analytics Offering Portfolio, the AI &amp; Data Engineering offering provides managed AI, Intelligent Automation, and Data DevOps services across the advise-implement-operate spectrum.<br/><br/><strong>Qualifications<br/><br/></strong>Required<br/><br/><ul><li>Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience</li><li>1+ years' experience as a Cloud Data Engineer</li><li>1+ years' hands on experience in Snowpark, SnowSQL, Hadoop and PySpark</li><li>1+ years' experience in AWS services such as S3, Glue, Athena, Redshift, EMR, Lambda and Cloud Formation.</li><li>1+ years' experience in Python with a focus on data processing and analytics</li><li>1+ years in healthcare domain * 1+ years in consulting</li><li>Strong knowledge and hands-on experience in designing, developing, and deploying scalable solutions on the cloud platforms</li><li>Expertise in SQL and database technologies for data manipulation and querying</li><li>Limited immigration sponsorship may be available</li><li>Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve</li><li>Must live near or willing to relocate to Atlanta, Dallas, Orlando, or Richmond, VA.</li><li>Hybrid work model. Able to commute to office 1-2 days a week as needed.<br/><br/></li></ul><strong>Preferred<br/><br/></strong><ul><li>Familiarity with data modeling, data warehousing, and data integration concepts</li><li>Experience with DevOps practices, CI/CD pipelines, and infrastructure as code (IAAC) using tools like Jenkins, Git, and Terraform.</li><li>Strong analytical and problem-solving skills, with the ability to troubleshoot and resolve complex technical issues.</li><li>Familiarity with agile development methodologies and experience working in Agile teams</li><li>Analytical/ decision making responsibilities</li><li>Analytical ability to manage multiple projects and prioritize tasks into manageable work products</li><li>Can operate independently or with minimum supervision</li><li>Excellent communication skills</li><li>Ability to deliver technical demonstrations</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management, Strategy/Planning, and Consulting
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Business Consulting and Services, and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

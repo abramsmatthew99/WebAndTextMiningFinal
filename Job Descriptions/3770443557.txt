@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from TDA</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Jack Riddle" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4E03AQEFqbJ7_t_Rdw/profile-displayphoto-shrink_100_100/0/1701179154703?e=2147483647&amp;v=beta&amp;t=sglxNx2OXyH5ze-Zy9xhax3crbKaguZBqvAUc7eerFU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Jack Riddle
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Connecting the best talent in the Machine Learning, Deep Learning &amp; AI space with forward-thinking organizations
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Jack Riddle" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjack-riddle-17a85231&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>ML Engineer | AI Startup | NYC | High Profile Investors | $130-170k + Equity</strong></p><p><br/></p><p>I'm partnered with an AI Startup who are looking to transform the creative industry.</p><p><br/></p><p>They are looking for a<strong> Machine Learning Engineer </strong>who<strong> </strong>has experience as a bridge from ML modeling to production code. They don't really care about seniority level, by far most important thing is that production engineering experience for a top ML/AI based product.</p><p><br/></p><p>You will have the opportunity to lead and define the product from your own vision, taking on significant responsibility and shaping the future of the platform.</p><p><br/></p><p>Qualifications:</p><p><br/></p><ul><li>Proven experience in building and implementing machine learning models using Torch or similar frameworks</li><li>Experience shipping production models such as using Onnx or TorchScript</li><li>An understanding of creative workflows and technologies, including professional applications like Blender, Maya, Houdini, and Photoshop</li><li>Familiarity with creative processes such as texturing, rigging, and digital artistry</li><li>Excellent problem-solving and analytical skills</li><li>Strong communication and collaboration abilities</li><li>Demonstrated leadership skills and the ability to drive projects from inception to completion</li><li>Passion for pushing the boundaries of AI/ML research and its applications in the creative industry</li></ul><p><br/></p><p>If you would like to find out more about this exciting opportunity to disrupt the creative workflow space, please send me your latest resume and I will endeavor to give you a call.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Information Technology, and Project Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

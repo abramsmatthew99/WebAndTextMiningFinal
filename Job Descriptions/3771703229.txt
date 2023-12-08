@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        GoodRx is America’s healthcare marketplace. Each month, millions of people visit goodrx.com to find reliable health information and discounts for their healthcare — and we’ve helped people save $60 billion since 2011. We provide prescription discounts that are accepted at more than 70,000 pharmacies in the U.S., as well as telehealth services including doctor visits and lab tests. Our services have been positively reviewed by Good Morning America, The New York Times, NBC News, AARP, and many others.<br/><br/>Our goal is to help Americans find convenient and affordable healthcare. We offer solutions for consumers, employers, health plans, and anyone else who shares our desire to provide affordable prescriptions to all Americans.<br/><br/><strong>About The Role<br/><br/></strong>GoodRx is looking for a Lead Data Operations Analyst to join our LeadsRx team. Our team is looking for an experienced analyst who will help us set up and maintain a robust reporting platform and framework to help us scale our LeadsRx product.<br/><br/>As a Lead Data Operations Analyst, you will be responsible for consolidating various data across the LeadsRx platform in order to provide insights on business performance. You will design and own a high-quality, integrated reporting solution through project management and oversight to ensure that a comprehensive strategy is developed to develop, migrate and merge existing reporting into a framework. You’ll work closely with business and technical teams to innovate and iterate on this platform while navigating complex and changing circumstances.<br/><br/>The ideal candidate will be able to work with business and technical stakeholders to identify their needs, build data models and key reports in Looker, and empower stakeholders to get the data they need in a consistent manner.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Set up reporting tools and frameworks in Looker which consolidate data across multiple platforms.</li><li>Generate real-time and point-in-time performance metrics that can be accessed easily and/or will be automatically distributed to team members.</li><li>Interface with the GoodRx Data and Engineering teams to identify and populate data schemas in the Data Warehouse.</li><li>Utilize clear written communication, including technical documentation, and succinct verbal communication to enable others to interpret the data in order to make impactful business decisions.</li><li>Detail oriented ability to spot data discrepancies and troubleshoot potential errors.</li><li>Support sales and operations teams to generate business insights and revenue data to entice additional advertisers to join the LeadsRx platform.</li><li>Identify solutions for integrating data from 3rd party advertising platforms.</li><li>Become a trusted advisor to the VP of Product Delivery to help build a consistent and meaningful backlog for engineering efforts through data driven insights.<br/><br/></li></ul><strong>Skills &amp; Qualifications<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Mathematics, Finance, a related technical field, or equivalent practical experience.</li><li>High degree of fluency in business operations, revenue, conversion, and marketing metrics. (CAC, CTR, CR, ROAS, etc)</li><li>7+ years of experience in analytics, operations, management consulting, or a similar industry/function</li><li>Experience with SQL, Looker BI tools, Excel/Google Sheets</li><li>Proven experience interacting with business and technical stakeholders to build analytical tools to generate business insights.</li><li>Ability and desire to learn new AI technologies, systems, and processes and the ability to adapt the tools and technologies appropriately.<br/><br/></li></ul>At GoodRx, pay ranges are determined based on work locations and may vary based on where the successful candidate is hired. The pay ranges below are shown as a guideline, and the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, and other relevant business and organizational factors. These pay zones may be modified in the future. Please contact your recruiter for additional information.<br/><br/><strong>San Francisco Office<br/><br/></strong>$136,000.00 - $216,000.00<br/><br/><strong>New York And Seattle Offices<br/><br/></strong>$124,000.00 - $198,000.00<br/><br/><strong>Santa Monica Office<br/><br/></strong>$113,000.00 - $180,000.00<br/><br/>Other Office Locations:<br/><br/>$102,000.00 - $162,000.00<br/><br/>GoodRx also offers additional compensation programs such as annual cash bonuses and annual equity grants for most positions as well as generous benefits. Our great benefits offerings include medical, dental, and vision insurance, 401(k) with a company match, an ESPP, unlimited vacation, "Take Care of Yourself" days, 11 paid holidays, and 72 hours of sick leave. GoodRx also offers additional benefits like mental wellness and financial wellness programs, fertility benefits, supplemental life insurance for you and your dependents, company-paid short-term and long-term disability, and more!<br/><br/>We’re committed to growing and empowering a more inclusive community within our company and industry. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has a seat at the table and the tools, resources, and opportunities to excel.<br/><br/>With that said, research shows that women and other underrepresented groups apply only if they meet 100% of the criteria. GoodRx is committed to leveling the playing field, and we encourage women, people of color, those in the LGBTQ+ communities, and Veterans to apply for positions even if they don’t necessarily check every box outlined in the job description. Please still get in touch - we’d love to connect and see if you could be good for the role!<br/><br/>GoodRx is America's healthcare marketplace. The company offers the most comprehensive and accurate resource for affordable prescription medications in the U.S., gathering pricing information from thousands of pharmacies coast to coast, as well as a telehealth marketplace for online doctor visits and lab tests. Since 2011, Americans with and without health insurance have saved $60 billion using GoodRx and million consumers visit goodrx.com each month to find discounts and information related to their healthcare. GoodRx is the #1 most downloaded medical app on the iOS and Android app stores. For more information, visit www.goodrx.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

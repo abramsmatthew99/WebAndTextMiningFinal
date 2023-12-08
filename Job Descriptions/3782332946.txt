@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Dear Partner, Good Morning! </p> <p>Greetings from SnapRecruit LLC. We do have urgent requirement for Data Engineer</p> <p> </p> <p>A Senior Software Engineer - Data develops systems to manage data flow throughout Signify Health's infrastructure. This involves all elements of data engineering, such as ingestion, transformation, and distribution of data.<br/><br/><br/><br/><strong>What will you do?<br/></strong> </p> <ul><li>Communicate with business leaders to help translate requirements into functional specification</li><li>Develop broad understanding of business logic and functionality of current systems</li><li>Analyze and manipulate data by writing and running SQL queries</li><li>Analyze logs to identify and prevent potential issues from occurring</li><li>Deliver clean and functional code in accordance with business requirements</li><li>Consume data from any source, such a flat files, streaming systems, or RESTful APIs</li><li>Interface with Electronic Health Records</li><li>Engineer scalable, reliable, and performant systems to manage data</li><li>Collaborate closely with other Engineers, QA, Scrum master, Product Manager in your team as well as across the organization</li><li>Build quality systems while expanding offerings to dependent teams</li><li>Comfortable in multiple roles, from Design and Development to Code Deployment to and monitoring and investigating in production systems.<br/> </li><br/></ul> <p><strong>Requirements<br/></strong> </p> <ul><li>Bachelors in Computer Science or equivalent</li><li>Proven ability to complete projects in a timely manner while clearly measuring progress</li><li>Strong software engineering fundamentals (data structures, algorithms, async programming patterns, object-oriented design, parallel programming)</li><li>Strong understanding and demonstrated experience with at least one popular programming language (.NET or Java) and SQL constructs.</li><li>Experience writing and maintaining frontend client applications, Angular preferred</li><li>Strong experience with revision control (Git)</li><li>Experience with cloud-based systems (Azure / AWS / GCP).</li><li>High level understanding of big data design (data lake, data mesh, data warehouse) and data normalization patterns</li><li>Demonstrated experience with Queuing technologies (Kafka / SNS / RabbitMQ etc)</li><li>Demonstrated experience with Metrics, Logging, Monitoring and Alerting tools</li><li>Strong communication skills</li><li>Strong experience with use of RESTful APIs</li><li>High level understanding of HL7 V2.x / FHIR based interface messages.</li><li>High level understanding of system deployment tasks and technologies. (CI/CD Pipeline, K8s, Terraform)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

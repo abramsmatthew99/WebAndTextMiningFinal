@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Company<br/><br/></strong>Our client is a global asset manager with over $135 billion in AUM. The firm leverages direct lending and real estate strategies for its investors. The Portfolio Analytics Associate will be responsible for the firm’s P&amp;A function including performance calculations.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Organize the firm’s portfolio exposure and performance data to capture key statistics on all funds</li><li>Work closely with financial accounting teams and fund administrator on investment level details for performance calculations and reporting</li><li>Develop key reporting measures including calculations for exposure percentage, asset class and data classifications, P&amp;L reporting, and more</li><li>Build upon the fund portfolio performance returns database while incorporating attribution reporting methodology</li><li>Review and maintain all require client reporting templates and ad hoc requests</li><li>Support the marketing update process to deliver statistics required to update all quarterly materials<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree in finance, IT, or computer science</li><li>5-7 years of experience in a performance analysis role</li><li>Experience with IVP, Sequel, Tableau reporting a plus</li><li>Prior experience at a private equity firm</li><li>Ability to effectively communicate complex information<br/><br/></li></ul><strong>Salary Range<br/><br/></strong>$110,000-$130,000<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance and Accounting/Auditing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

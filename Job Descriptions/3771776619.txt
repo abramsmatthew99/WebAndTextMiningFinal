@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Hungry, Humble, Honest, with Heart.<br/><br/></strong><strong>The Opportunity<br/><br/></strong>As a Software Engineer - DBaaS at Nutanix, your main role will be to enable standardization and improve efficiency, agility, scalability, and cost savings for database operations within organizations. You will be responsible for tasks such as provisioning, high availability, patching, scaling, upgrades, backup/restore, and efficient database copies. Additionally, you will contribute to and use various open source technologies. This role supports Nutanix's mission to architect, design, and develop core software components for a multi-hybrid cloud enterprise Database-as-a-Service. What sets this role apart is the opportunity to build a multi/hybrid cloud DBaaS offering that supports multiple Database Engines.<br/><br/><strong>Engineering / R&amp;D at Nutanix<br/><br/></strong>The NDB team at Nutanix is a global team of 100 engineers across USA, India, Serbia with its primary location being in San Jose, CA. The team's success lies in their vision of delivering Project Beacon where applications (starting with databases) are written once run anywhere by delivering data-centric PaaS level services. They strive to provide a single API and console for consistent management across environments, enabling enterprises to fully embrace hybrid multicloud benefits.<br/><br/><strong>Your Role<br/><br/></strong><ul><li>Architect, design, and develop core software components for multi-hybrid cloud enterprise Database-as-a-Service.</li><li>Develop a deep understanding of customer (developers) use cases of various databases and design innovative solutions for customer requirements.</li><li>Lead Engineer to build functionality that is easy-to-use, intuitive to customers (developers).</li><li>Work closely with development, test, documentation, and product management teams to deliver high-quality products in a fast-paced environment.</li><li>Follow a methodical approach to design that is future ready and efficient, scalable and robust.<br/><br/></li></ul><strong>What You Will Bring<br/><br/></strong><ul><li>Experience working with Microservices, Kubernetes, Cloud Native applications</li><li>Experience working with enterprise software development in at least one of the development area: (REST APIs including OpenAPIs, Workflow Engines line Conductor or Temporal, Distributed Cache Service, Distributed Message Service, Billing and Metering Services, Kubernetes Operators ),</li><li>Love of programming and rock-solid in one or more languages: Go, Java or C++.</li><li>Must be able to write efficient code with high quality along with very through code-reviews.</li><li>Experience with object oriented concepts and design is required.</li><li>Bachelor's degree/ Master's degree in Computer Science or related field required with 7-10 years experience. Advanced degree in Computer Science or similar preferred<br/><br/></li></ul><strong>About The Team<br/><br/></strong><strong>Meet Hiring Manager - Krunal Jhaveri<br/><br/></strong>I joined Nutanix NDB in 2021 leading the development effort for NDB Control Plane and the developer ecosystem in the US. Prior to Nutanix, I have worked with Vmware, Cisco, Microsoft building and managing efficient enterprise software services. I’m inspired by the opportunity to build a small team building a hybrid multi-cloud service in the multi-billion dollar DBaaS space. I’m also passionate about contributing to open-source projects. I look forward to working with smart passionate young engineers, experiencing the journey from idea to product.<br/><br/><strong>What The Team Says<br/><br/></strong>“What I love about working in this team is that I have a rare opportunity to contribute to a cutting-edge product that competes with most famous worldwide companies while being surrounded by great teammates.”<br/><br/><strong>How We Work<br/><br/></strong><ul><li>We work in a hybrid style and all of our team members enjoy coming to the office 2-3 days a week. We are trying to minimize the number of meetings and nurture the culture of writing and sharing documents, which helped us achieve a more flexible schedule and transparent knowledge sharing. We also have twice-a-week Nutanix lunch days that are a great opportunity to connect in person with the team and other colleagues.<br/><br/></li></ul><strong>Pay Range<br/><br/></strong>The pay range for this position at commencement of employment is expected to be between USD $ 140800 and USD $ 282000 per year.<br/><br/>However, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.<br/><br/>If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

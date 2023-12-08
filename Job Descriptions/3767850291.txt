@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<span><span><span><strong>Job Description:<br/> <br/> Responsibilities:</strong></span> </span> </span> <ul><li> <span> <span> Writes and maintains test plans based on software requirements and design documents.</span> </span> </li><li> <span> <span> Participates in the development of change control standards and procedures that appropriately fit the needs of the technical team and updates these procedures as the needs change.</span> </span> </li><li> <span> <span> Verifies that system requirements are traceable, consistent, complete, and testable.</span> </span> </li><li> <span> <span> Write a checklist to track all components involved in application changes.</span> </span> </li><li> <span> <span> Performs requirements, design, and code walk-through/reviews as requested.</span> </span> </li><li> <span> <span> Recommends corrective action to ensure compliance with test plans.</span> </span> </li><li> <span> <span> Develops and maintains comprehensive documentation on all standards and ensures that the information is appropriately published and distributed.</span> </span> </li><li> <span> <span> Verifies that software applications perform in accordance with system requirements and specifications.</span> </span> </li><li> <span> <span> Tests software applications for concrete, consistent, observable results.</span> </span> </li><li> <span> <span> Tests new change control and testing tools to ensure proper installation and maintenance and to measure tool performance.</span> </span> </li><li> <span> <span> Verifies function, performance, integration, and acceptance test results are in accordance with application and departmental standards.</span> </span> </li><li> <span> <span> Measures the severity of failures and defects in accordance with test plan guidelines.</span> </span> </li><li> <span> <span> Accurately and thoroughly documents application performance failures and defects during each quality review session.</span> </span> </li><li> <span> <span> Clearly and accurately communicates test results to programming staff and/or appropriate management staff.</span> </span> </li><li> <span> <span> Regularly enters issues/defects related to the test life cycle or change control environment into the applicable tracking system.</span> </span> </li><li> <span> <span> Updates applicable tracking system with problem solutions and status.</span> </span> </li><li> <span> <span> Conducts testing meetings, as necessary, for problems encountered during the test life cycle.</span> </span> </li><li> <span> <span> Acts as liaison for application groups and external agencies.</span> </span> </li><li> <span> <span> Assists users in developing test plans, test scripts, and implementation plans as requested.</span> </span> </li><li> <span> <span> Provides reports showing status and activity in the change control environment to technical teams and appropriate management staff.</span> </span> </li> </ul> <span> <span> Qualifications:</span> </span> <ul><li> <span> <span> Bachelors degree in computer science or a related area.</span> </span> </li><li> <span> <span> Three (3) years experience as an IT Business Analyst (requirements gathering, business process mapping.).</span> </span> </li><li> <span> <span> Demonstrated knowledge of Testing methodology and practices.</span> </span> </li><li> <span> <span> Must have good knowledge of Microsoft Project/Sharepoint Workspace planning too.</span> </span> </li><li> <span> <span> Must have excellent customer service skills with strong decision-making capabilities.  </span> </span> </li><li> <span> <span> Must have excellent verbal and written communication skills.</span> </span> </li><li> <span> <span> Previous experience with Health and Human Services Systems.</span> </span> </li><li> <span> <span> Previous experience in state government.</span></span></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

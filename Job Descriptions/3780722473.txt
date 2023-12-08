@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you great at learning new software quickly? Do you have technical skills but like interacting with people? We have an open position that combines both people and software. Come join our team as a Premier Support Engineer!<br/><br/>Cargas is an employee-owned software company based in Lancaster, PA. We have a unique culture where transparency, teamwork, and collaboration aren’t just words on a page – they are central to how we do business every day. If you join our team as a Premier Software Engineer, you will get to work with our own proprietary software, Cargas Energy. You’ll be working with existing customers who already use our product every day. Your main objective in this role will be to help troubleshoot and configure the software to suit the customer’s needs as they evolve over time. You’ll work through a ticketing system to prioritize bug fixes and make recommendations for SQL server updates. As you resolve each request or bug, it will be important to communicate with the customer to let them know the status of the issue. Strong communication skills will be critical in this role!<br/><br/><strong>Key Job Responsibilities<br/><br/></strong><ul><li>Provide support for all technical queries from customers related to Cargas Energy as well as providing resolution for escalated issues</li><li>Own the customer experience and work to exceed their expectations</li><li>Handle critical customer concerns</li><li>Collaborate with less experienced colleagues using fundamental troubleshooting skills to isolate, analyze and provide resolution to customer issues of moderate to high complexity</li><li>Drive product change and improvement to make Cargas Energy the top tier energy platform</li><li>Be the Customer Success Team's ambassador to all internal groups and to help them be successful in their role<br/><br/></li></ul><strong>Competencies<br/><br/></strong><ul><li>Demonstrate experience supporting and solving complicated issues</li><li>Experience working in a swarming-based support environment</li><li>A deep knowledge of common practices in Cargas Energy</li><li>The ability to work with conflicting priorities by taking initiative and prioritizing accordingly</li><li>Good articulation skills including technical writing ability<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>A support enthusiast with strong troubleshooting skills and ability to navigate multiple product environments</li><li>A problem-solver and decision-maker who can easily guide customers through key moments of their experience</li><li>A dedicated teammate that can both follow and lead depending on the situation</li><li>A people persion - striving to build a strong rapport with customers</li><li>Ability to relate with customers in a genuine way that lets them know you care about their issues</li><li>A curious and results-oriented learner who can delve into existing or new products to learn them inside-out</li><li>Ability to "zoom out" of a problem, in order to ask the right questions and explain complicated issues in simple terms<br/><br/></li></ul><strong>Education/Experience<br/><br/></strong><ul><li>Bachelor's degree in computer science or related field; 5-9 years' experience in programming and/or software development; or equivalent combination of education and experience<br/><br/></li></ul><strong>Professional/Technical Knowledge - Required<br/><br/></strong><ul><li>Proficiency in Microsoft Office Suite software</li><li>Ability to learn Cargas and Dynamics GP/Intacct/CRM products</li><li>Advanced skills in database, software and web application design and programming</li><li>Knowledge of hardware (servers, tablets and related)</li><li>Strong skills in customer service, communication, mentoring and teaching</li><li>Attention to detail, organizational skills and ability to prioritize own work</li><li>Read, write, understand and speak English fluently</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Strategy/Planning and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

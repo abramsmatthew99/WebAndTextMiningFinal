@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Mach49 is the Growth Incubator for Global Businesses. <br/><br/></strong>Mach49 partners with global businesses to build their growth engines through venture building, venture investing, strategic partnering, and targeted M&amp;A. We are 100% focused on execution, helping our clients disrupt existing markets and create new ones to drive meaningful growth.<br/><br/>Our client is an $80B funded company that, together with Mach49, is developing a new venture called Pyxos. Pyxos has been designed to revolutionize how businesses approach privacy compliance by streamlining and automating compliance with intricate privacy laws such as GDPR and CCPA. Their AI-driven platform acts as an "AI Compliance Officer," interpreting and applying complex regulations to enable businesses to innovate freely with their data without risk.<br/><br/>Two fundamental truths will shape the next several decades of technology and human interactions:<br/><br/><ul><li>AI will change all consumption and creation, and there will be new medium &amp; fabric for every interaction.</li><li>But the adoption of AI won’t scale without the safe, free flow of data, and the key to unlocking this is to create automated compliance for businesses while protecting privacy for people.<br/><br/></li></ul>That's why Pyxos was created, the first data and compliance operating system that allows enterprises to treat consumer data transparently.<br/><br/>We're looking for an AI/ML Engineer to join their team of operators who collectively have decades of experience in data, privacy, and scaled systems, including executive roles at Meta, Cisco, and Microsoft, passionate about protecting consumer rights.<br/><br/><strong>This is a contract role to start with, with the possibility to convert into a permanent position within 3-6 months.<br/><br/></strong><strong>The role<br/><br/></strong>As the AI/ML Engineer for our client's revolutionary privacy compliance automation solution, you will design and develop the AI models, deployment pipelines, logging and monitoring systems for the AI models. In this role, you will be instrumental in shaping the AI capabilities that breathe life into our platform. The Pyxos platform utilizes AI to make data usage decisions, regulate access to personally identifiable information (PII), automate deletion requests and understand the unique data structures of our customers. As the custodian of the AI strategy, you will ensure that our AI capabilities not only comprehend privacy laws but also the unique data needs of our customers, making compliance effortless and efficient. More specifically, this role will design and develop ML, NLP, LLM, and GAI models and solutions while working with a broad range of partners across data, technology and business teams. Responsibilities include:<br/><br/><ul><li>Design, develop, and maintain AI/ML models with a focus on Generative AI and NLP</li><li>Collaborate with cross-functional teams to understand requirements and identify AI/ML solutions</li><li>Conduct research on the latest AI/ML technologies and algorithms, particularly in the fields of General AI and NLP</li><li>Implement and optimize algorithms for efficiency, scalability, and reliability</li><li>Analyze large datasets to identify patterns and insights</li><li>Develop data-driven strategies to improve model accuracy and performance</li><li>Participate in code reviews and ensure adherence to best practices</li><li>Document and present research findings and model methodologies</li><li>Stay updated with advances in AI/ML and NLP fields and apply this knowledge to improve existing systems<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Degree in Computer Science, Engineering, or a related field</li><li>Proven experience in AI/ML, with a strong focus on General AI and NLP</li><li>4+ years of professional hands-on experience leveraging large sets of structured and unstructured data to develop data-driven tactical and strategic analytics and insights using ML, NLP, computer vision solutions</li><li>Proficiency in programming languages such as Python, R, or Java</li><li>Experience with ML frameworks (e.g., TensorFlow, PyTorch) and NLP libraries (e.g., NLTK, spaCy)</li><li>Strong understanding of machine learning algorithms and statistical modeling techniques</li><li>Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) is a plus</li><li>Experience with tools for continuous integration and continuous delivery (CI/CD), such as Jenkins, GitLab CI, or CircleC</li><li>Containerization and Orchestration: Knowledge of Docker, Kubernetes, or similar technologies for containerization and orchestration</li><li>Data management skills in managing, processing, and storing large datasets</li><li>Experience with SQL and NoSQL databases, data lakes, and data warehousing technologies</li><li>Monitoring and Logging: Experience with monitoring and logging tools for ML models in production</li><li>Automation: Ability to automate and streamline ML workflows</li><li>Excellent problem-solving skills and ability to work in a team environment</li><li>Strong communication skills to effectively collaborate with technical and non-technical stakeholders</li><li>Experience working with privacy laws such as GDPR and CCPA would be advantageous<br/><br/></li></ul><strong>Our client is an Equal Employment Opportunity Employer. We’re helping them to build a diverse, inclusive, empathetic community where every one of us belongs. A place — not just a workplace — that reflects the people of all races, genders, sexual orientations, national origins, backgrounds, and perspectives who share our world.<br/><br/></strong><strong>Background and reference checks may be required by the client. Physical requirements include ability to communicate effectively in written and oral forms, to listen and hear and/or read on and through electronic devices for extended periods of time.<br/><br/></strong><strong>Authorization To Work Remotely From Within The US Required.<br/><br/></strong>#REMOTE<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

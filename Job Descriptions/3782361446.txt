@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Who We Are</p><p>EDO is a data, measurement, and analytics company that powers the success of marketing, research, and creative professionals. The company is an innovative leader in applying world-class data science and unique behavioral metrics to help its clients – advertisers, TV networks, and movie studios – generate greater value from their creative efforts and media investments. EDO’s core platform, Ad EnGage, brings the power of digital measurement to TV, providing comprehensive ad occurrence and effectiveness insights via real-time, always-on, and fully syndicated Search Engagement data.</p><p><br/></p><p>EDO has office spaces in Los Angeles, New York City, and San Francisco.</p><p><br/></p><p>We believe in in person collaboration and learning therefore we do require for hybrid roles for employees to come into the office (NYC) two days a week. We are also considering applicants who are located in the San Francisco area who can come into our SF office.</p><p><br/></p><p>What You Will Do</p><ul><li>Collaborate with our product teams to implement data exploration and visualization features in our client application</li><li>Scale our application, associated APIs, and backend processes related to our automated reporting tools</li><li>Work with our backend teams to integrate performance enhancements and new data into our platform</li><li>Work on a small team and take ownership of high-impact projects</li><li>Work in a fast-paced environment with continuous deployment and rapid product iteration</li><li>Understand how the futures of media, entertainment, and advertising are being defined by the innovative applications of technology and data</li><li>Direct impact on product growth at a nimble Series B-stage company.</li></ul><p><br/></p><p><strong>This is a hybrid position that requires at least 2 days a week in one of our offices (LA, SF, NYC)</strong></p><p><br/></p><p>What We Are Looking For</p><ul><li>BS / MS in Computer Science or a related technical field with 2-6 years of experience in a software engineering role.</li><li>A self-starter who is comfortable with ambiguity, and who desires to be part of a fast-growing, exciting, and nimble Series B-stage company.</li><li>Versatility, i.e., the ability and willingness to wear multiple hats and switch gears frequently.</li><li>Ability to build products quickly and efficiently</li><li>Strong understanding of software engineering practices and principles</li><li>Interpersonal and communication skills to work on a small team</li><li>Willingness to learn about our clients and their unique problems</li><li><strong>We believe that strong engineers can learn any stack, but we currently use:</strong></li><li>Front-end: React, Typescript, CSS</li><li>Backend: Ruby on Rails</li><li>Database: MySQL, Snowflake</li><li>Infrastructure: AWS</li><li><br/></li></ul><p><br/></p><p>Benefits</p><p>EDO offers a competitive compensation package. Components of compensation include:</p><ul><li>Mid-stage equity and competitive salary</li><li>Medical, dental and vision coverage, deeply discounted by EDO</li><li>401(k) plan</li><li>Employee meals, snacks, and more</li><li>Flexible time Off </li></ul><p><br/></p><p>The base salary range for this position is $100,000 to $170,000 PLUS equity in a mid-stage company. Compensation will be determined based on the skills, qualifications, experience and location of the applicant along with the requirements of the position, and the Company reserves the right to modify this pay range at any time.</p><p><br/></p><p>EDO is an Equal Opportunity Employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status, or any legally protected status. All your information will be kept confidential according to EEO guidelines.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Advertising Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

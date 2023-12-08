@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>This is what you'll do:<br/><br/><ul><li>Design and develop custom electronic test equipment to support end of line and validation testing of in-house built onboard chargers, DC-DC converters, inverters, and other power electronics equipment. </li><li>Design and develop functional test equipment for printed circuit board assemblies (PCBA). </li><li>Document test equipment designs via electrical wiring schematics such as AutoCAD electrical</li><li>Work closely with the engineering project teams to ensure test equipment designs align with the software and hardware requirements</li><li>Participate in design reviews, requirement reviews, DFMEAs, PFMEAs and Hazard Analyses</li><li>Develop test procedures defining specific test setup requirements and instructions</li><li>Perform data analysis and generate reports. </li><li>Support technical root cause analysis and resolution of issues found during testing</li><li>Utilize standard electronic test equipment such as power supplies, oscilloscopes, multimeters, signal generators and power analyzers</li><li>Use sensors such as thermocouples, RTDs, strain gauges, accelerometers, pressure gauges, and flow meters<br/><br/></li></ul>This is what you'll need:<br/><br/><ul><li>BS. in Electrical/Electronic Engineering, Computer Science, or a related field. </li><li>2+ years' experience designing or troubleshooting test equipment for high voltage power electronics or chargers. </li><li>Ability to create schematics using design software tools such as AutoCAD Electrical. </li><li>Familiarity with modular test instruments and National Instruments I/O Systems (PXI, cDAQ)</li><li>Knowledge of computer hardware, communication, and bus protocols (RS232, CAN, GPIB, Ethernet, USB). </li><li>Hands-on experience with diagnosing and troubleshooting complex electrical issues</li><li>Experience in scripting languages such as shell and bash highly prefered. </li><li>Ability to work in a fast-paced development environment. </li><li>Self-motivated: Demonstrated ability to set direction and guide the team towards it. </li><li>PCB design experience preferred</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

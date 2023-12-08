@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The D365 F&amp;O Functional Analyst assists with the configuration, management and evolution of the Dynamics 365 F&amp;O implementation at SPI. This individual acts as a technical leader to guide the creation and lifecycle of the system. They will spend time analyzing the workflows and efficiency of the system with various stakeholder groups within the organization. Requirements and recommendations for enhancements will be created and presented to senior management. The D365 F&amp;O Functional Analyst will also be responsible for working with third party vendors to develop, integrate and deploy new features into our instance of Dynamics.<br/><br/><strong>Duties and Responsibilities:<br/><br/></strong><ul><li>Collaborate with business stakeholders to gather and analyze business requirements</li><li>Work independently and with team members to develop and configure the D365 F&amp;O system, including customizing entities, developing plug-ins, developing workflows, and security configurations</li><li>Design and develop customizations to meet the requirements specified in functional requirement documents</li><li>Collaborate with business stakeholders, analysts, and other programmers to identify, analyze, and troubleshoot technical issues related to the Dynamics environment</li><li>Develop and execute test plans to ensure that the configured system meets the specified functional requirements. This involves both unit testing and working with end-users for user acceptance testing</li><li>Provide training to end-users on how to use the D365 F&amp;O system effectively which would include creating documentation and conducting training sessions</li><li>Continuously identify opportunities for improving business processes and suggest enhancements to the D365 F&amp;O system </li><li>Customization will include a heavy emphasis on the Operations and MRP components of D365 F&amp;O<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree in Engineering, Computer Science or Information Technology or equivalent years of experience in a related field</li><li>5-8 years of experience working with Dynamics 365 in a functional capacity</li><li>5+ years of experience defining business solutions and setting up operations parameters and workflows in Microsoft Dynamics (F&amp;O preferred)</li><li>3+ years of experience in configuring and managing the Operations aspects of Dynamics including MRP</li><li>3+ years of experience setting up custom reports in Microsoft Dynamics and the Power Platform</li><li>Experience in communicating and collaborating with both technical and non-technical stakeholders</li><li>Understanding of project management principles and the ability to manage tasks related to D365 F&amp;O implementation projects</li><li>Ability to work collaboratively with cross-functional teams, including developers, technical analysts, and business stakeholders</li><li>Experience in creating training materials and conducting end-user training sessions<br/><br/></li></ul><strong>Benefits<br/><br/></strong>The starting pay range for this position is $110,000 to $130,000 pe year however, base pay offered may vary depending on skills, experience, job-related knowledge and location.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

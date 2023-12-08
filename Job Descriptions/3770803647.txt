@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>THIS POSITION REQUIRES WORKING WITH GOVERNMENT/SENSITIVE DATA THAT REQUIRES US CITIZENSHIP. ONLY US PERSONS WILL BE CONSIDERED.<br/><br/></strong><strong>About The Role<br/><br/></strong>If working in a variety of technologies and on a variety of projects is something that excites you, then Collinear Group is a good home. Our clients are all different in their needs and where they are in the software development lifecycle. Some have an idea but not a single line of code; some have a mid-flight project that requires new features; others have a mature product requiring modernization.<br/><br/><strong>Who You Are<br/><br/></strong>You are a senior software engineer who leverages architecture and design patterns to solve complex problems. You can set technical direction for projects and mentor less-experienced developers on the team. You are technology agnostic and able to apply the correct technology stack to meet the challenge at hand. You possess strong analytical skills, enabling you to dissect complex problems and devise elegant, efficient, and scalable solutions. In addition to your technical prowess, you excel in collaborative settings, communicating complex technical concepts effectively to stakeholders.<br/><br/><strong>Who We Are<br/><br/></strong>From strategic to tactical, Collinear Group offers a wide range of consulting and professional services. We bring intelligence and technology to challenges unique to highly regulated industries, helping engineers, manufacturers, and operators reach new heights. Our vision is simple — a seamless aerospace industry that delivers the right information at the right time.<br/><br/><strong>Requirements<br/><br/></strong><strong>What You'll Need:<br/><br/></strong><ul><li>At least 5 years of software development experience, focusing on NodeJS development</li><li>Demonstrable expertise in modern NodeJS frameworks such as Express, NestJS, or similar frameworks</li><li>At least five years of experience refactoring existing NodeJS applications from callbacks and promises chains to async/await style code</li><li>Some experience working with popular front-end frameworks such as AngularJS, ReactJS, and other related technologies<br/><br/></li></ul><strong>Nice to Have:<br/><br/></strong><ul><li>Background in aerospace with experience in a regulated environment preferred</li><li>Ability to work on-site within the Seattle-Tacoma metropolitan area</li><li>Formal training in computer science, web development, or related field preferred</li><li>Proficient in working with Linux-based operating systems such as Ubuntu, CentOS, and other related distributions<br/><br/></li></ul><strong>Benefits<br/><br/></strong><strong>Why Collinear?<br/><br/></strong>Join a highly talented community of like-minded peers practiced at accomplishing big goals. Work on high-impact projects to transform aerospace while developing new skills, insights, connections, and experience.<br/><br/>For this position, Collinear offers a salary range of $140,000 to $163,000 (DOE) with bonus and profit sharing programs, health insurance, HSA contributions, a 401(k) program with company contributions, nine paid holidays, 15 days of PTO accrued per year, non-prescribed amount of sick leave, flexible schedules and remote working capabilities, and multiple company-sponsored employee events - all in support of creating an employee-focused company.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

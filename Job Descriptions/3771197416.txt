@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Title: C++ Developer / Quant Developer </p><p>Cop Title: Associate</p><p>Permanent - Full Time Role Only</p><p>Location: Hybrid in New York City (2-3 Days a week in office). <strong>FULLY REMOTE IS NOT AN OPTION</strong></p><p><br/></p><p>*The pay range for this position at commencement of employment is expected to be between $120,000 and $130,000 year*</p><p><br/></p><p><u>Company Overview</u></p><p>Nomura is a global financial services group with an integrated network spanning over 30 countries and regions. By connecting markets East &amp; West, Nomura services the needs of individuals, institutions, corporates and governments through its three business divisions: Retail, Wholesale (Global Markets and Investment Banking), and Investment Management. Founded in 1925, the firm is built on a tradition of disciplined entrepreneurship, serving clients with creative solutions and considered thought leadership. For further information about Nomura, visit www.nomura.com.</p><p><br/></p><p>Aon’s Benefit Index®, Nomura’s benefits rank #1 amongst our competitors</p><p><br/></p><p><u>Team Overview:</u></p><p>The Technology group leverages state of the art information technology and risk management systems. We are developing new applications to implement truly cutting-edge standards and always staying at the forefront of technology and its applications for clients, partners, regulators and suppliers.</p><p><br/></p><p>The Securitized Products Technology team focuses on supporting our clients with leading class analytics and trading systems. We work closely with the product desks (pass-throughs, CMOs etc.) and other internal clients to deliver great solutions</p><p><br/></p><p><br/></p><p>Securitized Products Technology is looking for a C++ developer to help build and enhance our next generation securitized products analytics and research platform. The ideal candidates will be clear, organized thinkers who are able to communicate well within the team and with our business clients. Most importantly, they will be enthusiastic about building excellent software that makes a direct impact on the bottom line of the business we support.</p><p><br/></p><ul><li>Working closely with quants to integrate new models into the analytics platform.</li><li>Support and enhance our next generation data and analytics platforms for the Securitized Products Trading business, as well as Quants and Research.</li></ul><p><br/></p><p><br/></p><p><u>Minimum Qualifications:</u></p><ul><li>Strong C++ skills (must have).</li><li>In depth understanding of MBS analytics and in particular prepayment and default models.</li><li>Experienced in building or working on large scale distributed systems.</li><li>Strong written and verbal communication skills.</li><li>Must have good interpersonal skills and a team player.</li><li>Understands and uses best-practice software engineering skills.</li><li>Advanced degree in Computer Science, Engineering or Finance</li></ul><p><br/></p><p><br/></p><p><u> Preferred Skills:</u></p><ul><li>Database skills, SQL and one or more of Oracle, Sybase, Sybase-IQ, DB2 on Linux and Windows.</li><li>Understands the nuts and bolts of software release and deployment for distributed computing systems</li></ul><p><br/></p><p><br/></p><p>*Base pay offered may vary depending on multiple individualized factors, including market location, corporate and functional title and duties, job-related knowledge and advanced degrees, skills, and experience. If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors”.</p><p><br/></p><p><em> Nomura is an Equal Opportunity Employer</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Finance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Capital Markets, and Investment Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

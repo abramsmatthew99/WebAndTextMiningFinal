@@ -1,0 +1,35 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<br/><br/><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree in Computer Science, Software Engineering or a related field</li><li>10+ years of experience developing Android applications (Kotlin, Java)</li><li>Efficient with Android SDK, different versions of Android, and dealing with screen resolutions</li><li>In-depth knowledge of mobile design patterns and UI/UX best practices</li><li>Experience in integrating third-party libraries and APIs</li><li>Experience in testing applications on Android using unit and automation testing frameworks (JUnit, Espresso)</li><li>Experience in documenting technical and design specifications</li><li>Ability to work independently, while collaborating with cross-functional teams</li><li>Strong problem solving and communication skills</li><li>Experience in finance or healthcare industries is a plus</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

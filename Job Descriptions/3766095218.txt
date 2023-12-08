@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Position Purpose: </strong></p><p>Under direct supervision of the Director of Information Security, primary responsibilities will include IT Security and IT Admin and functions. The Information Security Administrator maintains elements of the company’s security program including networks, endpoints, applications, and data.</p><p><br/></p><p>Duties will involve actively monitoring and responding to information security events, auditing systems to verify functionality, and completing projects to implement new security tools and controls. In addition, the Security Administrator will perform IT functions related to network management, software support, email support, and identity management.</p><p><br/></p><p><strong>Essential Functions: </strong></p><ul><li>Monitor and respond to security events</li><li>Completes projects related to cyber protection and enterprise systems</li><li>Researches, documents and presents unresolved or suspected security exposures, misuse or noncompliance situations to management</li><li>Investigate and perform root cause analysis of issues including but not limited to: malware infections, data leakage, internal/external network abuse, email viruses, phishing attempts, IPS/IDS alerts</li><li>Performs audits on patch management, privileged access, endpoint detection and response, network devices, wired/wireless access, and user access</li><li>Establish and monitor protection levels against end user threats as it relates to servers, desktops, laptops, and mobile devices</li><li>Maintain and support internal/external vulnerability management program</li><li>Manage and support Information Security Awareness training program. Coordinate security training and phish testing for end users</li><li>Assists with projects or other duties as assigned</li></ul><p><br/></p><p><strong>Additional Responsibilities:</strong></p><ul><li>Support all network, internet, &amp; firewall systems</li><li>Support end users with software and email issues</li><li>Support On-premise and Azure Active Directory environment</li><li>Stay up-to-date on information technology trends and security standards</li></ul><p><strong> </strong></p><p><strong>Education and Training</strong></p><ul><li>Bachelor’s Degree in Computer Information Security, Computer Science, or Information Systems.</li><li>ISC², GIAC, ISACA, SANS, CompTIA, Offensive Security, or CISSP security certification is preferred</li></ul><p><br/></p><p><strong>Minimum Qualifications</strong></p><ul><li>1-3+ years of experience in Information Security in the following areas: security operations, incident analysis, incident handling, and vulnerability management or testing, system patching, log analysis, intrusion detection. Security device administration is a plus</li><li>Information Security knowledge and/or experience, including familiarity with security architecture, security policies and procedures, and best practices</li><li>Knowledge of application, system, and network security attacks and mitigation techniques</li><li>Strong Microsoft Office skills (Word, Excel and PowerPoint)</li><li>Understanding of networking concepts, firewalls, web proxies, SIEM, email, and vulnerability management concepts</li><li>Understanding of patch management with the ability to deploy patches in a timely manner while understanding business impact</li><li>Knowledge of the current IT threat landscape and emerging trends in cyber security</li><li>Up to 25% travel required</li></ul><p><br/></p><p><strong>Physical Demands</strong></p><ul><li>Lift up to 50 lbs</li></ul><p><br/></p><p><strong>Behavioral Traits</strong></p><ul><li>Advanced oral and written communication skills</li><li>Must be self-motivated with the ability to work with minimal supervision</li><li>Strong analytical and problem solving skills</li><li>Ability to work with all levels of users and management within an organization</li><li>Ability to juggle the needs of changing priorities of the business</li></ul><p><br/></p><p>Boler is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Manufacturing, Information Technology, and Customer Service
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing, Industrial Machinery Manufacturing, and Truck Transportation
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description:</strong>Performs assignments in Software Engineering during summer from college attendance while enrolled in an accredited degree program<br/><br/><strong>Basic Qualifications<br/><br/></strong>Enrolled in an accredited degree program in an computer science, computer engineering, electrical engineering, information technology, or related fields<br/><br/>Experience with Java<br/><br/>Must be a US Citizen; this position will require a government security clearance. This position is located at a facility that requires special access<br/><br/><strong>Clearance Level: </strong>TS/SCI w/Poly SP<br/><br/><strong>Other Important Information You Should Know<br/><br/></strong><strong>Expression of Interest: </strong>By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.<br/><br/><strong>Ability to Work Remotely: </strong>Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.<br/><br/><strong>Work Schedules: </strong>Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.<br/><br/><strong>Schedule for this Position: </strong>Part-Time as assigned by leader<br/><br/><strong>Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.<br/><br/></strong>Join us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.<br/><br/>As a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.<br/><br/><strong>Experience Level: </strong>Co-op/Summer Intern<br/><br/><strong>Business Unit: </strong>RMS<br/><br/><strong>Relocation Available: </strong>Possible<br/><br/><strong>Career Area: </strong>Cyber Security Engineering<br/><br/><strong>Type: </strong>Part-Time<br/><br/><strong>Shift: </strong>First
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

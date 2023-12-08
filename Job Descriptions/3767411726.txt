@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Atos<br/><br/></strong>Atos is a global leader in digital transformation with 107,000 employees and annual revenue of over € 11 billion. European number one in cybersecurity, cloud and high performance computing, the Group provides tailored end-to-end solutions for all industries in 71 countries. A pioneer in decarbonization services and products, Atos is committed to a secure and decarbonized digital for its clients. Atos is a SE (Societas Europaea), listed on Euronext Paris and included in the CAC 40 ESG and Next 20 Paris Stock indexes.<br/><br/>The purpose of Atos is to help design the future of the information space. Its expertise and services support the development of knowledge, education, and research in a multicultural approach and contribute to the development of scientific and technological excellence. Across the world, the Group enables its customers and employees, and members of societies at large to live, work and develop sustainably, in a safe and secure information space.<br/><br/>Consultant (Multiple Positions Available)<br/><br/>Drive projects during all phases of Software Development Life Cycle (SDLC) in different domains.<br/><br/>Conduct impact analysis of requirements by analyzing BRDs (Business Requirements Document), prepare System Requirements (SR) by evaluating technical feasibility. Conduct Technical Impact Assessments (TIA), technical High-Level Design (HLD) and Low-Level Design (LLD) documents.<br/><br/>Design and develop highly available and scalable multi-tier enterprise applications.<br/><br/>Design and implement new functionality and ensure high reliability, availability, and performance of the applications.<br/><br/>Perform coding and designing solutions as per BRDs. Deploy technical code components for application project go-live in UAT and production environments.<br/><br/>Plan and define testing strategies and perform Unit testing for code changes. Review and obtain alignment/sign-off on drafted testing scenarios, test cases, and sample data for testing the application solution models and code.<br/><br/>Track all project related questions and defect tracker for maintaining all defects raised in SIT (System Integration Testing) /UAT phases, which are used for defect prevention (DP) analysis.<br/><br/>Debug, troubleshoot, and resolve non-routine and multifaceted mission-critical production issues that immediately impact application availability.<br/><br/>Work with the development team on permanent defect resolution and ensure SLA (Service Level Agreement) are in compliance with project code functionality.<br/><br/>Review project vision documents with business stakeholders, architects, testers, User Acceptance Testing (UAT) teams to draft BRD for technical teams to define and develop IT architecture strategies and roadmaps.<br/><br/>Map processes to holistically examine business flow and identify improvement opportunities.<br/><br/>May be assigned to and provide products/support to specific industry groups such as automotive, banking and finance, healthcare, insurance, and Information Technology.<br/><br/>REQUIREMENTS Bachelor’s degree in Computer Science, Information Technology, Engineering (any), or related. Five (5) years of any occupation with Information Technology experience, or related.<br/><br/>Five (5) years of required IT, or related experience must include Software Development Life Cycle (SDLC); Oracle; Eclipse; Version Control Systems such as Git, SVN; Maven; and Jenkins.<br/><br/>Reports to company headquarters in Plano, TX. Will work at various unknown client sites throughout the U.S. for up to 100% of the time. Must be willing to travel anywhere in the U.S. and may be assigned to work at client sites across the U.S. Can work remotely or telecommute.<br/><br/>EOE. 8AM to 5PM. M-F. 40. hrs/wk. Salary $139,464 – $140,464.<br/><br/>Apply https //atos.net/en/careers. Job ID OGL300.<br/><br/>Here at Atos, we want all of our employees to feel valued, appreciated, and free to be who they are at work. Our employee lifecycle processes are designed to prevent discrimination against our people regardless of gender identity or expression, sexual orientation, religion, ethnicity, age, neurodiversity, disability status, citizenship, or any other aspect which makes them unique. Across the globe, we have created a variety of programs to embed our Atos culture of inclusivity, and work hard to ensure that all of our employees have an equal opportunity to contribute and feel that they are exactly where they belong.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting, Information Technology, and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

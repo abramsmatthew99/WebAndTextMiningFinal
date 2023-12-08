@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Please find the general job details below:</strong></p><p><br/></p><ul><li><strong> Role :</strong> <strong>Junior Java Developer</strong></li><li><strong>Compensation : $75,000 - $95,000(Negotiable) </strong></li><li><strong>Job Type :</strong> <strong>Full time (Remote)</strong></li><li><strong>Visa Status : CPT-40, OPT, H1-B, H4-EAD, CITIZEN, GC, etc. </strong></li><li><strong>Location: Philadelphia, Pennsylvania, United States</strong></li></ul><p><br/></p><p><strong>Roles and responsibilities:</strong></p><p><br/></p><ul><li>Develop technical prototypes and assist in the creation of software documentation including requirements, design, and user manuals.</li><li>Understand and apply software design patterns.</li><li>Collaborate with team members to find better, more efficient ways of doing things.</li><li>Develop software solutions for business problems by using the latest tools, such as Microsoft .NET, Java, and open-source technologies.</li><li>Develop database, ETL, and reporting solutions by leveraging the latest database technologies.</li><li>Participate in peer-led engineering and code reviews.</li><li>Develop an understanding of the benefits of quality assurance within enterprise software applications.</li><li>Assist in the development and execution of test cases and system test plans.</li></ul><p><strong>Required qualifications:</strong></p><ul><li>A Master's degree in a relevant field (i.e.: Computer Science, Computer Engineering or a similar major with extensive computer-based or technical content)</li><li>Experience with Java, C++, J2EE, C# and/or .Net development</li><li>The ability to learn and understand new technologies quickly</li><li>A great attitude and desire for learning</li><li>Excellent problem solving, written and verbal communication skills</li><li>Flexibility and ability to deal with ambiguity</li><li>Ability to work within a team environment</li><li>Ability to work in the U.S. permanently</li></ul><p><br/></p><p><strong><u>Other Benefits</u></strong><u>:</u></p><ul><li>Health Care Plan (Medical, Dental &amp; Vision).</li><li>Visa Sponsorship</li><li>On Job Technical support</li><li>E- verified</li><li>2 weeks of Paid Time Off (Vacation or Sick).</li><li>Training &amp; Development.</li><li>Wellness Resources</li></ul><p><br/></p><p><br/></p><p><strong><em>***Freshers can also apply***</em></strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Grade 104<br/><br/><ul><li>Job Type: Officer of Administration</li><li>Bargaining Unit:</li><li>Regular/Temporary: Regular</li><li>End Date if Temporary:</li><li>Hours Per Week: 35</li><li>Standard Work Schedule:</li><li>Building:</li><li>Salary Range: $65,000 - $85,000<br/><br/></li></ul><em>The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting.<br/><br/></em>Position Summary<br/><br/>The Clinical Database Analyst will maintain data storage; assess database design; and gather, organize, and interpret information based on the clinical data in the database. The analyst will also support the regulatory requirements for multiple government- and industry-funded research studies.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Gathers, organizes, and interprets data from the database to provide reports to, and answer questions from, upper management (40%).</li><li>Oversees database development and modiﬁcation eﬀorts (10%).</li><li>Designs and implements secure, eﬃcient, and accurate databases (10%).</li><li>Maintains current and accurate knowledge of data storage and management best practices (10%).</li><li>Develops and maintains documentation, standards, and regulatory compliance (10%).</li><li>Ensures that databases are designed to meet speciﬁcations and requirements (5%).</li><li>Ensures that database projects are completed on time (5%).</li><li>Assists Manager and identiﬁes and resolves production and/or applications development problems related to the use of the database management system software or utilities (5%).</li><li>Performs other related duties as assigned (5%).<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>Requires a bachelor's degree or equivalent in education and experience, plus three years of related experience.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Bachelors degree in Business Administration, Statistics, Mathematics, Accounting, or Computer Science or equivalent work experience required</li><li>Excellent verbal and written communication skills.</li><li>Proﬁcient in Microsoft Oﬃce Suite or related software.</li><li>Excellent organizational skills and attention to detail.</li><li>Understanding of computer languages used within databases.</li><li>Understanding of database design and construction.<br/><br/></li></ul>Equal Opportunity Employer / Disability / Veteran<br/><br/>Columbia University is committed to the hiring of qualified local residents.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

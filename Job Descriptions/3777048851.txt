@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<ul><li>Top Tier Consumer Goods Firms |Seeks a Data Scientist <br/><br/><br/></li></ul><strong>About Our Client<br/><br/></strong>Leading consumer goods company that takes pride in delivering high-quality and innovative products to consumers worldwide.<br/><br/><strong>Job Description<br/><br/></strong>The Data Scientist will report into the Head of Analytics and play a crucial function to the organization. The Data Scientist will work closely with cross-functional teams to analyze complex data sets, develop predictive models, and provide actionable recommendations that contribute to the success of products and overall business strategy.<br/><br/><ul><li>Analyze large datasets to identify trends, patterns, and insights that inform business strategy.</li><li>Develop predictive models and machine learning algorithms to optimize various aspects of our business, such as demand forecasting, inventory management, and customer behavior.</li><li>Focus on solving real problems such as demand forecast, price and promotion optimization, assortment recommendation.</li><li>Conduct statistical analyses to validate hypotheses and draw meaningful conclusions from data.</li><li>Collaborate with teams to design and implement A/B testing for product and marketing initiatives.</li><li>Create compelling visualizations to communicate complex findings to both technical and non-technical stakeholders.</li><li>Design dashboards and reports that provide actionable insights for different business units.<br/><br/></li></ul><em>MPI does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, veteran status, marital status, or based on an individual's status in any group or class protected by applicable federal, state or local law. MPI encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants.<br/><br/></em><strong>The Successful Applicant<br/><br/></strong><ul><li>Bachelor or Master's. in a relevant field such as Statistics, Mathematics, Computer Science, or related discipline.</li><li>Proven experience working as a Data Scientist in a consumer goods or related industry.</li><li>Strong proficiency in programming languages such as Python or R.</li><li>Expertise in machine learning techniques, statistical analysis, and data manipulation.</li><li>Experience with data visualization tools, such as Tableau or Power BI.</li><li>Excellent communication skills with the ability to translate complex findings into actionable insights.<br/><br/></li></ul><strong>What's on Offer<br/><br/></strong><ul><li>Competitive salary</li><li>Health and wellness programs</li><li>Opportunities for professional development<br/><br/><br/></li></ul><strong>Contact: Elizabeth Coughlan<br/><br/></strong><strong>Quote job ref: JN-122023-6271763</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Personal Care Product Manufacturing, Retail Groceries, and Food and Beverage Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

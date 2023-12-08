@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Established 40 years ago, we are a leading non-profit hospice organization committed to providing specialized care, comfort, and support to individuals facing terminal illnesses. Our mission is rooted in compassion, and we focus on enhancing the quality of life for both patients and their caregivers.<br/><br/>Job Opportunity: Information Technology Manager<br/><br/><strong>Essential Duties And Responsibilities<br/><br/></strong>In this role, you will play a vital part in managing and enhancing our information technology systems. Reporting to the Vice President of Projects, your responsibilities will include:<br/><br/>System Management: Oversee the deployment, maintenance, development, and support of all IT systems, including servers, PCs, operating systems, mobile devices, hardware, software, and peripherals.<br/><br/>Data Management: Create custom reports on a large database system, ensuring accuracy and relevance.<br/><br/>Security Oversight: Act as the organization's Security Officer, maintaining and updating processes to track access to protected health information (PHI) in compliance with HIPAA.<br/><br/>Cybersecurity and Compliance: Brief senior management on cybersecurity matters and compliance, staying abreast of industry best practices.<br/><br/>Firewall Administration: Perform firewall administration and monitoring, adjusting rules and maintaining security policies for external user access.<br/><br/>Technical Support: Troubleshoot and resolve issues with computer hardware and software promptly.<br/><br/><strong>Qualifications<br/><br/></strong>Education and Experience:<br/><br/>Bachelor's Degree in Information Technology, Computer Science, Engineering, or related field preferred.<br/><br/>Minimum five to seven years in networking, large-scale server environments, or a closely related technology field.<br/><br/><strong>Other<br/><br/></strong>Proficiency in Windows operating systems.<br/><br/>Strong communication skills, able to follow written and oral instructions.<br/><br/>Valid driver's license and maintenance of required vehicle insurance.<br/><br/><strong>Benefits<br/><br/></strong>Competitive Salary<br/><br/>Medical/Dental/Vision Benefits<br/><br/>Company Paid Life and Long-Term Disability Insurance<br/><br/>Employer Match 403(b)<br/><br/>Paid Holidays<br/><br/>Generous Vacation and Sick Leave<br/><br/><strong>How To Apply<br/><br/></strong>If you meet the minimum qualifications and are passionate about making a difference, we invite you to apply today! Immediate hiring for this position.<br/><br/>We are an equal opportunity employer and are committed to maintaining a workplace free of discrimination or harassment in accordance with applicable laws.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

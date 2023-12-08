@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>**W2 REQUIRED-Sponsorship is not available**</strong></p><p><br/></p><p>In this role the <strong>Data Analyst</strong> is responsible for collecting, processing, and analyzing large sets of data to extract meaningful insights and support informed decision-making within an organization. Their key responsibilities include exploring and interpreting data, designing and generating reports and visualizations, ensuring data quality and accuracy, and collaborating with various teams to address analytical needs. Data Analysts use statistical methods and programming languages to perform analyses, identify trends and patterns, and communicate findings through clear presentations. They play a crucial role in transforming raw data into actionable information that contributes to business strategy and operational efficiency.</p><p><br/></p><p><strong>Responsibilities:</strong></p><p>· Apply advanced statistical and machine learning techniques to extract valuable insights from large datasets.</p><p>· Collaborate with cross-functional teams to understand business needs and develop data-driven solutions.</p><p>· Build and deploy predictive models to enhance decision-making processes.</p><p>· Design, develop, and maintain robust data pipelines for efficient data extraction, transformation, and loading (ETL).</p><p>· Optimize and scale existing data infrastructure to support evolving business requirements.</p><p>· Collaborate with stakeholders to ensure data accuracy, availability, and security.</p><p><br/></p><p><strong>Position Qualifications:</strong></p><p>· Bachelor’s/Master’s degree in Computer Science, Statistics, or a related field.</p><p>· Proven experience in data science, machine learning, and statistical analysis (for Data Scientist role).</p><p>· Strong proficiency in programming languages such as Python, R, or Java.</p><p>· Experience with data engineering tools and technologies (e.g., Apache Spark, Hadoop, SQL).</p><p>· Familiarity with cloud platforms (AWS, Azure, GCP) is a plus.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

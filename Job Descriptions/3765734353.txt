@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Work options:</strong> Remote<br/><br/><strong>Title</strong>: Technical Program Manager<br/><br/><strong>Location</strong>: Remote, US<br/><br/><strong>Duration:</strong> 1 Year Contract<br/><br/>Become a Part of the NIKE, Inc. Team<br/><br/>NIKE, Inc. does more than outfit the world's best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At Nike, it’s about each person bringing skills and passion to a challenging and constantly evolving game.<br/><br/><strong>What You Will Do<br/><br/></strong>The candidate will serve as a Technical Product Manager, in the Global Workforce Manager Platform upgrade to UKG Dimensions. With a strong technical knowledge experience on WFM systems, this candidate will help participate and provide inputs in Technical Design Session, testing, user adoptions, should be able to articulate Enterprise impacts such as HCM payroll etc.<br/><br/>As a TPM, the candidate will help identify WFM Platform Capabilities which will serve as Products. Candidate will help build Features, Epics, Stories, Product roadmaps.<br/><br/><strong>Practical And Working Experience On The Below Three Capabilities<br/><br/></strong><ul><li>UKG Dimensions Timekeeping Hourly</li><li>UKG Dimensions Timekeeping Salaried</li><li>UKG Absence<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li>Employer will accept a Bachelor’s degree in Computer Science, Electronics Engineering, Business Administration, or Engineering and 8 years of progressive post-baccalaureate experience in the job offered or in a technical-related position.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Product Management and Marketing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

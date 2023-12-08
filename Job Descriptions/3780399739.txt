@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong>Job Overview<br/><br/></strong>This position is responsible for overseeing the technical infrastructure, eliminating security risks, and determining business requirements while leading a team of IT professionals.<br/><br/>The IT Director will report directly to the Executive Director.<br/><br/><strong>Essential Functions<br/><br/></strong><ul><li>Leads development and implementation processes for the organization’s IT systems and department. </li><li>Identifies and eliminates security vulnerabilities with strategic solutions that increase data security. </li><li>Analyzes business requirements of IT needs and systems. </li><li>Manages configurations between offices such as VPN connections, firewall troubleshooting, WAN traffic, etc. </li><li>Coordinates the support of new network equipment including hardware replacement and hardware failures.</li><li>Coordinate SharePoint cloud migration. </li><li>Oversee and manages new office setup and new employee setup </li><li>Performs and oversees software installation and upgrades; maintains licenses for department and organization.</li><li>Evaluate and recommends purchases of all Technology for the entire organization.</li><li>Leads contracting, and negotiations related to IT</li><li>Creates processes and standards for selection, implementation, and support systems</li><li>Leads contracting, and negotiations related to IT</li><li>Ensure smooth delivery and operation of IT services by monitoring systems performance </li><li>Oversees project management and development of applications</li><li>Perform other duties assigned. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Qualifications/Experience<br/><br/></strong><ul><li>Bachelor’s degree in information technology, Computer Science, Information Systems or a related Field. </li><li>Minimum six years of experience working in IT operations and leading IT teams. </li><li>Strong background in cybersecurity </li><li>Experience in regulations and compliance</li><li>Excellent verbal and written communication skills </li><li>Proficient in the latest technology for IT systems and management (VOIP, Mobile, SaaS, Cloud, etc).</li><li>Experience with network protocols, security, and management. </li><li> Experienced with: </li><li> ISP configuration or change or public IP</li><li> How to overcome DNS issues</li><li> DHCP troubleshooting</li><li> Configuration, upgrades, and support of switches, and router upgrades to new operating systems or user interface</li><li> Migration of current user profiles to Intune (Azure-Cloud)</li><li> Travel is required.<br/><br/></li></ul><strong>Working conditions<br/><br/></strong>This position operates in a professional work environment.<br/><br/><strong>Physical Requirements<br/><br/></strong><ul><li>This is a largely sedentary role, however, some lifting of office supplies of up to 50 pounds may be required.</li><li>Must be able to travel throughout Florida, as needed.<br/><br/></li></ul><strong>Reports<br/><br/></strong><ul><li>All IT staff.<br/><br/></li></ul><strong>EEOC Statement<br/><br/></strong>Florida Rural Legal Services, Inc., does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other characteristic protected by federal, state of local law.<br/><br/>The IT Director of Florida Rural Legal Services, Inc. is not subject to the FRLS collective bargaining agreement.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Mobile Gaming Apps
+          </span>
+</li>
+</ul>
+</div>
+</section>

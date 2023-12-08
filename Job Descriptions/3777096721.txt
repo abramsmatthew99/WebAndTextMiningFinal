@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>ECP is a market-leading SaaS solution that enables senior living communities to better care for their residents. ECP is used in over 6,500 communities around the world. We're looking to further expand by increasing the number of customers that use our software and increasing the scope of how we serve our customers by developing and releasing new products.</p><p>Senior living is deeply under-penetrated with software, and ECP is one of the industry's largest and fastest-growing software companies. Our mission is to build world-class software that improves the quality of life for seniors and improves clinical, business, compliance, and operational performance for our customers.</p><p>The QA Lead role is essential to our company's product development and release process. We are looking for someone thorough and observant, with an eye for detail. They must fully understand the requirements for the product or service and take overall ownership for ensuring that we're delivering high-quality and bug-free software that truly meets the needs of our customers and other stakeholders. The goal is to help preserve our reputation by ensuring that our products and services can drive sustainable growth.</p><p>We want to meet you if you enjoy leading a team, identifying bugs, and improving quality processes across software solutions. While our preference would be a candidate in the Milwaukee area, or driving distance, available for occasional in-person team activities, we're open to fully remote candidates.</p><ul><li>Lead the QA team on quality metrics and testing strategies for assigned projects, explaining each team member's role and overseeing their work</li><li>Understand customer needs and requirements to develop effective quality control processes</li><li>Devise and review specifications for products or processes</li><li>Create detailed, comprehensive, and well-structured test plans and test cases</li><li>Design, develop, and execute automated tests using Selenium and other testing tools</li><li>Define testing standards and strategies, establish formal QA processes, and establish and track metrics</li><li>Review requirements, specifications, and technical design documents to provide timely and meaningful feedback</li><li>Identify, record, and document bugs in Jira and Xray</li><li>Collaborate with development and product teams to ensure timely releases of quality software</li><li>Manage development triage process for product bugs entered by the support team</li><li>Monitor debugging process results</li><li>Investigate the causes of non-conforming software and train users to implement solutions</li><li>Stay up-to-date with new testing tools and test strategies, including suggesting tools for improving and upgrading automation capability</li><li>Ensure the team is following compliance and security best practices, specifically, adhering to HIPAA regulations</li><li>Be a driver for a "QA-first" mindset across the organization</li> <br/><br/></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in Computer Science or related field preferred</li><li>5+ years of experience in software testing and quality assurance</li><li>Experience leading a QA team</li><li>Strong knowledge of manual testing methodologies and automation testing tools (e.g. Selenium)</li><li>Experience in writing clear, concise, and comprehensive test plans and test cases</li><li>Hands-on experience with both white box and black box testing</li><li>Experience working in an Agile/Scrum development process</li><li>Experience with performance and/or security testing is a plus</li><li>Experience mentoring or training team members required</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

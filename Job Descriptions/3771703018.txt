@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>At Ford Motor Company, we believe freedom of movement drives human progress. We also believe in providing you with the freedom to define and realize your dreams. With our incredible plans for the future of mobility, we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrow’s transportation.<br/><br/>Creating the future of smart mobility requires the highly intelligent use of data, metrics, and analytics. That’s where you can make an impact as part of our Global Data Insight &amp; Analytics team. We are the trusted advisers that enable Ford to clearly see business conditions, customer needs, and the competitive landscape. With our support, key decision-makers can act in meaningful, positive ways. Join us and use your data expertise and analytical skills to drive evidence-based, timely decision-making.<br/><br/>Operations Analytics (OA) is a product group that develops on-premises and cloud analytic solutions. This Software Engineer position is ideal for the technically oriented individual who has experience designing, building, deploying, and supporting cloud applications and is interested in working with a portfolio of strategic analytic solutions.<br/><br/>In this role, you will collaborate with multiple organizations (Business Customers, Product Owners, Data Tech, IT) to convert business goals into analytic solutions. This role will work in small, cross-functional teams and embrace lean and agile practices, software best practices, software quality scanning, automated testing, and CI/CD.<br/><br/><strong>Responsibilities<br/><br/></strong><strong>What you’ll be able to do</strong>:<br/><br/>The Software Engineer will work on a Balanced Product Team and collaborate with the Product Manager, Product Designer, and other Software Engineers to deliver analytic solutions. The Software Engineer will be responsible for the development and ongoing support/maintenance of the analytic solutions.<br/><br/><ul><li>Product And Requirements Management: Participate in and/or lead the development of requirements, features, user stories, use cases, and test cases. Participate in stand-up operations meetings.</li><li>Author: Process and Design Documents</li><li>Design/Develop/Test/Deploy: Work with the Business Customer, Product Owner, Architects, Product Designer, Software Engineers, and Security Controls Champion on solution design, development, and deployment.</li><li>Operations: Generate Metrics, Perform User Access Authorization, Perform Password Maintenance, and Build Deployment Pipelines.</li><li>Incident, Problem, And Change/Service Requests: Participate and/or lead incident, problem, change and service request-related activities. Includes root cause analysis (RCA). Includes proactive problem management/defect prevention activities.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>The minimum requirements we seek:<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science or Computer Engineering </li><li>2+ years experience in Software Engineering.</li><li>1+ year experience with developing for and deploying to cloud platforms (e.g. GCP, PCF, Azure)</li><li>Experience in development in at least some from each following categories:</li><ul><li>Languages: Java / Kotlin / JS / TS / Python / Other</li><li>Frontend frameworks: Angular / React / Vue / Other</li><li>Backend frameworks: SpringBoot / Node / Other</li></ul><li>Proven experience understanding, practicing, and advocating for software engineering disciplines from eXtreme Programming (XP), Clean Code, Software Artisanship, and Lean including:</li><ul><li>Paired / Mob / Ensemble programming</li><li>Test-first/Test Driven Development (TDD)</li><li>Evolutionary design</li><li>Minimum Viable Product</li></ul><li>Willingness to collaborate daily with team members.</li><li>A strong curiosity around how to best use technology to amaze and delight our customers<br/><br/></li></ul><strong>Our preferred qualifications:<br/><br/></strong><ul><li>Highly effective in working with other technical experts, Product Managers, UI/UX Designers and business stakeholders</li><li>Delivered products that include web front-end development; JavaScript, CSS, frameworks like Angular, etc.</li><li>Comfortable with Continuous Integration/Continuous Delivery tools and pipelines e.g. Tekton, Terraform Jenkins, Cloud Build, etc.</li><li>Experience with machine learning, mathematical modeling, and data analysis is a plus</li><li>Experience with CA Agile Central (Rally), backlogs, iterations, user stories, or similar Agile Tools</li><li>Experience in the development of microservices</li><li>Understanding of fundamental data modeling</li><li>Strong analytical and problem-solving skills<br/><br/><br/></li></ul><strong>What you’ll receive in return</strong>:<br/><br/>As part of the Ford family, you’ll enjoy excellent compensation and a comprehensive benefits package that includes generous PTO, retirement, savings, and stock investment plans, incentive compensation, and much more. You’ll also experience exciting opportunities for professional and personal growth and recognition.<br/><br/>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is available for this position.<br/><br/>We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status, or protected veteran status.<br/><br/>For information on Ford's salary and benefits, please visit: https://corporate.ford.com/content/dam/corporate/us/en-us/documents/careers/2023-benefits-and-comp-GSR-sal-plan-2.pdf
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

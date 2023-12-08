@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Americaneagle.com</strong> is a family-owned web design, development, and digital marketing agency with a passionate belief in the power of technology to positively transform business practices. Our focus is on helping customers grow and achieve success in the digital space. We cover a variety of different industries, including eCommerce, associations &amp; nonprofits, government, healthcare, sports &amp; entertainment, transportation, and more. The company was recently named by Built in Chicago as one of the best places to work and to Inc.com's list of 5000 fastest-growing private companies for the past eight years.<br/><br/>We're looking for an experienced and analytical Manual Quality Assurance Engineer with a strong website and application testing background to join our expanding QA team. The ideal candidate has experience with manual testing. This position will start out primarily working on manual testing but quickly growing and helping out in multiple different areas.<br/><br/>Americaneagle.com was recently named by Built in Chicago as one of the best places to work and to Inc.com's list of 5000 fastest-growing private companies for the past eight years.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Review and analyze system specifications</li><li>Maintain functional, acceptance and regression test cases/suites</li><li>Collaborate with project team to develop effective strategies, test plans and release deliverables associated with testing requirements </li><li>Execute test cases and analyze results </li><li>Report and document technical defects</li><li>Maintain logs, track, and verify resolution of defects</li><li>Communicate test results to project managers and developers<br/><br/><br/></li></ul><strong>Requirements: <br/><br/></strong><ul><li>3+ years of QA testing experience</li><li>1+ year of accessibility testing experience with a screen reader such as JAWS, NVDA and VoiceOver</li><li>Solid experience using Dev Tools for inspecting browser errors and issues</li><li>HTML/CSS, JavaScript, and ASP.NET experience</li><li>Agile methodology experience with Jira </li><li>Experience working with web based applications</li><li>Experience developing test cases, procedures, and expected results</li><li>Working knowledge of test management software such as Zephyr</li><li>Ability to prioritize tasks to best meet departmental and organizational goals</li><li>Ability to work in a faced paced environment and on multiple projects at once</li><li>Strong organization skills and attention to detail</li><li>Excellent verbal and written communication skills</li><li>Self-starter who is willing to learn new technologies and take initiative</li><li>Bachelor's degree in Computer Science or related field<br/><br/><br/></li></ul><strong>We offer:<br/><br/></strong><ul><li>Innovative and dynamic projects for worldwide top brands </li><li>Working with more recent technologies </li><li>Sharpen your skills in instructor-led training and lunch and learns </li><li>We cover costs for certifications and participate in events </li><li> Generous compensation package </li><li> Flexible working hours </li><li> Additional health insurance that guarantees fast access to contracted health services </li><li> Multisport card </li><li> 25 days paid holidays </li><li> Campus X membership benefits <br/><br/><br/></li></ul><strong>Americaneagle.com</strong> provides its employees with an energetic work environment and opportunities to further develop their skills. Our dedication to growing our development team is how we can produce excellent sites and applications for our clients. We do all of this while maintaining a family value focus and pushing for a good work-life balance. We offer a generous compensation and benefits package.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

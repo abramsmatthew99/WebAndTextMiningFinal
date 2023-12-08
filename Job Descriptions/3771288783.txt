@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We're Celonis, the global leader in execution management and process mining technology, and one of the 50 most valuable private companies in the world. We believe that every company can unlock its full execution capacity - and for that, we need you to join us.<br/><br/><strong>The Team<br/><br/></strong>Celonis AI Group (CeloAI) is a newly formed organization within Celonis that is dedicated to developing state-of-the-art AI/ML (and broadly intelligent) technologies for Celonis products (e.g., the Execution Management System / EMS) and empower enterprises and institutions to make intelligent business decisions and achieve operational excellence. Our dual mission focuses on both the immediate term goals of designing and implementing advanced AI/ML product features and solutions for our customers and the long term goals of establishing competitive advantages of Celonis for execution management.<br/><br/>We are a global organization with presence in both Germany and the US. CeloAI US has its main presence in New York, NY but also remote presences across the US.<br/><br/><strong>The Role<br/><br/></strong>As a software engineer (machine learning), you are responsible for designing and developing product features and customer solutions, along with the underlying infrastructure, that are based on AI/ML approaches. You may interact closely with solution engineers, customer value architects, and execution management consultants within the Go-to-Market organization and product managers and software engineers within the product and engineering organization to build scalable and high quality AI/ML features and solutions for our customers.<br/><br/>You may also be responsible for designing and implementing new foundational technical components that will power the next generation of EMS and elevate the impact Celonis has on our customers. These components may span the areas of computer vision, natural language processing, data mining, recommendation, knowledge base, business intelligence, and other AI technologies.<br/><br/><strong>The work you’ll do<br/><br/></strong><ul><li>Deeply understand the business needs of Celonis customers, formulate the business needs into concrete technical problems, often AI related</li><li>Determine which AI/ML approach, if any, is suited for the problem</li><li>Design and develop scalable and high quality AI/ML models or otherwise intelligent approaches</li><li>Design and implement scalable and robust data collection mechanisms</li><li>Design and implement principled evaluation mechanisms</li><li>Design and build robust and low latency infrastructure to serve the AI/ML models and meet the demands of Celonis customers</li><li>Design and develop intelligent techniques to understand, represent, and integrate enterprise operational data (e.g., processes)</li><li>Design and build APIs and infrastructure to serve such data at scale and with low latency</li><li>Design and implement intelligent ways to ensure freshness and accuracy of such data across thousands of enterprise customers.<br/><br/></li></ul><strong>The Qualifications You Need<br/><br/></strong><ul><li>Bachelor’s degree or equivalent practical experience (in Computer Science or related fields), Master’s degree and PhD degree a plus</li><li>Strong communication and collaboration skills</li><li>Identify with the Celonis value of customer first, passionate about solving real world customer problems with a focus on finding the right solution regardless of the nature of the solution</li><li>Passionate about developing scalable and efficient AI/ML solutions</li><li>Passionate about building high quality AI/ML solutions with clear and repeatable evaluation mechanisms<br/><br/></li></ul>The base salary range below is for the role in the specified location, based on a Full Time Schedule.<br/><br/>Total compensation package will include base salary + bonus/commission + equity + benefits (health, dental, life, 401k, and paid time off). Please note that the base salary range is a guideline, and that the actual total compensation offer will be determined based on various factors, including, but not limited to, applicant's qualifications, skills, experiences, and location.<br/><br/>The base salary range below is for the role in California, based on a Full Time Schedule.<br/><br/>$150,000—$183,000 USD<br/><br/><strong>What Celonis can offer you:<br/><br/></strong><ul><li>The unique opportunity to work within a new category of technology, Execution Management</li><li>Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, L&amp;D platform, mentorships, and more)</li><li>Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more). For intern and working student benefits, click here</li><li>Physical and mental well-being support (subsidized gym membership, access to counselling, virtual events on well-being topics, and more)</li><li>A global and growing team of Celonauts from diverse backgrounds to learn from and work with</li><li>An open-minded culture with innovative, autonomous teams</li><li>Business Resource Groups to help you feel connected, valued and seen (Black@Celonis, Women@Celonis, Parents@Celonis, Pride@Celonis, Resilience@Celonis, and more)</li><li>A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future<br/><br/></li></ul><strong>About Us<br/><br/></strong>Since 2011, Celonis has helped thousands of the world’s largest and most esteemed companies yield immediate cash impact, radically improve customer experience, and reduce carbon emissions. Its Process Intelligence platform uses industry-leading process mining technology and AI to present companies with a living digital twin of their end-to-end processes. For the first time, everyone in an organization has a common language for how the business runs, visibility into where value is hiding, and the ability to capture it. Celonis is headquartered in Munich, Germany and New York City, USA with more than 20 offices worldwide.<br/><br/>Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment and equal opportunity in all aspects of employment. We will not tolerate any unlawful discrimination or harassment of any kind. We make all employment decisions without regard to race/ethnicity, color, sex, pregnancy, age, sexual orientation, gender identity or expression, transgender status, national origin, citizenship status, religion, physical or mental disability, veteran status, or any other factor protected by applicable anti-discrimination laws. As a US federal contractor, we are committed to the principles of affirmative action in accordance with applicable laws and regulations. Different makes us better.<br/><br/>Accessibility and Candidate Notices
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

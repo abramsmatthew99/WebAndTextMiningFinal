@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>SOFTWARE ENGINEER<br/><br/></strong><strong>Office Locations: Tampa, Florida, Honolulu, Hawaii<br/><br/></strong><strong>Clearance Required: Top Secret with SCI eligibility<br/><br/></strong><strong>People Centered. Data Driven<br/><br/></strong>Elder Research Inc. is a Data Science consulting firm specialized in providing analytic solutions to clients in Commercial and Government industries. Providing analytic solutions to hundreds of companies across numerous industries, our team enjoys a great variety in the type of work they do and exposure to a wide range of techniques and tools<br/><br/>We are trusted advisors to our clients, building lasting relationships and partnering as preferred analytics providers. We use a variety of programming languages and tools to create analytic solutions, often fitting within our clients’ environment and needs.<br/><br/>We are looking for an experience Software Engineer to join our team! This role allows you to find great opportunities to hone your analytic skills, work on complex problems with amazing teammates, and gain valuable analytics consulting experience.<br/><br/><strong>Software Engineer Requirements<br/><br/></strong><ul><li>Bachelor's degree in software engineering, computer science, system engineering, or a related field is required. Equivalent demonstrated ability may be considered.</li><li>Advanced skills in full stack software development, including web development (JVM, Go, Python). Experience with Ruby (JRuby) is preferable but not required.</li><li>Experience with software build tools (e.g., Maven or Gradle), version control (e.g., Git or Mercurial SCM), and CI/CD pipeline technologies (AWS CI/CD experience preferable but not required).</li><li>Experience with RDBMS &amp; SQL technologies (Oracle, PostgreSQL, MySQL, MS SQL Server, or other enterprise level RDBMS are acceptable)</li><li>Experience with cloud services, infrastructure, virtualization, containerization, and deployment/orchestration in AWS.</li><li>Experience developing and deploying Docker images and containers</li><li>Competency in MS Office software (Word, Excel, Access, PowerPoint)</li><li>Familiar with software project management tools such as the Atlassian Suite (Jira &amp; Confluence), Redmine, Kanboard, or similar tools.</li><li>U.S. citizenship is required for this position based on government contract requirements.<br/><br/></li></ul>Experience with frontend Single Page Application frameworks (such as angular, react, vue), multiple JVM programming languages (e.g. Groovy, JRuby, Scala), AWS, DevOps, CI/CD, is highly desirable. Knowledge of the scientific method is useful but not essential.<br/><br/>Do you have effective communication skills, both written and verbal? Are you flexible and willing to work on a variety of tasks and projects? Do you work well with others? Are you able to manage your time and prioritize tasks effectively? If so, you might be perfect for this Software Engineer/Web Application Developer/Computer Programmer (II/III) position!<br/><br/><strong>About Elder Research, Inc<br/><br/></strong>Elder Research is a fast-growing consulting firm specializing in predictive analytics. Being in the data mining business over 20 years, we pride ourselves in our ability to find creative, cutting-edge solutions to real-world problems. We work hard to provide the best value to our clients and allow each person to contribute their ideas and put their skills to use immediately.<br/><br/>Our team members are passionate, curious, life-long learners. We value humility, servant-leadership, teamwork, and integrity. We seek to serve our clients and our teammates to the best of our abilities. In keeping with our entrepreneurial spirit, we want candidates who are self-motivated with an innate curiosity and strong teamwork.<br/><br/>Elder Research believes in continuous learning; each week the entire company attends a “Tech Talk” followed by an office lunch. Elder Research provides a supportive work environment with established parental, bereavement, and PTO policies. By prioritizing a healthy work-life balance - with reasonable hours, solid pay, low travel, and extremely flexible time off - Elder Research enables and encourages its employees to serve others.<br/><br/>Elder Research, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.<br/><br/>Elder Research is a Government contractor and our positions require US Citizenship.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

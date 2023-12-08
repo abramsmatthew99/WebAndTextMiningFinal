@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The right candidate will support the IT Audit Manager in assessing financial, operational, and regulatory risks relating to the company’s use of information technology, evaluating controls over information systems, and providing control recommendations to IT Management and Internal Audit to reduce risks deemed unacceptable. The Senior IT Auditor analyst demonstrates a thorough understanding of the concepts, terminology, capabilities, and applications of technology, security risks, and control risks associated with various IT architectures.<br/><br/><strong>Essential Duties And Responsibilities</strong> <br/><br/><ul><li>Assesses IT risks through control auditing practices:</li><ul><li>Documents IT processes </li><li>Conducts tests of Sarbanes-Oxley (SOX) IT controls </li><li>Conducts tests of non-SOX IT controls </li><li>Documents test activities and results </li><li>Reports test results to IT management and Internal Audit </li></ul><li>Develops and Implements controls and Risk Management initiatives:</li><ul><li>Provides control recommendations to IT Management and Internal Audit </li><li>Develops policy and standards in accordance with IT Governance </li><li>Designs frameworks and procedures in accordance with IT Strategy </li></ul><li>Subject areas include:</li><ul><li>IT Risk Assessment </li><li>IT Security (Logical, Network, Physical) </li><li>Change Management (Software, Hardware) </li><li>BCP / Disaster Recovery / Data availability </li><li>Software Acquisition and Development </li><li>Sarbanes-Oxley Compliance </li><li>General Controls and Application Controls <br/><br/><br/></li></ul></ul><strong>Qualifications<br/><br/></strong><strong>Education and/or Experience </strong> <br/><br/><ul><li>Bachelor's degree (B. A.) from four-year college or university in Audit, Computer Science, or Management Information Systems </li><li>3 + years experience in IT Audit or IT Risk Management </li><li>Extensive knowledge of IT controls and best practices </li><li>Extensive knowledge of the IT Governance Institute’s Control Objectives for Information and related Technology (COBIT) framework for IT governance </li><li>Extensive knowledge of the Sarbanes-Oxley Act of 2002 </li><li>Possess a proven track record in the preparation/development of documentation and testing of internal controls and systems </li><li>Excellent written communication skills </li><li>Excellent relationship management skills </li><li>Ability to communicate effectively with internal management as well as external firms </li><li>Disciplined self starter who can work with minimal supervision </li><li>Familiarity with the IBM AS/400 security environment </li><li>Familiarity with auditing ERP applications </li><li>Preferred:</li><ul><li>Professional certification (CISA, CIA, CISM) highly preferred </li><li>Big four experience </li><li>JDE application testing experience</li></ul></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

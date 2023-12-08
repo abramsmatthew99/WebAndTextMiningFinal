@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job title:</strong> Engineer Quality I 37717- John Deere<br/><br/><strong>Description:<br/><br/></strong><ul><li>This job fully integrates an individual into the engineering culture by performing specific quality engineering assignments that are limited in scope, depth and degree of skill required. </li><li>Work plans and decisions are usually reviewed by others. <br/><br/></li></ul><strong>Duties: <br/><br/></strong><ul><li>Learns and uses quality planning tools and analysis to formulate/facilitate quality plans for new products within the product delivery, order fulfillment or customer support processes. </li><li>Learns and uses quality tools consistent with quality processes to enable the focus on prevention by identifying and performing activities to minimize risk. </li><li>Investigates product and process quality related issues and recommends changes to control plans and/or prints. </li><li>Gathers and analyzes data pertinent to quality tools in the Enterprise Order Fulfillment Process (EOFP), Enterprise Product Delivery Process (EPDP) and/or Customer Support Process (CSP). </li><li>Performs quality audits, including supporting International Standards Organization (ISO) audits, and maintains quality manual. Inputs and maintains information in factory databases and systems. </li><li>Monitors quality plan tracking system. </li><li>Assists in reviews and investigations of warranty claim information. <br/><br/></li></ul><strong>Shift : <br/><br/></strong><ul><li>This position will work 3rd shift (10:30 pm to 7 am) but candidates must be open to working both all shifts as production level change. Overtime is likely, weekend and before shift starts. <br/><br/></li></ul><strong>Specific Position Requirements:<br/><br/></strong><ul><li>Manager is willing to see recent grad candidates with Technology, Engineering, Communications, Business, Computer Science, and/or Data Analytics degrees. </li><li>This is a shop floor position so candidates need to be comfortable in this environment. </li><li>Will need metatarsals for first day, business casual dress code. <br/><br/></li></ul>#ZR<br/><br/><strong>Company Description<br/><br/></strong>As a leading contract, contract-to-hire and professional placement firm, Three Point Solution understands the importance of aligning our client with the right resource at the right time. We are committed to the highest caliber of service that will benefit our clients, candidates and employees. Unlike large, corporate style recruiting firms, we commit to individualized attention that uniquely positions us to bridge the communication gap between recruiter, employer and candidate. Our goal is to cultivate and maintain true partnerships with our clients and candidates.<br/><br/>As a leading contract, contract-to-hire and professional placement firm, Three Point Solution understands the importance of aligning our client with the right resource at the right time. We are committed to the highest caliber of service that will benefit our clients, candidates and employees. Unlike large, corporate style recruiting firms, we commit to individualized attention that uniquely positions us to bridge the communication gap between recruiter, employer and candidate. Our goal is to cultivate and maintain true partnerships with our clients and candidates.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

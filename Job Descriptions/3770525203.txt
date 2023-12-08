@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job Purpose<br/><br/></strong>As a Senior QA Analyst you will work with the Systems Analysts and Development Teams to understand the business/product and system requirements. You will create and execute test plans and test cases. You will be responsible for maintaining QA artifacts by following the current standards along with coordinating test execution, training users, and providing user support.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Document, maintain and execute detailed test cases to validate system functionality, identify and document software defects, and track test case execution status.</li><li>Create test plans for software releases to detail the overall strategy for testing complex systems, including defining resources and test scope for each test cycle, and identifying dependencies and risks.</li><li>Deploy software release builds, maintain test environments, and perform troubleshooting software / hardware configuration problems.</li><li>Work with technology team in building cutting edge Clearing Systems like Front End Clearing/Post Trade Management System.</li><li>Test systems in a multi-tiered based design featuring Java and JavaScript architectures. JavaScript architectures tested will include extJS, JQuery, Oracle APEX, and ReactJS.</li><li>Gain experience with Iterative and Agile software development methodologies.<br/><br/></li></ul><strong>Knowledge And Experience<br/><br/></strong><ul><li>Strong background in functional testing with the ability to design and develop comprehensive test strategy and test cases.</li><li>Strong background in reviewing business and functional requirements in order to produce a test strategy and test cases.</li><li>Experience participating in all aspects of a full-lifecycle development methodology, and related quality concepts and processes.</li><li>Extensive knowledge of testing process, testing methodology analysis and defect reporting tools.</li><li>Experience with both White Box and Black Box Testing.</li><li>3+ years experience writing and executing SQL queries</li><li>Prefer 2+ years of experience with commodity markets, financial trading environment, or equity brokerage business and exposure to futures markets.</li><li>Understanding or FIXML protocol and experience testing messaging systems at API level are preferred.</li><li>Programming skills (sufficient to write automation scripts, and to validate test results in a database, or through some other non-GUI based method) is a plus</li><li>Prefer experience working in UNIX/Linux environments.</li><li>B.S. or higher in Computer Science, Mathematical Finance, Quantitative and Computational Finance, Information Systems or related discipline; or equivalent work experience</li><li>Ability to work independently and productively under pressure.</li><li>Strong problem-solving, analytical, technical, and troubleshooting skills.</li><li>Track record of completing assignments on time with a high degree of quality.</li><li>Excellent analytical, problem-solving skills.</li><li>Ability to set priorities and multi-task in a fast-paced environment.<br/><br/></li></ul><strong>Schedule<br/><br/></strong>This role offers work from home flexibility of up to 2 days per week.<br/><br/>Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or veteran status, or other protected status.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance, Information Technology, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

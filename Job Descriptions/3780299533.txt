@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        1-2 Month Contract in Midtown Atlanta, GA<br/><br/><strong>Overview<br/><br/></strong>The Security Engineer is responsible for the management and support of security protection tools such as endpoint antivirus, asset discovery, vulnerability management, email gateway, user access provisioning, intrusion detection, and security information and event management. The engineer should be able to work with the Security Architect and the Infrastructure team during the testing and implementation of security tools. In order to be successful in this role, the candidate needs to be able to work on multiple projects at a time in a fast-paced environment and be able to learn quickly.<br/><br/>Overall, the position is highly visible throughout the organization and needs to someone that can work well with different personality types and technical levels of experience. They will be supported by team members including security operations and security identity management areas. However, the person is required to have a good mix of hands-on experience with Linux and Windows operating systems. The job has a very diverse set of responsibilities, allowing a variety of work from day-to-day.<br/><br/>We are looking for someone with a bachelor’s degree in computer science, information systems, information assurance, or related discipline; five years of experience in information technology, and five years of security administration experience, or the equivalent combination of education and experience is necessary. The right candidate will have a good Security and/or IT certification such as GIAC is strongly recommended.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Monitor, diagnose, troubleshoot and, resolve issues involving security technology tools for abnormal user behavior and policy violations.</li><li>Supports security incident response activities consisting of identifying new issues, gathering information, remediating issues, and reporting to appropriate individuals.</li><li>Researches the development of security technology requirements, evaluations, selection, and deployment. </li><li>Provides recommendations based on technical aspects of the product and effects of implementation.</li><li>Implements security-related projects such as security application upgrades, identity and access management, single sign-on/password administration, and other new security initiatives.</li><li>Creates queries to extract data as needed for reporting and statistical research. This includes reporting on metrics as they pertain to the security area.</li><li>Communicates security bulletins and advisories of vulnerable software from our technology vendors and trusted third parties to Information Technology for remediation.</li><li>Performs validation testing of applied security patches, configuration changes and system hardening sin order to resolve reported security findings.</li><li>Performs administrative tasks associated with project management, reporting, technical documentation and procedures. </li><li>Assists manager in developing and maintaining project plans.</li><li>Provides assistance as a backup to identity and access management staff when needed.</li><li>Identifies, evaluates and recommends changes to update or replace existing security technology.</li><li>Provides direct support to the business and Information Technology staff for systems security related issues and questions.</li><li>Recommends solutions to problems and notifies management of potential problem areas. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Must be self-motivated with the ability to work with minimal supervision.</li><li>Must possess good customer service skills.</li><li>Must possess strong multi-tasking and analytical/troubleshooting skills.</li><li>Must be local and eligible without sponsorship.<br/><br/></li></ul><strong>To apply, please email your resume to maggie@aquesst.com .</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>JOB TITLE: Jr. Software Developer<br/><br/></strong><strong>JOB LOCATION: Manassas, Va<br/><br/></strong>WAGE RANGE*: 55,000-65,000 salary<br/><br/>JOB NUMBER: 23-02662<br/><br/><strong>Required Experience<br/><br/></strong>Assisting the development manager with all aspects of software design and coding.<br/><br/>Attending and contributing to company development meetings.<br/><br/>Learning the codebase and improving your coding skills.<br/><br/>Writing and maintaining code.<br/><br/>Working on minor bug fixes.<br/><br/>Monitoring the technical performance of internal systems.<br/><br/>Responding to requests from the development team.<br/><br/>Gathering information from consumers about program functionality.<br/><br/>Writing reports.<br/><br/>Conducting development tests<br/><br/>secret clearance<br/><br/><strong>Job Description<br/><br/></strong>Enthusiastic junior software developer to join our experienced software design team. You will report directly to the development manager and assist with all functions of software coding and design. Your primary focus will be to learn the codebase, gather user data, and respond to requests from senior developers.<br/><br/>To ensure success as a junior software developer, you should have a good working knowledge of basic programming languages, the ability to learn new technology quickly, and the ability to work in a team environment. Ultimately, a top-class Junior Software Developer provides valuable support to the design team while continually improving their coding and design skills.<br/><br/>Assisting the development manager with all aspects of software design and coding.<br/><br/>Attending and contributing to company development meetings.<br/><br/>Learning the codebase and improving your coding skills.<br/><br/>Writing and maintaining code.<br/><br/>Working on minor bug fixes.<br/><br/>Monitoring the technical performance of internal systems.<br/><br/>Responding to requests from the development team.<br/><br/>Gathering information from consumers about program functionality.<br/><br/>Writing reports.<br/><br/>Conducting development tests.<br/><br/><strong>Junior Software Developer Requirements<br/><br/></strong>Bachelor's degree in computer science or equivalent experience.<br/><br/>Knowledge of basic coding languages including C++, Java, Python, and JavaScript.<br/><br/>Basic programming experience.<br/><br/>Knowledge of databases and Unix based operating systems such as RedHat.<br/><br/>Good working knowledge of email systems and Microsoft Office software.<br/><br/>Ability to learn new software and technologies quickly.<br/><br/>Ability to follow instructions and work in a team environment.<br/><br/>Detail-oriented.<br/><br/><strong>Equal Opportunity Employer Veterans/Disabled<br/><br/></strong><ul><li> While an hourly range is posted for this position, an eventual hourly rate is determined by a comprehensive salary analysis which considers multiple factors including but not limited to: job-related knowledge, skills and qualifications, education and experience as compared to others in the organization doing substantially similar work, if applicable, and market and business considerations. Benefits offered include medical, dental and vision benefits; dependent care flexible spending account; 401(k) plan; voluntary life/short term disability/whole life/term life/accident and critical illness coverage; employee assistance program; sick leave in accordance with regulation. Benefits may be subject to generally applicable eligibility, waiting period, contribution, and other requirements and conditions.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

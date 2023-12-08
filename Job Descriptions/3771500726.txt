@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Responsible for the overall contract performance and the delivery of Tier 1-3 application support and infrastructure services. Interfaces continually with the customer to ensure expectations are met and to discuss current activities, future plans, and problem resolution. Responsible for formulating and enforcing performance work standards; assigning work schedules; reviewing work discrepancies; supervising contractor personnel; ensuring the completion and submission of contract deliverables; ensuring compliance with contract SLAs and performance criteria; ensuring contract compliance and fulfillment; and communicating policies, requirements, and expectations of the contract to the program staff.<br/><br/>Qualifications:<br/><br/><ul><li>Bachelor’s degree in computer science, information systems, business, or related field and 7+ years of program management experience in the planning, directing, and managing a comprehensive application and infrastructure service desk programs of similar size and scope. </li><li>Ability to manage and deliver services within stringent SLAs and performance criteria while exceeding customer satisfaction goals and corporate financial goals. </li><li>Must have the technical acumen to provide subject matter expertise level of knowledge and guidance to the staff and customer. </li><li>Ability to effectively communicate verbally and electronically to various levels of staff with various levels of understanding of technology. </li><li>Must have a positive and patient customer service attitude. </li><li>Must be able to lead, inspire, and mentor a multi-disciplined team of both on-site and remote staff. </li><li>ITIL 4 certification is highly desired. Candidates without certification must obtain within 90 days of start. </li><li>Project Management Professional (PMP) certification is highly desired. Candidates without certification must obtain it within 180 days of start. </li><li>Must be able to obtain agency suitability clearance prior to start. <br/><br/></li></ul><strong>Company Description<br/><br/></strong>AAC Inc. is a veteran owned company and was founded in 1983 in Vienna, VA. AAC Inc has 100 total employees at client sites across the U.S.. Since 1983, AAC has assisted our customers to transform and modernize their enterprise architecture, processes, applications, and infrastructure, with the focus on Cloud, Cyber, Enterprise IT, Systems Engineering and United Communication Services. Our mission remains to provide innovative and cost-effective technology-based solutions to meet our customer’s mission and business requirements. Our ability to deliver across the full scope of requirements, both operationally and strategically has set us apart from our competitors as we are able to balance risk against the right solutions.<br/><br/>AAC Inc. is a veteran owned company and was founded in 1983 in Vienna, VA. AAC Inc has 100 total employees at client sites across the U.S.. Since 1983, AAC has assisted our customers to transform and modernize their enterprise architecture, processes, applications, and infrastructure, with the focus on Cloud, Cyber, Enterprise IT, Systems Engineering and United Communication Services. Our mission remains to provide innovative and cost-effective technology-based solutions to meet our customer’s mission and business requirements. Our ability to deliver across the full scope of requirements, both operationally and strategically has set us apart from our competitors as we are able to balance risk against the right solutions.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

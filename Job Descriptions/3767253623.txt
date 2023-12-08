@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our team is responsible for software on the NICs in the fleet, Linux Kernel Networking and transport protocols associated with moving AI workloads across the Fabric. We develop our own products as well as work with vendor devices. We focus on reliability, performance and serviceability of transport functions associated with host traffic in the fleet.The AI Transport group within Host Networking is responsible for design and development of software that transports AI workloads between compute nodes within the DC. This also includes data path software on embedded systems, control software on Linux stack and additionally addressing congestion and typical network behavior in a highly scaled DC environment. Software Engineering Manager for this team is expected to bring technical expertise in supporting the team in design and development activities, project management skills to effectively and efficiently drive associated programs and people management skills to support members of this team and collaborate with cross-functional partners.<br/><br/>Software Engineering Manager, NIC Responsibilities:<br/><br/><ul><li>Help define technical roadmap for the team, drive execution of associated tasks and support the team in resolving dependencies</li><li>Collaborate effectively with other groups such as Hardware, Infrastructure, Operations</li><li>Interact with external partners as needed in resolving dependencies associated with objectives</li><li>Guide and help team members develop appropriate skillsets to grow in their careers, and where necessary address under performance</li><li>Communicate cross-functionally and drive engineering efforts<br/><br/></li></ul>Minimum Qualifications:<br/><br/><ul><li>BS or MS in Computer Science or related technical discipline or equivalent experience</li><li>2+ years experience managing a networking related Software Engineering Team</li><li>Working knowledge of transport stack such as TCP and/or RoCE (RDMA)</li><li>Experience with software development for Distributed and Embedded systems</li><li>Experience recruiting and managing Software Engineers<br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience with TCP/RDMA transport stack in Linux</li><li>Experience with GPU/TPU network in a DC environment</li><li>Experience driving Congestion Control programs in large scale networks<br/><br/></li></ul>About Meta:<br/><br/>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br/><br/>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br/><br/>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

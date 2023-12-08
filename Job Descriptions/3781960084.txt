@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Equifax is where you can power your possible. If you want to achieve your true potential, chart new paths, develop new skills, collaborate with bright minds, and make a meaningful impact, we want to hear from you.<br/><br/><strong> <strong> Equifax Workforce Solutions (EWS), headquartered in St. Louis, MO </strong> is EFX’s fastest growing and most profitable business unit. Learn more about EWS and our workforce solutions here: https://workforce.equifax.com/ <br/><br/></strong><strong> <strong> Equifax (EFX) </strong> , </strong> HQ Atlanta, GA is a global data, analytics, and technology company. We believe knowledge drives progress. We blend unique data, analytics, and technology with a passion for serving customers globally, to create insights that power decisions to move people forward.<br/><br/>The senior data analyst will understand the needs of different audiences, deliver content both technically and non-technically, and have a knack for visually telling the story with data.<br/><br/><strong>What You’ll Do<br/><br/></strong><ul><li> This role will be responsible for driving analytics that support sales enablement, marketing, and product development in a state of the art analytics cloud environment. Must be self motivated, collaborative, and results oriented. </li><li> Develop innovative analytical solutions that drive actionable insights to enrich a variety of revenue driving functions such as sales enablement, customer lifetime value, and market penetration </li><li> Consultative approach to data projects, with the ability to artfully articulate the analysis to non-technical audiences </li><li> Take ownership of delivering quality projects to the business, applying rigor to business requirements, design, and aftercare of the solution when deployed </li><li> Utilizes Equifax’s diverse data sources to craft solutions using various modeling techniques through the most appropriate open source and/or proprietary tooling <br/><br/></li></ul><strong>What Experience You'll Need<br/><br/></strong><ul><li> Bachelor’s degree in Computer Science, Information Systems, Economics, Engineering, or a comparable discipline </li><li> 5+ years of work experience in identifying, gathering, transforming and analyzing data within and across database platforms (SQL, Python) </li><li> Strong development skills in visualization software such as Tableau, Data Studio, or other business intelligence tools </li><li> Strong analytical skills including the ability to rapidly learn new business, data assets and how to apply them to drive business impacts </li><li> You possess excellent written and verbal communication skills with the ability to communicate with team members at various levels, including business leaders <br/><br/></li></ul><strong>What Could Set You Apart<br/><br/></strong><ul><li> Advanced degree in Statistics, Engineering, Business Analytics or a comparable discipline or experience </li><li> Work experience in the SaaS industry driving sales or marketing functions </li><li> Work experience building, loading, transforming, and analyzing data within Google Cloud Platform (GCP) or other similar cloud environment </li><li> Work experience with regulated data <br/><br/></li></ul>We offer comprehensive compensation and healthcare packages, 401k matching, paid time off, and organizational growth potential through our online learning platform with guided career tracks.<br/><br/>Are you ready to power your possible? Apply today, and get started on a path toward an exciting new career at Equifax, where you can make a difference!<br/><br/>Equifax is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

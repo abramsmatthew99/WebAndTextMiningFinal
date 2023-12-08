@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Company Statement<br/><br/></strong><strong>S&amp;P Global delivers essential intelligence that powers decision making. </strong>We provide the world’s leading organizations with the right data, connected technologies and expertise they need to move ahead. As part of our team, you’ll help solve complex challenges that equip businesses, governments, and individuals with the knowledge to adapt to a changing economic landscape.<br/><br/><strong>Now About The Role<br/><br/></strong><strong>The</strong> <strong>Role:</strong> Data Engineering Intern<br/><br/><strong>The Team</strong>: Our Digital Technology Services and Technology Strategy Governance team enables a culture &amp; mindset of Client-First &amp; Architecture-First with a focus on delivering value through disciplined program delivery. Continuing to improve our cyber posture, service resiliency, employee productivity, innovation &amp; overall employee engagement.<br/><br/><strong>The Impact:</strong> As an intern with S&amp;P Global DTS/TSG you will undertake work on a real business project intended to add value to your team and our business, as well as provide you with a great learning opportunity. This Data Engineer internship provides opportunities for individuals interested in working with data infrastructure, data pipelines, and related technologies. Data engineers play a crucial role in managing and organizing data for analysis and reporting.<br/><br/><strong>What’s In It For You<br/><br/></strong>During your summer you'll have the chance to partner with our technology experts, with on-the-job experience focusing on high impact work that allows you to apply and develop your skills. Networking, business insights and tailored learning opportunities all support your growth and development, setting you up for success as you begin your career.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Building and maintaining data pipelines</li><li>Collaborating with data scientists and analysts to understand data requirements </li><li>Data cleaning and quality control </li><li>Monitoring and troubleshooting data pipeline issues </li><li>Implement of security and compliance standards </li><li>Enhancements to Snowflake data lake house <br/><br/></li></ul><strong>What We’re Looking For<br/><br/></strong>We seek candidates with diverse backgrounds and ideas with a desire to learn and thrive. The Summer Internship Program will provide you with a variety of experiences to help you identify your strengths, develop highly transferable skills, and align you to a successful career path for a bright future at S&amp;P Global.<br/><br/><strong>Basic Qualifications<br/><br/></strong><ul><li>Working towards a Bachelors degree in a technical field of study in Engineering, Computer Science, Computer Engineering, Management Information Systems, or IT</li><li>Fully matriculated students with anticipated graduation date in Fall 2024 or Spring 2025</li><li>Strong problem-solving skills and attention to detail are crucial </li><li>Basic knowledge of data modeling and SQL-- python experience is a plus </li><li>Familiarity with distributed systems, data warehousing, and data integration (ETL/ELT) concepts <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Databases: Knowledge of various databases such as SQL, NoSQL, and others. </li><li>ETL Tools: Experience with ETL tools like Informatica, Snowpipe or custom ETL scripts. </li><li>Cloud Services: Experience with AWS and Snowflake cloud services </li><li>Programming Languages: SQL, Java, Python </li><li>ADO Agile development framework <br/><br/></li></ul>This role is limited to persons with indefinite right to work in the United States.<br/><br/><strong>Flexible Working (optional)<br/><br/></strong>We pride ourselves on our agility and diversity, and we welcome requests to work flexibly. For most roles, flexible hours and/or an element of remote working are usually possible. Please talk to us at interview about the type of arrangement that is best for you. We will always try to be adaptable wherever we can.<br/><br/><strong>Return to Work<br/><br/></strong>Have you taken time out for caring responsibilities and are now looking to return to work? As part of our Return-to-Work initiative (link to career site page when available), we are encouraging enthusiastic and talented returners to apply, and will actively support your return to the workplace.<br/><br/><strong>Grade/Level</strong> (<em>relevant for internal applicants only</em>): 5<br/><br/><strong>The Location:</strong> Charlottesville, VA.<br/><br/><strong>Compensation/Benefits Information (This section is only applicable to US candidates):<br/><br/></strong>S&amp;P Global states that the anticipated base salary range for this position is $25 to $30 per hour. Final base salary for this role will be based on the individual’s geographic location, as well as experience level, skill set, training, licenses and certifications.<br/><br/>This role is not eligible for additional compensation such as an annual incentive bonus or sales commission plan.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>S&amp;P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.<br/><br/>If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. <br/><br/><strong>US Candidates Only: </strong> The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.<br/><br/>20 - Professional (EEO-2 Job Categories-United States of America), IFTECH203 - Entry Professional (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning)<br/><br/><strong>Job ID:</strong> 294565<br/><br/><strong>Posted On:</strong> 2023-11-21<br/><br/><strong>Location:</strong> Charlottesville, Virginia, United States
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

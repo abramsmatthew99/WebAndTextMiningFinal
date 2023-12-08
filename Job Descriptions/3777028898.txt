@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Senior Java Developer<br/><br/></strong>Senior Java Developer role is NA% middle tier Server and 30% presentation tier. Developers are expected implement requirements from the front end through to the database / OOM layer.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Work with Business Analysts to understand requirements and translate to design </li><li>Source code development </li><li>Unit test case development </li><li>Functional/system integration testing support and Deployment </li><li>Support production as needed and meet development schedules <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor s Degree, in Computer Science or a related field. </li><li>Minimum 5 years of experience developing web-based applications </li><li>Minimum 5 years development experience in Java/J2EE technologies </li><li>Strong Communication Skills <br/><br/></li></ul><strong>The Successful Candidate Must Have, In Order Of Importance<br/><br/></strong><ul><li>Experience with Spring, Spring MVC, an ORM framework (myBatis or Hibernate preferred) </li><li>Experience using and implementing RESTful web services </li><li>Experience with Java, JavaScript, JSP, CSS, HTML, jQuery </li><li>Experience with multi-threading using core Java libraries particularly the Executor framework. </li><li>Knowledge of XML, JSON, and AJAX techniques </li><li>Strong understanding of SQL database design </li><li>Self-motivated and willing to learn </li><li>Ability to effectively prioritize and execute tasks in a high-pressure environment. <br/><br/></li></ul>The below skills are nice to have in addition to the required skills in order of preference:<br/><br/><ul><li>Experience with JBoss, Apache, Tomcat </li><li>Experience with Angular, React, Node.js and XSLT </li><li>Experience with unit testing frameworks such as jUnit or Selenium </li><li>Strong understanding of stored procedures </li><li>Experience with Cloud technologies focused on AWS </li><li>Experience with CI/CD Pipelines </li><li>Familiarity with Web application security considerations </li><li>Must have good understanding of non-functional requirements (performance, scalability, maintainability, security) </li><li>Prior experience developing property &amp; casualty applications </li><li>Familiarity with developing cross-browser and cross-platform compatible solutions <br/><br/></li></ul>Required Skills : SSRS,SSIS,ETL,Java,Javascript<br/><br/><strong>Additional Skills : </strong>Software Developer,Reports Developer,Database Developer
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

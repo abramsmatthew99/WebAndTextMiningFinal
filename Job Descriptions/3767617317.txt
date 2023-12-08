@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Today’s growth leaders are powering their B2B selling with LeanData, the gold standard in modern revenue orchestration and an essential element of the modern RevTech stack.<br/><br/></strong>We are looking for a Front End Engineer to join our fast-paced team and take ownership of and set the standard for our front-end code. An ideal candidate should have a strong eye for both the technical and aesthetic dimensions of UI/UX, strong opinions about coding and design best practices, and an instinct for refining operational efficiency.<br/><br/><strong>What You’ll Be Doing<br/><br/></strong><ul><li>Collaborate to develop new products and features for our Salesforce.com SaaS application</li><li>Design and develop a processing platform using various configuration management technologies</li><li>Collaborate cross-functionally with business users, project managers, and other engineers</li><li>Provide recommendations for continuous improvement from a technical perspective and product implementation direction</li><li>Provide ongoing maintenance, support, and enhancements in existing systems and platforms<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>1-2 years of experience</li><li>Proficiency in a major JavaScript framework (React, Angular, etc.)</li><li>Solid understanding of core javascript principles and frontend design principles</li><li>Keen UI/UX sensibility for best practices </li><li>Ability to understand customer needs and translate those into software features </li><li>Thrive in a fast-paced environment in a rapidly growing startup</li><li>Bachelor’s degree in Computer Science, Computer Engineering, or related field<br/><br/></li></ul><strong>Bonus Points If You Have<br/><br/></strong><ul><li>Experience with Angular (v8 or newer) </li><li>Knowledge of jQuery, SASS/SCSS, typescript, and backbone.js framework is a plus</li><li>Knowledge of Salesforce.com applications preferred</li><li>Experience working with REST APIs and asynchronous services</li><li>Experience working in an evolving, high growth environment<br/><br/></li></ul><strong>Why Work At LeanData<br/><br/></strong><ul><li>Stock options in LeanData for all full-time employees</li><li>Flexible PTO</li><li>Employee insurance premiums up to 90%</li><li>401K plan<br/><br/></li></ul>The salary range for this role is between $100,000 and $140,000 depending on skills, location and experience.<br/><br/><em>We warmly welcome into the LeanData family all persons without regard to ethnic and racial identity, indigenous heritage, national origin, religion, gender, gender identity, gender expression, sexual orientation, age, disability, marital status, veteran status, genetic information, or any other legally protected status.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

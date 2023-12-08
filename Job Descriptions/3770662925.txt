@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>This candidate will be responsible for the development, implementation, maintenance, and improvement of quality assurance processes. Throughout the implementation and maintenance process, this candidate should use data analysis to better understand quality reporting measures and improve processes.</p><p><br/></p><p><strong>Responsibilities</strong></p><ul><li>Write and optimize SQL queries for data validation and analysis.</li><li>Generate reports, analyze data, and identify patterns and trends to support decision-making.</li><li>Collaborate with data analysts and data engineers to understand data requirements and ensure data quality.</li><li>Work with SQL language, EDI /ETL systems, and API testing.</li><li>Test multiple databases like SQL Server, Oracle, Snowflake, etc.</li><li>Perform testing reports using BI reports and Looker. o Troubleshoot data-related issues and assist in data integrity checks.</li><li>Develop, maintain, and execute automated test scripts using industry-standard testing tools and frameworks.</li><li>Collaborate with developers to identify, document, and prioritize test cases.</li><li>Create and maintain test data sets to support automation efforts.</li><li>Perform regression testing, smoke testing, and automated test suite maintenance.</li><li>Ensure test scripts are maintainable, efficient, and deliver comprehensive coverage.</li></ul><p><br/></p><p><strong>Qualifications</strong></p><ul><li>• Bachelor’s degree in Computer Science, Information Technology, or a related field.</li><li>Proven experience in software quality assurance and testing, with an emphasis on automated testing.</li><li>Strong proficiency in writing and executing SQL queries for data analysis.</li><li>Familiarity with test automation frameworks and tools (e.g., Selenium, JUnit, TestNG).</li><li>Experience with version control systems (e.g., Git) and continuous integration/continuous deployment (CI/CD) pipelines.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

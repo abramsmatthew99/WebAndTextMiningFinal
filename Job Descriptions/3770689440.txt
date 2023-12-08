@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a highly motivated and skilled <strong>Associate Full Stack (JavaScript, Python)+AI Engineer</strong> to join our dynamic team. The ideal candidate possesses a strong foundation in computer science, extensive expertise in Python programming, and a deep understanding of artificial intelligence. The role requires a proactive individual with exceptional problem-solving skills, a passion for technology, and the ability to take ownership of projects. Excellent communication skills and a strong work ethic are crucial, as the candidate will be actively involved in product ownership, collaborating with cross-functional teams, and contributing to the overall success of our AI initiatives.<br/><br/><strong>Location: New Jersey (Ridgewood)<br/><br/></strong><strong>Employment type: Full-time<br/><br/></strong><strong>Key Responsibilities<br/><br/></strong><ul><li>Develop and implement AI algorithms and models using JavaScript (libraries and framework), HTML/CSS and Python, demonstrating proficiency in both the language and AI concepts.</li><li>Apply strong problem-solving skills to address complex challenges in the codes.</li><li>Effectively communicate complex technical concepts to both technical and non-technical team members, fostering a collaborative environment.</li><li>Exhibit strong behavioral skills, including adaptability, resilience, and a positive attitude in a dynamic work environment.</li><li>Display an extremely ambitious mindset with unbeatable work ethics, consistently striving for excellence and setting high standards.</li><li>Take ownership of tasks and projects, ensuring timely and high-quality delivery while being accountable for the outcomes.</li><li>Take ownership of AI projects, collaborating closely with product managers, designers, and other stakeholders to ensure successful project delivery.</li><li>Leverage a solid background in computer science to design and implement efficient and scalable AI solutions.</li><li>Showcase a genuine passion for AI and technology, with a track record of enthusiastic contributions to projects.</li><li>Demonstrate expertise in AI technologies, staying abreast of industry trends and advancements.</li><li>Demonstrate the ability to comprehend complex AI concepts, algorithms, and methodologies, translating them into practical solutions.</li><li>Possess a seeker mindset, actively seeking opportunities for learning, growth, and improvement in the rapidly evolving field of AI.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's or higher degree in Computer Science, Artificial Intelligence, or a related field.</li><li>Proficiency in Programming languages such as Python, JavaScript / React / TypeScript, Markup technologies - HTML, CSS.</li><li>Solid understanding of AI concepts, algorithms, and methodologies.</li><li>Excellent communication and teamwork skills.</li><li>Proven ability to take ownership, solve problems, and deliver high-quality results.</li><li>Passion for technology and a strong ambition to excel in the field of AI.<br/><br/></li></ul>If you are a self-motivated individual with a passion for AI, strong technical skills, and a desire to make a significant impact, we encourage you to apply for this exciting opportunity. Join us in pushing the boundaries of AI innovation!<br/><br/><strong>About Techolution<br/><br/></strong>Techolution is a consulting firm on track to become one of the most admired brands in the world for <em>"innovation done right"</em>. Our purpose is to harness our expertise in novel technologies to deliver more profits for our enterprise clients while helping them deliver a better human experience for the communities they serve. With that, we are now fully committed to helping our clients build the enterprise of tomorrow by making the leap from Lab Grade AI to <em>Real World AI</em>.<br/><br/>We are honored to have recently received the prestigious Inc 500 Best In Business award, a testament to our commitment to excellence. While we are big enough to be trusted by some of the greatest brands in the world, we are small enough to care about delivering meaningful ROI-generating innovation at a guaranteed price for each client that we serve.<br/><br/><strong>Let’s give you more insights!<br/><br/></strong><strong>One of our amazing products with Artificial Intelligence and Internet of Things:<br/><br/></strong><ul><li> https://faceopen.com/ : Our proprietary and powerful AI Powered user identification system which is built on artificial intelligence technologies such as image recognition, deep neural networks, and robotic process automation. (No more touching keys, badges or fingerprint scanners ever again!)<br/><br/></li></ul><strong>Some videos you wanna watch!<br/><br/></strong><ul><li>Life at Techolution</li><li>GoogleNext 2023</li><li>Ai4 - Artificial Intelligence Conferences 2023</li><li>WaWa - Solving Food Wastage </li><li>Saving lives - Brooklyn Hospital</li><li>Innovation Done Right on Google Cloud</li><li>Techolution featured on Worldwide Business with KathyIreland</li><li>Techolution presented by ION World’s Greatest<br/><br/></li></ul>Visit us <strong>@</strong><strong>www.techolution.com</strong><strong> : </strong>To know more about our revolutionary core practices and getting to know in detail about how we enrich the human experience with technology.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

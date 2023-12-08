@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>At<strong> RED GATE </strong>we do everything we can to serve our clients:<br/><br/>Using the right technical skills, unique methodologies, best practices, and integrated technology, we help clients implement bold solutions. New approaches to emerging and evolving threats. Non-traditional ways to overcome entrenched obstacles. Advantage through opportunity. If you have a serious challenge or problem, we can help you solve it. The below job description provides details on how this role will help to serve our clients.<br/><br/><strong>Job Description<br/><br/></strong>The Red Gate Group is seeking an expert-level <strong>Application Developer</strong> to support NGA's FM Business Solutions Office (FMZ) to create, plan, and implement solutions for the improved processing, analysis, collection, organization, storage, management, retrieval, and use of financial data from across the enterprise.<br/><br/>Duties Include:<br/><br/><ul><li>Leading research teams to understand and document requirements (data inputs and outputs), business processes, and existing data challenges and further developing and implementing process improvements to the processes and challenges.</li><li>Performing quantitative and qualitative analysis to understand the links between business processes, data inputs, information requirements (outputs), and potential solutions. </li><li>Developing and implementing solutions to financial data management challenges using advanced Visual Basic for Applications (VBA), Structured Query Language (SQL), SQL Server, Microsoft Access and Microsoft Excel technologies. </li><li>Convert older programming languages to SQL Server and Python.</li><li>Coordinating and participating in system engineering and technical exchange meetings to support quick resolution of architectural, design, system interoperability and policy issues. </li><li>Coordinating and participating in milestone events to include requirement reviews, design reviews, and program management reviews.</li><li>Assess and validate system operational needs such as enhancements or system changes ; define and develop technical requirements and specifications for development and test. </li><li>Assist in developing, validating , and implementing systems management metrics and measures. </li><li>Documenting and updating processes through a variety of means: creating user manuals, desk guides, and standard operating procedures; validating all no less than annually.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Required<br/><br/></strong><ul><li>Active TS/SCI </li><li>BA/BS Degree</li><li>15+ Years of Experience</li><li>3 years demonstrated experience developing and implementing automated solutions to financial challenges using Python, VBA, SQL, SQL Server, Microsoft Access, and/or Microsoft Excel </li><li>At least 3 years of demonstrated experience extracting technical requirements from business processes or other methods for configuration changes and system enhancements.</li><li>At least 3 years of demonstrated experience communicating both orally and in writing to a variety of audiences, ranging from inexperienced employees to senior executives <br/><br/></li></ul><strong>Desired<br/><br/></strong><ul><li>5 years of demonstrated experience with financial data and reports </li><li>3 years of demonstrated experience with Momentum-based system</li><li>3 years of demonstrated experience in developing reports in COGNOS reporting tool in the Intelligence Community </li><li>3 years of demonstrated experience with the United States Standard General Ledger (USSGL) </li><li>Possess a Master's degree in a business or IT related field such as Business, Management, Economics, Accounting, Computer Science, MIS, etc. or demonstrate at least 10 years of hands on experience<br/><br/></li></ul><strong>Additional Information<br/><br/></strong>The Red Gate Group, Ltd. is an Equal Opportunity/Affirmative Action Employer. The Red Gate Group, Ltd. considers applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law. <strong>EEO is the Law</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

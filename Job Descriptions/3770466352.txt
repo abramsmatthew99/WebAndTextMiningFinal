@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>At AES, we raise the quality of life around the world by changing the way energy works. Everyone makes an impact every day in our small, global teams. Apply here to start an extraordinary career today. <br/><br/></strong>Data scientists work with key decision-makers to solve business problems by preparing, analyzing, and understanding data to deliver insight, predict emerging trends, and provide recommendations to optimize results. Data scientists use a variety of data (structured, unstructured, IoT streaming), analytics, AI tools, and programming languages often using a cloud infrastructure to handle the volume and veracity of data streams.<br/><br/>Armed with data, modeling expertise, and analytic results, the data scientist communicates conclusions and recommendations to stakeholders in an organization's leadership structure. Eye for business is an important skill for data scientists to effectively communicate their findings to business leaders, data scientists need strong consulting, communication, visualization, and storytelling skills.<br/><br/>As an intern, you can grow through challenging work, get involved in meaningful projects and receive great mentor from our leaders. Here, you can apply your talent in bold ways that matter.<br/><br/>START AND END DATES FOR THIS INTERNSHIP ARE DURING SUMMER 2024 (3 months)<br/><br/><strong>Your Role and Responsibilities:<br/><br/></strong>Data Scientists are a part of AES's digital transformation. If hired, you will be matched to a team based on business demand, location and fit. Join the forward-thinking teams at AES solving some of the world’s renewable energy problems – there is no better place to grow your career!<br/><br/>The Work You May Do<br/><br/><ul><li>Support algorithm development and deploy solutions based on real-world data; implement and validate predictive models; create and maintain statistical models.</li><li>Communicate with internal and external clients to understand business needs and provide analytical solutions.</li><li>Use statistical concepts such as regression, time series, mixed model, Bayesian methods, clustering, etc. to analyze data and provide insights.</li><li>Work in an Agile, collaborative environment, partnering with other scientists, engineers, and database administrators of all backgrounds and fields to bring analytical rigor and statistical methods to the challenges of predicting behaviors.</li><li>Data analytics including identifying, retrieving, manipulating, relating and exploiting multiple structured and unstructured data sets from various sources including building or generating new data sets.</li><li>Build capabilities with software tools (e.g. Google Cloud Platform)</li><li>Identify, retrieve, manipulate, relate and exploit multiple structured and unstructured data sets from various sources including building or generating new data sets as appropriate.</li><li>Create and present materials on data projects, data science architecture and analytics strategies.<br/><br/></li></ul>Who You Are<br/><br/><ul><li>You can debug, troubleshoot, design and implement solutions to complex technical issues.</li><li>You have a curiosity about analytics and solving problems using data.</li><li>Ability to deal with ambiguity and the flexibility to change direction as additional information becomes available.</li><li>You have a strong understanding of programming languages extensively used in Data Science applications (e.g., R, Python, Scala, Java, etc.).</li><li>Currently enrolled in Business Analytics, Mathematics, Economics, Physics, Computer Science, or Engineering.<br/><br/></li></ul>Required Professional and Technical Expertise<br/><br/><ul><li>Training or relevant coursework in data science, statistics or machine learning.</li><li>Must have experience coding in R and/or Python.<br/><br/></li></ul><strong>Preferred Professional And Technical Expertise<br/><br/></strong><ul><li>Advanced knowledge of statistical concepts such as regression, time series, mixed model, Bayesian methods, clustering, etc, to analyze data and provide insights.</li><li>Experience collaborating on coding projects in Google Cloud Platform</li><li>Strong communication and data visualization skills to adequately explain complex subject matter to a wide range of associates.<br/><br/></li></ul>AES is an Equal Opportunity Employer who is committed to building strength and delivering long-term sustainability through diversity and inclusion. Respecting all backgrounds, differences and perspectives enables us to improve the lives of our people, customers, suppliers, contractors, and the communities in which we live and work. All qualified applicants will receive consideration for employment without regard to sex, sexual orientation, gender, gender identity and/or expression, race, national origin, ethnicity, age, religion, marital status, physical or mental disability, pregnancy, childbirth, or related medical condition, military or veteran status, or any other characteristic protected under applicable law. E-Verify Notice: AES will provide the Social Security Administration (SSA) and if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Utilities
+          </span>
+</li>
+</ul>
+</div>
+</section>

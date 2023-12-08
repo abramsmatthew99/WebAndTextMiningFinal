@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Network Engineer<br/><br/></strong><strong>Location:</strong> Silver Spring, Md (hybrid position - Mostly Remote)<br/><br/><strong>Required clearance:</strong> Secret clearance or Higher Preferred<br/><br/><strong>Salary:</strong> $90K- $150K with full benefits<br/><br/><strong>Stating Date:</strong> ASAP<br/><br/><strong>Position Summary</strong>:<br/><br/>Responsible for configuring, managing, monitoring, and maintaining government Command and Control (C2) network devices and some application servers. The Network Engineer will manage the installation, configuration, optimization, and troubleshooting of hardware/software for network devices used on a government network. The position will also include the management of Voice over Internet Protocol (VoIP) phones, call managers, and gateways. Additional duties include:<br/><br/><ul><li> Configure and test network devices. </li><li> Perform firmware and software upgrades of network devices</li><li> Provide LAN/WAN support with skill in network analysis, integration, and tuning</li><li> Work with customers and operations staff in scheduling preventive maintenance and responding to emergency maintenance to include resolution of customer tickets</li><li> Candidate will be required to support on-call duty for responding to network outages</li><li> Candidate will be required to travel to local and CONUS/OCONUS sites<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li> Active Secret security clearance mandatory or higher</li><li> Bachelor’s Degree in Computer Science (or similar technical field) and 1+ years relevant professional experience; or commensurate education and experience</li><li> 5 year of experience with networking technologies and concepts such as Layer 2 and Layer 3 protocols</li><li> 3 year of experience with Cisco and Juniper devices, VLANs, VPNs, LAN/WAN technologies, and/or routing &amp; switching</li><li> 5 year of operational experience with local and wide area network infrastructures, including routers, firewalls, switches, servers, and related hardware</li><li> Experience in one or more of the following areas: network troubleshooting, routers/switches, VoIP phones, video conferencing systems, SolarWinds monitoring or database tools, and/or Call Manager</li><li> Must have at least a CCNA certification<br/><br/></li></ul><strong>Preferred:<br/><br/></strong><ul><li> Cisco CCNP (Route/Switch or Collaboration) desired</li><li> Ability to generate documentation that describes standard operating procedures, which will be used by helpdesk personnel</li><li> Previous experience supporting a Government and/or Department of Defense customer</li><li> Solid written and verbal communication skills</li><li> Strong investigative skills and listening skills, self-motivated individual</li><li> Ability to work under pressure and be flexible with their time</li><li> Ability to prioritize and document tasks is a plus</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

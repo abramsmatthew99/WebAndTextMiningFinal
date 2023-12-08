@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!<br/><br/>Job details<br/><br/><strong>UI Web Developer Needed<br/><br/></strong>This Jobot Job is hosted by Richard Davis<br/><br/>Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.<br/><br/>Salary $60 - $75 per hour<br/><br/><strong>A Bit About Us<br/><br/></strong>My client is a growing online fashion company in the Los Angeles area.<br/><br/><strong><br/><br/><strong>Why join us?<br/><br/><br/></strong></strong>Great Benefits<br/><br/>Great Culture<br/><br/>Great Compensation<br/><br/><strong>Job Details<br/><br/></strong>Job Details<br/><br/>We are seeking a passionate and skilled Contract UI Web Developer to join our dynamic team in the manufacturing industry. The successful candidate will be responsible for developing and implementing user interface components using cutting-edge technologies and frameworks. You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Developing new user-facing features using various web technologies.</li><li> Building reusable components and front-end libraries for future use.</li><li> Translating designs and wireframes into high-quality code.</li><li> Optimizing components for maximum performance across a vast array of web-capable devices and browsers.</li><li> Collaborating with the team to define, design, and ship new features.</li><li> Ensuring the technical feasibility of UI/UX designs.</li><li> Assisting in API development and integration.</li><li> Using WebSockets to enable real-time communication between applications.</li><li> Staying up-to-date with industry developments and emerging trends.</li><li> Providing technical support for web, desktop, or mobile applications.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, Information Technology, or a related field.</li><li> Minimum of 3 years' experience as a UI Web Developer or similar role.</li><li> Demonstrated experience with WebSockets, Tailwind, Next.js, API development, and various frameworks.</li><li> Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.</li><li> Thorough understanding of React.js and its core principles.</li><li> Experience with popular React.js workflows (such as Flux or Redux).</li><li> Familiarity with RESTful APIs.</li><li> Knowledge of modern authorization mechanisms, such as JSON Web Token.</li><li> Familiarity with modern front-end build pipelines and tools.</li><li> Ability to understand business requirements and translate them into technical requirements.</li><li> Excellent problem-solving skills and attention to detail.</li><li> Strong communication and teamwork skills.</li><li> Experience in the manufacturing industry is a plus.<br/><br/></li></ul>If you are a driven, passionate, and experienced UI Web Developer who is always looking to push the boundaries of what is possible, we would love to hear from you. Apply today and let's create something extraordinary together!<br/><br/>Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.<br/><br/><strong>Want to learn more about this role and Jobot?<br/><br/></strong>Click our Jobot logo and follow our LinkedIn page!<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Cyber Security Analyst Intern – Summer 2024<br/><br/></strong>At IEX, we're passionate about building technology that moves industries forward. Our story began when we built a stock exchange designed to deliver high-performance results for all investors. Our goal is to build transformative technology without ever compromising our integrity - and we're just getting started. IEX prides itself on being a flat company where all are welcome to ask questions and contribute meaningfully.<br/><br/>As a Cyber Security Analyst Intern with the Information Security Team, you will work with individuals across the organization to help advance IEX's Cyber Security posture. This is a cross-functional opportunity where you will be able to leverage your technical, analytical, and soft skills to help IEX set new standards and raise the bar for performance, fairness, and transparency.<br/><br/>As an intern, you will help us build a scalable solution to tackle challenges in Information Security.<br/><br/>About you:<br/><br/><ul><li>Self-starter</li><li>Excellent analytical and problem-solving skills</li><li>Organized and detail-oriented</li><li>Collaborative team player</li><li>Exceptional written and verbal communication skills</li><li>You are passionate about information security<br/><br/></li></ul>What you'll do:<br/><br/><ul><li>Learn and grow as an information security professional </li><li>Make meaningful contributions to defend our employees from cybersecurity threats </li><li>Policy and procedure review and analysis </li><li>Risk Assessment and Management </li><li>Threat Intelligence Monitoring</li><li>Business Continuity and Disaster Recovery </li><li>Incident Response </li><li>Vulnerability Management<br/><br/></li></ul>Your background:<br/><br/><ul><li>Undergraduate working towards a degree related to Information Security, Computer Engineering, Computer Science, or related degree with less than 2 years until graduation</li><li>Familiarity with technology and security topics including but not limited to operating systems, network security, protocols, application security, infrastructure hardening, and security baselines</li><li>Experience working with MS Excel, vulnerability scanners, SIEM solutions, DLP tools, drafting phishing emails</li><li>Ability to work well in a team environment, utilize your critical thinking skills to identify and solution for security related events, ask questions and independently research solutions to find the answers and apply them to your work<br/><br/></li></ul><em>Our job titles may span more than one career level. The starting base pay is $30.00/hour for this NY-based position. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future.<br/><br/></em><em>Here at IEX, we are dedicated to an inclusive workplace and culture. We are an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, color, creed, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information or any other characteristic protected by applicable federal, state or local laws. This policy not only complies with all applicable laws and protects workers' rights but is vital to IEX's overall mission and value</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

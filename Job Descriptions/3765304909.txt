@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are currently seeking an experienced <strong>Front-End Software Engineer</strong> to design and build web applications by producing front-end code to create an optimal user interface with a focus on usability and simplicity of design.<br/><br/>What you will be doing<br/><br/><ul><li>Enhancing and maintaining a modern JavaScript-based application </li><li>Developing, enhancing, and maintaining front-end software code to make available and display pre-processed data</li><li>Developing and maintaining test cases for the front-end applications<br/><br/><br/></li></ul>What you <strong><em>need</em></strong> to be considered for this role (required)<br/><br/><ul><li>Bachelor’s degree in Information Systems, Computer Science, or related field from an accredited college/university</li><li>4+ years of proven experience developing front-end user interfaces</li><li>4+ years of recent hands-on experience with JavaScript and related ecosystem tools (e.g., bootstrap, jQuery, JSON, etc.)</li><li>Prior experience with TypeScript and Node.js/NPM</li><li>Experience with XML /XBRL ( Good to have). </li><li>Experience with Webpack, Web Worker, Fetch, and Sass</li><li>Strong understanding of web application software development lifecycle including version control, debugging tools, and testing tools</li><li>Passion for working on complex software solutions having major impact on the client we serve</li><li>Strong verbal and written communication skills</li><li>Ability to learn new technologies quickly</li><li>Ability to effectively and efficiently multitask, prioritize, and carry out projects through to completion with minimal supervision</li><li>Ability to maintain a high level of accuracy and attention to detail</li><li>U.S. Citizenship required (dual nationals not eligible)</li><li>Position will require a Public Trust background investigation<br/><br/><br/></li></ul>What makes you stand out from the crowd (desired)<br/><br/><ul><li>Prior experience with and/or knowledge of XBRL</li><li>Prior experience with and/or knowledge of Python </li><li>Prior experience with and/or knowledge of Java </li><li>Familiarity with Cypress and Playwright</li><li>Knowledge of testing frameworks</li><li>Prior experience working with financial data or financial management systems<br/><br/><br/></li></ul><strong>About Us<br/><br/></strong>Ascella Technologies, Inc. (Ascella) is a minority-owned, Small Business that was founded in 2002 with the mission to deliver value-added services and technology-based solutions that generate real results for Federal agencies. Since our founding, Ascella has provided a wide range of financial management, accounting, system, data analytics, optimization, Agile, and IT support services to various Federal agencies.<br/><br/>Ascella is continuously growing and looking for team members that can help us continue to deliver value-added technology-based solutions. Ascella’s continued success is a reflection of our passion for people. We hire individuals with valuable experiences, and we strive to place people in roles that let them fully utilize their talents and flourish. With Ascella, “Your Success is Our Commitment”.<br/><br/>What makes Ascella employees great<br/><br/><ul><li>Innovative Thinkers: From small suggestions to large goals, employee voices are heard and acknowledged. We encourage employees to come up with creative ideas and give everyone the opportunity to help us define how we do things. You will have the opportunity to solve real business problems and be challenged to come up with innovative solutions.</li><li>Lifelong learners: We value lifelong learners who are excited about professional development and personal growth. At Ascella, employees are part of a company and a culture that encourages continuous improvement of both the organization and our employees. You will work in a collaborative environment with an experienced, highly capable team that learns from each other, and you will be both challenged and supported in your efforts to learn and grow.</li><li>Customer-Centric: Ascella is committed to complete customer satisfaction on every project. Our employees provide our customers with excellent service, proactively coming up with solutions to current and anticipated needs. The customer experience is an integral part of our mission and values, and you will work alongside people who are focused and dedicated to the commitment of customer satisfaction. </li><li>Open Communicators: Transparency and communication are important to us at Ascella. We have an “open door” policy, and our employees ask questions and share information on a regular basis. We believe in aligning employee work with overall company objectives and being open about our strategic plan and what we are trying to achieve. We encourage regular feedback and appreciate employee input on what’s working and what’s not so we can initiate discussions about how to improve our processes.</li><li>Inclusive: At Ascella, we encourage and embrace diversity in our workforce. We are committed to being an inclusive organization where all employees feel valued, respected, and engaged. Our employees have an array of talents, ideas, and experiences that help foster creativity and innovation and drive our success.<br/><br/><br/></li></ul><strong>Position:</strong> Front-End Software Engineer<br/><br/><strong>Company: </strong>Aptin, LLC<br/><br/><strong>Location:</strong> Fully Remote<br/><br/><strong>Base Compensation:</strong> $120-140K, based on factors such as geographic location and experience<br/><br/><strong>Other Compensation:</strong> 4% contribution to 401(k), performance bonus, profit-sharing<br/><br/><strong>Paid Time Off:</strong> 16 days PTO/year, 11 holidays/year<br/><br/><strong>Benefits:</strong> Medical, Dental, Vision, Life, Disability, 401(k)…and more<br/><br/><strong>Equal Employment Opportunity Statement<br/><br/></strong><em>Aptin is an Affirmative Action/Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation. We provide equal employment opportunities to all qualified candidates without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status or any other characteristic protected by law. Aptin is committed to providing veteran employment opportunities to our service men and women.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

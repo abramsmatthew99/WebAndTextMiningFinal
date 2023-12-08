@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Helps to manage and tune in-house computer software systems and network connections to ensure high levels of availability and security of the supported business applications. Participates in the planning and implementation of policies and procedures to ensure system provisioning and maintenance that is consistent with company goals, industry best practices, and regulatory requirements.<br/><br/><strong>Responsibilities<br/><br/><br/></strong><ul><li> Provides systems environment support by:</li><li>Leading advanced operating system and application software product installations, updates, and customizations. </li><li>Performing hardware installations and upgrades. </li><li>Continuing to improve and build upon basic operating system skills and requisites. </li><li>Building servers as required (OS &amp; support software). </li><li>Installing/updating system support software. </li><li>Maintaining network infrastructure. </li><li>Monitoring, diagnosing, testing, and resolving issues as they occur. </li><li>Monitoring capacity and performance of supported systems. </li><li>Leading the implementation and support of applications residing on supported server systems. </li><li>Ensuring all infrastructure components are documented. </li><li>Managing and supporting the implementation of complex system software changes and actual product rollout. </li><li>Developing and implementing solutions for capacity or performance-related issues. </li><li>Ensuring all company security policies and practices relating to IT system administration are implemented and adhered to. </li><li> Provides systems stability improvement by:</li><li>Researching and resolving complex severity problems assigned to the support group.</li><li>Interrogating system dumps and researching supporting documentation to assist in the resolution of system-related problems.</li><li>Testing hardware and OS patches to develop the latest patch bundles and create procedures for their installation.</li><li>Installing the latest server patch bundles on a timely basis.</li><li>Proactively reviewing the system environment and identifying processes or conditions that could lead to system or application stability problems.</li><li>Evaluating new technology and products.</li><li>Authoring post-mortem review of high-impact extended outages.</li><li> Provides client activity support by:</li><li>Providing critical client support by participating in the on-call rotation. </li><li>Preparing supporting documentation to be used by junior staff members for high-level on-call support. </li><li>Creating new users in Nexus security and assigning roles within Operations and other departments. </li><li> Provides guidance for system activities by:</li><li>Designing, configuring, and documenting IT infrastructure.</li><li>Acting as local technical advisor.</li><li>Evaluating and developing process improvements and strategic system direction.</li><li>Defining corporate-wide IT standards.</li><li>Researching advancements in system technology and providing strategic alternatives.</li><li>Mentoring team members in the support of IT systems and related utilities.</li><li>Leading efforts to architect complex IT systems.</li><li>Providing technical expertise in support of IT operations and systems to other IT personnel.</li><li>Directing the evaluation of future hardware/software purchases and preparing business case justifications.</li><li> Configures hardware and systems by:</li><li>Performing Server, Router, Switch, Wireless, and Firewall configurations and deployments.</li><li>Performing high-level troubleshooting of Server and Network equipment.<br/><br/><br/></li></ul><strong>Personal Attributes <br/><br/><br/></strong><ul><li>Strong customer service orientation.</li><li>Proven analytical and problem-solving abilities.</li><li>Ability to effectively prioritize and execute tasks in a high-pressure environment.</li><li>Strong interpersonal and communication skills.</li><li>Adept at reading, writing, and interpreting technical documentation and procedure manuals.</li><li>Ability to conduct research into hardware and software issues and products as required.</li><li>Ability to present ideas and solutions in user-friendly language.</li><li>Highly self-motivated and directed with keen attention to detail.</li><li>Enjoys working in a team-oriented, collaborative environment.<br/><br/><br/></li></ul><strong>Professional Attributes<br/><br/><br/></strong><ul><li>Four-year degree in Business or Computer Science.</li><li>8+ years of progressive experience.</li><li>Strong operational &amp; production support background.</li><li>Microsoft 365 implementation and administration experience (Azure AD, Intune, Autopilot, Exchange, SharePoint, Teams).</li><li>HP/Cisco UCS server hardware experience.</li><li>Microsoft SQL experience.</li><li>Expert knowledge of networks, server systems utilities, administration routines, Windows Active Directory, clustering software, supporting server production applications, including set up of system backups and monitoring routines.</li><li>Advanced knowledge of TCP/IP, and current trends and changes in technologies.</li><li>Demonstrated technical leadership with strong interpersonal skills.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment
+          </span>
+</li>
+</ul>
+</div>
+</section>

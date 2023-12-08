@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<span><span><strong>Genesis10 is currently seeking an Application Programmer with our client in the financial industry located in Plano, TX. This is a 12 + month contract position.<br/><br/>Responsibilities:</strong></span></span><ul><li><span><span>Responsible for hands-on application development to support the current and target process, as well as partnering with the multiple Technology teams to implement the target architecture and migration to strategic platform<br/></span></span></li></ul><span><span><strong>Requirements:</strong></span></span><ul><li><span><span>4+ years of experience in Python development experience </span></span></li><li><span><span>2+ years of experience in big data technologies like Spark, Hadoop</span></span></li><li><span><span>2+ years of SQL programming experience preferably with databases such as Oracle Exadata</span></span></li><li><span><span>2+ years of data wrangling/ETL experience preferably with vendor products such as Alteryx/Trifacta or Informatica</span></span></li><li><span><span>Knowledge of performance tuning data intensive applications</span></span></li><li><span><span>Expertise in performance profiling, ability to identify performance improvements and memory optimizations</span></span></li><li><span><span>Strong coding, debugging, and analytical skills</span></span></li><li><span><span>Experience in large scale enterprise application design and implementation</span></span></li><li><span><span>Creative individual with a track record of working on and implementing innovative tech based solutions</span></span></li><li><span><span>Excellent communication skills<br/></span></span></li></ul><span><span><strong>Desired skills:</strong></span></span><ul><li><span><span>Degree from outstanding university</span></span></li><li><span><span>Background in capital calculations</span></span></li><li><span><span>BS/MS in Computer Science, Engineering, or any quantitative discipline</span></span></li><li><span><span>Knowledge and/or experience working within the Hadoop or other big data distributed ecosystem</span></span></li><li><span><span>Knowledge of cloud computing or distributed computing</span></span></li><li><span><span>2+ years of Java development </span></span></li><li><span><span>Experience working with agile methodologies and SDLC processes</span></span></li><li><span><span>1+ years of UNIX scripting experience and unit test mock frameworks</span></span></li><li><span><span>Experience in Quartz (Internal bank platform) </span></span></li></ul><span><span><strong>Pay Range:</strong> $58.26 - $66.26<br/><br/><strong>Only candidates available and ready to work directly as Genesis10 employees will be considered for this position.<br/><br/>If you have the described qualifications and are interested in this exciting opportunity, please apply!<br/><br/>About Genesis10:<br/></strong>Ranked a Top Staffing Firm in the U.S. by Staffing Industry Analysts for six consecutive years, Genesis10 puts thousands of consultants and employees to work across the United States every year in contract, contract-for-hire, and permanent placement roles. With more than 300 active clients, Genesis10 provides access to many of the Fortune 100 firms and a variety of mid-market organizations across the full spectrum of industry verticals. <br/><br/><strong>For contract roles, Genesis10 offers the benefits listed below. If this is a perm-placement opportunity, our recruiter can talk you through the unique benefits offered for that particular client.  Benefits of Working with Genesis10: </strong></span></span><span><span>•    Access to hundreds of clients, most who have been working with Genesis10 for 5-20+ years. <br/>•    The opportunity to have a career-home in Genesis10; many of our consultants have been working exclusively with Genesis10 for years. <br/>•    Access to an experienced, caring recruiting team (more than 7 years of experience, on average.) <br/>•    Behavioral Health Platform <br/>•    Medical, Dental, Vision <br/>•    Health Savings Account <br/>•    Voluntary Hospital Indemnity (Critical Illness &amp; Accident) <br/>•    Voluntary Term Life Insurance <br/>•    401K <br/>•    Sick Pay (for applicable states/municipalities) <br/>•    Commuter Benefits (Dallas, NYC, SF) <br/>•    Remote opportunities available <br/></span></span><span><span>For multiple years running, Genesis10 has been recognized as a Top Staffing Firm in the U.S., as a Best Company for Work-Life Balance, as a Best Company for Career Growth, for Diversity, and for Leadership, amongst others. To learn more and to view all our available career opportunities, please visit us at our website. <br/><br/>Genesis10 is an Equal Opportunity Employer. Candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. <br/></span></span> 
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

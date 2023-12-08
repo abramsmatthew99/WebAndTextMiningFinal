@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Duties<br/><br/></strong>As an IT Engineer for the CIA, you will specialize in the engineering, development, integration, and product evaluation services for the Agency's worldwide workgroup platform. You will work in a collaborative environment, providing critical support to the overall Agency mission, and are responsible for designing and deploying a secure, global communications infrastructure that allows CIA officers to communicate and collaborate with each other and partners throughout the Intelligence Community (IC) and federal government. This includes participating in the design of enterprise desktop, engineering collaborative solutions (e-mail, team collaboration, web and video conferencing) for the Agency and the IC, and introducing state-of-the-art technologies into the corporate baseline.<br/><br/>The Agency's network and application platforms leverage the best of industry and internally developed solutions to create an engineering environment that is both technically challenging and innovative. Opportunities to develop the most secure IT solutions from tactical platforms to high-speed optical networking are available.<br/><br/><strong>Requirements<br/><br/></strong><strong>Conditions of Employment<br/><br/></strong><ul><li>You must be physically in the United States or one of its territories when you submit your resume via MyLINK.</li><li>You must be registered for the Selective Service, if applicable.</li><li>You must be a U.S. citizen and at least 18 years of age (dual-national US citizens are eligible).</li><li>You must be willing to move to the Washington, DC area.</li><li>You must successfully complete a thorough medical and psychological exam, a polygraph interview, and a comprehensive background investigation.</li><li>For further requirements information, please visit: https://www.cia.gov/careers/how-we-hire/requirements/<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Minimum Qualifications</strong> <br/><br/><ul><li>Experience in systems engineering, computer and electrical engineering, software development, or network engineering experience with an emphasis on full lifecycle development, hardware and software analysis, platform and/or network development</li><li>Knowledge of a range of communications technologies, network systems and certifications, such as:</li><ul><li>Operating Systems (i.e. Windows, Unix, Linux)</li><li>Collaborative tools and back-end infrastructure for e-mail, instant messaging, web and video conferencing</li><li>Programming and scripting languages (i.e. C, Python, Java, Bash, PowerShell)</li><li>Hardware and software testing and evaluation</li><li>Wide Area Network (WAN) technologies (e.g., DWDM, SONET, ATM, MSPP, etc.)</li><li>Local Area Network (LAN) technologies</li><li>Video</li><li>Satellite</li><li>Network security</li><li>Cyber security and encryption technologies</li></ul><li>Aptitude for working in a multi-disciplined, diverse, and technically challenging environment</li><li>Ability to meet the minimum requirements for joining CIA , including U.S. citizenship and a background investigation</li></ul> <strong>Desired Qualifications</strong> <br/><br/><ul><li>Experience with full software development lifecycle developing applications with database, search, and presentation layer technologies</li><li>Possession of a range of technical certifications, such as:</li><ul><li>Professional systems-engineering certifications</li><li>Professional network-related certifications</li><li>Professional platform-related certifications</li><li>Professional cloud computing certifications</li><li>Professional certification in software development, full-stack development, enterprise computing, or data engineering</li></ul><li>Familiarity with cloud computing technologies</li><li>Knowledge of Agile development methods and framework</li><li>Familiarity with automated test tools and storage technologies</li><li>Ability to engage and collaborate across teams<br/></li></ul><strong>Education</strong> <br/><br/><ul><li>Bachelor's degree in one of the following fields or related studies:</li><ul><li>Electronic Engineering</li><li>Electrical Engineering</li><li>Computer Engineering</li><li>Computer Science</li><li>Equivalent relevant experience accepted</li></ul><li>At least a 3.0 GPA on a 4-point scale</li></ul><li></li>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

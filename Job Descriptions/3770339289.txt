@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Spokeo is a people search engine that both enlightens and empowers our customers. With nearly 15 billion records and 18 million monthly visitors, we reconnect friends, reunite families, prevent fraud, and more.<br/><br/>We’re looking to hire a <strong>Software Developer</strong> to join our Customer Analytics Team. You will use Ruby, Javascript, HTML, SQL, and more to enhance our full-stack web personalization infrastructure. You will join a cross-functional team of talented Engineers, Data Scientists, and Analysts to help integrate these solutions with our NextGen data and analytics platform.<br/><br/><strong>What you’ll do: </strong>(Estimated time of how much of an average week is spent doing each item. This is subject to change):<br/><br/><ul><li>(25%) Design, build, and improve data collection architecture for customer behavior events</li><li>(25%) Monitor pipelines and services for issues and ensure identified bugs are routed and resolved</li><li>(20%) Build analytics-driven product features that power key website real estate</li><li>(15%) Integrate tools to monitor analytics-driven services and provide insight into performance metrics</li><li>(15%) Create and maintain technical documentation and write well-abstracted, reusable, and efficient code<br/><br/><br/></li></ul><strong>What you will bring:<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science or equivalent knowledge and experience</li><li>3-6 years of full-stack web application development experience</li><li>Good knowledge of SQL and NoSQL data structures</li><li>Demonstrated advanced skills using Javascript, Ruby, HTML, and SQL</li><li>Experience in API layers like custom analytics, throttling, caching, logging, request and response modifications</li><li>Familiarity with analytics data tools like Google Analytics, Google Tag Manager, Tableau, etc.</li><li>Strong foundation in object-oriented programming, algorithms, and data structures<br/><br/><br/></li></ul><strong>Extra Points:<br/><br/></strong><ul><li>5+ years of relevant experience in SQL, NoSQL, and web application development</li><li>Experience with Data Lake concepts and implementation</li><li>Experience developing with cloud services such as AWS</li><li>Experience with microservices and serverless environments</li><li>Understanding of event-based Customer Data Platforms like Segment, Tealium, mParticle, etc.</li><li>Knowledge of Agile methodology and Scrum framework<br/><br/><br/></li></ul>Named <strong>Best Company for 2023</strong> by Comparably in the areas of Perks &amp; Benefits, Happiness, Compensation, and Work-Life Balance.<br/><br/>Spokeo offers a bonus program, equity plans, and 401K matching for qualified roles. Twice a year, we do discretionary, merit-based salary increases. Additional benefits include 100% medical/dental/vision coverage for all employees and unlimited PTO.<br/><br/>Spokeo extends written offers to candidates who successfully complete their selection process. Spokeo’s offers include a base salary, participation in a company bonus program, stock options, and comprehensive benefits. A final offer will depend on several factors, including, but not limited to, marketplace competition, job leveling, the candidate’s experience, skills, etc.<br/><br/>Privacy Notice for Candidates: https://www.spokeo.com/recruiting-policy<br/><br/>Spokeo is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, or protected veteran status. Spokeo fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best products, and be relevant in a rapidly changing world.<br/><br/>Recruiters or staffing agencies: Spokeo is not obligated to compensate any external recruiter or search firm who presents a candidate or their resume or profile to a Spokeo employee without 1) a current, fully executed agreement on file, and 2) being assigned to the open position (as a search) via our applicant tracking solution.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

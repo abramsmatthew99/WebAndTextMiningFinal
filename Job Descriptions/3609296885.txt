@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Who We Are<p><br/></p>Excellence Community Schools (ECS) is a Charter Management Organization<p><br/></p>(CMO) supporting schools in the Bronx, NY and Stamford, CT. Our programs are based on a proven, nationally recognized model, which originated in our flagship school, the Bronx Charter School for Excellence, a 2012 National Blue Ribbon School.<p><br/></p>Our Mission and Vision<p><br/></p>Our schools prepare young scholars to compete for admission to and succeed in top public, private, and parochial high schools by cultivating their intellectual, artistic, social, emotional, and ethical development. We accomplish this by offering a challenging and rigorous academic curriculum, which at the earliest of grades has an eye towards college preparation. To achieve this, our schools create a supportive and caring environment that at all times has high expectations of all students. We offer a differentiated, project-based learning environment that seeks to develop high-level analytic and critical thinking skills in all of our students. Our engaging and rigorous approach to educating our scholars is implemented by a collaborative team of teachers.<p><br/></p>Who You Are<p><br/></p><ul><li>Teach Computer Science class for grades K-7</li><li>Assist in assessing changing curricular needs and offer plans for improvement</li><li>Desire to plan product architecture and roadmap</li><li>Work alongside ECS staff and teaching team to best meet the needs and learning of students</li><li>Facilitate a dynamic and collaborative classroom community</li><li>Help build software programs to improve student learning</li><li>Work on software programs to assist staff and faculty</li><li>Assist students outside of class as necessary</li><li>Serve as a project manager for students during project Development</li><li>Develop and maintain genuine, positive and consistent communication with parents</li><li>Building a classroom culture that promotes active learning and computer science</li><li>Learn a new programming language or skill every quarter as part of professional development</li><li>Make direct technical contributions (writing, debugging, reviewing and deploying code)</li><li>Perform other duties as assigned</li></ul><p><br/></p><strong>Requirements</strong><p><br/></p><ul><li>Connecticut Teaching Certification for Elementary endorsement (#013) for grades K-6 required</li><li>Bachelor’s degree in Computer Science, Software Engineering, or equivalent experience</li><li>Ability to learn and teach new technologies with limited guidance</li><li>Experience with HTML5, CSS3, &amp; JavaScript</li><li>Excellent understanding of JavaScript Frameworks and libraries along with their related tooling (ex: React, Redux, Webpack, and ES6)</li><li>Experience working on front and backend applications</li><li>Proven track record of high achievement in the classroom</li><li>Evidence of self-governance and willingness to be a team player</li><li>Experience with one or more general-purpose programming languages including but not limited to: Java, C/C++, C#, Objective C, Python, JavaScript, or Go</li><li>Modern Web Framework experience ( Vue, Angular, Ember)</li><li> Experience in iOS and Android development</li><li> Strong mathematical background with strong knowledge in at least one of the following fields: statistics, data mining, machine learning, statistics, operations research, econometrics, natural language processing</li><li> Hands-on work experience working on development projects run using an Agile methodology, familiarity with DevOps</li></ul><p><br/></p>practices.<p><br/></p><ul><li> Proficient in the big data ecosystem programming languages (e.g. Python, Ruby, Java, Scala)</li><li> Prior teaching experience</li></ul><p><br/></p>Knowledge of an MVC framework such as Ruby on Rails a plus.<p><br/></p><ul><li>Must provide portfolio site for consideration</li><li>Provide sample lesson</li><li>Be prepared for a coding challenge</li><li>**THIS POSITION REQUIRES YOU TO BE FULLY VACCINATED AND YOU MUST PROVIDE PROOF OF VACCINATION.**</li></ul><p><br/></p><strong>Benefits</strong><p><br/></p><strong>Compensation</strong><p><br/></p><ul><li>Salary is commensurate with experience and qualifications. Salary range ($51,187.68 -$124,603.20)</li><li>Health Insurance, dental, vision &amp; 403b Retirement Plan</li><li>Paid Time Off/Paid Sick Leave/Parental Leave/FMLA</li><li>Short-term, Long-term Disability benefits and Life Insurance</li></ul><p><br/></p>To learn more about our schools, please visit www.excellencecommunityschools.org <strong>and </strong><strong>www.stamfordexcellence.org</strong>.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

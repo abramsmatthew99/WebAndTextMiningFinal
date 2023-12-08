@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are looking for an experienced Project Manager to manage the organization of key client projects.<br/><br/>Project management responsibilities include delivering every project on time within budget and scope. Project managers should have a background in business skills, management, budgeting and analysis.<br/><br/>Project managers are skilled at getting the best out of the people and projects that they oversee. They thrive when planning projects and working with project teams.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Coordinate internal resources and third parties/vendors for the flawless execution of projects</li><li>Ensure that all projects are delivered on-time, within the scope and within budget</li><li>Developing project scopes and objectives, involving all relevant stakeholders and ensuring technical feasibility</li><li>Ensure resource availability and allocation</li><li>Develop a detailed project plan to track progress</li><li>Use appropriate verification techniques to manage changes in project scope, schedule and costs</li><li>Measure project performance using appropriate systems, tools and techniques</li><li>Report and escalate to management as needed</li><li>Manage the relationship with the client and all stakeholders</li><li>Perform risk management to minimize project risks</li><li>Establish and maintain relationships with third parties/vendors</li><li>Create and maintain comprehensive project documentation<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Great educational background, preferably in the fields of computer science or engineering for technical project managers</li><li>Proven working experience as a project administrator in the information technology sector</li><li>Solid technical background, with understanding or hands-on experience in software development and web technologies</li><li>Excellent client-facing and internal communication skills</li><li>Excellent written and verbal communication skills</li><li>Solid organizational skills including attention to detail and multi-tasking skills</li><li>Strong working knowledge of Microsoft Office</li><li>PMP / PRINCE II certification is a plus</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

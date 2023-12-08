@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are looking for a Deep Learning Engineer to join our San Jose office in Ca.<br/><br/>You will work on building a real-time perception, tracking and prediction system, employing cutting-edge deep learning and computer vision methods.<br/><br/>This is an opportunity for a position in the autonomous driving industry with real-world experience in deploying deep learning-based architecture.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Research, development, and integration of vision-based road perception algorithms.</li><li> Overseeing and developing complex data pipelines, from data collection, to annotation, and generation.</li><li> Integration with C++ - based Autonomous Vehicle software.</li><li> Testing and finetuning developed algorithms/models in Imagry’s Autonomous Vehicle in Haifa.</li><li> Devising and measuring performance metrics.</li><li> M.Sc. in Computer Science, Applied Mathematics, Electrical Engineering or similar</li><li> At least 3 years hands-on experience with deep-learning research and application.</li><li> At least 3 years programming experience (Python/C++ or any high-level language).</li><li> Up to date on recent developments in the field of deep learning.</li><li> Probability theory, linear algebra, geometry, trigonometry at a B.Sc level.<br/><br/></li></ul><strong>Skills That Are Considered An Advantage<br/><br/></strong><ul><li> Experience with PyTorch.</li><li> Familiarity with Computer Vision.</li><li> Familiarity with the AV field.</li><li> A publicly viewable body of accomplished projects (e.g. github repository, portfolio, etc.)<br/><br/></li></ul><strong>About Imagry<br/><br/></strong>Imagry is an Autonomous Vehicle software provider developing a Level 4 Autonomous Vehicle AI system, built on vision-based deep learning solutions for road perception and motion planning. Our bio-inspired technology combines real-time visuo-spatial perception with an imitation-learning decision-making system. Imagry replaces the limitations of HD mapping and rule-based approaches with a real-time vision-based data-driven solution that utilizes cutting-edge Deep Learning methods.<br/><br/>Imagry currently has over 70 employees across 4 cities, including Haifa, Silicon Valley, Rawabi, and Phoenix, AZ, and we are expanding further, and we want strong, capable, and inventive engineers to join us on this journey.<br/><br/>Some videos of our autonomous vehicle in action can be found on our website. www.imagry.co
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

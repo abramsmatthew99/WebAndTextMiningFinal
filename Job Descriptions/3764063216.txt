@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Search by Keyword or Req ID<br/><br/>Search by Location<br/><br/>Click Here to Search by Job Function<br/><br/>Loading...<br/><br/>Job Function<br/><br/>All<br/><br/>Brand<br/><br/>All<br/><br/>Job Type<br/><br/>All<br/><br/><strong>Select How Often (in Days) To Receive An Alert<br/><br/></strong>Select how often (in days) to receive an alert:<br/><br/>Apply now »<br/><br/><strong> Data Engineer <br/><br/></strong>37755<br/><br/>New York, NY, US, 10036<br/><br/>Research<br/><br/>New York<br/><br/>Full-Time<br/><br/>Fully Remote<br/><br/>The Paramount Technology department supports our global content company through the delivery of a high-quality viewing experience, system infrastructure support, and crafting innovative ways for our employees to collaborate. If you are interested in a strategy that has growth, transformation, and ongoing innovation where you can help “reinvent the broadcasting wheel” Paramount Tech has a role for you!<br/><br/>We are seeking a highly skilled and motivated Data Integration Engineer to join our team! The ideal candidate will play a crucial role in building APIs and data pipelines using Python, orchestrating data workflows, and chipping in to a time-sensitive project environment where the ability to manage competing priorities is essential. Additionally, you will actively participate in meetings with our engineering team and business users to drive data integration initiatives forward.    <br/><br/><ul><li> API and Data Pipeline Development:</li><ul><li> Craft and construct robust APIs and data pipelines applying Python to ensure efficient data integration and transfer. </li></ul><li> Data Workflow Orchestration:</li><ul><li> Collaborate with multi-functional teams to orchestrate data workflows that streamline data processing and optimize data integration. </li></ul><li> Time-sensitive Project Management:</li><ul><li> Thrive in a dynamic project environment by effectively managing competing priorities and meeting project deadlines. </li></ul><li> Collaborative Engagement:</li><ul><li> Actively engage in meetings and discussions with engineering and business teams to gather requirements, provide updates, and ensure alignment on data integration initiatives. <br/></li></ul></ul><strong>Basic Qualifications<br/><br/></strong><ul><li> Minimum 5 years of hands-on experience as a data engineer. </li><li> Strong ability to develop solutions with Python. </li><li> Possesses in-depth knowledge of enterprise integration and automation patterns and paradigms (ESB, ETL, ELT, API broker, consolidating and rationalizing microservices). <br/><br/></li></ul><strong>Additional Qualifications<br/><br/></strong><ul><li> Database Programming </li><li> Scripting in a Linux environment </li><li> Solid grasp of Data Lake and Cloud Data Warehousing platforms such as Snowflake, Redshift, or BigQuery. </li><li> Hands-on experience with Amazon Web Services. </li><li> Ability to function collaboratively as part of a fast-paced, customer-focused team, perform effectively as an independent producer under broad management direction, and a demonstrated willingness to support the team on all levels to get the job done. </li><li> Proficient communication skills in working with technical and non-technical users and the ability to cultivate and maintain collaborative relationships among all levels of an organization. </li><li> Bachelor’s degree in Computer Science, Mathematics, Engineering, Data Science, or Statistics preferred. <br/><br/></li></ul>Paramount Global (NASDAQ: PARA, PARAA) is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic studios, networks and streaming services, Paramount's portfolio of consumer brands includes CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto TV and Simon &amp; Schuster, among others. Paramount delivers the largest share of the U.S. television audience and boasts one of the industry's most important and extensive libraries of TV and film titles. In addition to offering innovative streaming services and digital video products, the company provides powerful capabilities in production, distribution and advertising solutions.<br/><br/><strong>Additional Information<br/><br/></strong>Hiring Salary Range: $115,000.00 - 130,000.00.<br/><br/>The hiring salary range for this position applies to New York City, California, Colorado, Washington state, and most other geographies. Starting pay for the successful applicant depends on a variety of job-related factors, including but not limited to geographic location, market demands, experience, training, and education. The benefits available for this position include medical, dental, vision, 401(k) plan, life insurance coverage, disability benefits, tuition assistance program and PTO or, if applicable, as otherwise dictated by the appropriate Collective Bargaining Agreement. This position is bonus eligible.<br/><br/>https://www.paramount.com/careers/benefits<br/><br/>Paramount is an equal opportunity employer (EOE) including disability/vet.<br/><br/>At Paramount, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. Paramount is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.<br/><br/>If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.paramount.com/careers as a result of your disability. You can request reasonable accommodations by calling 212.846.5500 or by sending an email to paramountaccommodations@paramount.com. Only messages left for this purpose will be returned.<br/><br/><strong>Nearest Major Market: </strong>Manhattan<br/><br/><strong>Nearest Secondary Market: </strong>New York City<br/><br/>Apply now »<br/><br/><strong>Find Similar Jobs<br/><br/></strong>Paramount+, Paramount Streaming, Paramount, All Current Job Opportunities<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Broadcast Media Production and Distribution
+          </span>
+</li>
+</ul>
+</div>
+</section>

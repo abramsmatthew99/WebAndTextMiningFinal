@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Precision Technologies</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Smily K" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQGz8aYbwPhJzQ/profile-displayphoto-shrink_100_100/0/1699970108898?e=2147483647&amp;v=beta&amp;t=AiSFD5uxXUT2k8TBj-2c03AUwYkBBaqzWusWZAwqKd0" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Smily K
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Talent Acquisition Specialist
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Smily K" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fsmilykante&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/></strong><p>Precision Technologies Corp. (PTC) is a boutique professional services firm located in Eatontown, New Jersey. As a Women and Minority owned and operated company, PTC maps the right IT talent for our customers in Agile Transformation, Business Analysis, Cloud Services (AWS/Azure), Data Management, Enterprise Application Development, Devops, RPA Automation, Pega, Salesforce and UI/UX. Our client industries include IT, Health Care, BFSI, Telecom, E-commerce, Retail, Manufacturing, Hi-Tech, Oil &amp; Gas, Utilities among others, spread across the United States. With its rich experience &amp; right talent pool, PTC addresses the GAP in IT talent’s DEMAND-SUPPLY through an innovative, Best-In-Class recruiting engine, backed by a dedicated client-centric service focus. PTC delivers the service to support its customer journey towards greater performance by partnering them for a long haul. <br/></p><strong>Role Description<br/></strong><p>This is a full-time on-site Python Developer//W2 role located in Eatontown, New Jersey. As a Python Developer, you will be responsible for designing and implementing web applications and components using Python3. The role will involve collaborating with Product Owners and QA Engineers in order to identify, prioritize, and execute tasks within the software development life cycle. <br/></p><strong>Qualifications<br/></strong><ul><li>Bachelor's degree or higher in Computer Science, Software Engineering or a related field</li><li>3+ years of experience in Python3 development and web application development</li><li>Strong knowledge of HTML, CSS, and JavaScript frameworks such as jQuery, React, Angular.</li><li>Experience with Flask and Django frameworks, or similar frameworks</li><li>Experience with Git, Bash, and Linux based operating systems</li><li>Knowledge of PostgreSQL databases or other similar databases</li><li>Ability to write software unit tests and integrate test suites into continuous integration systems</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

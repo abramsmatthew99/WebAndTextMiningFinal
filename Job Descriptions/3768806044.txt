@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are:<br/><br/></strong>CirrusMD is a different kind of virtual care company. In less than a minute, patients reach a live, licensed physician and conduct a care encounter at their pace and convenience. Available 24/7/365, CirrusMD’s integrated care is delivered via multispecialty, board-certified doctors who can treat a broad range of conditions, from acute to chronic, primary care to specialty areas, including behavioral health. CirrusMD is available to 10 million users across all 50 states and exclusively offered through employers and health plans. Learn how CirrusMD is transforming virtual care: https://www.cirrusmd.com<br/><br/><strong>Who We’re Looking For:<br/><br/></strong>CirrusMD is seeking a Python Developer to contribute to our mission of redefining the healthcare experience for patients and providers. You’ll be responsible for delivering best-in-class data solutions, contributing to the advancement of scaling Data Services, and enabling Machine Learning experiences. You will have the opportunity to work with technology including Snowflake, FastAPI, Airflow, TensorFlow, PyTorch, PostgreSQL, SQL, AWS, Docker, Kubernetes and more.<br/><br/>This position can sit remotely anywhere in the U.S., with the flexibility to work from our Denver HQ as you’d like. Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of employment Visas at this time. Additionally, know that your application will be reviewed. However, we will only be able to contact and follow up with those candidates whose application we can explore at this time.<br/><br/><strong>What You’ll Accomplish:<br/><br/></strong><ul><li>Manage and extend our ML delivery APIs</li><li>Maintain the integrity of our data annotation pipeline</li><li>Contribute to new ML model development</li><li>Collaborate with platform engineers to build services and APIs for internal and external stakeholders</li><li>Support teammates and stakeholders through technical challenges with a high degree of competency and accountability</li><li>Maintain your reputation for reliably delivering well-considered, well-tested, and performant code artifacts</li><li>Contribute to our evolving engineering and testing standards and best practices<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>What You Will Bring:<br/><br/></strong><ul><li>5 or more years of professional experience working with Python API development</li><li>Production-level experience with Python API frameworks (e.g. FastAPI)</li><li>Experience with a deep learning framework (e.g. TensorFlow, Torch)</li><li>Functional Database knowledge, specifically with PostgreSQL and Snowflake</li><li>Adept Python coding/scripting experience</li><li>Experience designing and managing complex relational database structures</li><li>Experience with relevant AWS services such as RDS, S3, Lambda, SNS or SQS</li><li>Confidence pairing with other engineers of all levels</li><li>Strong analytical skills and the ability to combine and integrate data from different sources with accuracy</li><li>Strong aptitude for learning new technologies related to ML, AI, and Data Science</li><li>Experience with/ containerization (e.g. Docker)</li><li>Experience w/ CI / CD tools and/or Github Actions</li><li>Backend experience designing REST &amp; gRPC APIs</li><li>B.S or M.S in Computer Science, Mathematics, Statistics or equivalent work experience<br/><br/></li></ul><strong>What Will Make You Stand Out:<br/><br/></strong><ul><li>Experience with LLMs and other generative AI</li><li>Familiarity with TensorRT or other inference-optimized engines </li><li>Experience working with Kubernetes</li><li>Experience with 1 or more additional backend core technologies (Go / Ruby) and/or front-end technologies (TypeScript/React)</li><li>Solid understanding of foundational software design patterns</li><li>Experience supporting Data Engineering &amp; Analytics workflows and teams</li><li>Experience operating within HIPAA / HITRUST environment</li><li>Your philosophy aligns with Agile methodologies and processes<br/><br/></li></ul><strong>Our Process:<br/><br/></strong><ul><li>30-minute initial conversation with the Data Manager</li><li>Take-home assessment. We ask that you limit yourself to only spend 1-2 hours on this assignment and return it within 1 week</li><li>Technical and Team interview. Here, we will review your take-home assessment and give you a chance to meet members of the team</li><li>Cross-team interview. Here, you will meet with 2 team leads from other teams with which this role works closely</li><li>Assessment and interview with a professional development coach to ensure organizational alignment with your career goals</li><li>Offer<br/><br/></li></ul><strong>Benefits<br/><br/></strong><strong>Why Work at CirrusMD?<br/><br/></strong>Make a lasting impact in healthcare! Recognized as a top place to work by BuiltIn Co, CirrusMD is paving the way to a better healthcare future, and our work truly matters. We are enabling easier access to healthcare for millions of people. You’ll have a chance to make real contributions to the health and wellness of our communities. Virtual Care is one of the fastest growing industries, and now, more than ever, there is unlimited opportunity to take charge &amp; shape your career at CirrusMD. We take the health and happiness of our employees seriously and offer outstanding benefits, including:<br/><br/><ul><li>Company funded &amp; deeply subsidized benefit options for you and your family that begin day 1</li><li>Work-life balance with our responsible Unlimited PTO / Vacation program</li><li>401(K) + match &amp; stock options</li><li>Paid maternity &amp; paternity leave</li><li>Remote-friendly (with the option to work out of our Denver HQ)</li><li>Growth opportunity</li><li>A positive, collaborative, and diverse culture</li><li>Social events onsite &amp; remote</li><li>Free, unlimited access to our text-first platform</li><li>Access to work with our executive coach for continued professional development<br/><br/></li></ul>If you are looking to make a lasting impact where your voice matters, consider joining our team.<br/><br/>The base salary range for this position is $140,000-170,000/year. Actual pay may vary based on job-related skills, qualifications, certifications, experience, and location. This role may also be eligible for a discretionary bonus in addition to equity incentives and a comprehensive benefits package.<br/><br/>CirrusMD is committed to creating a diverse and inclusive workforce and is proud to be an equal-opportunity employer. We aim to create a workplace that celebrates the diversity of our employees, users, and customers. We strive to deliver products and services that work for everyone by including perspectives from backgrounds that vary by race, ethnicity, social background, religion, gender, age, disability, sexual orientation, veteran status, and national origin.<br/><br/><em>Notice to recruiters and placement agencies: If you are a recruiter or placement agency, please do not submit résumés to any person or email address at CirrusMD prior to having a signed agreement with Human Resources. CirrusMD is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Also, any résumés sent to us without an agreement in place will be considered your company's gift to CirrusMD and may be forwarded to our Talent Acquisition team.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

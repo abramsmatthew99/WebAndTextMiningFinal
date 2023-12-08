@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        AutoZone is looking for an Automation Engineer to be part of their growing team! Responsible for helping identify opportunities to automate IT operational tasks, implementing solutions, and driving performance to reduce impact and risk of traditionally manual processes that include planned jobs, root cause remediation, preventative work, and other labor-intensive efforts our team converts to automation. You will be challenged to partner in solving complex technical problems with unique solutions, help identify improvements and work on implementing the team’s recommendations. Candidates should have recent experience working logic problems, coding, and working with IT monitoring tools.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Implement features that meet business requirements while maintaining a healthy, sustainable, and reliable codebase</li><li>Work on problems with your team, roll up your sleeves, form an opinion and advocate for engineering-specific roadmap items</li><li>Contribute to overall group objectives like finding opportunities for cross-product code reuse, improving developer experience using automation, and improving operational stability</li><li>Develop and maintain production automation systems, write maintainable code and always find opportunity to simplify. </li><li>Deliver code with confidence by writing integration and unit tests</li><li>Participate in code reviews and provide feedback that continuously improves the quality of the code </li><li>Identify repetitive tasks that should be automated, then prioritize and implement solutions</li><li>Own your own professional development by seeking out challenging work assignments<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Preferred experience developing applications with Python, Java, Javascript, and shell scripting </li><li>Preferred experience interacting with AI, Java Spring Boot, React, and API integrations. </li><li>Experience with Linux and Microsoft servers</li><li>2 to 4 years of IT experience is preferred or a degree in computer science </li><li>Ability to be coached and mentored by other team members</li><li>Ability to be on-site in Memphis 3 days a week.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

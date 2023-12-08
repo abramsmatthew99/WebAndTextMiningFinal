@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Candidate will play a significant role in the development of novel algorithms, innovative system solutions and open source prototype related to machine learning based computer vision, augmented reality, and HCI. The intern student will work alongside senior researchers and engineers, generate SOTA new technology solutions, and publish latest results in conferences and journals.<br/><br/><strong>Requirements<br/><br/></strong><ul><li> Deep knowledge and hands-on experience in computer vision, machine learning, HCI, ARVR, video processing, or video communication algorithms. </li><li> Knowledge and hands-on experiences with machine learning algorithms and familiarity with ML implementation environments and platforms such as PyTorch and/or Tensorflow is a plus. </li><li> Strong programming skills in python or C / C++ for Windows and/or Linux is required </li><li> Experience in working with open-source software frameworks is a plus </li><li> Good communication skills, both verbal and written </li><li> Ph.D or M.S. in Computer Science / Electrical Engineering, or related technical disciplines. <br/><br/><br/></li></ul>Working Location: Santa Clara, CA<br/><br/>Hourly intern pay range: $18 to $59, depending on degree-seeking academic program (PhD, Master’s, Bachelor’s, etc.), years of relevant experience, year in school, internship location, credentials, qualifications, geographic location and other job-related factors.<br/><br/>Housing allowance and relocation benefit might be provided to intern candidates who meet the qualifications. Additional details on the compensation package will be provided to candidates during the interview process.<br/><br/><strong>Futurewei Technologies, Inc. is proud to be an Equal Opportunity Employer.<br/><br/></strong>All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status under federal, state, and local laws.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>As a Sr. Business/Data Analyst within Digital and Technology, the primary responsibility will be to define, design and implement complex integration solutions for the enterprise. You will have an opportunity to play a key role in data engineering space using state of the art technologies. You will have ample opportunity to learn from our experienced engineers.<br/><br/><strong>Education &amp; Experience:<br/><br/></strong>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.<br/><br/><ul><li> University degree in Computer Science, Computer Engineering, Information technology or related field or relevant experience. </li><li> At least 10 years’ experience in analysis, integration design involving P2P, E-Invoicing, CMMS &amp; ERPs. </li><li> Requirements Engineering, Project Management courses will be preferred. </li><li> Consideration given to equivalent combination of education and experience. <br/><br/></li></ul><strong>Key Responsibilities</strong>:<br/><br/><ul><li> Analyze business and user needs, documenting requirements, and revising existing system logic difficulties. </li><li> Identify and document business rules, dependencies, assumptions, risks, supportability, performance, and training needs. </li><li> Create Integration technical design documents which includes process flow/sequence diagrams, entity transformation mapping definitions (JSON, XML, CSV) and documentation for the engineering teams to be able to build. </li><li> Facilitate application onboarding process, understand the technical challenges, and propose an optimal solution. </li><li> Collaborate with Solution architects and engineering team to implement the solution following design principles. </li><li> Integrate multiple applications with middleware and derive mappings from source and target applications, using multiple technologies. </li><li> Provide end user support for integration projects and translate needs into developing test plans. <br/><br/></li></ul>This includes a coordinated effort with stakeholders by participating/facilitating User Acceptance Testing for application signoff.<br/><br/><ul><li> Create test plans, including definition of testing requirements; testing criteria, test data, scripts, user acceptance conditions and end-to end test requirements. </li><li> Facilitate load and performance tests for applications. </li><li> Act as a subject matter expert for integration customers, and answer queries for integrating applications, end users, developers, and architects. </li><li> Performs the investigation and resolution of complex and critical data integration issues in the production environment. </li><li> Work with Product Managers and Scrum Master to estimate, design, and build efficient, long term business applications utilizing standards. </li><li> Break down tasks, estimate effort, identify, and raise blockers, issues, and risks. </li><li> Generate tables and/or charts in excel to present meaningful data. </li><li> Adhere to security, compliance and best-practices guidelines<br/><br/></li></ul><strong>Basic Qualifications:<br/><br/></strong><ul><li> Ability to complete tasks in a high-pressure environment. </li><li> Excellent inter-personal and communication skills, both verbal and in writing</li><li> Experience with enterprise information management, such as data modeling, data governance, reference data management, master data management, meta data management, data integration, etc. </li><li> Critical thinking, problem solving, comfortable in making judgement call and able to clearly articulate the tradeoffs in proposed architecture design and solution. </li><li> Proficient with Databases and writing SQL queries against SQL server 2012, Oracle 11i, Postgres, MySQL. </li><li> Knowledge of application lifecycle, design/design patterns, tools, and methodologies. </li><li> Proven ability to work with software engineering teams and understand complex development systems, environments, and patterns. </li><li> Experience with Word, Excel, SharePoint, JIRA, Confluence, SOAP UI, JMeter, Postman is desired. </li><li> Proficient in integration development using REST/SOAP APIs, and asynchronous integrations leveraging Messaging patterns with Apache Kafka/Active MQ/IBM MQ. </li><li> Must have good understanding of XML/JSON/CSV data structures. </li><li> Experience with Agile software development processes and the development life cycle</li><li> Experience with SOA and Micro services Architecture is preferable. </li><li> Knowledge of ELK stack is desired. </li><li> Understanding of Cloud patterns is a bonus. <br/><br/></li></ul><strong>Company Description<br/><br/></strong>At Darbytek, our goal is to build a better future for people and business. We specialize in recruiting skilled individuals for both full-time direct hires and contract positions. Allow us to help you with your next opportunity.<br/><br/>At Darbytek, our goal is to build a better future for people and business. We specialize in recruiting skilled individuals for both full-time direct hires and contract positions. Allow us to help you with your next opportunity.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

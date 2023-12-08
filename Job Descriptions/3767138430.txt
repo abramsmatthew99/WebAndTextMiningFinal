@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Laansu has an engaging opportunity for a talented Software Developer to build their career and help save lives on the nation's road infrastructure. The Software Developer will build and support software products used by the Department of Transportation and the public at large to help ensure the safety of drivers and passengers on public roadways. <br/><br/>Candidates must be clearable for a Public Trust Position – must be a US Citizen or Permanent Resident or is authorized to work in US, who has lived in the US for the more than 3 years.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Receive tasks and requirements details from program manager. Analyze the scope of work and provide estimated development timelines.</li><li>Follow agile sprint-based development schedule. Unit test modules prior to handing them off to the Test Team. Assist the Test Team with load/performance/throughput testing where required.</li><li>Peer-review the work of colleagues and provide feedback for improvement. Accept constructive feedback from colleagues and grow your skillset on the job.</li><li>Take notes during meetings, ask questions to obtain clarifications where needed. Document design decisions and technical details.</li><li>Maintain source code version control in Azure DevOps.</li><li>Work independently if needed. Implement, document, and maintain robust software solutions that will be in service over multiple years.</li><li>Take on additional responsibilities over time and advance your career.<br/><br/></li></ul><strong>Required:<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science (CS) or related field.</li><li>2-8 years of work experience in software development or related field.</li><li>2+ years of writing object-oriented code in C#, C++, or Java.</li><li>2+ years of building ASP.NET Core web applications or APIs.</li><li>2+ years of designing objects in relational databases (tables, views, stored procedures, indexes).</li><li>2+ years of creating rich web application user interfaces using HTML, CSS, JavaScript/ TypeScript.</li><li>Familiarity with at least one Object Relational Mapping (ORM) tool like Entity Framework.</li><li>Familiarity with at least one source code version control tool like Azure DevOps.<br/><br/></li></ul><strong>Preferred:<br/><br/></strong><ul><li>Hands-on experience with Microsoft SQL Server and SQL Server Management Studio (SSMS).</li><li>Hands-on experience with web UI frameworks like Angular and Bootstrap.</li><li>Familiarity with desktop UI frameworks like Windows Presentation Foundation (WPF) preferred.</li><li>Familiarity with json, XML and XSLT.<br/><br/></li></ul><strong>Build Your Career at Laansu:<br/><br/></strong>Laansu is a robust and agile small business specializing in government contracting under executive leadership with more than a decade of experience in retaining and growing contracts awarded by the government of the United States.<br/><br/>At Laansu, we are committed to providing our employees with the opportunity to pursue their careers. We maintain a work environment that allows for mutual respect, open lines of communication and rewards for those who contribute to the company’s success and growth. Our employees are our most valued assets, and we strive to help everyone achieve a balanced work/family life, so we can reap the highest level of productivity.<br/><br/>To ensure the highest level of employee satisfaction, Laansu provides the following benefits including health/dental/vision/life insurance, short- and long-term disability insurance, paid time off and holidays, company-sponsored training, and 401k w/company match.<br/><br/>Laansu is an equal opportunity employer and does not discriminate on the basis of race, color, religion, national origin, sex, age, disability, or any other basis prohibited by law. It is Laansu's policy to ensure that all aspects of its employment practices meet the applicable federal, state, and local laws governing equal opportunity in employment.<br/><br/>Job Type:<br/><br/><ul><li>Full-time with probationary period<br/><br/></li></ul>Probationary Period:<br/><br/><ul><li>The employee will undergo a probationary period of 6 months, during which their performance will be closely monitored and evaluated. Regular feedback and performance reviews will be conducted during this period to assess the employee's ability to meet the job requirements and expectations.</li><li>At the end of the probationary period, a decision will be made regarding the employee's continued employment with the company.</li><li>Employees will receive full benefits during the probationary period.<br/><br/></li></ul>Benefits:<br/><br/><ul><li>401(k) with Company Matching</li><li>Health (Medical/Dental/Vision) Insurance</li><li>Company paid Life, AD&amp;D, STD, and LTD Insurance</li><li>Paid time off</li><li>Professional Development assistance</li><li>Employee Referral program<br/><br/></li></ul><strong>Schedule</strong>:<br/><br/><ul><li>8 hour a day (40 hours per week) with a flexible start time. Core hours are between 10 am and 4 pm EST <br/><br/></li></ul><strong>Work Location</strong>:<br/><br/><ul><li>Sterling, VA 20166</li><li>Hybrid remote or Full remote<br/><br/></li></ul>Powered by JazzHR<br/><br/>GWhgSgHEdq
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

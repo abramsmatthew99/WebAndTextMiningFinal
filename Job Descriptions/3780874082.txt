@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Co-op, Quantitative Pharmacology Research<br/><br/></strong>DMPK Department, Sanofi, Cambridge, MA, USA<br/><br/>The Quantitative Pharmacology Research (QPR) group in DMPK is seeking a co-op individual to be part of the implementation and development of PK/PD, and data-based (AI/ML) models to drive optimal decision making in the development of therapies in a range of therapeutic areas and modalities. The scope of responsibility will involve aiding the QPR group in the development of machine learning (ML) and quantitative pharmacology approaches to support modality design, lead optimization, and evaluation of First in Human (FIH) dose and regimen recommendations. In support of these activities, the successful incumbent should be able to analyze and interpret preclinical and clinical data and be part of the QPR team that develops modeling and simulation approaches to support critical decision making in drug research.<br/><br/>The QPR/DMPK group supports multiple therapeutic areas and research platforms within the broader R&amp;D organization.<br/><br/><strong>Preferred Requirements:<br/><br/></strong><ul><li>Currently enrolled in a PhD program in a STEM field (e.g. Pharmaceutical Sciences, Engineering, Computer Science, Mathematics or related field).</li><li>Familiarity in developing dynamical (mathematical) and statistical/machine learning models</li><li>Familiarity with Natural Language Processing, Neural Networks, and time-series modeling.</li><li>Proficiency in Python and deep learning framework and relevant libraries such as RDkit, PyTorch, TensorFlow, Keras, Scikit-learn, Pandas etc.</li><li>Ability to work in a matrix and in a global environment.</li><li>Good written, presentation and verbal communication skills are essential.<br/><br/></li></ul>Sanofi Inc. and its U.S. affiliates are Equal Opportunity and Affirmative Action employers committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality; marital, domestic partnership or civil union status; sex, gender, gender identity or expression; affectional or sexual orientation; disability; veteran or military status or liability for military status; domestic violence victim status; atypical cellular or blood trait; genetic information (including the refusal to submit to genetic testing) or any other characteristic protected by law.<br/><br/>#GD-SA<br/><br/>At Sanofi diversity and inclusion is foundational to how we operate and embedded in our Core Values. We recognize to truly tap into the richness diversity brings we must lead with inclusion and have a workplace where those differences can thrive and be leveraged to empower the lives of our colleagues, patients and customers. We respect and celebrate the diversity of our people, their backgrounds and experiences and provide equal opportunity for all.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Human Resources, Administrative, and Customer Service
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Chemical Manufacturing, Biotechnology Research, and Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

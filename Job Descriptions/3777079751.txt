@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Provision People</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Abhi (Adam) Reddy" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4D03AQEaJ_AFFvrWgg/profile-displayphoto-shrink_100_100/0/1614127357855?e=2147483647&amp;v=beta&amp;t=Ovq-54zfBKFFsdtbj9AIazlNisFlTA7i5MsFYEf8ujw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Abhi (Adam) Reddy
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Senior Recruitment Specialist at Provision People
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Abhi (Adam) Reddy" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fabhi-adam-reddy-48334a203&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Summary: </strong></p><p><br/></p><p>Our award-winning client is seeking an Associate Software Engineer to join their team. Collaborate with experts to design and maintain software for laboratory robots, specialize in liquid-handling and instrument-tending; partner with Manufacturing Engineering for production automation software; contribute to user interface design and development, emphasizing web applications; participate in foundational tool creation, streamlining programming; engage in hands-on troubleshooting with the Customer Care team; develop software expertise in an ISO 13485 Quality environment, upholding high development standards.</p><p><br/></p><p><strong>Responsibilities: </strong></p><p><br/></p><ul><li>Collaborate with seasoned professionals to design, create, and maintain software applications for laboratory robots, specializing in liquid handling and instrument-tending.</li><li>Partner with Manufacturing Engineering to craft startup, testing, and diagnostic software for production automation equipment.</li><li>Acquire skills and actively contribute to the design and development of user interfaces, particularly web applications, tailored for specific applications.</li><li>Participate in the creation of foundational tools using various software environments, streamlining application programming processes.</li><li>Collaborate with the Customer Care team, engaging in hands-on troubleshooting of field service issues to enhance problem-solving abilities.</li><li>Develop expertise in software development within an ISO 13485 Quality environment, ensuring adherence to high standards of development practices.</li></ul><p><br/></p><p><br/></p><p><strong>Required Qualifications: </strong></p><p><br/></p><ul><li><strong>Technical Proficiency:</strong></li><li>Proven experience in developing applications or embedded control software.</li><li>Solid background in object-oriented design methodologies.</li><li>Competence in Java, C/C++, Python, and Rust.</li><li>Understanding of electrical interfacing, sensors, and motors.</li><li><strong>Technology Exposure:</strong></li><li>Exposure to machine vision, robotics, and mobile robots is advantageous but not mandatory; candidates with a keen interest in learning and applying skills in a real-world setting are encouraged.</li><li><strong>Programming Skills:</strong></li><li>Hands-on experience with Java and/or another object-oriented language.</li><li>Competency with Integrated Development Environments (IDEs) and source control tools.</li><li>Knowledge of Java-based frameworks, particularly the Spring Framework, is a plus.</li><li>Familiarity with containerization tools such as Docker and Kubernetes is advantageous.</li><li>Experience with relational and/or NoSQL database architecture is a plus.</li><li><strong>Communication and Collaboration:</strong></li><li>Effective communication skills are necessary.</li><li><strong>Work Environment:</strong></li><li><strong>Previous experience in a fast-paced, team-based design environment.</strong></li><li><strong>Additional Skills:</strong></li><li>Understanding CSS styling and HTML5 is beneficial.</li><li>Familiarity with web technologies, including experience with Angular and Node, is a plus.</li><li><strong>Education:</strong></li><li>A bachelor's degree in computer science, engineering, or related fields is preferred but not mandatory. Applicants with a passion for software development and problem-solving are warmly welcomed.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

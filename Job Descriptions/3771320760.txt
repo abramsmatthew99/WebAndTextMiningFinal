@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Zoox is looking for a Validation and Verification intern with strong interest in software development to deliver complex reporting on the state of the entire fleet. The intern would interact with multiple teams to ensure critical safety feature and will be responsible for the automation of the following (listed below).<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Collect diagnostic data across the fleet;</li><li>Analyze audio data;</li><li>Inject failures to test reporting and recovery mechanisms;</li><li>Import results into Testrail.<br/><br/></li></ul><strong>Technical Qualifications &amp; Language Requirements<br/><br/></strong><ul><li>Rising senior or master’s degree pursuing a degree in Computer Science, Computer Engineering, Robotics or equivalent experience;</li><li>Experience with Python and Linux shell scripting;</li><li>Fluent programming ability (Python). Fair amount of completed LeetCode exercises or similar;</li><li>Familiarity with modern software development methodologies and tools (Agile, Git, unit testing, CI etc.);</li><li>Strong interpersonal and communication skills;</li><li>Positive attitude, team player and ability to quickly adapt to changes<br/><br/></li></ul><strong>Compensation<br/><br/></strong>The monthly salary range for this position is $6,500 to $9,500. Compensation will vary based on role, degree level and type, and benefits will be offered based on eligibility. Additional benefits may include medical insurance, 401k, and a housing stipend.<br/><br/><strong>About Zoox<br/><br/></strong>Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.<br/><br/>Follow us on LinkedIn<br/><br/><strong>A Final Note<br/><br/></strong><em>You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Automotive
+          </span>
+</li>
+</ul>
+</div>
+</section>

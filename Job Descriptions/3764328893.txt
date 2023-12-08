@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><span><span><span><span><span>We are seeking an experienced and strategic-minded Director of Data Management to join our team. This critical role will focus on enhancing the quality and value of our client data while optimizing operational efficiencies. In this role, you will lead and govern the organization’s efforts in enhancing our data capabilities, ensuring data quality, and empowering data-driven decision making. You will drive the organization’s overall data management strategy &amp; data management processes, oversee the design, development, and maintenance of our cloud data infrastructure and enterprise data warehouse. </span></span></span></span></span></p><p><br/><span><span><span><span><span>The ideal candidate will have a deep understanding of various cloud data platforms and data integration technologies along with a proven track record of building enterprise level data warehouse solutions and implementing effective data management practices. You will be responsible for ensuring the quality, security, and accessibility of our data assets, as well as developing and implementing data strategies that align with long-term business goals. This includes overseeing the integration of various cloud and on-premise technologies to ensure seamless data flow and accessibility across the organization.</span></span></span></span></span></p><p></p><p><span><span><strong><span><span>Key Responsibilities</span></span></strong></span></span></p><ul><li><span><span><span><span>Lead and mentor a team of data management and operations professionals, fostering a culture of collaboration, innovation, and continuous improvement; empower the team to excel in data integration, quality, and governance efforts</span></span></span></span></li><li><span><span><span><span>Assess and manage the data infrastructure; maintain and monitor data quality, driving initiatives to address any issues or gaps. </span></span></span></span></li><li><span><span><span><span>Build a cohesive data strategy that harmonizes enterprise data management initiatives in a unified roadmap, aligned with business goals </span></span></span></span></li><li><span><span><span><span>Oversee the continuous improvement of operational &amp; data processes and capabilities, identifying areas for enhancement. </span></span></span></span></li><li><span><span><span><span>Serve as the primary point of escalation for data-related issues and initiatives, working collaboratively to resolve challenges and promote a culture of data excellence throughout the organization. </span></span></span></span></li><li><span><span><span><span>Collaborate with stakeholders at all levels to understand their data needs and deliver data-driven insights and reporting capabilities. </span></span></span></span></li><li><span><span><span><span>Stay informed about emerging data integration and management technologies and trends; evaluate and recommend new tools, technologies, and platforms to meet business requirements</span></span></span></span></li><li><span><span><span><span>Partner with IT teams to drive the maturation and adoption of data tools and technologies, ensuring they align with business needs and priorities. </span></span></span></span></li><li><span><span><span><span>Bridge operations and technology by facilitating a common language for data, through the development of glossaries, dictionaries, data models and a metadata catalog </span></span></span></span></li><li><span><span><span><span>Collaborate to ensure data security, regulatory compliance, and reduce the data risk surface area through state-of-the-art data handling standards </span></span></span></span></li><li><span><span><span><span>Fiscal discipline of data and analytics cost centers, with continuous improvement of management efficiency </span></span></span></span></li><li><span><span><span><span>Find inventive ways to extract value from data for business advantage, including developing new data-centric business opportunities </span></span></span></span></li></ul><p></p><p><span><span>Skills and Qualifications:</span></span></p><ul><li><span><span><span>Bachelor’s degree in data management analysis, computer science, computer engineering, statistics, or other IT-related field, or equivalent work experience</span></span></span></li><li><span><span><span><span>At least 7-9 years of experience in analytics in addition to database administration experience.</span></span></span></span></li><li><span><span><span><span>Experience with healthcare data and an understanding of relevant regulations a plus (e.g., HIPAA).</span></span></span></span></li><li><span><span><span><span>Knowledge of data modeling, dimensional modeling, data quality, and metadata management</span></span></span></span></li><li><span><span><span><span>Proficiency in programming languages (e.g., Python, R), data analytics tools (e.g., SQL, Tableau), and machine learning frameworks (e.g., TensorFlow, PyTorch).</span></span></span></span></li><li><span><span><span><span>Strong understanding of data integration technologies, ETL processes, and data warehousing concepts; solid comprehension of various cloud-based data platforms such as Azure, Snowflake, AWS, etc.</span></span></span></span></li><li><span><span><span><span>A track record of successfully leading and developing high-performing teams.</span></span></span></span></li><li><span><span><span><span>Strategic thinking and a passion for leveraging data to drive business growth.</span></span></span></span></li><li><span><span><span><span>Excellent communication and collaboration skills, with the ability to convey complex technical concepts to non-technical stakeholders.</span></span></span></span></li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

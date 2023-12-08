@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We’re Hitachi Digital Services, a global digital solutions and transformation business. Our expertise, innovation and technology unlocks potential – from taking theme park fans on magical rides, conserving natural resources, protecting rainforests, and saving lives. We automate, modernize, optimize, and accelerate. Our people are trusted transformers, with deep engineering expertise, focused on a sustainable future for all.<br/><br/>Imagine the sheer breadth of talent it takes to inspire the future. We don’t expect you to ‘fit’ every requirement – your life experience, character, perspective, and passion for achieving great things in the world are equally important to us.<br/><br/><strong>The team<br/><br/></strong>Hitachi Digital Services is a leading provider of digital solutions that empower businesses to drive innovation and achieve sustainable growth. We are seeking a dedicated and experienced QA Lead to join our team and play a pivotal role in ensuring the quality of our software solutions in an agile environment.<br/><br/><strong>The role<br/><br/></strong>As a QA Lead at Hitachi Digital Services, you will be responsible for leading a team of QA resources and ensuring the quality of our software products. You will create test plans, test cases, and execute tests to validate the functionality and performance of our digital solutions. Your ability to troubleshoot issues, collaborate with cross-functional teams, and deliver high-quality results will be crucial in this role. (Hybrid Role - in office 2 - 3 days a week)<br/><br/><ul><li>Create and maintain test plans, test cases, and test data sets.</li><li>Execute functional and integration tests, identifying and prioritizing test case execution based on business criticality.</li><li>Collaborate closely with Business Analysts and Developers to troubleshoot and resolve issues promptly.</li><li>Lead a team of QA resources, providing guidance, support, and mentoring.</li><li>Track and report daily and weekly test execution status and projected completion dates.</li><li>Identify and report data quality issues, anomalies, and discrepancies in data migration.</li><li>Perform regression testing to ensure processes work correctly after updates or changes.</li><li>Assess the performance of various processes, identifying bottlenecks, and recommending improvements.</li><li>Validate data against source systems and data warehouse to ensure data consistency.</li><li>Collaborate with Platform teams to ensure test data setup in advance to prevent blockers.</li><li>Stay updated with industry trends and technologies, including Azure Cloud, Databricks, Apache Spark, Delta Lake, Apache Airflow, and Kubernetes.</li><li>Familiarity with test automation tools like Cypress and Pact is a plus.<br/><br/></li></ul><strong>What You’ll Bring<br/><br/></strong><ul><li>US Citizen</li><li>Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.</li><li>Minimum of 7 years of experience in software testing, with at least 2 years of experience leading a testing effort.</li><li>Strong problem-solving and analytical skills.</li><li>Excellent written and verbal communication and collaboration skills.</li><li>Attention to detail and a commitment to quality.</li><li>Ability to work in an agile environment and execute tests to track progress.<br/><br/></li></ul><strong>Preferred Skills (a Plus)<br/><br/></strong><ul><li>Experience and knowledge of Azure Cloud, Databricks, Apache Spark, Delta Lake, Apache Airflow, and Kubernetes.</li><li>Familiarity with test automation tools like Cypress and Pact.<br/><br/></li></ul>Join the Hitachi Digital Services team and help us drive excellence in software quality assurance while delivering cutting-edge digital solutions to our clients.<br/><br/><strong>Championing diversity, equity, and inclusion <br/><br/></strong>Diversity, equity, and inclusion (DEI) are integral to our culture and identity. Diverse thinking, a commitment to allyship, and a culture of empowerment help us achieve powerful results. We want you to be you, with all the ideas, lived experience, and fresh perspective that brings. We support your uniqueness and encourage people from all backgrounds to apply and realize their full potential as part of our team.<br/><br/><strong>How We Look After You<br/><br/></strong>We want to help you take care of your today and tomorrow – at home and at work. Which is why we offer industry-leading benefits that go far beyond compensation. That means support, services, and resources that also take care of your holistic health and wellbeing. We’re always looking for new ways of working that bring out our best, which leads to unexpected ideas. Here, you’ll experience a sense of belonging, and discover autonomy, freedom, and ownership as you work alongside talented people you enjoy sharing knowledge with. We’re also champions of life balance and offer flexible arrangements that work for you (role and location dependent).<br/><br/><strong>About Us<br/><br/></strong>We’re a global team of innovators, together, we harness engineering excellence and passion for creating meaningful solutions to complex challenges. We turn organizations into industry leaders that can a make positive impact on their industries and society.<br/><br/><em>We’re proud to say we’re an equal opportunity employer and welcome all applicants for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran, age, disability status</em><em> or any other protected characteristic.</em> Should you need reasonable accommodations during the recruitment process, please let us know so that we can do our best to set you up for success.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>ABOUT THE JOB</strong></p><p>Data is one of the foundations of Everside Health and plays an integral role in delivering first-class healthcare services to our patient population. We utilize a wide variety of tools to produce valuable data and provide better patient care as a result.</p><p>As a Data Engineer, you will collaborate with product owners, senior data engineers, data architects and partnerships with expert resources to design, develop, and implement data assets for a wide range of new initiatives at Everside Health. The role involves heavy data exploration, proficiency with SQL, ETL, knowledge of service-based deployments and APIs, and the ability to discover and learn quickly through collaboration. There is a need to think analytically and outside of the box while questioning current processes and continuing to build your business acumen. There will be a combination of team collaboration and independent work efforts. This role involves interaction with the Analytics team as well as a wide range of business areas across Everside.</p><p>We seek candidates with a strong quantitative background and excellent analytical and problem-solving skills. This position combines business and technical skills involving interaction with business customers, Analytics partners, internal and external data suppliers, and information technology partners.</p><p><br/></p><p><strong>ESSENTIAL DUTIES &amp; RESPONSIBILITIES</strong></p><ul><li>Deliver data warehouse and analytic solutions by ingesting, integrating, and curating data to deliver information to the business and stakeholders</li><li>Conduct ETL design, development, and maintenance including data extraction, manipulation, analysis, source-target mapping, change data capture, code performance</li><li>Ensure seamless integration of data across the enterprise and drive automation of common and repeated tasks</li><li>Conduct performance tuning and optimization of all processes executed across the data platform</li><li>Develop large scale data structures and pipelines to organize, collect, and standardize data that helps generate insights and addresses reporting needs</li><li>Collaborate closely with business users and stakeholders to define data for the design, development, and deployment of new solutions that support strategic business priorities</li><li>Develop comprehensive documentation and facilitate knowledge transfer to Production Support team</li><li>Work with Production Support to analyze and fix the production issues</li></ul><p><br/></p><p><strong>QUALIFICATIONS</strong></p><p>Bachelor’s degree in Computer Science or related field.</p><p>3+ years of Data Engineering work experience or equivalent combination of education and experience.</p><p>Experience with the following:</p><ul><li>Designing and implementing ETL pipelines, working with a variety of data warehousing models and design fundamentals.</li><li>Experience writing optimized code for the business scenario.</li><li>Experience working with Matillion, Azure Data Factory, Data Bricks, or similar ETL tool.</li><li>Experience working in Snowflake, Synapse, or similar MPP platform. Experience in DataOps/DevOps and agile methodologies.</li></ul><p><br/></p><p><strong>DESIRED ATTRIBUTES</strong></p><ul><li>Experience with messaging streaming systems (e.g., Kafka, Azure Event Hubs)</li><li>Experience in hybrid data processing methods (batch and streaming) </li><li>Experience with AWS or Azure application deployment</li><li>Experience with API integration</li></ul><p><br/></p><p><strong>Pay Range: $95,000 - $115,000/yr</strong></p><p><em>The actual offer may vary dependent upon geographic location and the candidate’s years of experience and/or skill level.</em></p><p><br/></p><p><strong><u>Everside Benefits Summary</u></strong></p><p>We believe in empowering teammates to do their best work and build better healthcare. Below are some of our benefit offerings. Eligibility is based on 24/hr week.</p><ul><li><strong>Health and Well-Being</strong>: Free Everside membership for in person and virtual care, employer paid life and disability insurance, and choice in medical/dental plans, vision, employer funded HSA, FSA, and voluntary illness, accident and hospitalization plans. Benefits are effective on the first of the month following date of hire. </li><li><strong>Financial Support: </strong>Competitive compensation, 401k match, access to financial coaching through our Employee Assistance Program</li><li><strong>Lifestyle: </strong>Paid time off for vacation, sick leave, and more, holiday schedule</li></ul><p><br/></p><p>Learn more at https://www.eversidehealth.com/careers/</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

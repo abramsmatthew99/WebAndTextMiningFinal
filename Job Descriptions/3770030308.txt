@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        CAS uses unparalleled scientific content, specialized technology and unmatched human expertise to help R&amp;D organizations across Commercial, Government and Academic sectors create groundbreaking innovations that benefit the world. As the Scientific Information Solutions Division of the American Chemical Society, CAS manages the largest curated reservoir of scientific knowledge, and for 114 years, has helped innovators mine, assess and apply that information to keep businesses thriving. The CAS team is global, diverse, endlessly curious and strives to make actionable scientific insights accessible to innovators worldwide.<br/><br/>CAS is currently seeking an Intern for the Summer of 2024 to work in its Data, Analytics and Insights (DAI) division. This position will be located in our headquarters in Columbus, Ohio. Candidates for this position must be authorized to work in the United States and not require work authorization sponsorship by our company for this position now or in the future. EEO/Minority/Female/Disabled/Veteran<br/><br/>DAI interns are passionate about data and applying analytical methods while simultaneously understanding the business context in order to arrive at a solution. Over the course of the internship the intern will work their way through our methodology (Business Understanding, Data Understanding, Data Preparation, Modeling, and Evaluation), leverage vast quantities of data, and build an accurate mathematical model.<br/><br/><strong>Duties<br/><br/></strong><ul><li>Develop, plan, and execute an analytical project as an individual contributor</li><li>Synthesize analytical findings for consumption by senior business executives</li><li>Organize data from many different types of sources and at significantly varying scales for subsequent analysis</li><li>Critically evaluate data for quality measures such as completeness, accuracy, and applicability, applying understanding of relevant research area nomenclature</li><li>Solve an unusual problem using a combination of appropriate statistics, machine learning, and computational methods</li><li>Create a consulting-quality, final presentation and poster describing results with visualizations in a manner that CAS employees at-large can understand</li><li>Perform other duties as assigned<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Must be at least senior in standing starting with the fall semester of 2024</li><li>Pursuing a degree in Computer Science, Data Analytics, Mathematics, Physics, Statistics, or Industrial Engineering</li><li>Experience with Python or R, and SQL</li><li>Demonstrated analytical, multi-tasking, problem solving, organizational, and planning skills</li><li>Ability to interpret reports, analyze trends, and provide insights</li><li>Experience with Tableau or other visualization software a plus</li><li>Strong written and verbal communication skills.</li><li>Demonstrated ability to communicate complicated statistical analytical concepts to business stakeholders in a simplified, comprehendible manner.<br/><br/></li></ul><strong><strong>Division<br/><br/></strong></strong><strong><strong>Position Summary</strong></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

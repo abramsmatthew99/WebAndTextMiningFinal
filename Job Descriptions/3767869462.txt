@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Summary:</strong></p><p>As an AI Developer, you will play a crucial role in designing, developing, and implementing innovative AI solutions. You will collaborate with cross-functional teams to understand business requirements, identify opportunities for AI integration, and create robust and scalable AI models. The ideal candidate will have a strong foundation in machine learning algorithms, programming, and problem-solving, along with a passion for staying up-to-date with the latest advancements in AI.</p><p><br/></p><p><strong>Key Responsibilities:</strong></p><ul><li>Collaborate with teams to identify business problems suitable for AI solutions and design appropriate models.</li><li>Develop, train, and deploy machine learning models using various frameworks and tools.</li><li>Implement natural language processing (NLP) and computer vision algorithms to extract insights from unstructured data.</li><li>Conduct data analysis, preprocessing, and feature engineering to enhance model performance.</li><li>Work with large datasets and apply data augmentation techniques to improve model generalization.</li><li>Collaborate with software engineers to integrate AI models into existing systems and applications.</li><li>Stay current with the latest developments in AI and machine learning and apply best practices to enhance model accuracy and efficiency.</li><li>Participate in code reviews, documentation, and knowledge-sharing activities within the AI development team.</li><li>Troubleshoot and optimize AI models for performance and scalability.</li></ul><p><br/></p><p><strong>Requirements:</strong></p><ul><li>5+ Experience designing and implementing conversational bots for various channels (chat and voice)</li><li>5+ Experienced with Genesys GIA, Google Dialogflow, webhooks, and React Native development</li><li>5+ Experience in designing/developing user-centric conversation experiences involving chat or voice</li><li>5+ Experience with Google Cloud Platforms (GCP)</li><li>5+ Experience Integrating APIs using NodeJS and Python</li><li>Strong understanding of sentiment analysis, Intent classification, dialog flows, personality insight, Text to Speech, Speech to Text</li><li>Experience in architecting and building AI-powered chatbot applications using Dialogflow</li><li>Experience with Jira and GitHub</li></ul><p><br/></p><p><strong>Nice to Have Skill:</strong></p><ul><li>C, C++</li><li>Docker</li><li>Pubsub</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Sales and Business Development
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

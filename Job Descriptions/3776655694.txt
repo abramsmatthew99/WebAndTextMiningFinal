@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        The Division of Pediatric Critical Care Medicine Stanford University and the Department of Pediatrics are seeking a Bioinformatician/Research Data Analyst 2 to manage and analyze large-scale longitudinal data sets derived from clinical, operational, registry, and survey data. The Division of Pediatric Critical Care Medicine houses physician-scientists and trainees conducting research on a variety of domains, including informatics, well-being, stress and neurobiology, sepsis, global health, education, and resuscitation science.<br/><br/><strong>Duties Include<br/><br/></strong><ul><li> Compile clinical, operational, survey, and clinical research data from internal data sources, and combine with publicly available datasets and registries where appropriate.</li><li> Determine additional data collection needs, and ensure compliance with all reporting requirements.</li><li> Employ new and existing tools to independently interpret, analyze and visualize multi-dimensional longitudinal data from a variety of sources.</li><li> Independently develop hypotheses based on the data analysis and define subsequent analyses and data collection to be performed.</li><li> Use system reports and analyses to identify potentially problematic data, make corrections, and eliminate root cause for data problems or justify solutions to be implemented by others.</li><li> Create complex charts and databases, perform statistical analyses, and develop graphs and tables for publication, presentation, and grant applications with minimal supervision.</li><li> Train laboratory staff and students to perform basic data analysis using standard packages.</li><li>- Other duties may also be assigned <br/><br/><br/></li></ul><em>Stanford University provides pay ranges representing its good faith estimate of what the University reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location and external market pay for comparable jobs. The pay range for this position working in the California Bay area is between $84,000 to $126,000 based on commensurate experience and background. <br/><br/></em><strong>Desired Qualifications<br/><br/></strong><ul><li>Bachelor’s, MS or PhD in Bioinformatics, Biology or a related field with at least three years of relevant experience </li><li>Strong background in bioinformatics, including the analysis of longitudinal data </li><li>Experience in database management </li><li>Background in programming and query languages. Demonstrated expertise in advanced SQL and Python strongly preferred. Other background using analytic software such as R, Stata, or SAS viewed favorably. </li><li>Excellent communication and team skills </li><li>Experience preparing complex figures and tables, performing advanced statistical analyses, and writing for publications and presentations. </li><li>Experience and comfort working within a UNIX/Linux environment </li><li>Experience with cloud-based computing platforms such as Google Cloud Platform <br/><br/><br/></li></ul><strong>Education &amp; Experience (required)<br/><br/></strong>Bachelor's degree and three years of relevant experience or combination of education and relevant experience. Experience in a quantitative discipline such as bioinformatics, statistics or engineering.<br/><br/><strong>Knowledge, Skills And Abilities (required)<br/><br/></strong><ul><li> Substantial experience with MS Office and analytical programs.</li><li> Excellent writing and analytical skills.</li><li> Ability to prioritize workload.<br/><br/><br/></li></ul><strong>Certifications &amp; Licenses<br/><br/></strong>None<br/><br/><strong>PHYSICAL REQUIREMENTS*: <br/><br/></strong><ul><li> Sitting in place at computer for long periods of time with extensive keyboarding/dexterity.</li><li> Occasionally use a telephone.</li><li> Rarely writing by hand.</li><li>- Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job. <br/><br/><br/></li></ul><em>~ All members of the Department of Pediatrics are engaged in continuous learning and improvement to foster a culture where diversity, equity, inclusion, and justice are central to all aspects of our work. The Department collectively and publicly commits to continuously promoting anti-racism and equity through its policies, programs, and practices at all levels. ~<br/><br/></em><strong>Working Conditions<br/><br/></strong>Some work may be performed in a laboratory or field setting.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

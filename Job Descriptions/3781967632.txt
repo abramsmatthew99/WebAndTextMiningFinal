@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        As a Fortune 500 company, Packaging Corporation of America (PCA) is an ideas and solutions company. Our corrugated packaging business seeks to be the leader in helping our customers — large and small — package, transport and display products of all kinds. Our white paper business delivers Paper With Purpose by providing the highest level of customer service and operational excellence. We have approximately 15,000 team members in more than 100 locations in the United States that strive to meet the local needs of our customers. Our mission is to serve the needs of our customers, today and tomorrow, with products and services that exceed expectations for performance and environmental responsibility.<br/><br/>People<br/><br/><ul><li> Customers</li><li> Trust<br/><br/></li></ul><strong>Basic Qualifications<br/><br/></strong><ul><li>Bachelor's degree in computer science or equivalent field of study, training, and experience</li><li> Experience with: VB.net/C#, .NET framework 4+, source control (preferably Git), Winforms, SQL server database 2017+ (writing SQL queries, creating stored procedures/functions/views), Experience in .NET and SQL is required. Successful candidates will need to have strong communication and interpersonal skills and have the ability to work well with others in a fast-paced industrial environment. </li><li> Must exhibit excellent communication, analytical, organizational, and computer skills, must be capable of independently making sound decision through creative problem-solving and detailed requirements-gathering, must be capable of working with ambiguity and change, must be able to work well under pressure and within time constraints, multi-task, and build sound relationships with both internal and external customers. <br/><br/></li></ul><strong>Preferred Qualifications</strong> <br/><br/><ul><li> 3-5 years of experience in Windows desktop development (Windows Forms/WPF) </li><li> Web Development experience</li><ul><li> ASP.NET MVC, Web API, Blazor </li><li> JavaScript, JavaScript frameworks such as AngularJS </li><li> HTML5, CSS, Bootstrap </li><li> Mobile web development <br/></li></ul></ul><strong>Essential Functions<br/><br/></strong><ul><li> Develop interactive data base applications designed for a variety of users to improve productivity </li><li> Write, develop, debug, diagram, code, and document programs </li><li> Provide support and training to in-house personnel </li><li> Research, analysis, development, and maintenance of Trident and peripherals </li><li> Testing of own projects and other PCA developers </li><li> Upgrade applications with new releases and patches (builds) </li><li> Work closely with corporate to install new systems and coordinate changes </li><li> Take ownership and provide support as directed on local IT systems and programs </li><li> Assist with capital project requests and management as needed </li><li> Other tasks as needed to support mill IT operations <br/><br/></li></ul><strong>All </strong><strong>qualified applicants must apply at Careers.packagingcorp.com to be considered.<br/><br/></strong>PCA is an Equal Opportunity Employer – Veterans/Disabled and other protected categories.<br/><br/>Apply Now
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Packaging and Containers Manufacturing and Paper and Forest Product Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

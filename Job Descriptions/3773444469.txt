@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our client is an innovative organization dedicated to leveraging data-driven insights for strategic decision-making. Currently, they are seeking a skilled developer to join the team as a full time employee and help expand their data visualization efforts.<br/><br/>We're looking for a talented Power BI Developer passionate about transforming data into meaningful insights. In this role, you'll collaborate closely with stakeholders, translating their requirements into visually engaging dashboards and reports. Your contributions will be vital in helping our organization make informed decisions based on data.<br/><br/><em>This will be a hybrid role, working 3 days in the office (Tuesday, Wednesday and Thursday) and 2 days remote (Monday and Friday).<br/><br/></em>Responsibilities: <br/><br/><ul><li>Collaborate with stakeholders to understand and transform business requirements into visually appealing Power BI dashboards and reports</li><li>Utilize Power BI tools like Power Query, Power Pivot, and DAX to design and maintain interactive data visualizations</li><li>Create and optimize data models, define relationships, and ensure efficient data retrieval for reporting</li><li>Extract, transform, and load data from diverse sources into Power BI, ensuring accuracy and integrity</li><li>Work closely with business analysts and developers to integrate data from different systems and sources</li><li>Implement best practices for data visualization, ensuring intuitive, user-friendly dashboards and reports</li><li>Perform in-depth data analysis to identify trends, patterns, and anomalies, presenting findings clearly to stakeholders</li><li>Conduct performance tuning and optimization of Power BI reports and dashboards for enhanced scalability</li><li>Stay updated with the latest Power BI features, tools, and industry trends to enhance our reporting capabilities</li><li>Provide training and support to end-users on using Power BI and interpreting reports effectively</li><li>Qualifications:</li><ul><li>Minimum of 5 years of experience in Power BI development and DAX</li><li>Bachelor’s degree in Computer Science, Information Systems, or related field (relevant work experience considered)</li><li>Proven experience in Power BI development, showcasing a strong portfolio of impactful data visualizations and reports</li><li>Proficiency in Power BI tools, including Power BI Desktop, Power Query, Power Pivot, and Power View</li><li>Solid understanding of data modeling concepts, data integration, and ETL processes</li><li>Experience in data analysis, manipulation, and transformation using SQL or similar tools</li><li>Familiarity with database systems, SQL, and data warehousing concepts</li><li>Strong analytical and problem-solving skills, translating complex business requirements into intuitive visualizations</li><li>Excellent communication and collaboration skills, working effectively in a team and interacting with stakeholders at all levels</li><li>Strong attention to detail and ability to deliver high-quality work within tight deadlines<br/></li></ul></ul>Join us on our data-driven journey and be a key player in shaping our organization's success!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

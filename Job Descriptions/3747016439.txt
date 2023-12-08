@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title:</strong> Adjunct Faculty- Computer Science<br/><br/><strong>Department:</strong> Computer Science<br/><br/><strong>Campus Location:</strong> Arnold/Main Campus<br/><br/><strong>Work Mode:</strong> This position requires regular in-person presence on campus and at alternative locations, depending on class schedule and other assigned duties.<br/><br/><strong>Work Schedule:</strong> flexible hours<br/><br/><strong>Position Type:</strong> Adjunct Faculty<br/><br/><strong>Position Summary<br/><br/></strong>The School of Science, Technology, and Education is looking for adjunct faculty who are able to teach courses in the Computer Science Department. Candidate must be able to teach in a face-to-face as well as online capacity.<br/><br/>Anne Arundel Community College (AACC) is committed to enriching the educational experience it offers through the diversity of its faculty, administrators, and staff members. The college seeks to recruit and support a broadly diverse team who will contribute to the college's excellence, diversity of viewpoints and experiences, embrace concepts of equity and inclusiveness, and support the equal rights of all people by advancing the understanding and appreciation of differences including age, race, gender, ability, religious convictions, socio-economic status, ethnic heritage, or sexual orientation.<br/><br/>While we appreciate your interest in employment with Anne Arundel Community College, applicants must be currently authorized to work in the U.S. on a full-time basis. Employment-based visa sponsorship (including H-1B sponsorship) is not available for any position.<br/><br/>In the best interest of the College, only individuals who are residents of Maryland or one of the following states will be eligible for employment at the college: Delaware, Pennsylvania, Virginia, West Virginia or the District of Columbia. The college will annually review this restriction and, if appropriate, expand the list of states of employment eligibility.<br/><br/><strong>Job Duties And Responsibilities<br/><br/></strong>Responsibilities include: assessing student progress in meeting the learning objectives through formal and informal assessment, meeting required deadlines for submitting grades, attendance, and other information, as requested, and adhering to safety procedures and departmental standards.<br/><br/><strong>Required Qualifications<br/><br/></strong>A master's degree in Computer Science and documented teaching experience is necessary.<br/><br/>Seeking adjunct faculty with strong technical backgrounds in one or more of the following fields:<br/><br/><ul><li> Programming and Software Development – sample technologies: Object-oriented analysis and design, Java, C++, Data Structures, JavaScript, Agile, DevOps, etc.</li><li> Full stack development – MongoDB, ReactJS, Node.js, MySQL, Git, etc.</li><li> Database Development – Oracle, SQL Server, PostgreSQL, etc.</li><li> Business Intelligence and Data Science – Python, R, Cognos, Tableau, SAS, ETL tools, etc.</li><li> Cognitive Computing – Watson, OpenAI/GPT, etc.</li><li> Emerging Technologies – Blockchain &amp; General Ledger, Quantum Computing, etc.<br/><br/></li></ul><strong>Applicants Should Have<br/><br/></strong><ul><li> Industry experience</li><li> Strong communication skills.</li><li> Master's degree required.</li><li> Certifications, special skills, online teaching or technical proficiency.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

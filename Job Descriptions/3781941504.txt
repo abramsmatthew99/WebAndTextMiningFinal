@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Yahoo serves as a trusted guide for hundreds of millions of people globally, helping them achieve their goals online through our portfolio of iconic products. For advertisers, Yahoo Advertising offers omnichannel solutions and powerful data to engage with our brands and deliver results.<br/><br/><strong>About Yahoo<br/><br/></strong><strong>Yahoo is focused on making the world's daily habits inspiring and entertaining. We reach over one Billion people around the world with a dynamic house of 50+ media &amp; technology brands and are a global leader in digital and mobile. By creating highly personalized experiences for our users, we keep people connected to what matters most to them, across devices and around the world. Our businesses span across Communications, Media, Search and many other verticals.. We create value for advertisers by connecting them with the audiences that build their businesses.<br/><br/></strong><strong>A Little About Us<br/><br/></strong><strong>As part of the Mail Backend team we build, enhance, and maintain one of the highest scaling email platforms on the planet. Yahoo Mail Backend Team develops and maintains high-performing systems that provide REST APIs for our world-class mail clients (mobile, web, Yahoo, AOL, etc), standards-based protocols (IMAP, POP, etc) for generic mail clients, industry leading back-end mail synchronization, Metadata and Elastic Storage systems. We impact approximately 300 Million users every month, serving billions of requests a day across servers across the world, and are critical to Yahoo success.<br/><br/></strong><strong>We are also embarking on a transition from proprietary infrastructure to cloud infrastructure including things like Kubernetes, Containerization, Auto-scaling, Public/Hybrid clouds. Be a part of this exciting transformation.<br/><br/></strong><strong>You Must Have<br/><br/></strong><ul><li>BS/MS in Computer Science or a related field.</li><li>Software development experience in Java/C++</li><li>Strong understanding of computer science fundamentals including Data Structures, Algorithms, OS and Networking</li><li>Experience in implementing and/or operating highly scalable and available services in public cloud environments (AWS, GCP, Azure etc)</li><li>Experience with development on Unix (Linux) platform</li><li>Experience with designing, developing high performing, and complex server application</li><li>Great communicator, enjoys helping people, remains friendly and constructive under stress.<br/><br/></li></ul>Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Yahoo is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form (www.yahooinc.com/careers/contact-us.html) or call 408-336-1409. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.<br/><br/>At Yahoo, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our diversity and inclusion (www.yahooinc.com/diversity/) page to learn more.<br/><br/>The compensation for this position ranges from $88,500.00 - $184,375.00/yr and will vary depending on factors such as your location, skills and experience. The compensation package may also include incentive compensation opportunities in the form of discretionary annual bonus or commissions, in addition to equity incentives. Yahoo provides industry-leading benefits including healthcare, 401K savings plan, company holidays, vacation, sick time, parental leave and an employee assistance program. Eligibility requirements apply.<br/><br/>Yahoo has a high degree of flexibility around employee location and hybrid working. In fact, our flexible-hybrid approach to work is one of the things our employees rave about. Most roles don’t require specific regular patterns of in-person office attendance. If you join Yahoo, you may be asked to attend (or travel to attend) on-site work sessions, team-building, or other in-person events. When these occur, you’ll be given notice to make arrangements.<br/><br/>If you’re curious about how this factors into this role, please discuss with the recruiter.<br/><br/><em>Currently work for Yahoo? Please apply on our internal career site.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

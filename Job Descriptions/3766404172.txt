@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are a world-class team of professionals who deliver next generation technology and products in robotic and autonomous platforms, ground, soldier, and maritime systems in 50+ locations world-wide. Much of our work contributes to innovative research in the fields of sensor science, signal processing, data fusion, artificial intelligence (AI), machine learning (ML), and augmented reality (AR).<br/><br/>QinetiQ US’s dedicated experts in defense, aerospace, security, and related fields all work together to explore new ways of protecting the American Warfighter, Security Forces, and Allies. Being a part of QinetiQ US means being central to the safety and security of the world around us. Partnering with our customers, we help save lives; reduce risks to society; and maintain the global infrastructure on which we all depend.<br/><br/><strong> Why Join QinetiQ US? <br/><br/></strong>If you have the courage to take on a wide variety of complex challenges, then you will experience a unique working environment where innovative teams blend different perspectives, disciplines, and technologies to discover new ways of solving complex problems. In our diverse and inclusive environment, you can be authentic, feel valued, be respected, and realize your full potential. QinetiQ US will support you with workplace flexibility, a commitment to the health and well-being of you and your family and provide opportunities to work with a purpose. We are committed to supporting your success in both your professional and personal lives.<br/><br/><strong>Position Overview<br/><br/></strong>Our Front End Developers are responsible for working on a wide range of development projects. You will drive the full and correct adoption of modern software engineering &amp; delivery practices (“Real” Agile, TDD, Microservices, Containerization, CICD, Cloud, etc.). <br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Develop frontend and backend services in Angular, ReactJS, Asp.Net, JavaScript, CSS, REST, SQL  </li><li> Work as part of an agile team to develop applications using agile methods </li><li> Flexibly work with front-end technologies to deliver incremental capabilities each development sprint </li><li> Enhance and harden UI for existing tools and prototypes </li><li> Support production software operations, test and debug programs </li><li> Support and extend CI and CD pipeline, including agile DevSecOps best practices </li><li> Engage with Avantus delivery teams and customers to advise on open source and commercial technology solutioning options </li><li> Collaborate with clients and business analysts to translate business requirements into technical requirements <br/><br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li> Angular/React and JavaScript </li><li> Bachelor’s Degree in Computer Science, Software Engineering, or equivalent; additional years of relevant experience may be substituted for relevant degree </li><li> Must be a flexible, creative problem solver, eager to multi-task on a variety of problems and projects in a dynamic environment </li><li> Active TS/SCI clearance with polygraph required #qinetiqclearedjob <br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> Development experience with federal government customers </li><li> Demonstrated experience using Java, Python, and/or C#/.Net for back-end development of web-based applications </li><li> Demonstrated experience creating and using SQL (MySQL, PostgreS , etc ) and noSQL (Mongo, Graph, etc ) based </li><li> databases </li><li> Previous experience with development in AWS / GovCloud / C2S cloud environment <br/><br/><br/></li></ul><strong>Company EEO Statement<br/><br/></strong><strong> Accessibility/Accommodation: <br/><br/></strong>If because of a medical condition or disability you need a reasonable accommodation for any part of the employment process, please send an e-mail to staffing@us.QinetiQ.com or call (540) 658-2720 Opt. 4 and let us know the nature of your request and contact information.<br/><br/>QinetiQ US is an Equal Opportunity/Affirmative Action employer. All Qualified Applicants will receive equal consideration for employment without regard to race, age, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

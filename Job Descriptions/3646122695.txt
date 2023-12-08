@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Tutor Me Education is reshaping how students learn. We are looking for teachers and tutors with <strong>Computer Science experience</strong> to provide 1:1 or group instruction to students all across the country!<br/><br/>Here are the details:<br/><br/><ul><li>Virtual instruction from your home computer! This is a remote job!</li><li>Monday from 4:30PM to 6PM PST</li><li>Set your own hourly rate and negotiate on a per job basis<br/><br/></li></ul>About Tutor Me Education:<br/><br/><ul><li>We are a tutoring and test-preparation platform that connects tutors with clients and school districts</li><li>Tutors set their own hourly rate and decide which tutoring jobs to accept based on their availability</li><li>At Tutor Me Education, there are always new job opportunities with hundreds of new students signing up every day!<br/><br/></li></ul><strong>Requirements<br/><br/></strong>Job requirements:<br/><br/><ul><li>Previous tutoring/teaching experience highly preferred</li><li>Must have knowledge of AP Computer Science Topics </li><li>Bachelor's degree</li><li>Ability to make learning fun and interactive, with the focus of the tutoring often determined by student questions and comments</li><li>Ability to pass a background check if required<br/><br/></li></ul><strong>Benefits<br/><br/></strong>Flexible schedule!<br/><br/>Work from home on your personal computer!<br/><br/>Set your own hourly rate!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Reporting to the CTO as the Director of QA Engineering, you will implement policies and procedures for the software quality assurance function. Evaluates and monitors tools, methodologies, and automation to ensure effective testing and identification of defects. The Director of QA Engineering oversees integration testing including with 3rd parties such as GSPs and PSPs, E2E and user acceptance testing efforts across both B2B and B2C servers, client and data engineering. This individual will be a change agent in our transformation to building, inspiring and guiding quality engineering teams to deliver best in class testing including automation frameworks working in a fast paced environment that requires frequent shifts in areas of focus.</p><p> </p><p>Responsibilities:</p><p><br/></p><ul><li>As a leader, you will play a key role within the Engineering organization as a thought leader and champion of best practices in the quality area.</li><li>Manages and promotes strong working relationships across cross-functional teams.</li><li>Develops, implements, enforces, and improves upon quality standards, tools, and methods to assure quality across new and existing products /and services are maintained, with a focus on continuous improvement and feedback to the business.</li><li>Regular reporting across the business on the “Health of QA”</li><li>Supervise the quality assurance team to promote initiative, collaboration, and a proactive mentality in a fast-paced environment.</li><li>Develops/mentors quality assurance staff by recruiting, selecting, orientating, and training employees.</li><li>Engage in team sprints to inform appropriate data quality and testing considerations as part of acceptance criteria.</li><li>Collaborate with Engineering Managers/Directors and the Development team to ensure delivery of high quality features.</li><li>Design, roll out and drive adoption of global QA and test automation practices.</li><li>Evaluates and cross-trains on integration of technical systems and end- to- end data flows to ensure appropriate level of testing.</li><li>Help drive the vision of the business to the QA team in collaboration with project management, product, and tech. </li><li>Own and manage our global test environments along with DevOps and development engineering team in integrating QA automation.</li><li>Works with cross-department leadership to ensure delivery of high quality products and services on schedule.</li><li>Drive the development of test plans to verify the functionality and performance of new features and scope.</li><li>Proactively identify areas for optimization as it relates to: QA integration into development processes, communication, and automation.</li></ul><p> </p><p>Qualifications</p><ul><li>Bachelor's degree in Computer Science, or related discipline or equivalent practical experience.</li><li>The position requires strong communication skills and will include work across multiple teams and time zones.</li><li>10+ years of Software Quality Assurance experience in Automation Testing and Manual Testing.</li><li>Demonstrated ability in the creation of quality standards, tools, and methodologies.</li><li>7-10 years of experience managing a quality assurance team and experience building, growing, mentoring QA teams.</li><li>Experience planning and executing end to end testing of integrated systems including validation of the integration layer.</li><li>Experience with API testing to ensure functionality, reliability, performance, and security.</li><li>Experience testing mobile and web based applications and interactions with server side API code.</li><li>A proven track record of using Jira and working in a Sprint based environment.</li><li>Ability to manage multiple high-priority efforts in parallel while ensuring the highest quality.</li><li>Strong analytical, organizational, problem solving and decision making skills.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Gambling Facilities and Casinos
+          </span>
+</li>
+</ul>
+</div>
+</section>

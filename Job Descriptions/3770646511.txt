@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Summary </strong></p><p>The Design Engineer III is responsible for developing, integrating, and supporting hardware and embedded firmware for new product development and sustaining engineering projects.</p><p><strong>Essential Duties and Responsibilities</strong></p><p>This list of duties and responsibilities is not all inclusive and may be expanded to include other duties and responsibilities as management may deem necessary from time to time.</p><p>Qualifications:</p><ul><li>Must hold a degree in BSEE, Computer Science, or similar</li><li>Must have a proficient knowledge of common electronic circuits</li><li>Must be able to communicate effectively and professionally in person or by other electronic means</li><li>Must possess strong time management skills</li><li>Must be committed to continual growth and improvement</li><li>Must be self-driven</li><li>Preferred: a knowledge of common manufacturing processes, as related to component insertion (placement) on printed circuit boards (PCBs), electronic assemblies and subassemblies and electro-mechanical assemblies and subassemblies</li></ul><p>Responsibilities:</p><p>· General and specialized circuit and system design</p><p>· Analysis of general and specialized components, circuits, signals, and systems</p><p>· Circuit simulation using SPICE modeling</p><p>· Schematic capture and PCB layout using Altium Designer</p><p>· Hardware and system development and integration</p><p>· Hardware troubleshooting and analysis using common electronic test equipment such as digital multimeters, oscilloscopes, and function generators</p><p>· Embedded firmware development, primarily in embedded C/C++ programming languages</p><p>· Embedded firmware debugging and analysis using ICE, JTAG debuggers, and data monitors</p><p>· Calculate voltage, current and power requirements for components, circuits, and systems</p><p>· Use both basic and complex math to solve problems</p><p>· Work closely with other engineering disciplines (mechanical, manufacturing, documentation, software) for the purpose of new and sustaining product development, troubleshooting, and manufacturing</p><p>· Work closely with engineers to select components, parts, and materials</p><p>· Participate in frequent group discussions related to technology and product development</p><p>· Participate in both peer and management-led design reviews</p><p>· Present design strategies and proposals to peers and management in both group and private settings</p><p>· Stay current on market related news, product use cases, and usage criteria as it pertains to new product development</p><p>· Stay current on the latest technical innovations as related to the electrical engineering discipline</p><p>· Perform advanced research, explore &amp; prove out new technologies in the market, microprocessors &amp; microcontrollers, and processes for inclusion in future projects</p><p>· Support pre-compliance testing for EMI/EMC compliance and certification of product at external certified labs</p><p>· Interface with diagnostics and communication systems (CAN/LIN) and Software tools (Kvaser/PCAN/CANalyzer)</p><p>· Aid in the mentoring of newer engineers</p><p>· Be an engineering representative across the organization and with customers</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Manufacturing and Design
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

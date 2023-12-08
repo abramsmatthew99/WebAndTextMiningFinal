@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Company<br/><br/></strong>Our client is a leading data analytics provider in the technology industry. Their analytic solutions bridge content, data, and analytics to help business, people, and society become stronger, more resilient, and sustainable. They are looking for a Quality Assurance Data Analyst to join their team in Charlotte, NC. This role is hybrid position with 2 days onsite and 3 days remote.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Intake and deliver data downstream into production to support the ongoing operational needs of DDS</li><li>Implement quality control tasks and processes that routinely measure data quality and positive data outcomes to effectively grow data sources, maintain existing DDS customers that support the expansion of new DDS customers to achieve revenue targets</li><li>Systematically assess and evaluate data consumption processes by reviewing new and existing data sources utilizing a suite of in-house statistical analysis tools</li><li>Deliver data quality improvement initiatives as defined, agreed, and prioritized</li><li>Collaborate across multiple departments related to data collection and data management</li><li>Work closely with data owners, data users and data custodians (IT) to ensure the root cause of reported data issues are understood and underlying problems as well as associated symptoms are resolved</li><li>Present data quality trends and findings to internal and external stakeholders as needed</li><li>Monitor and manage large data sets that are tracked through various data systems<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree in computer science, math, statistics preferred</li><li>Ability to analyze large data sets for trends and patterns</li><li>Strong logical reasoning skills</li><li>Experience using and developing data profiling routines and data quality</li><li>Ability to prioritize and troubleshoot data consumption and data quality problems</li><li>Expert in spreadsheet generation and manipulation</li><li>SQL queries/query writing</li><li>Must demonstrate initiative and effective independent decision-making skills<br/><br/></li></ul><strong>Salary Range<br/><br/></strong>$60,000-$70,000
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance and Accounting/Auditing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

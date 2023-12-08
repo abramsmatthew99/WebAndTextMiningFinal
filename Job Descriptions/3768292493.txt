@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Description <br/><br/>The client organization is looking for an Software Engineer in Test specializing in test to join our team within Stock Plan Services Technology tasked with taking our market leading equity compensation platform to a global market! The Team You will be working with a team of technologists focused on delivering Automation, Continuous Integration and Test Data ecosystems. This role demands significant collaboration with members of various business and IT groups throughout the lifecycle of a typical project. As a technical associate, you will be working directly to shape our technology vision and will have a real impact on our Workplace Solutions organizations success! Stock Plan Services administers equity compensation programs on behalf of public and private companies offering<br/><br/>various compensations programs.<br/><br/> The Expertise You Have And The Skills You Bring <br/><br/><ul><li>Bachelor’s Degree or equivalent in a technology related field (Computer Science, Engineering, etc.) required.</li><li>5+ years of relevant technical experience and experience in test automation using Java or Python</li><li>Extensive experience working in a data analytics platform involved in analyzing and testing large volumes of data</li><li>Design, develop, maintain, and execute automated tests while adopting industry best practices and tools.</li><li>Experience with ETL testing, performing manual and automation testing in validating data sources, extraction of data, applying transformation logic</li><li>Experience writing complex SQL scripts in relational databases</li><li>Experience in using any automation tools for data analysis like ICEDQ, python etc.</li><li>Experience with business intelligence and analytics tools such as OBIEE, PowerBI or Tableau</li><li>Hands on experience with crafting and maintaining testing frameworks like Selenium (TestNG), Cucumber, Karate</li><li>Experience with DevOps, Continuous Integration and Delivery tools like Jenkins, Maven, Stash, etc.</li><li>Ability to investigate, isolate, and solve technical issues across the full technology stack by using automated &amp; manual testing methodologies</li><li>Work as part of team of SDET’s focused on automation and build reusable artifacts</li><li>A learning demeanor to your work and are eager to master and adopt new technologies</li><li>Thrive working in an Agile environment, and believe in the value of t-shaped squad members</li><li>Working closely with product owners, developers, and business</li><li>Ensuring designs meet performance, usability and scalability requirements</li><li>Mentoring and developing more junior technical staff</li><li>Your ability to collaborate with other technical and business experts in the team</li><li>Curiosity to stay current with new and emerging technologies and concepts, finding ways to apply those to business problems. The Value You Deliver</li><li>Keeping the focus of the work in terms of Customer obsession.</li><li>Embrace continuous improvement regarding application quality and stability.</li><li>Strong sense of ownership for the quality of solution delivery.<br/><br/><br/></li></ul> About TEKsystems <br/><br/>We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.<br/><br/>The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

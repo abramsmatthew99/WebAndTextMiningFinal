@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Celanese Corporation is a global chemical leader in the production of differentiated chemistry solutions and specialty materials used in most major industries and consumer applications. Our businesses use the full breadth of Celanese's global chemistry, technology and commercial expertise to create value for our customers, employees, shareholders and the corporation. As we partner with our customers to solve their most critical business needs, we strive to make a positive impact on our communities and the world through The Celanese Foundation. Based in Dallas, Celanese employs approximately 13,000 employees worldwide and had 2022 net sales of $9.7 billion. For more information about Celanese Corporation and its product offerings, visit www.celanese.com.<br/><br/>Program Summary<br/><br/>Celanese has a commitment to building a strong pipeline of talent through our University Intern Program. We are currently recruiting for the 12-week paid internship program for the summer of 2024. Our company has embarked on an accelerated Digitalization journey to develop Manufacturing ‘Plants of the Future’ that is paving the way for transforming the entire Celanese enterprise to a series of autonomous, integrated, yet unique, and optimized digital manufacturing plants. We have the strategy and the vision; we’ve defined the bridges from the past that lead to the future; we can see the future state and defined the use cases. We’ve established focus on FLAWLESS DAY and the SQRE (Stewardship, Quality, Reliability, Engagement) foundation. This journey starts with an opportunity to replicate each actual physical asset of the site as a digital twin with a unified integrated data platform that can be visualized—enabling improved decision making on the right data, at the right time and at the right place—so that Celanese can improve reliability, and operational excellence, and continue to manufacture quality products safely.<br/><br/><strong>Location will be Clear Lake, Texas. <br/><br/></strong>The program is to provide students with hands-on, real-world projects in the summer prior to their senior year. Interns have the opportunity to work towards a full-time opportunity. The program is project based, including group and individual work. Over the summer, interns will also have the opportunity to participate in<br/><br/><ul><li>Networking with peers, former interns, and company leadership </li><li>Executive information sessions to strengthen business knowledge </li><li>Volunteering and community impact events </li><li>Employee Resource Groups </li><li>Manager feedback through midterm and final performance evaluations <br/><br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li>Use basic engineering skills to provide solutions for assigned projects  </li><li>Build solutions, software applications as well as learn about Generative AI and Machine Learning applications in Industry 4.0 </li><li>Work with discipline engineers at the site in problem solving issues that arise  </li><li>Utilize data mining, PowerBi, GraphQL, SPL, and Python for data manipulation and transformation </li><li>Participate in the personal and process safety improvement process at the site </li></ul><ul><li>Pursuing a Bachelor degree in Computer Science or Computer Engineering</li><ul><li>OR a degree in Engineering with a minor in Computer Science </li></ul><li>Coding experience in developing applications and software such as REACT, Angular or others </li><li>Experience in data mining and Microsoft PowerBi </li><li>Understanding of artificial intelligence or generative AI, machine-learning and operations research </li><li>Experience or knowledge in GraphQL, SQL and Python coding </li><li>Anticipated graduation date December 2024 or May 2025 </li><li>GPA 2.8 or higher </li><li>Ability to work in the U.S. with no restrictions (OPT H1b, TN visa currently not supported) </li><li>Demonstrated understanding of engineering mathematics </li><li>Attention to detail </li><li>Verbal and written communication skills </li><li>Positive attitude and possess learning agility </li><li>Proven success working in a team environment </li><li>Demonstrated commitment to safety</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Chemical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

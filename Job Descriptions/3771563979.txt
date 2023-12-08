@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Description:<br/><br/>Our software development team, which consists of 20 people, is currently seeking a Quality Assurance Analyst to help improve the quality of our software. As a member of our QA team, you will work under the direction of our QA Managers and be responsible for designing and executing tests, troubleshooting software problems, monitoring and maintaining lab infrastructure, software configuration management activities, production support, escaped defect root-cause analysis, and general documentation activities.<br/><br/>Part of your work will involve manual testing at the user interface level. You will be required to help ferret out requirements and design tests for them, as our software development cycle is hybrid. The successful candidate must enjoy the challenge of a fast-paced, technically complex project. While overtime is unlikely, most of the work is expected to be completed in the office and/or labs. Candidates are expected to be in the office during core hours (8am-5pm) since we own, manage, and test equipment in our labs and the developers follow the same schedule to support our efforts. Limited hybrid schedule is available after appropriate ramp-up period.<br/><br/>Qualifications:<br/><br/>MUST Haves:<br/><br/><ul><li>5 years progressively responsible experience in software quality assurance, developing and executing test plans and test cases.</li><li>3 years experience writing manual test cases for and testing desktop applications (ex. client), websites.</li><li>Vast experience with MS Office Suite.</li><li>Experience and willingness to troubleshoot problems, including analyzing logs for errors and message flows.</li><li>Experience with configuration management (ex. Trunk/main, branches).</li><li>Experience working in (and enjoys) a medium documentation, high productivity team.</li><li>Experience and willingness to be a team player, working with and helping other team members, and seeking their knowledge and assistance as necessary.</li><li>Experience with Azure DevOps Test Plan, creating new test cases, test case execution and software defect management.</li><li>Experience suggesting and implementing QA process improvements</li><li>Candidate must be a dynamic self-starter who can excel with limited direction.</li><li>Strong organizational, communication, and time management skills.<br/><br/><br/></li></ul>The following experience is a plus:<br/><br/><ul><li>Automation experience.</li><li>SQL, especially MS-SQL experience.</li><li>SharePoint experience</li><li>Linux (embedded) experience.</li><li>Railroad experience.<br/><br/><br/></li></ul>Educational Qualifications:<br/><br/>Candidates are preferred to have a bachelor’s degree in Information Systems, Electrical Engineering, Computer Science, or a related technical field. Candidates without such a degree but with extensive professional experience may be considered, but a degree is preferred.<br/><br/>Flexible work from home options available.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

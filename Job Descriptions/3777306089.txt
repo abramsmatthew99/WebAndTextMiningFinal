@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Technology Innovation Internship: AI, Data &amp; Cloud Computing</p><p> </p><p>EverWatch Corporation is a leading technology innovator, and we are excited to offer a unique summer internship opportunity for talented and passionate students interested in the latest advancements in computer science, data domain (data analysts, data scientist, data engineering), AI/ML engineering, DevOps, and other technologies. This internship will focus on the development of a comprehensive tech solution addressing real-world challenges. Ideal candidates will have interest in software development, cloud platforms, containers, machine learning and in data engineering.</p><p> </p><p><span>EverWatch is a government solutions company providing advanced defense, intelligence, and deployed support to our country’s most critical missions.  We are a full-service government solutions company. Harnessing the most advanced technology and solutions, we strengthen defenses and control environments to preserve continuity and ensure mission success.</span></p><p><span> </span></p><p> </p><p> </p><p>As an Intern at EverWatch, you will have the opportunity to learn from experienced AI architects and engineers, while working alongside high-potential peers tackling impactful innovations.</p><ul><li>Applying machine learning to extract insights from different data sources</li><li>Building ML models with TensorFlow, PyTorch, and Sklearn</li><li>Implementing scalable data ingestion and processing systems</li><li>Deploying model APIs and interfaces with Docker and Kubernetes </li><li>Learning architectural best practices for the cloud</li></ul><p> </p><p> </p><p> </p><p> </p><ul><li>Undergraduates or master’s students in computer science, data science, information technology or related technical fields.</li><li>Scheduled to obtain a Bachelors degree in year 2025, 2026, or 2027.</li><li>Strong analytical abilities and communication skills are crucial to succeed in this collaborative environment.</li><li>Ability to obtain a security clearance.</li></ul><p> </p><p><strong>To Apply:</strong></p><p>Please submit your resume and a cover letter outlining your interest in this internship and your relevant skills and experience.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

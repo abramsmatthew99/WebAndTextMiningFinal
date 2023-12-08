@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Introduction<br/><br/></strong><strong>Introduction to the job<br/><br/></strong>ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.<br/><br/><strong>Role And Responsibilities<br/><br/></strong><ul><li>Participate in algorithm development for Ebeam inspection and metrology</li><li>Improving accuracy of defect classification, and defect detection</li><li>Research and develop algorithms for pattern recognition</li><li>Develop image quality metrics to help data filtering<br/><br/></li></ul><strong>Education And Experience<br/><br/></strong>College student majoring in electrical engineering, computer science, data science, applied math or other related fields<br/><br/><strong>Skills<br/><br/></strong><ul><li>Experience in scientific programming language such as Python, Matlab, C/C++</li><li>Good knowledge of linear algebra, data science, image processing, machine learning / deep learning techniques</li><li>Good communication and organizational skills<br/><br/></li></ul><strong>Diversity and inclusion<br/><br/></strong>ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.<br/><br/>EOE AA M/F/Veteran/Disability<br/><br/>Need to know more about applying for a job at ASML? Read our frequently asked questions.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nanotechnology Research, Semiconductor Manufacturing, and Industrial Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

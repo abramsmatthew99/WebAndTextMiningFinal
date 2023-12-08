@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>SIG is seeking a .NET Developer to join the Fixed Income Development team. As a member of this team, you will work on the trading desk and will be responsible for designing, implementing, and maintaining a suite of front and back end applications used by traders, operations, accounting and compliance teams for managing bonds, swaps and other fixed income financial products in the prop and brokerage space. This is a great opportunity to work closely with and gain in-depth knowledge of SIG's fixed income trading business.<br/><br/><ul><li> Design, develop and support service-oriented applications including Winform applications, web applications and web services used primarily by trading and operations desks </li><li> Participate in all phases of the software development life cycle including requirements gathering from users (traders, operations, accounting). </li><li> Identify ways to provide better support to users and automate tasks to improve business workflows <br/><br/></li></ul><strong>What We're Looking For<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, Engineering, Mathematics or related discipline or its foreign equivalent. Relevant technical experience may substitute for education. </li><li> At least 7 years of progressive experience developing software applications. Recent hands-on experience with object-oriented programming is required, preferably C#. </li><li> Current or previous experience within Fixed Income is a MUST. </li><li> Knowledge of Winforms and ASP.NET is a plus. </li><li> Strong relational database knowledge is required, preferably with Oracle and/or SQL server. </li><li> Experience with distributed systems, largely backend focused. </li><li> Strong verbal communication skills with an ability to deal with technical and business staff while working on a trading desk is required. </li><li> Eagerness to learn about the business as well as technology. </li><li> Ability to meet deadlines and work well under pressure in a fast-paced team environment is required. </li><li> Strong interpersonal skills and ability to work well both independently and in a team environment are necessary. </li><li> Willingness and ability to work in all phases of the Software Development Life Cycle <br/><br/></li></ul><strong>About SIG<br/><br/></strong>SIG is a global quantitative trading firm founded by a group of friends who share a passion for game theory and probabilistic thinking. We have incorporated this approach into our culture, where you will find relentless problem solvers within each of our core disciplines: Trading, Technology, and Quantitative Research. From offices around the world, our employees collaborate to make optimal decisions and are driven by the desire to achieve winning results together.<br/><br/><strong>What We Do<br/><br/></strong>We are experts in trading essentially all listed financial products and asset classes, with a focus on derivatives trading. Through market making and market taking, we handle millions of trading transactions around the world every day, providing liquidity and ensuring competitive prices for buyers and sellers. While our presence in the market is broad, our trading desks are highly specialized, allowing for a deep understanding of unique drivers of each asset class.<br/><br/>SIG is not accepting unsolicited resumes from search firms. All resumes submitted by search firms to any employee at SIG via-email, the Internet or directly without a valid written search agreement will be deemed the sole property of SIG, and no fee will be paid in the event the candidate is hired by SIG.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

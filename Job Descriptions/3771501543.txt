@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Validation Engineer<br/><br/></strong><strong>713 Consulting, LLC</strong> is seeking a full time contractor to fill an existing role with one of our customers.<br/><br/><strong>This individual will be responsible for:<br/><br/></strong><ul><li>Supporting the implementation of frameworks, methodologies and procedures for computer system validation. </li><li>Managing the lifecycle of related documents such as procedures, instructions, change control, and validation documentation within IT to ensure proper and timely review, approval, execution and storage. </li><li>Writing and supporting the development of new and updated local Standard Operating Procedures (SOPs) based on the Global Quality Computer System Validation Policy to assure compliance to GxP and 21 CFR Part 11. </li><li>Working with application development teams to develop test scripts and statistically sound tests for appropriate support of results. </li><li>Authoring and/or performing timely and effective QA review of validation documentation such as SOPs, Master Validation Plans, Traceability Matrices, Testing deliverables, and Data Migration Plans. </li><li>Define test strategy as per GAMP5 risk based approach to testing functional risk assessment. </li><li>Leading validation support for IT change management documentation review. Ensure Quality &amp; Compliance requirements are considered in any IT change initiative or GxP change request. </li><li>Formulate SW product quality plans based on results of risk/hazard analysis. </li><li>Present and defend software validation documentation in internal as well as external audits. </li><li>Assists with periodic audits of IT systems and compliance activities as per the Global Computer Validation Management Policy, and provides summary reports to management as required. </li><li>Develop quality system metrics to support Management Reviews. <br/><br/></li></ul><strong>This individual must possess:<br/><br/></strong><ul><li>Excellent understanding of 21 CFR Part 11, ICH standards, GLP, GCP, GMP, GDP regulations, ISO, GAMP Methodologies and general Software Development Standards. </li><li>A willingness to work in a fast paced environment. </li><li>Bachelor’s Degree in Bioinformatics, Computer Science, or Math; Master’s degree preferred. </li><li>Minimum of 5-7 year's experience in a Quality Assurance/Software Validation role for medical device or pharmaceutical manufacturing. (or 4 years with Master’s Degree)</li><li>In depth of knowledge of life-sciences regulations including 21 CFR Part 11, Annex 11, GAMP 5 and related best practices for compliance. </li><li>Extensive experience developing and creating computer software validation deliverables, e.g. risk assessments, validation plans, procedures, testing, and documentation (URS, SCS, IQ, OQ, PQ, TM, RA). </li><li>Experience with Quality Management Systems. <br/><br/></li></ul><strong>What we offer:<br/><br/></strong><ul><li>A competitive hourly rate. </li><li>Room for advancement in a growing company. </li><li>Mostly Remote. If needed, rare office work to be performed in Rockville, MD. <br/><br/></li></ul>Job Types: Full-time, Contract
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

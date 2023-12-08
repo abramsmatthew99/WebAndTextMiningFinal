@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary Statement:<br/><br/></strong>Working with a diverse team, you will play an integral role in designing, developing, and supporting our business critical applications, while mentoring associate engineers on software development best practices in an effort to deliver our next generation of innovative applications to our customers<br/><br/><strong>What You Will Be Doing:<br/><br/></strong>As a Software Engineer I, you will participate in all aspects of the Software Development lifecycle by supporting existing software development efforts and troubleshooting issues as they occur while also developing new software modules across multiple small to medium projects concurrently. You will have an opportunity to lead the design of certain software components and suggest new products, applications and features based on industry and technological trends and advances. You will also consult with process owners in reviewing, interpreting &amp; developing systems in accordance with user requirements. Finally, you will get an opportunity to work with a diverse team and mentor junior software engineers.<br/><br/><strong>Penske Responsibilities:<br/><br/></strong><ul><li> Be the primary contact and lead support associate for multiple applications.</li><li> Play a critical role in supporting the application lifecycle (design, develop, test, release and support) based on detailed requirements and guidance from senior engineers/leads.</li><li> Collaborate with technical/business leaders and product owners to acquire and understand requirements / acceptance criteria.</li><li> Develop, maintain, test, analyze performance, troubleshoot / fix applications and applicable code</li><li> Support mission critical applications and assist in the resolution of customer issues.</li><li> Design backend database schemas.</li><li> Produce deliverables with clean, well-documented and easily maintainable code that adheres to defined coding standards.</li><li> Write unit / UI tests to identify defects and leverage CI/CD for building and deploying code.</li><li> Triage production issues and work with multiple teams to perform problem analysis</li><li> Assign and review tasks from junior and offshore software engineers.</li><li> Participate in conducting new hire interviews.</li><li> Influence the discovery and decision-making process when changes to standards and technology are required (tools, conventions and design patterns)</li><li> Provides support to the business by responding to user questions, concerns, and issues (for example, technical feasibility, implementation strategies)</li><li> Other projects as assigned<br/><br/></li></ul><strong>Penske Qualifications:<br/><br/></strong><ul><li> Bachelor’s Degree in Computer Science/Computer Engineering or equivalent years of software development experience</li><li> 5-7 years experience of appropriate programming languages dependent on the role(Java, RPG, etc)</li><li> Full stack development experience in technologies such as React, Angular, jQuery, HTML, JavaScript, CSS, Spring framework, Spring-MVC, myBatis, RESTful API’s.</li><li> Knowledge of technical project management</li><li> Knowledge of appropriate design frameworks and patterns and experience in implementing them in software development.</li><li> Knowledge of industry wide technology strategies and best practices.</li><li> Experience in relational database design.</li><li> Knowledge and experience of the Agile software development methodology.</li><li> Ability to troubleshoot and resolve issues</li><li> Ability to research emerging software development frameworks and tools</li><li> Ability to estimate and medium to large sized projects.</li><li> Excellent communication and interpersonal skills</li><li> Knowledge of full software development lifecycle</li><li> Some background in DevOps Tools and automation</li><li> Regular, predictable, full attendance is an essential function of the job</li><li> Willingness to travel as necessary, work the required schedule, work at the specific location required, complete Penske employment application, submit to a background investigation (to include past employment, education, and criminal history) and drug screening are required.<br/><br/></li></ul><strong>Physical Requirements:<br/><br/></strong><ul><li>The physical and mental demands described here are representative of those that must be met by an associate to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</li><li>The associate will be required to: read; communicate verbally and/or in written form; remember and analyze certain information; and remember and understand certain instructions or guidelines.</li><li>While performing the duties of this job, the associate may be required to stand, walk, and sit. The associate is frequently required to use hands to touch, handle, and feel, and to reach with hands and arms. The associate must be able to occasionally lift and/or move up to 25lbs/12kg.</li><li>Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception and the ability to adjust focus.<br/><br/></li></ul>Penske is an Equal Opportunity Employer.<br/><br/>Job Function: Software Engineering<br/><br/>Job Family: Information Technology<br/><br/>Address: 5401 West Kennedy Blvd Suite 700<br/><br/>Primary Location: US-FL-Tampa<br/><br/>Employer: Penske Truck Leasing Co., L.P.<br/><br/>Req ID: 2330181
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation/Trucking/Railroad
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>We’re looking for a Backend Software Engineer to join a mission-driven team with a passion for building reliable and scalable systems at one of our Fortune 100 partners in New York City. In this role you will be part of an innovative technology group who’s focused on creating their next generation of leaders. </p><p><br/></p><p>In addition to this full-time opportunity, you will also participate in DRUM UPSKILL, a program that provides you with on-demand, paid for training in technologies such as but not limited to, Java, Salesforce, Unqork, Mulesoft, Azure, AWS. This is an exciting opportunity to advance your career while simultaneously upskilling and continuing to make an impact in the world of technology. </p><p><br/></p><p><br/></p><p><strong>Responsibilities:</strong></p><ul><li>Develop business applications, integrate software, and design custom technology solutions for specific business outcomes.</li><li>Work with peers to carry out code reviews and unit testing of new development.</li><li>Interact with other development teams to ensure a consistent approach to software development.</li><li>Communicate professionally and effectively to clients, management, and other departments.</li><li>Establish a working relationship and facilitate on-going dialog with technical leads, team members and managers.</li><li>Develop an understanding of the insurance industry and products.</li></ul><p><br/></p><p><br/></p><p><strong>Experience: </strong></p><ul><li>BS/BA degree in Computer Science.</li><li>Experience with Java/J2EE, spring framework, Gitlab, Jira, Oracle 11+, Java 8.</li><li>Experience in software development using Agile methodology.</li><li>Experience in creating self-contained, reusable modules and components.</li><li>Ability to work in large, collaborative teams to achieve organizational goals.</li><li>Passionate about building an innovative culture.</li><li>Understanding of software skills such as business analysis, development, maintenance, and software improvement.</li><li>Driven, hard worker willing to further themselves and learn new skills.</li><li>Ability to commute to the office on a hybrid schedule.</li></ul><p><br/></p><p><br/></p><p><strong><u>DRUM UPSKILL</u></strong></p><p>Work for a Fortune 500 organization</p><p>Customized training roadmap per individual</p><p>Access to online trainings and resources</p><p>Webinars with industry advisors</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

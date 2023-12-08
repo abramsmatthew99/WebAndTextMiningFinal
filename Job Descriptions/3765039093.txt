@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>This is an internship position where you will gain experience in Silicon and Platform Firmware development and debugging. We are committed to providing you with guidance and mentorship to help you excel in your engineering career. If you are passionate about Computer architecture and Firmware development, and you want to contribute to next generation Intel CPUs, we encourage you to apply for this Firmware internship position. Join our team and be part of cutting-edge CPU development.<br/><br/><strong>Candidate Must Exhibit The Following Behavioral Traits/skills<br/><br/></strong><ul><li>Problem-solving and analytical skills.</li><li>Communication and teamwork abilities.<br/><br/><br/></li></ul>This is a 6 months fulltime (40hrs a week) internship. No relocation available.<br/><br/>Responsibilities may be quite diverse of a technical nature.<br/><br/>U.S. experience and education requirements will vary significantly depending on the unique needs of the job. Job assignments are usually for the summer or for short periods during breaks from school.<br/><br/><strong>Qualifications<br/><br/></strong>Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.<br/><br/><strong>Minimum Qualifications<br/><br/></strong><ul><li>Candidate must be actively pursuing a MS degree in Computer Science, Computer Engineering, Electronics engineering or a related field.</li><li>Excellent programming skills in C and C++.</li><li>Strong knowledge of Microprocessor and computer architecture.</li><li>Familiarity with version control systems (e.g., Git).<br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Familiarity with CI/CD concepts.</li><li>Completed previous Internships in SW/FW development or validation.</li><li>Previous work experience in firmware/software design, implementation and debugging is a plus.</li><li>Academic projects related to microprocessors and embedded systems.</li><li>Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.<br/><br/><br/></li></ul>Inside this Business Group<br/><br/>Enable amazing computing experiences with Intel Software continues to shape the way people think about computing – across CPU, GPU, and FPGA architectures. Get your hands on new technology and collaborate with some of the smartest people in the business. Our developers and software engineers work in all software layers, across multiple operating systems and platforms to enable cutting-edge solutions. Ready to solve some of the most complex software challenges? Explore an impactful and innovative career in Software.<br/><br/>Posting Statement<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br/><br/><strong>Benefits<br/><br/></strong>We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.<br/><br/>Working Model<br/><br/>This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. <br/><br/><strong>In certain circumstances the work model may change to accommodate business needs.<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

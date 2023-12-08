@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are searching for a Technical Support Analyst to join our team at Remedi8 LLC! This individual will be in charge of ensuring fast replies, resolutions, and, if resolution is delayed, updates on what is being done to remedy the issue. Our ideal candidate will have prior expertise with successful go-lives for new deployments, testing of expanded use cases, and cross-communication with project managers, vendors, and others. This individual will also be in charge of reporting defects to engineering via dev support, as well as providing documentation, workarounds, and in-depth debugging to arrive at the conclusion that a bug exists.<br/><br/><strong>Typically, a day in the life consists of:<br/><br/></strong>providing email, phone, and support portal assistance for incidents<br/><br/>Requests for Service/Solution Requests for Service Hours<br/><br/>Extra Configuration, bulk Importing, one-time map changes, and one-time custom reports (for equipment reports outside of our reporting stack, login problems, and tag difficulties)<br/><br/>Work on and finish fresh installs and deploys at new client locations.<br/><br/>updating current users to the most recent major release or service pack<br/><br/>Update integrations to the most recent versions<br/><br/>Customer-based use case testing (often EMR/ADT)<br/><br/>Create scenarios for the simulator to replicate clinical and hospital data for demonstration systems.<br/><br/>Use dev support to submit bugs to engineering.<br/><br/>Provide workarounds, documentation, and thorough troubleshooting to begin suspecting a flaw.<br/><br/><strong>Fundamental Requirements:<br/><br/></strong>Experience with software support and services<br/><br/>Permission to work legally for any employer in the United States continuously without needing a sponsor or transfer of visa<br/><br/>a desire to increase efficiency and procedure<br/><br/>Need must be able to meet VA security standards<br/><br/>prior knowledge of fresh deployment go-lives<br/><br/>Proficiency in both internal and external communication, encompassing written, oral, presenting, and active listening abilities. Ideal Qualifications:<br/><br/>A degree in computer science is preferred.<br/><br/><strong>Preferred Is Prior Experience In Healthcare IT.<br/><br/></strong>Gain knowledge of growing use cases<br/><br/><strong>Benefits:<br/><br/></strong>Taking 20 days off<br/><br/>8 Days of Being Sick<br/><br/>1 day of paid volunteering<br/><br/>11 to 10 holidays a year<br/><br/>Insurance for health, dental, and vision<br/><br/>The company paid Disability and life insurance<br/><br/>Competitive pay, an annual performance bonus<br/><br/>401(k) match<br/><br/><strong>The United States of America is the venue for this position. Candidates residing in the USA will only be considered.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Facilities Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong>Junior Web Developer - US/Canada Only, 1 year of project experience<br/><br/></strong><strong>Employment Type:</strong> Full-time<br/><br/><strong>Base Salary:</strong> $68K-$78K<br/><br/>Phoenix Recruitment offers a variety of recruiting services to assist both employers and employees. They specialize in marketing open positions, recruiting, and helping employers to find qualified candidates across various industries. Phoenix Recruitment has expertise in streamlining the hiring process. They can help ensure that the process is efficient, well organized, and compliant with relevant regulations.<br/><br/><strong>Description:<br/><br/></strong>You will work closely with our senior developers to design, develop, and maintain high-quality websites and web applications. This is an excellent opportunity to gain hands-on experience in a collaborative environment and contribute to exciting projects.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with the development team to understand project requirements and design web solutions </li><li>Write clean, efficient, and well-structured code using HTML, CSS, and JavaScript </li><li>Assist in the development and implementation of responsive and user-friendly web interfaces </li><li>Integrate front-end designs with back-end functionality using appropriate technologies </li><li>Conduct thorough testing and debugging to ensure seamless functionality </li><li>Assist in website maintenance, updates, and enhancements </li><li>Stay up-to-date with industry trends and emerging web development technologies </li><li>Collaborate with cross-functional teams to deliver projects on time and within scope </li><li>Document technical specifications, project details, and development processes <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Web Development, or a related field </li><li>Solid understanding of web development principles and best practices </li><li>Proficiency in HTML, CSS, and JavaScript </li><li>Familiarity with front-end frameworks such as Bootstrap or Foundation </li><li>Basic understanding of back-end development technologies (e.g., PHP, Python, or Ruby) </li><li>Knowledge of version control systems (e.g., Git) </li><li>Experience with responsive web design and mobile-first development </li><li>Strong problem-solving and analytical skills </li><li>Excellent communication and teamwork abilities </li><li>Self-motivated with a strong desire to learn and grow as a developer <br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Previous experience with web development projects (personal or professional) </li><li>Knowledge of JavaScript frameworks/libraries (e.g., React, Angular, or Vue.js) </li><li>Familiarity with content management systems (e.g., WordPress, Drupal, or Joomla) </li><li>Understanding of SEO principles and best practices </li><li>Experience with web accessibility standards and guidelines </li><li>Knowledge of web security best practices <br/><br/></li></ul><strong>Why Phoenix Recruitment LLC?<br/><br/></strong>Phoenix Recruitment often has an extensive network of employers and candidates. This network allows them to tap into a pool of qualified candidates and connect them with suitable job opportunities. They can also leverage their connections to help employers find the right talent efficiently. Outsourcing the recruitment process to a specialized agency can save you time and resources, avoid delays, reduce administrative burdens, and increase the chances of finding the right fit for your organization.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

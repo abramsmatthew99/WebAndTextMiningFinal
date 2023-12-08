@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Concrete Technologies Inc.</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Drew McConnell" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQFKxLmdUFY6fQ/profile-displayphoto-shrink_100_100/0/1644528053561?e=2147483647&amp;v=beta&amp;t=CR53ue44ijInlAosJMoUbe-m1pm5ib8YILpD8Wi3ReA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Drew McConnell
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Human Resources Director at CTI
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Drew McConnell" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fdrew-mcconnell-817731160&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><em>CTI is Building A Better Future For Our Customers, Our People and Our Communities!</em></strong></p><p><br/></p><p><strong>SUMMARY:</strong></p><p><em>Concrete Technologies, Inc. (CTI), an established and growing concrete construction company in the Des Moines area, has an immediate opening for an IT Specialist. This role will be responsible for maintaining reliability and functionality of in-house computer hardware and software, all virtual technology for our remote job sites and RDP systems, and mobile device setups and distribution.</em></p><p><strong><em> </em></strong></p><p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES:</strong></p><ul><li>Oversees installation, configuration, maintenance and troubleshooting of end user workstation hardware, software, and peripheral devices.</li><li>Provides training to staff on various technical subject including Vista by Viewpoint, Microsoft Office and Adobe applications, and Windows operating systems.</li><li>Stays abreast of emerging technology to support future company needs. Validates new technologies proposed for use.</li><li>Schedules and performs all system equipment, hardware and software upgrades including security patches, operating system updates, application updates, and performance tuning on servers and end user devices.</li><li>Responsible for network security, including user accounts, permissions and access rights, firewalls, anti-virus, and intrusion detection systems.</li><li>Maintains up-to-date knowledge of applicable network and software installations.</li><li>Maintains a database/library of all supporting documentation for hardware and software.</li><li>Ensures IT project timelines and budgets are met.</li><li>Monitoring and on-call response for critical IT service disruptions</li><li>Manage Microsoft 365 environment including user and group management, Exchange online and cloud security applications.</li></ul><p> </p><p><strong>QUALIFICATIONS:</strong></p><ul><li>Associates or Bachelors in Information Technology, Computer Science or related field is preferred.</li><li>Proficiency with Microsoft Office and Windows operating systems.</li><li>Experience with Microsoft Active Directory, Group Policy, DHCP, DNS, and other domain services.</li><li>Attention to detail and ability to manage multiple projects in a timely manner.</li><li>Knowledge of construction processes and practices preferred.</li><li>Strong problem-solving and troubleshooting skills.</li></ul><p> </p><p><strong>About Us:</strong></p><p>In 2001, Concrete Technologies, Inc. ("CTI") opened for business with four employees and a focus on commercial foundations, floors, and parking lots. Since then, CTI has grown to over 250 employees and added mainline paving to its service line. Initially focused on Central Iowa, CTI has successfully completed projects throughout Iowa and the Midwest. Together with CTI Ready Mix and CTI Recycling, the CTI companies bring the resources to provide a diverse range of concrete construction services and ready mix designs.</p><p><br/></p><p><em>Concrete Technologies, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction
+          </span>
+</li>
+</ul>
+</div>
+</section>

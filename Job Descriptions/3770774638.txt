@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>We are seeking a full-time <strong>Cyber Security Analyst 1 </strong>in our Olathe, KS location. In this role, you will be responsible for performing basic security monitoring, assisting in conducting investigations, and with guidance developing solutions to remediate and prevent cyber threats.<br/><br/><strong>Essential Functions<br/><br/></strong><ul><li>Uses Garmin’s security systems allowing for real-time analysis of security alerts </li><li>Provides first level tier support for potential security incidents reported by customers</li><li>Monitors and analyzes the inbound network traffic for suspicious activity and potential cyber security incidents</li><li>Reviews basic security techniques and trends in the industry that translate to operational action items</li><li>Assists technical teams with projects, initiatives, and basic support issues as assigned</li><li>Assists with gathering details for employee investigations and legal discoveries</li><li>Uses and provides basic updates to instruction and knowledge articles for security systems</li><li>Interfaces with Security Engineering team to validate compliance requirements with enterprise standards, policies and regulations</li><li>Makes recommendations for changes to the environment that can help in the removal of vulnerabilities and reduction in the risk of exploitation that may result in potential incidents</li><li>Reviews and validates security compliance reports tracking and reporting any activity that is inconsistent with company policy</li><li>Utilizes ticket management system to track customer issues and requests</li><li>Operates in a shift work schedule to ensure 24/7, 365 day coverage<br/><br/><br/></li></ul><strong>Basic Qualifications<br/><br/></strong><ul><li>Associate’s Degree in Computer Science, Information Technology, Management Information Systems, or related field OR a minimum of 2 years relevant experience</li><li>Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)</li><li>Demonstrated ability to remain technically current through outside research, study, and training</li><li>Basic familiarity with troubleshooting technical issues and using infrastructure research tools.</li><li>Ability to independently learn basic technical concepts</li><li>Demonstrated strong and effective verbal, written, and interpersonal communication skills</li><li>Desire and passion to apply security best practices in an enterprise environment<br/><br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong><ul><li>Bachelor’s Degree in Computer Science, Information Technology, or Management Information Systems</li><li>Outstanding academics (cumulative GPA greater than or equal to 3.5)</li><li>Knowledge of one or more of the following: Network operations or engineering or System administration on Unix, Linux, or Windows</li><li>Knowledge of security related technologies such as intrusion prevention and detection systems, web proxies, SIEM,SOAR, EDR, firewalls, web application scanner, vulnerability scanners and forensics tools<br/><br/><br/></li></ul><em>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.<br/><br/></em><em>This position is eligible for Garmin's benefit program. Details can be found here: Garmin Benefits</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Consumer Electronics
+          </span>
+</li>
+</ul>
+</div>
+</section>

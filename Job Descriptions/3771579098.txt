@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>SUMMER 2024<br/><br/></strong>Shure offers a challenging, fun and rewarding summer internship program. The twelve-week program is offered to undergraduate and graduate students. We offer internships with a variety of work arrangements from onsite interns to fully remote in US. Each intern will receive a competitive salary. Additionally, Interns who relocate to Illinois for onsite internships will receive a housing stipend to cover living expenses. Applications will be collected, reviewed, and selected candidates will be contacted in late fall/early winter.<br/><br/>The Mobile Application (Android) intern will work on various aspects of the Android apps development, such as debugging/fixing issue, implementing new requirements, testing existing apps, etc.<br/><br/>This Internship can be Onsite or Hybrid.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Assists with development (coding) of mobile application software by providing technical expertise to internal company software developers</li><li>Collaborates with marketing, and test and system engineering to define platform mobile application software use cases and requirements</li><li>Assists with the creation of integration and unit tests for mobile application software with other Company proprietary software (embedded systems).</li><li>Estimates, organizes, and documents tasks</li><li>Performs other duties as assigned<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Minimum two years of course work in Computer Science or related field. Masters level candidates a plus</li><li>Basic knowledge of mobile application software development on Android or iOS platforms and learns to use professional concepts</li><li>Development experience using Android with Kotlin/Java, preferably with an OO approach, is desired</li><li>Able to apply company policies and procedures to resolve routine issues.</li><li>Able to follow standard instructions, practices, and procedures in analyzing situations or data<br/><br/></li></ul><strong>Who We Are<br/><br/></strong>Shure’s mission is to be the most trusted audio brand worldwide – and for nearly a century, our Core Values have aligned us to be just that. Founded in 1925, we are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get. We offer an Associate-first culture, flexible work arrangements, and opportunity for all.<br/><br/>Shure Incorporated is headquartered in Niles, Illinois, with remote and hybrid opportunities throughout the United States. We have more than 35 regional sales offices, engineering hubs, and manufacturing facilities throughout the Americas, EMEA, and Asia.<br/><br/><strong>THE MIX MATTERS<br/><br/></strong>Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Audio and Video Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Alpha Vending LLC is looking for a 100% Remote IT Support Specialist to join our team. This person is responsible for the end-to-end planning, building, and deploying of our software systems. He/she will be able to drive the programming of well-constructed, testable code. The ideal candidate will have a broad technical background, a solid understanding of applicable analytics, and a natural curiosity for producing effective solutions. This person is patient, has excellent time-management skills, and practices of effective communication style.<br/><br/><strong>Responsibilities<br/><br/></strong>Design and develop –<br/><br/>Foster and engineer software solutions from conception to deployment. Evaluate customer requirements and determine existing product reach, potential restrictions, and future development feasibility. Work independently while testing all software in a fluid environment, facilitating verification and quality assurance throughout. Coordinate and support – Maintain direct communication with the customer to understand needs throughout the software development lifecycle. Work with the engineering team to execute timely and cost-effective solutions. Provide on-going support and maintenance to the customer as needed.<br/><br/>Requirements: Bachelor's degree in Computer Science or a related field is preferred Two years of experience is required Knowledge of all engineering tools and applications and programming languages One or more of the following: CompTIA or A+, Network+, Microsoft MCP Advanced understanding of operating systems (Windows 7 or higher and MAC OS X), printing systems, network topology, Linux/Unix command Continually advancing your knowledge base through certification courses.<br/><br/><ul><li>In order to share details on the product line and commission structure during the interview process you might be asked to sign a confidentiality and non-disclosure agreement. Powered by JazzHR</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

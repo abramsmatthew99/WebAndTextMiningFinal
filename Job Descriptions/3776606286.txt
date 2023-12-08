@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>We are currently accepting resumes for a <strong>IT Operations Support Analyst </strong>position in <strong>Torrance CA.</strong></p><p>This position is <strong>Hybrid</strong>.</p><p><br/></p><p><strong><u>The selected candidate will perform the following duties:</u></strong></p><p>Key Responsibilities:</p><p>• Use statistical methods to analyze information and develop solutions to business problems</p><p>• Advise managers on findings and the various courses they can take to address the problem</p><p>• Write memos and reports for managers to look over the findings and recommendations</p><p>• Coordinate with onshore/offshore teams to ensure seamless support delivery</p><p>• Act as the primary point for escalation and resolution of support-related issues</p><p>• Measure and report on support metrics to gauge performance and identify improvement areas</p><p>• Monitor and ensure adherence to SLAs, with accountability for reporting and compliance</p><p>• Proactively escalate critical issues, such as Production Outages, Service Degradation, or significant impediments to UAT affecting major releases</p><p>• Communicate the status of system health and efficiency to stakeholders through regular reporting and updates</p><p>• Serve as the primary liaison between Product teams, and AMS Support</p><p>• Conduct thorough root cause analysis for Sev1/Sev2 issues</p><p>• Vigilantly monitor production environments and address alerts and issues proactively</p><p>• Develop and refine incident management processes and explore new monitoring avenues</p><p>• Lead initiatives to automate and streamline operational tasks, reducing manual work and increasing efficiency</p><p>• Manage problem and incident resolution processes, collaborating with vendors and technical staff</p><p>• Facilitate post-incident reviews with cross-functional teams to foster continuous operational improvement and deliver comprehensive incident reports to customers and stakeholders</p><p><br/></p><p>What will this person be working on</p><p>The Operations Support Analyst plays a crucial role in maintaining and enhancing our Application Management Services (AMS) support delivery. This position requires a proactive approach to managing our onshore/offshore support, resolving escalated issues, and ensuring high standards of service. AMS manages many of client’s Consumer Applications operations activities.</p><p><br/></p><p>What Makes a client, is Who makes a client</p><p>client has a clear vision for the future, and it’s a joyful one. We are looking for individuals with the skills, courage, persistence, and dreams that will help us reach our future-focused goals. At our core is innovation. client is constantly innovating and developing solutions to drive our business with record success. We strive to be a company that serves as a source of “power” that supports people around the world who are trying to do things based on their own initiative and that helps people expand their own potential. To this end, client strives to realize “the joy and freedom of mobility” by developing new technologies and an innovative approach to achieve a “zero environmental footprint.” We are looking for qualified individuals with diverse backgrounds, experiences, continuous improvement values, and a strong work ethic to join our team.</p><p><br/></p><p>Position Success Criteria (Desired) - 'WANTS':</p><p><br/></p><p>Requirements:</p><p>• Bachelor's degree in computer science or related field; alternatively, or equivalent combination of education (related certificates, or training) and experience</p><p>• 3+ years of experience as an Operations Support Analyst or in a similar position</p><p>• Experience with IT Service Management Tools - ServiceNow and Jira</p><p>• Experience using statistical and database software</p><p>• Consulting and project management skills</p><p>• Strong analytical and problem-solving skills</p><p>• Strong organizational and time management skills to effectively contribute to multiple projects efficiently</p><p>• Strong record of accomplishment of meeting targets and objectives</p><p>• Ability to effectively prioritize and execute tasks in a high availability environment</p><p>• Ability to manage a high volume of tasks with excellent accuracy</p><p>• Ability to work both independently and in a team-oriented, collaborative environment</p><p>• Ability to communicate and work effectively with members of interdisciplinary teams</p><p>• Results oriented with a history of problem resolution and prevention</p><p>• Flexible and adaptable with regards to learning and understanding new technologies</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Motor Vehicle Manufacturing, and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

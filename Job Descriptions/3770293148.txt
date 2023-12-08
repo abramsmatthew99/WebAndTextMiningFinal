@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Andromeda Systems Incorporated (ASI) is hiring entry-level software developers to join our team in developing our web-based application using the latest .Net, Angular, and SQL technologies.<br/><br/>ASI develops enterprise software used by physical asset managers to keep their equipment and fleets performing at their highest levels. Our customers include the Department of Defense, commercial fleet operators, and industrial facilities. We meet our customer's challenges by developing state of the art solutions that bring together the fields of computer science, operations research, data science, and reliability engineering using the latest industry technologies.<br/><br/>ASI uses cutting edge .Net, Angular, and SQL technologies. When you join ASI, you can expect:<br/><br/><ul><li>Opportunities to apply your ideas across an entire application stack and not just a single functional area</li><li>A close-knit group of developers, testers, DB architects, DevOps engineers, and analysts </li><li>An environment where you are encouraged to bring innovation and new thinking to our agile development processes</li><li>Collaboration with experienced developers who will help you learn and grow<br/><br/></li></ul>We are looking for entry level software developers to work in our Jacksonville, FL office who want to dive into our application stack and get on a team of innovators. You will be building applications from the ground up and enhancing an existing core. You will have the opportunity to work in small but complete teams that have total ownership of applications and modules.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>In a .Net environment, codes, tests, debugs, and implements custom application in C# utilizing microservices techniques along with Angular 2+</li><li>Utilizes SQL to pull, query, and join data using TSQL as necessary</li><li>Integrates multiple components potentially across disparate applications</li><li>Writes technical specifications and other forms of documentation</li><li>Innovates on tools and processes that simplify and expedite achieving development goals</li><li>Collaborates with other technical teams (DevOps, Database, QA Testers, Analysts) to ensure successful delivery of projects from testing to integration to deployment<br/><br/></li></ul><strong>Required Qualifications</strong> <br/><br/><ul><li>Bachelor's degree in computer science or related discipline from US accredited institution</li><li>Basic knowledge of object-oriented technology and modern UI including</li><ul><li>SQL</li><li>Agile and waterfall software development life cycle, coding standards, code reviews, source control management, testing</li></ul><li>Excellent verbal and written communication skills<br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Previous software development experience</li><li>Experience with source control (Git, Perforce, etc.)<br/><br/></li></ul><strong>Work Authorization/Security Clearance<br/><br/></strong><ul><li>Must be a U.S. Citizen</li><li>Security Clearance not required at the time of hire. Some projects may require candidates to be qualified to obtain a Secret clearance at a future date<br/><br/></li></ul>For more information about this and other open positions, please visit our website at www.androsysinc.com.<br/><br/><strong>AAP/EEO Statement<br/><br/></strong>Andromeda Systems Incorporated is an Equal Employment Opportunity employer. As such, 41 CFR 60-1.4(a), 41 CFR 60-300.5, 41 CFR 60-741.5 as well as 29 CFR Part 471, Appendix A to Subpart A are herein incorporated by reference, to the extent applicable.<br/><br/><strong>This contractor and subcontractor shall abide by the requirements of 41 CFR 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

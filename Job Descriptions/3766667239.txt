@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Data Engineer II (Snowflake)<br/><br/></strong><strong>Remote - Must reside in US<br/><br/></strong><strong>Position Purpose:</strong> Develops and operationalizes data pipelines to make data available for consumption (reports and advanced analytics), including data ingestion, data transformation, data validation / quality, data pipeline optimization, and orchestration. Engages with the DevSecOps Engineer during continuous integration and continuous deployment. Developing and maintaining data processing solutions.<br/><br/><ul><li>Designs and implements standardized data management procedures around data staging, data ingestion, data preparation, data provisioning, and data destruction (scripts, programs, automation, assisted by automation, etc.)</li><li>Designs, develops, implements, tests, documents, and operates large-scale, high-volume, high-performance data structures for business intelligence analytics</li><li>Designs, develops, and maintains real-time processing applications and real-time data pipelines</li><li>Ensure quality of technical solutions as data moves across Company’s environments</li><li>Provides insight into the changing data environment, data processing, data storage, and utilization requirements for the company and offers suggestions for solutions</li><li>Develops, constructs, tests, and maintains architectures using programming language and tools</li><li>Identifies ways to improve data reliability, efficiency, and quality; use data to discover tasks that can be automated</li><li>Performs other duties as assigned</li><li>Complies with all policies and standards<br/><br/></li></ul><strong>Education/Experience:</strong> A Bachelor's degree in a quantitative or business field (e.g., statistics, mathematics, engineering, computer science).<br/><br/>Requires 2 – 4 years of related experience.<br/><br/>Or equivalent experience acquired through accomplishments of applicable knowledge, duties, scope and skill reflective of the level of this position.<br/><br/><strong>Technical Skills<br/><br/></strong><ul><li>One or more of the following skills are desired</li><li>Experience developing stored procedures in Snowflake (Programming Language)</li><li>Experience with SQL (Programming Language)</li><li>Experience with AWS</li><li>Experience with Healthcare (specifically HEDIS)</li><li>Experience with Big Data; Data Processing</li><li>Experience with diagnosing system issues, engaging in data validation, and providing quality assurance testing</li><li>Experience with Data Manipulation; Data Mining</li><li>Experience working in a production cloud infrastructure</li><li>Knowledge of Microsoft SQL Servers<br/><br/></li></ul><strong>Soft Skills<br/><br/></strong><ul><li>Strong Communication and Organizational skills</li><li>Quick learner willing to work with others to understand applications and processes</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wellness and Fitness Services and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

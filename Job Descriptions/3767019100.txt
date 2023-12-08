@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Title: </strong>Site Reliability Engineer (SRE) - Apple Mac Engineering and Deployment</p><p><strong>Corporate Title:</strong> Assistant Vice President</p><p><strong>Location:</strong> Jacksonville, FL</p><p><strong>Overview</strong></p><p>We are seeking a talented and experienced Site Reliability Engineer (SRE) with a strong background in Apple Mac engineering and deployment. In this role, you will play a critical part in ensuring the reliability, performance, and scalability of our Apple Mac infrastructure. You will collaborate with cross-functional teams to design, implement, and maintain systems that enable seamless deployment and management of Apple Mac devices across our organization.</p><p><strong>What We Offer You </strong></p><ul><li>A diverse and inclusive environment that embraces change, innovation, and collaboration</li><li>A hybrid working model, allowing for in-office / work from home flexibility, generous vacation, personal and volunteer days</li><li>Employee Resource Groups support an inclusive workplace for everyone and promote community engagement</li><li>Competitive compensation packages including health and wellbeing benefits, retirement savings plans, parental leave, and family building benefits</li><li>Educational resources, matching gift, and volunteer programs</li></ul><p><strong>What You’ll Do </strong></p><ul><li>Support the design, implementation, and maintenance of Apple Mac engineering and deployment solutions, ensuring a smooth and efficient user experience</li><li>Collaborate with software engineering teams to integrate Mac-specific requirements into software development and deployment pipelines</li><li>Develop and maintain tools for automating provisioning, configuration, and management of Apple Mac devices at scale</li><li>Troubleshoot and resolve complex technical issues related to Mac hardware, software, and networking, applying a systematic problem-solving approach</li><li>Monitor system performance, conduct performance tuning, and implement proactive measures to ensure optimal uptime and responsiveness</li><li>Participate in incident response, root cause analysis, and continuous improvement initiatives to enhance system reliability and operational efficiency, as well as stay up to date with industry trends and best practices related to Apple Mac engineering, deployment, and SRE methodologies</li></ul><p><strong>Skills You’ll Need </strong></p><ul><li>Proven experience as a Site Reliability Engineer with a focus on Apple Mac engineering and deployment</li><li>Strong expertise in macOS and Apple ecosystem, including device management tools (e.g., Jamf), package management, and security practices</li><li>Proficiency in scripting and programming languages such as Python, Bash, or Swift</li><li>Experience with configuration management tools (e.g., Puppet, Ansible) and version control systems (e.g., Git)</li><li>Familiarity with cloud computing platforms (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes)</li></ul><p><strong>Skills That Will Help You Excel</strong></p><ul><li>Bachelor’s degree in computer science, Information Technology, or a related field. Relevant experience will be considered</li><li>Excellent problem-solving skills and a proactive approach to preventing and resolving technical challenges</li><li>Strong communication skills, with the ability to collaborate effectively across teams and convey technical information to non-technical stakeholders</li><li>DevOps/ITIL/Agile experience a plus</li></ul><p><strong>Expectations</strong></p><p>It is the Bank’s expectation that employees hired into this role will work in the Jacksonville office in accordance with the Bank’s hybrid working model.</p><p>Deutsche Bank provides reasonable accommodations to candidates and employees with a substantiated need based on disability and/or religion.</p><p>The salary range for this position in Jacksonville is $78,000 to $110,000. Actual salaries may be based on a number of factors including, but not limited to, a candidate’s skill set, experience, education, work location and other qualifications. Posted salary ranges do not include incentive compensation or any other type of remuneration.</p><p><strong>Deutsche Bank Values &amp; Diversity</strong></p><p>We believe talent is found in all cultures, countries, races, ethnicities, genders, sexual orientations, disabilities, beliefs, generations, backgrounds, and experiences. We pursue a working environment where everyone can be authentic and feel a sense of belonging. Click here to find out more about our diversity and inclusion efforts.</p><p>We are an Equal Opportunity Employer - Veterans/Disabled and other protected categories.</p><p>Click these links to view the following notices: EEO is the Law poster and supplement; Employee Rights and Responsibilities under the Family and Medical Leave Act; Employee Polygraph Protection Act and Pay Transparency Nondiscrimination Provision</p><p>Learn more about your life at Deutsche Bank through the eyes of our current employees: https://careers.db.com/life</p><p>The California Consumer Privacy Act outlines how companies can use personal information. If you are interested in receiving a copy of Deutsche Bank’s California Privacy Notice, please email HR.Direct@DB.com.</p><p><strong>Deutsche Bank Benefits </strong></p><p>At Deutsche Bank, we recognize that our benefit programs have a profound impact on our colleagues. That’s why we are focused on providing benefits and perks that enable our colleagues to live authenti­cally and be their whole selves, at every stage of life. We provide access to physical, emotional, and financial wellness benefits that allow our colleagues to stay financially secure and strike balance between work and home. Click here to learn more!</p><p><strong>#LI-HYBRID </strong></p><p>Our values define the working environment we strive to create – diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.</p><p>We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.</p><p>Visit Inside Deutsche Bank to discover more about the culture of Deutsche Bank including Diversity, Equity &amp; Inclusion, Leadership, Learning, Future of Work and more besides.</p><p><br/></p><p>We are an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the following notices: EEO is the Law poster and supplement; Employee Rights and Responsibilities under the Family and Medical Leave Act; Employee Polygraph Protection Act and Pay Transparency Nondiscrimination Provision.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology, Analyst, and Project Management
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

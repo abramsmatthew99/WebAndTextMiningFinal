@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who are we?<br/><br/></strong>At Wayve, we are developing breakthrough AI to reimagine mobility. We are solving autonomous vehicles differently by pioneering end-to-end deep learning which allow cars to drive in complex, never-seen-before environments. Our AV 2.0 driving system can adapt to any driving domain, vehicle platform or mobility need, delivering on the promise of a scalable, affordable solution that will transform the way we move about the world.<br/><br/>Founded in 2017, Wayve is made up of a global team of experts in machine learning and robotics. Wayve has raised over $258M and is backed by Eclipse Ventures, Balderton Capital and prominent technology leaders such as Sir Richard Branson and Yann LeCun. The team is headquartered in London with their fleet of vehicles testing in cities across the UK. Wayve aims to be the first to deploy autonomy in 100 cities.<br/><br/><strong>Where you'll have an impact<br/><br/></strong>We are looking for hands-on candidates who can develop reliable and performant software running on distributed, high-end computing devices. We are building a full-stack autonomous vehicle software solution, including data collection, storage, ML inference, and robotics controls. As a member of the Software Platform team, you will work within a multi-disciplinary engineering team which is delivering the software for edge devices to reliably provide data, experimentation, validation, and autonomy on a large-scale fleet of vehicles. Through this role, you will have the opportunity to work with Wayve's next-generation innovative compute and sensor platform and contribute to the software development lifecycle. Your responsibilities will be to design and develop reliable and observable software solutions, challenges include: the integration of new sensors, collection of data at massive scale, and optimisation of the software stack for latency, consistency, and observability.<br/><br/><ul><li>Build software to enable full sensor integration and data capture at scale and quality necessary for a fully autonomous vehicle</li><li>Deliver and maintain soft-real-time Linux-based software systems to a fleet of embedded devices on automobiles. Including data collection and storage as well as machine learning inference on the edge</li><li>Create robust, fault tolerant software solutions, with comprehensive system diagnostics so we can quickly and efficiently resolve any issues preventing our distributed fleet from operating at maximum capacity</li><li>Design, implement, and use performance review tools to improve performance and resolve both ad-hoc and systemic issues</li><li>Work collaboratively with a team of software and hardware engineers to design and build new iterations of our hardware platform, from the ground up where necessary<br/><br/></li></ul><strong>What You'll Bring To Wayve<br/><br/></strong><ul><li>Experience writing high-performance code in Rust, C++, C, or similar</li><li>Experience developing software for Linux-based systems</li><li>Knowledge of the Linux kernel, Linux-based custom distributions, device drivers</li><li>Knowledge of working with distributed computing<br/><br/></li></ul><strong>What We Offer You<br/><br/></strong><ul><li>Competitive compensation with salary and equity</li><li>Immersion in a team of world-class researchers, engineers and entrepreneurs</li><li>A position to shape the future of autonomous driving and to tackle the biggest challenges of our time</li><li>Benefits such as an onsite chef, workplace nursery scheme, private health insurance, therapy, daily yoga, onsite bar, large social budgets, unlimited L&amp;D requests, and more!</li><li>This is a full-time role based in our office in King's Cross. If your role is possible to do remotely we support flexible working, including working for up to 2 weeks from anywhere in the world. We trust you to know what works best for your team and projects and ask that you have a healthy presence that enables the right meetings to happen in person and strong relationships to be built. <br/><br/></li></ul><em>Wayve is built by people from all walks of life. We believe that it is our differences that make us stronger, and our unique perspectives and backgrounds that allow us to build something different. We are proud to be an equal opportunities workplace, where we don't just embrace diversity but nurture it - so that we all thrive and grow.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

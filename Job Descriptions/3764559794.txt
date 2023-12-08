@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you excited by the prospect of working for an organization that truly values your contributions, provides opportunities for growth and development, fosters diversity, equality, inclusion, AND gives you a chance to make a difference in the lives of children and families?<br/><br/><strong>What You Will Do<br/><br/></strong>The Data Analyst is a non-exempt position responsible for the ongoing support of Gulf Coast JFCS' Electronic Health Record system, Practice Management System, Clinical Workstation, and all other related clinical applications. The Data Analyst is also responsible for report design and development.<br/><br/><ul><li>Develop and modify databases as necessary to meet program contract reporting needs and monitoring requirements using Netsmart Avatar Electronic Health Record (EHR) products, Structure Query Language (SQL) and Cache Database Server</li><li>Perform/create a user interface design, development and implementation using transactions, menus, and parameter development</li><li>Address Netsmart Avatar, Avatar Help Desk Related work requests and document in the Help Desk database</li><li>Maintain, install and configure workstation database</li><li>Create, modify and submit reports in a timely manner to program staff and funders using Crystal Reports, Excel, Access and other reporting tools</li><li>Implement improvements in existing applications which lead to a more effective collection, analysis, and reporting of data</li><li>Coordinate State reporting for funders</li><li>Perform all other duties as assigned<br/><br/></li></ul><strong>What We Offer<br/><br/></strong><ul><li>$23.56 per hour</li><li>15 PTO days per year</li><li>12 Paid holidays</li><li>Medical, Dental &amp; Vision insurance</li><li>Healthcare Concierge </li><li>Financial Wellness Program</li><li>Dependent Care Flexible Spending Account</li><li>Immediate eligibility for 403b Savings Plan with 25% match</li><li>Supplementary Accident, Hospital Indemnity and Specified Disease insurance</li><li>Paid Life/AD&amp;D insurance</li><li>Pet, Legal and Identity Theft programs</li><li>Continuous training and professional development opportunities</li><li>Mileage Reimbursement</li><li>An opportunity to make the world a better place!<br/><br/></li></ul><strong>What You Will Need<br/><br/></strong><ul><li>Minimum of a bachelor's degree in computer science, appropriate certifications or related job experience can substitute for educational requirements.</li><li>One (1) year of experience in Information Systems or related field with specialization in electronic data processing, programming, systems analysis, and system design, or equivalent.</li><li>In-depth understanding of Netsmart’s Avatar EHR system or comparable electronic health record system preferred</li><li>Experience with principal administration of enterprise EHR systems such as axiUm Enterprise, Dentrix Enterprise, Sunrise, Epic and Cerner preferred</li><li>Familiarity with SQL and Extensible Markup Language (XML) preferred</li><li>Enterprise application experience with knowledge of data communications processes and network design</li><li>Effective written and oral communication skills</li><li>Seeks out input and direction when operating in new areas</li><li>Takes ownership of assignments and meets deadlines<br/><br/></li></ul><strong>Who We Are<br/><br/></strong>From babies to seniors, Gulf Coast JFCS serves all people in need, regardless of race, religion, culture or gender identity. Our programs span a broad human service spectrum, from behavioral and mental health, child welfare and adoption, family support, job and employment transition, housing, food, transportation or home care assistance for the elderly.<br/><br/>GCJFCS offers an opportunity to gain field experience and direct client contact hours for both Bachelor’s and Master’s level practicum and internships. For license-eligible candidates, we offer both individual and group supervision from a Board-Certified qualified supervisor to fulfill state requirements at no cost to the employee.<br/><br/><strong>Gulf Coast JFCS is an equal opportunity employer.</strong> Gulf Coast JFCS is committed to maintaining a work environment that is free of harassment, discrimination, or inappropriate behavior. Gulf Coast JFCS will not tolerate discrimination against its employees on the basis of their race, color, sex, age, religion, national origin, disability, marital status, pregnancy, veteran status, citizenship, gender identity, sexual orientation, workers’ compensation status, or any other characteristic protected by federal, state, or local law.<br/><br/><strong>EOE/Drug-Free Workplace/ E-Verify</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Strategy/Planning and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>

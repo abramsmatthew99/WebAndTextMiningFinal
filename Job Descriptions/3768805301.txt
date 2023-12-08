@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About the Opportunity: <br/><br/></strong>Hybrid Pathways is currently looking for a Sr Security Consultant for our team. As a Sr Security Consultant, you will be a part of the Delivery Team to deliver network/security solutions to our clients. This is a remote opportunity with some travel to clients as needed. We prefer candidates in Eastern Standard time zone.<br/><br/><strong>Responsibilities: <br/><br/></strong><ul><li>Advanced security event detection and threat analysis for complex and/or escalated security events. Tuning SIEM platforms and reducing benign analysis based on feedback/policy. </li><li>Incident response and management through complex troubleshooting of security devices/solutions including steps to minimize the impact and follow-on technical and forensic investigation to discover origin of breach and the extent of the damage.</li><li>Review threat analysis of customer networks and systems to find exploitable weaknesses and plan vulnerability remediation and protection. Plan and implement security patching, signature updates, code upgrades, and audit response to POA&amp;Ms.</li><li>Provide log, network, malware, and device analysis and making recommendations for remediation of security vulnerability conditions.</li><li>Support installation and maintenance of network and security devices, including firewalls, data encryption, and IDS/IPS to ensure proper logging and analytical reporting.</li><li>Work with peers to design, engineer, document and implement change requests in security devices. </li><li>Training peers </li><li>Briefing customers and other Verizon organizations outside operations.</li><li>Provisioning customers on the infrastructure as needed to meet business requirements. <br/><br/></li></ul>Preferred Skills:<br/><br/><ul><li>Bachelor's degree in Computer Science, Engineering, Information Security or related discipline.</li><li>ITIL Foundations Certification. </li><li>Strong communication skills and ability to engage with customers to understand their requirements.</li><li>Strong organizational, problem-solving, and analytical skills. </li><li>Ability to identify, communicate, and remediate gaps in processes.</li><li>Ability to work and excel within a team environment. </li><li>Experience with several of the following security devices/platforms: </li><li>Fortigate/FortiAnalyzer/FortiAuthenticator/FortiManager.</li><li>Cisco/Juniper/CheckPoint/Palo Alto Firewalls; IPS/IDS. </li><li>Demisto, Splunk, QRadar, RSA Security Analytic.</li><li>A10, FireEye, FirePower.</li><li>Bluecoat, Tripwire. </li><li>Active security certification in one or more of the following: CCSE, CISSP, CCSP, JNCIP, CCNA Security, Security +, CCNP Security.</li><li>UNIX/Linux command line experience.</li><li>Six or more years of relevant work experience. </li><li>Six or more years of as a SIEM Engineer with experience in Splunk, RSA, Palo Alto, or Demisto, QRadar .<br/><br/></li></ul>Required Education:<br/><br/><ul><li>Bachelor's degree or equivalent experience in Computer Science. <br/><br/></li></ul>About Us:<br/><br/>Hybrid Pathways is a New England-based IT professional services company that assists mid-to-large enterprises with the implementation of secure IT environments that span on-premise and public cloud platforms. Be a part of a fast-paced, growing organization focused on doing great projects for great people.<br/><br/>EEO Statement:<br/><br/>Hybrid Pathways is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, marital status, national origin, genetics, disability, age, or veteran status.<br/><br/>Powered by JazzHR<br/><br/>Fe7Q95Yk9N
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

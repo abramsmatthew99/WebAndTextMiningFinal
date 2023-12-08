@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>McDonald’s new growth strategy, Accelerating the Arches, encompasses all aspects of our business as the leading global omni-channel restaurant brand. As the consumer landscape shifts we are using our competitive advantages to further strengthen our brand. One of our core growth strategies is to Double Down on the 4Ds (Delivery, Digital and Drive Thru and Development). McDonald’s will accelerate technology innovation so 65M+ customers a day will experience a fast, easy experience, whether at one of our 25,000 and growing Drive Thrus, through McDelivery, dine-in or takeaway.<br/><br/></p><p>Leading this tech revolution is McDonald’s Global Technology organization made up of intrapreneurs who get to build really cool tech with scary smart people using the latest innovations like AI, IOT, and edge computing. We do this working along diverse, global teams who are always hungry for a challenge. It’s bonus points when you get to see your family and friends use the tech you build at their favorite McD restaurant.<br/><br/></p><p>As we have matured as an engineering organization and seen the demands for technology grow exponentially, we’re gearing up to deliver on the next set of opportunities for the business. We are building up an engineering team in house accountable for our strategic products. We’ll have diverse squads made up of engineers with traditional and specialized skillsets, both from internal engineers coupled with our partners, to help us flex with demand and solve technology innovation challenges done at an incredible scale.<br/><br/></p><p>Check out the Global Technology Technical Blog to learn how technology is directly enabling the Accelerating the Arches strategy.<br/><br/></p><p>We are an equal opportunity employer committed to the diversity of our crew members, staff, operators, and suppliers. We promote an inclusive work environment that creates feel-good moments for everyone. We are interested in people who enhance our company culture: Does this role interest you? We encourage you to apply even if you don’t meet every single requirement!<br/><br/></p><strong>Job Description<br/><br/></strong><p>As Machine Learning Ops engineer in our Global Technology Data &amp; Analytics team, you’ll be working with an outstanding global team of data engineers, data scientists and other product managers to build cutting edge analytics solutions and applications. It is an exciting time at McDonald’s as we are growing our analytics and ML engineering capabilities and team.<br/><br/></p><p><strong>What will you do? </strong></p><ul><li>Create and drive use of data science project playbooks to drive efficiency and people enablement.</li><li>Support CI/CD pipeline and automation for data ingestion and model deployment.</li><li>Implement model monitoring standards and drive adoption.</li><li>Implement model feedback standards and drive adoption.</li><li>Implement ML Metadata standards and store.</li><li>Implement performance standards and drive model performance optimization.</li><li>Implement model governance and responsible AI standards.</li><li>Maintain tools and infrastructure for data processing for AI/ML development initiatives.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><p><strong>Required Skills:</strong></p><ul><li>3+ years in DevOps, Data Engineering and ML background with Cloud platforms.</li><li>3+ years of experience with MLOps tools such as MLFlow and Kubeflow.</li><li>3+ years of experience in Python scripting and analytics platforms like Databricks or Sagemaker.</li><li>Bachelor’s degree in engineering, statistics, or other field with a quantitative component is required; Master’s degree preferred.</li></ul><p><strong>Strongly Preferred Skills:</strong></p><ul><li>Hands-on experience with modern machine learning libraries, frameworks, and technologies.</li><li>Ability to leverage critical thinking and analytical skills to improve business outcomes.</li><li>Excellent written and verbal communication skills.</li><li>Self-motivated with ability to set priorities and mentor others in a performance driven environment.</li><li>Experience with continuous integration and deployment (CI/CD) frameworks.<br/><br/></li></ul><strong>Additional Information<br/><br/></strong><p>McDonald’s is committed to providing qualified individuals with disabilities reasonable accommodations to perform the essential functions of their jobs. Additionally, if you (or another applicant of whom you are aware) require assistance accessing or reading this job posting or otherwise seek assistance in the application process, please contact recruiting.supportteam@us.mcd.com<br/><br/></p><p>McDonald’s provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to sex, sex stereotyping, pregnancy (including pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), race, color, religion, ancestry or national origin, age, disability status, medical condition, marital status, sexual orientation, gender, gender identity, gender expression, transgender status, protected military or veteran status, citizenship status, genetic information, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.<br/><br/></p><p>Nothing in this job posting or description should be construed as an offer or guarantee of employment.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Restaurants
+          </span>
+</li>
+</ul>
+</div>
+</section>

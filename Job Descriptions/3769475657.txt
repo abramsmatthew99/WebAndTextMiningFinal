@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are<br/><br/></strong>TheIncLab is the first human-centered artificial intelligence experience (AI+X) lab. TheIncLab’s award-winning, multi-disciplinary team is focused on designing and developing AI-enabled systems that learn and collaborate with humans. The company offers its clients comprehensive capabilities for rapid ideation, software development, and the building of smart systems and hardware solutions. Its open, scalable AI architecture approach, combined with years of experience in interactive engineering and emerging technology innovation, allows for rapid prototyping and deployment of transformational concepts, products and solutions designed to work with meaningful human interaction, effectively bridging the gap between humans and intelligent systems.<br/><br/><strong>Job Description<br/><br/></strong>The Chief Cyber Security Officer is a senior-level role responsible for implementing and enforcing the security compliance directives to protect company data and systems using sophisticated tools, instrumentation, and knowledge of government compliance documents/regulations (NISPOM, DFARS, DAAPM, JSIG, etc.), to monitor, evaluate, and manage IT risk. You will identify current threats, mitigate vulnerabilities, and anticipate future cybersecurity challenges. Utilizing new technologies, you will increase the security of our existing and emerging IT systems. You will lead business areas/activities and be responsible for managing a diverse range of cybersecurity projects. You will ensure the development, deployment, operations, implementation, and support of component information systems that are consistent with cyber security policies and procedures.<br/><br/><strong>Requirements<br/><br/></strong>As the Chief Cyber Security Officer, your responsibilities will include but not be limited to:<br/><br/><ul><li>Lead existing specialists and teams composed of highly skilled Cybersecurity Analysts, Information System Security Managers (ISSMs), and Information Systems Security Officers (ISSOs) across the organization, in both unclassified and classified environments. </li><li>Ensure company compliance with cybersecurity and privacy frameworks (FedRamp, DoD CC SRG, NIST, CMMC, HIPPA, etc). </li><li>Collaborate regularly with the company’s Officers and Information Technology (IT) team to ensure a robust cybersecurity posture while delivering information and network services. </li><li>Lead the strategy, planning, and implementation of cybersecurity requirements across our corporate functional support programs areas, in a way that seamlessly connects all components of the organization. </li><li>Maintain Information Security and cybersecurity-related policies, standards, procedures, and guidelines, and conduct policy updates as necessary for the company. </li><li>Oversee System Security Plan (SSP) to include information security controls at the networking, computing, and enclave levels for multiple programs, including those with multiple enclaves and differing data protection/classification requirements. </li><li>Lead Risk Management and Incident Response actions and/or teams to safeguard the company from active and emerging cyber threats. Can independently self-triage incidents or attacks, or make control changes directly within a system. </li><li>Perform audit and security compliance checks, including network penetration testing, vulnerability scans, and other configuration analysis. </li><li>Investigate reported security activities, including forensic analysis and review and assessment of security events and logs via sophisticated cyber security /event management tools. </li><li>Develop threat models and security risk assessments and recommend mitigations and countermeasures to address risks, vulnerabilities, and threats. </li><li>Implement systems and support network defense, identification/authentication/access control, data protection mechanisms, and data transfer mechanisms. </li><li>Serve as a key contributor within the organization’s Change Management process and ensure security controls are dynamically managed to ensure a strong cybersecurity posture is maintained. </li><li>Assists systems architects, engineers, and developers in the identification and implementation of appropriate information security functionality to ensure uniform application of security policy and federal government requirements. </li><li>Analyze existing and future systems across the company and projects, review security architectures, and develop engineering solutions that integrate information security requirements to proactively protect information. </li><li>Work collectively with the Security Team to support business continuity needs, disaster recovery programs, and incident or insider risk responses, as necessary. </li><li>Develop means for the collection and representation of cybersecurity metrics and be able to present findings on a recurring cadence to senior management and executive leaders within the company. </li><li>Identify and execute the company’s cybersecurity-related annual budget. </li><li>Identify and manage vendor relationships that provide cybersecurity tools, capabilities, or response elements that can supplement the company‘s posture in defending against network attacks. </li><li>Develop cybersecurity educational training curriculums and oversee regular exercises that measure and test user behaviors within the network. And then develop metrics related to the testing and any strategies for improvement as necessary. </li><li>Ability to travel (up to 20%). <br/><br/></li></ul><strong>Qualifications <br/><br/></strong><ul><li>Bachelor’s degree in Cybersecurity, Information Systems, Computer Science, or related field. </li><li>Must have a minimum of 10 years experience in Cybersecurity, with at least 6 or more years as a manager. </li><li>Hold current Industry or vendor certifications (CISSP, CEH, CISO, OSCP, AWS, Azure, or other). </li><li>Proven expert in the understanding, deployment, and manipulation of security controls and technologies; including but not limited to SIEM, ZTA, DLP, EDR, Identity, and firewalls. </li><li>Experience with Software Factory (SSF). </li><li>Experience with supporting ATOs or SCAs within DoD and/or Intelligence Community (IC) programs. </li><li>Experience in securing cloud workloads (AWS Gov, Azure Gov, etc). <br/><br/></li></ul><strong>Eligibility Requirements<br/><br/></strong><ul><li>Applicants must possess and have the ability to maintain a Top-Secret clearance. <br/><br/></li></ul><strong>Benefits<br/><br/></strong>Medical, Dental, and Vision Insurance <br/><br/>100% company-paid Short-Term and Long-Term Disability <br/><br/>100% company-paid Basic Life Insurance <br/><br/>Paid Time Off <br/><br/>Paid Holidays <br/><br/>401(k) with employer matching and immediate vesting <br/><br/><strong>No relocation assistance is offered for this position.  <br/><br/></strong><strong>This is a direct hire position. We do not accept indirect resumes, recruiters, or Third Parties. </strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

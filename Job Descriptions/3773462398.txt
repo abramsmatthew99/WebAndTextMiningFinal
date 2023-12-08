@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a skilled and detail-oriented Data Integration Specialist to join our real estate team. As a Data Integration Specialist, you will be responsible for analyzing various data sources and models to design, develop, modify, and integrate information systems. Your expertise in data analysis and integration will play a critical role in optimizing our data sources and driving operational efficiency. If you have a passion for leveraging technology to streamline processes and enhance data performance, we want to hear from you!<br/><br/><strong>Compensation<br/><br/></strong>$65,000 - $75,000 yearly<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Perform thorough data analysis of information systems to identify program, software, architecture, and operational issues.</li><li>Develop integration plans and strategies to optimize data sources, ensuring seamless connectivity across platforms.</li><li>Present technical solutions and data acquisition strategies to supervisors for approval and implementation.</li><li>Collaborate with other developers to execute integration projects and procedures effectively.</li><li>Follow standard practices for integration processes to ensure high-quality performance of data integration systems.</li><li>Monitor data configurations, test interfaces, and convert physical data into source codes.</li><li>Optimize information system programs and network architectures to handle increased data volumes efficiently.</li><li>Work closely with business users and analysts to convert operational specifications into technical designs.</li><li>Follow business requirements closely to improve integration development plans.</li><li>Manage retrieval systems and organizational databases after integration, proactively detecting bugs or errors.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Information Systems or related field preferred.</li><li>Proven experience as a Data Integration Specialist or similar role within a real estate or technology environment is highly desirable.</li><li>Strong analytical skills with the ability to identify system issues and provide effective solutions.</li><li>Proficient in programming languages such as Java, Python or SQL.</li><li>Solid understanding of database structures, ETL (Extract Transform Load) processes, and API integrations.</li><li>Familiarity with cloud-based technologies like AWS or Azure is a plus.</li><li>Excellent communication skills with the ability to present technical concepts clearly.</li><li>Detail-oriented and highly organized, with the ability to prioritize tasks effectively.<br/><br/></li></ul><strong>About Company<br/><br/></strong>As a member of our team, you'll have access to the latest technology, top-notch marketing resources, and lead distribution to help you get noticed by potential clients and close more deals. Our diverse team is committed to providing exceptional service, and we invest in your education and training to help you reach your full potential.<br/><br/>If you're looking to break through to the next level, the Bartos Group has everything you need to succeed. Our supportive work environment, best-in-class training, and unlimited growth potential will help you take your real estate career to new heights.<br/><br/>Join the Bartos Group, the leading real estate team at Premiere Plus Realty in Southwest Florida, and take your real estate career to new heights! Our mission is to help agents like you build a successful career, business, and life, and we provide the resources and support you need to achieve your goals.<br/><br/>1<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Real Estate
+          </span>
+</li>
+</ul>
+</div>
+</section>

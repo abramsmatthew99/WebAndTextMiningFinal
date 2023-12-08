@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are now looking for a Logic Design Engineer.<br/><br/>As a member of our CPU Logic Design Team, you will be responsible for CPU on-chip interconnect network, coherency and last-level caches, focusing on such tasks as micro-architectural definition, RTL coding, logic debug, synthesis and timing closure, supporting verification and implementation. This position offers you the opportunity to have real impact in a dynamic, technology-focused company impacting product lines ranging from consumer graphics to self-driving cars and the growing field of artificial intelligence. We have crafted a team of extraordinary people stretching around the globe, whose mission is to push the frontiers of what is possible today and define the platform for the future of computing.<br/><br/><strong>What You'll Be Doing<br/><br/></strong><ul><li>As a member of our core CPU team, you'll own and be responsible for crafting and timely delivery of a specific unit on the chip.</li><li>Day to day tasks include: writing readable high performance and low power RTL, Synthesis and Timing closure, and design documentation.</li><li>Collaborate with our verification team to verify the correctness of your unit.</li><li>Work with implementation to achieve your timing, area, performance and power goals.</li><li>Assist with timing closure of super units.<br/><br/></li></ul><strong>What We Need To See<br/><br/></strong><ul><li>Pursuing a Master’s Degree in Electrical Engineering, Computer Engineering or Computer Science (or equivalent experience).</li><li>Experience in processor or other related high performance semiconductor designs.</li><li>Verilog expertise required as is a deep understanding of ASIC design flow including RTL design, verification, logic synthesis, prototyping, DFT, timing analysis, floor-planning, ECO, bring-up &amp; lab debug</li><li>Effective communication and interpersonal skills are required along with the work in a dynamic, global team. Your successful track record of mentoring junior engineers and interns a huge plus.</li><li>A strong background in computer architecture, cache coherency or high speed interconnects.<br/><br/></li></ul>NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and talented people in the world working for us. Are you creative and autonomous? Do you love the challenge of crafting the fastest and most power efficient chips in their class? If so, come join our CPU design team, we want to hear from you!<br/><br/>The base salary range is 108,000 USD - 172,500 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.<br/><br/>You will also be eligible for equity and benefits . <em> NVIDIA accepts applications on an ongoing basis. <br/><br/></em>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

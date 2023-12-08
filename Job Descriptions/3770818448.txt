@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        SS&amp;C is a global provider of investment and financial services and software for the financial services and healthcare industries. Named to Fortune 1000 list as top U.S. company based on revenue, SS&amp;C is headquartered in Windsor, Connecticut and has 20,000+ employees in over 90 offices in 35 countries. Some 18,000 financial services and healthcare organizations, from the world's largest institutions to local firms, manage and account for their investments using SS&amp;C's products and services.<br/><br/><strong>Job Description<br/><br/></strong><strong>Software Engineer <br/><br/></strong><strong>Location(s)</strong>: Boston, MA | Waltham, MA | Hybrid<br/><br/><strong>Get To Know the Team:<br/><br/></strong>Eze Eclipse™ is a born-in-the-cloud investment solution that supports start-up, emerging equity-, and event-focused hedge funds’ full investment process in a single, unified platform through a secure web browser interface.<br/><br/>As a Software Engineer on the platform services team, you will play a key role in architecting, designing, and implementing the core infrastructure that powers the Eclipse™ family of products and services. You will collaborate with cross-functional teams of engineers, designers, and product managers to ensure the scalability, reliability, and performance of the platform, enabling us to deliver exceptional user experiences to our rapidly growing customer base.<br/><br/>The mission of the platform services team is to provide a suite of reusable software components which enable all Eclipse™ engineering teams to build microservices that meet our requirements for scalability, testability, and observability in a highly automated CI/CD environment.<br/><br/>If you have a passion for software development and a track record of delivering successful projects, we want to hear from you. Join us and help us drive the future of financial technology.<br/><br/><strong>Why You Will Love It Here! <br/><br/></strong><ul><li>Flexibility: Hybrid Work Model &amp; a Business Casual Dress Code, including jeans</li><li>Your Future: 401k Matching Program, Professional Development Reimbursement</li><li>Work/Life Balance: Flexible Personal/Vacation Time Off, Sick Leave, Paid Holidays</li><li>Your Wellbeing: Medical, Dental, Vision, Employee Assistance Program, Parental Leave</li><li>Diversity &amp; Inclusion: Committed to Welcoming, Celebrating and Thriving on Diversity</li><li>Training: Hands-On, Team-Customized, including SS&amp;C University</li><li>Extra Perks: Discounts on fitness clubs, travel and more!<br/><br/></li></ul><strong>What You Will Get To Do:<br/><br/></strong><ul><li>Design and develop scalable, highly available, and performant platform components, services, and RESTful APIs</li><li>Utilize the latest front-end and back-end technologies within a highly-automated continuous integration/continuous delivery (CI/CD) environment</li><li>Collaborate with cross-functional teams to define technical requirements, create designs, and implement innovative solutions</li><li>Work closely with team members, participating in code/design reviews and promoting best practices, to foster a culture of continuous improvement</li><li>Identify and address performance bottlenecks, security vulnerabilities, and other system limitations</li><li>Follow industry trends and emerging technologies, identifying relevant advancements, and using them to enhance the platform’s capabilities<br/><br/></li></ul><strong>What You Will Bring:<br/><br/></strong><ul><li>Bachelor's degree in computer science, software engineering, or a related field</li><li>3+ years of software development experience, with a focus on building and scaling distributed systems</li><li>Proficiency in one or more object-oriented programming languages such as C#, C++, JavaScript/TypeScript, Java, Go, or Python</li><li>Experience with one or more SQL database technologies (e.g., SQLServer, MySQL, PostgreSQL)</li><li>Practical experience with design patterns, microservices architectures, containerization (Docker, Kubernetes), and one or more public cloud technologies (e.g., AWS, Azure, GCP)</li><li>Experience designing and implementing RESTful APIs, GraphQL APIs and web services</li><li>Experience with agile development methodologies and CI/CD pipelines Strong problem-solving skills, with the ability to diagnose and resolve complex technical challenges</li><li>Excellent oral and written communication skills and the ability to work effectively in a collaborative team environment<br/><br/></li></ul>Thank you for your interest in SS&amp;C! To further explore this opportunity, please apply through our careers page on the corporate website at www.ssctech.com/careers.<br/><br/>Unless explicitly requested or approached by SS&amp;C Technologies, Inc. or any of its affiliated companies, the company will not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. SS&amp;C offers excellent benefits including health, dental, 401k plan, tuition and professional development reimbursement plan. SS&amp;C Technologies is an Equal Employment Opportunity employer and does not discriminate against any applicant for employment or employee on the basis of race, color, religious creed, gender, age, marital status, sexual orientation, national origin, disability, veteran status or any other classification protected by applicable discrimination laws.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

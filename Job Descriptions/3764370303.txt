@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>BRAIN-SCORE ENGINEER</strong>, MIT Quest for Intelligence -Engineering Team , to work with an established user base and interdisciplinary research groups across MIT to lead the maintenance and development of Brain-Score , a platform that evaluates computational models on their alignment to neural and behavioral brain data in the domains of vision and language. Will determine requirements, iterate on architectural specifications, and ensure a robust and scalable system that meets identified research needs. Responsibilities include maintaining all software components of the Brain-Score platform; supporting users in the Quest and worldwide to contribute new models and benchmarks; working with graduate students and postdocs on specific research thrusts in the form of new metrics, data, and computational models; developing new features such as live updates on model scoring, automatically incorporating benchmarks from new neural recordings, and preparing the platform for community-wide competitions; organizing, planning, and executing future development; and other duties as assigned.<br/><br/>Job Requirements<br/><br/>REQUIRED : master’s degree in computer science, neuroscience, machine learning, or related field; three years’ Python programming experience; experience building large-scale full-stack software systems and using git-based version control and CI/CD; excellent project-management, analytical, problem-solving, organizational, decision-making, and written and verbal English communication skills; and ability to work in a highly dynamic environment with faculty, staff, students, MIT community members, and Brain-Score users worldwide. PREFERRED : experience in at least two of the following: computer vision, optimization, natural language understanding, collecting and analyzing behavioral and/or neural data, and/or high-performance distributed computing; research experience developing and testing machine learning and brain and cognition models; familiarity with one or more cloud platforms; and experience with web development and maintenance and with virtualization and containerization. <strong>Job #23474<br/><br/></strong>11/22/23
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

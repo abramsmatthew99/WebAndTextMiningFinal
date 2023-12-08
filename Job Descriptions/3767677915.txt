@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>DiRAD Technologies, Inc., a leading communications solution provider, is growing again!<br/><br/>We’re looking for a dedicated <strong>Network/Security Engineer</strong> to take our operation to the next level. Our clients include DiRAD’s users of our technology platforms, in addition to contact customer service and answering service clients.<br/><br/><strong>Why Join Us<br/><br/></strong>DiRAD Technologies is expanding at a record pace, and we're looking for talented people to join our team. We're a leading provider of call center software and solutions and always on the cutting edge of technology. Our team is passionate about customer service, and we're committed to helping our customers achieve their goals.<br/><br/>We encourage you to apply if you're looking for a challenging and rewarding career. We offer an environment that is professional yet laid back; a think-tank culture where ideas are freely exchanged, and adventures with “bleeding edge” technology are encouraged. Change is mandatory, fancy clothes are optional, and egos are left at the door.<br/><br/><strong>Salary Range, Benefits And Perks<br/><br/></strong><ul><li>$33.65 - $48.08 per hour based on experience </li><li>Medical, Dental &amp; Vision Insurance</li><li>401(k) Plan with Company Match</li><li>8 Observed Holidays</li><li>Vacation, Personal &amp; Sick Time</li><li>Team Building Events &amp; Activities</li><li>Employee Assistance Program<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Primary Responsibilities:<br/><br/></strong><ul><li>Installing, configuring, testing, maintaining, securing, monitoring, and troubleshooting a hybrid infrastructure including UNIX, Linux, Windows and MACs</li><li>Troubleshoots and solves complex network connectivity problems.</li><li>Experience with security hardware and software technologies, including Firewalls, switches, digital certificates, and web security architecture.</li><li>Configure, maintain, and manage IPSec and SSL Virtual Private Networks environments.</li><li>Implement hardware, install patches, and perform periodical upgrades.</li><li>Ensures reliable and secure communications across all endpoints.</li><li>Monitor voice platform to ensure environment is at optimal performance</li><li>Conduct cybersecurity-related investigations (Implement, analyze, and suggest/resolve findings from vulnerability scans and penetration tests)</li><li>Ensure a robust logging infrastructure using Splunk and related open-source tools</li><li>Develop scripts to automate repetitive networking &amp; security administrative processes.</li><li>Develop and maintain technical documentation.</li><li>Working knowledge of REST APIs and scripting languages commonly used for network automation such as JavaScript.</li><li>Strong interpersonal, written, and oral communication skills</li><li>Experience working in a team-oriented, collaborative environment<br/><br/></li></ul><strong>Job Qualifications<br/><br/></strong><ul><li>Background check required<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li> A BS/BA Degree in Computer Science or related field or equivalent, Master's Degree a plus.<br/><br/></li></ul><strong>Experience<br/><br/></strong><ul><li>Installation and support of customer solutions</li><li>Research and Development Activities</li><li>Pre-Sale Support</li><li>Networking experience a must, VoIP a plus</li><li>Experience/Knowledge of Active Directory</li><li>Genesys Cloud/PureConnect Certification a big plus</li><li>Customer communications skills</li><li>Highly technical background<br/><br/></li></ul><strong>Other Key Attributes<br/><br/></strong><ul><li>Self-starter, no supervision needed</li><li>Excellent verbal and written communication skills</li><li>Commitment to exceeding customer expectations</li><li>Commitment to continuously improving skills and learning new things</li><li>Positive, enthusiastic attitude<br/><br/></li></ul><em>We are an equal opportunity employer. We do not discriminate based on race, creed, color, national origin, religion, sex, age, veteran status, disability, genetic information, gender identity, or any other protected class.<br/><br/></em><em>DiRAD Technologies, Inc. is committed to ensuring individuals with disabilities and/or those who have special needs participate in the workforce and are afforded equal opportunity to apply and compete for jobs. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at </em><em><strong>hr@dirad.com</strong></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

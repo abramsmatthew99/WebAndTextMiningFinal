@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Opportunity<br/><br/></strong>The Khoury College of Computer Sciences at Northeastern University invites applications for the position of part-time lecturer, teaching in the Computer Science [CS] and Data Science [DS] Masters Programs at The Roux Instituteat Northeastern University in Portland, Maine. Part-time positions are contingent upon enrollment, funding, and program needs.<br/><br/><strong>Responsibilities<br/><br/></strong>Part-time faculty teach one or more courses as part of the MS CS and MS DS degree programs at the Roux Institute. Courses are 14-weeks long, with fall, spring, and summer terms beginning in September, January, and May, respectively. Each course normally meets for 3 hours and 20 minutes once per week, often in the evening to support working students. Other meeting schedules are possible. Faculty are expected to teach in-person while also supporting remote learners. Teaching synchronously online may also be possible. We are searching across allareas of computer science and data science. For more information on existing courses, please see the Khoury College Graduate Catalog at: catalog.northeastern.edu/graduate/computer-information-science/computer-science/<br/><br/><strong>Qualifications<br/><br/></strong>We are seeking individuals committed to excellence in teaching. Candidates must hold at least a Master’s degree with industry experience. A Ph.D. in computer science or a related field is preferred. Strong written, oral, and interpersonal skills are required in order to communicate effectively with diverse and exceptional students in-person and online.<br/><br/>Please submit a cover letter of interest highlighting your teaching accomplishments, and relevant professional experience; a curriculum vitae; a list of one or more courses you would like and are qualified to teach; and the namesof three references. We will be evaluating applications on a rolling basis.<br/><br/>The Roux Institute is strongly committed to fostering excellence through diversity and recognizes the strength that diversity in all its forms brings to the research endeavor. We invite applications from all qualified candidates and enthusiastically welcome applications from women, minorities, persons with disabilities, and persons of any sexual orientation, gender identity, and gender expression.<br/><br/><strong>Position Type<br/><br/></strong>Academic<br/><br/><strong>Additional Information<br/><br/></strong>Northeastern University is an equal opportunity employer, seeking to recruit and support a broadly diverse community of faculty and staff. Northeastern values and celebrates diversity in all its forms and strives to foster an inclusive culture built on respect that affirms inter-group relations and builds cohesion.<br/><br/>All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, religion, color, national origin, age, sex, sexual orientation, disability status, or any other characteristic protected by applicable law.<br/><br/>To learn more about Northeastern University’s commitment and support of diversity and inclusion, please see <em>www.northeastern.edu/diversity</em>.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>The Network Administrator's role is to ensure the stable operation of VS network. This includes planning, developing, installing, configuring, maintaining, supporting, and optimizing all network hardware, software, and communication links. The person will also analyze and resolve end user hardware and software computer problems in a timely and accurate fashion and provide end user training where required. After the successful completion of training, this position offers the opportunity for a hybrid work model, although <strong><em>the candidate must be within commuting range of Charlotte, NC.<br/><br/></em></strong><strong>Responsibilities:<br/><br/></strong><ul><li>Perform network design and capacity planning. </li><li>Conduct research on network products, services, protocols, and standards in support of network procurement and development efforts. </li><li>Install and maintain network servers and network operating systems. </li><li>Provide support to users concerning network system operations. </li><li>Diagnose problems with network equipment and perform equipment repairs or upgrades when appropriate. </li><li>Develop functional data recovery systems and techniques. </li><li>Schedule and monitor backup of network data. Periodically restore files, applications, and the entire system on other network hardware to test backup facilities. </li><li>Install, configure, and maintain network cabling and other networking equipment such as hubs, switches, and UPS. </li><li>Oversee installation, configuration, maintenance, and troubleshooting of network connected end-user hardware, software, and peripheral devices. </li><li>Install, configure, and maintain IPS/IDS, Firewall, Anti-Virus, Anti-Spam, Anti-Malware, etc. for maximum internal network protection. </li><li>In conjunction with InfoSec, establish and enforce policies, procedures, and standards regarding LAN, WAN, security, and use of the organization's computer and information assets. </li><li>Perform other related duties as assigned. <br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li>Minimum Associate degree in computer science or related field (Bachelor’s Degree preferred)</li><li>Experience using LANDESK</li><li>Network VLAN configuration</li><li>Operational knowledge of Azure Virtual Networking. </li><li>Knowledge of Server Virtualization (VMWare). </li><li>Operational knowledge of network and routing protocols. </li><li>Operational knowledge of Windows Server and Azure Active Directory. </li><li>Operational knowledge of HP switch configuration and VLAN programming. </li><li>Intermediate PowerShell experience. </li><li>2+ years of Microsoft Azure Virtual Networking Support experience. </li><li>Ability to independently install software and hardware on networking equipment and microcomputers. </li><li>Familiarity with a variety of networking and personal computer software</li><li>Ability to troubleshoot and perform routine maintenance on servers, computers, and peripheral equipment. </li><li>Ability to communicate information to end users, colleagues, and senior leadership in a clear and concise manner. </li><li>Ability and desire to work as a member of a team and as a team of one. <br/><br/></li></ul><strong>Working Environment and Physical Demands:<br/><br/></strong><ul><li>Setup or maintenance of some peripheral equipment may require work in areas such as data rooms or wiring closets with restricted room for movement. </li><li>Must be able to lift 35 pounds and use basic hand tools regularly and lift/move up to 60 pounds occasionally. </li><li>Must be able to sit/stand at a desk and utilize a computer for extended periods of time. <br/><br/></li></ul><strong>Benefits:<br/><br/></strong><ul><li>Competitive salary</li><li>Excellent health, dental, and vision insurance</li><li>401K with 5% match</li><li>15 vacation days and 11 paid holidays</li><li>Employer-paid basic life insurance</li><li>Employer-paid short-term &amp; long-term disability</li><li>Paid sick days<br/><br/></li></ul>VS America, Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.<br/><br/><strong>Company Description<br/><br/></strong>VS America, Inc.<br/><br/>VS is the leader in innovative and ergonomically designed high quality school furniture and was founded 1898 in Germany. The company follows strict quality management standards, dedicated to consistent quality, rigorous environmental standards, and product development. VS America has been headquartered in Charlotte, North Carolina for 20 years and currently has showrooms in Charlotte, Chicago, and Houston. www.vsamerica.com<br/><br/>VS America, Inc. VS is the leader in innovative and ergonomically designed high quality school furniture and was founded 1898 in Germany. The company follows strict quality management standards, dedicated to consistent quality, rigorous environmental standards, and product development. VS America has been headquartered in Charlotte, North Carolina for 20 years and currently has showrooms in Charlotte, Chicago, and Houston. www.vsamerica.com
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Furniture and Home Furnishings Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

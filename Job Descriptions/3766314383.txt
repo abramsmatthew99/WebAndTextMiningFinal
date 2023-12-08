@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Responsibilities<br/><br/></strong>We are looking for an experienced and highly skilled IT Manger to lead a cross functional support team, optimize support processes, drive problem resolution, and lead service-related projects.<br/><br/>The successful candidate will have experience managing a distributed team that supports 1000+ users and 2000+ devices distributed across a large number of locations. They will be a strong technologist with a passion for process improvement, customer service, and team development.<br/><br/>IT is an enabler of technology within the company. It is essential that support is effective and efficient, that it is personable and business oriented, ensuring our users are up, running, and productive at all times.<br/><br/><strong>Key Responsibilities Include<br/><br/></strong>Support Management<br/><br/><ul><li>Monitor and manage the support queue flow ensuring incidents and requests are being properly prioritized, serviced, and resolved.</li><li>Create and maintain the schedules for remote, onsite, and after-hours support ensuring all are staffed appropriately.</li><li>Evaluate support performance, define, and implement adjustments to continuously improve overall and individual performance.</li><li>Manage the user and site provisioning/deprovisioning processes along with the device deployment processes and lifecycle.</li><li>Lead the problem management process. Assist in the troubleshooting and isolation of the problem. Work with other technology areas to provide resolution quickly to minimize the impact to the end user.</li><li>Manage the solutions repository ensuring both the internal repository and those used by outside parties are maintained, coordinated, and up to date.<br/><br/><br/></li></ul>Team Development<br/><br/><ul><li>Plan, develop, and lead training efforts to improve the support team’s knowledge and proficiency. This includes both internal and external support resources and cross functional team members.</li><li>Lead the effort to grow and expand the service desks team’s proficiency to provide deeper levels of support into both business applications and process as well as core infrastructure services.</li><li>Ensure that positions in the service desk are seen as pathways to other positions within IT for those that demonstrate proficiency while ensuring that service desk roles are seen as technical and fulfilling careers.</li><li>Maintain strong relationships with external service providers and work with their leadership to ensure their proficiency is as least as strong as the internal resources and that they are seen by our users as just another strong IT service team member. Maintain a strong understanding of their service capabilities to ensure we are positioning them properly and leveraging them appropriately.<br/><br/><br/></li></ul>Process Improvement<br/><br/><ul><li>Lead the continued expansion of use of our ITSM in all areas of its capabilities. Use projects in this application as an opportunity for individuals to develop skills in areas of scope definition, process design, project scheduling and execution.</li><li>Perform direct user support as well as field and office support as needed to develop firsthand assessments of our effectiveness and opportunities for improvement.</li><li>Evaluate support performance and define adjustments and corrective actions to continuously improve overall and individual performance.</li><li>Monitor the IT audit dashboard and promptly address any process gaps or execution issues that it may expose.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>A bachelor’s degree in computer science, information technology, or a related field. Relevant certifications (e.g., ITIL, HDI, CompTIA A+, etc.).</li><li>Proven experience in a supervisory role within an IT service desk environment, demonstrating leadership, team management, and performance coaching abilities.</li><li>Strong technical knowledge across a wide range of IT systems, including operating systems, hardware, software applications, network protocols, and mobile devices.</li><li>Excellent critical thinking skills, with the ability to analyze complex issues, identify root causes, and implement effective solutions.</li><li>Exceptional customer service and communication skills (verbal and written), with the ability to interact professionally and courteously with end-users of varying technical backgrounds.</li><li>Strong expertise with IT service management tools (e.g., ServiceNow, Remedy, Freshservice) and experience with incident management, problem management, and change management processes.</li><li>Strong organizational skills, including project planning and resource scheduling, with the ability to prioritize and manage multiple tasks as well as initiatives, in a demanding environment.</li><li>Experience in developing and maintaining service desk procedures, documentation, and knowledge base articles.</li><li>Ability to work collaboratively and build positive relationships with cross-functional teams and stakeholders.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction
+          </span>
+</li>
+</ul>
+</div>
+</section>

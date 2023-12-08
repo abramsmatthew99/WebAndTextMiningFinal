@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<em><strong>Are you a Developer with experience in the cleared space? Does learning a new technology excite you?<br/><br/></strong></em><strong> Sound like fun? Apply today to learn more!!<br/><br/></strong><strong>Why join this team? Here's why!<br/><br/></strong><ul><li>Join a technical insertion team to help introduce emerging technologies into the Agency</li><li>Agency wide initiative with great impact to daily operations</li><li>Opportunity to shape this effort from the start and build it from the ground up. New development.</li><li>High visibility project including engagement with Alpha+1 stakeholders across the Agency</li><li>Expanding opportunities as the technology you implemented is adopted across directorates<br/><br/><br/></li></ul><strong>Qualifications:<br/><br/></strong>"<br/><br/>The selected candidate will augment a development team supporting a capability that provides a mechanism to develop, implement, and maintain workflow management. The team develops services and implements new workflow processes using free and open source workflow tools. The role requires a self-motivated individual that is comfortable working in a team environment. The position will require working in a fast-paced team and a willingness to take on challenges. Experience working in an agile environment will benefit the candidate. The tech stack includes React, Node, Java, and Spring. The position is required to utilize software development and software design methodologies appropriate to the development environment and consistent with CMS’ DevOps objectives. Telework up to two days a week is available in this position.<br/><br/>Key Technologies:<br/><br/><ul><li> Java</li><li> Postgres</li><li> React</li><li> Node</li><li> Spring</li><li> Camunda<br/><br/><br/></li></ul><strong>Desired Skills<br/><br/></strong>Experience working in an Agile Development environment<br/><br/>Experience managing the full software development lifecycle (SDLC) to include requirements definition, design, development, test, deployment, and sustainment<br/><br/>Proficient in Linux<br/><br/><strong>Qualifications:<br/><br/></strong>Three (3) years of experience in software development/engineering<br/><br/>Bachelor’s degree from an accredited college or university in Computer Science or related discipline<br/><br/>Four (4) years of additional software development experience may be substituted for a bachelor’s degree.<br/><br/>Experience with Java, Spring, React, Node<br/><br/>Willingness to learn new technologies<br/><br/>Experience developing and updating technical documentation "<br/><br/><strong>InterImage Benefits Snapshot:<br/><br/></strong><ul><li> 401K - 7% contribution with 3% profit sharing; 1-year cliff vesting schedule</li><li> Paid Time Off: 4 weeks</li><li> Paid Holiday Leave: 11 days (88 Hours)</li><li> Life Insurance: $50,000; 100% of premium</li><li> Short-term/Long-term Insurance: 100% premium</li><li> Healthcare: 2 CareFirst Administrator plans offered, $0 Employee only option, Metlife for Vision, and The Standard for Dental.<br/><br/><br/></li></ul><strong>InterImage has adopted a benefits approach that allows employees to select which benefits fit their lifestyle while excluding those that don’t and receive cash in lieu of the excluded benefits. The benefits that allow a salary increase should you opt-out include:<br/><br/></strong><em> Medical Dental/Vision PTO – Excluding sick leave Paid Federal Holidays The 401K Plan<br/><br/></em><strong>Please be advised this is one of many opportunities we have as a Software Developer in support of our Intel customer base. If this opportunity does not align with the specific technologies you are looking to perform as a Software Developer please reach out to introduce yourself to our Staffing Team to explore additional Software Developer opportunities with InterImage MPO-Resumes@iimage.com.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

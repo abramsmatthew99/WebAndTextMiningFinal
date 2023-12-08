@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Agency Description<br/><br/>The Department of Small Business Services (SBS) helps unlock economic potential and create economic security for all New Yorkers by connecting New Yorkers to good jobs, creating stronger businesses, and building a fairer economy in neighborhoods across the five boroughs.<br/><br/>Division Description<br/><br/>The Technology Unit provides all SBS employees with quick and efficient service to meet all their technology needs. The Unit consists of three groups: The Project Management Office (PMO), Application Development and, Technology Operations. This position will be part of the Application Development group which is responsible for leading the implementation of software development efforts, solution architecture, software quality assurance testing, and ongoing maintenance of all SBS databases.<br/><br/><strong>Job Description<br/><br/></strong>We are seeking a .NET/Dynamics Developer to join New York City Government. We are an exciting, energetic and innovative technology team working a block away from the Fulton center. You would be part of a growing development team. You will work on developing custom .Net applications and when needed apply your knowledge on various Commercial off-the shelf software (COTS) applications, primarily Microsoft Dynamics 365. This hands-on position will be challenged to design and develop features to new or existing .NET applications that improve end-user productivity and increase overall efficiencies. You will work closely with senior Technology staff and product owners and be an integral part of the entire product cycle.<br/><br/><strong>Responsibilities Will Include<br/><br/></strong>Design forms, workflow processes, web services, plugins, and other components needed to meet the business requirements within the Agency Dynamics 365 system<br/><br/>Modify and develop .NET MVC code for various .NET applications to meet the business needs of the agency<br/><br/>Work with a DBA to determine where and how to make additions and/or changes to the existing SQL database structure<br/><br/>Collaborate with other software developers, business analysts, software architects, and IT professionals to implement practical solutions<br/><br/>Ensure that all solutions are lightweight, scalable, completely secure, and built to a high level of quality<br/><br/>Create estimates on time and effort to complete assignments based on end-user requirements<br/><br/>Design and develop new solutions utilizing Web Services<br/><br/>Participate fully and actively in deployments and provisioning activities<br/><br/><strong>Preferred Skills<br/><br/></strong>7+ years of strong, hands-on ASP.NET MVC5, C# development experience, with strong knowledge of Object Oriented and .NET development principles<br/><br/>5+ years’ experience with project delivery and execution with native and custom installations for Dynamics CRM 2015 / 2016 / 365<br/><br/>5+ years of Microsoft SQL server experience with strong knowledge of relational database principals, normalization, SQL and stored procedures<br/><br/>Microsoft Certified Professional in Web Development or Dynamics 365<br/><br/>Experience doing customizations with ASP.NET, AngularJS, AJAX, jQuery, jQuery Mobile, JSON, JavaScript, Bootstrap, HTML5, CSS3 and XHTML<br/><br/>Experience working on LDAP directory and SAML services<br/><br/>Experience in developing and consuming Web Services using WCF, REST API and Web API<br/><br/>Experience with source control management systems (Git, TFS &amp; VSTS) and continuous integration/continuous deployment<br/><br/>Experience working on SharePoint<br/><br/>Demonstrated ability to deliver projects and products in an Agile project management environment<br/><br/>Self-motivated, able to work effectively both independently and in a team environment<br/><br/>Excellent communication skills with both internal team members and external business stakeholders<br/><br/>Strong desire to find ways to improve solutions, systems, and processes<br/><br/><strong>Minimum Qualifications<br/><br/></strong><ul><li> A baccalaureate degree from an accredited college, including or supplemented by twenty-four (24) semester credits in computer science or a related computer field and two (2) years of satisfactory full-time software experience in designing, programming, debugging, maintaining, implementing, and enhancing computer software applications, systems programming, systems analysis and design, data communication software, or database design and programming, including one year in a project leader capacity or as a major contributor on a complex project; or</li><li> A four-year high school diploma or its educational equivalent and six (6) years of full-time satisfactory software experience as described in “1" above, including one year in a project leader capacity or as a major contributor on a complex project; or</li><li> A satisfactory combination of education and experience that is equivalent to (1) or (2) above. College education may be substituted for up to two years of the required experience in (2) above on the basis that sixty (60) semester credits from an accredited college is equated to one year of experience. A masters degree in computer science or a related computer field may be substituted for one year of the required experience in (1) or (2) above. However, all candidates must have a four year high school diploma or its educational equivalent, plus at least one (1) year of satisfactory full-time software experience in a project leader capacity or as a major contributor on a complex project.<br/><br/></li></ul>NOTE: In order to have your experience accepted as Project Leader or Major Contributor experience, you must explain in detail how your experience qualifies you as a project leader or as a major contributor. Experience in computer operations, technical support, quality assurance (QA), hardware installation, help desk, or as an end user will not be accepted for meeting the minimum qualification<br/><br/>requirements.<br/><br/>Special Note<br/><br/>To be eligible for placement in Assignment Level IV, in addition to the Qualification Requirements stated above, individuals must have one year of satisfactory experience in a project leader capacity or as a major contributor on a complex project in data administration, database management systems, operating systems, data communications systems, capacity planning, and/or on-line applications programming.<br/><br/>Residency Requirement<br/><br/>NYC residency not required for this title.<br/><br/>Additional Information<br/><br/>The City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.<br/><br/>$89,550.00 – $102,982.00
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

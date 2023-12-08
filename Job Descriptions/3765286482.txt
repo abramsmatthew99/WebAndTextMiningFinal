@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>QIQI<br/><br/></strong>We are visionary hair experts with decades of experience who have never been satisfied with the status quo. We create ultra-premium salon-grade hair control and care products that harness ground-breaking science, ingredients, and proprietary manufacturing processes to deliver exceptional, lasting performance. We are raising the standards of our industry with innovation, excellence, and creativity.<br/><br/><strong>About The Role<br/><br/></strong>Qiqi is looking for a hardworking and dependable <strong>Dull Stack Developer</strong> as part of our growing international Digital team, with proven experience in Website development for E-commerce using Sanity and Shopify.<br/><br/>This new position reports to and works in conjunction with the Director of Digital.As a Full Stack Developer specializing in e-commerce for beauty and cosmetics, you will play a pivotal role in enhancing and optimizing our online shopping experience. You will be responsible for developing and maintaining our website, integrating third-party applications, implementing tracking solutions, and ensuring seamless functionality across different platforms.<br/><br/><strong>Essential Functions<br/><br/></strong><ul><li>Website Development: Design, develop, and maintain our e-commerce website, ensuring it is user-friendly, visually appealing, and optimized for performance and responsiveness.</li><li>Platform Integration: work with Shopify, Sanity CMS, and other third-party platforms to enhance website functionality, user experience, and backend operations.</li><li>Tracking Implementation: Implement and manage tracking solutions using Google Tag Manager and other tools to gather valuable data on user behaviour, sales, and marketing campaign performance.</li><li>Frontend Development: Create visually appealing and interactive frontend elements using HTML, CSS, JavaScript, and other frontend technologies to enhance user engagement and satisfaction.</li><li>Backend Development: Develop and maintain server-side logic, databases, and APIs using backend technologies such as Node.js, Python, or PHP, ensuring smooth data exchange between the server and frontend.</li><li>Security and Performance: Implement security measures to protect customer data and ensure website security. Optimize website performance and loading speed to provide a seamless browsing experience.</li><li>Collaboration: Work closely with cross-functional teams, including designers, marketers, and other developers, to implement new features, optimize existing functionalities, and troubleshoot issues.</li><li>Quality Assurance: Conduct thorough testing, debugging, and troubleshooting to identify and fix bugs, ensuring the website functions flawlessly across various devices and browsers.</li><li>Documentation: Create and maintain technical documentation related to website architecture, APIs, and integrations for future reference and team collaboration.</li><li>Continuous Learning: Stay updated with the latest industry trends, e-commerce technologies, and best practices to suggest innovative solutions and improvements.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science, Information Technology, or related field.</li><li>Proven experience as a Full Stack Developer in the e-commerce industry, preferably in beauty and cosmetics.</li><li>Proficiency in Shopify, Sanity CMS, Google Tag Manager, and other common e-commerce platforms and tools.</li><li>Strong knowledge of frontend technologies (HTML, CSS, JavaScript, React, etc.) and backend languages (Node.js, Python, PHP, etc.).</li><li>Experience with database systems (SQL, MongoDB, etc.) and RESTful API development.</li><li>Familiarity with version control systems (Git) and agile development methodologies.</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and collaboratively.</li><li>Ability to prioritize tasks and meet deadlines in a fast-paced environment.</li><li>Fluent in English. Excellent communication skills, both written and verbal<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Competitive salary and performance-based bonuses.</li><li>100% employer-paid premium medical, dental &amp; vision coverage</li><li>Unlimited PTO</li><li>Flex Time Off - No cap on personal time off and paid company holidays</li><li>Employee Products Discounts</li><li>Remote Work Model</li><li>Ongoing development and the opportunity to enhance your skills in the most innovative company.</li><li> The actual salary offered will carefully consider a few factors including your skills, qualifications, experience, and location.<br/><br/></li></ul>At Qiqi we are committed to diversity and inclusion in the workplace. We are an equal opportunity employer and do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.<br/><br/><strong>APPLY<br/><br/></strong>If you are a passionate Full Stack Developer with experience in e-commerce, Shopify, Sanity, and tracking implementation, and are excited about contributing to the beauty and cosmetics industry, please submit your resume and a cover letter detailing your relevant experience and why you are a great fit for this role. We look forward to welcoming you to our team!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Personal Care Product Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

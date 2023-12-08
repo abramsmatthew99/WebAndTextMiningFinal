@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Relocation</strong> assistance available</p><p><br/></p><p><strong>Summary: </strong></p><p><strong> </strong></p><p>Our award-winning client is seeking an Associate Software Engineer to join their team. Collaborate with experts to design and maintain software for laboratory robots, specialize in liquid-handling and instrument-tending; partner with Manufacturing Engineering for production automation software; contribute to user interface design and development, emphasizing web applications; participate in foundational tool creation, streamlining programming; engage in hands-on troubleshooting with the Customer Care team; develop software expertise in an ISO 13485 Quality environment, upholding high development standards.</p><p> </p><p><strong>Responsibilities: </strong></p><p><strong> </strong></p><p>● Collaborate with seasoned professionals to design, create, and maintain software applications for laboratory robots, specializing in liquid handling and instrument-tending.</p><p>● Partner with Manufacturing Engineering to craft startup, testing, and diagnostic software for production automation equipment.</p><p>● Acquire skills and actively contribute to the design and development of user interfaces, particularly web applications, tailored for specific applications.</p><p>● Participate in the creation of foundational tools using various software environments, streamlining application programming processes.</p><p>● Collaborate with the Customer Care team, engaging in hands-on troubleshooting of field service issues to enhance problem-solving abilities.</p><p>● Develop expertise in software development within an ISO 13485 Quality environment, ensuring adherence to high standards of development practices.</p><p><strong> </strong></p><p><strong> </strong></p><p><strong>Required Qualifications: </strong></p><p><strong> </strong></p><p>● Technical Proficiency:</p><p><br/></p><p>○ Proven experience in developing applications or embedded control software.</p><p>○ Solid background in object-oriented design methodologies.</p><p>○ Competence in Java, C/C++, Python, and Rust.</p><p>○ Understanding of electrical interfacing, sensors, and motors.</p><p><br/></p><p><br/></p><p>● Technology Exposure:</p><p>○ Exposure to machine vision, robotics, and mobile robots is advantageous but not mandatory; candidates with a keen interest in learning and applying skills in a real-world setting are encouraged.</p><p><br/></p><p><br/></p><p>● Programming Skills:</p><p>○ Hands-on experience with Java and/or another object-oriented language.</p><p>○ Competency with Integrated Development Environments (IDEs) and source control tools.</p><p>○ Knowledge of Java-based frameworks, particularly the Spring Framework, is a plus.</p><p>○ Familiarity with containerization tools such as Docker and Kubernetes is advantageous.</p><p>○ Experience with relational and/or NoSQL database architecture is a plus.</p><p><br/></p><p><br/></p><p>● Communication and Collaboration:</p><p>○ Effective communication skills are necessary.</p><p><br/></p><p>● Work Environment:</p><p>○ Previous experience in a fast-paced, team-based design environment.</p><p><br/></p><p>● Additional Skills:</p><p>○ Understanding CSS styling and HTML5 is beneficial.</p><p>○ Familiarity with web technologies, including experience with Angular and Node, is a plus.</p><p><br/></p><p>● Education:</p><p>○ A bachelor's degree in computer science, engineering, or related fields is preferred but not mandatory. Applicants with a passion for software development and problem-solving are warmly welcomed.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Information Technology, and Design
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        At Visual Concepts, we believe great games are made by diverse and empowered teams with a shared passion for play. As one of the world’s top game development studios, we have shipped over 100 multi-sku titles to critical acclaim and commercial success. Our teams are independent and entrepreneurial. Our studios in Agoura Hills, Novato, Foothill Ranch, Irvine, Budapest, Shanghai, Austin, Boise, Seoul, and Parksville, Canada are committed to artistry and technical innovation, offering top candidates the opportunity to learn and grow with some of the smartest and most creative minds in the industry.<br/><br/><strong><strong>What We Need<br/><br/></strong></strong>Do you love seeing what industrious players can do with a set of tools and a game simulation with open architecture? Enjoy working with sandbox systems that interact in unexpected ways, with sometimes outrageous results? Are you inspired when player communities explode a game universe with all-new content that defies imagination? So are we! If you have a passion for player creativity and the vast universe of potential that forms when players have the tools to unleash their dreams, we want to talk to you!<br/><br/>Our Agoura Hills studio is looking for an engineer to join the WWE2K Universe team. Universe is our open-ended sandbox that allows players to create their own WWE experience using all the AAA modes and simulations of WWE2K. We’re seeking a engineer who has a high bar for code quality and a passion for clean and efficient design. In this role, you will contribute to our creation tools and pipelines, working closely with modeling, UX, animation, cinematics, and other teams, to help make future iterations of WWE2K the best ever!<br/><br/><strong><strong>What You Will Do<br/><br/></strong></strong><ul><li>Work with design, production and technical leads to implement systems used by WWE2K Universe, empowering players to build their own WWE experience</li><li>Refactor/modernize code to enable future features and workflows</li><li>Work in an Agile environment to provide accurate schedules and estimates for completing tasks on time</li><li>Produce code that is clean, efficient, well-documented, and conforms to our coding standards<br/><br/><br/></li></ul><strong><strong>Requirements<br/><br/></strong></strong><ul><li>Bachelor’s or Master’s Degree in Computer Science or related field, or equivalent experience</li><li>Fluent in C++; Knowledge of Modern C++ best practices/guidelines</li><li>Self-motivated, with excellent problem-solving skills</li><li>Collaborative; able to work with content creators<br/><br/><br/></li></ul><strong><strong>Preferred Qualifications<br/><br/></strong></strong><ul><li>2+ years of experience in game development</li><li>Passion for UI systems and design</li><li>Experience with JSON</li><li>Shipped game titles, preferably on console</li><li>Passion for video games<br/><br/><br/></li></ul>The pay range for this position in California at the start of employment is expected to be between $80,000 and $140,000 per year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for this position may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, employee will be in an 'at-will position' and the company reserves the right to modify base salary (as well as any other discretionary payment or compensation or benefit program) at any time, including for reasons related to individual performance, company or individual department/team performance, and market factors.<br/><br/>To learn more about Visual Concepts and our studio locations, check out our website at www.vcentertainment.com
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Games
+          </span>
+</li>
+</ul>
+</div>
+</section>

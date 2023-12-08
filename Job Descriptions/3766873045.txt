@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Saving the World! Help Wanted…<br/><br/></strong>Budderfly is a fast-growth, private equity-backed energy management outsourcing company that is committed to reducing global carbon emissions for small to medium sized enterprises. We are the premier sustainability partner for businesses with repeatable footprints such as restaurant chains, assisted living facilities, retail franchises, and more. With zero upfront investment, Budderfly installs, monitors, and manages a combination of patented technologies, equipment upgrades, and proprietary energy software to help deliver complete energy saving solutions for our customers.<br/><br/><em>Ranked #2 in energy companies and #10 overall on the 2021 Inc. 5000 America's Fastest-Growing Private Companies list.<br/><br/></em>We are an energetic and dedicated team working together to make a positive impact on the environment while providing an excellent customer experience. We are growing quickly and looking to add talented people who are passionate about making the world a better place!<br/><br/><strong>We are looking for a Software Engineer ll (2-5 years of experience with applicable technologies) to help design, develop, test, debug, and deploy highly-available applications. The ideal candidate will be a Java developer comfortable handling new challenges involving emerging technologies. They should be capable of addressing mission-critical application diagnostics and troubleshooting.<br/><br/></strong><strong>WHY THIS ROLE IS IMPORTANT:<br/><br/></strong>The Software Engineer II plays a pivotal role in the development and maintenance of critical business applications. They contribute to a collaborative team, ensuring the timely delivery of high-quality, mission-critical software. This role is vital for maintaining the efficiency, reliability, and innovation of our technological solutions.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Provide contributions to a team responsible for the design, development, and implementation of critical business applications. </li><li>Work with Agile software lifecycle methodologies. </li><li>Create technical design documents. </li><li>Perform research, analysis, coding, debugging, and testing. </li><li>Work effectively in a collaborative development environment. </li><li>Conduct QA testing of all code. </li><li>Participate in code reviews to ensure adherence to coding standards. </li><li>Demonstrate solid time management skills. </li><li>Collaborate with other departments to ensure a consistent focus on producing quality deliverables in a timely manner. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science, Information Technology, Engineering, or a related field. </li><li>Experience with following technologies: Java, Spring, Hibernate, jHipster, Angular, Spring Boot, Spring Cloud. </li><li>Experience with Tomcat, Docker, Kubernetes, AWS, and Cloud Technologies. </li><li>Experience with API, Swagger, and Microservices Development. </li><li>Experience with IoT and MQTT is a plus. </li><li>Proficiency with SQL and one or more relational databases, such as MySQL, and/or with NoSQL databases such as DynamoDB. </li><li>Experience with version control software, such as GIT. </li><li>Full exposure to and understanding of all aspects of the software development lifecycle, using Jira and Confluence. </li><li>Object-oriented design and programming skills, including working knowledge and experience using design patterns. </li><li>Must be authorized to work for ANY employer in the U.S. <br/><br/></li></ul><strong>Salary Range: </strong><strong>$90K-130K /</strong> based on factors including level of experience, skillset, and qualifications.<br/><br/>On-site/Shelton, CT-work remotely for two days and in the office for three days. May consider remote for the right individual.<br/><br/><strong>What We Offer:<br/><br/></strong><ul><li>Career advancement opportunities in a fast-growing, supportive company environment</li><li>Competitive pay</li><li>Full benefits package including medical, dental, vison, 401K, life insurance, and disability insurance</li><li>Opportunity to work as part of a team that values its members and works together to achieve positive change. <br/><br/></li></ul><em>Budderfly is committed to providing equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status, and to affirmatively seek to advance the principles of equal employment opportunity.<br/><br/></em><em>We welcome all job seekers, including those with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company's career web page as a result of your disability</em>.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

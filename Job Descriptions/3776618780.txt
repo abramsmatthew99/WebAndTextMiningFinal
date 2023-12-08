@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are dscout. At our core, we are People Nerds. We empower our customers to meet the people who matter to them in the moments that matter most. Customer-obsessed companies and agencies like Salesforce, Sonos, Groupon, and Best Buy use dscout to build better products and services because of people like you. We are building a smart and driven team, and we would love for you to join us.<br/><br/>our platform<br/><br/>Our web platform is built on React.js frontend and Elixir backend tied together by GraphQL APIs. We make heavy use of PostgreSQL for our storage needs and we host our platform on a mixture of Heroku and AWS. Another core part of our offering are two mobile apps - iOS and Android - written in Swift and Kotlin respectively and a Chrome Extension in React. We also employ WebRTC and WebSockets for live video streaming and use Python for NLP and media processing.<br/><br/>Over ten years and 57K commits later, we've maintained a tidy code base that is well documented and battle tested by tens of thousands of users.<br/><br/>you are<br/><br/>We are looking for a Senior Quality Assurance (QA) Engineer to bring their passion for and experience in QA to our Engineering team. You will be supporting dscout in the development and delivery of innovative qualitative research software products. You will be working in a fast-paced, agile environment; interacting with a variety of leading development tools and languages; and learning advanced development, QA, and product delivery best practices. You will work in a cross-functional product team made up of QA, engineers, designers, and PMs. Your expertise in writing test cases, documenting results, and providing feedback will lead you to become an expert in the dscout platform. You will be crucial to deciding what test cases get automated and will have an opportunity to learn and improve your automation skills. You will also be working with engineers to troubleshoot issues that may arise with internal or external users. If this sounds exciting, we would love to talk with you!<br/><br/>what you will do<br/><br/><ul><li>Demonstrate curiosity - you want to understand products inside and out and you're interested to learn how code works so you can test and troubleshoot better</li><li>Be an advocate for quality on your team and beyond</li><li>Independently create rigorous test plans based on the business requirements provided</li><li>Champion an agile software process where QA is an integral part of successful software development</li><li>Work closely with your product manager and engineers to develop acceptance criteria for feature stories</li><li>Identify and track bugs and share out quality statistics</li><li>Act as the QA resource for one of our internal product teams</li><li>Break down technical lingo to interface with other internal teams (Sales, Customer Experience &amp; Research, etc.) and help them achieve their goals</li><li>Plus: Write automation tests solo or in partnership with our engineering team<br/><br/><br/></li></ul>what you need to have<br/><br/><ul><li>3+ years experience in software quality assurance, software engineering, or a similar field</li><li>Experience with agile SDLC, CI/CD, and SaaS environments</li><li>Experience with testing of web-based applications</li><li>Detail oriented with excellent communication and project management skills</li><li>Understanding of the testing pyramid and the basics of automation strategy</li><li>Plus: Experience with programming (any language) and automated end-to-end testing<br/><br/><br/></li></ul>We do our best to write realistic, accurate job descriptions, but we also recognize that great talent comes in many forms and from many backgrounds. Not sure if you meet all of the above bullets? Please apply anyway!<br/><br/><strong>About Dscout<br/><br/></strong>dscout is a team full of passionate research, sales, technical, marketing, design, success, and operations professionals. We are driven by the power of research—how in-context insights from real people can build products and services that are more people-centric. We value learning, sharing, and building. We deeply value being a diverse and inclusive team and company, and we look for team members who align with that belief. We are proud of what dscout is today, and we are excited to build our future with you.<br/><br/>It doesn't just stop there. When you join the dscout team, you will get:<br/><br/><ul><li> A strong and competitive compensation package with a built-in bonus and equity program</li><li> An incredible and progressive benefits package (for both you and your dependents) to support work/life balance including flexible PTO, 11 company holidays, 12 weeks of paid parental leave, 401k match, and much more</li><li> An education stipend to support your growth &amp; development and a remote work stipend</li><li> A company that is open and transparent with our team. You will know what is happening and why it matters<br/><br/><br/></li></ul>dscout is an equal opportunity employer that values diversity. We do not discriminate based on identity- race, color, religion, national origin or ancestry, sex, gender identity and expression, age, physical or mental disability, pregnancy, veteran or military status, unfavorable discharge from military service, genetic information, sexual orientation, marital status, order of protection status, citizenship status, arrest record or expunged or sealed convictions, or any other legally-recognized protected basis under federal, state, or local law.<br/><br/>If you need reasonable accommodations for any part of the employment process, please contact us by email at accommodations@dscout.com and let us know the nature of your request and your contact information. We'll do all we can to ensure you're set up for success during our interview process while upholding your privacy, including accommodation requests. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.<br/><br/>When you apply at dscout, we will process your job applicant data, including your employment and education history, transcript, writing samples, and references, as necessary to consider your job application for open positions. For more information about our privacy practices, please visit our Privacy Policy.<br/><br/>dscout participates in the E-Verify program in certain locations, as required by law.<br/><br/>NOTE: DSCOUT NEVER CONTACTS JOB APPLICANTS VIA TEXT, MESSENGER, OR OTHER SIMILAR APPLICATIONS. BE AWARE OF PHISHING AND SPOOFING SCAMS, BOTH VIA TEXT AND EMAIL. ONLY RESPOND TO EMAILS FROM DSCOUT.COM<br/><br/>#BI-Remote<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage
+          </span>
+</li>
+</ul>
+</div>
+</section>

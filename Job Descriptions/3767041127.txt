@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>The Cybersecurity Risk Analyst is responsible for maintaining Enterprise System Security Plan, Plans of Action and Milestones (POA&amp;M), developing policies, plans and procedures and conducting security compliance audits, Data Security Plans (DSPs), cybersecurity risk analysis, information security risk assessments in accordance with cognizant standards, as well as information security industry best practices.</p><p><br/></p><p><strong>Primary Duties Include:</strong></p><p>- Develop policies, plans and procedures IAW Defense Federal Acquisition Regulation Supplement (DFARS) 252.204-7012 Safeguarding Covered Defense Information and Cyber Incident Reporting and Cyber Maturity Model Certification (CMMC).</p><p>- Perform risk analysis and reporting on DFARs, NIST compliance.</p><p>- Audit information systems according to NIST SP 800-37, 800-171, CMMC, and DFARs frameworks.</p><p>- Assess requirements for compliance with government regulations and prepare documentation and policy IAW requirements.</p><p>- Perform complex analysis of risk of security exceptions through the data security plan process.</p><p>- Recommend and develop mitigations to facilitate continued research despite exceptions from traditional security controls.</p><p>- Develop and enforce information security policy.</p><p>- Conduct staff security outreach and engagement.</p><p>- Assess security risks of cutting edge technology.</p><p>- Support vulnerability management operations through documentation and reporting of findings to lab leadership.</p><p>- Support incident response and remediation efforts.</p><p><br/></p><p><strong>Required Skills: </strong></p><p>- Demonstrated knowledge of the Defense Federal Acquisition Regulation Supplement, contract clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, and Cybersecurity Maturity Model Certification (CMMC) cybersecurity framework requirements and security controls.</p><p>- General knowledge of enterprise security tools, such as vulnerability scanners, log aggregators, networking &amp; firewalls, VPNs.</p><p>- Experience and familiarity with multiple operating systems such as Windows Server, Windows 10, Red Hat Enterprise Linux, Ubuntu, Mac, etc.</p><p>- Familiarity with NIST SP 800-53, NIST SP 800-171, CIS Controls.</p><p>- Demonstrated capabilities in presenting ideas written and orally are required.</p><p>- Some local and overnight travel may be required (less than 10%).</p><p><br/></p><p><strong>Preferred Skills: </strong></p><p>- A thorough knowledge of risk assessment methodology, such as NIST SP 800-30, Factor Analysis of Information Risk (FAIR), Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE), or other risk assessment practices</p><p>- Prior experience in a DoD Industrial Security environment is preferred.</p><p>- Bachelor's degree in Computer Science, Information Technology, Computer Information Systems, or related field is required. (Master's degree in one of the above fields is preferred). Technical experience and skills, course work completed toward a degree, and industry IT certifications (i.e., CISSP, CISA) may be considered substitutes for education and experience</p><p><br/></p><p>- Candidate should expect to be onsite 3 days/week.</p><p><br/></p><p>- Candidate can start with an interim clearance</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing and Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

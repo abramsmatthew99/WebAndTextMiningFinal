@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Packback is looking for a Software Engineer to support our mission to awaken and fuel the lifelong curiosity in every student. As a software engineer at Packback, you will be building features that empower students and professors to have a better learning experience.<br/><br/>Packback’s A.I.-powered platform is used by educators in K-12 and higher education to help their students fall in love with the subject matter, drive personalized learning, and most importantly, quantify and improve student critical thinking skills.<br/><br/>Key job duties include communicating well, providing thoughtful feedback to teammates, pairing, actively improving our team knowledge-base, and of course, writing code. You’ll be improving our Python APIs that power Packback’s AI, supporting the integration of machine learning models in our web application, and incrementally improving our infrastructure and CI/CD pipeline.<br/><br/><strong>Why You Should Work at Packback<br/><br/></strong>Reach - Our platform, Packback Questions, is used by more than 10 thousand educators and 1.5 million students, who collectively author more than 10 million posts a year. You will be a part of building a platform that has a huge impact on inspiring curiosity in students.<br/><br/>Training - We offer opportunities for learning and mentorship. We value people who like to wear many hats. You can get involved with the front end, back end, infrastructure and data functions.<br/><br/>Ownership - Packback is a rapidly growing company. You will have responsibility for bringing innovative features to market while working closely with the product team.<br/><br/>Want to learn more about engineering at Packback? Check out our docs repo on Github .<br/><br/><strong>Requirements<br/><br/></strong>We’re looking for somebody who is excited to work on our backend, infrastructure, and data science codebases. To succeed, you should have solid experience in backend engineering within a modern web application (We use Django and focus on NLP, but care mainly that you are a great developer).<br/><br/><strong>Additionally, We’re Looking For<br/><br/></strong><ul><li>A strong grasp on Python fundamentals, experience writing both functional and object oriented code with an emphasis on performance</li><li>Demonstrated experience doing backend web development using a modern web framework such as Django (or some other equivalent MVC framework)</li><li>Extensive experience writing thorough unit and integration tests in Python</li><li>3+ years of software engineering experience, especially with web-based products. However, transferable experience is more important than years of experience. <br/><br/></li></ul><strong>It's great if you have<br/><br/></strong><ul><li>Strong SQL skills</li><li>Experience building, validating, and deploying machine learning models in a production environment (NLP experience is a bonus)</li><li>Experience working on highly scalable cloud infrastructures</li><li>Comfort with Linux/UNIX systems</li><li>Comfort with Infrastructure as Code tools such as Terraform</li><li>Startup or small company experience<br/><br/></li></ul><strong>Our commitment to diversity<br/><br/></strong>Working in the Education Technology space, it is an ethical necessity for us to build a diverse and inclusive team in order to better consider the needs of our audience’s wide range of backgrounds and educational experiences. We provide regular training on topics of diversity, equity, and inclusion to all employees.<br/><br/>Employees of color are invited to participate in a mentorship program with members of our executive team to build career skills and to help with career progression.<br/><br/>We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br/><br/><strong>Perks of working at Packback<br/><br/></strong>A culture that you can be proud to build : We work hard at building an inclusive culture of curiosity and continuous learning at Packback. In any role at Packback, being a good steward of our values and using them to inform decisions and communication can make an enormous impact on the business.<br/><br/>Work-life balance : Packback offers an unlimited vacation policy. Team members are encouraged to take time off for volunteer opportunities. Our engineering team is fully remote, and provides flexibility and support for working wherever makes the most sense for you.<br/><br/>Competitive Salary and Benefits : The salary range for this position is <strong>$85k-150k annually + bonus</strong>. We set clear expectations for professional growth and offer an annual learning and development stipend.<br/><br/><strong>Benefits<br/><br/></strong><strong>Health &amp; Wellness<br/><br/></strong><ul><li>Medical Insurance</li><li>Dental Insurance</li><li>Vision Insurance </li><li>401(k) with a 50% employer match</li><li>Stock options</li><li>Disability Insurance</li><li>Life Insurance</li><li>Commuter Benefits</li><li>Generous Parental Leave up to 12 weeks</li><li>Family Medical Leave</li><li>Unlimited Time Off<br/><br/></li></ul><strong>Additional Perks<br/><br/></strong><ul><li>Access to premium membership to One Medical</li><li>Calm subscription</li><li>Monthly Dashpass subscription by DoorDash</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          E-Learning Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

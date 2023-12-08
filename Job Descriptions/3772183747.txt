@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Company Overview:<br/><br/></strong>A privately held exploration and production company, Hunt Oil has successfully conducted worldwide petroleum operations for nearly 90 years and is one of the world’s leading independent energy companies. The mission of Hunt Oil Company is to be a growth-oriented industry leader respected throughout the world for the quality and competency of its people, the efficiency and scope of its operations, and its rich heritage of honesty and integrity.<br/><br/><strong>Position Summary<br/><br/></strong>The Senior IT Help Desk Specialist is responsible for providing advanced technical support and assistance to end-users in our organization. They will serve as a point of escalation for complex IT issues and play a key role in maintaining the overall functionality of the organization's IT systems. The position reports to the Manager of End-user Services. The successful candidate will support the Culture, Values, and Strategic Goals of Hunt Energy and its family of companies. This position works an eight-hour shift schedule coordinating with teammates to ensure coverage from 6:30 a.m. to 6:30 p.m.<br/><br/>Contract period: 6-month contract with potential for full-time.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Leadership: Ensure that the help desk teams across our globally distributed call centers provide consistent and reliable support to end-users, having sensitivity to cultural differences and can adapt communication styles accordingly. </li><li>Global Service Standardization: Establish and maintain consistent service standards and best practices across all call center locations to ensure a unified support experience.</li><li>Technical Support: Provide expert-level technical support to end-users by troubleshooting hardware, software, network, and application issues. Resolve complex IT problems efficiently and effectively.</li><li>Escalation Point: Act as a senior point of escalation for unresolved issues from junior help desk specialists and end-users. Offer guidance, mentorship, and solutions to less experienced team members.</li><li>Documentation: Maintain highly accurate ticket entries in the ITSM tool. Track, and monitor issues to ensure timely resolution. Create and maintain Help Desk Standard Operating Procedures.</li><li>Knowledge Owner: Contribute and have ownership of our Internal IT and End user facing knowledge bases, providing oversight and accountability. Actively contributing detailed solutions for common issues.</li><li>Problem-Solving: Analyze and identify root causes of reoccurring problems. Research, resolve, and escalate technical problems. Recommend, and implement solutions using technology, software, and processes to perform tasks with minimal human intervention. Collaborate with IT management to provide feedback and suggestions for improving IT processes, infrastructure, and user experience.</li><li>User Training: Participate in training programs to address the shifting application support needs of the help desk and develop automation adhering to best practices. This includes collaboration with the End-user Desktop Support team and other IT Teams for gaining experience with departmental support.<br/><br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>Bilingual in English and Spanish, preferred.</li><li>Proficiency in using and troubleshooting Microsoft Office 365 applications such as Outlook, Word, Excel, PowerPoint, and Teams. Understanding of how these applications integrate with cloud-based services, including SharePoint, OneDrive, and Exchange Online.</li><li>Demonstrated experience with most common hardware and software systems, including laptops/desktops, docking stations, basic network troubleshooting, a basic understanding of client/server environment, local and networked printers, monitors, mobile device support, and office phones.</li><li>Exceptional customer service mindset with Exceptional interpersonal skills, with a focus on building rapport, listening, and questioning skills.</li><li>Understanding of the specific IT needs and challenges in retail environments, including point-of-sale (POS) systems and customer service solutions.</li><li>Must have basic knowledge of ITIL and have worked with an industry standard ITSM tool (i.e. Helix, ServiceNow, Remedy, Cherwell, HEAT).</li><li>Familiarity with Citrix Receiver or Citrix Workspace App, Horizon View or other virtualized environments is a plus.<br/><br/><br/></li></ul><strong>Required Experience<br/><br/></strong><ul><li>A minimum of 4-6 years of experience in IT support, with at least 2 years in a senior or lead role.</li><li>High School Diploma Required.</li><li>Associates degree or Bachelor’s degree in Computer Science, Information Technology, or related field (or equivalent work experience) strongly preferred.</li><li>IT industry certifications (i.e. A+, Network+, Microsoft Office, MCP, ITIL, etc) are a plus.</li><li>Relevant certifications (e.g., CompTIA A+, Network+, Security+; Microsoft Certified Professional; Cisco Certified Network Associate) are a plus.<br/><br/><br/></li></ul><strong>Company Highlights<br/><br/></strong><ul><li>For nearly 90 years, we have nurtured creative ideas and turned them into successful realities using three core strategic pillars – creativity, excellence, and people. </li><li>401K – 12% employer contribution with no vesting period (6% Match and 6% non-matching contribution)</li><li>Highly competitive compensation</li><li>Five to eight weeks of PTO annually based on years of experience; eleven additional holidays per calendar year</li><li>All Medical/Dental/Vision benefits start day one with the company; low employee premiums </li><li>Education Assistance Program</li><li>Free covered employee parking for Dallas HQ based employees</li><li>Free specialty coffee bar in the Dallas HQ</li><li>Commitment to the following ideals:</li><ul><li>Work/Life Balance</li><li>Ongoing professional development opportunities</li><li>An exceptional employee experience<br/></li></ul></ul><em>Hunt is committed to a diverse and inclusive workplace. Hunt is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Oil and Gas
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Business Data Analyst<br/><br/>Los Angeles, CA<br/><br/>Full Time<br/><br/>Hybrid, Onsite 1 per week and for occasional meetings.<br/><br/>Salary Range: Salary Range: $70,000 - $103,000 (exempt)<br/><br/>Work hours: 8:00 - 5:00 pm<br/><br/></strong><strong>Summary<br/><br/></strong>Assist Client realize the true potential of Big Data in positively influencing business decisions. Gather data from multiple sources and company data warehouses and analyze and interpret the data to extract such information that can be beneficial for businesses. The business data analyst must visualize and report their findings by preparing comprehensive reports, graphs, charts, etc. Visual representation of the data findings helps all the stakeholders (both technical and non-technical) to understand it better.<br/><br/><strong>Minimum Education<br/><br/></strong><ul><li> U.S. citizenship required<br/><br/></li></ul>" Bachelor Science in Computer Science, Information Systems, Computer Engineering, or related field<br/><br/><strong>Minimum Experience/Accountabilities<br/><br/></strong>" Using the information that the business data analyst uncovers to identify problems and propose solutions.<br/><br/>" To identify new sources of data and develop methods to improve data mining, analysis, and reporting.<br/><br/>" To present the findings in reports (in table, chart, or graph format) to help the management team in the decision-making process.<br/><br/>" To perform routine analysis tasks to support day-to-day business functioning and decision making.<br/><br/>" Ensuring that business data and reporting needs are met<br/><br/>" Developing and monitoring data quality metrics<br/><br/>" Identify, analyze, and interpret trends or patterns in complex data sets<br/><br/>" Work with management to prioritize business and information needs<br/><br/>" Locate and define new process improvement opportunities
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Business Analyst </strong></p><p><strong>Role Purpose:</strong></p><p> As a member of our consulting team, the Jr. Business Analyst will work across a variety of projects and can deliver support to many different areas of the business including our client implementations and has direct interaction with fellow team members and the client (as necessary). Responsible for collecting, analyzing, communicating, and documenting requirements, as well as conducting analyses of large data sets, identify issues and potential solutions, structure and draw conclusions with limited guidance. The Junior Business Analyst will be a strong team player, will learn the background of our company, and will show self-initiative in the completion of assigned tasks. A Junior Business Analyst will often work under the leadership of a Senior Business Analyst.</p><p><strong>Job Description</strong></p><p> <strong>Responsibilities:</strong></p><ul><li>Client Business Requirements Gathering, Analysis and Functional/ Technical Specifications –</li><li>Support client, Business, Functional, Financial, and Technical processes.</li><li>Perform, prepare, and maintain project documentation/ deliverables and artifacts including analysis, reports,</li><li>and user documentation as directed.</li><li>Document necessary collected information referring to the ongoing requirements and business practices for assigned clients/projects.</li><li>Perform the analysis, review, and design of system features requested by assigned clients.</li><li>Create workflow charts, process diagrams, test cases/plans, and business requirements as needed.</li><li>Project Delivery and Client Relations –</li><li>Interact with client, advanced business analysts, managers, and solution developers to respond to client requests or determine and resolve system issues and defects.</li></ul><p><strong>Required Skills / Experience</strong></p><ul><li>SQL experience with emphasis in running queries for large data sets, stored procedure updates and creation, SQL job updates and creation.</li><li>Superior personal and interpersonal attributes (e.g., results-oriented, and performance-oriented work style, creativity, entrepreneurial qualities, personal maturity).</li><li>Ambitious and motivated with leadership skills but a collaborative personality.</li><li>High level of integrity and reliability.</li><li>Excellent verbal and written communication skills and the ability to interact professionally with a diverse group, including executives, managers, end users, and subject matter experts.</li><li>Excellent analytical skills, logical and structured thinking, creative in problem solving.</li><li>Curiosity, adaptability, and the willingness to learn new processes and methodologies.</li><li>Ability to demonstrate commitment to quality and client satisfaction.</li><li>Ability to work independently, and to work effectively within a team environment.</li></ul><p><br/></p><p> <strong>Preferred skills:</strong></p><ul><li>U.S.-based experience working with the end client</li><li>1 - 3 years of experience as Business Analyst or Data Analyst in large enterprise environment Microsoft Certified Professional in SQL Querying 2016 or above.</li><li>An Undergraduate degree in any field, major field of study in Finance and Accounting, Technology or Computer Science is plus.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

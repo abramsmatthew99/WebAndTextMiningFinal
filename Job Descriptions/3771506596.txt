@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job Title: Process Control Engineer<br/><br/></strong><strong>Location: Pixelle - Chillicothe, OH<br/><br/></strong><strong>Reports to: Manager, Process Control<br/><br/></strong><strong>Job Summary<br/><br/></strong>The process control engineer develops and maintains control systems (DCS and PLC) for real-time, on-line control of production processes. The incumbent works as a team with operations, maintenance, technical services, environmental, engineering and IT to improve manufacturing efficiencies and quality by applying control system knowledge to minimize variation and reduce costs.<br/><br/><strong>Accountabilities<br/><br/></strong><ul><li>Safety leadership and compliance for employees. </li><li>Initiate and enforce all Company systems, policies, and procedures. </li><li>Hold self, team members, and all in the facility accountable for their duties, behaviors, and actions. </li><li>Maintain control systems by providing required configuration changes and routine system backups and by maintaining the necessary documentation and drawings. </li><li>Work closely with operations, maintenance, and technical service staff by providing control system optimization (e.g., variability reduction, control loop performance monitoring, alarm management), troubleshooting, and technical support. </li><li>Support Engineering in the design, configuration, checkout, training and startup of capital projects. </li><li>Work with facility and contract technicians to accomplish the physical portion of tasks. </li><li>Be available during off hour and weekend on-call rotations. </li><li>Initiate and complete tasks with minimal direct supervision. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s Degree in Engineering, Computer Science, Paper Science, or equivalent experience. </li><li>Associates Degree in automation technology or related field will be considered. </li><li>Experience implementing controls in a Bailey Controls Infi-90 System, or equivalent control system in a pulp and paper operation is desired. </li><li>Experience with Programmable Logic Controllers such as Allen-Bradley PLC-3, PLC-5, and ControlLogix is desired. </li><li>Process experience in power and steam generation is desired (boilers, turbines, etc.). </li><li>Strong interpersonal / customer service skills, with the ability to work collaboratively at all levels within a manufacturing organization. </li><li>Strong English language skills, including ability to clearly express complex issues. </li><li>Excellent troubleshooting and problem-solving skills. </li><li>Able to absorb new technology and processes quickly. </li><li>Strong personal computer skills. </li><li>Positive attitude, motivated, adaptable and focused. </li><li>Candidate must be able to work well with others; teamwork is a daily activity. <br/><br/></li></ul>Pixelle Special Solutions is the largest and fastest-growing manufacturer of specialty papers in North America with one of the most comprehensive portfolios in the industry. Through innovation, quality, and expertise, Pixelle delivers high performance solutions that help customers boost brand appeal, improve customer experience and support sustainability goals.<br/><br/>This job description does not state or imply that the above are the only duties and responsibilities assigned to this position. Employees holding this position will be required to perform job-related duties as requested by management. All requirements are subject to modification to reasonably accommodate individuals with a disability.<br/><br/>InSolves provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

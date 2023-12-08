@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Please Note: This is a W2 position, please no direct hire/contract to hire agencies.<br/><br/></strong>We are searching for a highly skilled Business Intelligence (BI) Analyst with advanced proficiency in Power BI, including Power BI Embedded, and expertise in SQL Server. The ideal candidate should demonstrate a strong capability to collaborate with software developers, embed Power BI reports into web pages, and possess experience analyzing current data landscapes to recommend relevant reports and visualizations tailored to customer needs.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Develop and design sophisticated Power BI reports and dashboards, ensuring seamless integration into web pages and applications in collaboration with software developers.</li><li>Utilize advanced SQL Server skills to query, analyze, and transform data for effective visualization.</li><li>Conduct thorough analysis of current data landscapes, working closely with cross-functional teams, to recommend reports and visualizations that meet customer requirements.</li><li>Ensure data accuracy, consistency, and reliability in all BI deliverables.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in a relevant field or equivalent experience (e.g., Computer Science, Business Analytics, Information Systems).</li><li>Proven experience as a BI Analyst with a focus on Power BI, including Power BI Embedded.</li><li>Advanced skills in SQL Server for querying, analyzing, and transforming data.</li><li>Strong understanding of data visualization best practices and principles.</li><li>Experience designing and implementing roles and row-level security for reports.</li><li>Experience collaborating with software developers to embed Power BI reports into web pages.</li><li>Familiarity with data modeling, ETL processes, and data warehouse concepts.</li><li>Ability to analyze current data landscapes and recommend reports and visualizations tailored to customer needs.<br/><br/></li></ul><strong>Preferred Skills<br/><br/></strong><ul><li>Certification in Power BI or related technologies.</li><li>Familiarity with Microsoft Azure cloud platform and integration with Power BI.</li><li>Experience with other BI tools and technologies</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

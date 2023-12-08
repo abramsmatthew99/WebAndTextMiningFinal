@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Peraton Overview<br/><br/></strong>Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can't be done, solving the most daunting challenges facing our customers.<br/><br/><strong>Responsibilities<br/><br/></strong>Peraton is seeking a skilled QA Engineer with expertise in automated testing to join our team. The QA Engineer will be responsible for ensuring the quality and reliability of our software applications through the development and execution of automated test scripts.<br/><br/><ul><li>Develop and execute automated test scripts using industry-standard tools and frameworks.</li><li>Collaborate with cross-functional teams, including developers, business analysts, and product owners, to understand user stories and acceptance criteria.</li><li>Participate in the agile development process, including sprint planning, daily stand-ups, and retrospectives.</li><li>Conduct 508 compliance testing to ensure our applications meet accessibility standards.</li><li>Identify, document, and track software defects and inconsistencies using issue tracking systems.</li><li>Perform regression testing to validate software changes and ensure existing functionality is not compromised.</li><li>Contribute to the continuous improvement of our testing processes and methodologies.</li><li>Communicate test progress, test results, and other relevant information to project stakeholders.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Requirements:<br/><br/></strong><ul><li>Bachelor's degree in Information Technology, Computer Science, or a related field.</li><li>2 to 5 years of experience in software testing, with a focus on automated testing.</li><li>Strong knowledge of automated testing frameworks and tools, such as PyTest, Selenium, or similar.</li><li>Familiarity with agile development methodologies and experience working in an agile team.</li><li>Experience collaborating with cross-functional teams to understand user stories and acceptance criteria.</li><li>Knowledge of 508 compliance testing and accessibility standards.</li><li>Proficiency in writing clear and concise test cases and test scripts.</li><li>Strong analytical and problem-solving skills.</li><li>Excellent communication and interpersonal skills.</li><li>Ability to work independently and as part of a team.</li><li>Active Top Secret Clearance.<br/><br/></li></ul><strong>Preferred Skills:<br/><br/></strong><ul><li>Experience with Python programming language.</li><li>Familiarity with continuous integration and continuous delivery (CI/CD) pipelines.</li><li>Knowledge of API testing and related tools (e.g., Postman, REST Assured).</li><li>Understanding of database concepts and SQL.</li><li>Experience with version control systems (e.g., Git).<br/><br/></li></ul><strong>Target Salary Range<br/><br/></strong>$112,000 - $179,000. This represents the typical salary range for this position based on experience and other factors.<br/><br/><strong>SCA / Union / Intern Rate or Range<br/><br/></strong><strong>EEO<br/><br/></strong>An Equal Opportunity Employer including Disability/Veteran.<br/><br/><strong>Our Values<br/><br/></strong><strong>Benefits<br/><br/></strong>At Peraton, our benefits are designed to help keep you at your best beyond the work you do with us daily. We're fully committed to the growth of our employees. From fully comprehensive medical plans to tuition reimbursement, tuition assistance, and fertility treatment, we are there to support you all the way.<br/><br/><ul><li>Paid Time-Off and Holidays</li><li>Retirement</li><li>Life &amp; Disability Insurance</li><li>Career Development</li><li>Tuition Assistance and Student Loan Financing</li><li>Paid Parental Leave</li><li>Additional Benefits</li><li>Medical, Dental, &amp; Vision Care</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Civil Engineering
+          </span>
+</li>
+</ul>
+</div>
+</section>

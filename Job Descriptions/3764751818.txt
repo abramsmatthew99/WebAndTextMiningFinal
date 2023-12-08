@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Ancestry<br/><br/></strong>When you join Ancestry, you join a human-centered company where every person’s story is important. Ancestry®, the global leader in family history, empowers journeys of personal discovery to enrich lives. With our unparalleled collection of more than 40 billion records, over 3 million subscribers and over 23 million people in our growing DNA network, customers can discover their family story and gain a new level of understanding about their lives. Over the past 40 years, we’ve built trusted relationships with millions of people who have chosen us as the platform for discovering, preserving and sharing the most important information about themselves and their families.<br/><br/>Together, we work every day to foster a work environment that's inclusive as well as diverse, and where our people can be themselves. Every idea and perspective is valued so that our products and services reflect the global and diverse clients we serve.<br/><br/>Ancestry encourages applications from minorities, women, the disabled, protected veterans and all other qualified applicants. Passionate about dedicating your work to enriching people’s lives? Join the curious.<br/><br/><strong>What You Will Do<br/><br/></strong>Ancestry is looking for an exceptional, passionate, and highly motivated Data Science Intern to join our Data Science AI team this summer. The Data Science AI-CV-NLP team develops generative AI, CV and NLP models to extract and organize text and image information from billions of historical and genealogical records. AI, CV, NLP, and LLM models are combined to extract and organize information from historical documents to help customers discover and connect with their family history. As a Data Science intern on the AI-CV-NLP team, you will build, train and fine-tune models that promote product development, customer success, and content creation across our Family History business. You will also work closely with engineering teams to train, optimize, and deploy models.<br/><br/><ul><li>Implement state of the art generative AI, NLP, LLM, CV solutions for NER, relation extraction, summarization, topic analysis, entity resolution, knowledge graphs, embeddings based information retrieval, story generation, AI driven chat, etc. across various genealogical and historical collections such as newspapers, city directories, family history books, birth, marriage and death records, etc. </li><li>Analyze model performance, and explore zero-shot/few-shot label generation to augment or supersede iterating with manual labeling resources to curate and refine training sets to improve model performance</li><li>Collaborate with ML Ops and Data Science Engineers to deploy datasets, truthsets, models, pipelines, training and inference code to cloud based model registry </li><li>Effectively communicate and present deliverables and solutions to teams, stakeholders, and executives <br/><br/></li></ul><strong>Who You Are<br/><br/></strong><ul><li>Candidate for an advanced degree (MS/PhD) in Computer Science, Data Science, Statistics, Mathematics, Linguistics, Engineering or data related quantitative field</li><li>Specialization in generative AI, language models, computer vision, deep learning, machine learning, with software development expertise</li><li>Experience with applied research through understanding and implementing published models and methods for practical application to real-world problems</li><li>Strong proficiency in Python and related AI, LLM, CV, and/or NLP tools and libraries, and familiarity with deep learning frameworks like Pytorch, Hugging Face, OpenAI, TensorFlow, spaCy, SciPy stack and Scikit-learn<br/><br/></li></ul><strong>Nice To Have<br/><br/></strong><ul><li>Experience with LLMs, including training/fine-tuning, prompt engineering, RLHF, performance evaluation and cost analysis</li><li>Experience with NLP techniques such as named entity recognition, relationship extraction, document classification, document summarization, topic modeling, machine translation, sentiment analysis, dialogue systems</li><li>Experience in document image processing i.e., computer vision methods, image classification, object detection, segmentation, layout analysis, redaction, handwriting recognition</li><li>Familiarity with NLP technologies such as, NLTK, spaCy, pandas, numpy, along with understanding of pre-trained language models and architectures like BERT (and variants), GPT, T5, XLNet, PL Marker, TP Linker, OneRel, Hugging Face and OpenAI models, etc.</li><li>Familiarity with LLMs and GenAI models such as, LLaMA, Falcon, GPT*, BLIP, CLIP, etc. <br/><br/></li></ul><strong>Internship Program Details<br/><br/></strong><ul><li>Students must be enrolled in an accredited U.S. educational institution with a graduation date after August 2024.</li><li>Summer 2024 program dates are May 13 – September 6 (Please note we will have three intern onboarding dates to choose from: May 13th, May 28th, and June 10th. Students may offboard every Friday, beginning August 9th. All internships must be wrapped up by September 6th).</li><li>FULLY PAID temporary housing and travel to and from the internship are provided.</li><li>All summer internships will be in Lehi, Utah. You will work a combined hybrid and office-based schedule that allows you to choose which days you come into the office and which days you work from temporary housing/home (Utah students).</li><li>Interns have the opportunity to network and partner with other interns and industry-leading professionals.</li><li>You will participate in engaging events, including executive speaker sessions, professional development, and our annual Intern Days to showcase your project and work. </li><li>You will be required to work a full-time schedule (40 hours/week), Monday-Friday.</li><li>Company-issued laptop and equipment will be provided for the duration of the internship program.</li><li>Our interns enjoy mentorship and experience challenging work while receiving a great compensation package, temporary housing, and having fun, captivating experiences—we have it all!<br/><br/></li></ul><strong>Additional Information<br/><br/></strong>Ancestry is an Equal Opportunity Employer that makes employment decisions without regard to race, color, religious creed, national origin, ancestry, sex, pregnancy, sexual orientation, gender, gender identity, gender expression, age, mental or physical disability, medical condition, military or veteran status, citizenship, marital status, genetic information, or any other characteristic protected by applicable law. In addition, Ancestry will provide reasonable accommodations for qualified individuals with disabilities.<br/><br/>All job offers are contingent on a background check screen that complies with applicable law. For San Francisco office candidates, pursuant to the San Francisco Fair Chance Ordinance, Ancestry will consider for employment qualified applicants with arrest and conviction records.<br/><br/>Ancestry is not accepting unsolicited assistance from search firms for this employment opportunity. All resumes submitted by search firms to any employee at Ancestry via-email, the Internet or in any form and/or method without a valid written search agreement in place for this position will be deemed the sole property of Ancestry. No fee will be paid in the event the candidate is hired by Ancestry as a result of the referral or through other means.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

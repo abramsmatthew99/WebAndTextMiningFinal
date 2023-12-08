@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Dice is the leading career destination for tech experts at every stage of their careers. Our client, Dale Workforce Solutions, is seeking the following. Apply via Dice today!<br/><br/>We are seeking a Machine Learning Engineer to join our team!<br/><br/><strong> Job title: </strong> Machine Learning Engineer<br/><br/><strong> Location: </strong> 100% remote, working CST hours<br/><br/><strong> Duration: </strong> contract to hire<br/><br/><strong>Job Description<br/><br/></strong>Looking for experienced technical contributors to lead at the forefront of cutting-edge machine learning. If you are passionate about new technology trends in machine learning and cloud services and believe that state-of-the-art products are critical to customer success, we would like to talk to you.<br/><br/><strong>Technical Qualifications<br/><br/></strong><ul><li> Bachelor's degree with 2+ years of hands-on experience delivering Machine Learning products or solutions in one or more areas related to Data Classification, Image Classification, Data Extraction, Data regression, Anomaly Detection, Data Clustering, Sentence Completion and Data Embeddings with Search. <br/><br/></li></ul><strong> Machine Learning </strong> <br/><br/><ul><li> 6 months + experience in Generative AI or LLM technology</li><ul><li> Palm AI - completions and embeddings </li><li> Open AI - completions and embeddings </li><li> Prompt Engineering - One shot, multi shot, Grounding </li><li> Tuning - Adapter and HITL/RLHF, Extensions </li><li> Embeddings and Vector Search </li></ul><li> 2 years+ experience creating/coding Neural Networks (RNN, CNN or GAN), Transformers, Reinforcement Learning and Transfer Learning </li><li> Text-Bison experience is preferred </li><li> Pytorch experience is preferred </li></ul> <strong> Google Cloud Platform <br/><br/></strong><ul><li> 6 months+ experience with Google Cloud Platform Vertex AI in Generative AI model management, model monitoring, model deployment, model metrics </li><li> 1 years+ hands-on experience with Google Cloud Platform Big Query for data analytics using BQ API, BQ SQL, BQML, BQ Analytics or Looker Studio <br/><br/></li></ul><strong> Software Development <br/><br/></strong><ul><li> Proficiency and expertise in Python programming languages. Key capabilities include proficiency in Spacy, NLTK, Pandas, Scikit-learn, Matplotlib, Numpy, SciPy, Flask, Django </li><li> Hands-on working knowledge of full stack technology - react.JS/node.js </li><li> Experience working in an Agile environment <br/><br/></li></ul>Machine Learning Engineer- remote
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Title: Jr. PowerBi Developer<br/><br/>Clearance Level Needed: Minimum of a Secret<br/><br/>Salary: $75K-$85K<br/><br/>Travel: 3 days onsite 2 days WFM<br/><br/><strong>Job Description<br/><br/></strong>Scope<br/><br/>We are a data-driven organization seeking a Senior PowerBI/Visualization SME to lead our data analytics efforts. As a Senior PowerBI/Visualization SME, you will be responsible for developing and maintaining high-quality visualizations and dashboards to present complex data insights to stakeholders. You will provide expertise in data visualization and dashboard development to enhance our data analytics capabilities.<br/><br/>Jr.PowerBI/Visualization SME<br/><br/>The Jr. PowerBI/Visualization SME will lead the development of visual dashboards and provide guidance and mentorship to other developers. You will work closely with our team to identify requirements, design solutions, and provide technical expertise to ensure the success of our data analytics initiatives.<br/><br/>Duties &amp; Responsibilities<br/><br/>Visualization Design and Development<br/><br/>You will be responsible for developing visualizations and dashboards that communicate complex data insights to stakeholders. You shall have expertise in designing effective visualizations that enhance the understanding of complex data. You shall also have experience with PowerBI, Tableau, or other visualization tools to design and develop effective dashboards.<br/><br/>Data Analysis Support<br/><br/>You will lead the development of advanced analytic capabilities applied to our data. You will conduct analytics that identify systems and capabilities available to us and how they would enhance our current data analysis efforts. You shall have knowledge of advanced coding and the ability to write and execute custom queries against our systems and databases to identify patterns or trends. You will also develop and integrate new means of comparing and analyzing the various datasets, both structured and unstructured, to ensure that connections and associations are quickly and accurately identified. Further, development and implementation of new techniques, tools, queries, and processes should be thoroughly tested and documented for flexibility as data sets evolve.<br/><br/>Data Sources and Data Collection<br/><br/>You shall work on data packaging to bring together separate but related datasets from within our organization and, as appropriate, complimentary external data sources. You shall assess the current applications, analytics, product line, and data sources, making recommendations for enhancing the analytic effort based on open-source information and participation in intra- and inter-organization working groups. More specific data sets will be provided after award as an exhibit to our requirement.<br/><br/>Data Displays and Dashboards<br/><br/>You shall develop summary reports and detailed reports of findings in written form and in graphical format to illustrate trends, outliers, and linkages using graphs, tables, and charts. You shall also work with our staff to develop data reports that productionize the data analytics produced during this contract. These reports must be user friendly. All reporting shall be validated for accuracy and sourcing, and you shall provide explainable documentation for all reports as requested by our personnel.<br/><br/>Data Standardization and Data Quality<br/><br/>You shall develop automated processes to receive, standardize, conduct quality assurance, and ensure appropriate loading of large sets of raw data from multiple sources into our systems and databases. The tools and technology used to meet these requirements should meet industry standards, be based on agile development, and be adaptable to changing requirements. You shall analyze data for accuracy, authenticity, expectancy, timeliness, relevancy, intelligence gaps, and viability.<br/><br/><strong>Requirements<br/><br/></strong><ul><li>Minimum of 3 years of experience in visualization design and development</li><li>Experience with PowerBI, Tableau, or other visualization tools</li><li>Strong understanding of data analysis and data modeling</li><li>Excellent problem-solving and analytical skills</li><li>Ability to work effectively in a team environment</li><li>Bachelor's degree in Computer Science, Mathematics, or related field<br/><br/></li></ul>Powered by JazzHR<br/><br/>NBS1nDm6XG
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

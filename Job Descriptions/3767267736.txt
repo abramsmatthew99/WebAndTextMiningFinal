@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.<br/><br/><strong>Job Description<br/><br/></strong>Takeda Pharmaceuticals U.S.A., Inc. is seeking a Product Manager, R&amp;D Development Technology in Cambridge, MA with the following requirements Bachelor’s degree in Computer Science, Computer Engineering or related field plus 6 years of related experience. Required skills migrate internet banking solution to the Web resulting in enhanced security, improved performance, and significant savings supporting legacy technologies; collaborate with product development and product management teams to deliver customized demos and prototypes (POC); implement and deliver projects on schedule and within budget resulting in repeat business and improved retention; manage multiple geographically distributed teams for building pipeline of product releases using agile framework to create value for clients.<br/><br/>Apply on-line at www.takedajobs.com and search for Req #R0111342.<br/><br/><strong>EEO Statement<br/><br/></strong><em>Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.<br/><br/></em><strong>Locations<br/><br/></strong>Boston, MA<br/><br/><strong>Worker Type<br/><br/></strong>Employee<br/><br/><strong>Worker Sub-Type<br/><br/></strong>Regular<br/><br/><strong>Time Type<br/><br/></strong>Full time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

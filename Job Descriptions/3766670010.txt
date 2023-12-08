@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        TSC is seeking entry level <strong>Software Engineers</strong> in <strong>Silver Spring, MD</strong> to support advanced concepts model and simulation development and execution for surface Navy radar and combat systems. The M&amp;S effort is used for design, development, analytical evaluations of system performance, and systems engineering for sophisticated radar, communications and weapons systems.<br/><br/>TSC has assembled a well-knit team of junior and senior system and software engineers that perform critical M&amp;S development, execution, and analysis for US Navy and Missile Defense Agency customers.<br/><br/>TSC offers a stable yet flexible working environment in an exciting industry with cutting edge defense technology, a competitive salary, and an excellent benefits package. Come and join our team!<br/><br/><strong>Responsibilities: <br/><br/></strong><ul><li>Model/component integration into large scale simulation; GUI, analysis tools, and various kinds of automation (build, test, etc.) development and maintenance. </li><li>Duties include design/architecture contribution, capability implementation, testing, and bug/issue resolution. </li><li>Significant interaction with other TSC radar system and modeling &amp; simulation engineers as part of the job. </li><li>Expected travel (up to 5%) will be to Navy facilities around the Washington, DC area. Farther travel is irregular. </li><li>Assigned tasking will be at both individual and team levels. </li><li>Porting code between Windows/Linux. <br/><br/></li></ul><strong>Minimum Qualifications:<br/><br/></strong><ul><li>Bachelors or Master’s Degree in Computer Science, Electrical Engineering, or comparable technical degree well-grounded in Computer Programming. </li><li>Skill in C/C++ or Java. </li><li>Interest in Navy’s AEGIS Combat System and Defense technology. </li><li>Ability to obtain and maintain a DoD clearance. </li><li>U.S. Citizenship required. <br/><br/></li></ul><strong>Preferred Qualifications: <br/><br/></strong><ul><li>Skill in Qt and Microsoft Visual Studio. </li><li>Windows and Linux environments. <br/><br/></li></ul><strong><em>TSC is committed to hiring and retaining a diverse workforce.</em></strong> <strong><em>We are proud to be an Equal Opportunity Employer/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability or any other protected class.<br/><br/></em></strong>This contractor and subcontractor shall abide by the requirements of 41 CFR 60–1.4(a), 60–300.5(a) and 60–741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity, national origin, or for inquiring about, discussing, or disclosing information about compensation. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Us<br/><br/></strong>The School of Engineering &amp; Technology is looking for a dedicated Part-Time Faculty Member to join our dynamic team. We are seeking expertise in the following areas of specialization: Data Science, Engineering, Computer Science, Statistics, and Business Analytics.<br/><br/><strong>Job Description<br/><br/></strong>You will play a vital role in educating and inspiring our students within your assigned programmatic core discipline. Your primary responsibilities include engaging students, providing constructive feedback, and motivating them to achieve course and program outcomes related to the core discipline. This position involves close collaboration with fellow faculty members, the Associate Dean, and the Dean.<br/><br/><strong>Teaching<br/><br/></strong>Key Responsibilities:<br/><br/>Welcome students with a personalized email or video introduction before or during the first week of the course.<br/><br/>Promptly respond to student inquiries within two calendar days, including weekends, except during approved time off or holidays.<br/><br/>Maintain communication with students through the University's learning management system (LMS) and designated systems.<br/><br/>Monitor student participation and promptly notify Student Services when a student is not actively engaged.<br/><br/>Initiate contact with non-participating students through email and phone calls to encourage re-engagement.<br/><br/>Host a minimum of two one-hour synchronous office hour sessions per week, with details provided in each course.<br/><br/>Offer high-quality feedback to students, including substantive content focus, knowledge sharing, constructive edits, and supportive language.<br/><br/><strong>Scholarship<br/><br/></strong>Contribute to the advancement of knowledge in your discipline and meet the University's scholarship requirements as outlined in the Faculty Handbook.<br/><br/>Explore opportunities for research and scholarship initiatives funded by the University.<br/><br/><strong>Compliance With University Policies<br/><br/></strong>Familiarize yourself with and adhere to University policies as detailed in the Team Member Handbook and Faculty Handbook.<br/><br/><strong>Requirements<br/><br/></strong>Doctorate in Data Science, Engineering, Computer Science, Statistics, Business Analytics, or a related field.<br/><br/>Proficiency in Python, R programming, Tableau, or other data science software tools.<br/><br/>1-3 years of industry or teaching experience in data science or related fields.<br/><br/>Experience in online teaching in higher education, particularly with working adults, is preferred.<br/><br/>Must be a resident of and eligible to work in the United States.<br/><br/><strong>Competencies/Technical/Functional Skills<br/><br/></strong>Collaborative team player with a commitment to achieving common goals.<br/><br/>Takes personal accountability and seeks solutions to challenges while promoting honesty and respect.<br/><br/>Actively builds relationships and gains alignment with peers, partners, and external stakeholders.<br/><br/>Encourages innovative thinking and creative problem-solving.<br/><br/>Proficient in office management/systems, particularly in a higher education environment.<br/><br/>Goal-oriented and capable of achieving measurable objectives.<br/><br/>Excellent interpersonal, verbal, and written communication skills.<br/><br/>Adaptable, able to work both independently and in diverse teams.<br/><br/>Familiarity with Microsoft Office Suite and Student Information Systems (SIS).<br/><br/>Strong analytical and critical thinking abilities.<br/><br/>Mastery of APA style.<br/><br/>Experience with online education delivery and related technologies.<br/><br/>Willingness to explore and integrate new technologies for teaching and communication.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>We are committed to diversity and equal opportunity. We do not discriminate based on race, color, ancestry, age, family care status, veteran status, marital status, creed, religion, sex, gender, sexual orientation, ethnicity, or any other legally protected status. We value a diverse mix of talented individuals who come together to make a lasting impact on our student learners.<br/><br/>Employment Type: Part-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

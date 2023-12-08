@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Seeking a Test Engineer who will play a pivotal role in ensuring product quality through the development and execution of manual and automated tests. This position requires expertise in integration testing, particularly in validating back-end services. In addition, the Test Engineer will be responsible for estimating, planning, and coordinating testing activities, as well as effectively identifying, documenting, tracking, and resolving quality issues and defects within our defect tracking system.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li> End-to-End Testing</li><li> Coordination: Collaborate closely with internal and external interfaces, especially in complex end-to-end testing scenarios.</li><li> Agile Involvement: Actively participate in Agile ceremonies including Daily Huddles, Sprint Planning, Sprint Demos, Sprint Review, and Retrospectives, as well as Project Retrospectives for assigned initiatives.</li><li> Test Scenario Design: Design test scenarios and scripts, execute test cases, compare results against functional and non-functional requirements, and report defects with minimal guidance.</li><li> Process Improvement: Develop testing and training procedures where applicable to enhance testing efficiency.</li><li> User Acceptance Testing (UAT): Coordinate and facilitate UAT sessions with business users to ensure their needs are met.</li><li> Technical Acumen: Gain a deep understanding of the technology underpinning our applications/systems from a code analysis perspective.</li><li> Performance Testing: May assist in the execution and analysis of performance test scripts and outcomes.</li><li> Issue Resolution: Collaborate with various teams to troubleshoot and triage issues, aiming to identify root causes and achieve resolutions.<br/><br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li> Bachelor’s degree in engineering, Information Technology, Computer Science, or a related technical field from an accredited university, or equivalent practical experience (5+ years).</li><li> Proficiency in building, executing, and analyzing automation test suites using tools like Ready API, within a Continuous Integration/Continuous Development (CI/CD) environment, possibly leveraging Bamboo.</li><li> Strong knowledge of backend databases, including the validation of stored procedures, jobs, and triggers.</li><li> 2-3 years of experience in SQL query development with a solid understanding of relational database design.</li><li> Solid background in web testing.</li><li> 2-3 years of experience in API testing using SoapUI (Ready API) with assertions for validation.</li><li> Self-motivated and adaptable individual capable of handling multiple objectives simultaneously in a dynamic, fast-paced environment.</li><li> Excellent team player with experience working in an Agile/Scrum development process.</li><li> Familiarity with JIRA and Quality Center/ALM.<br/><br/><br/></li></ul><strong>Desired Qualifications:<br/><br/></strong><ul><li> Experience in performance testing with Apache JMeter.</li><li> Experience in security testing.</li><li> Experience in testing MuleSoft orchestrations.</li><li> Proficiency in Groovy scripting.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

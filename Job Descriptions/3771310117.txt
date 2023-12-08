@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Salesforce QA Tester<br/><br/></strong><strong>Lead II - Software Testing<br/><br/></strong><strong>Who We Are<br/><br/></strong>Born digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.<br/><br/>UST is a mission-driven group of over 39,000+ practical problem solvers and creative thinkers in over 30+ countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.<br/><br/>With us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.<br/><br/>Visit us at UST.com .<br/><br/><strong>You Are<br/><br/></strong>As a Salesforce QA Tester, you will play a critical role in supporting the contract and working closely with the Project manager to ensure that our client's Salesforce platform is a high-quality setup and meets the specific needs of our company. With your years of experience in testing and Salesforce technology, you will be instrumental in driving our technology initiatives to success.<br/><br/><strong>The Opportunity<br/><br/></strong><ul><li>Lead all quality assurance, test automation, and release engineering-related activities and teams (Manual and Automation)</li><li>Play a key role in troubleshooting, triaging, and diagnosing quality issues.</li><li>Work cross-functionally with development, and Design to ensure products are delivered with high standards of quality and reliability.</li><li>Release process and testing of components and end-to-end product test coverage.</li><li>Create test plans, test cases, scenarios, and test data for use during testing</li><li>Perform testing of Salesforce applications</li><li>Provide feedback to developers and product managers regarding test outcomes</li><li>Create QA reports and file defect tickets based on the outcome of QA test cycles</li><li>Support key end users during UAT</li><li>Develop Product Guides and other documentation, to be used in training end users</li><li>Schedule and lead end-user training sessions (train the trainer model)<br/><br/></li></ul>This position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.<br/><br/><strong>What You Need<br/><br/></strong><ul><li>Be able to understand the application of the Salesforce platform (4+ years of Salesforce administrator or related experience)</li><li>Developed consistent best practices in order to meet the ongoing business needs</li><li>The ability to drive resolution to escalations, including post-mortem, root cause analysis, and implementations to ensure long-term remediation of issues</li><li>Familiarity with radar, Java, Javascript, HTML, Selenium, Salesforce/Apex knowledge, GitHub,</li><li>Knowledge of Agile frameworks.</li><li>Understanding of regression testing.</li><li>Experience testing integrations between front-end and back-end applications. </li><li>Proven record of working with Sales or service Cloud, or being familiar with any of the salesforce Solutions</li><li>Bachelor’s degree in computer science, Information Systems, or a related field</li><li>5+ years of experience in testing/3+ years of experience in Salesforce testing</li><li>Proven experience as a Tester or similar role (Experience as a manual tester designing, creating test cases, test matrix, and executing tests)</li><li>Strong analytical and problem-solving skills</li><li>Proficiency in using tools such as Selenium, Salesforce/Apex<br/><br/></li></ul>Compensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience.  As required by local law, UST HealthProof provides a reasonable range of compensation for roles that may be hired in California, Colorado, New York or Washington as set forth below.  <br/><br/><strong>Role Location: </strong>Remote<br/><br/><strong>Compensation Range: </strong>$71,000-$107,000<br/><br/>Our full-time, regular associates are eligible for 401K matching, and vacation accrual and are covered from day 1 for paid sick time, healthcare, dental, vision, life, and disability insurance benefits. Depending on the role, some associates may also be eligible for stock options.<br/><br/><strong>What We Believe<br/><br/></strong>We’re proud to embrace the same values that have shaped UST since the beginning. Since day one, we’ve been building enduring relationships and a culture of integrity. And today, it's those same values that are inspiring us to encourage innovation from everyone, to champion diversity and inclusion, and to place people at the center of everything we do.<br/><br/><strong>Humility<br/><br/></strong>We will listen, learn, be empathetic, and help selflessly in our interactions with everyone.<br/><br/><strong>Humanity<br/><br/></strong>Through business, we will better the lives of those less fortunate than ourselves.<br/><br/><strong>Integrity<br/><br/></strong>We honor our commitments and act with responsibility in all our relationships.<br/><br/><strong>Equal Employment Opportunity Statement<br/><br/></strong>UST is an Equal Opportunity Employer.<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.<br/><br/>UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

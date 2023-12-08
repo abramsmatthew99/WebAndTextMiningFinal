@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Jobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position is open to candidates who reside in and have the legal right to work in the country where the job is located.<br/><br/>Company Name: Capital One<br/><br/><strong>Job Description<br/><br/></strong>Job Title: Technical Support Specialist Location: Melville, New York, United States of America Job Description: The role of a Technical Support Specialist in our fast-growing business group is to provide onsite and remote customer support to a diverse group of employees. Your responsibilities will include laptop support, software and hardware troubleshooting, and resolving internal user's technical issues. We are looking for someone with excellent customer service skills and the ability to make quick decisions. This role requires experience with Windows PCs, Macs, and Mobile Devices. Basic Qualifications: - High School Diploma, GED, or equivalent certification. - At least 1 year of experience in remote administration and end user support. - At least 1 year of experience with ticketing and traffic reporting tools (Zendesk, HPSM, ServiceNow). Preferred Qualifications: - Associate’s Degree in Business, Information Systems, Computer Science, or Military experience. - 1+ years of experience with Active Directory services integration. - 1+ years of experience with defining, implementing, and leveraging process management functions (change, incident, problem). - Apple certification(s). - 1+ years of experience with virtualization technologies running on VMWare tools (Fusion, ESX). - 1+ years of macOS Server administration experience. - 1+ years of experience with platform management and integration (JAMF Casper Suite or SCCM). - 1+ years of experience with productivity tools running on Mac (MS Office, Lync or Skype). - 1+ years of experience with Mac experience supporting 100+ end users. - 1+ years of experience with image deployment, software and system testing, and encryption and security tools (McAfee) on Windows and macOS. Salary Range: The minimum and maximum full-time annual salaries for this role in New York City (Hybrid On-Site) are $71,400 - $81,500 for Principal Coordinator, Support Operations. For candidates working in other locations, the salary range will be based on their specific location. Benefits: Capital One offers a comprehensive set of health, financial, and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility for benefits varies based on full or part-time status, exempt or non-exempt status, and management level. Equal Opportunity: Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. We value and welcome applicants from all backgrounds and identities, including elderly, refugees, people with disabilities (both visible and invisible), LGBTQIA+, veterans, and more. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state, or local law. Accommodation: If you require an accommodation during the application process, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. We will ensure that your needs are met, and all information you provide will be kept confidential. Contact: For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com. Note: Capital One Financial consists of several different entities. Any position posted in Canada is for Capital One Canada, in the United Kingdom is for Capital One Europe, and in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>

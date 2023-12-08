@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        New York is leading the nation in the fight on global climate change and the transition to a clean energy-powered economy. The Climate Act has created the most aggressive climate change goals in the nation and requires an ambitious agenda that blends proven catalysts with innovative approaches while operating across a broader energy arena that is rapidly evolving. New York State Energy Research &amp; Development Authority (NYSERDA) is a driving force in realizing this agenda. NYSERDA works with stakeholders that span residents, business owners, developers, community leaders, local government officials, universities, utilities, investors, entrepreneurs, and more, to develop, invest, and foster conditions that:<br/><br/><ul><li>Attract the private sector capital investment needed to expand New York’s clean energy economy.</li><li>Overcome barriers to using clean energy at a large-scale in New York.</li><li>Enable New York’s communities and residents to benefit equitably from energy efficiency and renewable energy.<br/><br/></li></ul><strong>INTERNSHIP OVERVIEW<br/><br/></strong>This is a paid internship for current students at an accredited college. The pay rate is from $15 to $18 per hour based on current class year. This internship will begin in the Spring 2024 semester and continue through Summer 2024.<br/><br/>Interns must be located in New York State while working. It is expected that interns will follow our telework policy, with a combination of in-office and remote work. Interns work up to 18.5 hours per week during the semester, and up to 37.5 hours per week between semesters, when not attending classes.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Design, implement, document, test, and deploy cloud-native software solutions within a Software Development Life Cycle (SDLC) process.</li><li>Develop backend services and microservices using C#, ASP.NET, Microsoft SQL Server, and Microsoft Azure.</li><li>Develop frontend solutions using HTML, CSS3, JavaScript, TypeScript, React, HTMX, Blazor, Webpack, and other related modern web technologies.</li><li>Develop automated unit tests.</li><li>Develop and test automated software deployments using CI/CD through Azure DevOps.</li><li>Support system design work for cloud-native software solutions targeting Microsoft Azure.</li><li>Actively participate in technical reviews of all SDLC artifacts.</li><li>Actively participate in Agile meetings including backlog grooming, sprint planning, retrospectives, daily standups.</li><li>Support integration of cloud-native software with other NYSERDA systems such as SharePoint.</li><li>Additional responsibilities as assigned.<br/><br/></li></ul><strong>MINIMUM QUALIFICATIONS<br/><br/></strong><ul><li>Currently pursuing an associate or bachelor’s degree with a major in Information Technology, Computer Science, or a related field.</li><li>Experience with at least one object-oriented programming (OOP) language.</li><li>Experience with software development using Git for version control.</li><li>Experience with Microsoft O365 (Word, Excel, PowerPoint, Outlook, Teams).</li><li>Strong verbal and written communication skills.<br/><br/></li></ul><strong>ADDITIONAL QUALIFICATIONS<br/><br/></strong><ul><li>Experience or equivalent coursework with the C# programming language.</li><li>Experience or equivalent coursework with cloud computing.</li><li>Experience or equivalent coursework with relational databases and SQL.</li><li>Experience or equivalent coursework with modern frontend technologies such as JavaScript, TypeScript, React, HTMX, Bootstrap, Webpack, and Blazor.</li><li>Experience or equivalent coursework with DevSecOps and/or CI/CD.</li><li>Experience or equivalent coursework with Agile project management methodologies.</li><li>Experience or equivalent coursework with Cybersecurity.</li><li>Experience with Atlassian products (i.e. JIRA, Confluence) or comparable tools.</li><li>Experience with Microsoft SharePoint Online platform.<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

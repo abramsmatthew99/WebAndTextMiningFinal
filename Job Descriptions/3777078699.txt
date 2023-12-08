@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>The Senior Java Developer will be able to design solutions, communicate designs to internal and external customers for approval, implement, and maintain the solutions moving forward, with little supervision while driving the project to get completed and reporting on the progress along the way. This position requires working in an Agile software development environment<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Analyze, design, develop and implementation of software solutions for healthcare industry using Java, J2EE, JavaScript, Spring, Hibernate, MySQL, Servlet, JDK, Windows, UNIX, JavaScript, HTML, Webservices, etc.</li><li>Handle complex problems independently and demonstrates analytical thinking. Must be able to make judgements and recommendations based on the analysis and interpretation.</li><li>Define and design application tiers; review, implement systems frameworks for security validation</li><li>Participate in Agile ceremonies (Backlog grooming, Sprint planning etc.)</li><li>Provide guidance to other resources and mentor new resources as needed </li><li>Assign work to other team members as needed and review completed assignments<br/><br/></li></ul><strong>Knowledge/Skills/Abilities<br/><br/></strong><ul><li>Minimum of 7 years of experience in enterprise Java development </li><li>3+ years of experience in healthcare industry is preferred but not required</li><li>Knowledge of reading/writing shell scripts, scheduling tools (Skybot, CRON, ETC) </li><li>Must have experience with source control systems.</li><li>Experience and ability to work in a constantly changing, fast paced, deadline driven environment.</li><li>Previous experience with AWS is preferred<br/><br/></li></ul><strong>Education/Certification<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science or related field required. Master’s degree in Computer Science or related field is preferred.<br/><br/></li></ul><strong>Additional Job Requirements<br/><br/></strong><ul><li>Hybrid preferred: This Developer will be able to work onsite 1-2 days per week at our Tampa office</li><li>Experience and ability to work in a constantly changing, fast paced, deadline driven environment.</li><li>All prospective employees must pass a background check &amp; drug test (Federal contractor requirement)<br/><br/></li></ul><strong>COMMITMENT TO DIVERSITY &amp; INCLUSION<br/><br/></strong>We are an Equal Employment/Affirmative Action employer. We do not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected Veteran status, or any other characteristic protected by federal, state, or local law.<br/><br/>If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us by email at careers@mhk.com . Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address and the email address cannot be used to inquire about the status of applications.<br/><br/><strong>For more information, please visit </strong> <strong>Know Your Rights</strong> <strong>, </strong> <strong>Pay Transparency</strong> <strong>, and </strong> <strong>MHK EEO/AA Statement</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

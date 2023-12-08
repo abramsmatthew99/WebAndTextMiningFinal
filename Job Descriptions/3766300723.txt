@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        In partnership with a leading rugged vehicle manufacturer in the US, Northwest Partners is seeking a proficient Microsoft 365 Engineer to fortify and manage our client’s Microsoft 365 ecosystem. If you're driven to create a robust and secure IT environment and has an active security clearance, come join this highly skilled IT team.<br/><br/><strong>What YOU Will Do As a Successful Candidate<br/><br/></strong>As an Office 365 Engineer, you will be responsible for designing, managing, configuring, and maintaining Office 365 suite to optimize business operations. You will ensure the availability, security, and reliability of Office 365 services while collaborating with various teams to meet their technical requirements. Your day-to-day responsibilities will include:<br/><br/><ul><li>Configure Office 365 tenant settings, including user accounts and permissions.</li><li>Deploy and fine-tune Office 365, OneDrive for Business, and Exchange Online services.</li><li>Monitor Office 365 service health, swiftly addressing issues to maintain system integrity.</li><li>Implement stringent security measures such as multi-factor authentication.</li><li>Conduct regular security assessments to strengthen data protection and ensure compliance with regulations.</li><li>Collaborate with internal teams to establish and improve collaborative environments using Teams and SharePoint.</li><li>Manage email and communication platforms for consistent operation across Exchange Online and Microsoft Teams.</li><li>Provide comprehensive support and training to users for an effective transition to Office 365 tools.</li><li>Develop detailed user documentation to facilitate system navigation and troubleshooting.</li><li>Design and implement backup strategies and disaster recovery plans to safeguard Office 365 data.</li><li>Employ PowerShell for monitoring system performance and service metrics, proactively identifying potential issues.<br/><br/></li></ul><strong>Minimum Qualifications For Consideration<br/><br/></strong><ul><li>A Bachelor's degree in IT, Computer Science, or a relevant field, or an equivalent blend of education and experience.</li><li>In-depth knowledge of SharePoint Online, Exchange Online, and Microsoft Teams.</li><li>Mastery in PowerShell for automation and system management.</li><li>A solid understanding of Office 365's security and compliance capabilities.</li><li>Exceptional problem-solving skills and the ability to communicate complex technical concepts clearly.</li><li>An ethos of independence coupled with the spirit of teamwork.</li><li>Microsoft 365 Certified: Enterprise Administrator Expert certification is a desirable asset.</li><li>Security Clearance<br/><br/></li></ul><strong>About Northwest Partners<br/><br/></strong>Northwest Partners is dedicated to moving at the speed of innovation. We work with clients across the globe to provide exceptional knowledge, talent, and resources. As a trusted partner, we merge the client's vision with our expertise to deliver powerful results. Northwest Partners is known for building and managing elite teams in technology across diverse industries. Our mission is to empower every talent and every client to achieve more.<br/><br/><em><strong>Learn More About Northwest Partners<br/><br/></strong></em>Northwest Partners is dedicated to moving at the speed of its clients innovation. We work with clients across the globe to provide exceptional knowledge, talent, and resources. As a trusted partner, we merge the client vision with our expertise to deliver powerful results. Northwest Partners is known for building and managing elite teams in technology across diverse industries. Our mission is to empower every talent and every client to achieve more.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Aviation and Aerospace Component Manufacturing and Armed Forces
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Dice is the leading career destination for tech experts at every stage of their careers. Our client, iTech US, Inc., is seeking the following. Apply via Dice today!<br/><br/><strong> Position:Computer Operator <br/><br/></strong><strong> Location:Nashville, TN (Onsite) <br/><br/></strong><strong> Duration:12 Months Contract <br/><br/></strong><strong> 8PM - 5AM Monday – Friday ONSITE <br/><br/></strong>Education: At least a bachelor’s degree (or equivalent experience) in Computer Science, Software/Electronics Engineering, Information Systems, or a closely related field is preferred. A High School Diploma is required.<br/><br/>A Computer Operator performs daily tasks in computer operations. These responsibilities include running scheduled and unscheduled batch jobs, monitoring of the AS400, company network, and job scheduler. This position is responsible for preparing backup media for offsite storage.<br/><br/><ul><li> 1 to 2 years of experience.</li><li> High School Diploma required.</li><li> Knowledge of hardware configurations.</li><li> Multi-platform operations experience preferred, including knowledge of AS/400, UNIX and Microsoft commands preferred.</li><li> Knowledge of Data Center Infrastructure Management (DCIM) tools.</li><li> Working knowledge of automated batch processing.</li><li> Working knowledge of monitoring tools.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

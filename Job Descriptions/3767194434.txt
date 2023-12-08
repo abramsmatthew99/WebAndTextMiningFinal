@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Overview<br/><br/></strong>At Motorola Solutions, we’re guided by a shared purpose – helping people be their best in the moments that matter – and we’re living up to our purpose every day by solving for safer. Because people can only be their best when they not only feel safe, but are safe. We’re solving for safer - safer communities, safer schools, safer hospitals, safer businesses – safer everywhere. We’re building integrated technologies that help protect people, property and places. We’re connecting public safety agencies and enterprises – enabling the collaboration that’s critical for a more proactive approach to safety and security. We’re committed to solving for safer every day because the work we do here matters.<br/><br/><strong>Department Overview<br/><br/></strong>Manufacturing Engineering: The Richardson facility is responsible for manufacturing all Video Security and Analytics products - Fixed and mobile Video products.<br/><br/><strong>Job Description<br/><br/></strong><strong>In this role you will:<br/><br/></strong><ul><li>Design state-of-art test solutions and strategy for automated test equipment, data collection and reporting. </li><li>Develop user-friendly graphical interfaces for test automation using LabView or other advanced test development tools. </li><li>Develop and install drivers and necessary tools necessary to have the test programs production-ready. </li><li>Develop test hardware interfaces to enable automated test data collection during temperature cycle testing of products in different phases of their life-cycle. </li><li>Verify firmware/software release candidates and provide detailed summary reports of findings to aid in redevelopment of code/hardware or ECN release. </li><li>Develop test procedures/instructions and train Production Team members. </li><li>Manage and coordinate test data collection efforts. <br/><br/></li></ul><strong>Preferred Skills:<br/><br/></strong><ul><li>5 or more years of test development experience in R&amp;D and manufacturing environment involving test automation that includes test instrument driver development, GUI, test data collection and reporting. </li><li>Proven experience in writing test procedures, failure analysis report and other relevant test development documents. </li><li>Develop manufacturing test requirements: work with hardware and software design engineers to develop test cases, identify test hardware, software tools and acceptance criteria. </li><li>Project management skills: ability to manage all assigned tasks in a project time-line manner from start to finish. create and work with small teams to complete assigned tasks in a timely manner. </li><li>Design test fixtures for production test; robust, state-of-art interconnect methods, data acquisition switching, analog and digital signal conditioning modules, etc. </li><li>Test system design for functional testing using GPIB, RS-232 and USB interfaces is essential. </li><li>Proven knowledge and extensive experience with analog and digital electronics. </li><li>A/D and D/A circuits. Analog – power management, exposure to Li-on battery interfaces. digital – microcontroller, FPGA, RAM, EEPROM. addressing and control I2C bus. familiarity and experience using cadence/mentor design software tools. </li><li>Knowledge of JTAG interfaces and experience with development of boundary scan tests is highly desirable. Familiarity with asset or JTAG technologies tools is a plus. </li><li>Work with quality and reliability teams to improve/enhance test methods, data collection, knowledgebase and feedback to customer service to close the loop. <br/><br/></li></ul><strong>Basic Requirements<br/><br/></strong><ul><li>Bachelor's degree in Electrical Engineering or Computer Science. </li><li>5 + years of test development experience. </li><li>Legal authorization to work in the U.S. indefinitely is required. Employer work permit sponsorship is not available for this position. <br/><br/></li></ul><strong>Travel Requirements<br/><br/></strong>Under 10%<br/><br/><strong>Relocation Provided<br/><br/></strong>None<br/><br/><strong>Position Type<br/><br/></strong>Experienced<br/><br/><strong>Referral Payment Plan<br/><br/></strong>Yes<br/><br/><strong>Our U.S. Benefits include:<br/><br/></strong><ul><li>Incentive Bonus Plans</li><li>Medical, Dental, Vision benefits</li><li>401K with Company Match</li><li>9 Paid Holidays</li><li>Generous Paid Time Off Packages</li><li>Employee Stock Purchase Plan</li><li>Paid Parental &amp; Family Leave</li><li>and more!<br/><br/></li></ul><em><strong>EEO Statement<br/><br/></strong></em>Motorola Solutions is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran's status, or, any other protected characteristic.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Washington Adventist University<br/><br/><strong>Job Description<br/><br/></strong><strong>Job Title: Adjunct Faculty, Computer Science<br/><br/>Department: Computer Science<br/><br/>Reports To: Chair<br/><br/></strong><strong>Overview Of The University<br/><br/></strong>Washington Adventist University (WAU) is a Christ-centered institution of higher education that supports a culture of excellence where all feel valued. Nestled in a desirable residential community in Takoma Park, Maryland, WAU offers its faculty and staff an environment where professional expertise is valued and lasting connections between co-workers are formed as we work together to ensure the success of our students. Regardless of title, every employee supports WAU’s vision of producing graduates who bring moral leadership and competence to their communities.<br/><br/><strong>Summary<br/><br/></strong>The Department of Computer Science at Washington Adventist University is seeking candidates to expand its <strong>pool of adjunct faculty</strong> teaching day and evening classes. Applicants submitting applications are applying to be part of the <strong>adjunct pool</strong> of instructors. Applications may be reviewed periodically based on student enrollment needs. Applicants who meet the minimum qualifications are not automatically accepted to teach at Washington Adventist University. Decisions to hire applicants are made at the discretion of the department.<br/><br/><strong>Primary Duties<br/><br/></strong><ul><li>Teach lectures and laboratories for majors and non-majors in computer courses.</li><li>Teach pertinent course content using lectures, demonstrations, class discussion, and other appropriate modes of educational delivery that promote educational and learning processes.</li><li>Prepare course outline and syllabus, develop course and lesson plans, and engage in the selection of textbook and other teaching aids necessary to the instruction of courses.</li><li>Supervise and maintain laboratories and equipment.<br/><br/></li></ul><strong> Qualifications: <br/><br/></strong><ul><li>Master's Degree or Ph.D. in Computer Science, Information Systems, Software Engineering, or a related field from an accredited college or university.</li><li>Ability to integrate technology into content delivery and assessment techniques.</li><li>Ability to communicate and work with a diverse population of students both in and outside the classroom.</li><li>Excellent written and oral communication skills.</li><li>Prior college or university teaching experience preferred.</li><li>Knowledge of, and commitment to, the university’s philosophy, mission and core values. <br/><br/></li></ul><strong>Title VII Exception Notice<br/><br/></strong>Washington Adventist University is a religiously qualified Equal Opportunity Employer under Title VII of the Civil Rights Act. As such the University has the legal right to prefer a member of the Seventh-day Adventist ("SDA") Church in its hiring process. In the event that a qualified SDA candidate is not identified, the University will give the opportunity to candidates who must understand and respect the mission, purpose, and identity of Washington Adventist University as a condition of their employment.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

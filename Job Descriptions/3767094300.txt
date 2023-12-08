@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description <br/><br/></strong> Sage Intacct is looking for enthusiastic, positive-minded, customer focused and service-oriented people to join our award-winning team in our Global Customer Support organization. You will need to prioritize and multi-task daily, while maintaining a high level of confidence and professionalism. You must be able to work on complex problems, while balancing multiple customer cases in a fast-paced and dynamic team environment.<br/><br/>  Responsibilities:<br/><br/><ul><li> Assist customers or partners in responding to questions and issues with the Sage Intacct application via live help, online customer portal, and phone.</li><li> Daily Case Management, which includes</li><li> Maintaining, updating and prioritizing cases to meet published customer Service Level Objectives</li><li> Logging cases with accurate information to provide a full record of each issue and resolution</li><li> Performing research and troubleshooting to resolve cases</li><li> Providing timely communications with clients and internal departments such as Engineering and Product Management</li><li> Logging and tracking escalations.</li><li> Contribute to the development of internal knowledge base and customer solution portal.</li><li> Understand customer needs and provide proactive suggestions to improve customer use and satisfaction.</li><li> May be required to work during weekends and holidays on a rotating basis to provide support coverage.</li><li> May be required to work outside of standard work hours in response to critical customer situations.<br/><br/><br/><br/><br/><br/></li></ul>Required Skills:<br/><br/><ul><li> Bachelor's degree in Accounting, Business Administration, Management Information Systems, Computer Science or equivalent experience.</li><li>3+ year of experience in a customer support role.</li><li> Experience in API/Web Services/Salesforce integration issues.</li><li> Experience in XML/JSON formats, client tools like SOAP UI/Postman.</li><li> Good understanding of various communication protocols.</li><li> Strong analytical and problem-solving skills.</li><li> Strong organizational skills with the ability to multi-task in a fast-paced environment.</li><li> Ability to learn quickly and research complex issues.</li><li> Excellent written and verbal communication skills, including clear speaking voice and good use of English language grammar.</li><li> Proven success in a team environment.<br/><br/><br/><br/><br/><br/></li></ul>Desired Skills:<br/><br/><ul><li> Experience working with Sage Intacct or other ERP/Financial software application.</li><li> Experience using CRM software such as Salesforce.</li><li> Understanding of Internet and Cloud technologies.<br/><br/><br/><br/><br/><br/></li></ul>Perks? We have plenty:<br/><br/><ul><li> Competitive salaries that landed us top 5% of similar sized companies (according to Comparably)</li><li> Comprehensive health, dental and vision coverage</li><li> 401(k) retirement match (100% matching up to 4%)</li><li> 31 days paid time off (21 personal days, 10 national holidays, 1 floating holiday)</li><li> 18 weeks paid parental leave for birth, adoption or surrogacy offered 1 year after start date</li><li> 5 days paid yearly to volunteer (through Sage Foundation)</li><li> $5,250 tuition reimbursement per calendar year starting 6 months after hire date</li><li> Sage Wellness Rewards Program ($600 wellness credit and $360 fitness reimbursement annually)</li><li> Library of on-demand career development options and ongoing training offerings<br/><br/><br/><br/><br/><br/></li></ul>Hear from our employees:<br/><br/>According to our employee feedback on Comparably, we scored a 4.8/5 rating on company culture and our employees gave our CEO a score of 90/100. We also won awards in 2021 for Best Company when it comes to diversity, compensation, women, work-life balance, leadership, and career growth, to name a few.<br/><br/>Dig deeper about who we are:<br/><br/>Who is Sage:  https://www.sage.com/en-us/company/about-sage/<br/><br/>Life at Sage:  https://www.sage.com/en-us/company/careers/<br/><br/>Our Values &amp; Behaviors:  https://www.youtube.com/watch?app=desktop&amp;v=vt5JXf-Gwno&amp;feature=youtu.be<br/><br/>How we make a difference:  https://www.sage.com/en-us/company/sage-foundation/<br/><br/>Sage Business Cloud - SaaS for Every Business:  https://www.sage.com/en-us/products/<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

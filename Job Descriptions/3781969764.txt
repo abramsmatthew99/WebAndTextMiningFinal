@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>The Marcus Corporation, based out of Milwaukee, is a leader in the entertainment and lodging industries with significant company-owned real estate assets in 19 states. Here at Marcus, we celebrate more than 87 years of providing customers, clients and guests with Magical Marcus experiences and have been recognized by Forbes Magazine as one of America’s most trusted companies.<br/><br/>The IT Security Analyst I will be responsible for monitoring security events and assisting with incident response activities. This position is part of our Information Security team and will be involved with planning, deploying, and maintaining enterprise security tools such as EDR, SIEM, email security gateway, and vulnerability management.<br/><br/>This position requires the applicant to work in Milwaukee.<br/><br/><strong>What You Will Be Doing<br/><br/></strong><ul><li>Security Monitoring and Incident Response</li><ul><li>Monitor security alerts and events to identify potential threats and incidents</li><li>Investigate and respond to security incidents, conducting thorough analysis and providing timely resolution</li><li>Alert tuning and generating reports</li><li>Analyze phishing emails and malicious files and maintain IOCs with internal tools</li><li>Use threat intelligence platforms to analyze and report new threats</li></ul><li>Vulnerability Management</li><ul><li>Conduct regular vulnerability scans and collaborate with teams to prioritize and perform remediation activities</li></ul><li>Security Infrastructure Management</li><ul><li>Assist with administering and maintaining security tools</li><li>Collaborate with in-house teams to deploy or update tools</li></ul><li>Policy and Documentation</li><ul><li>Manage documentation related to monitoring standards and daily procedures</li><li>Ensure compliance with relevant regulations and industry standards</li></ul><li>Security Awareness</li><ul><li>Assist by performing internal tests and helping keep staff informed of emerging threats and best practices</li></ul><li>Security Audits</li><ul><li>Assist with internal and external audit requests<br/></li></ul></ul><strong>What We Are Looking For<br/><br/></strong><ul><li>Proven experience as a security analyst or in a similar role</li><li>Strong understanding of information security principles and best practices</li><li>Experience with security tools such as intrusion detection/prevention systems, SIEM, EDR, and vulnerability management</li><li>Excellent analytical and problem-solving skills</li><li>Excellent verbal and written communication skills</li><li>Technical knowledge and experience with networking components, Windows, and Linux operating systems</li><li>Knowledge of the following:</li><ul><li>PCI-DSS</li><li>SOX </li></ul><li>Ability to interact professionally and effectively with all levels</li><li>Must be strong at working as part of a team and independently as required</li><li>Ability to prioritize workload based on business needs<br/></li></ul><strong>Preferred<br/><br/></strong><ul><li>Bachelor’s degree in MIS, Computer Science, or a related field</li><li>GIAC, CompTIA Security+, CompTIA CySA+ or other relevant security certifications</li><li>Experience in securing large enterprise network environments</li><li>3+ years of experience preferred in a Security Administrator or Analyst role<br/><br/></li></ul><strong>As part of being a Marcus Corporation associate, you will receive amazing benefits including:<br/><br/></strong><ul><li>Discounts at Marcus Hotels &amp; Resorts properties for hotel rooms, cafes, and restaurants- not to mention, great deals on golf, ski and spa</li><li>Movie discounts at Marcus Theatres</li><li>401k match</li><li>Health, dental and vision insurance, company- paid life insurance, employee assistance program</li><li>Ability to grow your career</li><li>And more!<br/><br/></li></ul>Marcus Corporation is an Equal Opportunity Employer
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitality
+          </span>
+</li>
+</ul>
+</div>
+</section>

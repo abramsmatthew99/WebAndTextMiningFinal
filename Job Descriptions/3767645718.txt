@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Id: 23700889<br/><br/>Citibank, N.A. seeks an Applications Development Technical Lead Analyst for its Irving, TX location.<br/><br/>Duties: Gather requirements, analyzing the problem and devising a plan or algorithm for proposed business solution. Implement coding for software-based solutions, perform software testing and analyze unit and integration test cases. Provide testing documents to tester to test in testing environment. Evaluation of all the use-cases and scenarios to verify the quality. Identify relationships between artifacts that guide the selection, creation, and implementation of solutions aligned with business goals. Design software architecture consisting of entities and their externally visible properties, and the relationships among them. Design the subsystems and components of a software systems and the relationships between them. Install, customize, test, and extend the period of evaluation before the business final roll out. Automate deployment to ensure continuous delivery and continuous deployment by introducing automation into the stages of application development. Introduce ongoing automation and continuous monitoring throughout the lifecycle of applications, from integration and testing phases to delivery and deployment. Remote work may be permitted within a commutable distance from the worksite, in accordance with Citi policy.<br/><br/>Requirements: Bachelor’s degree, or foreign equivalent, in Computer Science, IT, or a related field, and five (5) years of experience in the job offered or in a related occupation. Five (5) years of experience must include: Deploying existing microservices running in PCF to OpenShift; Docker deployment process for running microservices applications; Configuring spring config server with GIT for environment-based changes; Developing applications using REST, JSON, SOAP, and XML; Building J2EE-based applications using Spring and Hibernate/Open JPA frameworks; Developing automated test plans using jUnit and performing build management and continuous integration; Implementing IT projects and providing technical expertise during different phases of software development; and Developing application architecture from migration into strategy Enterprise Cloud infrastructure using container platform. In the alternative, employer will accept Master’s degree and three (3) years of experience. 40 hrs./wk. Applicants submit resumes at https://jobs.citi.com/ or by email to Citigroup Recruiting Dept. at NAMobilityRecruitment@citi.com. Please reference Job ID# 23700889. EO Employer.<br/><br/>Wage Range: $142,600.00 - $178,190.00<br/><br/>Job Family Group: Technology<br/><br/>Job Family: Applications Development<br/><br/>-------------------------------------------------<br/><br/><strong>Job Family Group: <br/><br/></strong>-------------------------------------------------<br/><br/><strong>Job Family:<br/><br/></strong>------------------------------------------------------<br/><br/><strong>Time Type:<br/><br/></strong>Full time<br/><br/>------------------------------------------------------<br/><br/><strong>Primary Location:<br/><br/></strong>Irving Texas United States<br/><br/>------------------------------------------------------<br/><br/><strong>Primary Location Salary Range:<br/><br/></strong>------------------------------------------------------<br/><br/>Citi is an equal opportunity and affirmative action employer.<br/><br/>Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.<br/><br/>Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review <strong>Accessibility at Citi</strong>.<br/><br/>View the "<strong>EEO is the Law</strong>" poster. View the <strong>EEO is the Law Supplement</strong>.<br/><br/>View the <strong>EEO Policy Statement</strong>.<br/><br/>View the <strong>Pay Transparency Posting<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking, Financial Services, and Investment Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

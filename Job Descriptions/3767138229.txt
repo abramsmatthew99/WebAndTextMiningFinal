@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Title: Senior Network Engineer (Infrastructure)<br/><br/>Salary range: 110K- 125K<br/><br/>Location: Hybrid (report to NYC office twice a week)<br/><br/><strong>Summary:<br/><br/></strong>Responsible for designing and implementing our client’s network infrastructure including WAN, MAN, LAN, WLAN, Proxy, Load Balancing, Firewall and Proxy components.<br/><br/><strong>Major Responsibilities:<br/><br/></strong><ul><li>Help to drive network improvements and standardization for the network environments in both the Data Centers, Campus and Remote Branch Offices</li><li>Perform tasks including but not limited to planning, staging of hardware and software, implementation of the solution in the lab and production environment, providing post-cutover support, documentation, and end user training.</li><li>Test, debug, conduct performance analysis, and document network infrastructure components</li><li>Capacity management of network infrastructure</li><li>Assist in the implementation of test plans (including functionality, integrity, and stress testing; and definition of test methodologies and strategy) related to network infrastructure</li><li>Ensure that plans for the network integrate effectively with other aspects of the technical infrastructure</li><li>Assist in the development and configuration of the network infrastructure from conceptualization through stabilization</li><li>Assist in the implementation of the network infrastructure by performing product customization, and developing implementation and verification procedures to ensure successful installation of network hardware/software</li><li>Assist in providing production support for incidents / problems escalated from Network Operations team. </li><li>Ensure timely and cost-effective delivery of network infrastructure required for new projects</li><li>Creates and maintains written documentation and diagrams for supported systems</li><li>Participates in a 24/7/365 weekly on-call rotation<br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li>Bachelor’s degree in Technical or engineering, or computer science or equivalent experience.</li><li>10+ years of experience supporting computer networks in a mission-critical environment.</li><li>Ability to work in a fast-paced environment supporting real-time market data and trading.</li><li>Certification and/or training with vendor-neutral or vendor-specific focus.</li><li>Basic understanding of operating system administration (Windows and Linux).</li><li>Basic scripting and automation.</li><li>Organized and methodical testing skills.</li><li>Excellent written and oral communication skills.</li><li>Excellent time management and organizational skills.<br/><br/></li></ul><strong>Tagged Systems:<br/><br/></strong><ul><li>OS: Linux &amp; Windows.</li><li>Hardware: Cisco ACI, Cisco routers and switches, Fortinet firewalls, web proxies, F5 LTM/ GTM, Network monitoring probes (Extrahop).</li><li>Applications: Cisco ISE, BlueCAT DDI, SSL/PKI<br/><br/></li></ul>Powered by JazzHR<br/><br/>h7RTmoqbnT
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

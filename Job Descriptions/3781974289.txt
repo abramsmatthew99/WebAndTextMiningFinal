@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Driven by growth and new technology initiatives, PrismHR has an opening for a Manager, Applications and Infrastructure Operations. This role has direct management for a team of infrastructure engineers with varied disciplines across both our legacy and go forward technology initiatives.<br/><br/>This role will require someone with a hands-on type of leadership style, someone that can guide others and still roll up their sleeves to contribute to our growing infrastructure. You will collaborate across multiple groups within the Product Delivery organization including development, qa, architecture and program management to help deliver the best service for our clients.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Lead and manage a team of 3 to 6 application and infrastructure engineers, providing guidance and mentorship to foster individual and team growth.</li><li>Lead team members in configuring, monitoring, maintaining and troubleshooting the company’s cloud-based SaaS applications.</li><li>Deploy and administer cloud infrastructure in Azure and AWS using Infrastructure as Code.</li><li>Administer and leverage various administrative and observability platforms used in conjunction with delivering PrismHR’s applications.</li><li>Manage containerized technologies like Docker and Kubernetes to enhance application portability and agility.</li><li>Troubleshoot application configurations and diagnose operational issues, ensuring timely resolution and minimal impact on user experience.</li><li>Implement security best practices for application and infrastructure environments.</li><li>Monitor system performance and identify opportunities for improvement, analyzing trends and proposing solutions for optimization.</li><li>Stay abreast of current trends and emerging technologies in SaaS delivery and public cloud proactively evaluating and implementing solutions for continuous improvement.</li><li>Provide formal, less formal and ‘as needed’ continual performance and personal growth feedback to assigned engineers</li><li>Facilitate incident response for critical issues and outages which could include after business hours response.</li><li>Create and maintain comprehensive documentation as it relates to application and configuration configurations.</li><li>Continue to evolve the use of automation and configuration management tools.</li><li>Participate in the creation, maintenance, testing, and execution of the Disaster Recovery plans.</li><li>Oversee capacity planning activities as it relates to public cloud spend and efficiency.</li><li>Participate in after-hours software deployments, maintenance windows, and on-call availability as needed.</li><li>Function as a project lead to ensure major projects are kept on track and key deliverables met.<br/><br/></li></ul><strong>Experience<br/><br/></strong><ul><li>10+ years of infrastructure and application support in a production SaaS environment</li><li>4+ years in a management role leading technical resources in a 24/7 environment.</li><li>Bachelor’s degree in Computer Science, MIS or Engineering.</li><li>Experience with Docker, Kubernetes or running containers on PaaS.</li><li>Experience with automation and IaC tools such as Puppet and Teraform.</li><li>Experience working in a GitOps/DevOps environment.</li><li>Experience troubleshooting application configurations and diagnosing operational issues.</li><li>Ability to prioritize effectively and work independently in a fast-paced environment.</li><li>Solid understanding of public cloud concepts and services in AWS and Azure.</li><li>Scripting experience (Powershell, Bash, Python) a plus.</li><li>Experience supporting security/compliance programs such as SOC1, SOC2, or PCI.</li><li>Excellent problem solving and effective research skills.</li><li>Strong customer service skills and communication as must.</li><li>Experience with Palo Alto NGFW’s and F5 Load Balancers a plus.</li><li>Dedication and willingness to work alternative schedules when necessary.</li><li>Industry certifications are strongly desired: Red Hat (RHCSA/RHCE), Windows (MCSA / MCSE), or Azure/AWS certifications.<br/><br/></li></ul>PrismHR is a fast-paced SaaS company which provides customers with a cloud-based payroll process software application. PrismHR also provides professional services including system implementation consulting, custom configurations, and training. Lastly, via the Company’s Marketplace platform customers and end users access other human resources and employee benefits applications from PrismHR’s Marketplace Partners.<br/><br/><strong>Diversity, Equity And Inclusion Program/Affirmative Action Plan<br/><br/></strong>We have transformed our company into an inclusive environment where individuals are valued for their talents and empowered to reach their fullest potential. At PrismHR, we strive to continually lead with our values and beliefs that enable our employees to develop their potential, bring their full self to work, and engage in a world of inclusion.<br/><br/>Ensuring an inclusive environment for our employees is an integral part of the PrismHR culture. We aren't just checking a box, we are truly committed to creating a workplace that celebrates the diversity of our employees and fosters a sense of belonging for everyone. This is essential to our success. We are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about our roles but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for these open roles or other open roles. We particularly encourage applicants from traditionally under-represented groups as we seek to increase the diversity of our workforce and provide fair opportunities for all.<br/><br/>As a proud Equal Opportunity and Affirmative Action Employer, PrismHR encourages talent from all backgrounds to join our team. Employment decisions are based on an individual’s qualifications as they relate to the job under consideration. The Company’s policy prohibits unlawful discrimination based on sex (which includes pregnancy, childbirth, breastfeeding, or related medical conditions, the actual sex of the individual, or the gender identity or gender expression), race, color, religion, including religious dress practices and religious grooming practices, sexual orientation, national origin, ancestry, citizenship, marital status, familial status, age, physical disability, mental disability, medical condition, genetic information, protected veteran or military status, or any other consideration made unlawful by federal, state or local laws, ordinances, or regulations.<br/><br/>The Company is committed to complying with all applicable laws providing equal employment opportunities. This commitment applies to all persons involved in the operations of the Company and prohibits unlawful discrimination by any employee of the Company, including supervisors and co-workers.<br/><br/>Privacy Policy: For information about how we collect and use your personal information, please see our privacy statement available at https://www.prismhr.com/about/privacy-policy.<br/><br/><em>PrismHR provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. If you have any difficulty using our online system and you need a reasonable accommodation due to a disability, you may use the following alternative email address to contact us about your interest in employment at PrismHR: taglobal@prismhr.com. Please indicate in the subject line of your email that you are requesting accommodation. Only candidates being considered for a position who require an accommodation will receive a follow-up response.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

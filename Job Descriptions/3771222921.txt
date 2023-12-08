@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Python Software Engineer<br/><br/>Denver CO 80237 - Hybrid position<br/><br/>Top Secret Security Clearance is required<br/><br/>$166,000.00- $180,000.00 and AMAZING BENEFITS<br/><br/></strong>As a Software Engineer, you will... <br/><br/><ul><li></li><ul><li>Contribute to the design, development, testing and integration of new capabilities from an idea to production across a complex system</li><li>Integrate capabilities from different systems across the enterprise while the needs of users and stakeholders are met</li><li>Participate in daily standups, sprint and release planning activities, and coordinate with other team members (systems engineer, systems administrator, tester, etc.) to accomplish the tasks outlined in user stories</li><li>Write or contribute to documentation and end-user instructions/manuals, as necessary<br/><br/><br/></li></ul></ul><strong>Qualifications</strong> <br/><br/><ul><li></li><ul><li>Associate's or Bachelor's Degree in Computer Science or related field</li><li>5+ years of experience in software development with experience in all phases of the software development lifecycle (analysis, design, development, testing, deployment, maintenance)</li><li>Demonstrated experience developing with modern languages such as: Python, Ruby, Clojure, Java, JavaScript, etc.</li><li>Experience designing, developing, documenting, testing, and debugging software that contains logical and mathematical solutions to problems</li><li>Demonstrated experience using rapid prototyping and Agile based software development methodologies<br/><br/><br/></li></ul></ul>Additional Skills We'd Like to See: <br/><br/><ul><li></li><ul><li>Understanding of machine learning concepts</li><li>Experience with development in microservice based architectures</li><li>Understanding of web application development concepts and experience using web frameworks</li><li>Experience with container technologies and orchestration such as Docker, Docker Compose, Kubernetes, etc.</li><li>Experience with continuous integration and software CM processes / tools (Git, GitLab, GitLab CI, Jenkins, JIRA, Confluence)</li><li>AWS experience and/or AWS certification (Developer, DevOps and/or, Architect, etc.)</li><li>Security+ Certification<br/><br/></li></ul></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

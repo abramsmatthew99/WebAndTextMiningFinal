@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Sario Partners is proud to be partnered with a leading consulting firm dedicated to helping organizations harness the power of digital transformation and artificial intelligence (AI) to achieve their business objectives. With a track record of delivering innovative solutions and driving measurable results, the firm are committed to shaping the future of our clients' industries through cutting-edge technology and strategic insights.</p><p><br/></p><p><strong>Job Description:</strong></p><p>As a Consulting Partner specializing in Digital and AI, you will play a pivotal role in shaping the digital strategies of clients and driving the implementation of AI solutions to address complex business challenges. You will lead a dynamic team of consultants, data scientists, and engineers, and collaborate with clients to create innovative, data-driven solutions that enhance their competitive advantage. Your expertise in digital transformation and AI will be instrumental in guiding clients on their journey towards sustainable growth and success.</p><p><br/></p><p><strong>Key Responsibilities:</strong></p><ol><li>Client Relationship Management: Build and maintain strong relationships with key client stakeholders, understanding their unique challenges, and aligning our services to meet their needs.</li><li>Strategic Consultation: Provide strategic guidance to clients on how digital transformation and AI can drive business value, enhance customer experiences, and improve operational efficiency.</li><li>Business Development: Lead business development initiatives, identify new opportunities for growth, and drive sales by cultivating new client partnerships.</li><li>Team Leadership: Manage a team of consultants, data scientists, and engineers, fostering a collaborative and innovative work environment, and providing mentorship and guidance.</li><li>Project Oversight: Oversee the end-to-end delivery of consulting projects, ensuring they are executed on time, within scope, and in line with the highest quality standards.</li><li>AI Solution Design: Lead the design and development of AI solutions, including machine learning models, natural language processing, computer vision, and more, tailored to client needs.</li><li>Data Analytics: Utilize data analytics and insights to drive informed decision-making, helping clients extract actionable intelligence from their data.</li><li>Thought Leadership: Stay up-to-date with the latest trends in digital transformation and AI, and contribute to the company's thought leadership by publishing articles, delivering presentations, and participating in industry events.</li><li>Financial Management: Manage the financial performance of projects, ensuring profitability and efficient resource allocation.</li><li>Risk Management: Identify and mitigate project risks and issues, proactively addressing any challenges that may arise.</li></ol><p><br/></p><p><br/></p><p><strong>Qualifications:</strong></p><ol><li>Bachelor's degree in a related field (e.g., Computer Science, Business, Engineering). An advanced degree (MBA, Ph.D.) is preferred.</li><li>Extensive experience (typically 10+ years) in consulting, digital transformation, and AI, with a proven track record of successful project delivery and business growth.</li><li>Strong leadership and team management skills, with a focus on fostering a collaborative, innovative, and results-driven culture.</li><li>Exceptional communication and presentation skills, both written and verbal.</li><li>In-depth knowledge of AI technologies, data analytics, and their applications in business contexts.</li><li>Business development skills, including a successful history of cultivating and expanding client relationships.</li><li>Strategic thinking and problem-solving abilities, with a focus on delivering value to clients.</li><li>Strong project management skills and the ability to manage multiple projects simultaneously.</li><li>Familiarity with industry-specific regulations and compliance requirements related to digital and AI solutions.</li><li>A commitment to continuous learning and staying up-to-date with industry trends and emerging technologies.</li></ol><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Executive
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

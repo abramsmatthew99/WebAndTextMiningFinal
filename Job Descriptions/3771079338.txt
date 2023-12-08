@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>AI/ML Engineer<br/><br/></strong><strong>Location: Washington, DC (Hybrid)<br/><br/></strong><strong>Required: US Citizen<br/><br/></strong><strong>Node. Digital is an innovative solutions development company committed that combines agile development services with next-generation technologies in Cloud, Mobile, and AI/Machine Learning. We deliver state-of-the-art enterprise solutions to both government and commercial clients. We are looking for talented people to join our efforts to enable digitalization of organizations with RPA and AI/ML. To learn more about our exciting organization, please visit us at </strong><strong>www.node.digital<br/><br/></strong><strong>Role:<br/><br/></strong>The Intelligent Automation / AI-ML Engineer is the architect and guardian of intelligent automation solutions that incorporate AI/ML technologies using tools like UiPath AI Center. They ensure the operational efficiency and continuous refinement of Integrated AI/ML solutions.<br/><br/><strong>Requirements<br/><br/></strong><strong>Responsibility:<br/><br/></strong>Their responsibility spans the design, maintenance, and optimization of intelligent automation solutions including AI Center troubleshooting and resolution of issues that might arise post-implementation. They will also explore options to build automation with embedded artificial intelligence or machine learning in support of continuous improvement, learning and augmented decision-making. They will also focus on building repeatable intelligent solutions/bots for document processing and data cleansing among others.<br/><br/><strong>Recommended Certifications:<br/><br/></strong><ul><li>UiPath RPA Developer Certification</li><li>UiPath AI Center Experience</li><li>General AI/ML Certifications <br/><br/></li></ul><strong>Education/Year of Exp:<br/><br/></strong>Bachelor's degree and a minimum of 5 years of experience in automation engineering roles with a focus on AI/ML integrations.<br/><br/><strong>Cultural Fit:<br/><br/></strong><ul><li>Effective communication skills for technical discussions</li><li>Comfortable with Agile methodologies</li><li>Ability to work remotely</li><li>Alignment with customer's mission and values</li><li>Adaptability to varying organizational structures</li><li>Data Analysis and Data Architecture Skills<br/><br/></li></ul><strong>Citizenship:</strong> US Citizen or Permanent Resident<br/><br/><strong>Location: </strong>Willingness to travel to client sites in DC area and work in a Hybrid environment<br/><br/><strong>Benefits<br/><br/></strong>We are proud to offer competitive compensation and benefits packages to include<br/><br/><ul><li>Medical (100% Coverage for Employee)</li><li>Dental</li><li>Vision</li><li>Basic Life (100% Coverage for Employee)</li><li>Health Saving Account</li><li>401K</li><li>Three weeks of PTO</li><li>10 Paid Holidays</li><li>Pre-Approved Online Training</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

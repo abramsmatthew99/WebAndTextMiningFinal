@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Power I.T.</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Mike Boatright" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQHcxnm2OUxHrA/profile-displayphoto-shrink_100_100/0/1597788082033?e=2147483647&amp;v=beta&amp;t=Bl1f6i59TVGhKosoWuDhvJu-DV95MKKdi3C-xnjcD94" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Mike Boatright
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Sr. Recruiter
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Mike Boatright" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fsrcareermanager&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Actively recruiting for an<strong> ON-SITE Full Stack Software Developer for our client in Overland Park, KS.</strong></p><p><br/></p><p>The successful candidate will be tasked with programming applications within the Development efforts for projects in support of the business sector, being called upon to develop, document and implement technical designs. Will communicate with customers, management, and team.</p><p><br/></p><p>If you enjoy a challenging environment and are passionate about delivering beyond the status quo, our client offers a wealth of opportunities to advance your career. Take a step toward:</p><p>o Making a difference, by helping large service firms transform the way they serve their customers.</p><p>o Gaining financial knowledge that’s valuable in both your work life and your personal life.</p><p>o Advancing your skills through training programs, financial services industry education and professional designation programs.</p><p>o Learning new technologies, as they are introduced.</p><p>o Working for an organization that cares about its community and gives back.</p><p><br/></p><p><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong></p><p>· Ensure accuracy and integrity of the data and applications through analysis, coding, writing clear documentation and problem resolution.</p><p>· Analyze data structures content and ensure performance validity.</p><p>· Design, code, test, and implement data integration solutions using modern techniques and programming languages.</p><p>· Design, code, test, and implements solutions, including reports, dashboards, and notifications in support of the business requirements.</p><p><br/></p><p><strong>Environment:</strong></p><p><strong>C#, .NET Core, Web API's, Web Services, SQL Server</strong></p><p><br/></p><p>Duties and Responsibilities:</p><p>· Designs and develops complex financial information systems.</p><p>· Creates necessary technical and architectural documentation.</p><p>· Write concise and accurate technical instructions throughout program development</p><p><br/></p><p><strong>Qualifications:</strong></p><p>· 4+ years software development experience with C# and ASP.NET.</p><p>· 2 years of deep backend development experience with Microsoft SQL server</p><p><br/></p><p><strong>EDUCATION REQUIRED</strong></p><p>Bachelor’s degree in Computer Science or a related technical field, or equivalent combination of education and experience are required.</p><p><br/></p><p><strong>***Contract and Corp-to-Corp Candidates will not be considered***</strong></p><p><strong>***We are unable to sponsor candidates for this position***</strong></p><p><strong>***Candidates without the Required Minimums will not be considered***</strong></p><p><strong>***Our Vendor List is Closed****</strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Vertiv</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Jeff Feinsod" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQEZ6p_0bNwhKg/profile-displayphoto-shrink_100_100/0/1517735713636?e=2147483647&amp;v=beta&amp;t=wzOl4yfyEGa7qhaFUUDz8M_D537rCoLynWvzGof6gqk" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Jeff Feinsod
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Senior Project Manager
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Jeff Feinsod" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjeff-feinsod-14b8518&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>As a System Engineer at E+I Engineering, you will deliver and commission SCADA (Supervisory Control and Data Acquisition) systems for power infrastructures at our blue-chip clients. You will get extensive on the job training and draw from your knowledge in mechatronics, electrical engineering, computing, networking, troubleshooting, and programming. You will work with Medium and Low voltage switchgear systems that are sustaining vital data centers, hospitals, transportation systems, and other critical facilities. To excel in this role, you should be an effective communicator and be well organized. </p><p><br/></p><p>In this role, you will work with major hardware vendors, representing global entities, producing Generator sets, UPS systems, transformers, and communication systems. You will liaise with development teams, client representatives, and general contractors to deliver and commission SCADA solutions. In the process, you will build relationships with engineers from across America and around the world that will ensure our success, and yours, on future projects. </p><p>An availability and willingness to travel (within North America) is essential. The main responsibilities of the position are at client’s sites, delivering our solutions. </p><p><br/></p><p>Specific responsibilities include:</p><ul><li>Commissioning SCADA: custom PDCS and EPMS solutions at client locations.</li><li>Assisting with the preparation of Functional Design Specifications, Network Diagrams, and Operations Manuals.</li><li>Maintaining project Testing Workbooks.</li><li>Configuring power equipment for communication.</li><li>Defining points lists for system interfaces.</li><li>PLC programming and troubleshooting.</li></ul><p><br/></p><p>Requirements for the role: </p><ul><li>Engineering, Mechatronics, Computer Science, or related Degrees. </li><li>Work effectively in a team environment, as well as independently.</li><li>Ability to juggle multiple projects simultaneously and take responsibility to see through to completion.</li><li>Strong communication and interpersonal skills.</li></ul><p><br/></p><p>Prior experience in the field will give you an advantage, but there is ample on the job training in this position so not a requirement. Any experience with the below is a plus:</p><ul><li>Knowledge of power distribution systems and control systems.</li><li>Basic understanding of electrical systems.</li><li>PLC &amp; SCADA development. </li><li>EcoStruxure, Vijeo, and/or Ignition!</li><li>Industrial and building automation.</li><li>Networking design and troubleshooting.</li><li>Safety protocols in the construction industry.</li></ul><p><br/></p><p>Potential future growth opportunities include:</p><ul><li>Developing detailed software code for automation, control, and energy management data acquisition applications.</li><li>Developing Graphical User Interface (GUI) in EPMS and PDCS systems.</li><li>Administering the management of projects from inception to on-site commissioning, integrated system testing, training, and client hand-over.</li><li>Providing technical support and preventive maintenance.</li></ul><p><br/></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

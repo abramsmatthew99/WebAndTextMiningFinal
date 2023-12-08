@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>ROLE</strong></p><p>We need an experienced Senior Cloud Cybersecurity Analyst</p><p>Apply today!</p><p><br/></p><p><strong>RESPONSIBILITIES</strong></p><ul><li>The Senior Cloud Cybersecurity Analyst will interact directly with senior IT leadership and support the CISO by providing proven and effective cloud cybersecurity solutions.</li><li>Provide senior-level guidance and application of both real-world experiences along with following education-based best practices.</li><li>Work directly with government leads, contractors, and team members to set up and integrate cloud services for users within the agency.</li><li>Develop and implement a comprehensive cloud security strategy aligned with AWS best practices and industry standards.</li><li>Design and maintain a secure AWS architecture to include VPCs, subnets, and security groups.</li><li>You and your team will onfigure and manage AWS Identity and Access Management (IAM) policies to control user and application access to AWS resources.</li><li>The role works with system administrators to implement encryption for data at rest and data in transit using AWS services like KMS, SSL/TLS, and S3 bucket policies.</li><li>Implement continuous security monitoring, log analysis, and alerting using AWS CloudWatch, CloudTrail, and other relevant tools. Ensure AWS environments comply with relevant security standards (e.g., CIS, NIST, GDPR) and conduct regular audits.</li><li><br/></li></ul><p><br/></p><p><strong>BACKGROUND</strong></p><ul><li>Minimum 7 years of experience in cloud security and AWS. More extensive experience may be needed for senior or leadership roles.</li><li>AWS Certified Security</li><li>Other relevant AWS certifications, such as AWS Certified Solutions Architect or AWS Certified DevOps Engineer, are beneficial.</li><li>Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM), or Certified Cloud Security Professional (CCSP) are preferred.</li><li>Deep understanding of AWS services and features related to security, including IAM, KMS, VPC, AWS WAF, AWS Firewall Manager, AWS Security Hub, and more.</li></ul><p><br/></p><p><strong>EDUCATION</strong></p><ul><li>A Bachelor’s degree in computer science, information security, or a related field is preferred but not mandatory. </li></ul><p><br/></p><p><br/></p><p><strong>LOCATION</strong></p><ul><li>Washington D.C. metropolitan area</li></ul><p><br/></p><p><strong>TELEWORK</strong></p><ul><li>100% telework eligibility</li><li>Occasional visits to DC based Client Site</li></ul><p><br/></p><p><strong>CLEARANCE</strong></p><ul><li>DOT Public Trust, U.S. citizenship required since this role supports the U.S. federal government</li></ul><p><br/></p><p><strong>TRAVEL</strong></p><ul><li>No travel required</li></ul><p><br/></p><p><strong>WORK HOURS</strong></p><ul><li>40 hours per week</li><li>8 hours per day</li></ul><p><br/></p><p><strong>EMPLOYMENT CLASSIFICATION</strong></p><ul><li>Employment Classification Eligibility —Exempt</li></ul><p><br/></p><p><strong>RELOCATION</strong></p><ul><li>N/A</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology, Engineering, and Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

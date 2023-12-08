@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Shriners Children's is a family that respects, supports, and values each other. We are engaged in providing excellence in patient care, embracing multi-disciplinary education, and research with global impact. We foster a learning environment that values evidenced based practice, experience, innovation, and critical thinking. Our compassion, integrity, accountability, and resilience defines us as leaders in pediatric specialty care for our children and their families.<br/><br/>Shriners Children's is the premier pediatric burn, orthopaedic, spinal cord injury, cleft lip and palate, and pediatric subspecialties medical center. We have an opportunity for a full time Clinical Analyst.<br/><br/>Provides user support, maintenance, ongoing training, and project management for all aspects of clinical information systems (Cerner and Epic). This includes but is not limited to planning, development, implementation, organizing, and communication of updates and maintenance of all clinical information systems and their interfaces to other systems and devices within the facility. To act as a liaison between clinical, technical, administrative, and home office staff in regards to the clinical information systems. Maintains an advanced understanding of the workflows, processes, and procedures that affect the facility in relation to the clinical information systems.<br/><br/>Shriners Children’s Lexington is an EOE/Drug-Free, Smoke-Free Workplace.<br/><br/>Current full Covid-19 vaccination status required.<br/><br/>Bachelor's Degree in Computer Science preferred.<br/><br/>Three years clinical experience in pediatric orthopedics, burn care, and/or spinal cord injury required.<br/><br/>One year Information systems integration preferred.<br/><br/>One year Project Management preferred.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

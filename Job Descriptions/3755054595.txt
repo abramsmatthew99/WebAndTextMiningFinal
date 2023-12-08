@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position Summary<br/><br/></strong>The Department of Graduate Computer Science and Engineering at Yeshiva University's Katz School of Science and Health invites applications for a tenure-track assistant/associate professor in Artificial Intelligence/Machine Learning, Data Analytics, Cybersecurity, or Computer Science for its graduate programs. This is an opportunity to pursue innovative research and development in these areas in a range of applications and to collaborate with faculty across disciplines, including biotech and health, IoT, mathematics, economics, and more.<br/><br/><strong>Position Responsibilities<br/><br/></strong>Responsibilities include, but are not limited to:<br/><br/><ul><li>Pursue innovative research and grants.</li><li>Collaborate with other researchers across the university in interdisciplinary and applied research.</li><li>Teach and mentor graduate students.</li><li>Lead co-curricular activities.</li><li>Build a thriving STEM graduate school through industry collaborations, community-based initiatives, and university service.<br/><br/></li></ul><strong>Experience &amp; Educational Background<br/><br/></strong><ul><li>Ph.D. in computer science, AI, machine learning or related field. ABD candidates graduating before the fall 2024 semester are eligible.</li><li>Demonstrated expertise in both research and practice.</li><li>Proven teaching ability.</li><li>Strong industry network is a plus.<br/><br/></li></ul><strong>Skills &amp; Competencies<br/><br/></strong><ul><li>Ability to manage complex projects from start to finish, in a fast-paced environment</li><li>Excellent writing and communication skills</li><li>Strong collaboration and teamwork skills<br/><br/></li></ul><strong>Salary Range<br/><br/></strong>$65,000-$175,000<br/><br/><strong>Application Instructions<br/><br/></strong>Applicants must submit the following:<br/><br/><ul><li>Cover letter describing the applicant’s experience related to the required qualifications.</li><li>CV, including publications and grants.</li><li>Research Statement.</li><li>Teaching Statement (a discussion of skills related to remote/online instruction is encouraged).<br/><br/></li></ul>Names and contact information for three references.<br/><br/><strong>About Us<br/><br/></strong>Located in the heart of New York City, Yeshiva University is a US News and World Report Top 100 University, having moved up the rankings in the last three consecutive years to number 67.<br/><br/>The Katz School of Science and Health is Yeshiva University’s flagship school for STEM. We are research scientists, tech builders and patient-centered clinicians working on problems that matter. We focus on industry sectors that are central to the modern economy: Artificial Intelligence, Biotechnology, Cybersecurity, Data Analytics, Digital Media, and Fintech, as well as Occupational Therapy, Physician Assistant Studies and Speech-Language Pathology.<br/><br/>Katz School faculty take an interdisciplinary approach to research and education, fostering the creativity, collaborative thinking and builder mindset required to take on today’s toughest problems. Over the last five years, we have launched ten master’s and doctoral programs with 92% graduation rates, 100% licensure pass rates, 95% post-graduation employment in high-paying careers, and students and alumni from over 30 countries.<br/><br/>The Katz School is a close-knit community with a big network, nestled in the heart of a big city. We are global in reach, with faculty and students from across the United States and around the world—and also deeply embedded in New York City’s rich professional and social fabric. With a vibrant campus life and city at our fingertips, the Katz School is where bold, purpose-driven people come to create, connect and explore. Read about projects at Katz.<br/><br/><strong>Equal Employment Opportunity<br/><br/></strong>Yeshiva University is an equal opportunity employer committed to hiring minorities, women, individuals with disabilities and protected veterans.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

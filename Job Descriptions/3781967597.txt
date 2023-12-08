@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>*Salary range: $70,000 ~ 110,000 annually.*<br/><br/><ul><li>Develop, troubleshoot, and test servers based on the most current x86 architecture to meet customer requirements. </li><li>Work closely with the sales team on quotations and solution details. Partner with the Business Development or Sales and own the technical conversation, solution development, and solution proposals as part of the customer sales engagement. Identify customers’ needs, address technical questions and objections, and provide insight into industry trends and best practices. </li><li>Conduct research and technical investigations to ensure products meet design specifications and requirements. </li><li>Conduct research and technical investigations about deep learning, high-performance computing, and storage to ensure products meet design specifications and requirements. </li><li>Create and maintain technical documentation, including user manuals and technical specifications</li><li>Stay up-to-date with emerging technologies and industry trends to ensure AMAX’s solutions are competitive. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Electrical Engineering, or a related field. </li><li>Experience with serve products, CPU/GPU, storage, and networking. </li><li>Knowledge of the latest x86 server architectures. </li><li>Strong analytical and problem-solving skills. </li><li>Excellent written and verbal communication skills. </li><li>Ability to work independently and collaboratively in a team environment. </li><li>Experience in the server industry. </li><li>Preferred Qualifications: Linux skill and scripting language ability. <br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Medical Insurance</li><li>Dental Insurance</li><li>Vision Insurance</li><li>401(k)</li><li>Flexible spending account</li><li>Commuter benefits</li><li>Disability insurance<br/><br/></li></ul>We also have a perfect location for all types of commuters: AMAX is located right between I-680 and I-880. Warm Springs/South Fremont Bart station and bus stops are within a 10-minute walking distance. 5 more grocery stores, 6+ coffee/tea places, and numerous restaurants within 1 mile. Feel free to try the delicious fusions or grab your daily groceries after work!<br/><br/>The Team<br/><br/>We wouldn’t be successful without our passionate team of dedicated people. We are always searching for talented individuals to join the team. As a next-gen solution provider at the heart of Silicon Valley, AMAX employees benefit from a collaborative, fast-paced work environment that features access to the most cutting-edge technology in the IT world. AMAX offers an array of job positions for ambitious minds seeking the opportunity for intellectual and career growth.<br/><br/>For more information about AMAX and our history of award-winning leadership, see our accolades here.<br/><br/>Our Commitment<br/><br/>AMAX is an equal-opportunity employer. We embrace diversity in our employee population. We provide equal opportunity to all qualified applicants for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

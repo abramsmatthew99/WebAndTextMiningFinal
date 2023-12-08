@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>ABOUT THE COMPANY:<br/><br/></strong>Our client is a leading provider of maritime domain awareness, maritime security, and fisheries monitoring systems to the government sector. Since 1998, they have pushed the limits of innovation, mitigating growing threats to ships, supply chains, cargo, territorial waters and, most importantly, safety of lives at sea and beyond. Today, they continue to develop and implement pioneering intelligence technologies to protect customer vessels, people, maritime domain, and reputation.<br/><br/><strong>POSITION DESCRIPTION:<br/><br/></strong>We are looking for mid level software developers, passionate about building robust modern applications. You will be working in a growing team on green-field projects that owns end-to-end delivery of the entire solution. The perfect fit will work within an Agile environment and actively participate in story planning &amp; daily standups. You will play a key role in collaborative project teams and assist with designing and developing mission-critical, enterprise-scale business systems.<br/><br/><strong>RESPONSIBILITIES:<br/><br/></strong><ul><li>Design, code, and test software modifications for assigned applications to address changes or fixes as necessary for problem resolution</li><li>Review, analyze, and modify programming systems, including encoding, testing, debugging, and installing for a large-scale system</li><li>Independently prepare estimates of effort to develop and execute approved application changes in primary applications, prioritize work assignments, and facilitate peer review of work products</li><li>Analyze user requirements to define business objectives</li><li>Envisioning system features and functionality</li><li>Define application objectives and functionality</li><li>Ensure application designs conform with business goals</li><li>Develop technical designs for application development</li><li>Maintain shared responsibility for documentation updates to configuration records and the related configuration management tool to track application changes</li><li>Transforming requirements into stipulations</li><li>Prepare and produce releases of software components</li><li>Support continuous improvement, investigating alternatives and technologies, and presenting for architectural review<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>5+ years of direct design and programming experience with an OOP Language like Java/Python/Golang/Rust etc</li><li>Sound knowledge of Object-Oriented Programming (OOP) Patterns and Concepts</li><li>Experience with messaging and event streaming systems and frameworks (such as JMS, Kafka, etc.)</li><li>Basic Understanding of the concepts of MVC (Model-View-Controller) Pattern, JDBC (Java Database Connectivity), and RESTful web services</li><li>Understanding basic design principles behind a scalable application</li><li>Skilled at creating database schemas that characterize and support business processes</li><li>Basic knowledge of JVM (Java Virtual Machine), its drawbacks, weaknesses, and workarounds</li><li>In-depth knowledge of code versioning tools, for instance, Git</li><li>Understanding of build automation tools like Ant, Maven, Gradle, etc</li><li>Experience with continuous integration tools<br/><br/></li></ul><strong>EDUCATION/CERTIFICATIONS:<br/><br/></strong><ul><li>Bachelor’s degree in computer science, computer engineering, software engineering or equivalent<br/><br/></li></ul><strong>DESIRED SKILLS (Not Required):<br/><br/></strong><ul><li>Experience working with DHS or DoD</li><li>Security Clearance</li><li>Experience with AWS cloud<br/><br/></li></ul><strong>TRAVEL REQUIRED:<br/><br/></strong><ul><li>Ability for up to 10% travel both domestic and international.<br/><br/></li></ul><strong>BENEFITS:<br/><br/></strong><ul><li>Medical, Vision, Dental, Disability insurance for employees and dependents (100% covered by company)</li><li>Life insurance, company funded to 2x salary</li><li>20 days annual leave (can buy or sell more days)</li><li>5 wellness days</li><li>Up to10% Annual bonus available</li><li>Up to 5% 401K matching</li><li>Gym membership subsidy</li><li>Volunteer Day PTO</li><li>Refer-a-friend recruitment bonus<br/><br/></li></ul>Powered by JazzHR<br/><br/>2HHfu3eCo2
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

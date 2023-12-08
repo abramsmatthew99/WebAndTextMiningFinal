@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong><strong>This role is located at our dynamic Santa Clara California headquarters campus. <br/><br/></strong><strong>Our Mission<br/><br/></strong>At Palo Alto Networks® everything starts and ends with our mission:<br/><br/>Being the cybersecurity partner of choice, protecting our digital way of life.<br/><br/>Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.<br/><br/><strong>Our Approach to Work<br/><br/></strong>We lead with flexibility and choice in all of our people programs. We have disrupted the traditional view that all employees have the same needs and wants. We offer personalization and offer our employees the opportunity to choose what works best for them as often as possible - from your wellbeing support to your growth and development, and beyond!<br/><br/>At Palo Alto Networks, we believe in the power of collaboration and value in-person interactions. This is why our employees generally work from the office three days per week, leaving two days for choice and flexibility to work where you feel most effective. This setup fosters casual conversations, problem-solving, and trusted relationships. While details may evolve, our goal is to create an environment where innovation thrives, with office-based teams coming together three days a week to collaborate and thrive, together!<br/><br/><strong>Job Description<br/><br/></strong><strong>Your Career<br/><br/></strong>With Cloud Identity Engine, we’re building the foundations of the next inflection point in the security industry by combining our deep expertise in security with the state of the art in large-scale infrastructure for data processing.<br/><br/>We are seeking a Staff Software Engineer to design, develop and deliver next-generation technologies within our Cloud Identity Engine team that bridges cloud-based data processing and security disciplines to solve real world problems.<br/><br/>We need passionate engineers who love to code and build great products. Engineers who bring new ideas in all facets of software development. We are looking for leaders who take ownership of their areas of focus and who are driven to solve problems at every level. Collaboration and teamwork are at the heart of our culture and we need engineers who can communicate at a high level and work well with others towards achieving a common goal.<br/><br/>This is a unique opportunity to help build the products and practices that will support our growth over the next decade. If you see the potential of how incredible people products can transform a business, this is the role for you. If you have an entrepreneurial spirit, know how to deliver, are deeply technical, highly innovative and long for the opportunity to build pioneering solutions to challenging problems, we want to talk to you.<br/><br/><strong>Your Impact<br/><br/></strong><ul><li>Be an integral member of our Cloud Identity Engine team responsible for software design and development</li><li>Collaborate with production management and UX to draft functional specifications addressing customer’s challenge</li><li>Work with different development and quality assurances groups to achieve the best quality</li><li>Suggest and implement improvements to the development process<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Your Experience<br/><br/></strong><ul><li>At least 3 years of experience in software development, preferably with Python</li><li>Fast learner and eager to absorb new emerging technologies</li><li>Able to troubleshoot integration and performance issues</li><li>Methodical in problem-solving with Can-Do attitude</li><li>High energy and the ability to work in a fast-paced environment</li><li>Working experience with MongoDB, Redis and RabbitMQ is a plus</li><li>Experience on Cloud platforms such as GCP (GKE) or AWS (EKS) with HELM charts and service mesh is a plus</li><li>Experience with OAuth, SAML/OIDC or SCIM is a big plus<br/><br/></li></ul>Education<br/><br/><ul><li>BS/MS in Computer Science/Computer Engineering/Electrical Engineering or equivalent military experience required<br/><br/></li></ul><strong>Additional Information<br/><br/></strong><strong>The Team<br/><br/></strong>You’ll be working in a top tier cybersecurity company and collaborating with some of the brightest minds in technology. Our team doesn’t shy away from tackling big problems. You will help build and support the tools and infrastructure enabling our developers to release the products that our customers depend on to defend against cyberattacks. Joining this dynamic and fast-paced team will give you the opportunity and thrill of resolving the technical and process gaps that hold back productivity.<br/><br/><strong>Our Commitment<br/><br/></strong>We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.<br/><br/>We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.<br/><br/>Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.<br/><br/>All your information will be kept confidential according to EEO guidelines.<br/><br/>The compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/com-missioned roles) is expected to be $150,000/yr. The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.<br/><br/>Is role eligible for Immigration Sponsorship?: Yes
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance, Product Management, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

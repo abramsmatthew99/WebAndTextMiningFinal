@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Fidelity TalentSource is your destination for discovering your next temporary role at Fidelity Investments! We are currently sourcing for a Front-End Full Stack Engineer to work at Fidelity Investments in Westlake, TX; Durham, NC; or Denver, CO.<br/><br/>The Fidelity Institutional Technology group at Fidelity Investments has an outstanding opportunity for a Front-End Full Stack Engineer who is a self-starter with Agile/Scrum based methodology experience working with modern web frameworks and tools including Angular, CSS3 and Spring Boot. You will be applying your strong development skills to design, develop, test, deploy, maintain and improve FBT customer-facing software solutions and ensure we are building the right product the right way.<br/><br/><strong>The Expertise And Skills You Bring<br/><br/></strong><ul><li>A Bachelor’s or master’s degree in Computer Science, Software engineering or equivalent work experience </li><li>Experience with crafting and building user experiences and web service applications while incorporating test automation frameworks </li><li>A solid foundation in computer science, with competencies in data structures, algorithms, and software design </li><li>Strong working knowledge of Angular, JavaSript, Java, HTML5, CSS3, XML, and UNIX </li><li>Strong experience with web services (JSON, XML, REST, SOAP, etc.) and Spring Boot </li><li>Experience in AWS, CI/CD, ES6, React. </li><li>You thrive in fast-paced, ambiguous environments with high risks and high rewards </li><li>Work as multi-stack engineer with knowledge in a breadth of development technologies and test automation frameworks (Java/J2EE, Junit, Ruby, Cucumber, Selenium, Serenity, JavaScript/Angular, Karma, Spring, Web Services, REST, HTTP) </li><li>In a perfect world, you have working experience with BDD, the ability to collaborate, and familiarity with relational databases and some scripting language (Ruby, python, shell, etc.), and knowledge of equities market and trading of stock, options, and mutual funds </li><li>You understand technical designs at the application level, define strategies, and work closely with fellow developers. </li><li>You can describe problems and recommend solutions to project leaders </li><li>You have great communication skills, are a standout colleague, and have an interest in learning new technologies. </li><li>Owns the outcome by taking personal accountability for delivering strong results </li><li>Crafting, developing, and implementing web applications in a dynamic financial services environment </li><li>Defining and implementing test strategies and scenarios with business-driven development approach. </li><li>Coordinating functional/technical group discussions with analysts and developers under moderate supervision </li><li>Developing concise and clear technical design documents based on analysis of business requirements </li><li>Working and collaborating with new technologies to solve test challenges and process improvements <br/><br/><br/></li></ul><strong>The Team<br/><br/></strong>Our web applications are used by Registered Investment Advisors and Correspondents to deliver comprehensive brokerage solutions to our client's institutional customers, including account opening, trading solutions, cashiering, reports and alerts, market data and research, modeling and rebalancing, and risk management and compliance tools.<br/><br/><strong>Covid work policy<br/><br/></strong>Safety is our top priority. Once we can be together in person with fewer safety measures, this role will follow our dynamic working approach. You’ll be spending some of your time onsite depending on the nature and needs of your role.<br/><br/><strong>Dynamic working – post pandemic<br/><br/></strong>Our aim is to combine the best of working offsite with coming together in person. For most teams this means a consistent balance of working from home and office that supports the needs of your role, experience level, and working style.<br/><br/>Your success and growth is important to us, so you’ll want to enjoy the benefits of coming together in person – face to face learning and training, quality time with your manager and teammates, building your career network, making friends, and taking full advantage of cultural and social experiences Fidelity provides for you.<br/><br/><strong>Company Overview<br/><br/></strong>Fidelity TalentSource is the in-house temporary staffing provider for Fidelity Investments, one of the largest and most diversified global financial services firms in the industry. We welcome individuals from all backgrounds, including technology and customer service, to fill assignments across Fidelity’s U.S.-based regional and investor center locations. If you would like to experience Fidelity’s supportive and collaborative culture while expanding your skill set and developing your professional network, consider a role with Fidelity TalentSource. Apply today at FTSJobs.com.<br/><br/><em>We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.<br/><br/>Fidelity TalentSource will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, please contact our HR team at HR@ ftsjobs.com.<br/><br/></em><strong>Information About Fidelity Investments<br/><br/></strong>At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: <em>to strengthen the financial well-being of our clients</em>. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money. For information about working at Fidelity, visit FidelityCareers.com.<br/><br/>Fidelity Investments and Fidelity TalentSource are equal opportunity employers.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Temporary
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance, Information Technology, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Information Services, and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

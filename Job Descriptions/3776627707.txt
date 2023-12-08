@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Principal Duties and Responsibilities:</strong></p><ul><li>Research and Exploration: Help conduct research on emerging technologies, trends, and industry developments to understand their potential applications and implications within the organization.</li><li>Coding and Development: Assist in coding and development tasks, working with senior engineers to implement innovative solutions using emerging technologies.</li><li>Testing and Quality Assurance: Support the testing and quality assurance processes to ensure that developed solutions meet desired requirements and functionality.</li><li>Documentation: Contribute to documenting project progress, codebase, technical specifications, and user guides to facilitate knowledge sharing within the team and organization.</li><li>Collaborative Problem Solving: Engage in collaborative problem-solving sessions, brainstorming and contributing ideas for technical challenges and exploring innovative approaches.</li><li>Learning and Skill Development: Stay updated with emerging technologies and industry trends through continuous learning, training, and self-study.</li><li>Communication and Reporting: Effectively communicate project status, challenges, and achievements to the team and relevant stakeholders, promoting transparency and collaboration.</li><li>Adaptation and Flexibility: Adapt quickly to changing requirements, priorities, and emerging technologies, embracing a flexible and agile mindset.</li></ul><p><br/></p><p><strong>Education and Experience Requirements:</strong></p><p><strong> </strong></p><ul><li>Bachelor's degree in computer science, information technology, engineering, or a related technical discipline.</li><li>1-3 years of software / full-stack development experience.</li><li>1+ years of coding experience in React.js and Node.js.</li><li>1+ years of experience with Cloud technologies.</li><li>Previous experience or exposure to emerging technologies, such as artificial intelligence, machine learning, blockchain, OpenAI, AR/VR, or Internet of Things (IoT), is a plus.</li><li>Strong understanding of fundamental software development concepts, including data structures, algorithms, and object-oriented programming.</li><li>Proficiency in one or more programming languages commonly used in software development, such as Java, Scala, or Go.</li><li>Proficiency in one or more programming languages in emerging technology development, such as Solidity, Python, or R</li><li>Knowledge of cloud platforms and services that support emerging technologies, such as blockchain platforms, AI/ML frameworks, or IoT platforms, is a plus.</li><li>Knowledge of modern web development technologies, including HTML5, CSS3, and JavaScript frameworks (e.g., React, Angular, or Vue.js).</li><li>Familiarity with back-end development frameworks and technologies, such as Node.js, Express.js, Django, or Ruby on Rails.</li><li>Strong problem-solving and analytical skills, with an ability to think creatively to provide innovative solutions.</li><li>Experience in designing, consuming, and building RESTful APIs.</li><li>Experience working with testing frameworks like Jest, Mocha, etc.</li><li>Experience with databases (SQL and NoSQL) and ability to design efficient database schemas and write complex queries.</li><li>Experience with Agile software development process with a strong emphasis on test driven development.</li><li>Experience with end-to-end instrumentation, monitoring, and incident management.</li><li>Expertise in GitHub branching and release best practices.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

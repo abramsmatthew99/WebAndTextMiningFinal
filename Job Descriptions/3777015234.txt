@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>PSYCHE MAGNETOMETER INVESTIGATIONS DATA ANALYST I</strong>, Earth, Atmospheric, and Planetary Sciences (EAPS) (part-time, 50%), to process data produced by the Magnetometer on the Psyche mission under the direction of the magnetometry investigation lead, Professor Benjamin Weiss . The Psyche mission is NASA’s recently launched Discovery mission to explore the largest metal-rich body in the solar system, asteroid (16) Psyche .<br/><br/>Job Requirements<br/><br/>REQUIRED : B.S. or B.A., preferably in geoscience, planetary science, physics, computer science or closely related field; and one year of relevant data analysis experience. PREFERRED : experience coding in Python, MATLAB and UNIX is preferred. <strong>Job #23517-6<br/><br/></strong>This is a part time (50% effort) position. It will have a duration of least one year with the possibility of extension for multiple years.<br/><br/>Queries about the position may be addressed to Prof. Benjamin Weiss at bpweiss@mit.edu.<br/><br/>Application material should include, in a single document submitted in the resume field, a cover letter, curriculum vitae, and names and contact information for three referees.<br/><br/>12/7/23
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

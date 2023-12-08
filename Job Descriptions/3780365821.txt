@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        On any given day at Disney Entertainment &amp; ESPN Technology, we’re reimagining ways to create magical viewing experiences for the world’s most beloved stories while also transforming Disney’s media business for the future. Whether that’s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney’s unmatched entertainment and sports content, every day is a moment to make a difference to partners and to hundreds of millions of people around the world.<br/><br/><br/><ul><li>Building the future of Disney’s media business: DE&amp;E Technologists are designing and building the infrastructure that will power Disney’s media, advertising, and distribution businesses for years to come.</li><li>Reach &amp; Scale: The products and platforms this group builds and operates delight millions of consumers every minute of every day – from Disney+ and Hulu, to ABC News and Entertainment, to ESPN and ESPN+, and much more.</li><li>Innovation: We develop and execute groundbreaking products and techniques that shape industry norms and enhance how audiences experience sports, entertainment &amp; news.<br/><br/><br/></li></ul>Engineering Services designs, builds, and sustains technology that powers DE&amp;E Technology’s worldwide content production and distribution platforms. In doing so, they contribute to a series of cross-functional services and technologies, including Quality Assurance, Data Analytics, Software Development, Broadcast Infrastructure, and Networking &amp; Security.<br/><br/>We strive to be a diverse team, passionate about great technology applied creatively to solve complex business problems. We are a motivated team that is committed to lifelong learning and improving, both in and out of the office. We strive to be flexible and adaptable to change both in how we execute projects and in the technologies we use to deliver our solutions. We care about the details because every pixel, every line of code, and every user interaction with our products determines whether we are delivering on our commitment to producing the very best products possible. You’ll be joining a talented team that works interdependently toward aggressive goals to deliver technically sound solutions. We work to ensure that we share both accountability and credit as a team. We often include our users as part of our team and we work to connect with them on a human level, understanding their world, so we can deliver software that they love to use.<br/><br/>The DE&amp;E Technology team in Santa Monica is seeking a Sr. Software Development in Test Engineer to join our Engineering Services team to build test automation and processes to ensure the quality of our advertising systems. When our systems work properly, they are able to reliably deliver relevant ads to all of our viewers; driving higher revenue for our business and helping our customers to discover brands and products that are relevant to their interests. Defects in our ad systems can negatively impact revenue and deliver advertisements that detract from the viewer experience due to irrelevance, repetition and other factors. This is a unique opportunity to join an excellent team and have a meaningful impact on the QE and automation process and culture, as well as the products we release. As a result, those most likely to excel in this role are independent, creative, and able to operate effectively in ambiguous circumstances. If you are interested in a testing role with a heavy emphasis on automated testing where the results of your testing will have significant impact on the business and be highly visible to company leadership, then this might be the right opportunity for you!<br/><br/>Responsibilities:<br/><br/><br/><ul><li>Work closely with Software Engineers to understand the complex advertising ecosystem in place at DE&amp;E Technology</li><li>Develop automated test frameworks and suites on UI, API and Integration levels of testing using python or other OO language</li><li>Participate in design discussions for our platform to help evolve the platform in a way that enables richer testing scenarios that simplify defect detection and prevention</li><li>Assist with triage, diagnosis, and resolution of issues discovered across teams.</li><li>Contribute to end-to-end acceptance tests &amp; drive the conversion of manual tests to automated whenever possible</li><li>Where necessary, develop and execute manual test cases to detect issues that cannot be detected through automated means</li><li>Focus on major areas of work, typically 20% or more of role</li><li>Part of product teams in building architectures which are robust, fault-tolerant, and cloud- native. Builds solutions for problems of sizeable scope and complexity that have been successfully deployed to customers/users. Influences and drives software engineering best practices within the team</li><li>Technically lead and deliver multiple projects utilizing an Agile methodology while reviewing team members code. Participates in developing technical and/or business approaches; and new/enhanced technical tools.</li><li>Owns the design of software programs or systems within the team, and within the organization. Writes codes that establishes and enhances frameworks. Reviews code for the design, testability and clear usability. Builds solutions that scale and perform. Identifies opportunities to improve the system/product/services with each iteration.<br/><br/><br/></li></ul><strong>Basic Qualifications:<br/><br/><br/></strong><ul><li>Minimum of 5 years of hands-on software test development experience, including both functional and non-functional test development</li><li>Passion around driving best practices in the testing space &amp; strong desire for establishing and improving product quality</li><li>Proficiency with Python</li><li>Knowledge of software engineering practices and agile approaches</li><li>Experience building or improving test automation frameworks</li><li>Proficiency CICD integration and pipeline development in Jenkins, Spinnaker or other similar tools.</li><li>Proficiency in UI automation ( Selenium, Robot, Watir)</li><li>Experience in Gherkin ( BDD /TDD )</li><li>B.S. in Computer Science (or equivalent degree or work experience)<br/><br/><br/></li></ul>The hiring range for this position in California is $132,700 to $ 182,500 per year and in Washington and New York is $139,040 to $191,200 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

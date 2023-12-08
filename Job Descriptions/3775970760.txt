@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title/Position: JavaScript developer <br/><br/></strong><strong> Type: Contract to Direct (Min 6 Months+)<br/><br/></strong><strong> Location: Mechanicsburg, PA<br/><br/></strong><ul><li> Please indicate that the candidate can be onsite in Mechanicsburg, PA 2-3 times per week. In addition, please include their conversion salary. <br/><br/></li></ul><strong> Work Schedule: Standard, Hybrid<br/><br/></strong><strong> # of positions: 1<br/><br/></strong><strong> Program assignment supports: Software Factory<br/><br/></strong><strong> US Citizenship Requirements: Yes<br/><br/></strong><strong> Clearance Requirements:</strong> **<strong> <em> Not required at time of hire but have the ability to successfully obtain and maintain a DoD Secret Security Clearance</em> </strong>**<br/><br/><strong>Work Environment Position Overview<br/><br/></strong><ul><li> Collaborative small agile team onsite 2+ days per week.</li><li> Support developing application to support needs.</li><li> 2 to 8 team members dependent on project and team assignments.</li><li> Currently our Software Factory is supporting multiple domains and sizes of .net development projects.</li><li> Independently grow both technical and domain knowledge as career progresses.</li><li> Challenges: Learning the business domain on some of our larger projects enough to design, build, and test quality software.</li><li> Workday: Team level scrum meetings, assigned tasks, planning/review meetings, when scheduled.</li><li> Any growth &amp; development opportunities: Yes, with multiple projects/teams, growth should exist in both technical areas and responsibility on larger projects.<br/><br/></li></ul><strong> <em> Our client is seeking an experienced JavaScript developer who is proficient with React.js. The primary focus of the selected candidate would be developing user interface components including implementation and execution that follows well-known React.js workflows. The selected candidate will ensure these components and the overall application are robust and easy to manage. Commitment to collaborative problem solving, sophisticated design, and quality products is important.</em> <br/><br/></strong><strong>Primary Responsibilities<br/><br/></strong><ul><li> Develop user-facing features using React.js</li><li> Develop modern, highly responsive web-based UI</li><li> Build reusable components and front-end libraries for future use</li><li> Translate designs into high-quality code</li><li> Optimize components for maximum performance across a vast array of web-capable devices and browsers</li><li> Coordinate with various teams working on distinct layers and processes</li><li> Have knowledge of accessibility/UX best practices and Section 508 compliance, and/or WCAG 2.0 standards</li><li> Administer Developer training.</li><li> Conduct Code Reviews<br/><br/></li></ul><strong> <em> Basic Qualifications</em> <br/><br/></strong><ul><li> Must be able to obtain and maintain a TS/SCI Clearance. </li><li> Must have 2+ years JAVA experience. </li><li> Bachelor's Degree in Software Engineering, Computer Science, or related field and 4-8 years of software engineering experience.</li><li> 3+ years of experience with React.js</li><li> In-depth knowledge of JavaScript, CSS, HTML, and front-end languages.</li><li> Experience with SASS</li><li> Familiarity with RESTful web services, Service workers</li><li> Hands-on experience with response frameworks such as Bootstrap</li><li> Knowledge of modern dev tools Webpack, Babel, NPM, Enzyme</li><li> Experience with UI design</li><li> Knowledge of performance testing frameworks including Enzyme and Jest</li><li> Experience with browser-based debugging and performance testing software</li><li> Experience with GIT</li><li> Strong, self-motivated desire to learn new programming languages, tools, frameworks, and techniques.</li><li> Ability to complete tasking independently with minimal direct supervision.</li><li> Ability to work and collaborate effectively within a multi-disciplined develop team.</li><li> Must be a US citizen with the ability to obtain a DoD Secret Security Clearance. <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> Experience with Kendo UI for React</li><li> Experience with Progressive Web Apps (PWA)</li><li> Familiar with modern browser APIs (Permission, Promise, Offline Storage, Notifications, etc)</li><li> Knowledge of modern authorization mechanisms, such as JSON Web Token</li><li> Experience with Large-scale application development</li><li> Good project management skills</li><li> Active DoD security clearance, Preferred/Plus<br/><br/></li></ul><strong> MUST PROVIDE THE FOLLOWING ON EACH CANDIDATE SUBMITTAL<br/><br/></strong><strong> All candidate resumes must have the below on top of their resumes: <br/><br/></strong><ul><li> Location </li><li> Willing to come onsite 2-3x/week </li><li> Conversion salary</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development, Computers and Electronics Manufacturing, and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

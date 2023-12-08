@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Top Prospect Group</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Vanessa Rahanaev" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQG8pGnVGkAxXg/profile-displayphoto-shrink_100_100/0/1629832033010?e=2147483647&amp;v=beta&amp;t=R1i8w8QJVHup63TsNLIa9aup4A9FyocXnyVMa0XLU4Y" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Vanessa Rahanaev
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Technical Recruiter
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Vanessa Rahanaev" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fvanessa-rahanaev-003013bb&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Are you passionate about IT and helping others? Top Prospect Group is seeking a personable Helpdesk Technician for a long-term contract assignment. This opportunity offers you the benefit of Full-Time with the flexibility of being a consultant as well as being a part of an engaging company!</strong></p><p><br/></p><p><strong>Long term contract</strong></p><p><strong>Level 1-2 Support</strong></p><p><strong>Windows, Office 365</strong></p><p><strong>$19-22/hr</strong></p><p><strong>Hybrid</strong></p><p><br/></p><p>The Helpdesk Support Technician will provide exceptional, high-quality, professional desktop, laptop and office application support to our user community, including executive-level customers. You will work in conjunction with a team of Engineers in a production support role.</p><p>The successful candidate should have a strong interest in being part of a very special IT department that is focused on delivering an exceptional customer experience to staff. You should be a highly motivated and enthusiastic team player with excellent problem solving, organizational, writing and communication skills. In addition, you should be a self-starter and be effective working in a fast-paced environment as well as have a comfort level communicating with various levels of the organization including third-party vendors.</p><p>Preferred Criteria</p><ul><li>Bachelor Degree preferred in Computer Science or related</li><li>3 + Years Experience using Microsoft Windows,</li><li>Apple macOS a plus</li><li>Mobile Device experience</li><li>Advanced knowledge of Windows Operating System (Windows 7 &amp; 10)</li><li>Windows Security Management</li><li>Experience with O365</li><li>Familiarity troubleshooting group policy issues</li><li>Strong knowledge of standard collaboration and productivity tools (ie MS Office, Sharepoint, Outlook)</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

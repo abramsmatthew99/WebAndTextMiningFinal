@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Job Title: Software QA Analyst</p><p>Duration: Direct Hire</p><p>Location: Dallas, TX (Tuesday, Wednesday and Thursdays on-site)</p><p><br/></p><p>You will play a pivotal role in ensuring the quality and reliability of the company's software products. The role will assist in defining and developing in-house quality procedures, standards, best practices, metrics, and new QA Automation tools to ensure quality goals are met. The role will work with the business and project teams to identify appropriate test coverage as necessary to support the delivery of the application. The Software QA Analyst should be knowledgeable about automated software validation and have the drive to continuously improve the software quality while reducing the overhead of software validation.</p><p><br/></p><p>What you will do:</p><ul><li>Develop automated test scripts and comprehensive test plans that leave no stone unturned in evaluating software functionality</li><li>Execute test scripts with precision, meticulously assessing software performance, stability, and alignment with requirements</li><li>Skillfully analyze test outcomes, swiftly identifying and accurately documenting any issues or defects</li><li>Elevate testing capabilities by transitioning manual test cases into efficient, automated scripts, enhancing coverage and efficiency</li><li>Seamlessly collaborate with the development team, adeptly bridging the gap between requirements and implementation</li><li>Foster close collaboration with software engineers, seamlessly integrating automated testing tools and harnesses into the development pipeline</li><li>Exhibit an advanced mastery of software testing, designing intricate test cases that mirror real-world usage scenarios</li><li>Craft comprehensive system-level test plans that intricately align with project requirements</li><li>Collaborate with Project Managers and multifunctional teams, demonstrating adeptness at navigating complex collaborations</li><li>Engage with business stakeholders, deeply understanding their needs to ensure the software aligns perfectly with their requirements</li><li>Innovate by creating both manual and automated test frameworks, complete with the requisite tooling</li><li>Establish comprehensive metrics encompassing diverse testing scenarios: functional, regression, integration, and performance</li><li>Take charge of risk management and issue resolution within the testing domain, safeguarding project deliverables</li><li>Communicate testing outcomes persuasively to all relevant stakeholders, meticulously overseeing their resolution</li><li>Play an active role in driving overarching initiatives aimed at refining the SDLC and fortifying Agile practices across the organization</li><li>Develop domain knowledge of Fay's business to include an understanding of short-term goals and long-term strategies for the organization</li><li>Develop productive relationships across the organization</li><li>Ensure compliance with policies, processes, and practices</li><li>Maintain a current working knowledge of federal, state, and local regulatory requirements; ensure compliance with regulatory requirements</li><li>Role model ethical standards, professionalism, and code of conduct</li><li>Ensure demonstrated behaviors align with Values and Operating Principles</li><li>Perform other duties and responsibilities as assigned</li></ul><p>What you will bring:</p><ul><li>Bachelor's degree in Computer Science, Software Engineering, or a related field</li><li>8+ years' of experience in software validation, including all aspects of the Software Development Life Cycle and Agile or Extreme Programming environments</li><li>5+ years' of experience creating, maintaining, and executing automated test scripts using professional quality custom-developed or industry standard tools.</li><li>4+ years' of experience in automation testing tools like Selenium, JUnit, TestNG, or similar</li><li>4+ years' of experience with MySQL, Oracle, or Microsoft SQL Server and related database and query analysis tools</li><li>Knowledge of QA processes, methodologies, and industry best practices</li><li>Understanding of SDLC management practices and methodologies, with a specific focus on early defect identification.</li><li>Understanding and experience validating web- and non-web-based multi-tiered Microsoft or Java applications.</li><li>Understanding and experience in Coding Language: C#/Python along with TestNG, TDD, BDD, Hybrid Frameworks, Selenium, Cypress, JMeter, LoadRunner tools, etc</li><li>Strong skills in Microsoft and Linux based Operating Systems</li><li>Strong verbal and written communication skills</li><li>Strong listening skills with the ability to facilitate meetings and effectively lead discussions</li><li>Strong interpersonal skills</li><li>Strong analytical skills and problem-solving abilities</li><li>Ability to explain decisions and the reasons why to promote understanding and buy-in with others</li><li>Solid decision-making abilities coupled with sound judgment</li><li>Strong organizational and time management skills</li><li>Ability to effectively prioritize in a fast-paced, dynamic environment</li><li>Client-focused with strong execution skills</li><li>Strong attention to detail; strong compliance orientation; high quality of work product</li><li>Flexible, open to change, ability to learn new things quickly</li><li>Collaborative work style; team-oriented</li><li>Compliance orientation</li><li>Self-directed; comfortable working with ambiguity and uncertainty</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

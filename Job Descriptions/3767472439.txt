@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We value individuals with diverse experiences, backgrounds, and perspectives, creating a dynamic and inclusive workplace. Embracing this diversity, we encourage applicants to consider joining our team even if they don't meet every requirement listed. While some roles may have designated office locations, many offer a flexible blend of remote and in-person work.<br/><br/>Position: Software Engineer<br/><br/>As a Software Engineer at our company, you will play a pivotal role as a key team member, contributing significantly to the planning and execution of mid-scale projects from inception to completion. Your responsibilities include validating requirements, conducting analysis, designing, programming, testing, and providing ongoing support for assigned projects to facilitate application changes.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Act as a key team member, making substantial technical contributions to mid-scale projects.<br/><br/>Validate requirements and perform analysis, design, programming, testing, documentation, and support for assigned projects.<br/><br/>Develop and enhance the platform through new code, collaborating with users, and studying systems flow, data usage, and work processes.<br/><br/>Ensure compliance with coding standards and development procedures.<br/><br/>Identify and suggest improvements to code, processes, and standards.<br/><br/>Build deep domain expertise in global infrastructure deployment technology and processes.<br/><br/>Mentor and support team members with technical expertise and guidance.<br/><br/>Respond to questions, research issues, and coordinate issue resolution.<br/><br/>Provide technical support for production applications, including addressing high-impact issues.<br/><br/>Acquire and utilize strong technical and application knowledge to introduce and forecast the impact of new software design patterns, code concepts, and emerging technologies.<br/><br/>Lead a project within the team and delegate tasks to team members.<br/><br/><strong>Preferred Strengths<br/><br/></strong>Experience with cloud-based development, particularly Microsoft Azure, is a plus.<br/><br/>Experience implementing business-critical database applications, microservices, and/or long-running backend data processing applications.<br/><br/>Proficiency in SQL/relational databases and Bitbucket, including building and release definitions within a CI and CD environment.<br/><br/><strong>Requirements, Skills, And Knowledge<br/><br/></strong>BS in Computer Science, Engineering, or equivalent industry experience.<br/><br/>5+ years of software engineering experience building and releasing web services.<br/><br/>Experience with Jira, Confluence, or related technologies.<br/><br/>Knowledge of Angular, Python, .NET, Kubernetes, Docker, and other related technologies.<br/><br/>Solid understanding of database design concepts, familiarity with SQL or other enterprise database systems.<br/><br/>Strong design, implementation, and testing skills.<br/><br/>High threshold to work within highly complex and ambiguous situations.<br/><br/>Ability to work and communicate effectively across disciplines and teams.<br/><br/><strong>About Us<br/><br/></strong>Join a team of inventive, driven professionals at our company! Come grow with us and embrace the opportunity to work remotely as part of our collaborative and forward-thinking environment.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Join the Leidos Innovations Center (LInC) where you can be a part of the technology-driven core of Leidos and continue our tradition of solving the toughest scientific and engineering problems for customers. Our groundbreaking solutions leveraging a wide range of technologies, transitioning advanced technologies from the laboratory to operational systems for our customers.<br/><br/>The LInC Electronic Warfare divsion has an exciting opportunity for a Real-Time Software Engineer to perform design, development, and hardware/software integration in Arlington, VA.<br/><br/>Our division primarily focuses on research &amp; development and advanced prototyping, transforming state of the art signal processing algorithms into real-time software systems. We develop EW technology to dominate the electromagnetic spectrum while denying the enemy access to it. Our research focuses on advancement of electronic attack, electronic protection, electronic support, command and control, and resource management.<br/><br/>Projects involve small multi-disciplinary teams of engineers working together in spiral or agile development environments to meet aggressive customer schedules aimed at near-term field demonstrations. We are seeking a candidate interested joining a team of experts in implementing high-performance signal processing on general purpose processors, such as ARM.<br/><br/><strong>Our Team Is Responsible For The Following<br/><br/></strong><ul><li> Contributing to design and development of advanced systems as a part of multi-disciplinary teams. These teams are made up of other software team members and subject matter experts from the areas of systems engineering, hardware, firmware, machine learning, RF front end design, and signal processing.</li><li> Designing, implementing, and testing real-time C/C++ software for multi-core systems running Linux or a real-time operating systems, such as VxWorks</li><li> Experience building software products that utilize third party mathematics and communication libraries</li><li> Experience with interface communication standards / protocols such as TCP/IP, UDP, and DDS</li><li> Ability to read and understand signal processing algorithms written in MATLAB</li><li> Advanced knowledge of the Linux operating system as well as experience with real-time operating systems</li><li> Designing, implementing, and testing software to configure and control RF hardware devices</li><li> Integrating software into third-party software frameworks and architectures, such as Redhawk</li><li> Documenting the developed systems</li><li> Support system field testing and collection events, usually about a week in duration once or twice a year<br/><br/></li></ul><strong>The Successful Candidate Will Have The Following Education/experience<br/><br/></strong><ul><li> Bachelor’s Degree in Computer Engineering, Electrical Engineering, or Computer Science and 2 years of expereince (may include internships, etc.)</li><li> C/C++ real-time software development experience</li><li> Experience using version control (Subversion, GIT, etc.) and continuous integration software tools (Jenkins)</li><li> Must have active Secret level security clearance with the ability to obtain a TS/SCI level clearance.<br/><br/></li></ul><strong>Bonus Education/experience<br/><br/></strong><ul><li> Master’s Degree in Computer Engineering, Electrical Engineering, Computer Science, or equivalent</li><li> Existing security clearance higher than the Secret level</li><li> Experience with Machine Learning and/or Artificial Intelligence algorithms and libraries, such as TensorFlow</li><li> Experience with MATLAB GPU computing</li><li> Experience with High Performance Computing including parallel and distributed computation</li><li> Experience with Model-Based Design code generation practices</li><li> Experience with cloud-based computing platforms, such as Amazon Web Services (AWS)</li><li> Experience with other programming languages such as Python and/or Java<br/><br/></li></ul>LInC<br/><br/>Electronic Warfare<br/><br/><strong>Pay Range<br/><br/></strong>Pay Range $63,050.00 - $113,975.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

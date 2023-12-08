@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What You’ll Do<br/><br/></strong>The Associate Principal, SDET will be on a team that is responsible for the operationalization of the Ovation project as it pertains to performance testing and other processes that will be necessary to maintain the new system when it goes live. Duties will include but not limited to parallel testing (Encore versus RTC), creating test automation processes that will simplify the parallel testing process. UAT Testing and documenting test results. The candidate will also participate in the end-to-end testing process that will be performed on the Ovation platform and industry experience will be valuable as we stand up and operationalize our new Clearing, prices, and Risk platforms. The candidate must be able to solve problems creatively, communicate effectively, and proactively engage in technical decision making to achieve these objectives. This individual will be a team player and work well with business, technical and non-technical professionals in an agile environment.<br/><br/><strong>Primary Duties and Responsibilities:<br/><br/></strong>To perform this job successfully, an individual must be able to perform each primary duty satisfactorily.<br/><br/><ul><li>Requirements analysis and requirements gathering as it relates to test planning</li><li>End to End Test planning and execution</li><li>Assist with the standing up of on-prem and AWS test platforms</li><li>Assist with the creation of best practices deployment processes</li><li>Assist with the development of automated testing processes that will simplify our parallel testing process (Encore Versus RTC)</li><li>Work with our business partners on in the development of test plans and test cases</li><li>Prepare documentation needed for any automated process and other testing procedures created (test plans, architecture/design)</li><li>Participates in test results reviews, proactively identifying and mitigating potential issues and defects as well as assisting with continuous improvement</li><li>Drives continuous improvement efforts by identifying and championing practical means of reducing time to market while maintaining high quality</li><li>Must be a willing self-starter, independent and comfortable with a fast paced, dynamic environment</li><li>A team player who assists the team as required to achieve collective goals &amp; delivery milestones including knowledge-share</li><li>Embraces and advocates for Agile best practices for software development discipline (be true to Agile Manifesto)</li><li>Actively participates in creation and review of both business and technical user stories, providing constructive feedback and input on both work effort estimation as well as architecture/design improvements</li><li>Participating in innovative design and proof of concepts with emerging technologies and solutions</li><li>Embrace industry best practices like continuous integration, continuous deployment, automated testing, TDD etc.</li><li>Follows agreed upon SDLC procedures to ensure that all information system products and services meet both explicit and implicit quality standards, end-user functional requirements, architectural standards, performance requirements, audit requirements, security rules are upheld, and external facing reporting is properly represented.</li><li>Performs application and project risk analysis and recommends quality improvements.</li><li>Assists Production Support by providing advice on system functionality and fixes as required</li><li>Assist with departmental and new employee training<br/><br/><br/></li></ul><strong>Supervisory Responsibilities:<br/><br/></strong><ul><li>N/A<br/><br/><br/></li></ul><strong>Qualifications:<br/><br/></strong>The requirements listed are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the primary functions.<br/><br/>The requirements listed are representative of the knowledge, skill, and/or ability required. Reasonable accommodation may be made to enable individuals with disabilities to perform the primary functions.<br/><br/><ul><li>Requires an in-depth knowledge of a development lifecycle.</li><li>Must be competent at the highest technical level in all phases of application development and implementation and testing</li><li>Requires good communication, analytical, sound judgment and management skills</li><li>Ability to work effectively with clients, management, and staff.<br/><br/><br/></li></ul><strong>Technical Skills:<br/><br/></strong><ul><li>7+ years’ experience with SQL to maintain, create and retrieve information from structured or unstructured data stores.</li><li>Ability to quickly resolve complex data issues in accessing, updating, manipulating, inserting, and modifying data efficiently.</li><li>Functional and technical specifications creation knowledge</li><li>Leadership capabilities</li><li>Knowledge of QA best practices (system, regression, unit, performance)</li><li>Good organization skills and documentation creation</li><li>Intellectually curious and eager to learn<br/><br/><br/></li></ul><strong>Education and/or Experience:<br/><br/></strong>BS degree in Computer Science, similar technical field required. Master’s degree preferred.<br/><br/><strong>Certificates or Licenses:<br/><br/></strong><ul><li>N/A</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

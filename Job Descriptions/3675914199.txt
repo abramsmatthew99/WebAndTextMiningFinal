@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Title: </strong>Instructor in Computer Science<br/><br/><strong>Division:</strong> Provost's Office<br/><br/><strong>Department:</strong> Romain College of Business<br/><br/><strong>FLSA Status:</strong> Exempt<br/><br/><strong>Salary Range: </strong>Annual Salary<br/><br/><strong>EEO Job Group: </strong>2 C6<br/><br/><strong>Position Summary<br/><br/></strong>The University of Southern Indiana’s Management and Information Sciences Department, housed in the Romain College of Business, invites applications for a 9-month, renewable Instructor in Computer Science. The appointment will begin Fall 2024.<br/><br/><strong>Duties/Responsibilities<br/><br/></strong>This position will teach a broad range of undergraduate courses in computer science such as introductory and intermediate object-oriented programming in C#, programming languages, data structures and algorithms, operating systems, and software development.<br/><br/><strong>Required Knowledge And Skills<br/><br/></strong>Qualified candidates must hold a master’s degree in computer science, or a closely related field from an accredited institution.<br/><br/><strong>About The Department<br/><br/></strong>The Department of Management and Information Sciences is home to approximately 8 Computer Science and Computer Information Systems faculty members and approximately 300 undergraduate students who together span a range of experience and research areas in computer science and computer information systems. Housed in the Romain College of Business, the Department of Management and Information Sciences is uniquely situated to offer students exposure to broad computing issues as well as practical business practices. More information about the Romain College of Business and the Computer Science Program can be found on the Web at http://business.usi.edu/ and https://www.usi.edu/business/computer-science.<br/><br/><strong>Application Process<br/><br/></strong>Click “Apply Now!” near the top right of this page to complete an application and upload application materials to the attention of the Search Committee Chair. Application materials should include:<br/><br/><ul><li>Letter of application describing commitment to teaching undergraduate courses and providing evidence of professional experience and engagement that reflects significant interaction with businesses directly related to computer science</li><li>Current Curriculum Vitae</li><li>Unofficial Transcripts (official transcripts required at a later stage)<br/><br/></li></ul><strong>Search Committee Chair:<br/><br/></strong>If you have questions about the open position, please contact Dr. Srishti Srivastave, search committee chair, at fsrishti@usi.edu or 812-228-5032 or Dr. Abbas Foroughi, Chair of Management and Information Sciences at aforough@usi.edu or 812-465-1667.<br/><br/><strong>Pre-Employment Screening<br/><br/></strong>A background check will be required for employment in this position.<br/><br/><strong>Authorization to Work in the United States<br/><br/></strong>USI will not sponsor an employment-related visa for this position.<br/><br/><strong>Interview Accommodations<br/><br/></strong>Persons with disabilities requiring accommodations in the application and interview process please contact the manager of Employment at mcweinzapf@usi.edu or (812) 464-1840. Contacting the manager of Employment is intended for use in seeking disability-related accommodations only. For general applicant inquiries, contact Human Resources at HumanRes@usi.edu or (812) 464-1815.<br/><br/><strong>EEO Statement<br/><br/></strong>The University of Southern Indiana is an EEO/AA employer. All individuals including minorities, women, individuals with disabilities and veterans are encouraged to apply.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

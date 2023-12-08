@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Nintendo Software Technology Corporation<br/><br/></strong>Nintendo Software Technology Corporation, based in Redmond, Washington , is a wholly owned subsidiary of the world's largest manufacturer and marketer of video games, Nintendo Co., Ltd., headquartered in Kyoto, Japan. Nintendo Software Technology's mission is to design, develop and deliver the very best video games. We conduct research, use state-of-the-art equipment and review methods of operation so that we may continually improve the quality of the games that we produce. Each person employed at Nintendo Software Technology Corporation is a valued team member and is encouraged to participate in our efforts to create the highest quality games.<br/><br/>Nintendo is an equal opportunity employer. We offer a welcoming and inclusive environment in service to one another, our products, the diverse consumers we represent, and the communities we call home. We do all of this with kindness, empathy and respect for each other.<br/><br/><strong>Description Of Duties<br/><br/></strong><ul><li>Develops, writes, tests, debugs, and implements code using the relevant programming languages as part of a larger project, with some direction from senior engineers and above.</li><li>May program tools and utilities to support work on projects.</li><li>Applies professional expertise to review, analyze and test products under development as a contributing member of a production team to ensure delivery of Nintendo’s high standard of quality and timeliness. </li><li>Deploys engine/system level features and APIs utilized by other engineers on the team for higher-level software development</li><li>Works and communicates cross disciplines to develop technologies intuitively utilized by non-engineers.<br/><br/></li></ul><strong>Summary Of Requirements<br/><br/></strong><ul><li>2 or more years of software engineering experience in the relevant field.</li><li>Ability to write clear, maintainable, and portable code.</li><li>Possess some areas of specialization in graphics development, specifically pertaining to Engine, Shader, &amp; Tools/Pipeline technologies.</li><li>Ability to solve engineering problems by applying entry level specialty.</li><li>Ability to read and debug other engineers’ code.</li><li>Good understanding of interactive entertainment methodologies and production pipeline.</li><li>Knowledge of the relevant programming languages (C/C++, GLSL (or equivalent shading language)).</li><li>Experience and knowledge of an equivalent graphics programming API (OpenGL, Vulkan, DirectX, Mantle, etc)</li><li>Undergraduate degree in Computer Science or related field; or equivalent education and experience.<br/><br/></li></ul>This position is hybrid in Redmond, WA. Hybrid positions require regular onsite work following the schedule and guidelines for their division. This position is not open to fully remote status at this time.<br/><br/>This position includes a base salary range of $101,816 - $152,724 annually, potential for a semi-annual discretionary performance bonus, and a comprehensive benefits package that includes medical, dental, vision, 401(k), and paid time off. Please see our Benefits &amp; Perks page for more benefits information. Fixed term employees are eligible for all listed employee benefits except tuition reimbursement.<br/><br/>For more information about NST, click here.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Art/Creative, Product Management, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computers and Electronics Manufacturing, Entertainment Providers, and Computer Games
+          </span>
+</li>
+</ul>
+</div>
+</section>

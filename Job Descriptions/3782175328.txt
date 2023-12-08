@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Dallas Market Center</strong> is inviting applications for a Junior Systems Administrator position from motivated individuals keen on advancing their career in IT. This role provides a robust platform to transition from a senior Help Desk role to a Systems Administrator, managing and optimizing our IT infrastructure. The candidate will gain hands-on experience in managing both physical and virtual servers, network hardware, and software, focusing on Windows Server, VMware, Microsoft Active Directory, Microsoft 365 Business, and Azure environments under the mentorship of our seasoned Systems Administrators. <strong>This is an on-site position.<br/><br/></strong><strong>Problem-Solving Skills:<br/><br/></strong>The ideal candidate will excel in problem-solving, with the ability to pinpoint and analyze complex issues, devise effective solutions, and implement them efficiently. A methodical approach to testing hypotheses, coupled with a strong analytical mindset and the capacity to learn and adapt, is essential. Your ability to document and communicate the resolution process, fostering a collaborative learning environment, will significantly contribute to our IT operations' continuous improvement.<br/><br/><strong>Key Responsibilities: <br/><br/></strong><ul><li>Assist in overseeing and maintaining our physical and virtual server environments, focusing on our VMware setup. </li><li>Support in installing, configuring, and managing Windows servers and related software, ensuring secure, efficient operation. </li><li>Help to uphold security measures, ensuring proper implementation of firewall rules and security protocols. </li><li>Aid in scheduling and coordinating system upgrades, minimizing downtime. </li><li>Participate in identifying, troubleshooting, and resolving hardware, software, and system issues. </li><li>Provide technical support to employees, collaborating closely with Help Desk staff. </li><li>Analyze user needs and design solutions that follow best practices and support DMC's long-term goals. </li><li>Assist in executing backup/recovery routines, ensuring data integrity and availability. </li><li>Support in administering Exchange Online security policies, including monitoring of mail flow and email quarantines. </li><li>Help to manage Microsoft Active Directory systems, including DNS, DHCP, and other associated technologies. </li><li>Assist in handling user accounts, aiding in employee on-boarding/off-boarding and specifying system access levels. </li><li>Support in managing domain names, SSL certificates, and website management. </li><li>Assist in maintaining on-premises Cisco switch/routers and phone systems. <br/><br/></li></ul><strong>Qualifications: <br/><br/></strong><ul><li>Associate degree in computer science or a related field, or equivalent experience. </li><li>At least 1 year of experience in a senior Help Desk role or similar. </li><li>Basic knowledge of Windows Server, Microsoft Active Directory, Microsoft 365 Business, and VMware environments. </li><li>Willingness to learn and improve technical skills under mentorship. </li><li>Analyze user needs and design solutions that follow best practices and support DMC's long-term goals. </li><li>Strong problem-solving and communication skills. </li><li>Ability to work well in a team and adapt to new challenges. </li><li>Eagerness to provide technical support, even outside standard office hours when required. </li><li>Previous experience with backup and disaster recovery solutions. </li><li>Exposure to project management/coordination a plus. </li><li>Thrives in a fast-paced environment. <br/><br/></li></ul><strong>Company Description<br/><br/></strong>Dallas Market Center is a global business-to-business trade center and the leading wholesale marketplace in North America connecting retailers and interior designers with top manufacturers in home decor, furniture, gifts, lighting and fashion. Inside its dynamic, five million square foot campus near downtown Dallas, nearly 200,000 customers from all 50 states and 85 countries seek industry trends, business education and new products via open-daily showrooms and from exhibitors participating in trade events held throughout the year.<br/><br/>Dallas Market Center is a global business-to-business trade center and the leading wholesale marketplace in North America connecting retailers and interior designers with top manufacturers in home decor, furniture, gifts, lighting and fashion. Inside its dynamic, five million square foot campus near downtown Dallas, nearly 200,000 customers from all 50 states and 85 countries seek industry trends, business education and new products via open-daily showrooms and from exhibitors participating in trade events held throughout the year.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wholesale
+          </span>
+</li>
+</ul>
+</div>
+</section>

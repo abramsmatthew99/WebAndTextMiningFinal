@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong>CTC Group is seeking <strong>Software Developers </strong>for <strong>contingent</strong> positions to support our efforts in Annapolis Junction.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Developing web applications via an Agile Scrum methodology</li><li>Developing APIs and web services</li><li>Creating and maintaining AWS Cloud infrastructure<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Active TS/SCI with Full Scope Polygraph</li><li>Bachelor's degree in Computer Science, Software Engineering, Information Management Systems, or related technical discipline</li><li>5+ years working in an AWS cloud environment utilizing SMS, Data Pipeline Relational Database (RDS), Cloudwatch, EC2, EBS, S3, KMS or similar tools</li><li>5+ years developing in DevOps environments utilizing GitHub, Subversion, Jenkins, Maven, Artifactory, and other tools</li><li>5+ years utlizing web stack technologies and software design</li><li>5+ years working all architecture tiers - Web UI, business logic, and database layer</li><li>5+ years developing software in a continuous integration, continuous deployment (CI/CD) environment</li><li>5+ years programming with Java and associated frameworks, such as SpringBoot</li><li>5+ years using Apache Tomcat, Apache Spark, Hadoop, SOLR, JDBC, ANT, Active Directory, LDAP, Regex, SQL, JSON, and others</li><li>5+ years using JIRA tracking system</li><li>5+ years utilizing Agile development methodology<br/><br/></li></ul><strong>Desired Skills<br/><br/></strong><ul><li>Demonstrated experience supporting enterprise software development efforts</li><li>Demonstrated experience integrating applications and application components via web services and APIs<br/><br/></li></ul>#CJ<br/><br/><strong>Why CTC Group?<br/><br/></strong>As a Service-Disabled Veteran-Owned Small Business (SDVOSB), we recognize that successful partnerships are based on open and direct communication, mutual respect, and the ability to adapt to evolving capabilities. Our cleared employees bring decades of experience supporting customers in the Intelligence and Defense communities. We specialize in providing engineering, technical, operational support, and training services to Federal government, and Mission Operations.<br/><br/>COVID Policy: Prospective and/or new employees will be required to adhere with CTC Group’s vaccination policy. All CTC Group employees must be fully vaccinated, and they must submit proof of vaccination on their first day of employment. Prospective or new employees may seek an exemption to the vaccination requirement by emailing HR and must have an approved exemption prior to the start of their employment. Customer site vaccination requirements, if stricter, will take precedence over CTC Group’s vaccination policy.<br/><br/>CTC Group provides equal employment opportunities to all employees and applicants without regard to race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, physical disability, genetic information, mental disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner status, gender (including sex stereotyping), medical condition (including, but not limited to, cancer related or HIV/AIDS related) or sexual orientation in accordance with applicable federal and state laws. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.<br/><br/>Powered by JazzHR<br/><br/>iArq6o3uCT
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

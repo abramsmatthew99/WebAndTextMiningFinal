@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job ID 2315700<br/><br/><strong>Location </strong>COLORADO SPRINGS, CO, US<br/><br/><strong>Date Posted </strong>2023-11-20<br/><br/><strong>Category </strong>Information Technology<br/><br/><strong>Subcategory </strong>Sys Administrator<br/><br/><strong>Schedule </strong>Full-time<br/><br/><strong>Shift </strong>Day Job<br/><br/><strong>Travel </strong>Yes, 10 % of the Time<br/><br/><strong>Minimum Clearance Required TS/SCI<br/><br/></strong><strong>Clearance Level Must Be Able to Obtain </strong>TS/SCI with Poly<br/><br/><strong>Potential for Remote Work </strong>No<br/><br/><strong>Description<br/><br/></strong>SAIC's Horizon contract is seeking a energized and professional <strong>Systems Administrator </strong>to support the Horizon 2 contract's secure operating facilities in <strong>Colorado Springs, CO</strong>.<br/><br/>Your background in configuring, maintaining, and troubleshooting systems in both Windows and Linux environments will be the driving force behind the success of our missions for the US Space Force. Join us in safeguarding the nation's space assets and explore the limitless opportunities that await in this dynamic role. You'll have the invaluable opportunity to be mentored in this role, ensuring not only your professional growth but also the continued excellence of our operations. You will get to use your strong communication (verbal and written) skills and interpersonal skills in a dynamic customer centric environment which may require sporadic off-hours support. If this is what you are looking for, keep reading.<br/><br/><strong>Fun stuff you will do on the job<br/><br/></strong><ul><li>Address and maintain all hardware and software, in compliance with established policies, as well as establish and maintain accounts for authorized users. </li><li>Supporting the systems will encompass a range of responsibilities, from server and workstation configuration and maintenance, LAN setup and operability, to cable management, Audio-Visual systems setup and maintenance, and analog/digital/VoIP phone services. </li><li>Interface with military, DoD Civilian, and contractor personnel, with a team-oriented and customer-focused attitude. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>This is you</strong> <br/><br/><ul><li>Bachelor’s degree in computer science or other related discipline, plus a minimum of 2 years of relevant experience (4 additional years of experience may be used in lieu of degree) with</li><ul><li>Configuring and managing LINUX/UNIX (RHEL, CentOS), and Windows operating systems; installing/updating operating systems software; and troubleshooting</li><li>Network topology, data flows, firewalls, routers and switches </li><li>Problem identification, diagnosis, and resolution, and providing support for implementation, troubleshooting and maintenance of IT systems, to include utilizing software tools and logs to monitor network and system health</li><li>Managing the daily activities of configuration and operations of IT systems, to include user accounts and system certificates</li><li>Installing and maintaining computers (laptops and desktops), to include performing software installations </li><li>Providing assistance to users in accessing IT systems</li><li>Microsoft Exchange and Server; MS Active Directory; MS Windows Desktop Computing; Remote Desktop Management; MS Office (Outlook, Word, PowerPoint, Excel, Project, Teams)</li></ul><li>Must meet Customer / DoD Manual 8140.03 IAT II / IAM I requirements (Security+ or higher)</li><li>In-scope security background investigation (T5 or SSBI), adjudicated for SCI eligibility and enrolled in the Continuous Evaluation program (if applicable)</li><li>Willing to be nominated for access to Sensitive Compartment Information and Special Access Programs and willing to consent to a Polygraph examination<br/></li></ul><strong>You will wow us even more if you have these skills<br/><br/></strong><ul><li>Experience working with systems in SAP and/or SCI environments</li><li>Experience with Vulnerability Scanners (Nessus/ACAS), Splunk, SCAP compliance scanning, and applying DISA STIG compliance controls to secure systems</li><li>Knowledge of the JSIG, NIST Risk Management Framework (RMF), NIST SP 800-53/53A, and CNSSI 1253, and the Assessment &amp; Authorization (A&amp;A) process</li><li>Experience with MS PowerShell Integrated Scripting Engine (ISE); MS Endpoint Configuration Manager (MECM); Adobe Professional; ePolicy Orchestrator (ePO); Cisco phone systems; SIEM Tools</li><li>Experience in configuring backups, Incident Response, and Disaster Recovery Procedures</li><li>Experience with Juniper switches and routers, Dell servers, McAfee Firewalls, and KVMS </li><li>Experience creating/updating plans, processes, and procedures, in support of system and data security requirements, as well as establishing artifacts required for system certification</li><li>Familiarity with virtualized hosting, such as VMware</li><li>Ability to problem solve and think critically, sometimes independent of significant experience or documentation of the problem area</li><li>Project management skills<br/><br/></li></ul>Target salary range $75,001 - $100,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.<br/><br/>Covid Policy SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Defense and Space Manufacturing, and Computer Hardware Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

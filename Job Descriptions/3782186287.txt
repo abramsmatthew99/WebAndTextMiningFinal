@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Sartre Group</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Chris Newlyn" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4D03AQFtetC5ORkjjQ/profile-displayphoto-shrink_100_100/0/1701373016579?e=2147483647&amp;v=beta&amp;t=pRfGDFwgbvHKxz_5dpxsfJhrKCRDJSda7zrGc7CPuRE" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Chris Newlyn
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Global Tech &amp; AI Recruitment Consultant @ Sartre | Connecting The Dots, Problem Solving &amp; Building The BEST Engineering Teams.
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Chris Newlyn" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fuk%2Elinkedin%2Ecom%2Fin%2Fchrisnewlyn&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Role: </strong>Software Engineer</p><p><strong>Organization: </strong>Investment Management</p><p><strong>Location:</strong> New York City - Onsite</p><p><strong>Salary: </strong>$150,000-$220,000 base + Bonus + Benefits</p><p><strong>Tech Stack: </strong>Python, Kubernetes, Docker, Microsoft, Azure</p><p><br/></p><p>We are working with a global investment firm seeking a highly skilled Software Engineer to join an Engineering Team with an automation-focused mindset that is building and maintaining infrastructure using code.</p><p><br/></p><p>You will work closely with cross-functional teams, partnering with executives and product experts to design and develop state-of-the-art software solutions.</p><p><strong> </strong></p><p><strong>Requirements:</strong></p><ul><li>Bachelor's Degree in Computer Science or a related technical field.</li><li>2+ years of technical engineering experience with expertise in <strong>Python</strong></li><li>Experience with <strong>Microsoft</strong> technologies, including <strong>Azure</strong></li><li>Experience working with <strong>on-prem</strong> and <strong>cloud</strong>.</li><li>Experience working with <strong>Kubernetes</strong> and <strong>Docker</strong></li><li>Ability to thrive in an ambiguous environment and deliver results within a fast-paced setting.</li></ul><p><br/></p><p>This role is onsite in New York City.</p><p><br/></p><p>If you are a highly skilled and motivated engineer with a passion for cutting-edge technology, we encourage you to apply.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet, Financial Services, and Investment Management
+          </span>
+</li>
+</ul>
+</div>
+</section>

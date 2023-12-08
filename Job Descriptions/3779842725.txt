@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Come join the Extreme Scale Computing team for a 2024 Graduate nternship! We are developing hardware and software for next generation High Performance Computing Processor for Supercomputers and Graph Analytics/AI/Machine Learning SOCs to partner with Xeon processors.<br/><br/><strong>Qualifications<br/><br/></strong>You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school work/classes/research and/or relevant previous job and/or internship experiences.<br/><br/><strong>Minimum Qualifications<br/><br/></strong>The candidate must be pursuing a Master's or PhD degree in Computer Science, Computer Engineering, Electrical Engineering or a related technical discipline and 6+ months of experience in:<br/><br/><ul><li>Software development experience in C++/Python</li><li>Programming and debugging applications on Linux systems including multithreaded applications<br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Completed Computer Architecture coursework including exposure to assembly coding<br/><br/><br/></li></ul>Inside this Business Group<br/><br/>Enable amazing computing experiences with Intel Software continues to shape the way people think about computing – across CPU, GPU, and FPGA architectures. Get your hands on new technology and collaborate with some of the smartest people in the business. Our developers and software engineers work in all software layers, across multiple operating systems and platforms to enable cutting-edge solutions. Ready to solve some of the most complex software challenges? Explore an impactful and innovative career in Software.<br/><br/>Posting Statement<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br/><br/><strong>Benefits<br/><br/></strong>We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.<br/><br/>Annual Salary Range for jobs which could be performed in US, Colorado, New York, Washington, California: $63,000.00-$166,000.00<br/><br/><ul><li>Salary range dependent on a number of factors including location and experience<br/><br/><br/></li></ul>Working Model<br/><br/>This role is available as a fully home-based and generally would require you to attend Intel sites only occasionally based on business need. This role may also be available as our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. <br/><br/><strong>In certain circumstances the work model may change to accommodate business needs.<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

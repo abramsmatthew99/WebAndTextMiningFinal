@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Zeke is looking for a Web Developer to join our team in our Pittsburgh office. This role is responsible for the coding, design, and maintenance of our website. This person strives to create visually appealing sites that feature user-friendly design and clear navigation.<br/><br/>The ideal candidate loves working with a variety of projects and people. He/she should have a creative and thoughtful approach to requests and collaborate with the team. The Web Developer has an innovative and curious mind with the ability to execute stunning visual storytelling pieces.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Create and plan – Write effective code to create a website using standard HTML/CSS practices. Plan and deliver web applications across multiple platforms. Implement contingency plans in case the site goes down. Create quality assurance tests to ensure website success. Use tools that monitor the ongoing performance of the company website.</li><li>Collaborate – Team up with the development team to develop and maintain the website. Keep in constant communication with other colleagues in the business to develop and deploy their content. Update policies to maintain requirements. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Associates degree is required, bachelor's degree is preferred</li><li>Five years of experience working in a similar position is preferred</li><li>Experience working with HTML/XHTML, CSS, JavaScript, ASP and Java</li><li>A solid comprehension of Computer Science with coding experience</li><li>Strong communication skills, team player and strong attention to detail<br/><br/></li></ul><strong>THESE ARE NOT REAL JOB OPPORTUNITIES, DO NOT APPLY!</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Executive
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Law Practice
+          </span>
+</li>
+</ul>
+</div>
+</section>

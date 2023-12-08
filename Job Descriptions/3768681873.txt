@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Seeking a Senior Mobile Engineer to build rich mobile experiences for Ford Credit Mobile Platform.<br/><br/><strong>Enterprise Technology</strong> plays a critical part in shaping the future of mobility. If you’re looking for the chance to leverage advanced technology to redefine the transportation landscape, enhance the customer experience, and improve people’s lives, this is the opportunity for you. Join us and challenge your IT expertise and analytical skills to help create vehicles that are as smart as you are.<br/><br/><strong>In thise role you will….<br/><br/></strong><ul><li>Work as part of the SAFe team to build state of the art Mobile app features for both Android and IOS Ford Credit Customers.</li><li>Work in a cross functional team and autonomously to achieve business outcomes.</li><li>Drive and influence architectural decisions for Ford Credit Mobile Platform.</li><li>Work closely with Digital Platform teams to ensure smooth end of end feature delivery.</li><li>Ensure compliance with all Ford security standards.</li><li>Innovate, create POC’s and stay up to date with mobile app trends and industry best practices.<br/><br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><strong>What you'll do…<br/><br/></strong><ul><li>Write clean and efficient code for Android and IOS Mobile App’s</li><li>Write unit and UI tests to identify malfunctions.</li><li>Troubleshoot and debug to optimize performance.</li><li>Integrate best in class security tools to improve code quality.</li><li>Deploy apps to beta and production.</li><li>Integrate with third party libraries and API’s. </li><li>Set up and maintain CI/CD pipeline following security standards.</li><li>Measure and monitor application performance using existing toolsets (Content Square, Dynatrce, Splunk, Adobe, and more) and propose changes to effectively support our mobile platform.</li><li>Support the entire application lifecycle (Concept, design, test, release, and support)</li><li>Advocate for engineering excellence, exceptional usability, and outstanding quality.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>You’ll have…<br/><br/></strong><ul><li>Bachelor’s degree in computer science or equivalent</li><li>7+ years of experience as a Full Stack Software Engineer </li><li>Minimum of 3 years experience with Native Mobile App development using Swift, Swift UI, Kotlin, Jetpack Compose.</li><li>1yr+ of experience with GraphQL, GCP, security tools, and code versioning tools for e.g., Git<br/><br/><br/></li></ul><strong>Even better, you may have....<br/><br/></strong><ul><li>Integration with Salesforce, AEM.</li><li>Working with logging and monitoring tools like Splunk and Dynatrace. </li><li>Reporting and analytics tools like Adobe Analytics and Content Square.</li><li>Integrating with Optimizely, Medallia and Docusign.</li><li>Experience with Apache Tomcat, Spring MVC, Spring Boot, Docker, Gradle a plus.</li><li>Innovating, anticipating the future, and working toward continuous improvement in mobile technologies.</li><li>Experience dealing with ambiguity to develop solutions that work for partners from various subject areas to meet aggressive timeline.<br/><br/><br/></li></ul>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!<br/><br/>As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder...or all of the above? No matter what you choose, we offer a work life that works for you, including:<br/><br/><ul><li>Immediate medical, dental, and prescription drug coverage</li><li>Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up childcare and more</li><li>Vehicle discount program for employees and family members, and management leases</li><li>Tuition assistance</li><li>Established and active employee resource groups</li><li>Paid time off for individual and team community service</li><li>A generous schedule of paid holidays, including the week between Christmas and New Year's Day</li><li>Paid time off and the option to purchase additional vacation time<br/><br/><br/></li></ul>For a detailed look at our benefits, click here:<br/><br/><strong>2023 New Hire Benefits Summary<br/><br/></strong>Visa sponsorship is available for this position.<br/><br/>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.<br/><br/>We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application due to a disability, please call 1-888-336-0660.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

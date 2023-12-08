@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Unleash your potential at Leidos, where we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customer’s success. We empower our teams, contribute to our communities, and operate sustainably. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business.<br/><br/>At Leidos, everything we do is built on our commitment to do the right thing for our customers, our employees, and our communities. Learn more about the values and culture that are the foundations of our business. Our mission is to make the world safer, healthier, and more efficient through information technology, engineering, and science. We offer a robust benefits package including competitive salaries; 401K Retirement Plan; comprehensive medical, dental and vision coverage; flexible work schedule to allow for life/work balance; tuition reimbursement and more.<br/><br/>The Leidos Defense Group provides a diverse portfolio of systems, solutions, and services covering land, sea, air, space, and cyberspace for customers worldwide. Solutions for Defense include enterprise and mission IT, large-scale intelligence systems, command and control, geospatial and data analytics, cybersecurity, logistics, training, and intelligence analysis and operations support. Our team is solving the world’s toughest security obstacles for customers with “can’t fail” missions. From scanning for illicit material at ports and borders to predicting future events and instability up to five years in advance, our products help customers make the world safer. To explore and learn more, click here! https://www.leidos.com/company/our-business/defense.<br/><br/>We are looking for an Entry Level<strong> Software Developer</strong> to support Post-Production Software Support (PPSS) and Post Deployment Software Support (PDSS) engineering and technical services to the CECOM Software Engineering Center Mission Command Division based in Aberdeen MD with operations located at Ft. Sill/Lawton, OK. In this role, you will support our customer in creating capabilities and providing technical services and subject matter expertise in Mission Command, Fires and C2 Maneuver systems. You will provide technical support to the Family of US Army’s FIRES Systems including: AFATDS, JADOCS, FOS, FF-Q37, FF-Q36, PFED, LCMR Q50, AN/TQP-53 and LCMR Q49.<br/><br/><strong>Primary Responsibilities<br/><br/></strong>As part of the SW team, assist in the design, development, and maintenance of software for a variety of engineering applications. Work with analysts to understand their analytic or interface requirements. Assist in developing tools and interfaces. Assist in design, development, and testing of operating systems-level software, compilers, and network distribution software applications. Assist in setting operational specifications and formulate and analyze software requirements. Assist in design embedded systems software. Analyze user needs; develop and design software solutions.<br/><br/><strong>Basic Qualifications<br/><br/></strong><ul><li>Bachelor’s Degree in computer science, electronics engineering or other engineering or Technical discipline and up to two years of relevant experience. Additional years of applicable experience may be substituted for the degree.</li><li>Ability to obtain the US DoD Secret clearance prior to start date (US citizenship is a requirement).</li><li>Ability to work as part of a team and have strong math and science background.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience with military systems, especially Fire Support Systems.</li><li>Active Secret security clearance.<br/><br/></li></ul><strong>Pay Range<br/><br/></strong>Pay Range $63,050.00 - $113,975.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

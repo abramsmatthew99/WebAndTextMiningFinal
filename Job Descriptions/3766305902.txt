@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Family<br/><br/></strong>Data Science Consulting<br/><br/><strong>Travel Required<br/><br/></strong>None<br/><br/><strong>Clearance Required<br/><br/></strong>Ability to Obtain Secret<br/><br/><strong>What You Will Do<br/><br/></strong><ul><li>Our data science consultants help clients maximize the value of their data and automate business processes. Our high-performing team works with clients to implement the full spectrum of data analytics and data science, from data architecture and storage to data engineering and querying to data visualization and dashboarding, to predictive analytics, machine learning, and artificial intelligence. Our services enable our clients to define their information strategy, enable mission-critical insights and data-driven decision-making, reduce cost and complexity, increase trust, and improve operational effectiveness.</li><li>Belong to the diverse, talented, and collaborative Defense &amp; Security Team.</li><li>Support Defense and security clients as a Data Scientist performing data science, analytics, data wrangling, statistical analysis, data engineering, and machine learning.</li><li>Focus on client services, while also supporting business development, internal firm initiatives, and ongoing professional development.<br/><br/></li></ul><strong>What You Will Need<br/><br/></strong><ul><li>US Citizenship and the ability to obtain and maintain a Secret clearance.</li><li>Bachelor's degree is required.</li><li>5+ years of relevant professional experience in data science/analytics/data visualization.</li><li>5+ years of experience performing data science and analytics, such as: data wrangling, data visualization, statistical analysis, predictive analysis, and machine learning.</li><li>Proficiency using Power BI, Tableau, or similar tools for data visualization and developing dashboards.</li><li>Proficiency using Python or R for data science: data wrangling, statistical analysis, and machine learning models.</li><li>Proficiency in using SQL for data querying.</li><li>Understanding of database, data warehouse, and data lake concepts.</li><li>Ability to design and deliver solutions independently and work collaboratively as part of a team.</li><li>Strong communication/presentation skills and ability to explain technical topics to non-technical audiences.</li><li>Strong consulting skills: identifying and addressing client needs, building relationships, and driving initiatives forward.</li><li>Ability to work at client sites as needed.<br/><br/></li></ul><strong>What Would Be Nice To Have<br/><br/></strong><ul><li>An ACTIVE and CURRENT SECRET or Top SECRET federal security clearance</li><li>M.S./M.A. in a highly quantitative and computational discipline (e.g., data science, statistics, computer science, etc.).</li><li>Knowledge of or experience with cloud solutions for data science, such as Azure, AWS, or Google Cloud Platform.</li><li>Experience supporting the Defense &amp; Security sector.</li><li>Ability to support business development including RFP/RFQ/RFI responses involving data science/analytics.<br/><br/></li></ul><strong>What We Offer<br/><br/></strong>Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.<br/><br/><strong>Benefits Include<br/><br/></strong><ul><li>Medical, Rx, Dental &amp; Vision Insurance</li><li>Personal and Family Sick Time &amp; Company Paid Holidays</li><li>Position may be eligible for a discretionary variable incentive bonus</li><li>Parental Leave and Adoption Assistance</li><li>401(k) Retirement Plan</li><li>Basic Life &amp; Supplemental Life</li><li>Health Savings Account, Dental/Vision &amp; Dependent Care Flexible Spending Accounts</li><li>Short-Term &amp; Long-Term Disability</li><li>Student Loan PayDown</li><li>Tuition Reimbursement, Personal Development &amp; Learning Opportunities</li><li>Skills Development &amp; Certifications</li><li>Employee Referral Program</li><li>Corporate Sponsored Events &amp; Community Outreach</li><li>Emergency Back-Up Childcare Program</li><li>Mobility Stipend<br/><br/></li></ul><strong>About Guidehouse<br/><br/></strong>Guidehouse is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.<br/><br/>Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.<br/><br/>If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.<br/><br/><em>Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

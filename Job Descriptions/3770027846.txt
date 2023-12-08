@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>TheGuarantors is a cutting edge fintech company setting the standard in rent coverage with unrivaled insurance products, with a deep understanding of owner, operator, and renter needs. We believe renters deserve better access to the home of their dreams and operators deserve greater protection and growth opportunities. That’s why we’re leveraging our expertise in real estate and using AI-based technology to help operators qualify renters faster while mitigating the risk of rental income loss. With $3B+ in rent and deposits guaranteed, we have been named one of Inc. 5000’s fastest-growing companies, one of Forbes’ Best Startup Employers, and one of Deloitte’s 2022 Technology Fast 500.<br/><br/>We are in search of a skilled Data Engineer with a demonstrated background in data platforms and data engineering technologies. This role offers an exciting opportunity to play a pivotal role in enhancing and managing our data infrastructure. We are looking for an individual who is skilled and enthusiastic about data engineering, who can contribute to ongoing improvement of the team and its workflows through applied expertise and collaborative learning, and who is able to effectively collaborate with stakeholders.<br/><br/><strong>Location<br/><br/></strong>This role can be located remotely in <em><strong>NY, NJ, CT,</strong></em><em> and </em><em><strong>PA (hybrid in NY office for individuals within 90 minute commute)<br/><br/></strong></em><strong>Responsibilities<br/><br/></strong><ul><li> Data Platform Expertise: Demonstrate clear understanding of data engineering concepts and practices, and expertise in data engineering technologies and platforms. Manage and optimize end-to-end data workflows, ensuring high-quality, reliable data.</li><li> Knowledge Sharing: Promote a culture of learning within the team and collaborate on process improvement. Participate in team growth by consistently sharing insights, best practices, and learnings. </li><li> Project and Task Management: Effectively manage technical tasks in data engineering projects and collaborate with stakeholders, with support from senior team members or managers when needed.</li><li> Data Ingestion and ETL/ELT: Design and implement data pipelines to collect, ingest, and transform data from various sources into a structured format.</li><li> Data Quality: Collaborate with the team to maintain data quality standards, validate data, and resolve data quality issues.</li><li> Data Warehousing: Design and maintain data warehousing solutions to efficiently store and manage large volumes of data.</li><li> Automation and Orchestration: Automate routine data engineering tasks to enhance efficiency and reliability.</li><li> Data Applications: Develop and maintain data applications for machine learning interfaces, CRUD operations, and interactive analysis.</li><li> Performance Optimization: Identify and implement optimizations across the data stack to enhance data pipeline performance and reduce processing times.</li><li> Documentation: Create and maintain documentation for data pipelines, processes, and data flows.</li><li> Collaboration: Collaborate with cross-functional teams, including data analysts, data scientists, and business stakeholders, to understand data requirements and deliver data solutions.</li><li> Continuous Learning: Stay up-to-date with industry best practices and emerging data engineering technologies.<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field.</li><li>4+ years of experience in a data engineer role working with multiple data engineering technologies or platforms.</li><li>Prior background in one or more of the following domains: Banking Technology, Insurance Technology, or Consultancy within the banking or insurance sectors</li><li>Strong interest in risk modeling.</li><li>Demonstrated expertise in SQL and Python scripting.</li><li>Strong understanding of data modeling concepts.</li><li>Proficiency in data integration and ETL tools (e.g., Stitch/Talend, Airbyte, Fivetran, etc).</li><li>Knowledge of data warehousing concepts and technologies (e.g., Snowflake, AWS Redshift, Google BigQuery, etc).</li><li>Experience with cloud computing platforms (e.g., AWS, Azure, Google Cloud).</li><li>Familiarity with data governance and security best practices.</li><li>Exceptional problem-solving skills and attention to detail.</li><li>Strong communication and teamwork skills.</li><li>Ability to thrive in a fast-paced, collaborative environment.</li><li>Eagerness to learn and adapt to new technologies and tools.<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Opportunities to make an impact within a fast growing company</li><li>Medical, dental, &amp; vision insurance, beginning day one</li><li>Health savings account with employer contribution</li><li>Generous PTO and paid holidays</li><li>Flexible working hours</li><li>401(k)</li><li>Paid parental leave</li><li>Company sponsored short and long term disability</li><li>Flexible spending accounts (healthcare, dependent care, commuter)</li><li>Competitive salary<br/><br/></li></ul><strong>Base Salary<br/><br/></strong><em><strong>The base salary range is between $130,000-$150,000 annually.<br/><br/></strong></em>Base salary does not include other forms of compensation or benefits. Final offer amounts are determined by multiple factors, including prior experience, expertise, location and current market data and may vary from the range above.<br/><br/><strong>Stay in Touch<br/><br/></strong>Does this role not quite match your skills, but you’re still interested in what we're doing? Stay In Touch and apply to our Dream Job to be one of the first to hear about future opportunities!<br/><br/>TheGuarantors is an Equal Opportunity Employer. We celebrate diversity and are committed to an inclusive environment for all.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

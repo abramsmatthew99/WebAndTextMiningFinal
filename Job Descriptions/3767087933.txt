@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Role...<br/><br/></strong>We are seeking a skilled Data Operations Analyst to join our team and take on a pivotal role in coordinating and supporting our data integration and analytics tools, including Sigma, Tableau, DBT, Heap, and more. As a Data Operations Analyst, you will be responsible for ensuring the availability, performance, and reliability of these tools, as well as providing on-call support for any related issues. This role offers an exciting opportunity to work at the forefront of data-driven decision-making within our organization!<br/><br/><strong>In this role you can expect to.. <br/><br/></strong><ul><li>Manage user access, permissions, and security settings for integration and data analytics platforms.</li><li>Supervise and optimize the performance of these tools to ensure efficient data processing and reporting.</li><li>Assist in the configuration and deployment of dashboards, reports, and data models.</li><li>Collaborate with other teams to integrate BI tools with data sources and data transformation pipelines.</li><li>Provide front-line, on-call support for Integration and data analytics tools, responding promptly to issues and incidents.</li><li>Troubleshoot and resolve technical problems, escalating complex issues as necessary.</li><li>Document and communicate solutions and best practices to end-users and partners.</li><li>Assist in maintaining data governance standards and policies within integration and data analytics platforms.</li><li>Ensure data quality and accuracy by supervising data sources and addressing issues as they arise.</li><li>Collaborate with data engineers and analysts to improve data integrity and reliability.</li><li>Conduct training sessions and workshops to educate end-users on BI tool features and functionality.</li><li>Share expertise and best practices with colleagues to improve the organization's data capabilities.</li><li>Generate regular reports and metrics related to application usage, performance, and incident resolution.</li><li>Provide insights and recommendations for improvements based on data analysis.<br/><br/></li></ul><strong>You may be a good fit if you have...<br/><br/></strong><ul><li>Bachelor's degree in a related field (e.g., Computer Science, Information Systems, Data Analytics).</li><li>Minimum of 2 years of experience as a Data Analyst, Data Operations Specialist, or similar role.</li><li>Proficiency in some of the following data integration and analytics tools; Sigma, Tableau, DBT, Heap, Segment, Workato, and Snowflake.</li><li>Solid understanding of data governance principles and data quality management.</li><li>Excellent problem-solving and troubleshooting skills.</li><li>Effective communication and interpersonal skills.</li><li>Ability to work independently and cross-functionally in a team environment.</li><li>Experience with scripting or programming languages (e.g., SQL, Python) is a plus.<br/><br/></li></ul><strong>Canada, Colorado, California, Washington and New York Applicants:</strong> To view base salary ranges for this role in your location and to learn more about which roles are eligible for bonus pay or commissions, please visit our Pay Transparency Calculator below. Individual pay within the range will be determined based on job related-factors such as skills, experience, and education or training. Information on our benefits can be found via the link below. Intern ranges can be found below.<br/><br/><ul><li>Pay Transparency Calculator: https://bit.ly/3B7gwql</li><li>Benefits: https://www.hashicorp.com/careers/benefits</li><li>Intern Ranges: https://bit.ly/3H2soha<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!<br/><br/><strong>About The Role<br/><br/></strong>By combining best-in-class autonomy and cloud-connected real-time visibility, drones will become critical and ubiquitous infrastructure that can be deployed and monitored in real-time to solve a variety of problems faster, cheaper, and safer than ever before. As a full-stack intern, you will work on important and exciting projects related to building out cloud features and infrastructure required to turn this vision into a reality.<br/><br/>An ideal intern candidate is a junior, senior, or MS-level college student with practical project and/or internship experience developing complex web applications or backend data systems.<br/><br/><strong>How You’ll Make An Impact<br/><br/></strong><ul><li>Leverage your past experiences, best practices, and open-ended problem solving skills to help make the world more productive, creative, and safe with autonomous drones. <br/><br/><br/></li></ul><strong>Project Examples<br/><br/></strong><ul><li>Build out customer-facing product features to enhance existing capabilities and/or enable new use cases on the Skydio Platform</li><li>Develop web front-ends, APIs, and drone and server-side applications for fleet management, photo and video asset management, 3D reconstruction, and more</li><li>Develop secure, efficient, observable, scalable, and robust software for dealing with real-time data and video from fleets of Skydio drones<br/><br/><br/></li></ul><strong>What Makes You a Good Fit<br/><br/></strong><ul><li>Solid software engineering foundation and a commitment to writing clean, well-architected code</li><li>You are a junior, senior, or MS-level student with meaningful project and/or internship experience developing complex web applications or backend data systems.</li><li>Bonus points for experience shipping products or features within a collaborative engineering team environment.</li><li>Proficiency with Python and/or Javascript/Typescript</li><li>Familiarity with REST-ful APIs, Linux operating system configuration, build tools, relational databases (Postgres, MySQL) and caching systems (Redis, Memcached)</li><li>Understanding of cloud service offerings (AWS, GCP), deployment techniques, and configuration management</li><li>Bonus points for familiarity with robotics software development concepts or real-time networking<br/><br/><br/></li></ul><strong>Compensation Range:</strong> The hourly rate for this position is $41/hr for Undergrad, $53/hr for Graduate students, and $58 for PhD students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience.<br/><br/><ul><li>For some positions the pay may be dependent upon the individual's regional location.<br/><br/><br/></li></ul>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.<br/><br/>As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employee’s race, color, ethnicity, national origin, citizenship, sex/gender (including pregnancy, childbirth, breastfeeding and related medical conditions), gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.<br/><br/>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Aviation and Aerospace Component Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

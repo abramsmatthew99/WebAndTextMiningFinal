@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>RECENT COLLEGE GRADS ENCOURAGED TO APPLY: LOOKING FOR HARDWORKING, INCREDIBLY SMART, RESOURCEFUL AND POSITIVE PERSON TO START ASAP!<br/><br/>We are a Legal Recruiting Agency with a global reach seeking a Research Associate to work in our Century City office and work directly with the CEO who travels frequently and primarily works out of New York.<br/><br/>Are you a fast-typer, incredibly detail-oriented, and interested in the legal industry?<br/><br/>Our researchers build, manage and maintain all client data and information pertinent to the recruitment process for the best partner-level lawyers in the world. You will be doing open-source research and creating files to assist in our recruitment strategy.<br/><br/>We work with very high-profile clients and top 100 law firms around the world, this is a great position for a recent grad who is interested in gaining legal experience and is results-driven. You must be high energy, take direction well, have extreme attention to detail and be able to take on long hours in a fast-paced environment!<br/><br/>This is a full time position with benefits, paid parking, bonuses + OT! You are compensated at an hourly rate but your salary depends on how many hours you put in (up to 60K!)<br/><br/>You MUST be able to work 40+ hours, some nights &amp; weekends. We want someone who can start IMMEDIATELY (recent college graduates OK). You must have a BACHELOR's DEGREE, sorry no exceptions!<br/><br/>Although data-entry experience and demonstrated computer skills are preferred, prior experience in the legal field or an overall interest are not necessary, as you will gain extensive first hand insight into the legal industry and executive recruiting.<br/><br/>Recent graduates from UCLA and USC living near century city encouraged to apply!<br/><br/>Good majors for this role: accounting, English, political science, pre-law, computer science, business, economics, psychology, communications, etc.<br/><br/>Job Type: Full-time<br/><br/>Salary: $20.00 to $22.00 /hour<br/><br/>Job Type: Full-time<br/><br/><strong>Company Description<br/><br/></strong>Leading Lawyer Search Agency<br/><br/>Leading Lawyer Search Agency
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

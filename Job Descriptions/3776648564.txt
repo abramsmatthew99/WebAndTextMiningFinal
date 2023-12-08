@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Urgent Requirement with our Direct Client. Please share your resumes to shilpa@zilliontechnologies.com</p><p><br/></p><p>Position: Developer Full Stack Professional</p><p>Location: Hybrid , 3 days a week onsite . Local only to DC/MD/VA </p><p>Duration: CTH after 3 months</p><p>Rate: Open</p><p>Work Authorization: GC/USC Only</p><p><br/></p><p><strong>Must Haves: Minimum of 3 years of hands on development experience using Java &amp; Spring frameworks, Angular on the front end (version 8+ is a must have, strong preference for 13) On the database side, advanced level SQL experience is an absolute must have.</strong></p><p><br/></p><p><strong><span class="ql-cursor"> </span>Qualifications:</strong></p><p><strong>• Bachelor Degree in Computer Science or Information Technology or related field or equivalent combination of education and experience from which knowledge and skills may be acquired</strong></p><p><strong>• Minimum of 3 years of experience in software development; 5 years of relevant experience and specialized training or certification in the following technologies: J2EE, Java, Web Development and SQL; Groovy a plus;</strong></p><p><strong>• Experience in using Java &amp; UI frameworks – Angular, Spring</strong></p><p><strong>• Position requires strong analytical skills, software engineering process skills, and the understanding of structured data formats .</strong></p><p><strong>• Experience with REST based Web services</strong></p><p><strong>• Good SQL skills required</strong></p><p><strong>• Familiarity with Bootstrap, JSON, Jenkins, Maven Builds is a plus.</strong></p><p><strong>• Experience in developing APIs using Spring Boot framework, ideally with Docker container or OpenShift Cloud Platform (OCP)</strong></p><p><strong>• Looking for solid understanding and implementation of tried and true as well as modern design patterns and architectural principles.</strong></p><p><strong>• Modern Tools:,Jenkins, Cucumber/Specflow, Atlassian Suite (Bamboo, Jira, Bitbucket), Git</strong></p><p><strong>• DBs: SQL server, PostgreSQL,</strong></p><p><strong>• Cloud: AWS</strong></p><p><strong>• Hands-on experience with Build and Deployment tools and languages preferred</strong></p><p><strong>• Knowledge of the Mortgage Industry is a nice to have.</strong></p><p><strong>• Experience with Agile development project methodologies preferred</strong></p><p><strong>• Demonstrated analytical ability and problem-solving skills</strong></p><p><strong>• Self-starter; collaborative; problem-solver</strong></p><p><strong>• Organized, ability to meet deadlines, work independently, manage priorities</strong></p><p><strong>• Proficient in documenting and communicating ideas clearly</strong></p><p><strong>• Ability to resolve issues in a non-confrontational manner</strong></p><p><strong>• Good interpersonal and relationship building skill</strong></p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

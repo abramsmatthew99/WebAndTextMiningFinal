@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Walmart</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Carrie Meier" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQFIud-Jfdofbg/profile-displayphoto-shrink_100_100/0/1694616856461?e=2147483647&amp;v=beta&amp;t=63PPQvcPGd26VCl_ScpxOsIr-4ssovnZwS8LeIAjelg" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Carrie Meier
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Sr. Talent Acquisition Partner- Walmart Health and Wellness- Seeking pharmacists who provide exceptional care for all
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Carrie Meier" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fcarrie-meier&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Summary...<br/><br/>What you'll do...<br/><br/>Do you have boundless energy and passion for engineering data used to solve dynamic problems that will shape the future of retail? With the sheer scale of Walmart's environment comes the biggest of big data sets.<br/><br/>As a Walmart Senior Software Engineer, you will play a pivotal role in designing, developing, and implementing cutting-edge solutions. you will be responsible for Core Services / Platform engineering for delivering the core capabilities that cut across Data Ventures products.<br/><br/><strong>About The Team<br/><br/></strong>Our team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U.S. offers an extensive selection that our customers value, whether they shop online at Walmart.com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization. Data Ventures exists to unlock the full value of Walmart's data by developing and productizing B2B data initiatives that empower merchants and suppliers to make better, faster decisions for the business. As part of this transformation, we're seeking entrepreneurial individuals to help drive data productization from concept to<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Leads and participates in medium- to large-scale projects by reviewing project requirements, translating requirements into technical solutions, gathering requested information, writing, and developing code, conducting unit testing. Communicating status and issues to team members and stakeholders.</li><li>Collaborating with project team and cross functional teams. Troubleshooting open issues and bug-fixes, ensuring on-time delivery and hand-offs. Interacting with project manager to provide input on project plan.</li><li>Models' compliance with company policies, procedures and supports company mission, values, and standards of ethics and integrity by incorporating these into the development and implementation of business plans.</li><li>Creates training documentation. Oversees the tasks of less experienced programmers and stipulates system troubleshooting supports.</li><li>Collaborate with cross-functional teams to design and develop scalable, high-performance software solutions.</li><li>Take ownership of full-stack development, including front-end and back-end components.</li><li>Utilize your expertise in Java, Spring Boot, and microservices to create robust and efficient applications.</li><li>Design and optimize databases using SQL and NoSQL technologies for data storage and retrieval.</li><li>Implement event-driven architectures using Kafka and ensure seamless integration with other systems.</li><li>Work with cloud platforms such as GCP and Azure to build scalable and secure applications.</li><li>Utilize the ELK stack for log analysis and monitoring of system performance.</li><li>Develop and optimize queries using Big Query to analyze large datasets.</li><li>Collaborate with the team to perform code reviews, provide constructive feedback, and ensure high-quality code delivery.</li><li>Stay updated with emerging technologies and industry best practices and contribute to knowledge sharing within the team.<br/><br/></li></ul>What you'll Bring...<br/><br/><ul><li>At least 4+ years of relevant experience in building highly resilient, highly scalable systems.</li><li>A good understanding of Java and Microservices.</li><li>Hands on experience with Java, Spring Boot, Cloud (Azure/GCP/AWS ), Kafka (or other messaging service), Memcached/Redis or any caching technologies, relational DBMS ( MySQL, Oracle etc. )</li><li>Should be hands on writing/reviewing design &amp; code.</li><li>Understand the product and project management space with Agile methodologies.</li><li>CI/CD development environments/tools: Git, Maven, Jenkins.</li><li>Demonstrated end-to-end ownership for development and design of least one cloud-based project - Experience in building extensible platforms, data pipelines are desirable.</li><li>Experience in internalization is a plus.</li><li>Strong desire to drive change, and ability to adapt to change quickly. Proficient in new and emerging technologies.</li><li>Ability to balance the long-term "big picture" and short-term implications of design decisions.</li><li>Exceptional communication and interpersonal skills - including negotiation, facilitation, and consensus building skills; ability to influence and persuade, without direct control.</li><li>Mentoring/coaching Senior staff engineers and other Engineers.</li><li>Focus on reusability, frameworks, patterns and configurations tools for faster development.</li><li>Practitioner of Agile (Scrum) methodology<br/><br/></li></ul>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.<br/><br/><strong>About Global Tech<br/><br/></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered.<br/><br/>We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.<br/><br/>Flexible, hybrid work<br/><br/>We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.<br/><br/><strong>Benefits &amp; Perks<br/><br/></strong>Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.<br/><br/><strong>Minimum Qualifications...<br/><br/></strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.<br/><br/>Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area.Option 2: 5 years' experience in software engineering or related area.<br/><br/><strong>Preferred Qualifications...<br/><br/></strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.<br/><br/>Master's degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area.<br/><br/>Primary Location...<br/><br/>603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of America<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

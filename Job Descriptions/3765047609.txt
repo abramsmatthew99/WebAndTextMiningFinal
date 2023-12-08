@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Must be Local to Tampa Bay area. <br/><br/></strong><strong>Must be able to come in 2 days a week to this address: 880 Carillon Parkway, St. Petersburg, FL<br/><br/></strong><strong>Must Have Heavy SQL Server Database Experience.<br/><br/></strong><strong>W2 candidates only <br/><br/></strong><strong>Duties/Responsibilities<br/><br/></strong><ul><li>This individual will be responsible for writing system requirements that will ensure the technology solution will meet the needs of the business.</li><li>Responsible for leveraging appropriate technical resources.</li><li>Requires a high level understanding of systems, industry and end-user requirements.</li><li>Demonstrates subject matter expertise and is able to integrate domain knowledge with an understanding of Financial Services standards and practices.</li><li>Is the primary on the most complex or escalated issues and may provide direction and guidance team members.</li><li>Applies specialized business knowledge and technical skills to significant deliverables and projects that involve multiple IT departments, business units and have enterprise impact.</li><li>Is able to make judgements and recommendations based on the analysis and interpretation of data.</li><li>Supports the business by handling configuration and workflow management for financial and document management systems.<br/><br/></li></ul><strong>Skills<br/><br/></strong><ul><li>Creates detailed business requirements for functional (e.g., business processes, rules) and non-functional (e.g., data, security) capabilities.</li><li>Validates test cases to ensure that scripts will evaluate the business function being performed.</li><li>Gathers and interprets information from multiple sources (including databases, interviews, etc.) and makes recommendations.</li><li>Provides support for application development teams including documenting business processes.</li><li>Translates technical concepts to business audience and business information to a technical audience.</li><li>Participates in developing estimates and implementation plans for technical solutions.</li><li>Partners with team members to develop project schedules, reports and documentation. May be required to act as project lead on small to medium projects and/or provide direction to others on the team.</li><li>Works with User Experience / Design resources to help visualize requirements into prototype.</li><li>Understands and applies principles in risk management, issue tracking and change management.</li><li>Creates workflows.</li><li>Ability to query a SQL Server Database (latest version) using SQL and create reports in SSRS/ Tableau.</li><li>Experience writing scripts for data manipulation.</li><li>Works with vendors to submit and resolve service requests and incidents.</li><li>Ideally the candidate has experience with financial accounting systems.</li><li>Performs other duties and responsibilities as assigned.</li><li>Education: Minimum of a Bachelor's degree in Computer Science, MIS or related degree</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

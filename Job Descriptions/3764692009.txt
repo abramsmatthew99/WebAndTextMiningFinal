@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Reserv<br/><br/></strong>Reserv is an insurtech creating and incubating cutting-edge AI and automation technology to bring efficiency and simplicity to claims. Founded by insurtech veterans with deep experience in SaaS and digital claims, Reserv is venture-backed by Bain Capital and Altai Ventures and began operations in May 2022. We are focused on automating highly manual tasks to tackle long-standing problems in claims and set a new standard for TPAs, insurance technology providers, and adjusters alike.<br/><br/>We have ambitious (but attainable!) goals and need adjusters who can work in an evolving environment. If building a leading TPA and the prospect of tackling the long-standing challenges of the claims role sounds exciting, we can’t wait to meet you.<br/><br/><strong>About The Role<br/><br/></strong>For this role, we are seeking data analysts with strong Python and SQL skills, a curiosity for how claims work and how our systems work them, the ability to interface with customers from technical and non technical backgrounds and the ability to both run independently and collaborate with our engineering and operations orgs alike. If you are ready to mold the vision for Reserv’s technology, join us on the journey.<br/><br/><strong>What We Need<br/><br/></strong><ul><li>Work with our data stack: Python (Pandas to NLTK), Postgres, Looker, ECS, Docker etc</li><li>Serve as the main technical liaison between Reserv and our largest customers</li><li>Ship reporting code and build ML tools that solve for our customers needs</li><li>Help translate the core lifecycle of a claim into structured data and partner with the product ops team to incorporate low drag data collection into the claim lifecycle</li><li>Build NLP solutions on large swathes of textual data</li><li>Communicate ideas and specifications through detailed, precise writing</li><li>Influence the culture, values, and processes of a growing engineering team</li><li>Enjoy and have fun being creative and thinking outside of the box. You will need to draw on analogous situations you’ve worked on before, but we are not traversing well-traveled roads. “Where we’re going, we don’t need roads!”<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>6-8 years of experience as an individual contributor with experience using modern analytics and programming languages with an emphasis on statistical analysis</li><li>A proven ability to interface with high value customers and communicate with both technical and non technical audiences alike</li><li>Have a strong demonstrated toolkit to build robust and performant models</li><li>Have a proven track record of shipping high quality data analysis at a high cadence</li><li>A passion for building intuitive technology and a thirst for learning</li><li>Able to think through customer requirements and prioritize what is a must-have, nice-to-have, or irrelevant</li><li>Have a strong technical skillset but also the willingness and ability to take over tasks outside your core competency<br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Generous health-insurance package with nationwide coverage, vision, &amp; dental</li><li>401(k) retirement plan with employer matching</li><li>Competitive PTO policy – we want our employees fresh, healthy, happy, and energized!</li><li>Generous family leave policy</li><li>Work from anywhere to facilitate your work life balance paired with frequent, regular corporate retreats to build team cohesion, reinforce culture, and have fun</li><li>Apple laptop, large second monitor, and other quality-of-life equipment you may want. Technology is something that should make your life easier, not harder!<br/><br/></li></ul>At Reserv, we value diversity and believe that a variety of perspectives leads to innovation and success. We are actively seeking candidates who will bring unique perspectives and experiences to our team. We welcome applicants from all backgrounds and encourage those from underrepresented groups to apply. If you believe you are a good fit for this role, we would love to hear from you!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

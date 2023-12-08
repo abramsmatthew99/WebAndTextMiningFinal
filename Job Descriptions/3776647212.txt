@@ -1,0 +1,35 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Software Engineer Intern (Unpaid with Equity and Future Salary Opportunities)</p><p>[Company Description]:Esynctechnologies is an innovative startup poised to revolutionize the educational landscape through the use of artificial intelligence and cutting-edge technology. Our mission is to create a platform that enhances and personalizes the learning experience for students of all ages. We believe that education should be accessible, engaging, and tailored to individual needs.</p><p>[Job Description]:</p><p>We are seeking talented and passionate Software Engineers to join our dynamic team. This is a unique opportunity for individuals looking to gain valuable work experience while contributing to a brand-new startup. As a Software Engineer at Esynctechnologies, you will have the chance to work on exciting projects that merge the fields of education and artificial intelligence.</p><p><br/></p><p>[Responsibilities]:</p><p>* Collaborate with the development team to design, develop, and deploy software solutions.</p><p>* Contribute to the creation and maintenance of our AI-powered educational platform.</p><p>* Participate in brainstorming sessions and provide creative input for innovative features and improvements.</p><p>* Conduct research and stay up-to-date with the latest advancements in education technology and artificial intelligence.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

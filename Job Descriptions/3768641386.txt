@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong>Job Description<br/><br/></strong><strong><strong>Who is Tenable?<br/><br/></strong></strong>Tenable® is the Exposure Management company. 40,000 organizations aroun<strong>d </strong>the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 60 percent of the Fortune 500, 40 percent of the Global 2000, and large government agencies. Come be part of our journey!<br/><br/><strong><strong>What makes Tenable such a great place to work? <br/><br/></strong></strong>Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together!<br/><br/><strong>Your Role<br/><br/></strong>Tenable is looking for a Software Engineer to join our Tenable Vulnerability Database team (Research). This position will involve building and maintaining our framework for automated ingestion of vulnerability intelligence.<br/><br/><strong>Your Opportunity<br/><br/></strong><ul><li>Help to solve real-world customer problems, as well as contributing to innovation in different shapes and forms. This team plays an integral and essential role within our Tenable Research department and Tenable’s products, and is actively expanding so we can continue to drive innovation and make an impact on our products &amp; customers.</li><li>Collaborate closely with highly-talented engineers whose backgrounds and expertise span across several different areas and interests. You will have a chance to learn from your job daily as well as those around you. Specifically, you will:</li><ul><li>Develop and maintain an automated system for generating and validating content for Tenable products</li><li>Support a DevOps / CICD software delivery model</li><li>Analyze current workflows and suggest, design and implement improvements</li><li>Actively collaborate with other teams in an Agile development environment</li><li>Incrementally improve the quality of our offerings, data and services</li><li>Contribute to API and UI services</li></ul><li>Joining a culture that values and encourages free sharing of ideas and team building. You will enjoy your work every day.<br/></li></ul><strong>What You'll Need<br/><br/></strong><ul><li>2+ years of software development experience in Python</li><li>B.S. degree in Computer Science or directly related field, or equivalent work experience</li><li>Must have a strong initiative and the ability to work both in a self-directed manner and as part of a team</li><li>Strong written and verbal communication skills</li><li>A security-focused development attitude</li><li>Disciplined focus on roadmap contribution and execution, willingness to shift priorities as needed</li><li>Understanding of the full software development life cycle (SDLC): requirements analysis, design, estimation, development, quality control and unit testing<br/><br/></li></ul><strong>And Ideally<br/><br/></strong><ul><li>Experience with the following (included but not limited to): AWS, PostgreSQL, Jenkins, Datadog, Splunk, Sentry.</li><li>Familiarity with CI/CD process and tools for building, testing and delivering quality software in a scalable fashion</li><li>Familiarity with industry best practices and code review</li><li>Cybersecurity experience preferred but not mandatory<br/><br/></li></ul>If you’ve reached this point, and you’re still not sure if you should apply…..Just do it! We’re human and we don’t fit a perfect mold. Having diverse backgrounds, experiences and perspectives, that’s a good thing! If you’re coming from outside of the cyber industry - great! If you’re looking to try something new - awesome! All we ask is you bring passion to all that you do, crave creativity and innovation, and embrace the hard work of gaining new skills and accepting big challenges.<br/><br/><em>We’re committed to promoting Equal Employment Opportunity (EEO) at Tenable - through all equal employment opportunity laws and regulations at the international, federal, state and local levels.<br/><br/></em>The base salary range for this position is $100,000.00 - $133,333.33 USD. Compensation for the role will depend on a number of factors, including the candidate's qualifications, skills, competencies, location and experience, and may fall outside of the range shown. Employees are also eligible for variable compensation in addition to base pay (commission for sales roles, bonus for non-sales roles), depending on company and individual performance. Tenable also offers a variety of comprehensive and competitive benefits which include: medical, dental, vision, disability and life insurance; 401(k) retirement savings with company match; an employee stock purchase plan; an employee referral program; flexible spending accounts; an Employee Assistance Program (EAP); education assistance; parental leave; paid time off (PTO); company-paid holidays; health and wellness events; and community programs.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

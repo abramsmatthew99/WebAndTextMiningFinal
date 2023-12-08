@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong> <strong>Junior Web Developer (React JS) </strong>(US/Canada Residents Only, 1 year experience, remote)<br/><br/></strong>Team Remotely Inc. is a staffing and recruitment agency that offers a comprehensive solution for talent acquisition, including sourcing, vetting, pay rolling, and managing talent. Whether you need contract staffing, direct hire, direct sourcing, talent pools, or diversity initiatives, our model can support your hiring strategy.<br/><br/><strong> Hiring Type:</strong> Full-Time<br/><br/><strong> Base Salary:</strong> $60K-$74K Per Annum.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Designing user interface changes for web-based DB applications.  </li><li>Reviewing application requirements and interface designs.  </li><li>Developing and implementing highly responsive user interface components using react concepts.  </li><li>Writing application interface codes using JavaScript following react.js workflows.  </li><li>Troubleshooting interface software and debugging application codes.  </li><li>Developing and implementing front-end architecture to support user interface concepts.  </li><li>Monitoring and improving front-end performance.  <br/><br/></li></ul><strong>Qualifications And Experience<br/><br/></strong><ul><li>Bachelor’s degree in computer science, information technology, or a similar field.  </li><li>Previous experience working as a react.js developer.  </li><li>In-depth knowledge of JavaScript, CSS, HTML, jQuery, and front-end languages.  </li><li>Knowledge of REACT tools including React.js, Webpack, Enzyme, Redux, and Flux.  </li><li>Experience with user interface design.  </li><li>Knowledge of performance testing frameworks, including Mocha and Jest.  </li><li>Troubleshooting skills.  </li><li>Project management skills.  </li><li>Problem-solving skills.  </li><li>Verbal communication skills.  <br/><br/></li></ul><strong> Why work with Team Remotely?<br/><br/></strong>Team Remotely Inc. is a staffing platform offering a seamless experience for employers and candidates. Employers can post job openings and specify their requirements, while candidates can create profiles and upload resumes.<br/><br/>The team of Team Remotely continuously learns and adapts based on previous successful placements, constantly improving its matching capabilities. This ensures that the recommendations provided by Team Remotely are tailored and accurate, increasing the likelihood of a successful match between employers and candidates. By providing intelligent and data-driven solutions, they strive to enhance the efficiency and effectiveness of the hiring process, ultimately helping companies find the best talent and individuals find their dream jobs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

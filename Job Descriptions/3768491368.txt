@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>The Summer Internship<br/><br/></strong>At Discord, we offer a personalized experience for interns, and our aim is to offer an experience that mimics what it is like to actually work here. We match qualified interns with projects and groups, based on interests and skill sets and fully embed interns within those groups for the summer.<br/><br/>Internships are paid and are a minimum of 12 weeks, targeting a start date in June to accommodate varying school calendars.<br/><br/><strong>The Team<br/><br/></strong>The Security Engineering team at Discord collaborates across Engineering, IT, and Product to build services, tools, and functionality that helps keep Discord safe. We aim to make the secure way the easy way so that our colleagues can work while maintaining peace of mind that they are developing a secure Discord.<br/><br/>What You'll Do<br/><br/>Security Engineering is made up of several teams. You'll be aligned to one of these teams based on your skillset and interests, but will work with the entire Security Engineering organization (and many others!).<br/><br/><ul><li>Deploy and increment tooling to progress Discord's zero-trust corporate environment goals</li><li>Build new functionality to make Identity and Access Management frictionless and delightful</li><li>Develop systems to clarify service, code, and infrastructure stewardship and responsibility</li><li>Build tooling to automate security incident response workflows<br/><br/></li></ul>You'll Excel In This Role If<br/><br/><ul><li>You have a passion for solving security problems with software</li><li>You want to understand and defend against malicious actors</li><li>You are proficient in Python, Rust, or similar programming language</li><li>In the process of obtaining a Bachelors (rising Junior/Senior) Computer Science, Statistics, Mathematics, or related technical field<br/><br/></li></ul>Salary of $63/hour*<br/><br/><ul><li>Note: Disclosure as required by NYC Pay Transparency Law and CO Disclosure as required by sb19-085(8-5-20)</li><li>Benefits listed below may differ from those available depending on terms of employment*<br/><br/></li></ul>Benefits and Perks<br/><br/><ul><li>Comprehensive medical insurance including Health, Dental and Vision (plus up to $20,000 for gender affirmation procedures)</li><li>Mental health resources and quarterly wellness stipends</li><li>14+ paid holidays, 4 weeks of PTO + use-what-you-need sick days </li><li>Paid parental leave (plus fertility, adoption and other family planning benefits)</li><li>Flexible long-term work options (remote and hybrid)</li><li>Volunteer time off</li><li>A diverse slate of Employee Resource Groups </li><li>Plus commuter contributions and other perks for office-based employees<br/><br/></li></ul><strong>About Us<br/><br/></strong>Discord is a voice, video and text app that helps friends and communities come together to hang out and explore their interests — from artists and activists, to study groups, sneakerheads, plant parents, and more. With 150 million monthly users across 19 million active communities, called servers, Discord has grown to become one of the most popular communications services in the world. Discord was built without selling ads or user data and instead, offers a premium subscription called Nitro that gives users special perks like higher quality streams and fun customizations.<br/><br/>We’re working toward an inclusive world where no one feels like an outsider, where genuine human connection is a click, text chat, or voice call away. A place where everyone can find belonging. Challenging? Heck yes. Rewarding? Double heck yes. It’s a mission that gives us the chance to positively impact millions of people all over the world. <strong>So if this strikes a chord with you, come build belonging with us!</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

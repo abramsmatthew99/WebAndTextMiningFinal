@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Security Engineer, SOAR SME</strong></p><p><br/></p><p>Our client, a first-class Technology Solutions Provider, is looking to hire an experienced Security Orchestration, Automation and Response (SOAR) Engineer for a permanent hybrid position based in Salem, NH. As the first person on the team with this expertise, this Engineer will assess and improve SOC processes and workflows and will further develop existing automation capabilities for customers. Our client is looking to speak with candidates with a broad network security skillset and the flexibility to learn and implement complementary solutions.</p><p>Applicants must be able to work partially onsite in Salem, NH according to the client’s hybrid schedule to be eligible for this position.</p><p><br/></p><p><strong>Compensation:</strong> $150-185K*</p><p>*salary listed not guaranteed – potential offers vary based on experience level, qualifications, and internal equity and may be outside of this range.</p><p><br/></p><p>If you are interested and meet the qualifications below, apply with your resume for more information!</p><p><br/></p><p><strong>Responsibilities</strong>:</p><ul><li>Collaborate with various teams on projects brought to Engineering by technical leads, account teams, and customers</li><li>Lead the SOAR build, deployment, and management for the SOC</li><li>Write automation in the SOAR to facilitate efficient IR activities</li><li>Identify and collect log sources needed for SIEM security and compliance</li><li>Perform cleanup and sanitation of incoming log sources and events</li><li>Generate appropriate alerting within SIEM to leverage in automation activities</li><li>Assess new integrations and automation processes and implement those that can enhance platform capabilities and be leveraged across security entities</li><li>Identify opportunities to improve interconnectedness of tool systems, ticketing platform, and SIEM platform</li><li>Analyze and implement improvements to workflows, including those reliant on third-party API integration</li><li>Engage with key stakeholders to confirm SOAR/SIEM systems are fulfilling established operational expectations</li></ul><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor’s degree in Computer Science, Engineering or equivalent experience/certifications required</li><li>Hands-on experience with SOAR and SIEM technologies required (Palo Alto or Fortinet)</li><li>Proficiency in Perl, PHP, Python, or other programming and scripting languages common to security (Advanced proficiency a plus)</li><li>Experience with scripting automation tools</li><li>Must have experience with firewalls and load balancers</li><li>Solid understanding of common operating system vulnerabilities</li><li>Ability to perform network protocol analysis and raw data capture</li><li>Must have a thorough understanding of dynamic routing protocols and static routing</li><li>Versatile, adaptable communicator able to present information to both technical and executive-level audiences</li><li>Knowledge of PCI-DSS/SOX methodologies and processes is a plus</li></ul><p><br/></p><p><br/></p><p><strong>Our Commitment to Diversity, Equity &amp; Inclusion</strong></p><p><strong><span class="ql-cursor"> </span></strong></p><p>The Hollister Group is an equal opportunity employer. We welcome and encourage applications from people who are under-represented in their respective occupation or position.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology, Analyst, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Computer Networking Products, and Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

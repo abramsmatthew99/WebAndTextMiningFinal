@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Join our dynamic and agile development team as a Software Development Engineer II. In this role, you'll be an integral part of building and enhancing enterprise-grade software systems. We work with cutting-edge technologies within the Microsoft .NET and/or Java development stack, ensuring scalable solutions for high transaction environments.<br/><br/><strong>Job Expectations<br/><br/></strong>Design Excellence: Create, implement, and test software components based on SOLID principles.<br/><br/>Security First: Adhere to secure programming and web application security best practices.<br/><br/>Quality Advocacy: Maintain high software quality standards by establishing good practices and habits within the team.<br/><br/>Transparent Collaboration: Provide regular updates on projects and team performance. Participate in peer code reviews and collaborate with cross-functional teams.<br/><br/>Continuous Improvement: Identify areas for growth and improvement within the team. Contribute to the collection and documentation of user requirements, development of user stories, estimates, and work plans.<br/><br/>Technical Aptitude: Analyze and resolve technical and application problems. Practice regular CI/CD and support, maintain, and document software functionality.<br/><br/>Research and Evaluation: Stay up-to-date with industry trends, research and evaluate various software products.<br/><br/><strong>Knowledge, Skills, And Abilities<br/><br/></strong>Communication Expertise: Strong communication skills with the ability to articulate technical concepts effectively.<br/><br/>Technical Proficiency: Knowledge of Object-oriented Design and Analysis (OOA and OOD) and SOLID principles. Strong proficiency in C# .NET or Java.<br/><br/>Database Mastery: Strong knowledge of both relational and non-relational databases.<br/><br/>Best Practices: Familiarity with best practices within .NET and/or Java technology, including parallel programming, thread-safe coding, managed memory architecture, garbage collector, and cache management.<br/><br/>Architecture Insights: Knowledge and experience in distributed systems, MicroServices, SOA, and n-tier architecture is a plus. Production experience with Docker and Kubernetes is a bonus.<br/><br/>Team Player: A team player with a "get it done" attitude.<br/><br/><strong>Experience Requirements<br/><br/></strong>Minimum of three to five years of experience in software development, design patterns, and software architecture.<br/><br/><strong>Education Requirements<br/><br/></strong>Bachelor's Degree in Computer Science/Engineering or related fields.<br/><br/><strong>Judgment/Reasoning Ability<br/><br/></strong>Able to identify, troubleshoot, and resolve problems quickly using sound judgment, poise, and diplomacy. Ability to escalate issues in a timely manner when required.<br/><br/><strong>Physical Demands<br/><br/></strong>Requires the ability to talk and hear, sit, walk, climb stairs, use hands and fingers, bend, stoop, and reach with hands and arms. Occasionally lift or move office products and supplies up to 25 pounds.<br/><br/><strong>Work Environment<br/><br/></strong>Moderate noise level, hectic yet fast-paced work environment with multi-level distractions. Professional, yet casual office environment. Ability to work extended hours as required.<br/><br/><strong>Remote Work<br/><br/></strong>Remote work opportunities available.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

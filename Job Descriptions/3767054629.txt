@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our client - a large hospital chain is seeking a seasoned Software Engineer for designing, developing, and implementing systems based on requirements.<br/><br/>The candidate should have a good knowledge of development methodologies and follow them while designing and coding.<br/><br/>This role requires collaborating and working with another team member focusing on quality support to both internal and external users, focusing on customer services and timeliness.<br/><br/><strong>Candidate Skill Set<br/><br/></strong>Education: Bachelor's degree in Computer Science, Engineering, Math or related field<br/><br/><ul><li>Software Development Life Cycle and process</li><li>Algorithm and Data Structure</li><li>Critical and analytical thinking skills</li><li>Understanding of programming principles and design</li><li>Strong technical knowledge of Application, Integration Design and Development of systems, databases, operating systems and Information Services.</li><li>Must be able to solve complex problems with direction.</li><li>Must be able to interact effectively and patiently with customers, especially while under pressure.</li><li>Ability to work on multiple projects/tasks simultaneously to meet project deadlines as required.</li><li>Ability to establish and maintain positive working relationships with other employees<br/><br/></li></ul><strong>Responsibilities<br/><br/></strong><ul><li>Analyze ideas and business and functional requirements to formulate a design strategy.</li><li>Act as a tenant to draw out a workable application design and coding parameters with essential functionalities.</li><li>Work in collaboration with the team members to identify and address the issues by implementing a viable technical solution that is time and cost-effective and ensuring that it does not affect performance quality.</li><li>Develop code following the industry's best practices and adhere to the organizational development rules and standards.</li><li>Develop and deploy code using existing tools and platforms utilized for automation and testing.</li><li>Integrates software components, subsystems, facilities, and services into the existing technical systems environment; assesses the impact on other systems, and works with cross-functional teams within information Services to ensure positive project impact. Installs configure and verify the operation of software components<br/><br/></li></ul>Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.”<br/><br/><em>We are committed to providing equal employment opportunities and fostering an inclusive work environment. We encourage applications from all qualified individuals regardless of race, ethnicity, religion, gender identity, sexual orientation, age, disability, or any other protected status. If you require accommodations during the recruitment process, please let us know.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

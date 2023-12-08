@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>PREMIER SYSTEM SUPPORT<br/><br/></strong><strong>110 N MAIN ST, DAYTON, OH 45402 <br/><br/></strong><strong>DEPT: DATA INTEGRITY/CHART CORRECT<br/><br/></strong><strong>Full-Time / 1.0 FTE / 7:30am-4:00pm<br/><br/></strong>This position has potential to work remote/from home after working in the office for one year.<br/><br/>Under the director of the manager, this individual is responsible for maintaining a single and accurate electronic medical record for PHP’s EMR. The Analyst will have multiple roles centered on maintenance of the patient record, end-user education and support. Typical duties include maintaining the integrity of PHP’s EMR, merging and unmerging patient records, transfer of data between patient records, research and analysis of patient records, training and meeting facilitation for the EMR Integrity members, system and functional testing for the PHP EMR as warranted. The individual fulfilling the duties of this position participates in all areas of project automation, including: project definition, file maintenance, project management, system support, query report building, estimating system design, and systems implementation within the core system and EMR specific systems. Participates in programming, planning, organizing, analyzing and understanding all master file activities, functioning as a liaison between the users and Information System department. The Analyst must know and understand the hospital’s financial policies, and have the ability to direct users to apply this knowledge as well as following and completing all applicable IT policies and procedures.<br/><br/>Must demonstrate strong analytical skills, be a visionary/strategist, and possess strong project management skills. Must be process oriented and take ownership of projects and outcomes. Must be able to learn on the fly and be open to change. Must demonstrate being proactive in problem solving. Must possess interpersonal savvy to be able to relate and communicate with multiple levels of people possessing different skill sets. Must be flexible with work hours, and if necessary be on-call during off-business hours or work from home to meet the needs of the HIMS department.<br/><br/>Education: Associate’s degree in HIMS, Computer Science, Management Information Systems, Business and/or related field required.<br/><br/>Licensure: RHIT or RHIA<br/><br/>Certification: EPIC certification in Epic HIM EMPI application is preferable. Non certified candidates must acquire certification within 9 months of employment.<br/><br/>Experience: 2 years hands on EPIC/other major healthcare system build/programming experience is required or EPIC certification. Five (5) years experience in an HIM office coordinating Epic, or other similar hospital HIM software. Two years of technical project management experience in an IT environment required.<br/><br/><strong>Skills/Other<br/><br/></strong><ul><li> Must be flexible with work schedule and demand</li><li> Must be able to work independently and be on call when requested</li><li> Ability to review work for detailed accuracy and completeness required.</li><li> Familiarity with Microsoft Windows applications required.</li><li> Must be able to learn new software applications and adapt to system changes</li><li> Basic knowledge of accounting principles, including debits and credits required.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Company<br/><br/></strong>Our client is a leading alternative investment firm with over $160 billion in AUM. The firm invests in credit, fixed income, venture capital, and real estate companies.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Act as level 3 support; resolve end-user requests and bugs across multiple products</li><li>Work with users to collect, validate, and document data and reporting needs</li><li>Facilitate implementation of business requirements for all technology initiatives</li><li>Participate in user acceptance testing and support system training</li><li>Provide continuous evaluation of technology solutions and capabilities to ensure alignment with business objectives</li><li>Identify areas of risk, while monitoring the current environment, potential improvement areas, and the financial implications of those decisions<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree on computer science or related field required</li><li>3-5 years of related work experience</li><li>Experience working with SaaS vendors</li><li>Experience with data visualization or analytics tools</li><li>Experience in iPaaS/integration tools such as Workato, Mulesoft, and/or Zapier</li><li>Salesforce Administrators certification required<br/><br/></li></ul><strong>Salary Range<br/><br/></strong>$150,000-$200,000<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance and Accounting/Auditing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>WHAT YOU DO AT AMD CHANGES EVERYTHING<br/><br/></strong>We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives.<br/><br/>AMD together we advance_<br/><br/><strong>The Role<br/><br/></strong>AMD is looking for an influential software engineer who is passionate about improving the performance of key applications and benchmarks<strong>.</strong> You will be a member of a core team of incredibly talented industry specialists and will work with the very latest hardware and software technology. <br/><br/><strong>The Person<br/><br/></strong>The ideal candidate should be passionate about software engineering and possess leadership skills to drive sophisticated issues to resolution. Able to communicate effectively and work optimally with different teams across AMD.<br/><br/><strong>Key Responsibilities<br/><br/></strong>Work with AMD’s architecture specialists to improve future products.<br/><br/>The ideal candidate will be responsible for writing high-performance GPU kernels for AMD’s Machine Learning and Deep Learning Library: MIOpen (https://github.com/ROCmSoftwarePlatform/MIOpen) and Composable Kernel (https://github.com/ROCmSoftwarePlatform/composable_kernel): Performance Portable Programming Model for Machine Learning Tensor Operators. They will be porting and optimizing algorithms for new GPU hardware Perform code reviews, build unit tests, author detailed documentation related to their work, and work with on-site and offshore teams to deliver the software solutions on schedule<br/><br/>They will play a key role in all phases of the software development including system requirements analysis, coordinating feature design and development across functional and organizational boundaries. Stay informed of software and hardware trends and innovations, especially pertaining to algorithms and architecture. They will design and develop new groundbreaking AMD technologies by participating in new ASIC and hardware bring ups.<br/><br/>Debugging/fix existing issues and research alternative, more efficient ways to accomplish the same work, as well as develop technical relationships with peers and partners.<br/><br/><strong>Preferred Experience<br/><br/></strong>Strong programming skills in C/C++; experience with CUDA programming.<br/><br/><strong>Experience Or Knowledge About BLAS Operators And GEMM Optimization.<br/><br/></strong>Knowledge of Computer Architect and GPU architect.<br/><br/>Good teamwork and interpersonal skills required Ability to work independently and within complementary teams<br/><br/>Demonstrate flexibility, strong motivation, and a proven track record of meeting results-oriented deadlines<br/><br/>Knowledge with deep neural network machine learning technologies and modern machine learning programming frameworks<br/><br/>Experience working with and developing virtualization containers and package managers for code deployment<br/><br/>Ability to write high quality code with a keen attention to detail<br/><br/>Experience with modern concurrent programming and threading APIs<br/><br/>Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and performance profilers is a plus<br/><br/>Effective communication and problem-solving skills<br/><br/>Motivating leader with good interpersonal skills<br/><br/><strong>Academic Credentials<br/><br/></strong>Bachelor’s, Master's or PhD degree in Computer Science, Computer Engineering, Electrical Engineering, or related degree<br/><br/>At AMD, your base pay is one part of your total rewards package. Your base pay will depend on where your skills, qualifications, experience, and location fit into the hiring range for the position. You may be eligible for incentives based upon your role such as either an annual bonus or sales incentive. Many AMD employees have the opportunity to own shares of AMD stock, as well as a discount when purchasing AMD stock if voluntarily participating in AMD’s Employee Stock Purchase Plan. You’ll also be eligible for competitive benefits described in more detail here.<br/><br/><em>AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

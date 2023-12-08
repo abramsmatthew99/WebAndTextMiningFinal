@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Role: Senior Big Data Engineer<br/><br/></strong><strong>Location: New Jersey (hybrid)<br/><br/></strong><strong>Duration: 6+ Months<br/><br/></strong><strong><strong>Job Description:<br/><br/></strong></strong><strong>Please submit someone who can go for in person interview<br/><br/></strong><strong><strong>Job Description:<br/><br/></strong></strong>We are seeking a highly skilled and experienced Senior Data Engineer to join our dynamic team. As a Senior Data Engineer, you will play a crucial role in designing, implementing, and maintaining data pipelines and infrastructure for our big data projects. Your expertise in Java, Python, Spark cluster management, data science, big data, REST API development, and knowledge of Databricks and Delta Lake will be essential in driving the success of our data initiatives.<br/><br/><strong><strong>Responsibilities:<br/><br/></strong></strong><ul><li> Design, develop, and implement scalable data pipelines and ETL processes using Java, Python, and Spark.</li><li> Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and design efficient solutions.</li><li> Manage and optimize Spark clusters to ensure high performance and reliability.</li><li> Perform data exploration, data cleaning, and data transformation tasks to prepare data for analysis and modeling.</li><li> Develop and maintain data models and schemas to support data integration and analysis.</li><li> Implement data quality and validation checks to ensure accuracy and consistency of data.</li><li> Utilize REST API development skills to create and integrate data services and endpoints for seamless data access and consumption.</li><li> Monitor and troubleshoot data pipeline performance, identifying and resolving bottlenecks and issues.</li><li> Stay updated with the latest technologies and trends in big data, data engineering, data science, and REST API development, and provide recommendations for process improvements.</li><li> Mentor and guide junior team members, providing technical leadership and sharing best practices.<br/><br/></li></ul><strong><strong>Qualifications:<br/><br/></strong></strong><ul><li> Master's degree in Computer Science, Data Science, or a related field.</li><li> Minimum of 3 years of professional experience in data engineering, working with Java, Python, Spark, and big data technologies.</li><li> Strong programming skills in Java and Python, with expertise in building scalable and maintainable code.</li><li> Proven experience in Spark cluster management, optimization, and performance tuning.</li><li> Solid understanding of data science concepts and experience working with data scientists and analysts.</li><li> Proficiency in SQL and experience with relational databases (e.g., Snowflake, Delta Tables).</li><li> Experience in designing and developing REST APIs using frameworks such as Flask or Spring.</li><li> Familiarity with cloud-based data platforms (e.g.Azure)</li><li> Experience with data warehousing concepts and tools (e.g., Snowflake, BigQuery) is a plus.</li><li> Strong problem-solving and analytical skills, with the ability to tackle complex data engineering challenges.</li><li> Excellent communication and collaboration skills, with the ability to work effectively in a team-oriented environment.<br/><br/></li></ul>If you are a highly motivated and skilled Senior Data Engineer with a passion for big data, data engineering, and REST API development, we would love to hear from you. Join our team and contribute to the success of our data-driven initiatives as we strive to make a significant impact in the industry.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

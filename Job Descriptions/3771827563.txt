@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Responsibilities:<br/><br/></strong><ul><li> Work with stakeholders across different contexts and locations to elicit, analyze, and document business requirements and processes </li><li> Translate business requirements into functional and technical specifications that can be used by developers and testers </li><li> Develop and maintain project plans, schedules, budgets, and risk registers, and track progress and milestones </li><li> Communicate and collaborate with project team members and stakeholders throughout the project lifecycle, and provide regular status updates and reports </li><li> Identify and manage project risks and issues, and implement appropriate mitigation and resolution strategies </li><li> Perform quality assurance and user acceptance testing, and ensure that the delivered IT solutions meet the agreed specifications and standards </li><li> Provide training and support to end users and stakeholders on the use and maintenance of the IT solutions </li><li> Monitor iDE software licenses and related costs. Determine whether any license costs should be allocated to other departments / country offices and communicate and document the basis for any such allocation in a timely manner for proper inclusion in budgets. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li> Bachelors degree in computer science, information systems, business administration, or related field </li><li> At least 5 years of experience in IT business analysis and project management, preferably in a non-profit or humanitarian sector </li><li> Knowledge and experience in applying various project management and business analysis methodologies and tools, such as Agile, Scrum, Waterfall, etc. </li><li> Strong analytical, problem-solving, and decision-making skills, and ability to handle complex and ambiguous situations </li><li> Excellent communication, presentation, and interpersonal skills, and ability to work effectively with diverse and remote teams and stakeholders </li><li> Proficient in using various software applications, such as Google Workspace, flowchart tools, Asana, Mural, etc. </li><li> Fluent in English, and preferably another language relevant to our organization </li><li> Willing and able to travel occasionally to different locations as required by the project</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>

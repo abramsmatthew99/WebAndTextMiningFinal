@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Iam Still Hiring for Application Developer<br/><br/>To Apply for this position share your updated resume to arun.malviya@xcutives.com<br/><br/>Title – Application Developer – Full Stack<br/><br/>Location – Broomfield, CO, 80021<br/><br/>Must-Haves<br/><br/>3 year’s experience as an Application Developer (this is different from Full Stack Development experience)<br/><br/>Experience with financial institution technologies: Jack Henry technologies (Episys, Synapsys, Synergy, ARCU), OpCon, etc.<br/><br/>Experience with Episys and PowerOn development<br/><br/>Experience with financial institution technologies: Jack Henry technologies (Episys, Synapsys, Synergy, ARCU), OpCon, etc.<br/><br/>Demonstrated knowledge of architecture / systems engineering best practices, systems process design, software design, programming principles, or equivalent processes.<br/><br/>Adequate knowledge of Object Oriented programming and networking<br/><br/><strong>Preferred Education And Experience<br/><br/></strong>Degree in Computer Science, Computer Engineering, Information Systems, or field of study related to the work performed.<br/><br/>Experience with FiServ DNA, FIS Miser, Corelation Keystone, MeridianLink, Encompass, Digital Insight, Q2, COTS, Image Center.<br/><br/>Mainframe coding experience using COBOL.<br/><br/>Project management experience in an iterative project management methodology.<br/><br/>Experience supporting business applications within a financial institution.<br/><br/>Ability to program in at least one programming language, such as JavaScript.<br/><br/>Familiarity with the Unix operating system, Unix shell scripting, or similar.<br/><br/>Experience with one or more scripting languages (PowerShell).<br/><br/>Information Technology Infrastructure Library (ITIL) certification, or previous work within an ITIL environment.<br/><br/>Reports to: Application Development Manager<br/><br/>Manages: This role does not have supervisory responsibility.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: NodeJS Backend Developer<br/><br/></strong><strong>Location: Mountain View, CA (Onsite)<br/><br/></strong><strong>Duration: Longterm Contract<br/><br/></strong><strong>Must have<br/><br/></strong>Senior NodeJS Developer-This is Full Stack dev position open for 7+ Years hands-on experience (with more focus on backend – 80% and less focus on UI - 20%. But the candidate should be able to do both)<br/><br/><strong>Top 3 Skills<br/><br/></strong>Node.Js Backend (minimum 3+ experience)<br/><br/>ReactJs or VueJs (minimum 2+ experience)<br/><br/>Database knowledge(minimum 2+ experience), Ex: Postgresql/CockroachDB – SQL and NoSql<br/><br/><strong>Top Required/must Have Technical Skills<br/><br/></strong>7+ years hands-on professional experience (SDE)<br/><br/>Proficient in (more) Backend and (less) Frontend development<br/><br/><strong>Proficient In Following Areas<br/><br/></strong><ul><li> Minimum 3+ years of experience in Node.JS (Required) for backend development. Must have strong coding experience.</li><li> 2+ years of experience in ReactJs + Redux and/or Vue.Js</li><li> Strong web technologies – Microservices, Building API’s, Load Balancing, (Required)</li><li> JSON standards (JavaScript Object Notation) (Required)</li><li> Experience in Backend technologies like Java is a plus</li><li> Experience in one of the clouds is required (AWS/Azure/GCP)</li><li> Minimum 2+ years of Experience in Nosql and SQL is required.<br/><br/></li></ul>Experience in working with at least one NodeJs web framework (Express, Sails or Hapi)<br/><br/>All development and deployment are Linux based and the developer should be able to work on a Mac.<br/><br/>Strong analytical and programming skills<br/><br/>Strong knowledge in Data structures and Algorithms<br/><br/>Good understanding of Computer Science fundamentals<br/><br/>Good understanding of Object-oriented programming concepts
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

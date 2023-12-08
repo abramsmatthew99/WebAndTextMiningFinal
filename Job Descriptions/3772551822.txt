@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Head of Software Engineering - Functional Programming (Scala)</u></strong></p><p><br/></p><p><strong><u>Company Overview:</u></strong></p><p><br/></p><p>My client is a dynamic and innovative Series A funded start-up, a trailblazer in the field of AI-driven personalized interactions. At the forefront of cutting-edge technology, they are on a mission to revolutionize the way individuals engage with AI, making interactions more intuitive, personalized, and impactful.</p><p><br/></p><p><strong><u>About the Role:</u></strong></p><p><br/></p><p>We are seeking a highly skilled and motivated Head of Software Engineering with expertise in functional programming languages, specifically Scala. As a key leader within our growing engineering team, you will play a pivotal role in shaping the technical direction of our AI-driven platform. This is a unique opportunity for an individual who thrives in a startup environment and is passionate about building innovative solutions that leverage functional programming concepts.</p><p><br/></p><p><strong><u>Key Responsibilities:</u></strong></p><p><br/></p><ul><li>Lead and mentor a talented team of software engineers, fostering a collaborative and high-performance culture.</li><li>Drive the development and implementation of software solutions using functional programming languages, particularly Scala.</li><li>Collaborate closely with cross-functional teams, including product management and data science, to ensure alignment and successful project delivery.</li><li>Architect scalable and maintainable systems that meet the demands of our rapidly evolving AI platform.</li><li>Stay abreast of industry trends and emerging technologies, providing insights and recommendations for continuous improvement.</li></ul><p><br/></p><p><strong><u>Requirements:</u></strong></p><p><strong><u><span class="ql-cursor"> </span></u></strong></p><ul><li>Bachelor's or Master's degree in Computer Science or a related field.</li><li>Extensive hands-on experience with functional programming languages, especially Scala.</li><li>Prior experience working in a startup or Series A funded company.</li><li>Proven track record of delivering successful software projects from conception to completion.</li><li>Strong problem-solving and critical-thinking skills.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Services, Software Development, and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

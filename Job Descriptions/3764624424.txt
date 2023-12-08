@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title:</strong> Junior Java Developer<br/><br/><strong>Duration</strong><strong>:</strong> 1 Month (Possible extension)<br/><br/><strong>Location:</strong> Fort Worth, TX, 76155 (Hybrid)<br/><br/><strong>Pay rate starts from </strong>$35/hr (W2 and C2C) Negotiable<br/><br/><strong>Note:</strong> Interview will be onsite<br/><br/><strong>Top 3-5 Skillsets:<br/><br/></strong><ul><li> 1-2+ years exp</li><li> JAVA</li><li> Cloud</li><li> GitHub</li><li> Preferred Mongo dB or NoSQL dB</li><li> Spring<br/><br/></li></ul><strong>Description<br/><br/></strong><ul><li>This job is a member of the Information Technology Team within the Information Technology Division.</li><li>This position will be responsible for leveraging cutting edge technology to solve business problems by participating in all phases of the development process from inception through transition, advocating the agile process and test-driven development, using object-oriented development tools to analyze, model, design, construct, and test reusable objects and making the codebase a better place to live and work.<br/><br/></li></ul><strong>Specifically, you'll do the following:<br/><br/></strong><ul><li>Collaborates with leaders, business analysts, project managers, IT architects, technical leads, and other developers, along with internal customers, to understand requirements and develop needs according to business requirements.</li><li>Maintains and enhances existing enterprise services, applications and platforms using domain driven design and test-driven development.</li><li>Troubleshoots and debugs complex issues; identifies and implements solutions.</li><li>Creates detailed project specifications, requirements, and estimates.</li><li>Researches and implements new technologies to enhance current processes, security, and performance.</li><li>Supports the development of coding standards and adheres to best practices and security guidelines.</li><li>Works closely with software architects and technical leads to ensure decisions meet long-term enterprise growth needs.<br/><br/></li></ul><strong>Required Qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training.</li><li>1-2+ years of full Software Development Life Cycle (SDLC) experience designing, developing and implementing large-scale applications in hosted production environments.</li><li>1-2+ years of professional, design and open-source experience.</li><li>Proficiency in Full Stack Development.<br/><br/></li></ul><strong>Proficiency and demonstrated experience in the following technologies:<br/><br/></strong><ul><li>J2EE technologies: Java, JSP, JMS, JAXB, JDBC, EJB</li><li>Cloud-based development: Cloud Foundry</li><li>Web Servers: Tomcat, tcServer</li><li>Services: REST, SOAP</li><li>Frameworks: Spring Framework, Spring Boot</li><li>Front-end: Angular JS, Ext JS, CSS, jQuery, AJAX</li><li>Build/deployment tools: Maven, Gradel, Git, Junit, Mockito.</li><li>Other Dev Ops Toolchain: Selenium, Nexus Repository, Hygieia, SonarQube, Fortify on Demand, Slack, GitHub, Jenkins, ElasticSearch, Logstaash, Kibana, New Relic.</li><li>Other: Linux/Unix shell Scripting, JavaScript, IBM MQ/Rabbit MQ, Tivoli Scheduler, SQL Developer, IDE</li><li>Proficiency in object-oriented design techniques and principles.</li><li>Experience in Agile methodologies, such as SCRUM.</li><li>Experience in DevOps Toolchain methodologies, including Continuous Integration and Continuous Deployment.<br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Airline Industry experience.</li><li>Ability to explain technical concepts and adjust messaging based on the audience, including non-technical groups.</li><li>Ability to influence through outstanding interpersonal skills, collaboration, and negotiation skills.</li><li>Ability to work well within a team environment, as well as independently.<br/><br/></li></ul>About Us<br/><br/>Established in 2004, SPECTRA<strong>FORCE</strong> is one of the largest and fastest-growing diversity-owned staffing firms in the US. SPECTRA<strong>FORCE</strong> is built on the concept of “human connection,” defined by our branding tagline NEWJOBPHORIA®, which is the excitement of bringing joy and freedom to the work lifestyle so our people (and clients) can reach their highest potential. Our entire workflow cultivates NEWJOBPHORIA® with candidates and employees throughout their engagement with SPECTRA<strong>FORCE</strong>. http://www.spectraforce.com<br/><br/>We have built our business by providing talent and project-based solutions, including Contingent, Permanent, and Statement of Work (SOW) services to over 130 clients in the US, Canada, Puerto Rico, Costa Rica, and India. Key industries that we service include Technology, Financial Services, Life Sciences, Healthcare, Telecom, Retail, Utilities and Transportation.<br/><br/><strong>Benefits: </strong>SPECTRA<strong>FORCE</strong> offers ACA compliant health benefits as well as dental, vision, accident, EAP (Employee Assistance Program) and hospital indemnity insurances. Additional benefits SPECTRA<strong>FORCE</strong> offers to the eligible employees include commuter benefits, 401K plan with matching and a referral bonus program. SPECTRA<strong>FORCE</strong> offers unpaid leave as well as paid sick leave when required by law. Employees who will be filling this role will also be eligible for PTO as per the client’s specific policy.<br/><br/><strong>Equal Opportunity Employer</strong>: SPECTRA<strong>FORCE </strong>is an equal opportunity employer and does not discriminate against any employee or applicant for employment because of race, religion, color, sex, national origin, age, sexual orientation, gender identity, genetic information, disability or veteran status, or any other category protected by applicable federal, state, or local laws. Please contact Human Resources at nahr@spectraforce.com if you require reasonable accommodation.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

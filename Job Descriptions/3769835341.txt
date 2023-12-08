@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        TWINN is seeking a AI Engineer with machine learning experience to join their team in McLean, Va. Position requires that you are US Citizen and have a clearance level of TS/SCI and top Poly.<br/><br/><strong>Required Skills And Demonstrated Experience<br/><br/></strong><ul><li>TS/SCI with POLY***</li><li> Demonstrated experience tuning neural networks, such as LLMs, on custom data sets and applying results to specific use cases.</li><li> Demonstrated professional or academic experience developing models and ensembles in the AI/ML space, including selecting the best Python libraries for a given task, choosing appropriate pre-processing actions, performing analysis, and assessing model performance.</li><li> Demonstrated professional or academic experience using Python or R.</li><li> Demonstrated professional or academic experience with deep learning frameworks such as PyTorch, Tensorflow, or Keras.</li><li> Demonstrated professional or academic experience and proficiency with SQL to include using common table expressions, set operations, aggregated functions and nested subqueries.</li><li> Demonstrated professional or academic experience with version control systems such as Github and Jenkins.</li><li> Demonstrated experience leveraging GPUs for accelerated computing.<br/><br/></li></ul><strong>Highly Desired Skills And Demonstrated Experience<br/><br/></strong><ul><li> Demonstrated professional or academic experience with the HuggingFace Transformers library and hub.</li><li> Demonstrated experience with cloud computing development and architecture.</li><li> Demonstrated experience with front-end web development frameworks such as Flask.</li><li> Demonstrated experience creating machine learning models that conduct text classification and topic modeling in Python using standard machine learning (SciKit Learn-) or deep learning models.</li><li> Demonstrated experience developing applications for semantic search.</li><li> Demonstrated professional or academic experience and proficiency with Tableau to produce visualizations and dashboards.</li><li> Demonstrated academic or professional experience communicating methodological choices and model results.</li><li> Demonstrated experience with verification and validation test benches.</li><li> Demonstrated experience with Explainable AI (XAI) techniques.</li><li> Demonstrated experience with ONNX (Open Neural Net Exchange).</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

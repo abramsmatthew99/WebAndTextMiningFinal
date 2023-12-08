@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.<br/><br/><strong>Job Description<br/><br/></strong>Takeda Pharmaceuticals U.S.A., Inc. is seeking a Senior Analyst, Data Insights &amp; Analytics in Cambridge, MA with the following requirements Master’s degree in Business Analytics or related field or foreign academic equivalent plus 1 year of related experience. Required skills Analyze and interpret corporate M&amp;A activities based on secondary market data using statistical test; extract and provide consumer behavior insights from Social Media platforms using modeling techniques, such as Text mining and Natural Language Processing; conduct data experiments on unstructured dataset including patent and product information using Python; build automated pipelines for efficient data analysis utilizing modeling and coding skills; build timely forecast sheets based on the historical transaction data using statistic modeling; develop key performance indicators (KPI) for senior management to monitor market dynamic using business intelligence tools; optimize return on investment (ROI) of promotional tactics using simulation optimization techniques; optimize salesforce representative effectiveness using promotion response analysis.<br/><br/>Apply on-line at www.takedajobs.com and search for Req #R0111338.<br/><br/><strong>EEO Statement<br/><br/></strong><em>Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.<br/><br/></em><strong>Locations<br/><br/></strong>Boston, MA<br/><br/><strong>Worker Type<br/><br/></strong>Employee<br/><br/><strong>Worker Sub-Type<br/><br/></strong>Regular<br/><br/><strong>Time Type<br/><br/></strong>Full time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

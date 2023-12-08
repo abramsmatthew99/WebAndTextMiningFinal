@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Summary: </strong></p><p>Our Biotech customer is looking for <u>Software Quality Assurance </u>Testers to join their Information Technology (IT) team. The Software QA Tester position is a vital role whose success relies upon your knowledge, experience, and dedication. The Software QA Testers ensure custom solutions are designed, built, and implemented correctly. If you are looking for a financially stable organization with long-term career growth, call us! </p><p><br/></p><p>Key Responsibilities:</p><ul><li>Work closely with developers and end users throughout the software life cycle to ensure that applications meet the needs of the users.</li><li>Perform testing using a variety of test methodologies.</li><li>Create and maintain test cases, test plans, and other documentation for projects.</li><li>Participate in constructive peer review of test cases.</li><li>Identify and report software defects and inconsistencies.</li><li>Review, analyze, and supplement requirement specifications to ensure 100% test coverage; and</li><li>Help facilitate the execution of acceptance test scripts by end users.</li></ul><p><br/></p><p>Qualifications</p><ul><li><strong><em><u>Experience writing and executing manual testing for web-based applications.</u></em></strong></li><li>Bachelor’s degree in<strong> IT or IT-related field of study</strong>, such as Mathematics, Computer Science, Physics, Cybersecurity, etc...</li><li>2+ years of experience in software testing, preferably in an agile-like environment.</li><li>Experience communicating and working within cross-departmental teams consisting of software developers, department leads, and end users.</li><li>Excellent computer skills.</li><li>Excellent analytical, written, and oral communication skills.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance, Engineering, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing, Biotechnology Research, and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

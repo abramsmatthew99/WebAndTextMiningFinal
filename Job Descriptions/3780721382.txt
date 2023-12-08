@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Resultant is a modern consulting firm with a radically different approach to solving problems.<br/><br/><strong>We don’t solve problems <em>for</em> our clients. We solve problems <em>with</em> them.<br/><br/></strong>Through outcomes driven by data analytics, technology solutions, digital transformation, and beyond, our team works with clients in both the public and private sectors to solve their most complex challenges. We start by learning as much as we can about who they are, how they work, and what they’re striving for so we can feel their problems as our own. Partnering with our clients means their desired outcomes are always top of mind, their challenges and strengths guiding our efforts. We build client-focused relationships before we build unique solutions that blaze past expectations.<br/><br/>Originally founded in Indianapolis as KSM Consulting in 2008, Resultant now employs more than 350 team members who operate from offices around the United States including Indianapolis, Fort Wayne and Odon, Indiana; Columbus, Ohio; Lansing, Michigan; Denver, Colorado; Dallas, Texas and Atlanta, Georgia.<br/><br/><strong>We’re Resultant. Clients partner with us to see a difference. People join us to make one.<br/><br/></strong><strong>Job Description<br/><br/></strong>To help continue our rapid growth and solve our clients’ toughest problems, we need a Cybersecurity Engineer to join our Cloud Computing/Consulting Services team. If you love to solve problems and add value, please consider what your typical days might look like…<br/><br/><ul><li>Identify security vulnerabilities, plan for, and implement remediation actions. </li><li>Investigate security events using logs, SIEM solutions, EDR solutions and other security tools to identify and prevent incidents. </li><li>You will deliver assigned operational commitments to clients, utilizing the entire client team as necessary and as agreed with the Cloud Computing Consulting Services Manager. </li><li>You will provide amazing support to our clients, greatly exceeding their experience of what anyone else has ever done for them. </li><li>You will escalate customer support requirements as appropriate, communicating relevant information (such as criticality and timeliness), and confirming acceptance of the escalated issue. </li><li>You will participate in incident response and investigation as needed by our clients. </li><li>You will consult with clients and internal teams regarding security controls and baseline security for operating systems, database, cloud solutions and applications. </li><li>Actively participate in developing the goals, strategy and methodologies of our client’s cybersecurity programs. </li><li>You will keep client documentation up-to-date and accurate, including help desk tickets. </li><li>You will work collaboratively with teams of smart, thoughtful people to best meet the needs of our clients. </li><li>You will work in and solve issues in modern virtualized, on-premises, cloud, and hybrid environments <br/><br/></li></ul><strong>Qualifications<br/><br/></strong>Some of the qualifications and skills we are expecting the person filling this role to have include:<br/><br/><ul><li>You should possess strong analytical skills and a demonstrated ability to troubleshoot problems. </li><li>You should possess excellent communication and customer service skills, both written and oral. </li><li>You should be able to explain just about anything technical to anyone, regardless of their background. </li><li>In addition to Security+, you should hold CEH, SSCP, or equivalent. </li><li>You should have a Bachelor’s degree in Computer Science or related field. </li><li>You should have 2-3 years of security engineer or related experience. </li><li>You should be familiar with HIPAA, PCI DSS and other cybersecurity frameworks such as NIST CSF, NIST 800/53, ISO 2700x, and SOC. </li><li>Possess the ability to draft content related to policies, standards, and procedures in alignment with cybersecurity frameworks. </li><li>Create and execute audit plans. </li><li>Monitor and maintain security controls in support of our clients’ environments. </li><li>Possess knowledge of operating systems security features. </li><li>Possess knowledge of network and device security features. </li><li>Be able to execute vulnerability scanning with tools such as Qualys, RapidFire and provide in-depth analysis of results. </li><li>Possess knowledge on modern authentication and identity protection offerings such as Azure AD, Google Cloud Identity, JumpCloud, etc. </li><li>Have experience investigating security incidents with firewalls, SIEMs, and endpoints. </li><li>Familiarity and knowledge of Zero Trust <br/><br/></li></ul><strong>Additional Information<br/><br/></strong><strong>What you should know about us: <br/><br/></strong><ul><li>We are humble, hungry, and smart. We solve big problems, serve lots of clients, and are entirely committed to delivering transformative outcomes. </li><li>We are team players, deeply dedicated to the mission of the organization, and to helping everyone around us be successful. </li><li>We compensate well, rewarding performance that delivers positive outcomes for our clients and ensuring incentives are aligned to achieve our goals. </li><li>Our leaders work hard, serving as shining examples of what it means to live out our values. They are servant leaders, helping their teams to be successful in all possible ways. </li><li>We have a great benefits package including unlimited vacation, significant 401k contributions, and several opportunities to develop yourself. </li><li>We pride ourselves in having the best talent in the industry and hope that you're up for the challenge! <br/><br/></li></ul><strong>What our team members say about us:<br/><br/></strong><ul><li>“I love our true empathy and concern for our clients, it's very rare and appreciated. It is a pleasure to be a part of an organization like Resultant.” </li><li>"I learn something new every single day, and I feel like I'm a part of building an organization that has legs. I appreciate that I'm consistently humbled by the talent and caliber of our team.” </li><li>“The culture of the company is amazing, and the climate of my team is great. The benefits that employees are offered are better than competitors, and the one-on-one presence that my team lead gives is extremely beneficial to me.” <br/><br/></li></ul><em>All qualified applicants will receive consideration for employment without regard to age, color, sex, disability, national origin, race, religion, or veteran status. <br/><br/></em><em>Equal Opportunity Employer</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

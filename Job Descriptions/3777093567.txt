@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Convey Health Systems is seeking a highly skilled and experienced DevOps Engineer to join our dynamic team. As a Cloud/DevOps Engineer, you will play a crucial role in designing, implementing, and managing our cloud infrastructure, ensuring the seamless operation and scalability of our cloud-based applications and services. You will collaborate with cross-functional teams to drive automation, continuous integration, and deployment, optimizing our cloud environments for maximum efficiency cost and performance.</p><p><br/></p><p><strong>DUTIES AND RESPONSIBILITIES </strong> </p><p><br/></p><ul><li>Design, develop, and implement cloud-based infrastructure solutions, ensuring high availability, scalability, and security.</li><li>Build and maintain automated deployment pipelines and configuration management systems to support continuous integration and deployment of applications.</li><li>Collaborate with development teams to provide guidance on infrastructure requirements, performance optimization, and scalability of applications.</li><li>Monitor and troubleshoot cloud-based environments, proactively identifying and resolving performance bottlenecks, security vulnerabilities, and system failures.</li><li>Implement and maintain robust backup and disaster recovery mechanisms for cloud-based systems.</li><li>Evaluate and recommend new tools, technologies, and methodologies to enhance the efficiency and effectiveness of our cloud infrastructure.</li><li>Develop and maintain documentation related to cloud infrastructure, deployment processes, and best practices.</li><li>Stay up to date with industry trends and emerging technologies in cloud computing, DevOps, and automation.</li></ul><p><br/></p><p><strong>EXPERIENCE </strong></p><p><strong> </strong></p><ul><li>5+ years of professional experience in DevOps, Cloud Engineering, or a similar role.</li><li>Strong hands-on experience with cloud platforms such as Amazon Web Services (AWS) and/or Microsoft Azure.</li><li>Proficient in scripting languages such as Python, PowerShell, or Bash.</li><li>Solid understanding of infrastructure-as-code (IaC) principles and experience with tools like Terraform or CloudFormation.</li><li>Experience with containerization technologies such as Docker and orchestration tools like Kubernetes.</li><li>Experience with AWS/Azure Big Data services is highly desired (EMR, EMR Studio, Spark, Hadoop, Athena, Glue)</li><li>Proficient with the Git product suite and Azure DevOps is desired.</li><li>Knowledge of networking concepts, security best practices, and system administration in a cloud environment.</li><li>Strong problem-solving and troubleshooting skills, with a proactive and analytical mindset.</li><li>Bachelor's degree in Computer Science, Information Technology, or a related field.</li></ul><li></li>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

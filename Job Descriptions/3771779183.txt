@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        UTA seeks an experienced Software Engineer to help our growing team uncover meaningful insights in the entertainment industry. This is a passionate and highly-technical team, where you will be working on hard data problems, insight engines, API scalability, and user-facing dashboards. Our team is entirely remote, light on meetings, and we trust and empower our engineers to do their best work on their schedule.<br/><br/>This position will work collaboratively with the IQ Team which is UTA's strategic insights group. IQ is dedicated to analyzing third-party data and leveraging its own proprietary tools and predictive analytics to provide actionable insights to our clients. You will help develop and maintain tools to empower the IQ analysts team and the rest of the agency.<br/><br/>Our tech stack includes Neo4J, Postgres, ElasticSearch, Redis, RabbitMQ, Airflow, Docker, Kubernetes, NextJS, and BlitzJS. We work primarily in Typescript, Python, and a little Rust.<br/><br/>The ideal candidate will be comfortable working on challenging problems throughout the entire technology stack. We hire strong generalist engineers and give you the support and resources to learn and work on all aspects of the system– front end, back end, and data engineering.<br/><br/>The salary range for this role is $130,000 to $150,000 commensurate with experience and skills.<br/><br/><strong>What You Will Do<br/><br/></strong><ul><li>Develop tools and processes to warehouse external data (tracking 20+ different sources of data which presents complex problems)</li><li>Develop APIs to expose this data (fast/flexible/efficient)</li><li>Help develop new tools to analyze and process this data to produce new insights</li><li>Develop products for IQ analysts, agents, and even the talent directly <br/><br/></li></ul><strong>What You Will Need<br/><br/></strong><ul><li>B.S. in Computer Science or related field strongly preferred</li><li>3+ years of industry experience in a software engineering role</li><li>Experienced and comfortable in Python, Javascript/Typescript</li><li>Experience with Data Pipelines and ETL preferred</li><li>Superior communication skills</li><li>Kindness and passionate about team collaboration</li><li>Self-motivated and enthusiastic to tackle objectives with light oversight</li><li>Prior experience working in entertainment and/or media industry a plus<br/><br/></li></ul><strong>What You Will Get<br/><br/></strong><ul><li>The unique and exciting opportunity to work at one of the leading global entertainment companies </li><li>Access to the tools, leadership, and resources you'll need to create and drive a center of excellence</li><li>The opportunity to do the best work of your career</li><li>Competitive benefits and programs to support your well-being<br/><br/></li></ul><strong>About UTA<br/><br/></strong>UTA unites ideas, opportunities and talent. The company represents some of the world's most iconic, barrier-breaking artists, creators and changemakers—from actors, athletes and musicians to writers, gamers and digital influencers. One of the most influential companies in global entertainment, UTA's business spans talent representation, content production, as well as strategic advisory and marketing work with some of the world's biggest brands. Affiliated companies include Digital Brand Architects, KLUTCH Sports Group, Curtis Brown Group, and MediaLink. UTA is headquartered in Los Angeles with offices in Atlanta, Chicago, Nashville, New York and London.<br/><br/>For more information: https://www.unitedtalent.com/about/<br/><br/>UTA and its Affiliated Companies are Equal Employment Opportunity employers and welcome all job seekers including individuals with disabilities and veterans with disabilities.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

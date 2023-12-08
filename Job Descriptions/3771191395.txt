@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Salary Range: 78,000.00-101,000.00<br/><br/><strong>Company Description<br/><br/></strong>At Western Digital, our vision is to power global innovation and push the boundaries of technology to make what you thought was once impossible, possible.<br/><br/>At our core, Western Digital is a company of problem solvers. People achieve extraordinary things given the right technology. For decades, we’ve been doing just that. Our technology helped people put a man on the moon.<br/><br/>We are a key partner to some of the largest and highest growth organizations in the world. From energizing the most competitive gaming platforms, to enabling systems to make cities safer and cars smarter and more connected, to powering the data centers behind many of the world’s biggest companies and public cloud, Western Digital is fueling a brighter, smarter future.<br/><br/>Binge-watch any shows, use social media or shop online lately? You’ll find Western Digital supporting the storage infrastructure behind many of these platforms. And, that flash memory card that captures and preserves your most precious moments? That’s us, too.<br/><br/>We offer an expansive portfolio of technologies, storage devices and platforms for business and consumers alike. Our data-centric solutions are comprised of the Western Digital®, G-Technology™, SanDisk® and WD® brands.<br/><br/>Today’s exceptional challenges require your unique skills. It’s You &amp; Western Digital. Together, we’re the next BIG thing in data.<br/><br/><strong>Job Description<br/><br/></strong>Performs a wide variety of support engineer duties related to Manufacturing. This person will be supporting our manufacturing, HDD teams. Previous experience in semiconductor field is a must.<br/><br/><ul><li>Collecting feedback from users regarding a program's functionality</li><li>Performing data migration activities for our manufacturing</li><li>Programming as needed to improve the data Data Migration</li><li>Designing, coding, testing and documenting new computer systems, and applications</li><li>Develops software tools including operating systems, compilers, routers, networks, utilities, databases and Internet-related tools; determine hardware compatibility and/or influences hardware design; and develop applications for technical end users.</li><li>Define and implement system requirements and/or prepares studies and analyzes existing systems.</li><li>Running and debugging existing code to determine, and solve errors</li><li>Recommend improvements to design concepts and existing software</li><li>Determine system specifications, input/output processes, and working parameters for hardware/software compatibility.</li><li>Coordinates design of subsystems and integration of total system; identifies, analyzes, and resolves program support deficiencies; and develops and recommends corrective actions. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor of Science degree in Computer Science, Software Engineering, Computer Engineering, Systems Engineering, or related field a</li><li>C/C++, Python, Golang, Java, R, Linux</li><li>Exceptional written and verbal communication skills</li><li>Proficient in Microsoft Office applications </li><li>Interest in HDD, flash, semiconductor, components, nonvolatile memory industry</li><li>Understanding of Database Systems, Data, and Data Structures<br/><br/></li></ul><strong>Additional Information<br/><br/></strong>Western Digital is committed to providing equal opportunities to all applicants and employees and will not discriminate based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the Equal Employment Opportunity is the Law poster.<br/><br/>Western Digital thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.<br/><br/>Western Digital is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at jobs.accommodations@wdc.com to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Semiconductor Manufacturing, and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

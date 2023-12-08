@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Software Engineer Job Responsibilities<br/><br/></strong><ul><li>Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.</li><li>Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.</li><li>Documents and demonstrates solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.</li><li>Prepares and installs solutions by determining and designing system specifications, standards, and programming.</li><li>Improves operations by conducting systems analysis and recommending changes in policies and procedures.</li><li>Updates job knowledge by studying state-of-the-art development tools, programming techniques, and computing equipment, and by participating in educational opportunities, reading professional publications, maintaining<br/><br/></li></ul>personal networks, and participating in professional organizations.<br/><br/><ul><li>Protects operations by keeping information confidential.</li><li>Provides information by collecting, analyzing, and summarizing development and service issues.</li><li>Accomplishes engineering and organization mission by completing related results as needed.</li><li>Supports and develops software engineers by providing advice, coaching, and educational opportunities.<br/><br/></li></ul><strong>Education And Experience Requirements<br/><br/></strong>B.A. or B.S. in computer science, information technology, or related discipline. M.S. preferred<br/><br/>Six years of job-related experience<br/><br/>Experience with computer programming<br/><br/><strong>Software Engineer Qualifications/Skills<br/><br/></strong><ul><li>You have at least 6 years of experience with two or more development languages such as Java, C#, or Ruby (Java and .net preferred)</li><li>You can skillfully write high-quality, well-tested code and you are comfortable with Object-Oriented programming</li><li>Comfortability with Agile methods, such as Extreme Programming (XP), Scrum and/or Kanban</li><li>You enjoy influencing others and always advocate for technical excellence while being open to change when needed</li><li>You're willing and able to commit to travel to client sites in order to solve their business problems</li><li>You're resilient in ambiguous situations and can approach challenges from multiple perspectives</li><li>Bonus points if you have working knowledge of cloud technology such as AWS, Azure, Kubernetes and Docker</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

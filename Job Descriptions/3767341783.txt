@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>The Department of Computer Science and Information Security at Southern Utah University invites applications for adjunct faculty to teach computer science courses in the department. The preferred<br/><br/>candidate holds a Master's degree or Ph.D. in Computer Science or closely related field. Graduate students with teaching experience or strong desire to teach are encouraged to apply.<br/><br/><strong>Duties And Responsibilities<br/><br/></strong>Primary responsibilities include teaching undergraduate Computer Science courses for both majors and non-majors, use of effective teaching strategies, curriculum development, and support for the continuance<br/><br/>of our accreditation efforts. Adjunct faculty are generally expected to teach face to face courses. Knowledge in Cybersecurity and/or Information Technology is a plus as there may also be opportunities to<br/><br/>teach in these areas as well.<br/><br/><strong>Education And Experience Requirements<br/><br/></strong><ul><li> Master's degree or Ph.D. degree in Computer Science or an appropriate discipline within the broad scope<br/><br/></li></ul>of Computer Science.<br/><br/><ul><li> Commitment to quality teaching.</li><li> Good communication skills and the ability to interact positively with faculty, staff, and students.<br/><br/></li></ul><strong>Documents Needed To Apply<br/><br/></strong><ul><li> Resume/Curriculum Vitae</li><li> Cover Letter</li><li> Unofficial Transcripts</li><li> Contact information for at least 3 professional references</li><li> Statement of Teaching Philosophy</li><li> Statement of Diversity, Equity and Inclusion<br/><br/></li></ul>Southern Utah University is committed to maintaining a community which recognizes and values the worth and dignity of every person; fosters tolerance, understanding, and mutual respect among its members; and encourages individual commitment to personal responsibilities in equal measure with personal rights. In pursuit of its goal of academic excellence, the University seeks to develop and nurture diversity. The University believes that diversity among its many members strengthens the institution, stimulates creativity, promotes the exchange of ideas, and enriches campus life.<br/><br/>Southern Utah University does not discriminate against any member of the University community on the basis of race, religion, color, sex, age, national origin, sexual orientation, gender identity, disability status, veteran status, pregnancy, pregnancy-related condition, genetic information, or other bases protected by applicable law in employment, treatment, admission, access to educational programs and activities, or other University benefits or services.<br/><br/><em>Job Posted by ApplicantPro</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

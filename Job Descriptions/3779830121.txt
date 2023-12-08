@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from AlongSide Global</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Emma Nino-French" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQFIwPzWYueOkw/profile-displayphoto-shrink_100_100/0/1517722340527?e=2147483647&amp;v=beta&amp;t=4CrDGY84G97b9dN9MFfZJ7ecBQuky7NWzIGA4QRMNIo" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Emma Nino-French
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Chief of Staff
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Emma Nino-French" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fuk%2Elinkedin%2Ecom%2Fin%2Femmaninofrench&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Alongside Global is a collective of creative businesses which are changing the world of production. Each of our co-founders are entrepreneurs brought together by our CEO, Glen Taylor, with a shared belief that the future of production is driven by the convergence of new technologies, elite creative thinking and brands who are excited to embrace game-changing opportunities.</p><p><br/></p><p>We are seeking a full time remote IT/Web Specialist with a strong background in post-production media workflows to ensure the smooth operation of our technical infrastructure and support various software and hardware systems. Unreal Engine and Autodesk products are a large component as well as rendering and networking setup and troubleshooting. As an integral part of the team the role will work across UK and USA time zones (within reason) and support multiple business entities within our collective.</p><p><br/></p><p>The ideal candidate has experience in a VFX, Post Production Facility or similar environment.</p><p><br/></p><p>Our studio is 75% standard creative studio office management with macbook laptop users, using cloud service software. 25% of the team are working on high quality CG, VFX and Post Production workflows.</p><p><br/></p><p><strong>Please apply if:</strong></p><p><br/></p><ul><li>You are interested in identifying opportunities to improve operational efﬁciency and stability.</li><li>You are an exceptional team player, able to collaborate closely across multiple departments and business units with all individuals while demonstrating skills in diplomacy, flexibility, patience, and friendly service oriented demeanor.</li><li>You thrive in a frequently changing startup environment, able to execute on assigned tasks with minimal supervision </li><li>Have strong debugging, development testing, and problem-solving abilities, and you validate your work with methodical and rigorous testing.</li></ul><p> </p><p><strong>Responsibilities:</strong></p><p>Production Teams support</p><ul><li>Provide technical support to artists and troubleshoot software-related issues. </li><li>Collaborate with senior TDs to identify and resolve technical issues during production. </li><li>Take in new project needs and own implementation/preparation, including AWS Workstation Creation and User Provisioning</li><li>General Render Farm Management</li><li>Manage Perforce Helix Core for version control in Unreal Engine game and cinematic projects.</li><li>Manage cloud machine spin-ups and oversee their maintenance.</li><li>Address Integrate AI toolsets and demonstrate proficiency in Python and Anaconda.</li><li>Understand the role of GPU and CPU in media processing for video and high-definition content.</li></ul><p><br/></p><p>User Queries &amp; Issue Assessment / Troubleshooting</p><ul><li>Troubleshoot and resolve issues such as:</li><li>software applications failing to open or connect to servers and render platforms.</li><li>machines not mounting or losing mount points.</li><li>remote access failures for PCIOP systems.</li><li>SAN and NAS storage issues, including drive rebuilds and coordination with providers.</li><li>Resolve Deadline rendering issues and implement fixes.</li><li>Understand and troubleshoot Thinkbox and AWS</li><li>Knowledge of computer assembly and the ability to troubleshoot hardware failures such as overheating and random reboots.</li></ul><p><br/></p><p>IT Operations</p><ul><li>Oversee the management of software licenses assignment and renewals, collaborating with various team members across the organization and liaising with providers.</li><li>Perform employees and freelancers onboarding and handle user account creation/de-activation across the organization</li><li>Thoroughly monitor and report on AWS usage and cost management and billing</li></ul><p><br/></p><p>Internal Processes</p><ul><li>Assist in the development and maintenance of the VFX pipeline, ensuring the efficient flow of assets and data. </li><li>Actively Document, maintain and educate teams on tools and processes, communicate solutions to common technical challenges. </li><li>Maintain regular communication with Leadership in order to address active production and operational requirements</li><li>Identify opportunities to improve operational efficiency and stability.</li></ul><p><br/></p><p><strong>Qualifications:</strong></p><p>Proficiency</p><ul><li>Possess a thorough understanding of Linux, Mac, and Windows operating systems, including Linux installation and troubleshooting.</li><li>Proficiency in Fiber Channel and 1-10 gigabyte internetwork file sharing.</li><li>Familiarity with Autodesk products, MASV file transfer, and general knowledge of Unreal Engine and p4v.</li><li>Experience with MS360 and Cloudberry, including practical understanding and experience.</li><li>Expertise in Lucid Link with troubleshooting capabilities</li><li>Strong networking skills, with an emphasis on firewall safety.</li><li>Google Workspace, Drive and storage management strengths.</li></ul><p><br/></p><p>Experience</p><ul><li>Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent experience.</li><li>At least 3-5 years of experience in a similar role, preferably in a media or creative environment.</li><li>Strong analytical and problem-solving skills.</li><li>Excellent communication and teamwork abilities. Use of Slack and Google platforms.</li><li>Strong written and verbal communication skills.</li><li>Ability to work independently and manage multiple tasks simultaneously.</li></ul><p><br/></p><p><strong>Salary:</strong></p><p>Dependant on experience</p><p><br/></p><p>Full Time: 40hrs pw</p><p>Location: Remote (all locations considered with preference for UK/ USA or S.America due to timezone requirements)</p><p>Hours: Our core working hours are Mon-Fri 9am-6pm, however we work across multiple timezones with teams in the UK and New York and clients everywhere so we feel a little flexibility on both sides is fair.</p><p><br/></p><p>Alongside Global is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

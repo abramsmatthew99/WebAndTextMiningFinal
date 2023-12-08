@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        About Spearhead Technology: <strong> "Where Innovation Meets Intelligence".<br/><br/></strong>The very essence of Spearhead Technology lies in a commitment to fusing innovation with intelligence. We are dedicated to initiating and expediting change, bringing about comprehensive 360° digital transformations. Our approach focuses on creating enduring value and delivering intelligent outcomes for enterprises and their people. Our overarching aim is to empower clients with the right balance between resources and business agility, enabling them to introduce their offerings to the market at an unparalleled level at a pace and consistently stay ahead of the competition.<br/><br/><strong>Requirements<br/><br/></strong>The Java Developer will work on a team of software engineers to support the companys online and consumer digital experience. The team will primarily troubleshoot incidents and improve tech hygiene. The team will also add functionality to the company website and mobile apps that include digital wallets, buying and selling crypto currency, and expanding the use of the companys digital experience into countries around the globe. The work may include new development as well as maintenance or basic enhancement of existing features and functions that meet or exceed business needs. The Java Developer must be capable of working on computer programs that are complex in nature; is familiar with a variety of concepts, practices, and procedures; and performs a variety of complex application development related tasks.<br/><br/>Primary Responsibilities:<br/><br/><ul><li> Develops high quality, scalable and efficient solutions and products on schedule. </li><li> Produces code of high quality and reliability - strong quality code metrics. </li><li> Actively contributes to the development of solutions and ideas that add value. </li><li> Engages with system users and business analysts to identify system enhancements and/or new applications to meet business needs. </li><li> Proactively performs extensive system testing to ensure that the systems work efficiently and are developed following the applicable development methodology. </li><li> Creates Unit tests to ensure accuracy. Tracks record of identifying largest risk areas and driving resolution of these issues. </li><li> Provides accurate and timely input to Scrum Master regarding status of technical tasks. </li><li> Provides support during meetings as required. </li><li> Serves as a contact person in support of more serious production problems/issues. <br/><br/></li></ul>Skills and Experience Required:<br/><br/>Education<br/><br/><ul><li> Bachelor of Science in computer science or a related technical field, or equivalent combination of post-secondary education and work experience. <br/><br/></li></ul><strong>Required Experience &amp; Skills<br/><br/></strong><ul><li> 6+ years of increasingly responsible systems development experience on multiple platforms </li><li> 6+ years’ experience in the development environment commensurate with the assigned area of responsibility </li><li> Java 8 / 11, Spring MVC, Spring Data JPA, &amp; SpringBoot Microservices </li><li> Experience with complex, enterprise web development </li><li> Experience working in an Agile / Scrum methodology </li><li> Ability to accurately identify root cause of technical problems </li><li> Excellent communication skills; verbal and written </li><li> Ability to adapt to change </li><li> Ability to influence others to ensure that issues which have been raised are resolved </li><li> Excellent problem solving skills – able to think through likely cause of problems before referring to others <br/><br/></li></ul><strong>Desired Skills<br/><br/></strong><ul><li> Experience with RESTful Web Services </li><li> Experience with Unit Testing (JUnit, Mockito, Groovy) </li><li> Experience with Cloud Development, Deployment, and Maintenance (AWS, GCP) </li><li> Knowledge / Experience with Relational Database SQL and NoSQL (Couchbase, Mongo) <br/><br/></li></ul>Benefits<br/><br/><ul><li> Work-life balance </li><li> Competitive Compensation &amp; Growth Opportunities  </li><li> 5 working days with 2 fixed weekly offs. </li><li> Employee-friendly policies/people-oriented organizations.  </li><li> Plum Insurance benefits are available to all employees.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Finance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

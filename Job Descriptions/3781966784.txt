@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Leidos’ High Fidelity Simulation Business Area is responsible for architecting and implementing large-scale System of Systems solutions in support of world class simulation, training, and analysis products for the US Navy. You will get to work with state-of-the art technology developing the most sophisticated and “game changing” trainers the US Navy deploys. You will be part of a high powered, collegial, and ethical team, performing vital work that has a major impact within the US Navy. You will be constantly learning new skills and be encouraged and supported to develop the career you want to achieve. The hallmark of Leidos is empowered employees doing meaningful work. Join Leidos for a career, not just a job.<br/><br/>Leidos is seeking energetic, motivated, self-starters for a technically sophisticated and challenging Linux Engineer/Cybersecurity Engineer position, assisting in the development of a variety of naval training and simulation systems such as CIAT - Combined Integrated Air and Missile Defense (IAMD) and Anti-Submarine Warfare (ASW) Trainer - YouTube.<br/><br/><strong>Requirements<br/><br/></strong>Cybersecurity Engineers are responsible for providing engineering services for classified and unclassified networks of computer systems running Windows and Linux Operating Systems. This position will provide engineering support for on-premises, cloud and hybrid networks across multiple sites. You will work with development teams to identify requirements and build solutions across multiple enclaves to support development efforts. Position duties include:<br/><br/><ul><li> Develop creative solutions to complex technical issues and problems.</li><li> Assist with maintaining a strong cybersecurity posture.</li><li> Develop and maintain physical and virtual systems, servers and other technical solutions in support of development and systems integration efforts.</li><li> Deploy virtually hosted software applications and integrate them into centrally managed enclaves.</li><li> Assess system vulnerabilities, implement risk mitigation strategies, validate secure systems, and test security products and systems to detect security weakness.<br/><br/></li></ul><strong>Required Education<br/><br/></strong>Bachelor’s Degree in Cybersecurity, Computer Science, Computer Engineering, or a related technical degree. Candidate must be 8570.1-M / DoD 8140 compliant with a Cybersecurity certification such as Security+ or equivalent AND an Operating System certification like Linux+, RHCSA, RHCE or equivalent.<br/><br/><strong>Required Experience<br/><br/></strong><ul><li> You must have U.S. Citizenship and be eligible to obtain a U.S. Government granted security clearance. Employment is contingent on receiving an interim Secret security clearance.</li><li> You must have 4+ years of cybersecurity work experience.</li><li> You must have past experience with, and demonstrate the skills and capabilities to successfully execute the duties and responsibilities of this position.</li><li> You will be working in a professional environment and contributing to systems that will be used throughout the U.S. Navy. Therefore, you must be dedicated to producing quality work results, and must be extremely attentive to detail.<br/><br/></li></ul><strong>Desired Experience<br/><br/></strong><ul><li> Experience with Atlassian Products, such as JIRA, Confluence, and Bitbucket</li><li> Experience with Windows administration, specifically Windows 10, DISA SHB, and Windows Server</li><li> Experience with Linux system administration, specifically RHEL and equivalent Linux Operating Systems</li><li> Experience with network services such as identity management, data center storage, certificates, network logging and security event monitoring</li><li> Experience with virtualization such as virtual machines, containers and container orchestration, and cloud based computing nodes</li><li> Experience building and deploying desktop and server hardware</li><li> Experience with end user support<br/><br/></li></ul><strong>Pay Range<br/><br/></strong>Pay Range $78,000.00 - $141,000.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

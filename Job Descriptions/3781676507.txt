@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong> Junior Java Back-End Developer (US/Canada Residents Only, 1 year experience, remote)<br/><br/></strong>Team Remotely Inc. is a staffing and recruitment agency that offers a comprehensive solution for talent acquisition, including sourcing, vetting, pay rolling, and managing talent. Whether you need contract staffing, direct hire, direct sourcing, talent pools, or diversity initiatives, our model can support your hiring strategy.<br/><br/><strong> Hiring Type:</strong> Full-Time<br/><br/><strong> Base Salary:</strong> $60-$70K Per Annum.<br/><br/><strong>Description:<br/><br/></strong>As a Junior Java Back-End Developer, you will be responsible for developing and maintaining the server-side logic of our applications, ensuring seamless integration with the front-end components. You will work closely with a team of experienced developers to design, implement, and test back-end functionalities. This is an excellent opportunity for a passionate individual who is eager to build a strong foundation in back-end development using Java.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with cross-functional teams to gather and analyze requirements for new features and enhancements. </li><li>Design, develop, and maintain server-side applications using Java and related frameworks. </li><li>Write clean, efficient, and maintainable code that adheres to industry best practices. </li><li>Implement data models, and database schemas, and perform database operations using SQL or NoSQL databases. </li><li>Integrate APIs, web services, and third-party systems into the application. </li><li>Perform unit testing and troubleshoot/debug application issues. </li><li>Participate in code reviews to ensure code quality and maintainability. </li><li>Stay up to date with emerging technologies, trends, and best practices in back-end development. <br/><br/></li></ul><strong>Requirements:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science or a related field. </li><li>Solid understanding of Java programming language and object-oriented principles. </li><li>Knowledge of back-end development concepts and frameworks, such as Spring Boot, Hibernate, or Java EE. </li><li>Experience with databases, including SQL and/or NoSQL. </li><li>Understanding of RESTful APIs and web services. </li><li>Familiarity with version control systems, such as Git. </li><li>Strong problem-solving and analytical skills. </li><li>Excellent communication and collaboration abilities. </li><li>Ability to work well in a team environment and contribute to collective goals. </li><li>Self-motivated with a desire to learn and grow in back-end development. <br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/></strong><ul><li>Familiarity with cloud platforms, such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). </li><li>Knowledge of containerization technologies, such as Docker. </li><li>Experience with test-driven development (TDD) and agile methodologies. </li><li>Understanding of software development principles and practices, including code versioning, documentation, and deployment. <br/><br/></li></ul><strong> Why work with Team Remotely?<br/><br/></strong>Team Remotely Inc. is a staffing platform offering a seamless experience for employers and candidates. Employers can post job openings and specify their requirements, while candidates can create profiles and upload resumes.<br/><br/>The team of Team Remotely continuously learns and adapts based on previous successful placements, constantly improving its matching capabilities. This ensures that the recommendations provided by Team Remotely are tailored and accurate, increasing the likelihood of a successful match between employers and candidates. By providing intelligent and data-driven solutions, they strive to enhance the efficiency and effectiveness of the hiring process, ultimately helping companies find the best talent and individuals find their dream jobs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

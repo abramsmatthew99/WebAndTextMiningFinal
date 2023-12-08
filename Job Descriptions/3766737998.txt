@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Cybersecurity Analyst</strong></p><p><strong>Milwaukee, WI 2-3 days a week onsite</strong></p><p><strong>6-12 month Contract to Hire </strong></p><p><strong>Target Conversion Salary: $80,000-90,000</strong></p><p><strong>Join our team as a Cybersecurity Analyst and play a vital role in fortifying our company's cybersecurity infrastructure. Your expertise will contribute to threat anticipation, detection, and response, ensuring the resilience of our systems and operations. This role encompasses both strategic design and hands-on operational involvement in maintaining robust cybersecurity protocols.</strong></p><p>**Responsibilities:**</p><p>- Safeguard enterprise information and operations against disruptions, breaches, or data compromise, prioritizing security across all facets.<br/>- Design and develop secure IT systems, adhering to established standards, compliance requirements, and cybersecurity best practices.<br/>- Conduct specialized assessment of incoming cybersecurity data for intelligence relevance.<br/>- Analyze information from diverse sources to identify vulnerabilities and potential exploitations.<br/>- Assess threats and vulnerabilities, devising appropriate mitigation strategies.<br/>- Contribute to the development and implementation of cybersecurity policies and procedures, ensuring compliance with industry standards and regulations (e.g., NERC CIP, Sarbanes Oxley).<br/>- Develop and maintain cyber indicators to monitor the operating environment, issuing threat assessments as needed.<br/>- Manage identity and access, ensuring secure system entry and data protection.</p><p>**Qualifications:**</p><p>- Bachelor's degree in computer science, computer engineering, or related field preferred.<br/>- Alternatively, a combination of associate degree, relevant military or professional cybersecurity experience, and recognized certifications (CISSP, GAIC, MCSE, CEH, GICSP, CSSA, CISM) will be considered.<br/>- Minimum of 2 years of practical cybersecurity experience.</p><p>**Preferred Skills:**</p><p>Demonstrated experience or certifications in any of the following areas will be highly advantageous:</p><p>- Active Directory Design and Management<br/>- Identity and Access Management<br/>- Cloud Platforms: Azure, AWS, GCP<br/>- Scripting Proficiency: PowerShell or .NET (VB or C#)<br/>- Security Operations Center (SOC)<br/>- Data Security<br/>- Vulnerability Management<br/>- Network Access Management, DNS, DHCP<br/>- EDR (Endpoint Detection and Response)<br/>- Mobility Security<br/>- NERC-CIP Compliance Knowledge</p><p>**Note:** This role falls within a job family (IT Cybersecurity Analyst/Senior IT Cybersecurity Analyst) where experience is the key differentiator.</p><p>Be part of our team, contribute your expertise, and help fortify our cybersecurity measures for a more secure operational landscape. Apply now and be a crucial part of our cybersecurity success story!<br/></p><p>Beacon Hill is an Equal Opportunity Employer that values the strength diversity brings to the workplace. Individuals with Disabilities and Protected Veterans are encouraged to apply.</p><br/><p>If you would like to complete our voluntary self-identification form, please click here or copy and paste the following link into an open window in your browser: https://jobs.beaconhillstaffing.com/eeoc/</p><br/><p>Completion of this form is voluntary and will not affect your opportunity for employment, or the terms or conditions of your employment. This form will be used for reporting purposes only and will be kept separate from all other records.</p><br/><p><br/><br/>Company Profile:<br/><br/>Beacon Hill Technologies, a premier National Information Technology Staffing Group, provides world class technology talent across all industries utilizing a complete suite of staffing services.  Beacon Hill Technologies' dedicated team of recruiting and staffing experts consistently delivers quality IT professionals to solve our customers' technical and business needs. <br/><br/>Beacon Hill Technologies covers a broad spectrum of IT positions, including Project Management and Business Analysis, Programming/Development, Database, Infrastructure, Quality Assurance, Production/Support and ERP roles.<br/><br/></p><br/><p>Learn more about Beacon Hill Staffing Group and our specialty divisions, Beacon Hill Associates, Beacon Hill Financial, Beacon Hill HR, Beacon Hill Legal, Beacon Hill Life Sciences and Beacon Hill Technologies by visiting www.beaconhillstaffing.com. <br/><br/>We look forward to working with you.<br/><br/>Beacon Hill. Employing the Future™</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

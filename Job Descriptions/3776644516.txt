@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Ryan Consulting Group, LLC</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Ava Swart" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQGMFMmZlieNUA/profile-displayphoto-shrink_100_100/0/1683131745181?e=2147483647&amp;v=beta&amp;t=1wcx4qzUBSz8_AVcghLYrrLgQIl8Vplev8HbXpH9_zI" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Ava Swart
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Recruiter at Ryan Consulting Group, LLC
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Ava Swart" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fava-swart&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>We are seeking a highly skilled Full-stack Developer to join a turnkey software company. As a key member of their development team, you will contribute to feature development, support existing applications, and play a crucial role in troubleshooting, bug fixing, and making enhancements to ensure optimal functionality. Your expertise in JavaScript, React, C#, .NET, ORM, and SQL, combined with a strong understanding of software engineering best practices, will be essential in delivering high-quality solutions. As a Full-stack Developer, you will participate in code reviews, provide constructive feedback, and collaborate with cross-functional teams to achieve project goals.</p><p> </p><p><strong>Responsibilities</strong></p><ul><li>Develop secure, scalable, and highly maintainable software solutions from initial concept and requirements through to production implementation and support.</li><li>Lead small to medium size feature development.</li><li>Work with cross-functionally to enhance overall user experience of our platforms.</li><li>Assist in creating and maintaining system documentation, flowcharts, layouts, diagrams.</li><li>Participate in code reviews and provide constructive feedback.</li></ul><p><br/></p><p><strong>Qualifications &amp; Experience</strong></p><ul><li>Bachelor's degree or equivalent experience in Computer Science</li><li>At least 3+ years of experience using JavaScript, React, C#, .NET, ORM, and SQL</li><li>Proficient knowledge of relational databases (e.g., SQL Server) and tools (e.g., SSMS).</li><li>Ability to multi-task, organize, and prioritize work.</li><li>Experience with Visual Studio, Git, CI/CD, unit testing.</li><li>A willingness to question things and voice your opinion.</li><li>Experience building and consuming microservices via REST API and associated tools such as Postman.</li><li>Strong communication skills, collaboration skills and a desire to help and learn from other developers.</li><li>Understanding of software engineering best practices such as SOLID principles and design patterns</li></ul><p><br/></p><p><strong>Good to Haves: </strong></p><ul><li>Experience working in an agile team environment.</li><li>Experience with Azure platform</li><li>Experience with NoSQL databases</li></ul><p><br/></p><p><strong>Working Conditions</strong></p><ul><li>This role is an in-office position in the heart of Southend Charlotte NC</li><li>Primary Office Hours run from 8am to 5pm, and employees are required to work either from 8am-5pm or 9am-6pm</li><li>No Travel required</li><li>This position will be provided a desktop and laptop</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development and Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

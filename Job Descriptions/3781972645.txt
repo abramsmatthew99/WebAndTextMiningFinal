@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you pursuing a degree in Computer Science, Information Systems, or related coursework? Do you have a talent for troubleshooting, supporting multiple software components, translating user stories and requirements while connecting the dots to see the big picture? If you’re looking to gain practical experience, learn about industry trends and emerging technologies, we invite you to apply! <br/><br/>At Eyefinity, we activate the full power of <em>care</em>  by consciously reinvesting in greater vision, health, and opportunities for all. As an intern at Eyefinity, you'll join a team of thinkers, doers, adventurers, risk-takers, and boundary-pushers who think outside the peripheral to develop products, programs, and services that help people see every possibility. By investing in your career growth and personal development, we hope that together we can create a world where everyone can bring their best vision to life.  <br/><br/>As our Eyefinity/VSP Vision Intern, you’ll work within Eyefinity’s Clearinghouse Engineering and Cloud Operations division, where you’ll gain professional experience working with multiple teams and technologies. You’ll have the unique opportunity to learn about technologies that support the operation of thousands of Optometry offices, and under the guidance of a mentor, you may assist with the following duties:  <br/><br/><ul><li>Collaborate with software engineers, test engineers, business partners, and leaders on coding and debugging.  </li><li>Deliver effective technical documentation, automated test scripts, and software components. </li><li>Translate user stories and requirements, develop automated test scripts, and implement test scripts and software components within projects.   </li><li>Support technical design, planning, testing, and implementation within the Agile software development process.  <br/><br/></li></ul>Don’t miss out on this unique opportunity to gain valuable experience and networking opportunities across Eyefinity, VSP Vision, and ecosystem partners. <br/><br/><strong>Preferred Skills: </strong> <br/><br/><ul><li>Programming skills, such as .NET or Angular  </li><li>Experience using databases and computer operating systems  <br/><br/></li></ul><strong>Qualities of the ideal candidate: </strong> <br/><br/><ul><li>Strong analytical aptitude for problem-solving skills   </li><li>Ability to apply best practices and meet organization standards  </li><li>Ability to work independently, manage time, and organize and complete work based on priority   </li><li>Interested in learning from other professionals and growing their skills  </li><li>Strong written and verbal communication skills  <br/><br/></li></ul><strong>Job-Related Requirements: </strong> <br/><br/><ul><li>Facilities to work remotely, including private or semi-private workspace   </li><li>Access to high-speed internet  </li><li>Technology will be provided  <br/><br/></li></ul><strong>Education Level:</strong> Open <br/><br/><strong>Degree Target: </strong> Computer Science, Information Systems or related coursework<br/><br/>Compensation range for the role is listed below. Applicable salary ranges may differ across markets. Actual pay will be determined based on experience and other job-related factors permitted by law.<br/><br/>Salary Ranges: $26.00 - $36.00<br/><br/>VSP Vision is an equal opportunity employer and gives consideration for employment to qualified applicants without regard to age, gender, race, color, religion, sex, national origin, gender identity, sexual orientation, disability or protected veteran status. We maintain a drug-free workplace and perform pre-employment substance abuse testing.<br/><br/><strong>Notice to Candidates: Fraud Alert - Fake Job Opportunity Solicitations Used to Collect Fees/Personal Information. <br/><br/></strong>We have been made aware that fake job opportunities are being offered by individuals posing as VSP Vision and affiliate recruiters. Click here to learn about our application process and what to watch for regarding false job opportunities.<br/><br/>As a regular part of doing business, VSP Vision (“VSP”) collects many different types of personal information, including protected health information, about our audiences, including members, doctors, clients, brokers, business partners, and employees.  VSP Vision employees will have access to this sensitive personal information and are subject to follow Information Security and Privacy Policies.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

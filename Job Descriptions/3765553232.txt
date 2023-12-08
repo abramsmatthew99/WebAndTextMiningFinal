@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Title: Data Analyst<br/><br/>Position type: Full Time<br/><br/>Location: 100% Remote<br/><br/><strong>About<br/><br/></strong>CleanChoice Energy, a national renewable energy company that empowers people and businesses to cut emissions and live cleaner, healthier lives, is seeking a Data Analyst to join the Team. This is a unique opportunity to join a mission driven organization transforming the U.S. electricity market by switching homes and businesses to 100% clean, pollution-free energy.<br/><br/><strong>Job Description<br/><br/></strong>As a Data Analyst, you will be a key player in ensuring the accuracy, integrity, and effective utilization of our data assets. The Data Analyst will report to the Data Quality Governance Lead.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Build and maintain a data catalog to ensure that key data assets are accurately described and easily discoverable</li><li>Investigate the root cause of data anomalies and discrepancies and present findings to Data Quality Governance Lead, and additional key technology and business stakeholders</li><li>Document business requirements to determine how anomalies should be managed</li><li>Review records in our master data management and data quality platforms for accuracy, consistency, validity, and uniqueness</li><li>Perform data monitoring and data quality profiling to ensure compliance with established data quality policies and standards<br/><br/></li></ul><strong>Qualifications And Skills<br/><br/></strong><ul><li>A minimum of a bachelor’s degree in computer science, information systems, data science, statistics, and/or related fields or comparable experience and education is required. </li><li>Ability to work autonomously and navigate ambiguity</li><li>Comfortable working as part of a global team and partnering with remote team members</li><li>Strong organizational skills</li><li>Strong written and verbal communication skills</li><li>Critical thinker, capable of asking relevant questions to improve processes while staying within the scope of the business opportunity we are trying to realize </li><li>A strong sense of governance protocols, the need to respect highly sensitive data and proactive attention to regulatory, security and compliance driven policies</li><li>Experience building flowcharts, using tools such as LucidChart or Microsoft Visio</li><li>Experience with data visualization tools, such as Tableau, Microsoft Power BI, or Domo</li><li>An understanding of both relational databases and graph database, including basic database concepts</li><li>Strong skills in SQL, logical/conceptual data modeling and analysis</li><li>Proficient with Git</li><li>Experience with agile engineering practices</li><li>Knowledge of how to determine business data requirements, and create data standards and business rules<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience working with Master Data Management Platforms (e.g. Reltio MDM, Informatica MDM, Ataccama)</li><li>Experience working with Data Quality and Data Profiling Platforms (e.g. Informatica IDQ, Ataccama,)</li><li>Experience working with Python</li><li>2+ years of experience in data analysis, data management, data quality, or data governance</li><li>Experience with data governance principles, related best practices, and data management standards or practices<br/><br/></li></ul>The Types of Tools You Could Work With<br/><br/><ul><li>Master Data Management: Reltio, Informatica, Atacamma, Profisee or similar</li><li>Data Quality Tools: Informatica, Ataccama, Alteryx, or similar tools</li><li>Data Lake/Warehouse: Snowflake, S3, Redshift, MS SQL Server, or similar</li><li>ETL/ELT: dbt, Matillion, MS SQL Server SSIS, or similar</li><li>Data Integration: Workato, EventBridge, AWS Glue or similar</li><li>CRM/CDH: Salesforce, Zendesk, Monday.com, or similar</li><li>BI: Domo, Tableau, Power BI, or similar<br/><br/></li></ul>Travel<br/><br/><ul><li>100% remote<br/><br/></li></ul><strong>Compensation<br/><br/></strong>This position offers compensation commensurate with experience and skills and a robust benefits package.<br/><br/>How to Apply<br/><br/>CleanChoice Energy is an Equal Opportunity Employer. Our staff's diverse, multidisciplinary background drives our success, and we are committed to ensuring that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, or any other characteristic protected by law. To apply, please submit a resume and cover letter via.<br/><br/><strong>About CleanChoice Energy<br/><br/></strong>Our mission is to transform the U.S. electricity market by switching homes and businesses to 100% clean, pollution-free energy. We are working toward a world free of catastrophic climate change with pure, clean air and abundant renewable energy by providing renewable energy to everyone everywhere.<br/><br/>Powered by JazzHR<br/><br/>wvdHJKpYfV
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Title: React Engineer</strong></p> <p><br/><br/><strong>Location: Phoenix, AZ - Open for relocation candidates as well.</strong></p> <p><strong>Duration: Long Term </strong></p> <p><br/><br/><br/><br/><strong>Job Description:</strong></p> <p>No diversity please.<br/><br/>Need experience with UI, React. Java (Preferred)<br/><br/>Responsibilities:<br/><br/>• Meeting with the development team to discuss user interface ideas and applications.<br/><br/>• Reviewing application requirements and interface designs.<br/><br/>• Identifying web-based user interactions.<br/><br/>• Developing and implementing highly responsive user interface components using react concepts. Writing application interface codes using JavaScript following react.js workflows.<br/><br/>• Troubleshooting interface software and debugging application codes.<br/><br/>• Developing and implementing front-end architecture to support user interface concepts.<br/><br/>• Monitoring and improving front-end performance.<br/><br/>• Documenting application changes and developing updates.<br/> <br/><br/><strong>Requirements:<br/></strong><br/>• Bachelor's degree in computer science, information technology, or a similar field.<br/><br/>• Previous experience working as a react.js developer.<br/><br/>• In-depth knowledge of JavaScript, CSS, HTML, and front-end languages. Knowledge of REACT tools including React.js, Webpack, Enzyme, Redux, and Flux.<br/><br/>• Experience with user interface design.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

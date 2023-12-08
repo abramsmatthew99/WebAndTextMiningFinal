@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About<br/><br/></strong>Macy’s is proudly America’s Department Store. For more than 160 years, Macy’s has served generations at every stage of their lives. Customers come to us for fashion, value and celebration. Now is an exciting time to join Macy’s, Inc. The face of retail is changing, and change requires innovation.<br/><br/>Macy’s Tech provides modern tools, platforms, and services to all parts of the business. Our team supports millions of customers in connected commerce across the technology hub at Macy’s Join our team to help shape the future of e-commerce and set the pace in retail technology. Whether focused on store technology, supply chain tech, application security, merchandising systems, or the mobile app – you’ll have opportunities to grow your career while finding meaningful ways to make a difference.<br/><br/><strong>Job Overview</strong> The Portfolio Architect, Supply Chain defines a high-level portfolio architecture and advises on its implementation, drives alignment with enterprise standards while collaborating with Product leadership to drive out architecturally significant decisions and do just enough architecture to keep enabling development. This role will work closely with Domain and Product Architects to ensure alignment with the overall organization's vision. This role supports and facilitates architecture assurance activities and reimagines the future of technology for their product/platform portfolio. This role will be a critical contributor to Macy’s overall strategy for supply chain and its associated ecosystems.<br/><br/><strong>Essential Functions<br/><br/></strong><ul><li>Develop strategies and drives execution of legacy technology transformation to next generation platforms.</li><li>Collaborate with the business (and respective domain/product inputs) to iteratively design an end-to-end technical solution for the portfolio</li><li>Communicate complex technical choices and tradeoffs in easy to understand, business-friendly language.</li><li>Identify required architectural significant decisions and associated risks</li><li>Collaboratively define key architectural components with domains/products through portfolio Agile events</li><li>Identify opportunities for reuse and extensibility balanced against complexity, cost and timelines</li><li>Collaborate with domains/products to identify non-functional requirements and provides appropriate guidance and leadership to help maintain quality solutions</li><li>Facilitate the resolution and escalation of technical impediments raised by domain/products through close collaboration with product counterparts</li><li>Manage, track, and refine functional and technical domain target state and roadmaps</li><li>Support and facilitate architecture governance activities and front-door management process</li><li>Manage evolution and advocacy for architecture function scope/model</li><li>Provide technical guidance to teams on architecture and design</li><li>Assess new opportunities and prioritize the roadmap<br/><br/></li></ul><strong>Decision Making<br/><br/></strong><ul><li>Ability to balance short-term tactical decisions with long-term strategic thinking.</li><li>Ability to apply creativity to decision making to balance outcomes against known constraints.</li><li>Ability to apply data and data analysis to support decision making.<br/><br/></li></ul><strong>Competencies<br/><br/></strong><ul><li>We encourage candidates with either a bachelor’s degree or equivalent work experience in a related field to apply.</li><li>15+ years of experience in software engineering, engineering management, and delivering large-scale transformation initiatives in retail required.</li><li>10+ years of experience in solution architecture and/or enterprise architecture with a proven track record of doing so at large enterprises.</li><li>5+ years of experience in architecting cloud native solutions, experience and Professional Cloud Architect certification with GCP preferred.</li><li>10+ years in working with technology to enable large scale supply chain management.</li><li>Expert understanding and demonstrable experience in creating architectures to integrate WMS, WCS, WES, YMS, LMS, OMS, TMS and various other supply chain systems to enable differentiated supply chain capabilities for the enterprise.</li><li>Deep technical understanding of OOP/OOD with Java &amp; Python, microservices, supergraph, asynchronous messaging &amp; streaming, AI/ML, distributed cloud processing, SQL, and NoSQL.</li><li>Executive leadership experience in managing multiple and large technology initiatives in distributed computing environments.</li><li>Cross-disciplinary technical expertise with development, operations, security, quality assurance, architecture and more.</li><li>Experience in cloud technologies with a proven track record of migrating legacy on-premise applications into the cloud is required.</li><li>Experience in Agile, especially managing or participating in multi-functional Agile teams within a large enterprise.</li><li>Excellent written and verbal communication skills, and an innate ability to easily communicate technical concepts</li><li>Articulate and persuasive leader who can serve as an effective member of the senior management team and who is able to communicate to a broad range of technical and non-technical staff.</li><li>Collaborative and engages others by gathering multiple views and being open to diverse perspectives.</li><li>Results and detail-oriented with excellent organizational skills while engaging and collaborative.</li><li>Able to think operationally and strategically, have strong analytical skills, and process disparate data and information into a cohesive and responsive action plan.</li><li>The ability to gain acceptance and win the confidence and cooperation of business partners is critical.</li><li>Able to juggle multiple priorities - can identify primary and secondary objectives, prioritize time, and communicate timeline to team members.</li><li>Ability and desire to take product/project/initiative ownership.</li><li>Ability to work a flexible schedule based on department and Company needs.<br/><br/></li></ul><strong>Physical Requirements<br/><br/></strong><ul><li>This position involves regular ambulating, sitting, hearing, and talking.</li><li>May occasionally involve stooping, kneeling, or crouching.</li><li>May involve close vision, color vision, depth perception, and focus adjustment. Involve use of hands and fingers for typing on keyboard and using a mouse.</li><li>May be a need to move or lift items under 10 pounds.<br/><br/></li></ul>This position may be eligible for performance-based incentives/bonuses. Benefits include 401k, medical/vision/dental/life/disability insurance options, PTO accruals, Holidays, and more. Eligibility requirements may apply based on location, job level, classification, and length of employment. Additional benefit details are available at macysJOBS.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Retail Apparel and Fashion, and Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

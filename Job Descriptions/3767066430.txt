@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Teamanics</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Linda Webb" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQEsbCAJxCph6w/profile-displayphoto-shrink_100_100/0/1669181876306?e=2147483647&amp;v=beta&amp;t=ICQucDgMCCq07HXC2ke4iMDclfbaLf48dBGyJHVJXiU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Linda Webb
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Supporting Communities with Career Advancements | Job Opportunities
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Linda Webb" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Flinda-webb-241b1b232&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Our client is looking for a Junior Systems Engineer to support one of the largest electric-vehicle battery manufacturing facility in the US based in Kokomo, IN. You will be working with the cutting-edge technology to produce EV battery cells and modules.</p><p>As a Junior Systems Engineer you will be accountable for Linux, Windows, and application systems that support infrastructure, data center and networks.</p><p><br/></p><p><strong>Responsibilities</strong></p><ul><li>Engineering of systems administration-related solutions for various projects and operational needs.</li><li>Install new/rebuild existing servers and configure hardware, peripherals, services, settings, directories,storage and project/operational requirements.</li><li>Install and configure systems which support MES infrastructure.</li><li>Develop and maintain installation and configuration procedures.</li><li>Configure/maintain storage equipment and troubleshoot with vendors.</li><li>Contribute to and maintain system standards.</li><li>Contribute to and maintain security posture of the systems</li><li>Install and maintain security patches on the operational and development system, which includes but is not limited to, Red Hat Linux (Centos, Ubuntu…etc.), Windows 2008/2k8R2/2k12, VMWare, and Apache web services.</li><li>Report Security Patch compliance.</li><li>Perform daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs, and verifying completion of scheduled jobs such as backups.</li><li>Perform daily backup operations, ensuring all required file systems and system data are successfully backed up to the appropriate media, recovery tapes or disks are created, and media is recycled and sent off site as necessary.</li><li>Perform regular file archival and purge as necessary.</li><li>Create, change, and delete user accounts per request as necessary.</li><li>Provide Tier III/other support per request from various constituencies. Investigate and troubleshoot issues.</li><li>Repair and recover from hardware or software failures. Coordinate and communicate with impacted constituencies.</li><li>Apply OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities.</li><li>Configure/add new services as necessary.</li><li>Manage existing and/or deploy new instances of Jirra, Git, LDAP, Jenkins, VMWare environments.</li><li>Upgrade and configure system software that supports infrastructure applications or Asset Management applications per project or operational needs.</li><li>Maintain operation, configuration, or other procedures.</li><li>Perform ongoing performance tuning, hardware upgrades, and resource optimization as required.</li><li>Configure CPU, memory, and disk partitions as required.</li></ul><p><br/></p><p><strong>Requirements</strong></p><ul><li>3+ years of system administration experience in Linux environments and proficient in tasks such as shell scripting, creating cron jobs, analyzing log files, managing user accounts and groups, configuring iptables, and setting up mail services.</li><li>Ability to effectively communicate (verbal and written correspondence) in a professional and courteous manner with technical and non-technical personnel.</li><li>Able to lift 50 lbs.</li><li>Able to move servers to and from main DC to the colocation and labs</li><li>Install new hardware or migrate existing servers (rack and stack)</li><li><strong><em>Bachelor’s degree, with a technical major, such as Engineering or Computer Science, preferred</em></strong>.</li></ul><p><br/></p><p><strong>This job is being filled by Teamanics, Metabyte's rapidly growing peer network. Employment through Metabyte, Inc.</strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

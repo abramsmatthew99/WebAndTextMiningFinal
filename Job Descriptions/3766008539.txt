@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        LMI Technologies, recognized as one of Canada’s Best Workplaces, is a medium-sized technology company built on a culture of openness, respect and professional excellence. At LMI our staff work passionately toward the common goal of designing and delivering innovative 3D machine vision solutions to OEMs and System Integrators working in industrial factory automation around the world. The result of this teamwork is high-performance, easy-to-implement and cost-effective 3D sensor technologies that deliver the best results in even the most challenging 3D inline inspection applications.<br/><br/><strong>What will you do as a Software Engineer (AI Solutions)?<br/><br/></strong>At LMI, the Engineers solve tough factory inspection applications using state-of-the-art AI models. As a Software Engineer, you will work directly with customers to develop custom inspection solutions. You are responsible for sensor specification, imaging system configuration, data collection and wrangling, AI model pipeline design and training, and model runtime performance. You will also be working hand in hand with the software engineering team to advance the Inspection Gadget runtime platform and with the internal AI R&amp;D team to develop new AI models for customer applications. You will be a key part of the AI Solutions team in the Boston office and will report to the Senior Director - AI Solutions Team.<br/><br/><ul><li>Designs, trains, and optimizes AI model pipelines for customer applications using state of the art open source models and custom models from AI R&amp;D team</li><li>Determines all vision sensor specifications for 2D and 3D applications</li><li>Gathers training and test data by configuring and using lab prototypes and on-prem imaging data-collection systems</li><li>Works with Field Application Engineers to qualify inspection opportunities</li><li>Work with Solutions Team engineers to optimize model runtime performance</li><li>Last mile configuration of Gadget App including layout, image annotations, and graphs and Gadget OS including controller and services (sensor, automation, pipeline)</li><li>Responsible for coordinating customer engagements, pilot deployment and production scaling</li><li>Provides input to AI R&amp;D team to help with prioritization</li><li>Contributes to upkeep and maintenance of LMI AI Solutions test lab<br/><br/><br/></li></ul><strong>What do you need to be successful?<br/><br/></strong><ul><li>Electrical Engineering and Computer Science (EECS) BS/MS/PhD with up to 3 years of related professional experience</li><li>Fluent: Python, PyTorch, TensorFlow, OpenCV, Numpy, SciKit Learn and other ML</li><li>Working knowledge of AI modeling techniques and trends, especially CNN based model architectures</li><li>Demonstrated experience extracting / applying software from open source repos</li><li>Familiarity with semantic segmentation, object detection, and anomaly detection deep learning models</li><li>Familiarity with Docker/Docker-compose workflows</li><li>Basic understanding of electrical engineering concepts</li><li>Comfortable configuring and programming electronic systems including Nvidia Jetson, Raspberry Pi, photo-electric triggering systems, PWM drives, etc</li><li>Excellent problem solving skills in the face of ambiguity using a clear understanding of facts and implementation of test plans and solution strategies</li><li>Solid interpersonal skills to be effective in a team environment</li><li>Exceptional verbal and written communication skills with proficiency using Google products as an asset</li><li>Exceptional organizational and prioritization skills</li><li>Self-motivated, have a positive attitude and a results oriented approach to business</li><li>A valid passport and the ability to travel domestically up to 20%<br/><br/><br/></li></ul><strong>How to submit your interest?<br/><br/></strong>If you are interested in this exciting opportunity and working for a fast-growing global technology company with an inspiring and engaging workplace environment, please submit your application to our Human Resources team in confidence by clicking the “Apply Now” button.<br/><br/>While we appreciate your interest in LMI very much, we are only able to respond to candidates selected for further consideration. We look forward to talking to you about the possibilities of beginning a rewarding new chapter of your career!<br/><br/><strong>Why being inclusive is important to us?<br/><br/></strong>At LMI Technologies, we are an Equal Opportunity employer and we value the diversity of the people we hire and serve. We strive to build and grow our team that fosters variety in backgrounds, perspectives, experiences and skills. We embrace inclusiveness in our workplace, so we can utilize each person’s talents and strengths.<br/><br/>If you are interested in working for a fast-growing global technology company with an inspiring and engaging workplace environment, we invite you to apply and talk about the possibilities of beginning a rewarding new chapter of your career.<br/><br/>#LMISJ<br/><br/>We assure you, once you complete your application, your information is safe with us. To learn more about how we use your personal data, please review our Privacy Policy (https://lmi3d.com/privacy-policy).
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Automation Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

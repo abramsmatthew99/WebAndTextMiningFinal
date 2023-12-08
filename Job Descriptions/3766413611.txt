@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Belay Technologies has been voted Baltimore Business Journal's (BBJ) Best Places to Work 2019, runner up in 2020 and a finalist in 2021!<br/><br/>Belay Technologies is seeking a Software Engineer to join our intel team.<br/><br/>Candidates should have the following qualifications: <br/><br/><ul><li>TS/SCI Clearance with polygraph</li><li>Bachelor’s degree in Computer Science or related discipline from an accredited college or university is required. </li><li>Nine (9) years of experience as a SWE, in programs and contracts of similar scope, type, and complexity is required. </li><li>Eleven (11) years of SWE experience on projects with similar software processes may be substituted for a bachelor’s degree. <br/><br/></li></ul>Candidates are required to have the following skills:<br/><br/><ul><li>Java</li><li>Elasticsearch</li><li>Springboot</li><li>Kafka</li><li>Monolithic Springboot to Microservices</li><li>Hibernate/JPA<br/><br/></li></ul>Perks and Benefits:<br/><br/><ul><li>8 weeks paid leave - 4 weeks of personal leave, 3 Yay! days, take off on your birthday,11 paid holidays and optional leave up to 6 days through Belay's volunteer program </li><li>10% matching in 401(k) contributions vested on day one </li><li>$5,000 annual training/tuition </li><li>Student Loan Repayment Program </li><li>100% company-funded HSA </li><li>Rich medical coverage (100% coinsurance) </li><li>Dental coverage including orthodontia </li><li>Up to $420,000 in life insurance, premiums 100% company funded </li><li>Amazon Prime, gym reimbursement, monthly lunches, games and prizes </li><li>Pet adoption program, generous referral bonus program, fun events, and more! <br/><br/></li></ul>Belay Technologies is a certified Service-Disabled Veteran-Owned Small Business located in Columbia, Maryland (Baltimore/Washington area). Belay Technologies specializes in systems automation and full stack development. Belay Technologies provides leading technology and engineering solutions to the DoD, as well as state-of-the-art commercial products. We hire software engineers, web designers, test engineers, systems engineers, systems administrators, database engineers and other tech services. We are an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.<br/><br/>Powered by JazzHR<br/><br/>3vIhJcMSWr
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

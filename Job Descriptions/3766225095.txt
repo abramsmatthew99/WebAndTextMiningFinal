@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are a leading technology company passionate about providing innovative IT solutions. As a dedicated partner to U.S. Defense, Intelligence, and Federal Civilian agencies, as well as Fortune 1000 companies, we pride ourselves on our family-oriented culture that values each team member. With a global reach, we tackle new and evolving challenges, offering a collaborative, dynamic, and high-tempo work environment.<br/><br/>Why Choose Us?<br/><br/>Direct hire full-time position<br/><br/>Hybrid work schedule<br/><br/>Competitive base salary and comprehensive benefits<br/><br/>Mid-size company with ample room for growth<br/><br/><strong>Your Role<br/><br/></strong>As a Systems Analyst, you will play a crucial role in collaborating with internal and external stakeholders to define project scope, system goals, and requirements. Join a team that values your growth and well-being, offering competitive benefits packages, salaries, bonus/award programs, and high potential for professional development and global job opportunities.<br/><br/><strong>Responsibilities<br/><br/></strong>Establish project scope, system goals, and requirements through coordination with stakeholders.<br/><br/>Develop, analyze, and organize requirement specifications, data mapping, diagrams, and flowcharts.<br/><br/>Manage the set-up and configuration of systems and applications.<br/><br/>Perform system administration tasks, including account creation and system configuration.<br/><br/>Implement maintenance procedures, monitor system health, and troubleshoot errors and alarms.<br/><br/>Design, implement, and upgrade information systems to meet business and user needs.<br/><br/>Ensure best practices for scalability, supportability, ease of maintenance, and system performance.<br/><br/>Provide high-level data mapping between systems for reporting and analytics.<br/><br/>Design, code, and maintain small utility applications for internal tasks, such as tracking hardware inventories.<br/><br/><strong>Requirements<br/><br/></strong>Bachelor's degree in Computer Science, Information Sciences, or related IT discipline.<br/><br/>2-5 years of experience in information technologies and systems analysis.<br/><br/>Strong computer, hardware, software, and analytical skills.<br/><br/>Proven ability to assess business needs and translate them into relevant solutions.<br/><br/>High-level understanding and knowledge of principles and practices associated with databases and application coding.<br/><br/>Experience in installing, configuring, documenting, testing, training, and implementing new applications and systems.<br/><br/>Preference for experience in a learning/training environment.<br/><br/>Working knowledge of the C# programming language.<br/><br/>Excellent analytical skills.<br/><br/><strong>Clearance<br/><br/></strong>Secret or Public Trust with the ability to obtain Secret Clearance.<br/><br/>If you are passionate about technology, thrive in a collaborative environment, and seek a company that invests in your long-term success, we invite you to apply. Join us in facing exciting challenges and unlocking your potential!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

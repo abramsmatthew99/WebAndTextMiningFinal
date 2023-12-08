@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        As a Software Developer, you will play a pivotal role in crafting cutting-edge programs, analyzing systems, and designing innovative solutions. Your responsibilities will span the entire software development lifecycle, encompassing coding, testing, debugging, installation, and documentation of software applications. Working closely with cross-functional teams, including stakeholders, software engineers, and solution architects, you will contribute to the creation of high-quality software solutions for user-facing websites and applications.<br/><br/><strong>Responsibilities<br/><br/></strong>Develop and support high-quality software solutions for user-facing websites and applications.<br/><br/>Collaborate with stakeholders, software engineers, solution architects, and supporting teams to define product requirements and system design.<br/><br/>Engage in Agile software development activities, including sprint planning, daily standups, retrospectives, and hackathons.<br/><br/>Provide unit testing of all coding changes to ensure a stable production environment.<br/><br/>Collaborate with team members to establish and follow coding standards, workflows, and tool standards.<br/><br/>Assure quality, security, business continuation plans, and compliance requirements are met and documented.<br/><br/>Improve application performance through load and stress testing.<br/><br/>Create and maintain documentation for departmental procedures, training, and user guides.<br/><br/><strong>Required Qualifications<br/><br/></strong>Bachelor’s degree in Information Technology, Computer Science, Math, Engineering, or related field.<br/><br/>Experience in translating business requirements into system functional and non-functional requirements.<br/><br/>Good to excellent understanding of the entire Software Development Life Cycle (SDLC) process, including specification, documentation, code review, unit testing, and quality assurance.<br/><br/>Knowledge and understanding of project management methodology used in Agile development projects.<br/><br/><strong>Recommended Qualifications<br/><br/></strong>Preferred experience or aptitude to learn: Java or C#, web development (HTML5, CSS, Bootstrap, Angular), development, build, and deployment tooling (e.g. Maven, Git, Bitbucket, RAD/Eclipse, and/or IntelliJ IDE), service development (e.g. SOAP, REST), relational databases, and SQL.<br/><br/><strong>Compensation<br/><br/></strong>Competitive salary ranging from $58,200 to $97,000, commensurate with experience, plus bonus eligibility.<br/><br/>Higher salary range of $64,200 to $107,000 for experience in CA, CT, MA, NJ, NY, and PA, plus bonus eligibility.<br/><br/><strong>Get To Know Us<br/><br/></strong>At our company, we believe in the strength of our people. We foster a collaborative environment where team members learn from and inspire one another to deliver excellence in risk solutions and services. With a rich history spanning over 75 years, we've built a reputation as a trusted partner in the communities we serve. Our commitment to positive change drives us forward, and we invite you to explore our values and culture to see why joining us might be the perfect fit for you.<br/><br/><strong>Benefits<br/><br/></strong>Competitive base salary with incentive plans for eligible team members.<br/><br/>401(K) retirement plan with a company match of up to 6% of your eligible salary.<br/><br/>Free Basic Life and AD&amp;D, long-term disability, and short-term disability insurance.<br/><br/>Medical, dental, and vision plans tailored to meet your unique healthcare needs.<br/><br/>Wellness incentives.<br/><br/>Generous time-off program, including personal, holiday, and volunteer paid time off.<br/><br/>Flexible work schedules and hybrid/remote options for eligible positions.<br/><br/>Educational assistance program.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

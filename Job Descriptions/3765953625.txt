@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>About the Role:</strong></p><p><br/></p><p>The Network Engineer is responsible for effective provisioning, installation/configuration, operation, and maintenance of network/security appliances, systems hardware and software and related infrastructure. This individual participates in technical research and development to enable continuing innovation within the infrastructure. This individual ensures that network hardware, network security components, system hardware, operating systems, and related procedures adhere to organizational values and procedures.</p><p><br/></p><p>This individual will assist project teams with technical issues in the initiation and planning phases of our standard Project Management Methodology. These activities include the definition of needs, benefits, and technical strategy; research &amp; development within the project life‐cycle; technical analysis and design; and support of operations staff in executing, testing and rolling‐out the solutions. Participation on projects is focused on smoothing the transition of projects from development staff to production staff by performing operations activities within the project life‐cycle.</p><p><br/></p><p><strong>Network Administration</strong></p><p>1. Configure and install various network devices and services (e.g., Cisco routers, Dell S/N model switches, Palo Alto firewalls, Kemp load balancers, SilverPeak SD-WAN, VPN/QoS/CoS/ACL/NAT/PAT/IPS/IDS</p><p>2. Ability to diagnose complex network issues and have excellent troubleshooting skills (knowledge of SolarWinds, WireShark, PuTTy, Splunk and ManageEngine products a plus)</p><p>3. Knowledge of WAN technologies such as Metro Ethernet/EPL/EDI</p><p>4. Ability to configure VLAN’s, routing and ACL's</p><p>5. Ability to configure and manage iSCSI (Windows/SAN/VMWare)</p><p>and Storage Area Networks (SAN) along with SAN switch configuration and optimization</p><p>6. Knowledge of Dell Compellent storage systems a plus (Dell Storage Manager)</p><p>7. Manage VMWare virtual networking (vSwitches/dvSwitches/VMKernel/vMotion)</p><p>8. Perform network maintenance and system upgrades including firmware updates, service packs, patches, hot fixes and security configurations</p><p>9. Monitor network performance and ensure system availability and reliability</p><p>10. Monitor system resource utilization, trending and capacity planning</p><p>11. Review Qualys scans to identify vulnerabilities and propose remediation solutions</p><p>12. Be the escalation point for Tier 2/3 support and troubleshooting</p><p>13. Work within the established configuration and change management policies to ensure awareness, approval and success of changes made to the network infrastructure</p><p>14. Select and implement security tools, policies, and procedures in conjunction with the company’s security team</p><p>15. Liaise with external vendors and other IT personnel for problem resolution</p><p><br/></p><p><strong>Engineering and Provisioning</strong></p><p>1. Provision virtual networking as required</p><p>2. Provision SAN storage as required (Volumes/Datastores/LUNS)</p><p>3. Install and configure systems that supports company infrastructure.</p><p>4. Document and maintain installation and configuration procedures.</p><p>5. Maintain system standards</p><p><br/></p><p><strong>Operations and Support</strong></p><p>1. Perform daily system monitoring, verifying the integrity and availability of all hardware, server resources, systems and key processes, reviewing system and application logs, and verifying completion of scheduled jobs such as backups.</p><p>2. Perform regular security monitoring to identify any possible intrusions.</p><p>3. Provide Tier III/other support per request from various constituencies. Investigate and troubleshoot issues.</p><p>4. Repair and recover from hardware failures. Coordinate and communicate with impacted constituencies.</p><p>5. Support remote desktop and VDI environment solutions</p><p><br/></p><p><strong>Storage and iSCSI</strong></p><p>1. Provision Volumes within storage devices and manage storage provisioning</p><p>2. Manage connectivity and network devices</p><p>3. Configure iSCSI devices and network</p><p>4. Dell Compellent Experience a plus</p><p><br/></p><p><strong>Maintenance</strong></p><p>1. Apply patches and FW upgrades according to maintenance schedule and upgrade administrative tools and utilities. Configure / add new services as necessary.</p><p>2. Upgrade and configure system software that supports GIS infrastructure applications or Asset Management applications per project or operational needs.</p><p>3. Maintain operational, configuration, or other procedures.</p><p>4. Perform periodic performance reporting to support capacity planning.</p><p>5. Perform ongoing performance tuning, hardware upgrades, and resource optimization as required. Configure CPU, memory, and disk partitions as required.</p><p>6. Maintain datacenter environment and monitoring equipment.</p><p><br/></p><p><strong>Education/Certification:</strong></p><p>• Bachelor’s Degree in Information Technology and Information Systems, Computer Science, or related fields</p><p><br/></p><p><strong>Core Technical Criteria</strong></p><p>1. 4+ years of Network Administration and hands on experience</p><p>2. Network certifications a plus (CCNA/CCNP/Network +)</p><p>3. VMWare vSphere Network management and configuration</p><p>4. Storage Area Networks (SAN)</p><p>5. Network Configuration (TCP/IP, LAN, WAN, VLAN, ACL)</p><p>6. IP Subnetting experience</p><p>7. Network management products (Solarwinds, Manage Engine)</p><p>8. VOIP - Mitel Phone systems</p><p>9. Firewall concepts, NAT/PAT/VPN (Palo Alto)</p><p>10. Switch and router configuration (Dell S/N Series, Cisco)</p><p>11. Wireless network configuration (Aruba/Dell/Ruckus)</p><p>12. VMWare VDI and Microsoft Remote Desktop technologies</p><p>13. Ability to analyze and troubleshoot complex problems</p><p>14. Load Balancer configuration and management</p><p>15. SD-WAN Exposure a plus</p><p>16. Datacenter support</p><p><br/></p><p><strong>About NewDay USA:</strong></p><p>NewDay USA is looking for extraordinary team members to help change the lives of America’s veterans and to be a part of one of the fastest growing companies in Maryland. Our team is comprised of some of the most diverse, talented and energetic people anywhere in the financial services industry. They are also driven to excel by the exceptional opportunities for growth and advancement that are unique to NewDay USA. Join one of the fastest growing companies voted a “Top Workplace for Career Training” by The Baltimore Sun, and a “Top Entry Level Employer” by CollegeGrad.com.</p><p><br/></p><p>This application will be given every consideration but its receipt does not imply that the applicant will be employed. This application will be considered for only thirty (30) days. For consideration of employment opportunities after thirty (30) days, you must reapply. © Copyright 2000‐2015 New Day Financial, LLC. NewDay USA is a registered trade name of New Day Financial, LLC. New Day Financial’s NMLS Identifier is No. 1043.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Administrative and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

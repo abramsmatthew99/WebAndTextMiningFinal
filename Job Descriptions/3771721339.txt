@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Data Analytics, Data Engineering, Business Intelligence, Machine Learning and AI. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner.<br/><br/>The Tiger Analytics team is looking for a BI Technical Product Owner to deliver innovation and tools to global business teams. This is a cross functional role that requires strong interpersonal skills and the ability to liaison with technical teams and interact with internal clients.<br/><br/><strong>Job Duties:<br/><br/></strong><ul><li>Analyze business requirements and work with business stakeholders</li><li>Communicate data architecture to development teams</li><li>Consult and perform design reviews to ensure business needs are met</li><li>Utilize Business Intelligence tools to build and support dashboards</li><li>Partner with other team members as well as cross-functional partners to support business processes and system solutions</li><li>Manage and resolve client issue escalation and systemic improvements</li><li>Partner with Business Analysts to bring new scalable solutions to business functions</li><li>Lead validation efforts to ensure data quality<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science or related field</li><li>6 + years of experience in a BI and Azure Space. Manager Experience is preferred. </li><li>Ability to articulate pros and cons of various technologies and platforms and architectural options</li><li>Knowledge of Power BI Business intelligence reporting tool is a must</li><li>Knowledge of SSRS report development is a plus</li><li>Knowledge of Azure services (ADF, Data Lake Gen 2) is needed. Azure Synapse is nice to have</li><li>Experience and knowledge with Data Warehouse ETL process using SSIS packages is preferred </li><li>Experience with tools and concepts related to data and analytics, such as dimensional modeling, ETL, reporting tools, data governance, data warehousing, structured and unstructured data</li><li>Consulting experience highly preferred<br/><br/></li></ul><strong>Benefits<br/><br/></strong>Significant career development opportunities exist as the company grows. The position offers a unique opportunity to be part of a small, fast-growing, challenging and entrepreneurial environment, with a high degree of individual responsibility.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Vision<br/><br/></strong>Vision Government Solutions is a leading government technology firm providing cutting-edge software to the public sector. We are at an incredible inflection point of growth and are looking for exceptional individuals to join our Software Implementation team to help us successfully welcome new communities to our Vision software.<br/><br/>Our software implementation philosophy emphasizes the importance of customer delight, speed, and long-term partnership. To that end, we are searching for ambitious, motivated, detail-oriented individuals looking to further a career in Implementation Engineering. The right candidate will be driven by customer happiness, be obsessed with continuous improvement, and have strong data engineering and ETL toolkit to master the vast landscape of unique implementation projects we encounter.<br/><br/><strong>Summary Of Role &amp; Responsibilities<br/><br/></strong>The Data Engineer (Software Implementation) will primarily be responsible for writing and deploying custom data conversions, working in concert with technical project managers and architects. Sample responsibilities include:<br/><br/><strong>Data Engineering<br/><br/></strong><ul><li>Deliver custom database conversions during new customer implementation projects</li><li>Migrate data from competitor solutions to our in-house software</li><li>Upgrade existing customers from our previous Oracle/VB6 software version to our current SQL Server/C#/.Net product</li><li>Assist with the development of ad hoc T-SQL scripts for occasional data engineering needs</li><li>Collaborate with the Continuous Improvement team to streamline future processes, automate repeatable tasks, improve quality assurance, and minimize rework</li><li>Develop custom routines to convert graphical building drawings from various formats, including (but not limited to) Traverse, SVG, AutoCAD DXF, and binary, to our proprietary Sketch XML format</li><li>Create and alter client analytics dashboards using PowerBI</li><li>Embrace agile methodologies to achieve industry-leading project delivery schedules while maintaining ongoing customer engagement and excitement</li><li>Partner with project teams to provide a seamless customer transition experience<br/><br/></li></ul><strong>Role Evolution<br/><br/></strong>This role will begin with a primary focus on municipal assessment software implementation projects (~90% of the time), with the remaining 10% focused on continuous improvement initiatives and team growth. In addition, role evolution may include calibration and modeling efforts, branching into our SaaS product world, advanced data engineering opportunities, and exciting continuous improvement projects.<br/><br/><strong>Who We Are Looking For<br/><br/></strong>The ideal person for this role will have demonstrated the following abilities and traits:<br/><br/><strong>Skills And Ambitions<br/><br/></strong><ul><li>Ability to thrive in a fast-paced, ever-changing landscape</li><li>5 + years of experience working in a SQL-focused conversion role</li><li>Solid knowledge of T-SQL and SQL Server Management Studio</li><li>Familiarity with Oracle SQL*Plus is desired but not required</li><li>Experience with ETL and Data Migration</li><li>Understanding of relational database concepts</li><li>Impressive oral and written communication skills</li><li>Exceptional time management capabilities; deadlines are not flexible</li><li>Ability to communicate and translate ideas between technical and non-technical parties</li><li>SQL Server 2012+/SSRS/SSIS/Jira/GitHub/Confluence</li><li>Skills using Apache NiFi, R, or Python are a plus but not required</li><li>BS/BA in Computer Science or related field preferred<br/><br/></li></ul><strong>Total Compensation Package:</strong> To be discussed<br/><br/><strong>Benefits Package:</strong> Vision offers health, dental, and vision plans, as well as a 401(k)-matching program.<br/><br/><strong>Work Location:</strong> Remote<br/><br/><em><strong>Equal Employment Opportunity<br/><br/></strong></em><em>Vision Government Solutions is an Equal Opportunity Employer and committed to a diverse and inclusive workplace. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.<br/><br/></em><em>We're proud to be an equal opportunity employer and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability and Veteran status.<br/><br/></em><em>Vision Government Solutions maintains a drug-free workplace.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

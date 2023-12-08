@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Belcan</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Amy Schnelzer" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQHug6YGbaoNeQ/profile-displayphoto-shrink_100_100/0/1654180769625?e=2147483647&amp;v=beta&amp;t=ocLyoEASUV4yuRMcFr1Hs4rpM7aMXLjGncA2ADcuVM4" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Amy Schnelzer
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Recruiter at Belcan
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Amy Schnelzer" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Famy-schnelzer-786842240&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>A REMOTE Software Verification/Testing Engineer job is currently available at Belcan. This is a full-time direct position with benefits, working remotely from anywhere in the U.S. To be considered, you will need a Bachelor's of Science Degree in Computer Science, Software Engineering, Computer Engineering, Aerospace Engineering or a similar discipline, and 5 or more years of relevant experience. In this job, you will support requirements based testing, verification and validation of software.</p><p> </p><p><strong>Software Verification/Testing Engineer job duties include:</strong></p><p>· Use your skills and expertise to test, verify, validate and certify cutting-edge software products.</p><p>· Perform verification, validation, debugging, and troubleshooting of systems and software throughout the software development process.</p><p>· Develop Cases and Procedures to test various levels of requirements</p><p>. Assist with automation/tooling and environment setup as needed</p><p> </p><p><strong>Job Qualifications:</strong></p><p>· BS or MS degree in Computer Science, Software Engineering, Computer Engineering, Aerospace Engineering or a similar discipline</p><p>· Experience working in regulated industries (e.g. aerospace, defense)</p><p>· Experience with engineering standards such as DO-178, DO-160, DO-254, ARP 4754</p><p>· VectorCAST experience</p><p>· Avionics experience</p><p>· Fully proficient in C and Git/GitLab</p><p>· Fully proficient in Python</p><p>. Experience developing verification cases and procedures</p><p>· Self-motivated, adaptable, highly organized and possess excellent communication abilities</p><p>· Ability to apply software engineering skills with little to no mentoring or training</p><p>· US Citizenship only</p><p> </p><p><strong>Desired Skills:</strong></p><p>· Experience with large Space Design Programs or Space Flight Operations</p><p> </p><p>Belcan provides a competitive pay and benefits package. Benefits offered may include health, dental, vision, and life insurance; 401(k); education assistance; paid time off including PTO, holidays, and paid leave required by law. Salary guidelines for similar roles at Belcan are $90,000 to $130,000. Guidelines vary based on many factors, including but not limited to education, qualifications, experience, discipline, geographic location, market and business considerations.</p><p> </p><p>As an employee with Belcan, you will be part of one of the largest engineering firms in the United States. We maintain a small-company atmosphere as well as open communication at all levels of our organization, allowing for much more dynamic decision-making processes. We offer flexible schedules as well as an excellent mentoring system to ensure that you have all the knowledge and tools you need to meet a diverse range of engineering challenges. You will also have opportunities to advance to positions of greater responsibility, including management roles. Your hard work and professional dedication will be rewarded with a competitive compensation package. Build a challenging and rewarding career with an industry leader!</p><p> </p><p>www.belcan.com </p><p> </p><p>We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, or membership in any other group protected by federal, state, or local laws.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

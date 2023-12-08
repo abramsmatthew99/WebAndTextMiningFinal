@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Role: Automation Test Engineer</p><p><br/></p><p>Onsite : Dallas, TX</p><p>Key skills : Jmeter , Performance Testing , API automation , Selenium and Java</p><p>We are seeking a highly skilled and motivated Automation Test Engineer to join our dynamic Quality Assurance team. The ideal candidate should have strong experience in automation testing using Java, Selenium, Python, Cypress, and API automation tools. You will play a critical role in ensuring the quality and reliability of our software products through automated testing and continuous improvement.</p><p>Responsibilities:</p><p><br/></p><p>• Develop and maintain automated test scripts for web applications using Java, Selenium, and Python.</p><p><br/></p><p>• Create and execute automated test cases for API testing using tools like Postman or RestAssured.</p><p><br/></p><p>• Design, implement, and maintain end-to-end test automation frameworks for web applications.</p><p><br/></p><p>• Collaborate with cross-functional teams, including developers and product managers, to understand testing requirements and ensure comprehensive test coverage.</p><p><br/></p><p>• Perform regression testing to validate software changes and enhancements.</p><p><br/></p><p>• Identify and report software defects with detailed bug reports, including steps to reproduce.</p><p><br/></p><p>• Participate in code reviews to ensure automation code quality and best practices.</p><p><br/></p><p>• Continuously improve and optimize test scripts and frameworks for efficiency and maintainability.</p><p><br/></p><p>• Conduct performance testing and load testing as needed.</p><p><br/></p><p>• Stay up-to-date with industry best practices, automation tools, and testing trends.</p><p><br/></p><p>• Provide mentorship and guidance to junior automation engineers as needed.</p><p><br/></p><p><br/></p><p><br/></p><p>Qualifications:</p><p><br/></p><p>• Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).</p><p><br/></p><p>• Strong programming skills in Java and Python for Selenium automation.</p><p><br/></p><p>• Proficiency in automated testing frameworks, such as TestNG or JUnit.</p><p><br/></p><p>• Hands-on experience with web automation tools like Selenium WebDriver.</p><p><br/></p><p>• Experience in API testing using tools like Postman, RestAssured, or similar.</p><p><br/></p><p>• Familiarity with version control systems (e.g., Git) and continuous integration/continuous deployment (CI/CD) pipelines.</p><p><br/></p><p>• Solid understanding of software testing concepts, methodologies, and best practices.</p><p><br/></p><p>• Strong analytical and problem-solving skills with meticulous attention to detail.</p><p><br/></p><p>• Excellent communication and collaboration skills.</p><p><br/></p><p>• Self-motivated with the ability to work independently and as part of a team.</p><p><br/></p><p>• Experience with Cypress for front-end testing is a plus.</p><p><br/></p><p>• Knowledge of SQL and database testing is a plus.</p><p><br/></p><p>• ISTQB or other relevant certifications are a plus.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

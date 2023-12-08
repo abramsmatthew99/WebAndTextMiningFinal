@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Jobs for Humanity is partnering with Guidehouse to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position is open to candidates who reside in and have the legal right to work in the country where the job is located.<br/><br/>Company Name: Guidehouse<br/><br/><strong>Job Description<br/><br/></strong><strong>Job Title:</strong> Cyber Consulting<br/><br/><strong>Travel Required:</strong> None<br/><br/><strong>Clearance Required:</strong> Active Top Secret (TS)<br/><br/><strong>What You Will Do:<br/><br/></strong>Candidates will use their expertise to coordinate and perform vulnerability assessment scans of a premier law enforcement agency's information systems and applications. The goal is to support risk mitigation efforts and help system stakeholders achieve Authority to Operate status. The job involves conducting comprehensive assessments to identify vulnerabilities and providing tailored security recommendations.<br/><br/><strong>What You Will Need:<br/><br/></strong><ul><li>An active and current Top Secret Security Clearance. Must be eligible to upgrade to TS/SCI with Counterintelligence (CI) polygraph. </li><li>Bachelor's degree in Cybersecurity, Computer Science, Electrical Engineering, Engineering, or IT. </li><li>Ability to conduct Vulnerability Assessments using industry tools like Nessus or Tenable. </li><li>Experience scanning and troubleshooting Windows, RHEL, and Centos Operating Systems, with the ability to communicate scan results to customers. </li><li>Experience scanning virtual environments, network devices, databases, and websites using tools like Tenable.sc. </li><li>Intermediate knowledge of enterprise platforms such as Windows, RHEL, routing, switching, IDS, IPS, and Firewalls. </li><li>Understanding of mapping and scanning applications and systems, including port scanning and identifying services and configurations. </li><li>Relevant certifications such as CISSP, CISA, GIAC (e.g., GPEN or GWAPT), or CEH. <br/><br/></li></ul><strong>What Would Be Nice To Have:<br/><br/></strong><ul><li>Knowledge of network security architecture concepts and accepted frameworks such as ISO/IEC 27001, COBIT, and NIST. </li><li>Familiarity with current trends, techniques, and packaging of malicious software. </li><li>Ability to provide technical solutions and manage time with minimal supervision. </li><li>Excellent written and verbal communication skills. <br/><br/></li></ul><strong>What We Offer:<br/><br/></strong>Guidehouse offers a comprehensive total rewards package, including competitive compensation and a flexible benefits package. Our commitment to creating a diverse and supportive workplace is reflected in our benefits, which include:<br/><br/><ul><li>Medical, Rx, Dental &amp; Vision Insurance</li><li>Personal and Family Sick Time &amp; Company Paid Holidays</li><li>Discretionary variable incentive bonus eligibility</li><li>Parental Leave and Adoption Assistance</li><li>401(k) Retirement Plan</li><li>Life Insurance &amp; Supplemental Life Insurance</li><li>Health Savings Account, Dental/Vision &amp; Dependent Care Flexible Spending Accounts</li><li>Short-Term &amp; Long-Term Disability Insurance</li><li>Student Loan PayDown Program</li><li>Tuition Reimbursement, Personal Development &amp; Learning Opportunities</li><li>Skills Development &amp; Certifications</li><li>Employee Referral Program</li><li>Corporate Sponsored Events &amp; Community Outreach</li><li>Emergency Back-Up Childcare Program</li><li>Mobility Stipend<br/><br/></li></ul><strong>About Guidehouse:<br/><br/></strong>Guidehouse is an equal opportunity employer that values diversity and inclusion. We welcome applicants from all backgrounds, including those with visible and invisible disabilities, LGBTQIA+ individuals, veterans, refugees, and people from all walks of life. We are committed to providing a supportive and inclusive workplace where everyone has equal opportunities for success.<br/><br/>If you require accommodations during the application process, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. We will ensure that your needs are met and that all information you provide remains confidential.<br/><br/><em>Note: Guidehouse does not accept unsolicited resumes from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse, and we will not be obligated to pay any fees associated with those resumes.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>

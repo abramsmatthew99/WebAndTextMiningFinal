@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Northwest Partners is seeking an experienced Senior Software Engineer with a strong background in front-end development using Node.js, React, and Rails. The ideal candidate will possess advanced expertise in building and optimizing complex web applications while also demonstrating substantial experience in systems architecture and design. This is a contract to hire position.<br/><br/>**Candidates must be legally authorized to work for any employer in the United States without sponsorship**<br/><br/><strong>What YOU will do as a successful </strong><strong>Software Engineer<br/><br/></strong><strong>Responsibilities<br/><br/></strong>As a Senior Engineer you will work with one of Northwest Partners premium fintech clients, you will be working on a delivery team using modern technologies, tools and frameworks to develop advanced, enterprise business components that run on Microsoft platforms. Your day-to-day responsibilities will include:<br/><br/><ul><li>Collaborate with analysts and clients to understand requirements and demonstrate progress</li><li>Work on an agile team to help plan, implement and support enterprise web applications</li><li>Design, develop and test new system capabilities, including: web UI and related AJAX REST API</li><li>Document and communicate technical designs, standards and processes as needed</li><li>Perform unit and integration testing to ensure application quality</li><li>Troubleshoot and resolve software bugs and deployment issues</li><li>Work with others to fine tune application performance</li><li>Continuously enhance skills by learning and applying relevant technologies and patterns</li><li>Provide technical guidance to address production support and incidents</li><li>Work with offshore teams for ongoing development and support<br/><br/></li></ul><strong>Minimum Qualification For Consideration<br/><br/></strong><ul><li>Bachelor’s degree in computer science or equivalent education in a related field plus 4-6 years of experience OR 6-8 years of experience</li><li>Agile development methodology</li><li>Experience leading junior developers including offshore associates.</li><li>Experience with the ASP.NET MVC stack.</li><li>Experience with JavaScript, jQuery and AJAX</li><li>Experience with Angular and ReactJS</li><li>Experience with HTML5, CSS3 and responsive UI design.</li><li>Extensive experience with full-lifecycle development (i.e. design, coding, testing, debugging, etc.)</li><li>Experience with distributed systems, C#, ASP.NET, REST and SQL programming.</li><li>Experience developing or working with web services (REST and Web API preferred)</li><li>Experience with test driven development (TDD), dependency injection (DI) and mocking frameworks<br/><br/></li></ul><strong>About Northwest Partners<br/><br/></strong>Northwest Partners is dedicated to moving at the speed of innovation. We work with clients across the globe to provide exceptional knowledge, talent, and resources. As a trusted partner, we merge the client's vision with our expertise to deliver powerful results. Northwest Partners is known for building and managing elite teams in technology across diverse industries. Our mission is to empower every talent and every client to achieve more.<br/><br/><em><strong>Learn More About Northwest Partners<br/><br/></strong></em>Northwest Partners is dedicated to moving at the speed of its clients innovation. We work with clients across the globe to provide exceptional knowledge, talent, and resources. As a trusted partner, we merge the client vision with our expertise to deliver powerful results. Northwest Partners is known for building and managing elite teams in technology across diverse industries. Our mission is to empower every talent and every client to achieve more.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job Overview:<br/><br/></strong>Devonshire Recruiting &amp; Consulting Partners is actively seeking a skilled SQL Server DBA to join a fast-paced team that is redefining the role of networks to enable greater bandwidth, capacity, efficiency, and ease of deployment. In this position, youll maintain and optimize database environments, ensuring high availability, performance, and reliability. Your work will impact critical aspects of our operations, making you an essential part of our team.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li>Manage multiple database environments, monitor performance, and implement updates, maintenance, patches, and fixes. </li><li>Maintain high availability in the production environment and oversee database replication to the disaster recovery site. </li><li>Collaborate with developers and QA teams to design and optimize database environments. </li><li>Diagnose and resolve database-related errors and performance issues across various application environments. </li><li>Develop database deployment plans and scripts for application rollouts. </li><li>Design and maintain database reporting infrastructure. </li><li>Execute database administration tasks, including installation, configuration, monitoring, space management, backup and recovery, and disaster recovery procedures. </li><li>Plan and execute database server upgrades and migrations. </li><li>Review and optimize stored procedures and scripts, providing recommendations for schema, indexing, maintenance, and deployment improvements. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelors degree in Computer Science, Computer Engineering, or related fields. </li><li>5-8+ years of professional experience in Microsoft SQL Server database administration in an enterprise-level setting. </li><li>Strong understanding of Relational Databases, T-SQL Scripting, database normalization, and related concepts. </li><li>Experience in database design within a Software Development environment. </li><li>Proficiency in Performance Tuning and Optimization, including the use of native monitoring and troubleshooting tools. </li><li>Competence in database backups, restores, and recovery models. </li><li>Familiarity with Windows server environments. </li><li>Knowledge of High Availability (HA), replication, and Disaster Recovery (DR) options for SQL Server. </li><li>Ability to multitask effectively and work independently. </li><li>Strong written and verbal communication skills. </li><li>Proven experience in troubleshooting and resolving database integrity and performance issues. </li><li>Expertise in Performance Tuning and Query Optimization. </li><li>Familiarity with SSIS, SSRS, or SSAS. <br/><br/></li></ul><strong>Your application will stand out if you possess the following:<br/><br/></strong><ul><li>Experience with SAP (Sybase) SQL Anywhere database system management. </li><li>Administrator experience with Team Foundation Server and SharePoint server. </li><li>Proficiency in one of the following Scripting languages: Python, PowerShell, Bash, or Shell Script. </li><li>Familiarity with monitoring and logging services such as Elasticsearch, Wavefront, Uptime, Solarwinds, etc. <br/><br/></li></ul><strong>Please note that applicants must be authorized to work for any employer in the U.S., and we are unable to sponsor or take over sponsorship of an employment Visa at this time.<br/><br/></strong>#ZR<br/><br/><strong>Company Description<br/><br/></strong>Devonshire Recruiting &amp; Consulting Partners is a leading search and consulting firm headquartered in Boston, Massachusetts and with a global footprint in more than 5 countries. As an independent, employee-owned organization, we share a single-minded focus to produce impactful and measurable results for our clients and candidates. Our experienced team of partners offers the depth, breadth and specialized business experience necessary to deliver top talent within demanding time frames.<br/><br/>Devonshire Recruiting &amp; Consulting Partners is a leading search and consulting firm headquartered in Boston, Massachusetts and with a global footprint in more than 5 countries. As an independent, employee-owned organization, we share a single-minded focus to produce impactful and measurable results for our clients and candidates. Our experienced team of partners offers the depth, breadth and specialized business experience necessary to deliver top talent within demanding time frames.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

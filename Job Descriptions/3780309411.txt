@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Halvik is a highly successful company that puts people first, and we are looking for someone just like you. We are committed to delivering smarter IT-driven solutions bolstered by quality and innovation to help our customers succeed. Come be a part of something truly special!<br/><br/><ul><li>candidates must be either GC holders or US Citizens to apply<br/><br/></li></ul><strong>Summary<br/><br/></strong>NASA SEWP is seeking a Software Tester who excels in 508 Accessibility Analysis and testing for Java web-based applications. The ideal candidate will work in a team environment with Testers, Developers, DBAs, Systems Administrators and project managers to develop, validate and verify software applications ensuring quality and dependability. The Software Tester is responsible for the planning, estimating, writing, and execution of test cases as part of the feature and functionality testing of our products.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Serve as a technical expert on 508 Accessibility, software testing and test automation</li><li>Design, implement and maintain automated test scripts using tools/frameworks such as Selenium, or Cucumber. This work shall be shared with other testing teammates</li><li>Work independently to record and managing defects, communicate issues, risks and status on a timely basis.</li><li>Document and update test plans and produce test summary reports for each software release and provide testing results to team leads</li><li>Develop and execute manual, automated, and regression testing</li><li>Provide guidance on unit testing tools and frameworks for JAVA Spring and Angular code such as JUnit, TestNG, Mockito, Jasmine, or Karma</li><li>Collaborate and work with Java developers and internal stakeholders</li><li>Participate in the maintenance and deployment of projects, providing support outside normal core business hours or nights and weekends</li><li>Adapt and contribute to a fast-paced and agile application development environment, adhering to project schedules, and proactively resolve or escalate issues to management<br/><br/></li></ul><strong>Education/Experience<br/><br/></strong><ul><li>BA/BS degree in Computer Science or related field</li><li>Required: Minimum 5 years of testing Spring-based (Java) web applications</li><li>Required: Experience with automated testing tools including SortSite and WAVE</li><li>Preferred: Minimum 3 years of experience working with SQL Server or Oracle databases</li><li>Preferred: Experience with JBoss, Maven, GIT and Software Development Process Model knowledge</li><li>Required: Section 508 Trusted Tester certification</li><li>Preferred: Experience with Jenkins or Hudson</li><li>Preferred: Experience with Git, Github or Gitlab</li><li>Preferred: Experience with Agile Development and Continuous Integration<br/><br/></li></ul><strong>Other Requirements<br/><br/></strong><ul><li>US Citizen or permanent residency, with ability to obtain a security clearance of Public Trust</li><li>Must work On-site a minimum of two (2) days per week.</li><li>Excellent verbal/written communication skills<br/><br/></li></ul><strong>Halvik Offers a Competitive Full Benefits Package Including<br/><br/></strong>Company-supported medical, dental, vision, life, STD, and LTD insurance<br/><br/>Benefits include 11 federal holidays and PTO.<br/><br/>401(k) with company matching<br/><br/>Flexible Spending Accounts for commuter, medical, and dependent care expenses<br/><br/>Tuition Assistance<br/><br/>Charitable Contribution matching<br/><br/><em>Halvik Corp is an </em><em>equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

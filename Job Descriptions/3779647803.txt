@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Signos<br/><br/></strong>Signos is on a mission to tackle the obesity epidemic via healthy habits, metabolic signals, and AI. Using a continuous glucose monitor, Signos powers data-driven weight loss by translating an individual's metabolic signals into timely recommendations for eating, exercise, and better health. With over 75% of the American population overweight or obese, Signos provides a new way for people to act on their body's unique response to what they eat. By making micro changes to people's everyday routines, we can improve health and kickstart weight loss. The executive team is led by two successful repeat entrepreneurs, an excellent technical leader, a data scientist who wrote an NYT bestseller on consumer behavior, and a Stanford Medical School professor, and they're just getting started.<br/><br/><strong>Responsibilities<br/><br/></strong>As a member of the Mobile team, you will be responsible for designing, building, and deploying the features and underlying systems that power our core answer engine. Our tech stack leverages top modern technologies.<br/><br/>Job requirements<br/><br/><ul><li>BS in Computer Science, Mathematics, or a related technical field</li><li>Proficiency in Kotlin </li><li>2+ years of experience in Software Engineering</li><li>Experience building SDKs and reusable framework, MVVM pattern, Realm Database. </li><li>Familiarity with launching apps on iOS App Store or Google Play is a plus</li><li>Familiarity with Google Fit is a plus</li><li>Familiarity with Swift is a plus</li><li>Adaptable, humble, and interested in pushing the boundaries of what's possible<br/><br/></li></ul>What We Offer<br/><br/><ul><li>Competitive salaries and fully covered medical, dental, and vision insurance </li><li>Twice yearly fully-covered company offsites</li><li>Fully-covered access to the Signos system including CGM and app access</li><li>401(k) plan</li><li>MacBook Pro</li><li>A flexible vacation policy</li><li>This role can be fully remote<br/><br/></li></ul>Signos is an equal-opportunity workplace and values diversity at our company. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, citizenship status, sexual orientation, age, disability status, marital status, gender identity or expression, veteran status, or any other characteristics protected by federal, state or local laws.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

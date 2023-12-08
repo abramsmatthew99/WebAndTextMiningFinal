@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Hiring for a global leading financial institute based in North Carolina who apply a systematic approach to investment management, which is heavily reliant on technology. They are seeking over 12 hires this quarter in to their core engineering team ranging in seniority.</p><p>The day to day role will require you to design and develop an RF-OS platform in enterprise risk technology; hands-on development using Java 8, multi-threading/low-latency paradigms along with J2EE technologies like Spring representational state transfer (REST) application programming interfaces (APIs) and messaging APIs involving Solace and Kafka</p><p><br/></p><p><strong>Requirements:</strong></p><ul><li>7+ years professional experience with Java</li><li>A Bachelors or Masters degree in Computer Science, Engineering, Mathematics or a related discipline</li><li>Experience with multi threading</li><li>7+ years experience as a software Engineer/Developer</li><li>Problem-Solving Attitude: A proactive approach to identifying and resolving technical challenges. Willingness to dive into complex problems and find innovative solutions.</li><li>Will need to be in the office at least twice a week (Cary)</li></ul><p><br/></p><p><strong>What they offer:</strong></p><ul><li>Impactful Work: Shape the future of Finance by contributing to a high-performance risk system used by professionals in the field.</li><li>Competitive Compensation: Enjoy a competitive salary with performance-based bonus and benefits package. Salary will vary depending upon experience and they will also offer a great relocation package.</li><li>Professional Growth: Access to continuous learning and development opportunities to further your skills and expertise.</li></ul><p><br/></p><p><br/></p><p>*Only Greencard/US citizens eligible at this stage</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Finance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Financial Services, and Investment Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

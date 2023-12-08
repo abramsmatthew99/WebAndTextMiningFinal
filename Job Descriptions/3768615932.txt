@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Executive Alliance</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Vincent DeMonte" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQGkcnN_A2HLEw/profile-displayphoto-shrink_100_100/0/1626454293079?e=2147483647&amp;v=beta&amp;t=C79BJ1UZ31hvq5GQ81V9qdel2BSk6dv372nV5wLkE6Q" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Vincent DeMonte
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Director of Recruiting at Executive Alliance
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Vincent DeMonte" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fvincent-demonte-34078b73&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Our client is seeking a Systems Test Engineer to be involved with the analysis, design, development, and implementation of new and/or existing systems/sub-systems. May include Architectural Design, Requirements Engineering, or others. Support and participate in technical activity. Design, develop, analyze, document and support testing of products, systems, or subsystems.</p><p><br/></p><p><strong>Primary and Essential Accountabilities </strong></p><ul><li>Responsible for technical activity and completion of assigned task on time and budget</li><li>Involved with the analysis, design, development, and implementation of new and/or existing systems/sub-systems.</li><li>May include Architectural Design, Requirements Engineering, or others.</li><li>Determine system specifications.</li><li>Support acquisition of hardware and software (or subcontractor services as needed)</li><li>Involved with the design and development of test programs to measure the functionality and integrity of products and services.</li><li>Write test procedures and protocols to assess product reliability and evaluates the ability of products to meet performance standards and specifications.</li><li>Debug test hardware and software</li><li>Support and participate in technical activity. </li><li>Design, develop, analyze, document and support testing of products, systems, or subsystems. </li><li>May use computer-aided engineering or other design/analysis software in the performance of assignments. </li><li>Ability to work independently under supervision of others. </li><li>Provide regular reporting of progress and status. </li><li>Responsible for completion of assigned task on time and meeting technical requirements. </li><li>Review customer specifications and requirements, and under direction, develop designs to best support them, including cost as a key design variable. </li><li>Specify and evaluate supplier components, subsystems, and services. </li><li>Support the program design to cost and design for manufacture requirements. </li><li>Develop prototypes to retire key development risks as directed. </li><li>Communicate clearly (written and oral) with other company personnel and the customer as required. </li><li>May participate in preparation of less complex proposals. </li><li>Support, communicate, reinforce, and defend the mission, values and culture of the organization. </li></ul><p><br/></p><p><br/></p><p><strong>Qualifications and Education Requirements:</strong></p><ul><li>Bachelor’s degree in computer science, Engineering, or related technical field or equivalent combination of education and experience</li><li>Knowledge of debugging codes and software development languages</li><li>Experience working with operating systems including Windows and Linux</li><li>Ability to collate data and compile test reports.</li><li>5+ years of experience with Application testing </li><li>Software troubleshooting skills.</li><li>Ability to design and write complex software testing procedures.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Design, and Strategy/Planning
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Aviation and Aerospace Component Manufacturing, and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

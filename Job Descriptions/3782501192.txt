@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Futran Solutions</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Tarun S" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Tarun S
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Team Lead at Futran Solutions
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Tarun S" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Ftarun-s-1b1147259&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Software Quality Engineer</strong></p><p><strong>Location: Remote</strong></p><p><br/></p><p>Responsibilities</p><p>· Subject matter expert and key contributor to the successful delivery and ongoing evolution of digital products. The successful candidate will have a proven track record in solution engineering. Drive product improvements by partnering with business partners and key stakeholders in defining and improving the customer experience.</p><p>· Participate in full lifecycle development of software including analysis, design, coding, testing, implementation, deployment and support.</p><p>· Consistently write, translate, and code software programs and applications according to specifications.</p><p>· Take a leadership role with the development effort in building scalable, extensible, secure applications while employing best practices.</p><p>· Assist/mentor other developers with full stack enterprise application design and development strategies utilizing best practices.</p><p>· Design and develop n-tier WPF applications, windows services and console applications using C#, SQL Server/SQLite, Entity Framework and Prism.</p><p>· Perform unit testing and analyze application and database performance on new and existing programs for the purposes of correcting errors, isolating areas for improvement, resolving performance bottlenecks, and general debugging.</p><p>· Participate in code reviews insuring the team is consistently producing optimal code.</p><p>· Learn and adhere to the SAFe concepts.</p><p><br/></p><p>Position Requirements</p><p>· Bachelor’s degree in engineering, computer science, information systems, or a related field from an accredited college or university is preferred.</p><p>· 3+ years of experience designing/developing desktop applications using WPF, C#, Entity Framework, Prism, and SQL integrations.</p><p>· Ability to complete all phases of SDLC including analysis, design, development, testing and support utilizing Agile methodologies.</p><p>· Ability to innovate and provide functional applications with intuitive interfaces.</p><p>· Proven analytical and problem-solving abilities.</p><p>· Ability to interpret complex business requirements and encapsulate business logic/rules into reusable libraries.</p><p>· Strong understanding and demonstrated usage of object-oriented design concepts.</p><p>· Experience with software versioning and release management.</p><p>· Working knowledge of Git and branching concepts.</p><p>· Experience with JIRA and Confluence.</p><p>· Ability to effectively prioritize and execute tasks.</p><p>· Experience working both independently and in a team-oriented, collaborative environment.</p><p>· Excellent communication skills.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

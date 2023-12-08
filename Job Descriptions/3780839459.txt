@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>SUMMARY</strong>: A West Houston company is seeking an IT Manager to oversee their outsourced IT Managed services, develop and implement IT strategies, monitor compliance with contractual obligations<br/><br/>and cybersecurity training. This role will work directly with our project teams to setup IT on job<br/><br/>sites and support the whole organization computing needs.<br/><br/><strong>Responsibilities</strong>:<br/><br/>IT<br/><br/><ul><li> Develop and maintain the company’s long-term information technology goals and<br/><br/></li></ul>objectives supporting operations.<br/><br/><ul><li> Direct the activities of the Managed IT services provider in accordance with the contract. </li><li> Design, develop, implement, and coordinate systems, policies, and procedures. </li><li> Support job site technology needs. </li><li> Act in alignment with user needs and system functionality to contribute to organizational<br/><br/></li></ul>policy.<br/><br/><ul><li> Audit systems and access their outcomes. </li><li> Budget and manage IT cost. </li><li> Lead Cybersecurity training and awareness</li><li> Oversee access to network and applications</li><li> Remaining up to date with advances in technology and industry best practices<br/><br/></li></ul><strong>REQUIREMENTS</strong>:<br/><br/><ul><li> Excellent organizational skills and attention to detail. </li><li> Proven experience in managing IT Infrastructure and services</li><li> Excellent knowledge of technical management, information analysis, and computer<br/><br/></li></ul>hardware/software systems.<br/><br/><ul><li> Ability to communicate with experts, management, and the users<br/><br/></li></ul>Education and Experience:<br/><br/><ul><li> BS in Computer Science, MIS, or similar fields</li><li> Industry certifications a plus</li><li> Project Management a plus<br/><br/></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

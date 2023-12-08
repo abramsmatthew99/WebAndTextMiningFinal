@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Purpose<br/><br/></strong>This position is a supporting role for all end user support and corporate technology initiatives related to physical and virtual infrastructure required to support Air Culinaire Worldwide’ s daily operations.<br/><br/><strong>Responsibilities And Associated Duties<br/><br/></strong>The IT Support Technician 2 participates as a member of the technology team responsible for supporting the efficient operation of all the ACW infrastructure which includes a mix of hosted solutions, on premise equipment (across 20+ locations), remote data centers, and cloud resources. The candidate will assist in design, implementation, and maintenance of solutions used by internal and external customers. The candidate should foster an environment of consistency and go above and beyond to provide end user support for customers throughout the organization.<br/><br/><strong>Key Duties<br/><br/></strong><ul><li> Troubleshoot technology issues. </li><li> Install &amp; maintain hardware equipment, computer peripherals and software. </li><li> Perform on-site and remote troubleshooting. </li><li> Troubleshoot networking and connection issues. </li><li> Ability to solve complex hardware &amp; software issues. </li><li> Take ownership of the support ticket lifecycle and strive to consistently exceed support SLAs expectations. </li><li> Perform asset management duties while maintaining best inventory practices. </li><li> Perform asset and user audits in a timely manner. </li><li> Actively participate in infrastructure projects with fellow team members. </li><li> Assist in training end users on best practices when using company applications, computer hardware and maintaining security standards. </li><li> Strive to exceed customer satisfaction levels. </li><li> Review existing and emerging technologies to grow skillset and abilities. </li><li> Author and document resolutions. <br/><br/></li></ul><strong>Measures Of Success<br/><br/></strong><ul><li> Ownership of the IT Support request process, consistently meeting of SLAs. </li><li> Overall customer satisfaction. </li><li> Delivery of business solutions that meet and exceed the needs of the end user(s). </li><li> Successful support in the deployment of leadership team approved technologies for the company. </li><li> Completion of training programs and acquisition of certifications. </li><li> Inventory levels are properly maintained and reviewed regularly. <br/><br/></li></ul><strong>General<br/><br/></strong><strong> Knowledge, Experience and Skill Requirements: <br/><br/></strong><ul><li> Associate degree or equivalent work experience in Computer Science or related field </li><li> Relevant work experience of 5+ years in a technical support role. </li><li> Perform tasks and research independently after receiving high-level and/or strategic guidance from IT Leadership. </li><li> Excellent communication abilities. </li><li> Corporate professionalism. </li><li> Strong analytical and critical thinking abilities. </li><li> Thorough documentation creation practices. </li><li> Proven ability to maintain and continually improve on support levels. </li><li> Strong desire for continued learning and growth opportunities. <br/><br/></li></ul><strong> Technical <br/><br/></strong><ul><li> Active Directory administration. </li><li> Microsoft Dynamics 365. </li><li> Microsoft 365 administration. </li><li> LAN/WAN and ISP fundamentals preferred. </li><li> VPN </li><li> Server Administration (Windows, Azure) preferred. </li><li> Some level of understanding of concepts such as RDS, VLAN’s, SIP/POTS/VoIP, file sharing preferred <br/><br/></li></ul><strong>Disclaimer<br/><br/></strong>This position description highlights a general description of duties and responsibilities. Employee(s) may be assigned other duties, in addition to or in lieu of those described herein, and any duties are subject to change at any time, according to the needs of the location or Company.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Food and Beverage Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

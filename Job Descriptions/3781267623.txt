@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position Summary<br/><br/></strong>The Sr. Java Programmer will be serving as a technical expert who creates new applications and provide updates and support to new and existent applications related to converting and/or extracting Original Manufacturer (OEM) vehicle–related content from acquired source format to an ALLDATA format (in preparation for publication).<br/><br/><strong>Position Responsibilities - Other Duties May Be Assigned<br/><br/></strong><ul><li> Plan, analyzes, designs, codes, tests, implements and evaluates computer based information systems</li><li> Researches and formally documents user requirements</li><li> Completes technical tasks necessary to build XML content packages and develop tools, processes and User Interface for use by the editorial staff</li><li> Documents and supports automotive content conversion and publication processes.</li><li> Develops formal program specifications</li><li> Creates valid proposals for stakeholders to review and approve</li><li> Quickly identifies and creates solutions to software/process problems</li><li> Provides coding support/advice to direct teammates</li><li> Gathers requirements from department sub-teams for software and process improvements</li><li> Promptly responds to trouble tickets</li><li> Analyzes and programmatically manipulates a wide variety of html documents, pdfs, and image formats</li><li> Creates MSSQL queries to troubleshoot issues and provide insights into stored data<br/><br/></li></ul><strong>Position Requirements<br/><br/></strong><ul><li> Bachelor’s degree in Computer Science, equivalent or other engineering field</li><li> Four plus (4+) years of experience in Software Development activities, including creating or updating applications and processes</li><li> Three plus (3+) years of experience using any two or more of the following programming languages C#, JAVA, C++ and some experience with any of the following: MySQL, Oracle or MS SQL Server</li><li> Expertise in documentation, project planning and usage of object-oriented methodologies</li><li> Strong written and oral communication skills</li><li> Responsible, dependable and adaptable for continuous learning</li><li> Self-organized, self-motivated and positive attitude toward a multi-cultural team and environment</li><li> Preferred qualifications:</li><li> Agile Development experience.</li><li> Supervisory and/or some personnel management experience</li><li> AngularJS, Spring, Bootstrap.<br/><br/></li></ul>Salary: $94,000 - $165,000<br/><br/><strong>Compensation Range (USD)</strong>: MIN 94000.0 - MID 129000.0 - MAX 165000.0
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

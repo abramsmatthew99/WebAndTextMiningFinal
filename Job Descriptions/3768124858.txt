@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Dice is the leading career destination for tech experts at every stage of their careers. Our client, Geopaq Logic, is seeking the following. Apply via Dice today!<br/><br/>Job Title : Jr. System Engineer<br/><br/>Work Location: Kokomo, IN 46902<br/><br/>Contract Period: 12+ Months<br/><br/>Looking for a Junior Systems Engineer to support on of the largest electric-vehicle battery manufacturing facility in the US based in Kokomo, IN<br/><br/>This role is responsible for effective installation/configuration, operation, and maintenance of systems hardware and software and related infrastructure.<br/><br/>The system administration tasking will be focused on improving the stability and performance of the system, maintaining and improving the security posture of the systems, continuous monitoring of system health, and troubleshooting issues that arise.<br/><br/>As a Junior Systems Engineer you will be accountable for Linux, Windows, and application systems that support infrastructure, data center and networks.<br/><br/>At the Indiana factory, engineers will be working with the cutting-edge technology to produce EV battery cells and modules.<br/><br/>This role offers an opportunity to work with a top-notch team of dedicated engineers who are passionate about enterprise infrastructure and enjoy solving complex challenges.<br/><br/><strong>Requirements<br/><br/></strong>3+ years of system administration experience in Linux environments and proficient in tasks such as shell scripting, creating cron jobs, analyzing log files, managing user accounts and groups, configuring iptables, and setting up mail services.<br/><br/>Proven ability to multi-task.<br/><br/>Independent, self-starter.<br/><br/>Ability to effectively communicate (verbal and written correspondence) in a professional and courteous manner with technical and non-technical personnel.<br/><br/>Able to lift 50 lbs.<br/><br/>Able to move servers to and from main DC to the colocation and labs<br/><br/>Install new hardware or migrate existing servers (rack and stack)<br/><br/>Bachelor’s degree, with a technical major, such as Engineering or Computer Science, preferred.<br/><br/>Jr System Engineer/Administration
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Summary...<br/><br/>What you'll do...<br/><br/>As a Quality Engineer III in Data Ventures, you will dig into our mammoth scale of data to help unleash the power of retail data science by imagining, developing, and maintaining data pipelines that our Data Scientists and Analysts can rely on. You will be responsible for contributing to an orchestration layer of complex data transformations, refining raw data from source into targeted, valuable data assets for consumption in a governed way. You will partner with Data Scientists, Data Analysts, other engineers, and business stakeholders to solve complex and exciting challenges so that we can build out capabilities that evolve the retail business model while making a positive impact on our customers' lives.<br/><br/><strong>About The Team<br/><br/></strong>Data Ventures exists to unlock the full value of Walmart's data by developing and productizing B2B data initiatives that empower merchants and suppliers to make better, faster decisions for the business. As part of this transformation, we're seeking entrepreneurial individuals to help drive data productization from concept to deployment.<br/><br/>What you'll do...<br/><br/><ul><li>You will be responsible for all testing of an entire product across various platforms.</li><li>You will promote QA productivity through automation, tools, and other best practices.</li><li>You will own the development of test strategies, including manual and automation testing and test plans and execution of end to end functional and integration tests to certify dev builds and ensure successful release of apps and services into production.</li><li>You will Implement QA process, write and execute automated test cases for all the work streams to improve the overall testing cycle. </li><li>The successful candidate must be obsessed with quality improvement and promoting best quality engineering practices into every stage to product development.</li><li>You will ensure comprehensive test coverage by working closely with the product and engineering teams to prioritize testing execution and report on test execution progress and results.<br/><br/></li></ul><strong>You'll Make An Impact With<br/><br/></strong><ul><li>Experience in Automation testing</li><li>Experience in building test suites using web and mobile automation tools like Selenium, Cypress, Appium, Cucumber etc.</li><li>Experience in server-side API testing, Integration testing and an understanding of REST API's </li><li>Ability to troubleshoot questions about data quality in SQL </li><li>Experience in analyzing, investigating, verifying, recreating, documenting, and triaging software issues and tracking them to resolution.<br/><br/></li></ul><strong>About Global Tech<br/><br/></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered.<br/><br/>We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.<br/><br/>Flexible, hybrid work<br/><br/>We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.<br/><br/><strong>Benefits &amp; Perks<br/><br/></strong>Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.<br/><br/>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.<br/><br/><strong>Minimum Qualifications...<br/><br/></strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.<br/><br/>Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software quality assurance, manual/automated testing, or related area.<br/><br/>Option 2: 4 years' experience in software engineering quality assurance, manual/automated testing, or related area.<br/><br/><strong>Preferred Qualifications...<br/><br/></strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.<br/><br/>Master's degree in Software Engineering Quality Assurance, Manual/Automated Testing, or related area, Quality assurance certification (for example, CSTE - Certified Test Engineer, CSQA - Certified Software Quality Analyst), Related industry experience (for example, retail, supply chain, eCommerce, healthcare), Software Engineering Quality Assurance, Manual/Automated Testing, or related area.<br/><br/>Primary Location...<br/><br/>603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of America
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

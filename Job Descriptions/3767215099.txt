@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        ECS is seeking an <strong><em>Information Assurance Engineer</em></strong>to work in our <strong><em>Fairfax, VA </em></strong> office .<br/><br/><strong> Job Description: <br/><br/></strong><ul><li> Provide guidance on the implementation of system specific features and security controls to ensure effective compliance with federal requirements. Recommend solutions that follow policies and guidelines as outlined within NIST SP 800-53, DHS 4300A, DHS 4300B Sensitive Systems Policy </li><li> Test systems against NIST 800-53 controls, DISA STIGS, CIS Benchmarks, and vendor best practices. </li><li> Facilitate the Accreditation and Authorization (A&amp;A) process (formerly C&amp;A) to include package preparation for the Authorizing Official (AO) for Authority to Operate (ATO) consideration. </li><li> Write, manage, and oversee the closing of POA&amp;M items. </li><li> Develop and maintain Authorization to Operate (ATO) documentation, to include but not limited to Plan of Action and Milestones (POA&amp;M) spreadsheets, FISMA-mandated documents, such as system Incident Response Plans, Contingency Plans, and System Security Plans (SSPs), as well as all system-related documentation such as Account Management policies, hardware/software lists, network diagrams, etc. </li><li> This is a “hands-on” position that requires someone who is capable of multi-tasking.It requires an individual with a service-oriented mentality that can focus and take ownership of assignments/issues and manage/resolve those issues. </li><li> Work well in a team-oriented environment and be able to self-manage their tasks to ensure success. </li><li> Communicate up and down within the organization; prepare detailed descriptions of issues, status updates, recommendations, and reports.Applicants must be organized with an eye for detail. </li><li>The job is located in Fairfax, VA, with frequent local trips to our customer sites in Springfield, VA.<br/><br/></li></ul><strong> Required Skills: <br/><br/></strong><ul><li> Must be US Citizen </li><li> BA/BS degree in Computer Science/Engineering or a related Information Technology field or 6 years of equivalent experience </li><li> Minimum Top-Secret clearance is required with SCI eligibility and IAT Level II certification prior to start date. </li><li> 8570 IAT Level II Certification </li><li> Must meet requirements of DoD Directives 8570.01M </li><li> Experience using/managing an ACAS infrastructure </li><li> 6+ years’ experience working in a DOD environment (Contractor/Civilian/Military), preferably Army. </li><li> 1+ years’ experience in security test &amp; evaluation under RMF (DODI 8510.01, March 2014) in operational IP based network environments. </li><li> Extensive Experience with KASM management, GITLAB management and vulnerability scanning tools (ie: Fortify, twistlock, etc) </li><li> Experience developing Cyber or Physical Security CONOPS. </li><li> Demonstrated experience with McAfee HBSS (ePO, HIPS, Anti-Virus, etc…). </li><li> Thorough understanding of DoD Information Technology best practices </li><li> Thorough understanding of DoD Cybersecurity best practices </li><li> Thorough knowledge of DODD 8500.1, DODI 8500.2, and other IA guidance. </li><li> Demonstrated experience with security / validation testing tools to include vulnerability scanners (Retina, Nessus), DISA STIGs, SRR, and DISA checklists. </li><li> Must be proficient with desktop programs such as Adobe Acrobat, MS Excel, MS Word, MS Visio </li><li> Must possess a high attention to detail </li><li> Strong oral and written communication skills </li><li> Strong interpersonal communication skills <br/><br/></li></ul><strong> Desired Skills: <br/><br/></strong><ul><li> Bachelor’s Degree in a computer science related field </li><li> Vendor Certification with one or more of the following: VMWare, MS Windows, and Red Hat Linux. </li><li> Vendor Certification with one or more of the following: Brocade, Cisco. </li><li> ITIL Foundation Certification. </li><li> Experience with all of the following VMWare, Windows, and Red Hat Linux. </li><li> Knowledge of Federal Government Authorization processes (NIST 800-53, DHS 4300A / DHS 4300 B, DIACAP, ICD's) </li><li> Experience creating, maintaining, and reviewing security compliance documentation (Systems Security Plan, Contingency Plan, Risk Assessment, POAMs) <br/><br/></li></ul>ECS is an equal opportunity employer and does not discriminate or allow discrimination on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state, or local law. ECS promotes affirmative action for minorities, women, disabled persons, and veterans.<br/><br/>ECS is a leading mid-sized provider of technology services to the United States Federal Government. We are focused on people, values and purpose. Every day, our 3800+ employees focus on providing their technical talent to support the Federal Agencies and Departments of the US Government to serve, protect and defend the American People.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

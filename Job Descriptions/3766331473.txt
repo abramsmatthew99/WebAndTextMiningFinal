@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Software</strong><strong> Engineer<br/><br/></strong><em>We are interested in every qualified applicant. However, applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa.<br/><br/></em><strong>General Summary<br/><br/></strong>As a Software Engineer in the Avionics and Electrical department, you will be responsible for designing, developing, testing, and maintaining software systems for aerospace applications. Your expertise will be crucial in creating innovative solutions that contribute to the advancement of aerospace technology.<br/><br/><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES </strong>include but are not limited to the following. Other duties may be assigned.<br/><br/><ul><li>Designing and developing software systems for aerospace applications, adhering to industry standards and best practices.</li><li>Collaborating with cross-functional teams, including aerospace engineers, system engineers, and project managers, to gather requirements and define software specifications.</li><li>Implementing software solutions to address complex problems related to flight control systems, avionics, navigation, communication, ground support, and other aerospace subsystems.</li><li>Writing clean, efficient, and maintainable code in programming languages such as C/C++, Java, or Python, while considering software safety and reliability.</li><li>Conducting thorough software testing, including unit testing, integration testing, and system testing, to ensure the quality and robustness of developed software.</li><li>Participating in software verification and validation activities, including requirements tracing, test plan development, and test case execution.</li><li>Collaborating with hardware engineers to integrate software with embedded systems and hardware components.</li><li>Analyzing and troubleshooting software issues, identifying root causes, and implementing corrective actions.</li><li>Staying updated with the latest advancements in aerospace software engineering and contributing to continuous improvement initiatives within the team.</li><li>Documenting software designs, requirements, test procedures, and other relevant artifacts following established standards.<br/><br/><br/></li></ul><strong>JOB SPECIFICATIONS<br/><br/></strong><strong>Required<br/><br/></strong><ul><li>Bachelor's or Master's degree in Computer Science, Aerospace Engineering, or a related field. Equivalent practical experience will also be considered.</li><li>Proven experience as a software engineer, preferably in the aerospace industry or other safety-critical domains.</li><li>Proficiency in one or more programming languages commonly used in aerospace software development, such as C/C++, Java, or Python.</li><li>Strong knowledge of software engineering principles, methodologies, and best practices.</li><li>Familiarity with software development tools, version control systems, and integrated development environments (IDEs).</li><li>Experience with real-time operating systems (RTOS), embedded software development, and hardware/software integration is highly desirable.</li><li>Understanding of aerospace systems, including flight control systems, avionics, navigation, communication protocols, and safety standards (e.g., DO-178).</li><li>Excellent problem-solving skills and the ability to work effectively in a team environment.</li><li>Strong communication and interpersonal skills, with the ability to convey complex technical concepts to both technical and non-technical stakeholders.</li><li>A passion for the aerospace industry, coupled with a desire to contribute to the development of cutting-edge technologies.<br/><br/><br/></li></ul><strong>Preferred<br/><br/></strong><ul><li>Avionics/Electrical and Mechanical Engineering / Maintenance experience</li><li>Aviation software certification experience under 14 CFR Part 23 and or Part 25</li><li>Ability to develop software across multiple platforms and operating systems<br/><br/><br/></li></ul><strong>Supervisory Responsibilities<br/><br/></strong>No direct supervisory responsibilities.<br/><br/><strong>WORKING CONDITIONS / PHYSICAL DEMANDS<br/><br/></strong>Work may be performed in an office, warehouse or hangar environment with exposure to noise from aircraft and machinery. Light physical demands associated with an office work environment. May need to lift/move materials up to 25lbs. with or without assistance.<br/><br/><strong>TRAVEL<br/><br/></strong>Minimal travel may be required.<br/><br/><strong>REPORTS TO: </strong>Executive Director, Engineering<br/><br/><strong>SCHEDULE: </strong>M-F / Exempt position with a minimum work week of 40 hours<br/><br/><em>Salary Range: $100,000 - $130,000 / year</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Aviation and Aerospace Component Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

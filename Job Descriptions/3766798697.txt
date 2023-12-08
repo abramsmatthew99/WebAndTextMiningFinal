@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What You’ll </strong> <strong>Do<br/><br/></strong>You will a member of a Software Engineering team that develops capabilities for the Database Platforms running Cisco’s critical business applications. Our team is seeking a software engineer with experience in enterprise-level software development and building and automating infrastructure platforms, to join a team of hard-working engineers developing applications hosting database platforms.<br/><br/><ul><li> Collaborate with other core services team members to define roadmap, write clear user stories with well-defined acceptance criteria, design, and build solutions </li><li> Build, deploy, and operate large scale database platforms using Python and Ansible </li><li> Develop and deliver automation software required for building &amp; improving the functionality, reliability, availability, and manageability of databases and cloud platforms </li><li> Liaises with external providers to resolve any issues in the functionality and interoperability of new cloud applications, cloud-based infrastructure, and other cloud services with existing IT systems </li><li> Design and develop APIs in conjunction with other team members </li><li> Ensure the quality, performance, robustness, and scalability of the services you implement </li><li> Works with technical teams and senior architects to finalize specifications related to integration between numerous systems </li><li> Involve in all aspects of platform and services development and deployment </li><li> Git, Jenkins, SonarQube, Artifactory, Docker containers) </li><li> Champion and drive the adoption of Infrastructure as Code (IaC) practices and attitude <br/><br/></li></ul><strong>Who You’ll Work With<br/><br/></strong>Cisco is redefining its database platforms to own the next generation of database services. This role offers a phenomenal opportunity to transform how infrastructure platforms are developed and managed with full software automation. The database automation team is responsible to develop database platforms that provides self-service provisioning and management capabilities to the clients, and at the same time is highly available with self-healing, full lifecycle monitoring and management capabilities. Our team consists of passionate individuals who are motivated to create the most efficient software applications and use everything at their disposal. As part of the team, you will also work with other members from different teams as well as some stakeholders to ensure the best possible path for our software development roadmap.<br/><br/><strong>Who You Are<br/><br/></strong>You are an excellent Software Engineer with software design, architecture and development experience building platforms and deploying microservices application. You have a proven background in and understanding of software systems with strong programming experience with the ability to work closely with the rest of the Engineering team from the early stages of design all the way through identifying and resolving production issues. You’re passionate about this role and also believe that automation is key to operating large­scale systems. You’re flexible and willing to learn new things in a fast-paced environment.<br/><br/><strong>Minimum Requirements<br/><br/></strong><ul><li> Bachelor’s degree in Computer Science, Computer Engineering, a related field, or relevant work experience is required </li><li> 5+ years of software programming experience in one or more programming languages and platforms: Python, Flask, Angular, Ansible, Oracle PL/SQL, Oracle APEX </li><li> Excellent knowledge of building cloud-native and server-side RESTful applications, APIs and automation tools </li><li> Understanding of Software design patterns, SDLC, Test Driven Development (TDD), Continuous Integration and Continuous Delivery (CI/CD) <br/><br/></li></ul><strong>Preferred Requirements<br/><br/></strong><ul><li> IT experience in cloud native application development, middleware, database management </li><li> Experience with any of these technologies – Oracle DB/ Oracle APEX, Ansible AWX, ELK stack. Design and Development Experience on Linux systems and various databases such as Oracle, MS SQL Server, MongoDB, SAP Hana, Cassandra etc. </li><li> Experience in Scaled Agile Framework, Continuous Integration and Continuous Delivery framework is required along with exposure to toolset such as Jenkins, Git/BitBucket and JIRA. Shall have strong exposure to DevOps methodology. Exposure to distributed database systems </li><li> Good knowledge of software design patterns, Object-Oriented Programming concepts and Microservices. Passionate to complete tasks. Self-motivator prepared to work in an agile environment. Strong analytical and problem-solving skills. Strong communication and collaboration skills <br/><br/></li></ul><strong>Why Cisco<br/><br/></strong><ul><li> <br/><br/></li></ul>#WeAreCisco. We are all unique, but collectively we bring our talents to work as a team, to develop innovative technology and power a more inclusive, digital future for everyone. How do we do it? Well, for starters – with people like you!<br/><br/>Nearly every internet connection around the world touches Cisco. We’re the Internet’s optimists. Our technology makes sure the data traveling at light speed across connections does so securely, yet it’s not what we make but what we make happen which marks us out. We’re helping those who work in the health service to connect with patients and each other; schools, colleges, and universities to teach in even the most challenging of times. We’re helping businesses of all shapes and sizes to connect with their employees and customers in new ways, providing people with access to the digital skills they need and connecting the most remote parts of the world – whether through 5G, or otherwise.<br/><br/>We tackle whatever challenges come our way. We have each other’s backs, we recognize our accomplishments, and we grow together. We celebrate and support one another – from big and small things in life to big career moments. And giving back is in our DNA (we get 10 days off each year to do just that).<br/><br/>We know that powering an inclusive future starts with us. Because without diversity and a dedication to equality, there is no moving forward. Our 30 Inclusive Communities, that bring people together around commonalities or passions, are leading the way. Together we’re committed to learning, listening, caring for our communities, whilst supporting the most vulnerable with a collective effort to make this world a better place either with technology, or through our actions.<br/><br/>So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us! #WeAreCisco
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computer Networking Products
+          </span>
+</li>
+</ul>
+</div>
+</section>

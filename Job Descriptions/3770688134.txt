@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position: Business Data Analyst<br/><br/></strong><strong>Duration: 4-6 months Contract<br/><br/></strong><strong>REMOTE<br/><br/></strong><strong>No OPT candidates<br/><br/></strong><strong>Essential Functions &amp; Accountabilities<br/><br/></strong><ul><li>Works as primary business analyst on moderately or significantly complex projects and initiatives. Coordinates with project manager to document change requests for in-flight projects.</li><li>Follow established business analysis practices to elicit needs, analyze opportunities, and recommend solutions that deliver maximum value.</li><li>Utilizes Jama to record requirements and ensure signoff is obtained so requirements are delivered on or before the due date.</li><li>Champions department standards for documentation and ensures that all assigned projects are complying and able to withstand audit scrutiny.</li><li>Participates in business process and technology initiatives to improve business performance.</li><li>Provides guidance in QA work when requested so the appropriate level of testing is planned and executed.</li><li>Ensures that all items under their responsibility follow the SDLC including all applicable change management processes.</li><li>Recommends beset in class solutions to complex data questions and challenges.</li><li>Creates business requirements and evaluates technical solutions by discussing business needs with end user, managers, and project teams.</li><li>May provide system design input/recommendations as it relates to business requirements. <br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>Must have background and experience with Business Analysis toolkit including an understanding of systems development lifecycles, architecture and frameworks, problem solving and root cause analysis methods, Use cases, data and process modeling skills and document business process models.</li><li>Requires a bachelor’s degree in computer science, Information Systems, or Business Administration, Healthcare Administration, or related field.</li><li>Requires –5-9 years of relevant technical or business work experience with demonstrated experience within healthcare industry or data warehouse/analytics.</li><li>Strong ability to digest detailed information and apply critical thinking skills to business requirements, specifically in Healthcare Enterprise Datawarehouse environment.</li><li>Knowledge of vendor and/or internally developed systems including system interfaces, user functionality and various system environments.</li><li>Strong ability to generate options and facilitate decisions across business and IT partners while documenting business processes and system solutions.</li><li>Ability to communicate effectively, lead meetings, prepare documentation and present recommendations.</li><li>Organizational skills with the ability to multi-task, set priorities, follow up on open items and attention to detail.</li><li>Experience as a business planner/project manager gathering technical requirements, coordinating testing, and ensuring all deliverables stay on time, on target and on budget.</li><li>Healthcare domain, SSIS &amp; SQL Server knowledge<br/><br/></li></ul><strong>Experience<br/><br/></strong><ul><li>7 years of IT Business Data Analyst experience with advanced experience working on ETLs for Datawarehouse in SQL Server databases</li><li>Experience with Azure, Azure DevOps, Azure Data Lake, Azure SQL Server is a plus.</li><li>Clear verbal and written communication skills.</li><li>Previous experience in the health industry, SSRS, or Power BI is a plus.</li><li>Advanced experience with T-SQL, data warehousing design, BI concepts, and best practices</li><li>Bachelor’s degree in Computer Science or related field or equivalent combination of industry-related professional experience and education</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

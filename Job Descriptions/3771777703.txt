@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>BIOVIA</strong>, a wholly owned subsidiary of <strong>DASSAULT SYSTEMES</strong> provides a sophisticated enterprise system of modeling, simulation, machine learning, laboratory, quality, and process execution and data management solutions. Our customers use these systems to discover, design, and deliver innovative, sustainable, and competitive products to consumers globally. These capabilities are delivered through software applications and cloud services which empower scientists and engineers to access, understand and analyze their data to produce quality products.<br/><br/><strong>BIOVIA</strong> is looking for a motivated <strong>Machine Learning Engineer – Drug Discovery</strong> to join our <strong>Discovery Studio </strong>team in <strong>San Diego, CA, or Waltham, MA </strong>in an onsite/hybrid role. This role focuses on the development of Machine Learning and Artificial Intelligence techniques for BIOVIA’s life sciences modeling and simulation applications. This role will work closely with the Product Management organization and R&amp;D team to develop, validate, deploy, and apply new scientific methods via the 3DEXPERIENCE Cloud.<br/><br/><strong>Role Description &amp; Responsibilities<br/><br/></strong><ul><li>You will develop scientific computational tools and algorithms in the area of biopolymer (proteins, RNA, DNA) modeling and simulation</li><li>Work to develop deep learning architectures with a machine learning operations (MLOps) approach to commercialization of AI techniques in simulation of biomolecules</li><li>In this role you will develop user-friendly workflows and interfaces to deploy scientific algorithms into BIOVIA product packages</li><li>Interact with customers to improve usability and implement new functionality</li><li>You will be partnering with marketing, scientific and technical colleagues and project management</li><li>Closely coordinate with Quality Assurance and development teams to ensure thorough test coverage<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>PhD most preferred in computational chemistry, biology, or a related discipline </li><li>At least 5 years of experience with machine learning model development and delivery</li><li>Experience in the development of computational tools for drug design</li><li>Record of peer reviewed publications</li><li>Familiarity with BIOVIA products is a plus</li><li>Familiarity with deep learning and machine learning algorithms and the use of popular AL/ML frameworks</li><li>Working knowledge of languages such as Python, R</li><li>Experience with DevOps and Agile</li><li>Strong communication skills and ability to work in a collaborative environment<br/><br/></li></ul>Shape your career with 3DS! <strong>#WeAre3DS<br/><br/></strong><strong><em>Compensation for this role will be commensurate with experience. The total expected compensation range will be between $110,000 and $145,000, representing the base salary (or annualized salary based on estimated hourly compensation) and target bonus.<br/><br/></em></strong>Diversity statement<br/><br/>As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.<br/><br/><strong>Compensation &amp; Benefits<br/><br/></strong>Dassault Systèmes offers an excellent salary with potential for bonus, commensurate with experience. Benefits include a choice of plans providing comprehensive coverage for medical, dental, vision care for employee &amp; dependents as well as employee life, short &amp; long term disability, tuition reimbursement, immediate 401K enrollment, 401K match (50 cents on the dollar, up to the first 8% of your eligible compensation that you contribute based on match eligibility criteria), flexible time off policy, and 10 paid holidays.<br/><br/>Equal opportunity<br/><br/>In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

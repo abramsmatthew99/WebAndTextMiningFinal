@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Business<br/><br/></strong>Media Engineering builds the software and systems that prepare media content and metadata for the Disney Streaming platform - providing the best possible playback experience to our viewers.<br/><br/>Media Engineering handles audio, video, and metadata content from ingest through publish - for normalization, processing, and packaging - supporting operator tools and automation for a scalable workflow. We build logic across players and back-end services to measure, control, and optimize playback across our stack.<br/><br/><strong>Job Summary<br/><br/></strong>Our team is seeking a Software Engineer to help us deliver excellent streaming experiences as a developer for the Disney+, Star+, ESPN+ and Hulu client players. Our team is responsible for playback across several devices including gaming consoles and set top boxes. You will have the opportunity to lead in the design, implementation and support of our cross-platform player on some of the most interesting 10-foot devices in the marketplace.<br/><br/>We’re looking for a C/C++ and Rust software engineer who has video player and cross platform development experience. You should have a passion for coding and debugging hard problems, and an eagerness to help us deliver seamless video to our subscribers. Being a member of our team, you will get to own development tracks and work closely with other technical teams responsible for the application layer and backend video services.<br/><br/><strong>This opening is for a USA based employee, onsite in our offices in New York, NY.<br/><br/></strong><strong>Responsibilities<br/><br/><br/></strong><ul><li>Contribute to the C/C++ and Rust player that drives our streaming experience</li><li>Maintain a strong understanding of our code to identify, research and address issues</li><li>Optimize our player to perform well for resource constrained platforms</li><li>Create and review architecture and designs for our team’s projects</li><li>Collaborate with application development teams, services engineering teams and product management to help understand and explain the device ecosystem challenges and requirements</li><li>Lead in strategies to ensure the quality, stability and scalability of our deployments, including testing strategies and telemetry approaches</li><li>Develop our project’s build system and continuous integration system as needed</li><li>Hold our team accountable to high development standards<br/><br/><br/></li></ul><strong>Basic Qualifications<br/><br/><br/></strong><ul><li>3+ years of full software development lifecycle experience in a relevant industry</li><li>Strong individual contributor with a drive to learn and thrive in a multi-developer, geographically diverse environment</li><li>Fluent in C/C++ and eager to learn Rust</li><li>Demonstrated development and debugging skills with embedded networked devices</li><li>Experience developing and optimizing multi-threaded applications</li><li>Experience using build runners / compilation tools for multi-platform projects</li><li>Investigative mind and very good sense of prioritization</li><li>Great communication and collaboration skills and a strong teamwork ethic</li><li>BS or BA in Computer Science, Engineering, or related field or equivalent experience<br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/><br/></strong><ul><li>Experience dealing with technical escalation in large scale software environments</li><li>Experience with Rust</li><li>Experience in Streaming technologies, including:</li><ul><li>HLS (preferred) or DASH</li><li>DRM technologies like Playready or Widevine</li><li>Adaptive Bitrate Streaming Algorithms</li><li>Caption and subtitle formats such as CEA-608 / 708</li><li>Codecs AVC, HEVC, AAC, EAC3</li></ul><li>Experience developing for gaming consoles (e.g. Playstation, Switch, Xbox), Android devices (e.g. phone, FireTV), or similar devices</li><li>Familiarity with set-top box development and specialized SoCs from manufacturers like Broadcom, MediaTek, etc.<br/><br/></li></ul>The hiring range for this position is $118,000 to $158,200 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Nova US Jobs</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Keertikiran Jonnala" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D5603AQFSJikrXdWTzQ/profile-displayphoto-shrink_100_100/0/1680601185152?e=2147483647&amp;v=beta&amp;t=LXcvz32MBksQPXA-5BxSloAS36cGDtA0eNovftF7vnU" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Keertikiran Jonnala
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        #Novausjobs #Ultraaura #Novaprolabs #Propay International #HyperVSolutions #Lexone Solutions #Client services management
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Keertikiran Jonnala" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fin%2Elinkedin%2Ecom%2Fin%2Fkeertikiran-jonnala-16209858&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>We are offering a full-time on-site position for a Software Engineer based in Richland, WA. As a crucial member of our team, you will play a vital role in designing, implementing, testing, and maintaining cutting-edge software solutions aligned with our innovative technologies. Join our dynamic team that collaborates to create groundbreaking solutions, addressing the evolving needs of our clientele.</p><p><br/></p><p>Our in-house software development primarily utilizes C/C++ as the development language for the embedded software in our instruments. Additionally, data acquisition, control software, and data analysis software for our research and development may be crafted in languages such as Python, C#, PHP, or Lua. We operate on both Windows and Linux-based systems for development and delivery, with occasional implementation of specialized functions in an FPGA.</p><p><br/></p><p>Candidate Profile:</p><p><br/></p><p>Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.</p><p>Minimum of 3 years’ experience in software development post-graduation.</p><p>Bonus points for experience with FPGA.</p><p>Exceptional problem-solving, analytical, and communication skills.</p><p>Capability to work independently and collaboratively within a team environment.</p><p>Solid background in Mathematics.</p><p>Proficiency in C/C++ programming is a prerequisite.</p><p>Desired experience in embedded software development.</p><p>Bonus points for experience in programming network applications.</p><p> Position: Full-Time</p><p>Type: On-Site</p><p>Candidate: Citizen/Local</p><p>Visa Status: Citizen/GC</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

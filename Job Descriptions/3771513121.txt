@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>BreakPoint Labs is looking for a Software Engineer (3 or more years of experience) to join our software development operations team. This will be a <strong>REMOTE</strong> position. Candidate MUST HAVE A DOD Clearance for this position. We are a team of about a dozen developers and operations folks. We work remotely and communicate via text and video chat. We provide applications and tooling for a DoD Cybersecurity Service Provider, mainly in the form of web applications. Our primary tech stack is Python/Django/PostgreSQL, plus judicious use of JavaScript. All of our projects are small, ranging from two to four developers each. We value people who are able to work autonomously but are also not afraid to ask for help when needed.<br/><br/><strong>Duties and Responsibilities:<br/><br/></strong><ul><li> Collaborate with other developers to write, test and support web applications</li><li> Monitor and ensure application reliability while deploying changes</li><li> Integrate and support various external data sources</li><li> Troubleshoot software issues and develop solutions</li><li> Draft and maintain technical documentation<br/><br/></li></ul><strong>Required:<br/><br/></strong><ul><li> 3 years of experience in the development, deployment, operation, and maintenance of applications. </li><li> 1 year of experience writing applications with Python. </li><li> Excellent written and oral communicator. </li><li> Ability to obtain Security+ Continuing Education (CE) [CompTIA] within the first 90 days of employment. </li><li> DoD Secret clearance REQUIRED<br/><br/></li></ul><strong>Preferred:<br/><br/></strong><ul><li> Experience with JavaScript, Django, PostgreSQL, Elasticsearch, Golang. </li><li> Experience using Docker, Ansible, and Gitlab</li><li> Strong Linux administration and development experience. </li><li> Proficiency writing automated tests</li><li> Bachelor of Science in Computer Science, Software Engineering or related field, or equivalent experience. </li><li> Background in cybersecurity concepts, especially defensive cybersecurity operations. <br/><br/></li></ul><strong>Company Description<br/><br/></strong>BreakPoint Labs, a small business cybersecurity services firm, is dedicated to providing the methods and means for sustainable, measurable, and effective cybersecurity operations. Powered by highly motivated, experienced cybersecurity professionals with technical and scientific proficiency, BreakPoint Labs is developing and leveraging technology to enable a more secure cyberspace. With well-formed service delivery models in cybersecurity assessments, defensive cyber operations, research and development, and cybersecurity training, BreakPoint Labs supports a diverse customer base in addressing its most challenging problems in cyberspace.<br/><br/>BreakPoint Labs is constantly seeking enthusiastic cybersecurity professionals, either to exchange technical ideas and lessons learned or to potentially join the BreakPoint Labs Team. Through an established corporate culture, BreakPoint Labs embraces a highly technical, [geeky] workforce passionate about developing and leveraging technology to secure cyberspace.<br/><br/>BreakPoint Labs, a small business cybersecurity services firm, is dedicated to providing the methods and means for sustainable, measurable, and effective cybersecurity operations. Powered by highly motivated, experienced cybersecurity professionals with technical and scientific proficiency, BreakPoint Labs is developing and leveraging technology to enable a more secure cyberspace. With well-formed service delivery models in cybersecurity assessments, defensive cyber operations, research and development, and cybersecurity training, BreakPoint Labs supports a diverse customer base in addressing its most challenging problems in cyberspace. BreakPoint Labs is constantly seeking enthusiastic cybersecurity professionals, either to exchange technical ideas and lessons learned or to potentially join the BreakPoint Labs Team. Through an established corporate culture, BreakPoint Labs embraces a highly technical, [geeky] workforce passionate about developing and leveraging technology to secure cyberspace.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer and Network Security
+          </span>
+</li>
+</ul>
+</div>
+</section>

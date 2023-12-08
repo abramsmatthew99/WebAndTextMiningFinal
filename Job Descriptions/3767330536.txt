@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: </strong>Computer Science Teacher (Part Time)<br/><br/><strong>General Responsibilities:</strong> Under the supervision of the Director of Educational Development, plans and facilitates collaborative coding instructional sessions using a variety of coding languages, robotics, tools, and applications.<br/><br/><strong>Major Duties<br/><br/></strong><ul><li>Meets regularly with the Director of Educational Development</li><li>Plans and facilitates learning sessions</li><li>Assists students in the development of computer science and coding skills</li><li>Maintains consistent communication the Director of Educational Development</li><li>Models appropriate academic and social behaviors</li><li>Performs other duties as assigned<br/><br/></li></ul><strong>Required Knowledge, Skills, And Abilities<br/><br/></strong><ul><li>Ability to work with students of diverse ethnic backgrounds, academic profiles, and skill levels.</li><li>Possess good interpersonal and organizational skills.</li><li>Must demonstrate responsibility, a desire to help others, discretion, and flexibility.</li><li>Knowledge and ability to instruct students in coding languages such as Scratch, Blockly, Swift, and Python.</li><li>Ability to instruct students on how to control a robot (Ozobot, Sphero, Vex, drones, etc) using coding languages.</li><li>Ability to collect and analyze data to drive future instruction.</li><li>Ability to work independently applying critical thinking skills and problem solving to various situations.</li><li>Must be able to instruct students of varying skill and experience levels in multiple programs based on interest and ability.<br/><br/></li></ul><strong>Qualifications:</strong> Must possess a bachelor's degree, teaching and/or tutoring experience, and have extensive computer science and/or coding experience.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Education Management
+          </span>
+</li>
+</ul>
+</div>
+</section>

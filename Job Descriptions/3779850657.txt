@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Us<br/><br/></strong>One team. Global challenges. Infinite opportunities. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate. We’re looking for people who think big, act fearlessly, and create an inclusive environment that drives positive impact to join our team.<br/><br/><strong>What You'll Do<br/><br/></strong>This organization is an interconnected series of small teams that allows for immediate visibility within the group, but maintains the resources support of a large company to solve technology needs. The Secure Network Systems team also supports security and cybersecurity needs across the company, in which physical products, tools, and initiatives can have impacts across world-wide usage.<br/><br/>Be part of a software development team that designs, re-factors, and maintains code for existing and upcoming features across one or more product lines while meeting an exacting set of standards for security design and testing. As updated standards are released they are deployed across a variety of products and must take into account a variety of competing constraints.<br/><br/><strong>The day-to-day<br/><br/></strong>Team Members will be expected to work as part of a team that works with and helps clarify requirements while continuously supporting development, integration, automation, and test of the final product through certification. Our ideal candidate is capable of working in a multi-disciplinary team with experience in object-oriented design, debugging, and embedded systems. The majority of our products interface via networking protocols, so the experience, interest, and desire to work on network-based products is a huge plus. Our teams strive to be efficient and productive, while remaining generous with our time and knowledge. Our ideal candidate is also focused on continuous improvement and driven by curiosity.<br/><br/>You will have the chance to be dynamic as a product moves through maturity phases, feature priorities change, and company needs shift. You’ll have the opportunity to work on requirements derivation at the software-level, high and low-level design, Agile sprints for development, integration, and formal testing events. It is common that your responsibilities on one product/project may differ from those on others, and that you will develop expertise in different areas. Teammates will rely on you for that expertise, and you will often have to get in touch with them for theirs. You'll have an opportunity to be a part of an agile multidisciplinary development team and work on:<br/><br/><ul><li>Cybersecurity software &amp; systems engineering</li><li>Embedded systems software engineering</li><li>Embedded or applications developer</li><li>System infrastructure development; scripting, automation, data visualization &amp; dashboarding<br/><br/><br/></li></ul><strong>What You'll Need<br/><br/></strong><ul><li>Bachelor’s degree or higher in Computer Science, Computer Engineering, Electrical Engineering, and/or a related field</li><li>Previous experience using Java or Python</li><li>Ability to pick up new software, frameworks and APIs</li><li>Strong communication and collaboration skills</li><li>Excellent software design, problem solving, and debugging skills</li><li>Experience with or desire to learn Linux</li><li>Ability to obtain and maintain a United States Secret Clearance<br/><br/><br/></li></ul><strong>What Will Help You On The Job<br/><br/></strong><ul><li>Previous experience using C or C++</li><li>Previous internship experience</li><li>Courses in software architecture</li><li>Courses with practical software design usage</li><li>Experience with developing software monitoring and control software</li><li>Familiarity with configuration management tools (Perforce), development tools (Eclipse, Visual Studio, etc.), and agile development methodologies</li><li>Familiarity with CI/CD pipelines</li><li>Knowledge of TCP/IP network fundamentals</li><li>Computer control of Ethernet devices over LAN and WAN experience<br/><br/><br/></li></ul><strong>Salary range<br/><br/></strong>$84,600.00 - $147,000.00 / annually<br/><br/>At Viasat, we consider many factors when it comes to compensation, including the scope of the position as well as your background and experience. Base pay may vary depending on job-related knowledge, skills, and experience. Additional cash or stock incentives may be provided as part of the compensation package, in addition to a range of medical, financial, and/or other benefits, dependent on the position offered. Learn more about Viasat’s comprehensive benefit offerings that are focused on your holistic health and wellness at careers.viasat.com/LifeAtViasat/Benefits.<br/><br/><strong>EEO statement<br/><br/></strong>Viasat is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, ancestry, physical or mental disability, medical condition, marital status, genetics, age, or veteran status or any other applicable legally protected status or characteristic. If you would like to request an accommodation on the basis of disability for completing this on-line application, please click here.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing and Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

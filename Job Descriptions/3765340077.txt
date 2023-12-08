@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Systems Administrator </u></strong></p><p><br/></p><p><strong>Responsibilities:</strong></p><ul><li>Responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization</li><li>Install and upgrade computer components and software, manage virtual servers, and integrate automation processes.</li><li>Troubleshoot hardware and software errors by running diagnostics, documenting problems and resolutions, prioritizing problems, and assessing impact of issues.</li><li>Provide documentation and technical specifications to IT staff for planning and implementing new or upgrades of IT infrastructure.</li><li>Perform or delegate regular backup operations and implement appropriate processes for data protection, disaster recovery, and failover procedures.</li><li>Lead desktop and helpdesk support efforts, making sure all desktop applications, workstations, and related equipment problems are resolved in a timely manner with limited disruptions.</li><li>Responsible for capacity, storage planning, and database performance</li></ul><p> </p><p><strong>Qualifications:</strong></p><ul><li>Associate or bachelor’s degree in Computer Science, Information Technology, System Administration, or a closely related field, or equivalent experience required.</li><li>3-5 years of database, network administration, or system administration experience</li><li>System administration and IT certifications in Microsoft and Azure, or other network related fields are a plus.</li><li>Working knowledge of virtualization, VMWare, Office 365 or equivalent</li><li>Strong knowledge of systems and networking software, hardware, and networking protocols</li><li>A proven track record of developing and implementing IT strategy and plans.</li><li>Strong knowledge of implementing and effectively developing helpdesk and IT operations best practices, including expert knowledge of security, storage, data protection, and disaster recovery protocols</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction
+          </span>
+</li>
+</ul>
+</div>
+</section>

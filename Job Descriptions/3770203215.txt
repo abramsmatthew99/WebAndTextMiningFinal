@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Machine learning researchers and engineers with impressive records of academic and professional achievements sought to join our interdisciplinary team in New York City.<br/><br/>This is a unique opportunity to collaborate with our chemists, biologists, and computer scientists to expand the group’s efforts applying machine learning to drug discovery, biomolecular simulation, and biophysics. Ideal candidates will have demonstrated expertise in developing deep learning techniques, as well as strong Python programming skills. Relevant areas of experience might include molecular dynamics, structural biology, medicinal chemistry, cheminformatics, and/or quantum chemistry, but specific knowledge of any of these areas is less critical than intellectual curiosity, versatility, and a track record of achievement and innovation in the field of machine learning.<br/><br/>D. E. Shaw Research develops and uses advanced computational technologies to understand the behavior of biologically and pharmaceutically significant molecules at an atomic level of detail, and to design precisely targeted, highly selective drugs for the treatment of various diseases. Among our core technologies is a proprietary special-purpose supercomputer called ANTON® which we designed and constructed to perform molecular dynamics simulations more than 100 times faster than the world's fastest general-purpose supercomputers. We develop and refine advanced biomolecular modeling methods, software, and machine learning techniques on ANTON®, as well as on general-purpose supercomputers, in order to pursue both internal and collaborative drug discovery programs. Our research, technologies, and pharmaceutical expertise have each played an important role in bringing six drugs into clinical trials. Machine learning techniques are a rapidly-growing aspect of our research efforts. For example, we have developed and published neural networks that improve the accuracy of quantum chemistry models, and have trained deep learning models to generate optimized molecules for drug discovery.<br/><br/>We are looking to add innovative contributors who share our commitment to fostering a stimulating, positive, and collaborative work environment.<br/><br/>D. E. Shaw Research is an equal opportunity employer, dedicated to the goal of building a diverse workforce. We embrace diversity along all dimensions, and respect and value the unique qualities, perspectives, and identities of every person in our group. We welcome inquiries from all exceptionally well-qualified applicants, regardless of race, color, nationality, national or ethnic origin, religion or religious belief, caste, gender identity, pregnancy, caregiver status, age, military service eligibility, veteran status, sexual orientation, marital or civil partner status, disability, or status in any other category protected in this regard by law in any jurisdiction in which we operate.<br/><br/>The expected annual base salary for this position is $300,000–$600,000. Our compensation package also includes variable compensation in the form of sign-on and year-end bonuses, and generous benefits, including relocation and immigration assistance. The applicable annual base salary paid to a successful applicant will be determined based on multiple factors including the nature and extent of prior experience and educational background. We follow a hybrid work schedule, in which employees work from the office on Tuesday through Thursday, and have the option of working from home on Monday and Friday.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet News
+          </span>
+</li>
+</ul>
+</div>
+</section>

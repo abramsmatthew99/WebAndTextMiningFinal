@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Kegman is seeking an experienced software engineer whose technical expertise allows them to manage projects seamlessly and prioritize deadlines. The Software Engineer will provide on-site Advisory and Assistance Services (A&amp;AS) to Air Force Technical Applications Center (AFTAC) scientists by developing and testing scientific software solutions for mission capability enhancement. Operating in a collaborative environment, the software engineer will analyze users’ needs and design, develop, test and enhance software solutions to meet those needs. Additionally, the software engineer will be responsible for ensuring that the quality and functionality of software solutions satisfy technical and scientific requirements.<br/><br/><strong>Applicants must have a fully adjudicated (not interim) U.S. Government-issued security clearance to meet eligibility requirements and, therefore, must also be a U.S. citizen. <br/><br/></strong><strong>This job is performed on-site and has no remote work opportunities.<br/><br/></strong><strong>RESPONSIBILITIES:<br/><br/></strong><ul><li>Implement time-critical solutions to deliver mission data using modern software tools and applications.</li><li>Develop software solutions from requirements, information needs, systems flow, data usage, and work processes.</li><li>Perform technical troubleshooting in a UNIX/LINUX environment. </li><li>Perform root cause analysis to determine assignable failure, recommend and implement solutions</li><li>Assist with testing in-house and third-party software.</li><li>Perform unit, regression, and integration testing.</li><li>Provide detailed designs for new and existing software and perform implementation from detailed design.</li><li>Provide recommendations on software platform management, documentation, and control of mission requirements through the agile software development process which includes robust change management practices. </li><li>Support acquisition, integration, and sustainment of computer systems and software, testing, and deployment across multiple domains.</li><li>Assist subject matter experts (SMEs) in transitioning code for new applications.</li><li>Assist AFTAC customers in operationalizing software applications.</li><li>Ensure efficient functioning of data storage and process functions in accordance with government security policies.</li><li>Implement modern coding practices with government-provided revision control systems such as Git/GitLab<br/><br/></li></ul><strong>EDUCATION:<br/><br/></strong>Bachelor’s or master’s degree in relevant field of study (Computer Science, Computer Engineering, etc.)<br/><br/><strong>REQUIRED SKILLS AND EXPERIENCE:<br/><br/></strong><ul><li>Minimum of 2 years of relevant experience performing tasks similar to those above. </li><li>Strong computer science fundamentals (data structures, algorithms, and object-oriented design).</li><li>Awareness of critical concepts in DevSecOps principles.</li><li>Experience with object-oriented programming: Java, TypeScript or other.</li><li>Programming skill in at least 2 of the following: Python, C, C++, PL/SQL, Shell, Bash, Golang</li><li>Current CompTIA Security+ certification (or obtain within 180 days of hire).</li><li>Demonstrated strong interpersonal and communication skills; these are necessary to coordinate and communicate with executives, external partners, and project stakeholders.</li><li>Demonstrated ability to integrate requirements and acquisition efforts across multi-tiered customer environment.<br/><br/></li></ul><strong>DESIRED SKILLS:<br/><br/></strong><ul><li>Knowledge of the DOD acquisition lifecycle and the Department of Defense Architecture Framework (DoDAF). </li><li>Working knowledge of various CI/CD tools (GitLab, Ansible, Artifactory, Rancher, Puppet, Fortify, BlackDuck, Coverity and/or SonarQube) and open-source technologies.</li><li>Experience with Docker and Kubernetes for container deployment and orchestration.<br/><br/></li></ul><strong>OTHER:<br/><br/></strong><ul><li>Must pass drug test.</li><li>US Citizenship required.</li><li>Must possess a fully adjudicated (not an interim) US government security clearance.<br/><br/></li></ul>Kegman Inc. is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status or any other characteristic protected by law.<br/><br/>Kegman will abide by the requirements of 41 CFR 60741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.<br/><br/>Please be aware many of our positions require an active security clearance. Security clearances are be granted to U.S. citizens. In addition, applicants who accept a conditional offer of employment that requires a security clearance will be subject to government security investigation(s) and must meet and maintain eligibility requirements for access to classified information.<br/><br/>By submitting your résumé for this position, you understand and agree that Kegman may share your résumé, as well as any other related personal information or documentation you provide, with its subsidiaries and affiliated companies for the purpose of considering you for other available positions.<br/><br/>Kegman maintains a drug-free workplace and performs pre-employment substance abuse testing where permitted by law.<br/><br/>Powered by JazzHR<br/><br/>1IboZHWf3T
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

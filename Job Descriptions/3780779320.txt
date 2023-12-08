@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>The position would require travel onsite 4 days per month to Chattanooga, Tennessee. Paid by Client. <br/><br/></strong><strong>About The Position<br/><br/></strong>The <strong>Oracle Report Technical Analyst</strong> will develop and support technical aspects of Oracle Fusion Cloud ERP such as BIP reports, fast formulas and BICC. Will help support site implementations of Fusion Cloud ERP and HCM as well as provide production support. The position will design all BIP reports and publish via DevOps. Will need to be able to debug and resolve data issues. Will be responsible for ensuring SDLC and Sox procedures are followed when making changes to reports. Will work directly with business users and business analysts in order to provide support and solutions.<br/><br/><strong>Key Deliverables<br/><br/></strong><ul><li>New reports and modifications </li><li>Technical specifications from functional requirements </li><li>Write and execute test plans. </li><li>Production changes and fixes </li><li>SOP’s and training documentation </li><li>Ensure the business can operate on a day-to-day basis </li><li>HCM fast formula configuration changes </li><li>Data fixes </li><li>Closed Oracle SR’s <br/><br/></li></ul><strong>Key Activities &amp; Responsibilities<br/><br/></strong><ul><li>Design and develop reports. </li><li>Resolve help desk tickets. </li><li>Write Technical Specifications from functional requirements. </li><li>Perform training. </li><li>Implement production changes and fixes. </li><li>Follow audit and SDLC/change management procedures. </li><li>Day to day operational support and end user support </li><li>Make technical configuration changes in Oracle. </li><li>Coordinate and make data fixes. </li><li>Provide 24 x 7 support during emergencies. </li><li>Manage service requests with Oracle. <br/><br/></li></ul><strong>To be successful in this role, your experience and competencies are:<br/><br/></strong><ul><li>A BS/BA Degree in Computer Science, Business, or related field or equivalent and/or combination of training and experience as deemed sufficient by management. </li><li>5+ years technical experience with Oracle Cloud Fusion HCM, ERP &amp; SCM products </li><li>5+ years technical experience with FBDI loads, BIP, fast formulas Configuration etc </li><li>3+ years’ experience with performance monitoring, operational monitoring in Oracle Fusion </li><li>Technical requirements: SQL, PL/SQL, Java, XML, JDeveloper, Oracle BI Publisher, APEX, Visual Builder Cloud Service, OIC, Groovy Scripting, FBDI, ADFDi, Cloud Framework native to Oracle Fusion Application. </li><li>Must have strong business acumen and should be able to present and build technology solutions taking into consideration the existing business processes and the need to transform them. Must be data driven in all aspects of solutioning including performance tuning. </li><li>Knowledge and understanding of SDLC and SOX best practices including automated code/configuration build and deployment life cycles as well as code quality and unit tests. </li><li>Able to articulate the process for modules in scope. The candidate should have in-depth understanding on how the data flows in the backend. Meaning, they know the tables that the data resides in, how to link various tables, how to troubleshoot debug issues from a technical standpoint. </li><li>Must have experience with change management utilizing Dev-Ops technology for checking code in/out and promotion to production environment </li><li>Must have good experience translating business requirements and design into technical solutions. </li><li>Applies deep technical Oracle cloud expertise to solve common and complex issues and identifies and recommends appropriate fixes or alternatives. </li><li>Ability to research, learn, troubleshoot, and support complex system enhancements. </li><li>Flexible and adaptable in prioritizing workloads, coping with pressures, deadlines, and rapidly changing situations. </li><li>Strong communication skills including presentation skills. </li><li>Creative thinker, results-oriented, analytical mindset, and a focused problem-solver. <br/><br/></li></ul><strong>Supervisor and Leadership Expectations<br/><br/></strong>No supervisory duties, but will need to coordinate activities with both internal and external resources and teams<br/><br/><strong>Our Culture and Values<br/><br/></strong>Employees that become part of Astec embody the values below throughout their work.<br/><br/><ul><li>Continuous devotion to meeting the needs of our customers. </li><li>Honesty and integrity in all aspects of business </li><li>Respect for all individuals </li><li>Preserving entrepreneurial spirit and innovation </li><li>Safety, quality, and productivity as means to ensure success.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

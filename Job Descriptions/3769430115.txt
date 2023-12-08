@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Orbital Solutions</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Duane Dowell" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQG6vhVtljCdOQ/profile-displayphoto-shrink_100_100/0/1668011099673?e=2147483647&amp;v=beta&amp;t=dF8KAjQKj3pztFanJ7mAdhJewSeml8mqhYg8s_AbZoA" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Duane Dowell
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Executive &amp; Technology Search
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Duane Dowell" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fduanedowell&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>About Us:</strong> Join our dynamic team as a Network Systems Administrator and play a key role in supporting and enhancing our IT infrastructure. We are seeking a highly motivated individual with a strong background in IT systems administration, network management, and a knack for troubleshooting both hardware and software issues.</p><p><strong>Responsibilities:</strong></p><ul><li>Administer and optimize IT systems and network infrastructure.</li><li>Contribute to the development of IT strategies, architecture, and processes.</li><li>Troubleshoot server hardware and software issues related to networks and desktops.</li><li>Monitor server hardware, software performance, and operations.</li><li>Implement and follow IT infrastructure and operations best practices.</li><li>Enforce network security policies and protocols.</li><li>Create and maintain PowerShell scripts for system administration automation.</li><li>Monitor network security systems, applications, and procedures.</li><li>Review application logs, respond to security and usability issues.</li><li>Assist in creating and verifying data backups.</li><li>Upgrade server systems and processes for enhanced functionality and security.</li><li>Deploy patches/upgrades to desktops, laptops, and computer-based technologies.</li><li>Perform software and hardware upgrades and new installations.</li><li>Serve as the escalation point for IT Support Specialists.</li><li>Contribute to maintaining the knowledge base and change log documentation.</li></ul><p><strong>Requirements:</strong></p><ul><li><strong>Education:</strong> Bachelor’s degree in Information Systems, Computer Science, IT Certified Training, or equivalent.</li><li><strong>Certifications:</strong> CompTIA A+, Network+, Security+, Microsoft MCSA Admin, or MCSE Core.</li><li><strong>Experience:</strong> Minimum 3 years in Cisco Network and Windows server administration.</li><li><strong>Skills:</strong> Proficient in managing Cisco routers and switches, firewall configuration (Fortinet preferred), and experience with MS Windows, Hyper-V, VMware, Exchange, and Windows OS (Win 10/11 Pro, Server 2012-2019).</li><li><strong>Additional Knowledge:</strong> Active Directory, Exchange 2016, backup management and configuration (Veeam Preferred), DNS, DHCP, TCP/IP, LAN/WAN, End Point Protection, AD, MFA, VoIP system management and configuration.</li><li><strong>Security Awareness:</strong> Knowledge of system vulnerabilities, security issues, and updates/patching standards.</li></ul><p><strong>Qualities We Value:</strong></p><ul><li>Organized and able to work effectively in a small team environment.</li><li>Willingness to learn at a fast pace.</li><li>Maintains a positive and can-do attitude.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

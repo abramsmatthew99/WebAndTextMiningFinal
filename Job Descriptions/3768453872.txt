@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>The Opportunity<br/><br/></strong>We are currently searching for a Software Engineer to join our team. This position will be responsible for developing and testing software applications across one or more areas, such as mobile, web, PC/server applications, microservices, middleware, tools, etc. for medical devices systems. The ideal candidate is a self-starter with strong OO skills and a passion for being part of a team developing medical technologies that improve people's lives.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Apply critical thinking and analytical skills to determine software specifications for the medical device</li><li>Be a leader in the full-lifecycle development of medical device software, from ideation, proof-of-concept, and requirements to the design, implementation, and testing of a final production quality medical device</li><li>Architect, design, develop and unit-test software for medical device software solutions</li><li>Lead technical designs and design review meetings to discuss challenges and solutions related to the medical device</li><li>Work closely with hardware, firmware, and system engineers to solve cross-functional design challenges</li><li>Use SOLID software engineering principles to ensure that developed code is modifiable, efficient, reliable, understandable, and fault tolerant</li><li>Provide mentorship and guidance to junior members of the team</li><li>Reinforces good design principles amongst the software team<br/><br/><br/></li></ul><strong>Technical Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science, Computer Engineering, or similar discipline</li><li>3+ years of programming experience in C, C++, C#, or Java</li><li>Additional knowledge of JavaScript or JS-derivative language</li><li>Experience with all aspects of the software development lifecycle</li><li>Strong understanding of object-oriented principles and design patterns</li><li>High level of proficiency in one or more domains of software development, such as mobile, web, applications, middleware, and services</li><li>Experience interfacing with cloud platforms (AWS, GCP, or Azure) </li><li>For application/middleware/services:</li><ul><li>Experience using UI frameworks (WPF, QT, UWP, or Swing)</li><li>Experience using communication protocols (TCP/IP, UDP, HTTP, or SSL/TLS)</li><li>Experience using cryptography algorithms/libraries </li><li>Experience using database technologies (SQL, or NoSQL)</li></ul><li>For mobile/web/microservices:</li><ul><li>Experience building Android/iOS applications in native languages or cross-platform compatible languages such as React Native</li><li>Experience deploying mobile applications </li><li>Experience working with Web APIs, RESTful APIs, or state management (Redux)<br/></li></ul></ul><strong>Bonus Points For<br/><br/></strong><ul><li>Strong knowledge of and ability to work in a safety related quality process is a plus<br/><br/><br/></li></ul><strong>Additional Qualifications<br/><br/></strong><ul><li>Ability to interact well with clients</li><li>Excellent critical thinking and analytical skills</li><li>High level of initiative with ability to self-manage</li><li>Strong written and verbal communication skills</li><li>Strong knowledge of software documentation and testing<br/><br/><br/></li></ul><strong>Why join Sterling Medical Devices?<br/><br/></strong><ul><li>When you start at Sterling Medical Devices, you’ll get exposure to different opportunities within the organization and get to work on exciting medical device projects</li><li>Work with highly intelligent and driven team members who display a high degree of initiative, motivation, and flexibility</li><li>We offer a competitive salary, excellent benefits, health/dental/vision insurance, PTO, 401k matching, paid holidays, and good life &amp; work balance<br/><br/><br/></li></ul>Sterling Medical Devices (SMD) is an Equal Opportunity Employer. SMD does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.”<br/><br/><em>Local candidates only at this time, please. We do not offer relocation assistance.<br/><br/></em><em>No third-party candidates please.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

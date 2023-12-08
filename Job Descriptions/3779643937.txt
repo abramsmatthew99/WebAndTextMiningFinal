@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        XO Health believes healthcare is fixable. Become part of the community changing the face of the industry.<br/><br/>XO Health is the first health plan designed by and for self-insured employers that delivers a more unified health experience for everyone – from those who receive care, to those who deliver it, to those who pay for it.<br/><br/>We are growing a multi-disciplinary team of diverse and digitally empowered employees ready to rebuild trust in healthcare through comprehensive and unified transformation.<br/><br/><strong>About the Role:<br/><br/></strong>The Data Engineer is a member of our Data Engineering team who will focus on data analytics, data engineering and report development to meet business requirements. A successful candidate has experience building healthcare measures, efficiently retrieving data from a data lake, build and troubleshooting data pipelines and developing automated data set processes. The candidate will act as a subject matter expert in implementing the best practices of coding in implementing the projects. In this role, you'll influence technology strategies, ensure that the technological solutions are aligned with the company's business needs and bring to life data and how it can impact positive healthcare outcomes.<br/><br/>The ideal candidate should have a good understanding of health plan data to design and build data solutions using data engineering techniques to provide unparalleled experience to our clients, members and providers. The candidate should be passionate about continuously collaborating with other teams to provide optimal analytical insights and reporting frameworks.<br/><br/><strong>In This Role, You will:<br/><br/></strong><ul><li>Design &amp; implement big data ingestion &amp; transformation pipelines in order to publish data for consumption. </li><li>Develop &amp; champion best practices for large scale information extraction from structured/semi-structured data sources. </li><li>Understand data sources in-depth; design &amp; implement data extraction &amp; processing pipelines that work around imperfections of data to improve data quality &amp; coverage. </li><li>Deliver high-quality, scalable code with automated test coverage. </li><li>Drive data quality across the product vertical and related business areas. </li><li>Support the delivery of high impact dashboards and data visualizations. </li><li>Define and manage SLAs for all data sets and processes running in production. <br/><br/></li></ul><strong>We're Looking for People Who Have:<br/><br/></strong><ul><li>A bachelor's degree in a technical or business discipline, or equivalent experience. </li><li>4 years of related data engineering, software engineering and/or business intelligence experience. </li><li>Minimum of 4 years of experience in creating reports using SAS, SQL languages. </li><li>3 years of hands-on experience with big data technologies &amp; event driven architecture. </li><li>Experience working in building NCQA/HEDIS quality measures to measure quality performance rates is preferred. </li><li>Ability to develop highly scalable cloud-based data platforms using AWS Stack and Snowflake. </li><li>Hands on data modeling / data architecture experience. </li><li>2+ years development experience in at least one object-oriented language (Python, R, Java, etc.). </li><li>Progressive experience with SQL and related data base technologies. </li><li>Progressive experience with a variety of data management tools and technologies, and related tools, data visualization and data extraction and transformation tools. </li><li>Must have strong problem-solving, analytical and in-depth research skills. </li><li>Possess the ability to communicate effectively with internal and external partners, both orally and written. </li><li>Experience using DBT is preferred. </li><li>Experience with PowerBI or Tableau preferred. <br/><br/></li></ul>Full compensation packages are based on candidate experience and relevant certifications.<br/><br/>$135,000—$140,000 USD<br/><br/>XO Health is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. XO Health promotes a drug-free workplace.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

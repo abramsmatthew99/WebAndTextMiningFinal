@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Our Team:<br/><br/></strong>The Threat and Vulnerability Management Team (TVM) is dedicated to making our systems and technologies as secure as possible. We protect Bloomberg. We partner with internal technical departments to ensure the confidentiality, integrity, and availability of Bloomberg systems and the data we process. We aim to ensure that our clients see us as a trusted partner.<br/><br/>We report to the Chief Information Security Office (CISO) who owns the technical aspects of this mission by ensuring Bloomberg products, systems, networks and commercial applications are built and maintained with security in mind.<br/><br/><strong>We work on purpose. Come find yours.</strong> <strong>What's the role?<br/><br/></strong>We are seeking an IT Security Analyst for our TVM Data &amp; Systems team to help ensure that our IT infrastructure and security processes are resilient against the latest threats. You will be responsible for analyzing and assessing vulnerabilities across a wide range of technologies. You'll engage with various technology partners to validate and manage identified vulnerabilities through remediation. You will work directly with other cross-department security engineering and incident response teams to set strategic direction for our enterprise Threat and Vulnerability Management program.<br/><br/>This is a team that drives company-wide initiatives to improve the effectiveness of Bloomberg's security posture. Analysts in this role must show exemplary judgment in making technical decisions to achieve business goals. You're expected to always demonstrate resilience and navigate difficult situations with composure and tact.<br/><br/><strong>We'll trust you to:<br/><br/></strong><ul><li> Perform IT Security assessments and partner with other security or IT professionals to assess potential impact from vulnerabilities and determine appropriate mitigating controls</li><li> Build strong partnerships with technical teams to promote best practices for managing vulnerabilities, initiate and track remediation through to completion</li><li> Understand business requirements and work with business partners to define appropriate solutions; meeting both security mandates and business needs</li><li> Help standardize and automate work-flows, processes, procedures and reporting</li><li> Produce metrics and key performance indicators that demonstrate the effectiveness of the team's remediation efforts across the enterprise</li><li> Improve the design and usefulness of our IT Security management tools and solutions</li><li> Have excellent interpersonal and effective communications skills<br/><br/></li></ul><strong>You'll need to have:<br/><br/></strong><ul><li> 3+ years of IT operations, systems management, or IT Security related experience</li><li> Hands-on expertise working with enterprise architectures</li><li> Understanding of Linux and Windows OS, system administration or software development</li><li> Knowledge of IT Operations, security, and system hardening best practices</li><li> Solid understanding of Public Cloud infrastructure concepts and terminologies</li><li> Experience analyzing vulnerability findings from IT and Security management tools</li><li> Understanding of industry standards such as CVE, CPE, CVSS &amp; NIST</li><li> Ability to interpret complex data sets to make informed risk-based decisions</li><li> Strong organizational skills and can effectively manage complex tasks, projects, and agile framework<br/><br/></li></ul><strong>We'd love to see:<br/><br/></strong><ul><li> Solid understanding of Risk management frameworks and security tools</li><li> Ability to learn and implement technologies quickly</li><li> Programming experience developing utilities and tools with Python or shell scripting</li><li> Experience with DBMS, RDBMS and ETL methodologies.</li><li> Proficiency with systems configuration and automation technologies, such as Ansible</li><li> Knowledge of business intelligence reporting tools such as QlikSense.</li><li> Bachelor's degree in Computer Science, Engineering, or other related fields<br/><br/></li></ul><strong>If this sounds like you:<br/><br/></strong>Apply if you think we're a good match. We'll get in touch to let you know what the next steps are, but in the meantime feel free to have a look at this: https://vimeo.com/160970985<br/><br/>Bloomberg is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of age, ancestry, color, gender identity or expression, genetic predisposition or carrier status, marital status, national or ethnic origin, race, religion or belief, sex, sexual orientation, sexual and other reproductive health decisions, parental or caring status, physical or mental disability, pregnancy or maternity/parental leave, protected veteran status, status as a victim of domestic violence, or any other classification protected by applicable law.<br/><br/>Bloomberg provides reasonable adjustment/accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable adjustment/accommodation to apply for a job or to perform your job. Examples of reasonable adjustment/accommodation include but are not limited to making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. If you would prefer to discuss this confidentially, please email AMER_recruit@bloomberg.net (Americas), EMEA_recruit@bloomberg.net (Europe, the Middle East and Africa), or APAC_recruit@bloomberg.net (Asia-Pacific), based on the region you are submitting an application for.<br/><br/>Salary Range: 135,000 - 190,000 USD Annually + Benefits + Bonus<br/><br/>The referenced salary range is based on the Company's good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic location, work experience, market conditions, education/training and skill level.<br/><br/>We offer one of the most comprehensive and generous benefits plans available and offer a range of total rewards that may include merit increases, incentive compensation [Exempt roles only], paid holidays, paid time off, medical, dental, vision, short and long term disability benefits, 401(k) +match, life insurance, and various wellness programs, among others. The Company does not provide benefits directly to contingent workers/contractors and interns.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Information Services, and Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

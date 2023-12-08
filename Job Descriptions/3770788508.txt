@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong><strong>About Us:<br/><br/></strong>Umpqua Bank is a publicly traded financial holdings company, headquartered in the Pacific Northwest with 6,000+ employees, which offers banking services to customers throughout the nation. It’s an especially exciting time to join our team as, following the recent merger with Columbia Bank, we have grown to become a leading western-based regional bank with more than $50B in assets under management and an unwavering commitment to our associates, our customers, and our communities.<br/><br/>We create a great place to work by offering a special brand of relationship banking and by providing a culture where associates thrive. Associates who embody our core values fit in well here and we are eager to meet candidates who demonstrate behaviors that align with Trust, Ownership, Growth, Empathy, Teamwork, Heart, Enjoyment, and Relationships.<br/><br/><strong>About the Role:<br/><br/></strong>An Identity and Access Management Operations Analyst, reports to the IAM Manager and executes the processes and duties necessary to maintain the successful operation of the IAM team’s portfolio of services. The role of an IAM Operations Analyst is to work with various departments within an organization to help drive access control initiatives in support of internal policies, regulatory compliance, and industry standards. The IAM analyst role typically provides IAM expertise and guidance to various business units and works closely with the IAM Architect and Engineer to support requirements to design and implement access controls across all systems.<br/><br/><ul><li> Support the IAM provisioning team with administering user accounts and access privileges in the organization’s identity management system. </li><li> Troubleshoot and resolve IAM issues. </li><li> Participate in IAM projects and initiatives. </li><li> Work with IT partners, business, and application teams to understand their roles and responsibilities as it pertains to required access rights. </li><li> Create and manage the creation of access roles for business teams. </li><li> Initiate, manage and review IAM access certifications. </li><li> Interface with audit teams to provide evidence of adherence to IAM governance controls. </li><li> Maintain documentation of the IAM processes and procedures. </li><li> Design and update IAM based reporting and metrics to the IAM Manager and stakeholders. </li><li> Provide training to new users on the IAM system when required. </li><li> Update and maintain the IAM system according to changes in the organization’s business needs. </li><li> Maintain up-to-date knowledge of identity and access management best practices. </li><li> Document IAM processes and procedures. </li><li> Demonstrates compliance with all bank regulations for assigned job function and applies to designated job responsibilities – knowledge may be gained through coursework and on-the-job training. Keeps up to date on regulation changes. </li><li> Follows all Bank policies and procedures, compliance regulations, and completes all required annual or job-specific training. </li><li> Maintain a working knowledge of Bank's written policies and procedures regarding Bank Secrecy Act, Regulation CC, Regulation E, Bank Security, and other regulations as applicable to this job description. </li><li> May be asked to coach, mentor, or train others and teach coursework as a subject matter expert. </li><li> Actively learns, demonstrates, and fosters the Umpqua corporate culture in all actions and words. </li><li> Takes personal initiative and is a positive example for others to emulate. </li><li> May perform other duties as assigned. <br/><br/></li></ul><strong>About You:<br/><br/></strong><ul><li> Bachelor’s degree in computer science. </li><li> One years of experience in an information security role or a recent computer science college graduate studying computer science</li><li> A demonstrated track record of making a difference and adding value. </li><li> Strong organization skills with the ability to multi-task. </li><li> Ability to think creatively, highly driven, and self-motivated. </li><li> Creative problem-solving skills. </li><li> Working remotely, must be able to develop relationships across the client organization, working cross functionally to get results. </li><li> Familiarity with IAM Tools such as SailPoint IIQ or Identity Now a plus. </li><li> Familiarity with and adjacent tools a plus, such as Delinia Secret Server, PKI, Azure AD, KeyVault, Azure PIM, Ping, Okta, ServiceNow a plus<br/><br/></li></ul><strong>Our Benefits:<br/><br/></strong>We offer a competitive total rewards package including base wages and comprehensive benefits. The pay range for this role is $48,204.00 to $88,374.00, and the pay rate for the selected candidate is dependent upon a variety of non-discriminatory factors including, but not limited to, job-related knowledge, skills, and experience, education, and geographic location. The role may be eligible for performance-based incentive compensation and those details will be provided during the recruitment process.<br/><br/>We offer eligible associates comprehensive healthcare coverage (medical, dental, and vision plans), a 401(k)-retirement savings plan with employer match for qualifying associate contributions, an employee assistance program, life insurance, disability insurance, tuition assistance, mental health resources, identity theft protection, legal support, auto and home insurance, pet insurance, access to an online discount marketplace, and paid vacation, sick days, volunteer days, and holidays. Benefit eligibility begins the first day of the month following the date of hire for associates who are regularly scheduled to work at least thirty hours weekly.<br/><br/><strong>Our Commitment to Diversity:<br/><br/></strong>Umpqua Bank is an equal opportunity and affirmative action employer committed to employing, engaging, and developing a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, age, sexual orientation, gender identity, gender expression, protected veteran status, disability, or any other applicable protected status or characteristics. If you require an accommodation to complete the application or interview(s), please let us know by email: [email protected]<br/><br/><strong>To Staffing and Recruiting Agencies: <br/><br/></strong>Our posted job opportunities are only intended for individuals seeking employment at Umpqua Bank. Umpqua Bank does not accept unsolicited resumes or applications from agencies and Umpqua Bank will not be responsible for any fees related to unsolicited resume submissions. Staffing and recruiting agencies are not authorized to submit profiles, applications, or resumes to this site or to any Umpqua Bank employee and any such submissions will be considered unsolicited unless requested directly by a member of the Talent Acquisition team.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

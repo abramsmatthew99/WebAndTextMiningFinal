@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Work Mode:<br/><br/></strong>Onsite<br/><br/><strong>Responsibilities:<br/><br/></strong><strong>About Tencent<br/><br/></strong>Tencent is a world-leading internet and technology company that develops innovative products and services to improve the quality of life of people around the world. Founded in 1998 with its headquarters in Shenzhen China, our guiding principle is to use technology for good.<br/><br/>We are not only a major video game publisher in the world, we also produce other high-quality digital content, enriching interactive entertainment experiences for people around the globe. We offer a range of services such as cloud computing, advertising, FinTech, and other enterprise services to support our clients' digital transformation and business growth.<br/><br/><strong>About IEG<br/><br/></strong>Interactive Entertainment Group (IEG) is responsible for the R&amp;D, operation, and development of the company's interactive entertainment business including games and eSports. Through online gaming, live broadcasts, and offline eSports, IEG assists the company in leading the global interactive entertainment market to create better interactive entertainment content experiences for users.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li> Join a highly skilled data science team to solve challenging problems and deliver scalable solutions in game development, publishing, and live-ops. </li><li> Establish scalable, efficient, automated processes and deliver end-to-end data products with large-scale data analysis, experimentation, machine learning model development, validation, and serving. </li><li> Interact cross-functionally with various teams and provide actionable business insights to stakeholders. </li><li> Research new approaches in the field of machine learning, experimentation, statistics, etc. </li><li> Passionate about gaming and the gaming industry!<br/><br/></li></ul><strong>Requirements:<br/><br/></strong><strong>Requirements:<br/><br/></strong><ul><li> Currently enrolled in a Master's or Ph.D. program in computer science, math, statistics, or related quantitative fields such as economics, physics, etc. </li><li> Experience in one or more of the following areas: machine learning, statistics, deep learning, reinforcement learning, experimentation, NLP, computer vision, recommendation system, and other data science domains. </li><li> Good knowledge in data science methods and best practices, such as data analysis, data visualization, machine learning &amp; statistical modeling. </li><li>Experienced in SQL and proficient in Python or other higher-level programming languages. <br/><br/></li></ul>The base pay range for this position in California is $ 24.80 to $ 57.69 per hour.<br/><br/>Actual pay is based on market location and may vary depending on job-related knowledge, skills, and experience. A sign-on payment, relocation package, and restricted stock units may be provided as part of the compensation package, as well as other medical, financial, and/or other benefits, dependent on the specific position offered<br/><br/><em>[DEI Statement]<br/><br/></em><strong>Diversity, Equity &amp; Inclusion at Tencent:<br/><br/></strong>Diversity, equity and inclusion are important, interdependent components of our workplace. As an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Information Technology, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

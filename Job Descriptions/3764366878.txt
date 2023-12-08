@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description:</strong>Who we are:<br/><br/>The Advanced Technology Laboratories (ATL) is a Lockheed Martin applied research and development center. Aligned with the Corporation's Chief Technology Officer, we work to advance scientific discovery and technology transition in human systems, robotics and autonomy, spectrum systems, data analytics and more!<br/><br/><strong>What We Do<br/><br/></strong>Spectrum Systems Lab (SSL) Engineers are hardworking problem solvers with an ability to learn and think creatively! We combine diverse skillsets and backgrounds to deliver groundbreaking technology to our customers, community, and company. We support research and technology development for projects funded externally and internally helping advance the state-of-the-art for Defense and prepare our customers and Lockheed Martin for the future of tomorrow.<br/><br/><strong>What You'll Do<br/><br/></strong>Are you a skilled engineering generalist? Have a knack for cutting edge research? As an engineer at SSL your day-to-day responsibilities vary based on the needs of our programs. We pride ourselves in the flexibility we give to our engineers to pursue research that is of interest to them, and give opportunities for engineers to grow and learn about what others in the lab are doing. Based on our current needs, your skills and the skills you wish to acquire, you could be tasked with any of the following:<br/><br/><ul><li> The design, code and test of software for digital and RF/analog advanced state-of-the-art receivers, transmitters, antennas, and electronic warfare systems.</li><li> Architecting and implementing data engineering pipelines in support of automated analysis of machine learning, sensor processing, and target tracking research prototypes over large data sets.</li><li> Utilize DevSecOps fundamentals to analyze, debug, and integrate RF processing and target tracking software.</li><li> Lead and/or support research projects to innovate and provide new/novel solutions for novel problems.</li><li> Participate in large-scale field tests where our systems are tested on the ground, at sea, and in the air on commercial or military assets.</li><li> Assist in the acquisition of new business by coming up with modern day solutions.<br/><br/></li></ul><strong>Basic Qualifications<br/><br/></strong><ul><li> B.S. from an accredited university in Electrical Engineering, Computer Engineering, Computer Science, Physics or a related field</li><li> 0-2 years experience in the design, development, debugging, testing, or deployment of embedded, FPGA, or integrated devices</li><li> Proficiency with C/C++, Python, Linux, and Git</li><li> Good team working and collaboration skills.</li><li> Ability to obtain a security clearance to at least the Secret level (TS Preferred).<br/><br/></li></ul><strong>Desired Skills<br/><br/></strong>Embedded/Hardware<br/><br/><ul><li> RF test equipment</li><li> FPGA's and digital design</li><li> Linux kernel/driver development</li><li> Embedded C and/or C++ development</li><li> VHDL or Verilog</li><li> Vivado</li><li> Gitlab</li><li> Software-Designed Radios (USRP SDRs, Analog<br/><br/></li></ul>Devices Radios, Directly-Sampled transceivers such as the Xilinx RFSoC and/or Analog Devices MxFE)<br/><br/><ul><li> RF circuit design</li><li> Compilers/Toolchains<br/><br/></li></ul>Research<br/><br/><ul><li> Knack for developing first-of-a-kind solutions to<br/><br/></li></ul>new problems<br/><br/><ul><li>Leading research into state-of-the-art technologies<br/><br/></li></ul>General<br/><br/><ul><li> Awareness of customer mission areas:<br/><br/></li></ul>Electronic Warfare (EW), RF signal intercept, Electronic Support Measures (ESM), Signal Intelligences (SIGINT)<br/><br/><ul><li> Radar signal processing</li><li> Digital signal processing for software and/or<br/><br/></li></ul>FPGA fabric<br/><br/><ul><li> Electromagnetic Theory</li><li> System Administration Experience (Ubuntu<br/><br/></li></ul>and/or RedHat preferred)<br/><br/><ul><li> Project management<br/><br/></li></ul><strong>Security Clearance Statement: </strong>This position requires a government security clearance, you must be a US Citizen for consideration.<br/><br/><strong>Clearance Level: </strong>Secret<br/><br/><strong>Other Important Information You Should Know<br/><br/></strong><strong>Expression of Interest: </strong>By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.<br/><br/><strong>Ability to Work Remotely: </strong>Part-time Remote Telework: The employee selected for this position will work part of their work schedule remotely and part of their work schedule at a designated Lockheed Martin facility. The specific weekly schedule will be discussed during the hiring process.<br/><br/><strong>Work Schedules: </strong>Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.<br/><br/><strong>Schedule for this Position: </strong>4x10 hour day, 3 days off per week<br/><br/><strong>Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.<br/><br/></strong>At Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.<br/><br/>With our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.<br/><br/>If this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.<br/><br/><strong>Experience Level: </strong>4 yr and up College<br/><br/><strong>Business Unit: </strong>ADVANCED TECHNOLOGY LABS<br/><br/><strong>Relocation Available: </strong>Possible<br/><br/><strong>Career Area: </strong>Electrical Engineering<br/><br/><strong>Type: </strong>Full-Time<br/><br/><strong>Shift: </strong>First
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

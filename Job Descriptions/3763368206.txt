@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Link Technologies (LinkTechConsulting.com), is currently seeking a QA Tester for an onsite / permanent opportunity in Las Vegas, NV. This ideal candidate will have experience testing both Windows and mobile applications. Casino gaming experience is desired, but not required.</p><p><strong><em>QUALIFICATIONS</em></strong></p><ul><li>Bachelor’s degree in computer science, engineering, or a related field is required.</li><li>Minimum three (3) years of professional experience in quality assurance.</li><li>Analytical mindset and a strong aptitude for problem-solving are essential.</li><li>Effective communication and collaboration skills within a team setting are crucial.</li></ul><p><br/></p><p><strong><em>REQUIRED SKILLS</em></strong></p><ul><li>Demonstrated expertise in the role of a quality assurance tester or a comparable position.</li><li>Background in project management and familiarity with QA methodology.</li><li>Knowledge of Agile frameworks and an added advantage with experience in regression testing.</li><li>Proficient in documenting and troubleshooting errors.</li><li>Familiarity with test management software, i.e., qTest, Zephyr, and proficiency in SQL.</li><li>Meticulous attention to detail.</li></ul><p><br/></p><p><strong><em>PREFERRED</em></strong></p><ul><li>Casino gaming software testing in a regulatory environment.</li></ul><p><br/></p><p><strong><em>RESPONSIBILITIES</em></strong></p><ul><li>Examine and assess system specifications thoroughly.</li><li>Work closely with product owners to formulate efficient strategies and test plans.</li><li>Implement test cases, whether manual or automated, and scrutinize the outcomes.</li><li>Assess product code in alignment with specified criteria.</li><li>Generate detailed logs to record testing stages and identified defects.</li><li>Communicate discovered bugs and errors to development teams.</li><li>Assist in resolving issues and troubleshooting challenges.</li><li>Conduct post-release and post-implementation testing activities.</li><li>Collaborate with cross-functional teams to uphold quality standards throughout the software development lifecycle.</li></ul><p><br/></p><p>Link Technologies is an equal opportunity employer. All qualified applicants will receive consideration for employment without discrimination based on race, color, religion, sex, gender identity/expression, sexual orientation, national origin, protected veteran status, disability, or any other factors protected by law.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><em><u>Must reside in the greater Jacksonville area</u></em></strong></p><p><br/></p><p>Overview:</p><p>We're seeking a talented Hybrid Data Analyst to join our team in Jacksonville, FL, with the flexibility to work both remotely and on-site. In this role, you will leverage your expertise in Power BI and SQL to analyze and visualize data, providing valuable insights that drive informed decision-making across the organization.</p><p>Responsibilities:</p><ol><li>Data Analysis:</li></ol><ul><li>Utilize SQL to extract, manipulate, and analyze large datasets.</li><li>Employ advanced analytics to uncover trends, patterns, and insights that contribute to business strategy.</li></ul><ol><li>Dashboard Development:</li></ol><ul><li>Design and develop interactive and visually compelling dashboards using Power BI.</li><li>Collaborate with stakeholders to understand reporting requirements and ensure data visualizations meet business needs.</li></ul><ol><li>Data Visualization:</li></ol><ul><li>Translate complex data sets into clear and actionable visualizations for non-technical stakeholders.</li><li>Implement best practices for data visualization to enhance data-driven decision-making.</li></ul><ol><li>Data Quality Assurance:</li></ol><ul><li>Conduct data quality assessments and implement measures to ensure the accuracy and reliability of data used in reporting.</li><li>Collaborate with data engineering teams to address data quality issues.</li></ul><ol><li>Ad Hoc Analysis:</li></ol><ul><li>Perform ad hoc analyses to support business inquiries and provide timely insights.</li><li>Respond to data-related queries and contribute to ongoing data-driven initiatives.</li></ul><p>Qualifications:</p><ul><li>Bachelor's degree in a relevant field such as Computer Science, Statistics, or Business Analytics.</li><li>Proven experience as a Data Analyst with a focus on Power BI and SQL.</li><li>Strong analytical and problem-solving skills.</li><li>Excellent communication skills, with the ability to convey complex findings to non-technical stakeholders.</li></ul><p>Skills:</p><ul><li>Power BI</li><li>SQL</li><li>Data Analysis</li><li>Dashboard Development</li><li>Data Visualization</li><li>Analytical Thinking</li></ul><p>Location: Jacksonville, FL (Hybrid)</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

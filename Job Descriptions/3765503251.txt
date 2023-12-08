@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Netflix is the world’s leading streaming entertainment provider with over 247 million paid subscribers in over 190 countries around the world. This success has depended on an industry-leading engineering organization building cloud-native services with exceptional resilience. Cloud Infrastructure Engineering delivers the platform underneath these services by following three tenets: simple, scalable, speed. We build simple, elegant solutions that are easy to adopt, highly available, and efficient at internet scale, and support rapid development and exploration for engineers across the company.<br/><br/>We are looking for an experienced engineering leader to help grow our foundational Compute platform and deliver key forward-looking initiatives. You will need to guide and grow the team as they deliver our next-generation container runtime and scale adoption across all of Netflix, support the delivery of a new compute abstraction and efficient resource consumption by partner teams in Compute, and ensure that our operating system and base container layer strategy will meet the needs of Netflix for years to come.<br/><br/>The Compute Runtime team delivers the base operating system and runs our managed container runtime fleet in EC2. Developers and platform builders throughout Netflix depend on us and our platform to run their code safely and reliably in production. We participate in upstream Linux kernel development and maintenance to fix bugs we encounter, share back with the community, and ensure that we’re able to get the best possible reliability out of our hosts. We tailor the base Ubuntu distribution to include all the functionality that servers and services need to securely operate in our ecosystem, and tune and upgrade components ahead of Canonical to optimize performance. We develop and operate a suite of host-level services to ensure that our Kubernetes fleet can support dense packing and high task churn. Some of our work spans this spectrum end-to-end!<br/><br/>What you will do<br/><br/><br/><ul><li>Partner to deliver the vision, strategy, and adoption of a standard container runtime and abstraction across Netflix engineering</li><li>Form trusting cross-functional partnerships to align many engineering teams and ensure our solutions meet their needs, selflessly prioritizing work beyond the scope of your own domain</li><li>Build, scale, and grow a team of outstanding engineers, challenge them to bring their best selves to work every day, and deliver industry-leading results in stability, performance, and efficiency</li><li>Balance smart risks, investment in foundational technical work, paying off tech debt, and incremental improvements to deliver timely results across multiple critical strategies<br/><br/><br/></li></ul>What we are looking for<br/><br/><br/><ul><li>An experienced engineering leader who can drive a team of amazing and geographically distributed engineers to do their best work while building and maintaining strong partnerships with peers and stakeholders</li><li>Ability to dive deep as needed to facilitate technical strategy trade-offs at the OS and cloud-hosted server level across different work streams: kernel performance optimization, Linux systems internals investment, novel CPU architecture adoption and system tuning, and identifying the mix of hardware profiles needed to cost-effectively support diverse compute workloads at internet scale</li><li>Experience building and running extremely reliable platform systems supporting high-scale and critical workloads, including running a 24x7 on-call, 99.95+% availability, fast response, and short mean-time-to-restore service</li><li>Bring rigor to decision-making and drive down ambiguity with the right mix of collecting data, seeking input, farming for dissent, and making pilot investments to build understanding or confirm direction</li><li>Proven track record helping a team deliver timely results on critical priorities against many demands for their time, and partnering with product and engineering management to influence the right areas for investment</li><li>Experience building and leading software engineering teams with a focus on inclusion and diversity, ensuring that we can attract and retain the best talent from anywhere and that all voices are heard to inform our direction<br/><br/><br/><br/></li></ul><strong>A Few More Things About Us<br/><br/></strong>As a team, we come from many different backgrounds and countries, and our fields of education range from the humanities to engineering to computer science and we strive to give people the opportunity to wear different hats, should they choose to. We strongly believe this diversity and agility has helped us build an inclusive and empathetic environment, and we are looking forward to adding your perspective to the mix!<br/><br/>Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $180,000 - $900,000.<br/><br/>Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more details about our Benefits here.<br/><br/>Netflix is a unique culture and environment. Learn more here.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Movies, Videos, and Sound, Technology, Information and Internet, and Entertainment Providers
+          </span>
+</li>
+</ul>
+</div>
+</section>

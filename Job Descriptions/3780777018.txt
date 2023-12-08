@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position: Frontend Developer (Elixir/Phoenix)<br/><br/>Location: Dallas, TX (HYbrid)<br/><br/><strong>Responsibilities<br/><br/></strong>Collaborate with Backend Developers: Work closely with Elixir and Phoenix backend developers to integrate frontend components with server-side logic.<br/><br/>Design and Implement User Interfaces: Design and implement user interfaces that are responsive, visually appealing, and provide an exceptional user experience.<br/><br/>Elixir and Phoenix Integration: Leverage Elixir and Phoenix frameworks to build robust and scalable web applications. Ensure seamless communication between the frontend and backend systems.<br/><br/>Frontend Development: Write clean, maintainable, and efficient code using HTML, CSS, and JavaScript (or relevant frontend libraries/frameworks).<br/><br/>Cross-Browser Compatibility: Ensure cross-browser and cross-platform compatibility. Perform testing and debugging to optimize performance.<br/><br/>Responsive Design: Implement responsive design principles to ensure optimal viewing experience across various devices.<br/><br/>Code Reviews: Participate in code reviews to maintain code quality and provide constructive feedback to team members.<br/><br/>Collaborate with UX/UI Designers: Work closely with UX/UI designers to translate design mockups into functional web applications.<br/><br/><strong>Requirements<br/><br/></strong>Proven experience as a Frontend Developer with a focus on Elixir and Phoenix.<br/><br/>Strong proficiency in HTML, CSS, and JavaScript.<br/><br/>Experience with frontend frameworks such as React, Angular, or Vue.js.<br/><br/>Familiarity with Elixir and Phoenix frameworks and the ability to integrate frontend components with Elixir backend systems.<br/><br/>Understanding of web security best practices.<br/><br/>Knowledge of RESTful API design and consumption.<br/><br/>Experience with version control systems (Git).<br/><br/>Excellent problem-solving and debugging skills.<br/><br/>Strong communication and collaboration skills.<br/><br/>Bachelor’s degree in Computer Science, Engineering, or a related field is a plus
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

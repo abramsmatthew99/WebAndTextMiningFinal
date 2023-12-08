@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Sanmina Corporation (Nasdaq: SANM) is a leading integrated manufacturing solutions provider serving the fastest-growing segments of the global Electronics Manufacturing Services (EMS) market. Recognized as a technology leader, Sanmina Corporation provides end-to-end manufacturing solutions, delivering superior quality and support to Original Equipment Manufacturers (OEMs) primarily in the communications networks, defense and aerospace, industrial and semiconductor systems, medical, multimedia, computing and storage, automotive and clean technology sectors. Sanmina Corporation has facilities strategically located in key regions throughout the world.<br/><br/><strong> Information Security Analyst <br/><br/></strong><strong>Job Purpose<br/><br/></strong>Responsible for leading/supporting the security of all systems/networks. This includes detecting/preventing attacks that originate from either inside or outside the company. Ensures employees are kept abreast of current security threats. Training employees on security policies and procedures. Reviews and suggests new security measures aimed at keeping pace with security threats. Coordinates with other departments to ensure new technologies and projects being implemented meet our security requirements. Support/maintain existing security solutions/software. Responsible for managing, directing and training the Security Operations team (e.g. daily activities/requirements/responsibilities, etc..).<br/><br/><strong>Nature Of Duties<br/><br/></strong><strong> Responsibilities include, but are not limited to: <br/><br/></strong><ul><li> Manage and track security project tasks, including but not limited to, security controls development and implementation, security testing and remediation, compliance tracking, and documentation for management and auditing activities </li><li> Support Intrusion Prevention system (IPS) solution </li><li> Support Web Security Platform </li><li> Support Email Security Solutions </li><li> Support Web Application Firewall (WAF) </li><li> Support Zero Trust Network Access (ZTNA) </li><li> Support Firewall policies and changes </li><li> Support Security information and event management (SIEM) solution </li><li> Support Endpoint Security solutions </li><li> Support Incident Response </li><li> Assist in selecting, implementing, and auditing security controls, contingency plan, configuration management, etc. based on guidance documents such as NIST, ISO, etc.. </li><li> Perform security assessment and risk analysis including log auditing and vulnerability scanning . <br/><br/></li></ul><strong>Education And Experience<br/><br/></strong><strong><em> Requirements: <br/><br/></em></strong><ul><li> Bachelor’s Degree in Computer Science with a focus on Information Security or equivalent experience </li><li> 2-5 years hands-on IT Security experience </li><li> Excellent written &amp; verbal communication skills </li><li> Strong presentation skills </li><li> Ability to travel on an as-needed basis </li><li> Security related certifications (CISM, GSEC, Security +, CISSP or working towards CISSP is preferable) </li><li> This position follows a structure where the employee can work remotely. <br/><br/></li></ul>Sanmina is an Equal Opportunity Employer – M/F/Veteran/Disability/Sexual Orientation/Gender Identity
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

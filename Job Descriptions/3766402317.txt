@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Build the future of data. Join the Snowflake team.<br/><br/>There is only one Data Cloud. Snowflake’s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn’t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.<br/><br/>We are investing in initiatives across multiple engineering areas that include: Data Governance, Data Privacy, Database Security, Trust Center, Clean Rooms, Marketplace: Foundation, Monetization, Billing &amp; Payments, and Growth.<br/><br/><strong>AS A SENIOR SOFTWARE ENGINEER, YOU WILL:<br/><br/></strong><ul><li>Design and build features, and/or distributed platforms at scale. </li><li>Drive impactful initiatives for the globally distributed infrastructure</li><li>Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions.<br/><br/><br/></li></ul><strong>OUR IDEAL CANDIDATE WILL HAVE:<br/><br/></strong><ul><li>5+ years industry experience designing, building, and supporting large-scale systems in production.</li><li>Extremely strong fundamental computer science skills.</li><li>Fluency in Java, C++, or Python, and SQL</li><li>Deep multi-faceted appreciation in building end-to-end customer facing products.</li><li>Knowledge of algorithms and data structures. Familiarity with database internals or data governance, and/or payment systems is a huge plus.</li><li>Experience in customer-facing product development and collaboration with cross-functional teams.</li><li>BS/MS/PhD in Computer Science or related majors, or equivalent experience.<br/><br/><br/></li></ul>The following represents the expected range of compensation for this role:<br/><br/><ul><li> The estimated base salary range for this role is $187,000 - $276,000.</li><li>Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.<br/><br/><br/></li></ul>The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending &amp; health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.<br/><br/>Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.<br/><br/>How do you want to make your impact?
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

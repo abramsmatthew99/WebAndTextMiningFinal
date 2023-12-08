@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Internal Audit:</u></strong></p><p> Internal Audit is an independent assurance &amp; risk management function, reporting directly to our client's Audit Committee of the Board, with the mission of protecting their firm &amp; enhancing its control environment. to achieve this objective, our client will work with all businesses to assess internal control processes, identify areas of improvement, and ensure appropriate risk remediation.</p><p> Specific to the IT Auditor role, the Technology Audit Team assesses controls for technology &amp; cybersecurity processes &amp; systems, located both on-premises and in the cloud. Items in scope include business applications, technology software, and infrastructure components, such as networks, operating systems, and databases.</p><p><strong><u>Qualifications:</u></strong></p><ul><li>Bachelor's degree in computer science, information systems</li><li>3-5 years of experience with information technology in Internal Audit, IT operations, IT Risk &amp; compliance, or Information Security in the Financial Services industry</li><li>Technology auditing certification (e.g. CISA) or equivalent</li><li>Working knowledge of general computer &amp; application controls, information security principles, software development lifecycle, business continuity &amp; disaster recovery, an other technology areas including information technology governance standards &amp; industry best practices (e.g. NIST, CIS, MITRE, OWASP, etc.)</li></ul><p><strong><u>Role Description:</u></strong></p><ul><li>Planning - Identity &amp; evaluate key processes, risks &amp; controls; contribute to preparation of audit programs &amp; other procedures to test controls</li><li>Fieldwork - Timely execution, including stakeholder interviews, documentation (e.g. process narratives, walkthroughs, testing, etc.). Assess the design &amp; operating effectiveness of IT controls</li><li>Findings &amp; Issues - Identify &amp; document potential findings &amp; issues</li><li>Reporting - Participate in drafting audit report, including overall risk evaluation of control environment, detailed audit findings &amp; issues</li><li>Coordination &amp; Collaboration - Coordinate &amp; communicate effectively with audit &amp; client contacts to deliver work in a professional &amp; timely manner</li><li>Technology Risk &amp; Control Framework - Leverage technology &amp; financial industry regulations &amp; guidance to assess risks &amp; control design &amp; operating effectiveness</li></ul><p><br/></p><p><strong><em>** Please note: US Citizenship or a Green Card is required</em></strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

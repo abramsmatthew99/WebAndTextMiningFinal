@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong><u>Video Engineer/Incident Manager | REMOTE | Sunday-Wednesday </u></strong></p><p>Looking for someone from a Video/Broadcast background</p><p><br/></p><p>Optomi, in partnership with one of our premiere clients is seeking a Video Engineer/Incident Manager to join their team. The Incident Manager will be part of the Incident Management team supporting the 24x7x365 ongoing operations of the streaming service. The Analyst will provide eyes-on-glass monitoring from within the Direct-to-Consumer Digital Network Operations Center to ensure system availability and will manage any production incidents that occur during their shift. The Analyst ensures that the standard operating procedures are strictly followed for all cases. The Analyst will lead/assist in recovery and process actions on emergency bridges. The Analyst ensures that incidents are resolved in a timely manner, with appropriate actions to mitigate business/customer impact. The Analyst also ensures that business critical incidents receive a post incident review, intended to identify systemic and root cause that requires resolution once the immediate impact is remediated.</p><p><br/></p><p><strong><u>What the Right Candidate will Enjoy:</u></strong></p><ul><li>REMOTE!</li><li>A collaborative and fun atmosphere, and an environment that encourages open communication.</li><li>Working with a company that is diverse, accessible, and collaborative!</li></ul><p><br/></p><p><strong><u>Must Have Skills/ Requirements:</u></strong></p><ul><li>Bachelor’s degree in Computer Science, Information Technology or a relevant field or equivalent work experience.</li><li>Minimum one (1) year experience working in a digital media business, particularly in an operations role</li><li>Technically proficient and able to diagnose and debug complex technical issues quickly</li><li>Ability to follow established processes and workflows to ensure that all work is completed per group standards</li><li>Experience with streaming in a direct-to-consumer video business highly preferred</li><li>Knowledge of video streaming platforms and cloud computing providers a plus</li><li>Exceptional verbal and written communication skills, comfortable communicating with technical and non-technical colleagues and executives</li><li>Ability to understand large complex software systems and their interdependencies</li><li>ITIL Foundation Certification or higher</li><li>Effective at managing multiple issues with conflicting priorities under tight deadlines</li><li>High attention to detail and accuracy</li><li>Strong analytical, organizational, and problem-solving skills</li><li>Strong customer service orientation</li><li>Demonstrated ability to handle multiple tasks with little to no forewarning</li><li>Demonstrated ability to react quickly, lead and perform exceptionally during critical/catastrophic events</li></ul><p><br/></p><p><strong><u>Responsibilities of the right candidate:</u></strong></p><ul><li>Monitor the availability and performance of the end-to-end systems responsible for delivery Direct-to-Consumer platforms</li><li>Acknowledge any system alerts and ensuring that proper engineering teams are notified and engaged to resolve incidents where appropriate</li><li>Ensure all incidents are recorded in ServiceNow and categorized properly</li><li>Assess impact &amp; urgency and compose detailed, accurate impact statements</li><li>Quickly identify needed support teams and engage them for triage and resolution activities</li><li>Coordinate audio conference bridges for major incidents to bring together all teams and vendors required to resolve the incident</li><li>Ensure that incident ticket communication/documentation is accurate, timely, clear, and concise</li><li>Create shift status Executive Summaries highlighting major incidents</li><li>Assist in post incident review activity to create a more efficient incident management process for future incidents</li><li>Assist in Change Management process, reviewing content quality of change requests and ensures that all changes are deployed according to approved schedule.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview Of The Role<br/><br/></strong>Steppingblocks brings big data analytics to higher education with rich data and interactive visualizations. We enable students to make data-driven, efficient decisions regarding their education and career journeys. We also help university administrators better understand outcomes for their graduates to better modify curricula for demanded skills, engage with employers/alumni, and report to relevant stakeholders.<br/><br/>This position serves as the lead technical resource across all customer-facing areas of the company. You will own the support process from receipt of issues through resolution, manage all tasks related to onboarding new customers, perform quality testing, investigate potential problems proactively, and create documentation and training materials. This requires excellent communication skills, technical knowledge, multitasking and organization abilities, and attention to detail. The right candidate will have a strong background in technical support and customer success with the capability to manage competing priorities in a fast-paced, high-growth SaaS startup environment.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Manage the internal technical support process end-to-end, including triaging incoming support tickets, clarifying issues with engineering and product teams, communicating expected resolutions to customers, and closing tickets. </li><li>Lead all customer onboarding and implementation tasks such as portal setup, customizations, account investigations, university catalog uploads, and any other integration needs. </li><li>Perform quality assurance testing on applications by executing test plans before major releases and bug fixes. Log and track all test results. </li><li>Proactively investigate potential customer issues and validate reported problems by reviewing FullStory session replays. </li><li>Create, maintain, and improve the knowledge base by writing technical support articles and documentation on products, features, implementations, troubleshooting, and frequently asked questions. <br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>Bachelor’s degree in computer science, information technology, or related field </li><li>2+ years in a technical support or customer success role </li><li>Excellent verbal and written communication abilities </li><li>Strong analytical and troubleshooting skills </li><li>High attention to detail and organization </li><li>Knowledge of QA testing processes and documentation </li><li>Ability to self-manage and prioritize effectively in a fast-paced environment </li><li>Comfort learning new systems and technologies quickly <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience with SaaS applications and edtech products </li><li>Familiarity with knowledge base platforms and technical writing <br/><br/></li></ul><strong>Perks<br/><br/></strong><ul><li>Unlimited PTO </li><li>Great medical, dental and vision benefits </li><li>Professional development stipend</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

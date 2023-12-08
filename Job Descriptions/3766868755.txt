@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        A recognized services organization in North Carolina is currently seeking a new System Administrator I to join their growing team in Charlotte.<br/><br/>***This is a Hybrid opportunity requiring the qualified professional to work onsite at least 3 days a week.***<br/><br/><strong>Responsibilities<br/><br/></strong>The System Administrator I will:<br/><br/><ul><li>Assist with file transfer platform design and security enhancements </li><li>Support application installation on Windows OS </li><li>Work as Tier I support of enterprise transfer platforms </li><li>Fulfill account or access creation requests </li><li>Troubleshoot client connection and file transfer failures </li><li>Support platform security hardening and standardization efforts for file transfer platform and NAS platforms </li><li>Perform other duties, as needed <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>1+ year of relevant work experience within the IT realm </li><li>Bachelor's Degree in Computer Science or related field <br/><br/></li></ul><strong>Desired Skills:<br/><br/></strong><ul><li>Strong foundation in Windows OS administration </li><li>High level understanding of file transfer protocols SFTP, HTTPS, FTPS, AS2 and others </li><li>Experience with file transfer clients, FileZilla, WinSCP and Linux command line </li><li>Solid understanding of file access protocols SMB/CIFS and NFS </li><li>Solid understanding of file level security </li><li>Experience with Active Directory and LDAP </li><li>Experience with Internet Protocol, (IP) ports and network concepts, including firewalls, routing, switching and load balancers </li><li>Solid understanding of SSH certificate and or public/private key pair use and creation </li><li>Experience with Bash Shell, Python and or PowerShell scripting </li><li>Experience with virtualization platforms </li><li>Solid understanding of storage platforms NAS and SAN </li><li>Skills with Basic Oracle and or SQL database administration</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

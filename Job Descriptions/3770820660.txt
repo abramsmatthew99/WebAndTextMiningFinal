@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Leidos is seeking an experienced<strong> System Administrator</strong> to join our Infrastructure and Lab Engineering team in support of our Transportation Solutions Air Traffic Control customers. This position is responsible for the daily maintenance &amp; sustainment of our software development and test labs. We serve as a liaison between various engineering functional areas and create and implement innovative solutions using current and emerging technologies. Additional responsibilities include the analysis and evaluation of user issues and development of system recommendations to meet requirements. Using our technical processes, we ensure technical compliance with contracts while also maintain developing new and improved system functions. Candidate will also coordinate with business and technology teams to ascertain system requirements, such as program functions, output requirements, input data acquisitions, execution of user acceptance, and may coordinate testing and system controls.<br/><br/><strong>System Administrator Duties Include<br/><br/></strong><ul><li> Interfacing with software and system engineers to design infrastructure solutions to meet development and testing requirements.</li><li> Effectively designing and implementing lab environment capacity and security requirements. Creating and using automation methods to perform installation, configuration, and administration of Linux and Windows systems.</li><li> Creating and overseeing the implementation of system level architectural lab plans for servers, workstations, storage, and associated networks.</li><li> Working closely with Engineering leads to gather system requirements and create plans to implement the requirements.</li><li> Providing troubleshooting expertise to complex system issues with time critical impacts if not fixed quickly.</li><li> Creating and consulting on documentation for contract delivery.</li><li> Working with Corporate IT groups to ensure program labs are secure while having the access needed across various WANs to be able to meet contract requirements.</li><li> Associated Corporate IT responsibilities include providing required network ports and protocols in order to create firewall policies.</li><li> Some systems integration duties such as identifying, debugging, and resolving software and system issues, working across the various system functions and threads, writing tools/productivity aids to help manage the various systems, creating scripts/tools to automate job functions, providing System Owner Support, and learning system architecture, design, functions, and capabilities to support the integration and test of the new capabilities and enhancements.<br/><br/></li></ul>Note: Systems mentioned will be both physical and virtual with external connectivity to outside sources including the cloud. Once a system is installed, this position requires providing critical system integration support to software and system engineering teams. Drawing upon OS, SAN, Cloud, Security, Scripting and Systems Integration expertise, this position will provide contract milestone support to software and system engineering groups to ensure the implemented solution meets contract requirements.<br/><br/><strong>System Administrator Responsibilities<br/><br/></strong><ul><li> Routine backups of data to disk drives, tapes, &amp; network storage: NetApp, QNAP, and Backula</li><li> Administration of root passwords, user IDs, &amp; file systems</li><li> Interface with subcontractors who require access to the labs</li><li> Provide lab support to Leidos employees located at customer sites</li><li> Manage the distribution, installation, and deletion of software releases</li><li> Interface with various functional teams such as integration, test, software, etc.</li><li> Continually improve and automate methods of maintaining labs</li><li> Constantly monitor the health of the labs throughout the evolving program life cycles</li><li> Interface with network engineering and security teams to ensure accessibility and security of the labs is sufficient to support our mission while protecting sensitive data<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor of Science degree in a related field (Computer Science, Software Engineering, etc.) or equivalent military and/or work experience and minimum of 8+ years of prior relevant experience or master’s degree with less than 6+ years of prior relevant experience.</li><li> Candidate must be able to obtain an SF-85P Public Trust clearance from the FAA customer</li><li> Attention to detail regarding quality of work, documentation, work planning</li><li> Ability to work independently and as part of a team</li><li> Ability to apply discretion and judgment and invoke sound engineering principles, theories, and concepts to complete assignments</li><li> Moderate understanding of network layers, WANs/LANs/VLANs, subnetting, addressing, &amp; network protocols (focusing on Cisco &amp; Aruba devices)</li><li> Working knowledge of switch configurations: Cisco and HP</li><li> Working knowledge of Linux: Red Hat Enterprise Linux and Ubuntu</li><li> Experience with VMWare vSphere, VMWare vCenter, &amp; the administration of virtual labs</li><li> Experience using VNC Viewer and/or Guacamole</li><li> Shell scripting experience</li><li> Working knowledge and real-world experience with systems integration, security hardening / engineering, development of tools &amp; productivity aides, and vulnerability scanning &amp; remediation</li><li> Desire to pick up additional systems engineering and/or software engineering tasks in support of growing this role and the value we provide to our customers</li><li> Management of user accounts using IPA / LDAP<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li> Ability to read and create high level diagrams, network diagrams, &amp; cable marking specifications</li><li> Ability to diagnose/triage and resolve basic HW issues</li><li> Understanding of the systems development life cycle (SDLC), with focus on development labs from design to implementation to maintenance to decommission</li><li> Senior Level of Experience with the following tools &amp; technologies.</li><li> CD/CI using GIT build, diagnose and fix compilation errors.</li><li> Sikuli Administration</li><li> Coverity Administration</li><li> Working knowledge of Atlassian software and code inspection tools</li><li> Ansible script development, troubleshooting.</li><li> VMWare ESXi administration</li><li> Linix/AIX Administration</li><li> Administration and implementation experience of systems running Linux: AIX, Red Hat, and Ubuntu</li><li> Administration and implementation experience of systems running Windows / Windows Server, including Microsoft Active Directory, Exchange, and Windows Terminal Services</li><li> Administration and implementation experience of systems running on Amazon Web Services, including Elastic Compute Cloud (EC2), Elastic Block Store (EBS), and Glacier<br/><br/></li></ul><strong>Note<br/><br/></strong>This job requires a reliable on-site presence to support program development &amp; test labs, which are comprised of a variety of computing equipment. Occasional on-call support may be required. Candidate may be responsible for establishing and conducting test routines, developing or executing project plans &amp; schedules, and documenting work.<br/><br/>TSFAA<br/><br/><strong>Pay Range<br/><br/></strong>Pay Range $84,500.00 - $152,750.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Valera Health is a leading tele-mental health service provider, utilizing cutting-edge digital technology and carefully cultivated teams to deliver top-tier, behavioral healthcare. We believe that mental health care should be simple, accessible, and affordable.<br/><br/><strong>Why Valera:<br/><br/></strong><strong>Our Purpose: </strong>to provide compassionate mental health care to those who need it the most, when they need it the most.<br/><br/><strong>Mission Driven: </strong>We know that behavioral healthcare isn't one-size-fits-all, and we've tailored our complete care model to meet the needs of the individual. We believe that no one should be excluded from receiving the care they need, and our diverse team reflects the change we bring to the space.<br/><br/><strong>Culture: </strong>At the core of our culture lies a profound commitment to fostering a spirit of teamwork, dedication to continuous learning, a devotion to integrity, and a pursuit of delivering the highest quality mental healthcare services. Our ethos is rooted in nurturing your personal and professional growth, as we champion the principles of inclusivity and equity in all that we do.<br/><br/>Watch to learn more about Valera Health here!<br/><br/><strong>About You:<br/><br/></strong>We are seeking a hybrid New York City based Data Analyst to join our rapidly growing organization in a strategic capacity. This is a hybrid role working from both our coworking office space in Williamsburg, Brooklyn and from home. Be part of a compassionate care team dedicated to elevating mental health care. We provide the technology and systems you need to work efficiently and effectively.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Work with large data sets and build metrics to provide meaningful insights to leadership around Clinical Outcomes, Revenue Cycle Management, Finance, Business Development, and Marketing</li><li>Identify key insights to further leverage claims and other business measure data</li><li>Build and maintain internal facing, self service dashboards to support day to day decisions for department leads</li><li>Develop end to end processes around the collection, integration and reporting of data from new and existing vendors and partnerships</li><li>Partner with department leads to understand and improve current clinical and operational practices and workflows</li><li>Communicate technical information in an accessible executive and partner facing manner in both verbal presentations to an organization's leadership to communicate key findings and updates on business process adjustments</li><li>Perform technical tasks such as creating business requirements documents, user training manuals and guides, and requirements traceability</li><li>Conduct in-depth data analysis using SQL, AWS tools, Python, and spreadsheets</li><li>Periodically review the progress of any recommended and implemented changes to see if they're still on track, and repeating the above steps as needed to ensure continuous improvement</li><li>Ad hoc projects as requested by the manager<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><strong>Required:<br/><br/></strong><ul><li>Bachelor in Computer Science, Finance, or related field</li><li>1-5 years of Analytics experience at a technology-focused organization, high-growth startup, healthcare company, or similar background</li><li>Hands on experience working with non-technical end-business users, not limited to crafting requirements, designing dashboards and communicating technical terms and limitations</li><li>Advanced in SQL (AWS Athena, Presto, PostgreSQL or other SQL)</li><li>Python experience, specifically relating to external API integrations and simple data processing using AWS Lambda or other serverless cloud platforms</li><li>Proficient in Excel (data manipulation, vlookup, index match)</li><li>Experience building impactful BI dashboards (Quicksight, Tableau, Looker, Excel, etc.)</li><li>Experience working in full end-to-end analytics cycle - data management, cleaning/processing, analysis, visualization<br/><br/></li></ul><strong>Preferred:<br/><br/></strong><ul><li>Experience working with EHR, claims, marketing data from both tabular and JSON data structures</li><li>Familiarity with clinical coding (ICD-10, CPT), medication (NDC, RxNorm), and health insurance components </li><li>Prior experience or eagerness to learn Amazon Web Service tools (S3, Athena, Lambda, and Cloudwatch, among others)</li><li>Collaborative working style with the ability to work independently in a remote environment</li><li>Interested in exploring and implementing new approaches or tools, and is highly adaptable</li><li>Brings a forward thinking, self-service and automation first mindset to improve reporting capabilities</li><li>Strong organizational skills, keen eye for details and innate problem-solving skills</li><li>Understanding of version control processes using GitHub in a shared codebase</li><li>Interest in developing &amp; implementing of advanced analytical models</li><li>Experience working with Google Ads</li><li>Familiarity with Atlassian services (Confluence, JIRA) and/or Agile-based methods<br/><br/></li></ul>Fair work deserves fair wages. At Valera, we value this role at between 85k-120k with the potential for an annual performance bonus based on experience.<br/><br/>Benefits include but not limited to:<br/><br/><ul><li>Health Insurance</li><li>Vision/Dental</li><li>401k</li><li>Paid Time Off</li><li>STD</li><li>Life Insurance</li><li>And many more<br/><br/></li></ul>Be part of our mission!<br/><br/>We are very proud of the work that we do and it takes a great team to make it happen! If you are interested in one of our open positions, we'd love to start the conversation.<br/><br/>We hire people from all backgrounds because that's what it takes to build a team that can reach and support those in need of high-quality behavioral healthcare. We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law.<br/><br/>Check us out on Linkedin!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

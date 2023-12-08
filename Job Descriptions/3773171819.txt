@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        $23-$25/hr<br/><br/>This Job Listing is for Full Time Position<br/><br/>We are a computer repair store that specializes in providing repair and data recovery services to both consumers and small businesses. We are currently seeking an experienced IT Technician to join our team. The ideal candidate should have expertise in IT Support and computer repair.<br/><br/><strong>Shift:</strong> M-F 9am-5pm<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li>Diagnose and troubleshoot hardware and software issues on desktops, laptops, printers, and other peripherals</li><li>Repair and replace damaged or malfunctioning computer components, including hard drives, RAM, motherboards, and power supplies</li><li>Install and configure operating systems, software applications, and drivers</li><li> Travel On-Site as needed to residential and small business customers for troubleshooting, setup and repair</li><li>Perform data backup and recovery operations</li><li>Provide technical support and assistance to end-users via phone, email, or in-person</li><li>Monitor and maintain computer systems and networks to ensure maximum uptime and availability</li><li>Maintain inventory of computer equipment and supplies</li><li>Document all repairs and maintenance activities in the ticketing system and maintain accurate records<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>At least 1 year of experience using a Ticketing / CRM system</li><li>At least 2 yrs prior performing laptop repair</li><li>Proficiency in both Mac and PC systems</li><li>High school diploma or equivalent. An associate degree or technical certification in computer science, information technology, or a related field is preferred</li><li>Proven experience in computer repair, troubleshooting, and technical support</li><li>Familiarity with operating systems, software applications, and hardware components</li><li>Excellent problem-solving and analytical skills</li><li>Strong communication and interpersonal skills</li><li>Ability to work independently and as part of a team</li><li>Strong attention to detail and ability to follow instructions</li><li>Ability to lift and move computer equipment weighing up to 50 pounds<br/><br/></li></ul><strong>If you meet the above qualifications and are passionate about providing excellent customer service, we encourage you to apply for this exciting opportunity!</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

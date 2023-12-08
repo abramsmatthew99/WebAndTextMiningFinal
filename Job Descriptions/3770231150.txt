@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Programmable DNA, the software of Life, is finally here! Twist Bioscience is developing a disruptive Synthetic DNA technology that will change the world, enabling widespread health and sustainability. Synthetic biologists use our products to engineer how organisms produce cures to diseases; everyday chemicals are made using the atmosphere as the carbon source; plants make their own fertilizers; in-vivo diagnostics will alert us when we are sick, and many more applications.<br/><br/>Twist Biopharma is seeking an Associate Bioinformatics Engineer to develop and integrate workflows, analyses, and computational tools involved in the production and research of antibodies and proteins. While you have a broad interest in biotech and related scientific technologies, you also understand that computer science resources must be utilized to reach the scale required for our most complex solutions. The ideal candidate has computational/software/bioinformatics experience, and a basic knowledge of biology, DNA, antibody development, or protein sciences. He or she is comfortable with Python and JavaScript and will assist in the development of cutting-edge machine-learning applications, databases, and reports using modern tools, software development techniques, and coding best practices.<br/><br/>Responsibilities:<br/><br/><ul><li>Implement and maintain robust code to automate lab workflows.</li><li>Design and implement simple web GUI interfaces for internal applications.</li><li>Set-up, securely deploy and run scalable internal applications on cloud infrastructure.</li><li>Collaborate with scientists, data scientists, and engineers to create applications for data processing and validation; statistical and machine-learning predictions; order design.</li><li>Collect internal/external data, via notebooks and APIs, into queryable SQL databases.</li><li>Apply software engineering best practices to scale NGS, sequence annotation, and other pipelines from research to production; create unit tests, Docker containers, etc.</li><li>Troubleshoot complex issues quickly and effectively; supplement computational support across a range of operational requests involving visualization, workflows, datasets.</li><li>Install, run, and incorporate open-source packages to support technology development at scale.<br/><br/></li></ul>Required Experience:<br/><br/><ul><li>BS or MS in Computer Science, Bioinformatics, or related scientific/engineering field</li><li>0 - 1 years professional software development experience</li><li>Fluency with software development best practices such as distributed version control, automated testing, and CI/CD.</li><li>Front-end technology: Expertise in front-end technologies, including JavaScript, CSS3 and HTML5 and third-party libraries, specifically React JS, Tailwind CSS. Proficient in the development of unit tests including effect assets and mocks using libraries like Jest.</li><li>Back-end technology: Familiar with backend-end technologies and build REST APIs using python and popular backend frameworks like Django, Django-restframework,</li><li>Database technology: Familiar with PostgreSQL database and PGAdmin</li><li>Familiarity with code versioning tools and concepts like git, Github, trunk-based development</li><li>Familiar with CI/CD tools like Drone and Kubernetes</li><li>Ability to effectively communicate and work with on-site and off-site teams using Slack, JIRA, and Confluence<br/><br/></li></ul>Preferred Experience:<br/><br/><ul><li>Experience with CI/CD tools like Docker, Kubernetes, and Drone</li><li>Experience with common DNA or protein sequence data analysis tools (e.g. bwa, samtools, etc.) and file formats (FASTA, FASTQ, BAM, VCF, BED)</li><li>Familiarity with at least one of: antibody or protein development, NGS, Sanger sequencing</li><li>Understanding of IaaS, SaaS: e.g. AWS S3, EC2, Databricks, Snowflake, Seven Bridges</li><li>Experience with Python packaging or Docker; packages with tests</li><li>A passion for biotech, applications of synthetic biology in healthcare<br/><br/></li></ul>Location:<br/><br/><ul><li> Hybrid South SF / Bay Area </li><li> Local candidates preferred, but not required <br/><br/></li></ul><strong>About Twist Bioscience<br/><br/></strong>Twist Bioscience synthesizes genes from scratch, known as “writing” DNA. Just as children learn to both read and write, the next phase of development for the genomics revolution is the ability to write DNA.<br/><br/>At Twist Bioscience, we work in service of people who are changing the world for the better. In fields such as health care, agriculture, industrial chemicals and data storage, our unique silicon-based DNA Synthesis Platform provides precision at a scale that is otherwise unavailable to our customers.<br/><br/>Twist Bioscience Corporation is an Equal Opportunity Employer. Twist Bioscience Corporation provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic characteristics, or any other category protected by law.<br/><br/>The base cash compensation for this California-based role is below. In addition to base salary, this role is eligible for bonus, equity, and a generous benefits package. Final compensation amounts are determined by multiple factors, including candidate skill, experience, expertise, and location and may vary from the amount listed above. Compensation may be different in other locations.<br/><br/>San Francisco Bay Area Pay Range<br/><br/>$80,535 — $85,500 USD
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Biotechnology Research
+          </span>
+</li>
+</ul>
+</div>
+</section>

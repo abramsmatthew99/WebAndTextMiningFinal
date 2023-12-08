@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Vice President of Data &amp; AI - W2 contract </strong></p><p><strong>Contract: </strong>24 months initial</p><p><strong>Rate:</strong> $200-$240 p/h</p><p><strong>Location: </strong>Boston 4 days onsite / 1 days remote - Will relax after 3 months</p><p><br/></p><p>My client is looking for a VP of Data &amp; AI for a critical stage for their business. The position will need someone with strong technical experience in Cloud and AI as well as good leadership coupled with building teams and divisions. </p><p><strong>Responsibilities:</strong></p><ul><li>Provide visionary leadership in the development and execution of data and AI strategies aligned with business goals.</li><li>Drive innovation in AI technologies, exploring and implementing cutting-edge solutions.</li><li>Demonstrate an expert understanding of AWS services, with a particular focus on AWS SageMaker for machine learning and AI.</li><li>Architect scalable and efficient data and AI solutions on the AWS cloud platform.</li><li>Oversee the development and deployment of machine learning models and algorithms.</li><li>Leverage AI and large language models (LLM) to enhance data analytics and decision-making processes.</li><li>Bring hands-on experience in managing data and AI initiatives during periods of hyperscale growth.</li><li>Develop and implement strategies to handle increased data volume, complexity, and demand.</li><li>Engage and collaborate with senior stakeholders, presenting data and AI strategies, progress, and impact.</li><li>Build strong relationships with cross-functional teams to ensure alignment with business objectives.</li><li>Lead the planning and execution of data and AI projects, ensuring on-time delivery and successful outcomes.</li><li>Implement best practices in project management methodologies to optimize efficiency.</li></ul><p><strong>Qualifications:</strong></p><ul><li>Proven experience in a senior leadership role focused on data and AI.</li><li>Extensive expertise in AWS services, particularly AWS SageMaker.</li><li>Deep understanding of AI, LLM, and machine learning technologies.</li><li>Track record of success in managing data and AI initiatives during periods of rapid growth.</li><li>Strong communication and presentation skills for engaging with senior stakeholders.</li><li>Strategic thinker with excellent project planning and execution capabilities.</li><li>Advanced degree in a relevant field (e.g., Computer Science, Data Science, AI).</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

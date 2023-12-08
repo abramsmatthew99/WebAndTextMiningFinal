@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Description<br/><br/><strong>Join Our Team as a Web Developer I at Cold Spring Harbor Laboratory!<br/><br/></strong>As a Web Developer I at Cold Spring Harbor Laboratory (CSHL) you will play a crucial role in developing and maintaining web applications that drive our organization’s objectives. This position requires a strong foundation in both client-side and server-side programming, with a focus on creating efficient and user-friendly solutions.<br/><br/>Position Responsibilities<br/><br/><ul><li>stakeholders to understand and translate user requirements into functional software. </li><li>Design, code, test, and debug solutions for multiple projects in a full-stack environment. </li><li>Maintain and enhance existing websites and applications as needed. </li><li>Stay abreast of emerging technologies and adapt to changes in platforms. <br/><br/></li></ul>Position Requirements<br/><br/>Technical Skills:<br/><br/><ul><li>Strong experience with PHP programming language. </li><li>Database-driven web application development (MySQL, MariaDB, MS SQL Server, or similar). </li><li>Proficiency in JavaScript/jQuery, HTML, CSS, and responsive frameworks (Bootstrap or equivalent). </li><li>Familiarity with open source web CMSs such as WordPress. </li><li>Working knowledge of MVC framework in PHP is a plus. </li><li>Experience with version control systems (Git or similar) is a plus. </li><li>Ability to collaborate with designers for dynamic user experiences. </li><li>Design and development of Restful APIs. </li><li>Working knowledge of JSON and XML. </li><li>Experience with SQA testing to ensure responsiveness and efficiency. </li><li>Familiarity with web application security best practices. <br/><br/></li></ul>Education:<br/><br/><ul><li>Bachelor’s degree in computer science or a related area. <br/><br/></li></ul>Experience:<br/><br/><ul><li>2-4 years of professional experience in web development. <br/><br/></li></ul>Supplemental Information<br/><br/><strong>Why Join Cold Spring Harbor Laboratory?<br/><br/></strong><ul><li>Opportunity to work in a world-renowned research institution. </li><li>Collaborative and inclusive work environment. </li><li>Career development and growth opportunities. <br/><br/></li></ul>If you are a results-oriented and self-motivated individual with a passion for web development, we encourage you to apply. Please submit an online application here:<br/><br/>Position ID: 719. Don't miss this exciting opportunity to contribute your Web Developer expertise to a world-class research institution.<br/><br/><strong>Compensation And Benefits<br/><br/></strong>Our employees are compensated in many ways for their contributions to our mission, including competitive pay, exceptional health benefits, retirement plans, time off, a range of recognition, wellness programs, and access to an affordable and licensed on-site childcare center. Visit our CSHL Benefits site to learn more. The hourly rate for this role is $75,000-$85,000. The salary range or hourly rate listed is a good faith determination of potential base compensation that may be offered to a successful applicant for this position at the time of this job advertisement and may be modified in the future. When determining a base salary and/or rate, several factors may be considered as applicable (e.g., years of relevant experience, education, credentials, and internal equity).<br/><br/><strong>Environment<br/><br/></strong>Cold Spring Harbor Laboratory is a world-renowned biomedical research institution in New York. It has shaped contemporary biomedical research and is the home of eight Nobel Prize laureates. Cold Spring Harbor Laboratory provides a highly dynamic and interactive research environment and also a unique opportunity of timely exposure to advances in various biomedical research fields and of interaction with a broad range of researchers from all over the world through its renowned Meetings and Courses program.<br/><br/>We believe that science is for everyone. We have had researchers with a variety of backgrounds and believe in the importance of diversity, equity, and inclusion.<br/><br/>CSHL is an EO/AA Employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status. VEVRAA Federal Contractor<br/><br/>Our employees are compensated in many ways for their contributions to our mission, including competitive pay, exceptional health benefits, retirement plans, paid time off, a Wellness Center and access to an affordable and licensed on-site childcare center. Visit our
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Food and Beverage Services, Education Administration Programs, and Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

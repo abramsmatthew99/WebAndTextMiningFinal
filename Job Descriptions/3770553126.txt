@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We're hiring M<strong>achine Learning</strong> <strong>Engineers</strong> with expertise in predictive statistics, analytics and modeling. Because you will be working with medical and biological datasets, some background in biomedical sciences is ideal. A deep background in Bayesian methods is highly desirable, as is fluency in R.‍<br/><br/><strong>With ICR, You'll Get To<br/><br/></strong><ul><li>Be part of a team that is trying to redefine personalized preventive and regenerative medicine</li><li>Apply cutting-edge machine learning, data science and biostatistical techniques to detect human age-related diseases as early as possible</li><li>Use your creativity to solve challenging problems<br/><br/><br/></li></ul><strong>You'll Also Need<br/><br/></strong><ul><li>The ability to work in the United States without sponsorship</li><li>A can-do attitude and a friendly, easygoing personality<br/><br/><br/></li></ul>Salary<br/><br/><strong>Starting base pay range:</strong> $145,000/yr - $210,000/yr<br/><br/><strong>Starting additional compensation range:</strong> $8,000/yr - $25,000/yr
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet News
+          </span>
+</li>
+</ul>
+</div>
+</section>

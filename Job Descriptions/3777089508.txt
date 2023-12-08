@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Requisition ID #<br/><br/></strong>23WD72866<br/><br/><strong>Position Overview <br/><br/></strong>You can gain real-world working experience as part of a team developing the technology that enables Autodesk products to exchange data between a variety of Autodesk applications and workflows.  As a Software Development Intern at Autodesk, you will work under the guidance of a senior software engineer mentor to design and implement software components to exercise data exchange workflows. These will be a model from which other developers can be inspired to learn from and build their own components with.<br/><br/>  <br/><br/>This position is for an entry-level software engineering college student.  You will report to a PSET Engineering Software Development Manager and will work with software engineers and software architects. Background should include Java, C#, or Python programming experience. <br/><br/>            <br/><br/><strong>Responsibilities <br/><br/></strong><ul><li>You will perform the following tasks under the guidance of your assigned faculty advisor and Autodesk mentor:  </li><li>Collaborate with the team to develop software to guide data exchange workflows. </li><li>Design and develop software components that exercise data exchange workflows. </li><li>Collaborate with the product development team to ensure the software components are reusable and well documented to support third-party developers <br/><br/></li></ul><strong>Minimum Qualifications <br/><br/></strong><ul><li>Currently pursue a bachelors in Computer Science, Engineering, Math or similar degree program</li><li>Completed course work and projects using Java programming and object-oriented design   </li><li>Ability to work in team environment as a team player and a self-starter   </li><li>Strong interpersonal skills   </li><li>Excellent verbal and written communication skills  <br/><br/></li></ul>  <br/><br/><strong>Learn More<br/><br/></strong><strong>About Autodesk<br/><br/></strong>Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.<br/><br/>We take great pride in our culture here at Autodesk – our Culture Code is at the core of everything we do. Our values and ways of working help our people thrive and realize their potential, which leads to even better outcomes for our customers.<br/><br/>When you’re an Autodesker, you can be your whole, authentic self and do meaningful work that helps build a better future for all. Ready to shape the world and your future? Join us!<br/><br/><strong>Salary Transparency<br/><br/></strong>Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience, educational level, and geographic location, and can exceed this range.<br/><br/>For U.S.-based roles, we expect a starting annualized intern base salary to be between:<br/><br/><ul><li>$47,840 and $95,680 (undergraduate students)</li><li>$72,800 and $118,500 (Masters/MBA students)</li><li>$118,560 and $162,240 (PhD students)<br/><br/></li></ul><strong>Equal Employment Opportunity <br/><br/></strong>At Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.<br/><br/><strong>Diversity &amp; Belonging<br/><br/></strong>We take pride in cultivating a culture of belonging and an equitable workplace where everyone can thrive. Learn more here: https://www.autodesk.com/company/diversity-and-belonging
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Design Services, and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

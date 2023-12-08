@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Introduction<br/><br/></strong><strong>Introduction to the job<br/><br/></strong>We are seeking a motivated and detail-oriented individual for an internship position focused on analyzing machine logs to derive status overviews and contribute to industrialization improvements. The candidate will work closely with our team to extract valuable insights from machine-generated data, aiming to enhance operational efficiency and identify areas for optimization within our industrial processes.<br/><br/>This position requires access to controlled technology, as defined in the Export Administration Regulations (15 C.F.R.<br/><br/><ul><li>730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.<br/><br/></li></ul><strong>Role And Responsibilities<br/><br/></strong>RAISE stands for <strong>R</strong>eactive <strong>A</strong>nalysis &amp; <strong>I</strong>dentification of <strong>S</strong>oftware Errors, this is a process/framework that by capturing event logs of specific machine tests we can create a status overview for industrialization improvement purposes.<br/><br/>In other words, we can quantify the problems impacting machine tests and provide improvement ideas to prevent future issues.<br/><br/><ul><li> Machine Log Analysis<br/><br/></li></ul>Assist in collecting, parsing, and analyzing machine-generated logs to understand operational status and performance.<br/><br/>Gain proficiency in log analysis tools and techniques to extract relevant information from data streams.<br/><br/><ul><li> Status Overview Creation<br/><br/></li></ul>Work collaboratively with the team to develop summaries and visual representations of machine status and performance.<br/><br/>Help in creating dashboards or reports that provide an overview of machine operations and identify key trends.<br/><br/><ul><li> Data Validation and Quality Assurance<br/><br/></li></ul>Support in verifying the accuracy and integrity of machine log data through validation and quality assurance processes.<br/><br/>Assist in identifying and resolving discrepancies or inconsistencies in the data.<br/><br/><ul><li> Insights and Recommendations<br/><br/></li></ul>Aid in interpreting data insights to identify potential areas for improvement in industrial processes.<br/><br/>Contribute ideas and suggestions based on data analysis to enhance operational efficiency and productivity.<br/><br/><ul><li> Documentation and Reporting<br/><br/></li></ul>Assist in documenting analysis methodologies, findings, and recommendations in reports or presentations.<br/><br/>Help in formatting and visualizing data for clear and concise reporting purposes.<br/><br/><strong>Education And Experience<br/><br/></strong>Univerity/College Student<br/><br/>Pursuing a Bachelor's degree in Data Science, Computer Science, Engineering, or a related field. Students from diverse backgrounds are encouraged to apply.<br/><br/><strong>Skills<br/><br/></strong><em>data science / data engineering studies, with python and databases knowledge<br/><br/></em>Basic knowledge of data analysis tools such as Python, Excel, or any other relevant software. Familiarity with data visualization tools (e.g., Power BI, Spotfire) is a plus.<br/><br/>Strong analytical skills, with an eye for detail. Excellent communication skills and the ability to work collaboratively within a team. Eagerness to learn and adapt to new tools, techniques, and industrial processes.<br/><br/><strong>Diversity and inclusion<br/><br/></strong>ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.<br/><br/><strong>Other Information<br/><br/></strong>This internship offers an excellent opportunity to gain practical experience in analyzing machine logs, deriving insights, and contributing to industrialization improvements within our organization. The role emphasizes hands-on learning, data analysis, and collaborative efforts to drive operational enhancements.<br/><br/>EOE AA M/F/Veteran/Disability<br/><br/>Need to know more about applying for a job at ASML? Read our frequently asked questions.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Nanotechnology Research, Semiconductor Manufacturing, and Industrial Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

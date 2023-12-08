@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        What you'll do<br/><br/>When our square shaped burgers made their first sizzle on the scene more than 50 years ago, people knew our approach wasn’t like any other. Same goes for the way we support our employees. Our culture of openness, flexibility, and inclusiveness allows everybody to flourish in their own way. If you’re looking for a career where you can be part of the action as we continue to grow our iconic brand - We got you!<br/><br/>The <strong>Sr Engineer - Data Science</strong> will focus on applying data mining techniques, performing statistical analysis to turn data into information, and building a high-quality prediction system to enhance restaurant operations. Selecting and employing advanced statistical procedures to obtain actionable insights. Cross-validating models to ensure their generalizability. Producing and disseminating non-technical reports that detail the successes and limitations of each project. Suggesting ways in which insights are obtained might be used to inform business strategies.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Provide technical expertise to develop and maintain a predictive demand model and AI tools to improve production operations</li><li>Activities include updating statistical model based on menu/operational changes, providing business analytics, presenting information to technical and non-technical audiences, and managing contractors</li><li>Liaison with IT to assist with the Data Engineering and hardware implementation required to support the predictive demand model and support roll-out of associated kitchen equipment</li><li>Support the department Manager and Director to maximize project results by assisting with project management processes including development of project charters, detailed project timelines, success criteria, functional requirements, development of testing methodology, data collection and analysis</li><li>Partner with other Developers and Product Owners to understand requirements and provide scalable solutions in alignment with business technology strategy and architecture</li><li>Keep up to date on industry trends and recommend solutions to meet business needs</li><li>Participate in cross functional team meetings and provide technical support as needed for the management of operations test, market tests, or national roll outs of assigned projects including conducting restaurant surveys, data collection, management of supplier timelines and contractor activities.<br/><br/></li></ul>What we expect from you<br/><br/><ul><li>BS in data science, computer science, statistics, industrial engineering, or operations research with a minimum of 2-year experience in a commercial environment, required</li><li>Previous experience in the food service or related industry</li><li>Strong project management skills including the management of long duration, multi-functional engineering related projects</li><li>Proficient in the use of a variety of software applications including MS Project, Excel, Matlab, R Studio, SAS, SQL and Cloud tools</li><li>Excellent understanding of analytics, algorithms and simulation tools</li><li>Ability to mentor junior team members related to technical skills and performance</li><li>Ability to effectively communicate complicated technical topics in a manner that is understood by non-technical team members</li><li>Self-motivated, with the ability to manage own workload with minimal supervision<br/><br/></li></ul>Wendy’s was built on the premise, "Quality is our Recipe®," which remains the guidepost of the Wendy's system. Today, Wendy's and its franchisees employ hundreds of thousands of people across more than 7,000 restaurants worldwide with a vision of becoming the world's most thriving and beloved restaurant brand.<br/><br/>The base pay range for this position is listed below. The base pay actually offered will take into account internal equity and budget for the open position and also may vary depending on the candidate’s job-related knowledge, skills, and experience, among other relevant factors. This range does not include an estimated value for any benefits, bonus, or other incentives that may be applicable based on position. * The target annual bonus for this role is 10% of annualized base salary, based on actual company and personal performance.<br/><br/>Our square burgers make us different and so do our benefits! Our restaurant support roles are eligible for a wide array of benefits, including things such as parental leave, free EAP sessions, company 401k match and other great offerings. For more details about our benefits, including an overview of eligibility and terms for certain benefits, please visit our benefits website,www.wendysbenefits.com.*<br/><br/><ul><li>NOTE: Wendy’s benefits, bonus, and other incentives are governed by the applicable legal plans and policies and, where appropriate, may be subject to Board approval an individual award agreement terms. Those documents supersede all other information regarding Wendy’s benefits, bonus, and other incentives. Wendy’s retains the right to amend or terminate its plans and policies at its sole discretion, in accordance with applicable plans, policies and laws.<br/><br/></li></ul><strong>Education:</strong> Bachelor's Degree<br/><br/><strong>Travel:</strong> 5%<br/><br/><strong>Pay Range:</strong> $85,000 - $145,000 Annually<br/><br/>Wendy's is an equal employment opportunity employer who may provide reasonable accommodation to enable individuals with disabilities to perform the essential functions of the job.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Restaurants
+          </span>
+</li>
+</ul>
+</div>
+</section>

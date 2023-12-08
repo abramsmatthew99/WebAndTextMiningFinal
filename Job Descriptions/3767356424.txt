@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What To Expect<br/></strong>The Quality Engineering team plays a key role in ensuring safety of our customers by providing world class Quality of our products. Quality Systems and Analytics team is looking for a key player on the team who can help drive Quality data analytics and help cross-functional engineering organizations to provide opportunities in product quality improvements. Candidate should have experience working with large data sets, finding best ways to engineer the data to help create critical KPI metrics, building innovative visualizations and dashboards all the while keeping in mind what improvements can be driven in underlying data systems.<br/><br/>Tesla's mission is to accelerate the world's transition to sustainable energy. We are committed to hiring the world's best and brightest people to help make this future a reality. Every Tesla is designed to be the safest, quickest car in its class—with industry-leading safety, range, and performance.<br/><br/><strong>What You'll Do<br/><br/></strong><li>Collaborate with cross-functional problem-solving teams to drive process systems, analytics, data engineering improvements; use of effective QA methodologies to manage and facilitate issue resolution including root cause investigations and the development, implementation and monitoring of effective corrective and preventive actions</li><li>Establish and maintain guidelines for analytics/data engineering, QA, change management and metric/project documentation best practices and ensure team adheres to those standards</li><li>Design and implement metrics, applications and tools that will enable engineers by allowing them to self-serve their data insights </li><li>Analyze manufacturing, equipment, and vehicle data to extract useful statistics and insights about failures in order to drive meaningful improvements to production quality and customer experience</li><li>Interpret trends in manufacturing, equipment, and vehicle data, analyzing results using statistical techniques and depicting the story via dashboards and reports</li><li>Automate analyses and author pipelines using SQL, Python, Airflow, and Kubernetes based ETL frameworks</li><li>Monitor key product metrics, understanding root causes of changes in metrics</li><li>Drive underlying data systems improvement by working with key cross-functional stakeholders</li><li>Work effectively with engineers and conduct end-to-end analyses, from data requirement gathering to data processing and modeling</li><li>Contribute to all stages of the factory and service quality data modeling including but not limited to problem formulation, data pre-processing, feature engineering, sample design, algorithm selection and evaluation, hyper-parameter tuning, deployment, implementation, and monitoring<br/><br/><br/></li><strong>What You'll Bring<br/><br/></strong><li>Bachelor's Degree in Management Information Systems, Computer Science, Math, Physics, Engineering, Statistics or another technical field, or equivalent experience</li><li>1-2+ years of work experience in data analytics or engineering related field</li><li>Knowledge of SQL and experience with multiple data architecture paradigms (MySQL, MicrosoftSQL, Vertica, Oracle, kafka, Spark) with proficiency in Python, text processing, and python data analysis packages (eg. pandas, numpy)</li><li>Knowledge of data visualization techniques and tools using Tableau, Power BI, Superset, Matplotlib, Plotly etc</li><li>Understanding of various statistical techniques to effectively summarize data findings with strong knowledge of data warehousing concepts as well as data mining tools and techniques</li><li>Proficiency in using open-source ML toolkits (eg. Pytorch, Tensorflow) and building NLP applications, with Strong ML and NLP fundamentals</li><li>Knowledge of manipulating big data with Apache Spark (Python or Scale APIs)</li><li>Able to work under pressure while collaborating with cross-functional teams and managing competing demands with tight deadlines</li><li>Excellent communication skills and ability to work with different business stakeholders to understand, identify, and translate business challenges into data projects</li><li>A passion and curiosity for data and data-driven decision making<br/><br/><br/></li><strong>Benefits<br/></strong><strong>Compensation and Benefits<br/></strong>Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:<br/><li> Aetna PPO and HSA plans &gt; 2 medical plan options with $0 payroll deduction</li><li> Family-building, fertility, adoption and surrogacy benefits</li><li> Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution</li><li> Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA</li><li> Healthcare and Dependent Care Flexible Spending Accounts (FSA)</li><li> LGBTQ+ care concierge services</li><li> 401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits</li><li> Company paid Basic Life, AD&amp;D, short-term and long-term disability insurance</li><li> Employee Assistance Program</li><li> Sick and Vacation time (Flex time for salary positions), and Paid Holidays</li><li> Back-up childcare and parenting support resources</li><li> Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft &amp; legal services, and pet insurance</li><li> Weight Loss and Tobacco Cessation Programs</li><li> Tesla Babies program</li><li> Commuter benefits</li><li> Employee discounts and perks program<br/><br/><br/></li>Expected Compensation<br/><br/>$80,000 - $258,000/annual salary + cash and stock awards + benefits<br/><br/>Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.<br/><br/>Tesla
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Renewable Energy Semiconductor Manufacturing, Motor Vehicle Manufacturing, and Utilities
+          </span>
+</li>
+</ul>
+</div>
+</section>

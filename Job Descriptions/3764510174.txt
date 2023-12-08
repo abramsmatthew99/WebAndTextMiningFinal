@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Gainesville, GA<br/><br/></strong>Hybrid 3 days onsite<br/><br/><strong>About The Company<br/><br/></strong>Working with our client means being part of something special: a team invested in you as a person, an employee, and in helping you reach your goals.<br/><br/><strong>Job Summary<br/><br/></strong>High-level, experienced architect position responsible for design support, implementation, repair, and maintenance of Network wired, wireless, and security infrastructure/applications, including: routing, switching, IPS/IDS, firewalls, B2B VPN, remote access VPN, network access control, application delivery, WAF, RF management, BLE, RTLS location services, advanced data center overlay technologies, cloud technologies (AWS, GCP, Azure), WAN/SDWAN technologies (including satellite, cellular, and broadband), UPS technologies, and DDI. This position must be able to demonstrate each of the job specific skills and abilities listed.<br/><br/><strong>Minimum Job Qualifications<br/><br/></strong><ul><li>Educational Requirements: Bachelors Degree. Four (4) year degree in Computer Science, MIS or other computer-related field or equivalent experience in similar IT environments. In lieu of Bachelors degree (11) years of experience in similar environments will be considered. </li><li>Minimum Experience: Seven(7)+ years experience supporting critical IT network infrastructure in a highly available 24x7 environment.<br/><br/></li></ul><strong>Preferred Job Qualifications<br/><br/></strong><ul><li>Preferred Licensure or other certifications: Juniper JNCIE, Cisco CCIE, or similar certification.<br/><br/></li></ul><strong>Job Specific And Unique Knowledge, Skills, And Abilities<br/><br/></strong><ul><li>Ability to articulate technical designs and technologies to leadership and staff.</li><li>Ability to lead collaborations with teams to build the best possible solution for customers.</li><li>Ability to work with end users and IT staff to define network requirements for IT systems user experience.</li><li>Extensive experience troubleshooting Networking infrastructure and components, IT systems, and cloud environments.</li><li>Demonstrated desire to pursue continual education and ability to learn and adopt new technologies.</li><li>Experience in helping people communicate through managing, designing, and implementing enterprise scale network and network security environments with a focus on Juniper/Mist, SDWAN, and hybrid multi-cloud environment routing and switching, as well as Palo Alto, Forescout, and F5 security tools. </li><li>Passion and demonstrated experience in identifying innovative approaches to using new or existing technologies to meet current and future business needs.</li><li>Extensive experience mentoring and providing high-level technical guidance to junior engineers, peers, and leadership.</li><li>Extensive experience with designing and managing complex routing and switching (BGP, OSPF, ISIS, MST, MSDP), L2/3 overlays (EVPN, VXLAN, ACI, OTV), network access control, hybrid multi-cloud environments (Azure, AWS, GCP), SDWAN , B2B and remote access VPNs, RTLS technologies (BLE, UWB), and disaster recovery environments.</li><li>Ability to clearly detail network communication flow across broad global networks as well as read and detail network packet captures (PCAP)</li><li>Ability to design and develop integrations with various other IT systems (through API or specific integrations)<br/><br/></li></ul><strong>Essential Tasks And Responsibilities<br/><br/></strong><ul><li>Technical escalation and always on-call resource for all levels and positions of the Network Services team</li><li>Leads advanced complex problem solving within technical IT teams.</li><li>Develops and designs standards related to technical documentation for infrastructure solutions.</li><li>Defines standards for technical network engineering policies and procedures.</li><li>Ensure the security of the system by driving and developing standards and policies across all applicable technology towers.</li><li>Develops Network Services infrastructure capacity and performance SLAs to ensure continued, uninterrupted operation of its systems and applications.</li><li>Provide department guidance on new Network Services infrastructure and application projects.</li><li>Collaborates with Enterprise Architects to define standards and technology adoption for Network Services team.</li><li>Collaborates with Management to manage and define Network Services financial planning, budgeting, and billing (including service provider accounts)</li><li>And all other duties as assigned by the Unified Communications Manager and/or the IT Network &amp; Telecommunications Supervisor<br/><br/></li></ul><strong>Who We Are<br/><br/></strong><strong>Open Systems Inc. (OSI) was founded in 1994 to provide information technology solutions and staffing services to large and mid-size companies across the U.S. Our corporate office is located at 6495 Shiloh Road, Ste 310 Alpharetta, GA 30005. We provide a full range of staffing services including contract, contract-to-hire, and direct hire solutions. Our technical recruiting experts are experienced in technical screening, candidate sourcing, and behavioral interviewing techniques. They focus on providing candidates who match your technical requirements and fit seamlessly into your company culture.<br/><br/></strong><strong>Contact Open Systems, Inc. anytime by website, phone or email. We look forward to hearing from you!!</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

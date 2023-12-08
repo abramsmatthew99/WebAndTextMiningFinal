@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you looking to work for a company that provides an innovative work environment, and your voice is heard? We have a position for a Software Simulation Engineer to work onsite at our client in Detroit Metro Michigan. This is a direct hire opportunity.<br/><br/><strong>Who we are: <br/><br/></strong>LER TechForce is an industry leader in embedded controls, software, functional safety, and engineering talent. For over 20 years LER has been working with customers across North America to meet their engineering resource challenges. Learn more about us (3) LER TechForce: Life | LinkedIn<br/><br/><strong>What you will be doing: <br/><br/></strong><ul><li>Create, validate, and integrate simulation models, develop test tools and module tests, define and automate test cases and procedures for the functional verification of brake control systems and sub-systems using simulation environments, such as Hardware in the Loop (HIL) and Software in the Loop (SIL), and assists testing and development of innovative products and functions using simulation models .</li><li>Plan, design and expand the existing software in the loop environment for electronic brake control systems. </li><li>Develop tools and tool chains around the creation and execution of simulation models. </li><li>Implement and validate simulation models and integrate them into complex system and vehicle models. </li><li>Design, develop and implement test equipment for brake control systems and subsystems.</li><li>Execute requirement analysis to r esearch and develop efficient test procedures and methods to validate them. </li><li>Distribute and support the implementation of robust testing procedures to the software (SW) or hardware (HW) teams.</li><li>Lead the automation of complex testing procedures aimed to validate SW modules and models </li><li>Setup SW validation plan for integration test along with SW release plan, winter test and production release test. </li><li>C oordinate and manage SW validation plans with internal and external SW development and d esign teams.</li><li>Perform and coordinate validation of development or production SW and HW using HIL, SIL or vehicle environments.</li><li>Compile, organize and discuss test results with the SW design team and customer. </li><li>Collaborate with HW and SW design team to analyze issues and to develop special verification test procedures. </li><li>Design, debug and implement of HIL and SIL environments.</li><li>Analyze ISO26262 customer Functional Safety (FUSA) requirements to support related activities including the creation of FUSA SW validation test plans, development of test cases and set-up.</li><li>Comply with the automotive development process according to A-Spice and ISO, including documentation generation. <br/><br/></li></ul><strong> What you'll need to be successful: <br/><br/></strong><ul><li>Bachelor degree in Mechanical, Electrical or Computer Science Engineering or related field. </li><li>Master degree in Engineering, preferably in the Automotive field. </li><li>10+ years of automotive product engineering experience working in product development with OEM and with preferred focus on brake control components such, electric brake actuators and electrical parking brake. </li><li>At least 5 years of experience in SW testing and system simulation. <br/><br/></li></ul><strong> What you'll get: <br/><br/></strong><ul><li>Full benefits: medical, dental, vision </li><li>401K with a match </li><li>Short-term &amp; Long-term disability, life insurance and other optional benefits </li><li>Ongoing professional development opportunities including Technical Training and Leadership Development </li><li>The opportunity to work on industry leading projects </li><li>Relocation Package</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Engineering Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

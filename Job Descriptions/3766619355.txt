@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>An Amazing Career Opportunity for a Test Engineer! <br/><br/></strong><strong>Location: </strong>Cypress, CA (Hybrid)<br/><br/><strong>Job ID: </strong>24234<br/><br/>Do you enjoy breaking things and getting paid for it? Are you an instinctive troubleshooter and an inquisitive soul? If so, we want to hear from you!<br/><br/><strong>Who are we? <br/><br/></strong>HID powers the trusted identities of the world’s people, places, and things, allowing people to transact safely, work productively and travel freely. We are a high-tech software company headquartered in Austin, TX, with over 4,000 worldwide employees. Check us out here: www.hidglobal.com and https://youtu.be/23km5H4K9Eo<br/><br/><strong>HID is an Innovative High-Tech Security Company!<br/><br/></strong>At HID you will work as part of a team to provide testing services including manual and automated testing, you will become familiar with the HID Security products and features, and you will become proficient with toolsets such as JIRA, the Scaled Agile Framework, and Test Rails.<br/><br/><strong>As our Software Quality Engineer II, you’ll support HID’s success by: <br/><br/></strong><ul><li> Collaborating with developers and other quality assurance engineers to understand and clarify software requirements, develop test cases, and develop your product knowledge.</li><li> Implementing HID’s automated testing tools to develop automated testing scripts and you will execute manual tests, automated tests, and performance tests.</li><li> Helping reproduce errors reported from the field, test fixes, and report results to management.<br/><br/></li></ul><strong>Your Experience and Education should include: <br/><br/></strong><ul><li> BS in Computer Science required or equivalent experience</li><li> 2+ years of practical Software QA Engineering experience with Windows/Linux-based applications required</li><li> Experience with functional testing, automation, and regression testing</li><li> Experience with test planning and test case development</li><li> Strong background in Quality Assurance methodologies</li><li> Experience with white, gray, and black box testing techniques and methodologies</li><li> Excellent problem solving, troubleshooting and analysis skills</li><li> Exceptional communication skills in order to articulate quality assurance practices</li><li> Strict attention to detail</li><li> Ability to work with minimum supervision with set priorities</li><li> Ability to set-up hardware and wiring<br/><br/></li></ul><strong>We would love experience with any of the following:<br/><br/></strong><ul><li> Experience with Physical Access Control Systems is a tremendous benefit</li><li> Test lab and test bed development and maintenance</li><li> Experience with testing Web Services</li><li> Experience testing embedded applications</li><li> Good understanding of networking and ability to configure devices to connect on the network</li><li> Familiarity with serial communications (RS-232, RS-485)</li><li> Experience setting up and utilizing virtual machines</li><li> Experience with IoT devices</li><li> Familiarity with cyber security related tools and testing methodologies<br/><br/></li></ul><strong>Why apply? <br/><br/></strong><ul><li> Empowerment: You’ll work as part of a global team in a flexible work environment, learning and enhancing your expertise. We welcome an opportunity to meet you and learn about your unique talents, skills, and experiences. You don’t need to check all the boxes. If you have most of the skills and experience, we want you to apply.</li><li> Innovation: You embrace challenges and want to drive change. We are open to ideas, including flexible work arrangements, job sharing or part-time job seekers.</li><li> Integrity: You are results-orientated, reliable, and straightforward and value being treated accordingly. We want all our employees to be themselves, to feel appreciated and accepted.<br/><br/></li></ul>The wage range for this role considers a broad scope of factors that are considered when making compensation decisions, including but not limited to: skill sets, experience and training, licensure and certifications, and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At HID, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. The base salary range for CA is $77,400 - 92,175.<br/><br/>This opportunity may be open to flexible working arrangements.<br/><br/>HID is an Equal Opportunity/Affirmative Action Employer – Minority/Female/Disability/Veteran/Gender Identity/Sexual Orientation.<br/><br/><strong>We make it easier for people to get where they want to go!<br/><br/></strong>On an average day, think of how many times you tap, twist, tag, push or swipe to get access, find information, connect with others or track something. HID technology is behind billions of interactions, in more than 100 countries. We help you create a verified, trusted identity that can get you where you need to go – without having to think about it.<br/><br/>When you join our HID team, you’ll also be part of the ASSA ABLOY Group, the global leader in access solutions. You’ll have 52,000 colleagues in more than 70 different countries. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally. As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Security and Investigations
+          </span>
+</li>
+</ul>
+</div>
+</section>

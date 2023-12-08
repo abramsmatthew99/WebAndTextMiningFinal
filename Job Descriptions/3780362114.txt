@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!<br/><br/>Job details<br/><br/><strong>Machine Learning / AI Engineer - Remote - Series B funded FinTech<br/><br/></strong>This Jobot Job is hosted by Jesse Gray<br/><br/>Are you a fit? Easy Apply now by clicking the "Easy Apply" button and sending us your resume.<br/><br/>Salary $175,000 - $215,000 per year<br/><br/><strong>A Bit About Us<br/><br/></strong>We are a high performing AI FinTech that operate in the market data space. Our client manage vast amounts of data and go far beyond generating investment insights.<br/><br/><strong><br/><br/><strong>Why join us?<br/><br/><br/></strong></strong>My client seek an AI/ML engineer that brings innovative concepts from diverse fields such as information retrieval, distributed computing, designing large-scale systems, networking, data storage, cybersecurity, artificial intelligence, natural language processing, mobile and UI design.<br/><br/><strong>Job Details<br/><br/></strong>Job Details<br/><br/>We are seeking a highly skilled and passionate Permanent ML/AI Engineer to join our dynamic team in the technology industry. The ideal candidate will have a strong background in Machine Learning and Artificial Intelligence, with an interest in joining a complex high performing Data Science team.<br/><br/><strong>Responsibilities<br/><br/></strong>You will design and implement Machine Learning solutions for internal and customer use cases, leveraging best of breed products including TensorFlow/PyTorch, DataFlow, OpenAI, LLAMA, and Vertex AI. You will work closely with Product Management and Product Engineering.<br/><br/><ul><li> Design, develop and implement advanced machine learning algorithms to solve complex problems and deliver business value.</li><li> Work closely with the data science team to understand, analyze, and define data requirements for different business processes.</li><li> Develop predictive models and machine learning algorithms, leveraging technologies such as TensorFlow, Hadoop, and Spark.</li><li> Apply NLP techniques to extract insights from unstructured data and improve our understanding of customer behavior.</li><li> Develop and maintain scalable machine learning solutions in production.</li><li> Conduct research on the latest AI/ML technologies and trends, and implement new methodologies as needed.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, Statistics, Mathematics, or a related field. A Master's degree or PhD would be an advantage.</li><li> Minimum of 3 years of experience in machine learning, artificial intelligence, or a related field.</li><li> Proven experience with AI/ML technologies such as TensorFlow, Hadoop, and Spark.</li><li> Solid understanding and experience in applying NLP techniques.</li><li> Experience in developing and implementing machine learning models in production.<br/><br/></li></ul>Interested in hearing more? Easy Apply now by clicking the "Easy Apply" button.<br/><br/><strong>Want to learn more about this role and Jobot?<br/><br/></strong>Click our Jobot logo and follow our LinkedIn page!<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

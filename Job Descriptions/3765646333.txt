@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you a passionate Python engineer with a flair for open-source software and a penchant for cutting-edge technologies? Join our global team at a leading company in the open-source spectrum, contributing to Canonical's renowned Ubuntu ecosystem.<br/><br/><strong>About Us<br/><br/></strong>At Canonical, we take pride in developing enterprise-friendly Linux solutions. Our collaborative approach extends to Python, where we prioritize teamwork, community engagement, and innovation over raw performance. As a Python Developer, you'll play a key role in shaping high-quality, idiomatic Python code that makes a meaningful impact.<br/><br/><strong>What You'll Do<br/><br/></strong>Write high-quality, well-designed, and well-tested Python software.<br/><br/>Collaborate proactively with a globally distributed team.<br/><br/>Showcase technical leadership both within Canonical and across communities.<br/><br/>Debug issues and produce high-quality code to address them.<br/><br/>Contribute to technical documentation, striving for excellence.<br/><br/>Enjoy the flexibility of working from home, with global travel twice a year for company events.<br/><br/><strong>What We're Looking For<br/><br/></strong>Exceptional academic track record from high school and university.<br/><br/>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path.<br/><br/>Drive and a track record of exceeding expectations.<br/><br/>Well-organized, self-starting, and able to deliver on schedule.<br/><br/>Professional manner in interactions with colleagues, partners, and the community.<br/><br/>Experience in writing thoroughly designed, modern, maintainable Python.<br/><br/>Conscientiousness and attention to detail, with a focus on performance.<br/><br/>Professional proficiency in written and spoken English.<br/><br/><strong>Experience With Linux (Debian Or Ubuntu Preferred).<br/><br/></strong>Excellent interpersonal skills, curiosity, flexibility, and accountability.<br/><br/>Passion, thoughtfulness, and self-motivation.<br/><br/>Excellent communication and presentation skills.<br/><br/>Result-oriented, with a personal drive to meet commitments.<br/><br/>Willingness to travel twice a year for company events, up to two weeks each.<br/><br/><strong>Additional Skills<br/><br/></strong>Experience with container technologies (LXD, Docker, Kubernetes).<br/><br/>Understanding of build systems and toolchains, including cross-compilation.<br/><br/>Proficiency in additional languages, such as Golang, Rust, C, or C++.<br/><br/>Deep quality and test engineering knowledge.<br/><br/>Web or Flutter front-end experience.<br/><br/>Experience with REST and gRPC APIs.<br/><br/>Proficiency in SQL and NoSQL data stores.<br/><br/>Experience with public clouds or OpenStack.<br/><br/>Knowledge of Debian/Ubuntu packaging.<br/><br/>Experience with systems programming or scalable web services.<br/><br/>Background in performance engineering and security.<br/><br/><strong>What We Offer You<br/><br/></strong>Competitive compensation tailored to your geographical location, experience, and performance.<br/><br/>Performance-driven annual bonus.<br/><br/><strong>Additional Benefits Reflecting Our Values And Ideals.<br/><br/></strong>Distributed work environment with twice-yearly in-person team sprints.<br/><br/>Personal learning and development budget of USD 2,000 per year.<br/><br/>Annual compensation review.<br/><br/>Recognition rewards.<br/><br/>Annual holiday leave.<br/><br/>Maternity and paternity leave.<br/><br/>Employee Assistance Programme.<br/><br/>Opportunity to travel to new locations to meet colleagues.<br/><br/>Priority Pass and travel upgrades for long-haul company events.<br/><br/>Join us on this exciting journey of innovation and collaboration in the realm of open source. Apply now to be a part of our dynamic team, where your contributions make a real difference!<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

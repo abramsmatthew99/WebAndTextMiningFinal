@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: QA Tester <br/><br/></strong><strong>Contract Role – Remote<br/><br/></strong><strong>(No Corp to Corp)<br/><br/></strong><strong>Duration: 12+ Months<br/><br/></strong><strong>Job Summary<br/><br/></strong>As a QA Tester, you will play a critical role in ensuring the quality and reliability of healthcare-related software applications. You will collaborate with cross-functional teams to understand project requirements, develop and execute test plans, and identify and report defects. The QA Tester will contribute to the delivery of high-quality healthcare solutions that meet the needs of both internal and external stakeholders.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field.</li><li>Proven experience as a QA Tester, preferably in the healthcare or insurance industry.</li><li>Familiarity with healthcare management systems, claims processing, or related applications is a plus.</li><li>Strong analytical and problem-solving skills.</li><li>Experience with testing tools and frameworks (e.g., Selenium, JUnit).</li><li>Excellent communication and collaboration skills.</li><li>Knowledge of Agile/Scrum methodologies is advantageous.<br/><br/></li></ul><strong>Key Responsibilities<br/><br/></strong>Test Planning and Preparation:<br/><br/><ul><li>Collaborate with business analysts and development teams to understand project requirements and specifications.</li><li>Develop comprehensive test plans, test cases, and test scripts based on project documentation.</li><li>Identify and prioritize test scenarios based on risk and business impact.<br/><br/></li></ul>Test Execution<br/><br/><ul><li>Execute manual and automated tests to ensure the functionality, performance, and reliability of healthcare applications.</li><li>Document and report defects, issues, and discrepancies in a clear and concise manner.</li><li>Collaborate with development teams to reproduce, analyze, and resolve reported issues.<br/><br/></li></ul><strong>Regression Testing<br/><br/></strong><ul><li>Perform regression testing to ensure that new features or changes do not adversely impact existing functionality.</li><li>Automate repetitive and routine testing tasks to improve efficiency and test coverage.<br/><br/></li></ul><strong>Collaboration And Communication<br/><br/></strong><ul><li>Work closely with development teams, business analysts, and other stakeholders to facilitate communication and knowledge sharing.</li><li>Provide timely and accurate status updates on testing progress, issues, and risks.<br/><br/></li></ul><strong>Quality Assurance Standards<br/><br/></strong><ul><li>Ensure adherence to established quality assurance standards, processes, and methodologies.</li><li>Contribute to the continuous improvement of the QA process by providing feedback and suggesting improvements.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

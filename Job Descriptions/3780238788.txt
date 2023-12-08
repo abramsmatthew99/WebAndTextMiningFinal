@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Founded in 1918, Kearfott Corporation, a global Aerospace and Defense supplier for over 100 years, is a leader in the design and manufacture of precision motion control products and inertial navigation components. Kearfott has a very long history of innovation and excellence, and is the go-to brand for many of our global clients. Kearfott is trusted, respected and plays a vital role in the success of America’s aerospace and defense industries. With over a century of expertise &amp; experience, Kearfott is dedicated to providing quality, reliability, and cutting-edge technology to customers worldwide to meet their sea, land, air, and space navigation and guidance requirements.<br/><br/>Kearfott offers a comprehensive benefits package including a 401K, and Tuition Reimbursement. We offer a 9/80 schedule with every other Friday off, and flexible work options for most positions.<br/><br/>We are looking for talented individuals who want to be part of a world class work force. Join Kearfott and become part of a company that is recognized for technical expertise and respected world-wide as a ‘full service’ provider. For more information visit our website at www.kearfott.com<br/><br/><strong>Position Description<br/><br/></strong>We have an exciting opportunity for a Junior Software Engineer to work in our Guidance &amp; Navigation Division in Pine Brook, NJ. In this role, you will get the opportunity to participate in the design and development of software destined for Kearfott’s next generation navigation systems. Opportunities exist in the two key domains: embedded software development, focused on C and real time application development, and automated test solutions development leveraging application platforms such as LabVIEW and TestStand.<br/><br/><strong>Responsibilities<br/><br/></strong>Required Skills<br/><br/><ul><li>Contribute to the design, implementation, and test of automated test solutions by leveraging LabVIEW and TestStand to validate the performance of Kearfott’s diverse line up of navigation solutions.</li><li>Contribute to the design, implementation, and test of innovative embedded flight software for Kearfott’s navigation products.</li><li>Works with cross functional technical engineering teams in the development of robust software requirements.</li><li>Conduct design, analysis, and test of software subsystems following defined software development processes.</li><li>Perform software development and integration using cross-compilation tool sets and simulation tools as well as hardware instrumentation such as digital logic analyzers.<br/><br/></li></ul><strong>Minimum Required Qualifications<br/><br/></strong><ul><li>BS in Computer Science, Electrical Engineering, or similar Engineering discipline.</li><li>Developed communication abilities, both written and verbal, and interpersonal skills.</li><li>Knowledge (proficiency preferred) in C, C++, and LabVIEW.</li><li>Must be legally authorized to work in the U.S.</li><li>Must be able to work on U.S. government programs and/or obtain security clearance in the future.<br/><br/></li></ul>Required Experience<br/><br/><strong>Preferred Qualifications<br/><br/></strong><ul><li> Experience with additional programming languages such as C.</li><li> Real time application design experience.</li><li> Experience with National Instruments TestStand.</li><li> Ability to interpret electronics schematics.</li><li> Experience with inertial navigation concepts.<br/><br/></li></ul>Equal Opportunity Employer<br/><br/>We are proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Aviation and Aerospace Component Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Meta is hiring ASIC Frontend Implementation Engineers within our Infrastructure organization. We are looking for individuals with experience in front-end implementation from RTL to netlist, including RTL Lint, CDC analysis, timing constraints, synthesis to build efficient System on Chip (SoC) and IP for data center applications.<br/><br/>ASIC Engineer, Implementation Responsibilities:<br/><br/><ul><li>Run Logic/Physical Synthesis using advanced optimization techniques and generate optimized Gate Level Netlist for Timing, Area, Power. Debug the timing/area/congestion issues and work with RTL &amp; Physical designers to resolve them.</li><li>Perform Power Estimation at RTL and Gate Level and identify power reduction opportunities.</li><li>Run Formal Verification checks between RTL and Gate level netlist and debug the aborts, inconclusive and Logic Equivalency failures.</li><li>Perform RTL Lint and work with the Designers to create waivers.</li><li>Perform RTL DFT Analysis and improve the DFT coverage for Stuck-at faults.</li><li>Perform Flat and Hierarchical Clock Domain Crossing and work with the designers to analyze the complex clock domain crossings and sign off the CDC.</li><li>Perform Flat and Hierarchical Reset Domain crossing Checks. Understand the Reset-Architecture by working with Design and FW teams and develop reset groups and the corresponding reset sequence for RDC.</li><li>Develop Timing Constraints for RTL-Synthesis and PrimeTime-STA for the blocks and the top-level including SOC. Analyze the inter-block timing and come up with IO budgets for the various partition blocks.</li><li>Developing Automation scripts and Methodology for all FE-tools including (Lint, CDC, RDC, Synthesis, STA, Power).</li><li>Work closely with the Design Engineers, DV Engineers, Emulation Engineers in supporting them with the handoff tasks. Interact with Physical Design Engineers and provide them with timing/congestion feedback.<br/><br/></li></ul>Minimum Qualifications:<br/><br/><ul><li>Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.</li><li>10+ Years of experience in DFT, Design Integration, and Front-End Implementation.</li><li>Experience with RTL Synthesis and design optimization for Power, Performance, Area.</li><li>Knowledge of front-end and back-end ASIC tools.</li><li>Experience with RTL design using SystemVerilog or other HDL.</li><li>Experience managing multiple design releases and working with cross functional teams to support and debug timing, area, power issues.</li><li>Experience with EDA tools and scripting languages (Python, TCL) used to build tools and flows for complex environments.</li><li>Experience with communicating across functional internal teams and vendors.<br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Synthesis Background, Timing Constraints Development, Floorplanning and STA.</li><li>Experience Knowledge of RTL coding using Verilog/System Verilog.</li><li>Experience with Timing/physical libraries, SRAM Memories.</li><li>Experience with Power, Performance, Area Analysis and techniques for reducing power.</li><li>Experience with Clock Domain Crossing, Reset Domain Crossing, LEC.</li><li>Experience with Design Compiler, Spyglass, PrimeTime, Formality or equivalent tools.</li><li>Scripting and programming experience using Perl/Python, TCL, and Make.<br/><br/></li></ul>About Meta:<br/><br/>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br/><br/>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br/><br/>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Insulet started in 2000 with an idea and a mission to enable our customers to enjoy simplicity, freedom and healthier lives through the use of our Omnipod® product platform. In the last two decades we have improved the lives of hundreds of thousands of patients by using innovative technology that is wearable, waterproof, and lifestyle accommodating.<br/><br/>We are looking for highly motivated, performance driven individuals to be a part of our expanding team. We do this by hiring amazing people guided by shared values who exceed customer expectations. Our continued success depends on it!<br/><br/><strong>Job Title: </strong> Manager, Software QA<br/><br/><strong>Department: </strong>R&amp;D<br/><br/><strong>FLSA Status: </strong>Exempt<br/><br/><strong>Position Overview<br/><br/></strong>This position is responsible for leading Embedded Software Quality Assurance activities throughout the Software Development Lifecycle for new product development initiatives. This includes ensuring that the software development process is compliant with applicable standards, regulations and guidance documents for medical devices. This role will interface with other Insulet departments (e.g. Sr. Management, Hardware team, Manufacturing, Quality assurance and Regulatory Affairs) as well as other external parties on issues related to product development, launched product support. The ability to effectively communicate software and design and development regulations, optimize the verification process, and ensure ambiguities and conflicting requirements are resolved are critical to the success of the position. This position also includes direct reports.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Lead and manage the embedded Software Quality assurance team ensure Software verification is conducted in accordance to the FDA standards to deliver high quality software.</li><li>Manage a team of 4-8 embedded software Quality assurance engineers.</li><li>Lead Design Control and Software Quality Assurance initiatives to develop appropriate Design History File documents for FDA Class II and Class III medical devices and embedded Software.</li><li>Responsible for the generation, review and approval of design control documentation with primary focus on software development deliverables.</li><li>Collaborate with Project Management to support and optimize the schedules.</li><li>Support development teams on the validation of software tools.</li><li>Work with software, hardware, user experience, marketing, manufacturing, and quality assurance on generation, documentation, verification and validation of requirements.</li><li>Lead creation of necessary documentation to comply with regulatory requirements and industry best practices.</li><li>Establish and maintain software quality assurance programs, processes, procedures and controls to ensure compliance with FDA regulations and established standards such as IEC 62304.</li><li>Ensures compliance to IEC 62304, and FDA Guidance on Software Contained in a 510(k) Submission.</li><li> Provide guidance on and participate in software development activities including design and code reviews, requirements analysis and tracing, defect tracking and configuration management, Review requirements, specifications, product design documents, validation protocols, test plans, test cases, and other documentation as required and provide timely feedback.</li><li>Applies a good working knowledge of Software Development Life Cycle (IEC 62304), Design Controls (ISO 13485) and other regulatory requirements and agencies as it relates to Quality Assurance activities in software development.</li><li>Work closely with the software development team to identify improvements.</li><li>Influence the requirements definition and software design to maximize testability.</li><li>Oversee and influence development of test objects to meet needs of protocol.</li><li>Develop and extend protocols and plans as device features evolve.</li><li>Participate in product design reviews.</li><li>Represent SQA in the core team meetings.</li><li>Creating and executing test plans, test designs and test cases and generating test reports for them.</li><li>Creating and updating Trace matrices between requirements and Tests.</li><li>Work with the scrum Master and product owners to prioritize or deprioritize the backlog.</li><li>Keep track of the Testing board and tools inventory for the team.</li><li>Performs other duties as required.<br/><br/></li></ul><strong>Education And Experience<br/><br/></strong><strong>Minimum Requirements:<br/><br/></strong><ul><li>BS in Software Engineering, Computer Science or similar field; 8+ years hands on experience in software quality assurance associated with real time embedded software systems in regulated industry and/or equivalent combination of education and experience.</li><li>Experience of 1+ years being the Software QA Lead/Manager.</li><li>Thorough understanding of software quality assurance principles, practices and metrics as well as software development and testing best practices that foster high quality software.</li><li>Hands on experience using modern software development and quality assurance tools.</li><li>Proven record developing and executing software test protocols for complex medical devices.</li><li>Familiarity with IEC 62304, ISO 14971, FDA regulations and international standards applicable to medical device software development, verification and validation a plus.</li><li>Experience working with products from the prototype through 510(k)/ ISO clearance and commercialization is preferred.<br/><br/></li></ul><strong>Preferred Skills<br/><br/></strong><strong>Preferred Skills and Competencies: <br/><br/></strong><ul><li>Effective verbal and written communication skills.</li><li>Able to communicate at multiple levels of an organization.</li><li>Deep knowledge of embedded software testing (black-box, white-box and code Inspection)</li><li>Software test group experience strongly preferred.</li><li>Strong written, verbal, interpersonal and presentation skills.<br/><br/></li></ul>NOTE: This position is eligible for hybrid working arrangements (requires on-site work from an Insulet office at least 1x/week; may work remotely other days).<br/><br/><strong>Additional Information<br/><br/></strong>The US base salary range for this full-time position is $126,000.00 - $179,160.00. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position in the primary work location in the US. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your Talent Acquisition Specialist can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.<br/><br/>At Insulet Corporation all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.<br/><br/>(Know Your Rights)<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

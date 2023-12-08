@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Confidential Search<br/><br/><strong>About The Co.<br/><br/></strong>Manufacturer based in West Michigan<br/><br/>Position Summary:<br/><br/>This leader will focus on business operations process bringing alignment and act as the top IT business partner. Work will include providing critical support for the growth trajectory of the organization. This position will lead, plan, and provide oversight of all internal IT functions across the organization, including directing all internal IT operations as well as the support of existing applications and development of new technical solutions. Understanding current business and information technology platforms and outlining a strategy to ensure there is processes, tools and capabilities required to deliver on our future technical needs.<br/><br/>Provide strategic leadership direction and tactical support. Managing a team of 5-10. Drives industry best practices methodologies, define standards as working through IT transformation. Holds the responsibility of security for the organization and is responsible for establishing and maintaining programs and strategies to ensure information assets and technologies are adequately protected.<br/><br/>Primary Responsibilities:<br/><br/><ul><li> Lead, manage and develop a team of IT professionals.</li><li> Establish and lead a company-wide information security and assurance function.</li><li> Approve purchases of IT equipment and software solutions.</li><li> Develop a strong understanding of the current business and information technology platform.</li><li> Outline IT strategies and objectives that are aligned to growth plans.</li><li> Defines and communicates plans, procedures, policies, and standards for the organization</li><li> Oversee the technological infrastructure (networks and computer systems) in the organization.</li><li> Direct and organize IT related projects, utilizing project management disciplines, in cooperation with business partners.</li><li> Analyze emerging technologies, changes, or advancements in technology to discover ways the company can gain competitive advantage.</li><li> Analyze the costs, value, and risks of information technology.<br/><br/><br/></li></ul>Requirements:<br/><br/><ul><li> Excellent knowledge of IT systems and infrastructure</li><li> Outstanding communication and interpersonal abilities</li><li> Bachelor’s degree in computer science, engineering, or relevant field.</li><li> 15 years of progressive and proven leadership experience as an IT business partner. At least 5 - 7 years of leadership experience managing people and projects.</li><li> Experience with consolidation of ERP systems</li><li> Strong understanding of Microsoft technologies including Windows and Exchange</li><li> Knowledge of IT governance requirements, compliance, and security best practices.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Director
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

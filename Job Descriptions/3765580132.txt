@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Community Health Systems is one of the nation’s leading healthcare providers. Developing and operating healthcare delivery systems in 43 distinct markets across 15 states, CHS is committed to helping people get well and live healthier. CHS operates 76 acute-care hospitals and more than 1,000 other sites of care, including physician practices, urgent care centers, freestanding emergency departments, occupational medicine clinics, imaging centers, cancer centers and ambulatory surgery centers.<br/><br/><strong>Summary:<br/><br/></strong>The Data Quality Analyst plays a crucial role in ensuring that healthcare data is accurate, reliable, and compliant with industry regulations. Their primary responsibility is to maintain and improve the quality of healthcare data to support effective decision-making, patient care, and regulatory compliance. This position will work collaboratively with various departments and teams to ensure that data quality standards are met.<br/><br/><strong>Essential Duties and Responsibilities:<br/><br/></strong><ul><li>Data Validation and Quality Assurance: conduct regular audits and assessments of data to identify inaccuracies, inconsistencies, and data quality issues; Implement data validation processes and quality checks to ensure data accuracy and completeness; collaborate with business partners and data management/governance teams to resolve data quality issues promptly. </li><li>Continuous Quality Improvement: generate and maintain reports on data quality metrics, highlighting areas for improvement.; suggest, participate in, and implement data improvement initiatives, including data cleansing, validation, and enrichment processes; Keep up-to-date with industry standards, regulations, and best practices in data quality</li><li>Business Analysis and Quality Assurance: process incoming data-related requests working with requesters to development business requirements to create and/or modify existing datasets or data solutions; perform control checks for data development builds and assist in the integration of data from various sources and systems; perform advanced analysis to deliver quality issue root causes. </li><li>Data Quality Operations: maintain documentation related to data quality procedures and processes; ensure that data quality policies and guidelines are up-to-date and accessible to relevant stakeholders; provide training and guidance to staff members for appropriate data usage, data quality remediation efforts, and overall data management best practices. </li><li>Stakeholder Management: collaborate with key stakeholders, data technology leaders, business line colleagues, and product owners to understand data quality challenges; collaborate with third-party vendors and contractors for data-related services and solutions; build and maintain strong relationships with internal stakeholders and organizational leadership. </li><li>Security, Privacy, and Compliance: shape data quality compliance controls and maintain data security and privacy standards; ensure that data quality controls comply with relevant regulations, including HIPAA, GDPR, and other healthcare data privacy and security standards; align data quality operations with data governance practices and standards to ensure data accuracy, consistency, and compliance with regulatory requirements</li><li>Data Matruity: participate regularly in data quality and governance initiatives to increase the accuracy and integrity of data within the enterprise data warehouse; create and support programs to increase data availability awareness and proper use and handling of organizational data as a company asset; regularly evaluate and manage data life cycles. <br/><br/></li></ul><strong>Minimum Qualifications:<br/><br/></strong>Required Education: Bachelor's degree in Healthcare Information Management, Healthcare Informatics, Data Management, or a related field.<br/><br/>Preferred Education: Master's degree in Healthcare Information Management, Healthcare Informatics, Data Management, or a related field.<br/><br/>Required Experience:<br/><br/><ul><li>Proven experience in data quality management, business analysis, data solution implementation, or related fields</li><li>Advanced knowledge of healthcare data/information workflows</li><li>Advanced knowledge of data ingestion and ETL/ELT processes</li><li>Advanced SQL programming experience</li><li>Advanced BI report development and BI workspace management</li><li>Preferred Experience:</li><li>2+ year experience in data quality management, business analysis, data solution implementation, or related fields</li><li>Strong experience with Google Data Platform data processing</li><li>Expert knowledge of healthcare data/information workflows</li><li>Expert knowledge of data ingestion and ETL/ELT processes</li><li>Expert SQL programming experience</li><li>Expert BI report development and BI workspace management<br/><br/></li></ul>Preferred License/Registration/Certification:<br/><br/>CHDA (Certified Health Data Analyst, AHIMA); RHIA/RHIT (Registered Health Information Administrator, Registered Health Information Technician, AHIMA)<br/><br/>Computer Skills Required:<br/><br/>Gsuite and Microsoft Office Applications<br/><br/><strong>Physical Demands:<br/><br/></strong>In order to successfully perform this job, with or without a reasonable accommodation, the following are outlined below:<br/><br/><ul><li>The Employee is required to read, review, prepare and analyze written data and figures, using a PC or similar, and should possess visual acuity. </li><li>The Employee may be required to occasionally climb, push, stand, walk, reach, grasp, kneel, stoop, and/or perform repetitive motions. </li><li>The Employee is not substantially exposed to adverse environmental conditions and; therefore, job functions are typically performed under conditions such as those found within general office or administrative work.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

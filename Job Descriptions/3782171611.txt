@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Job Description<br/><br/></strong>We are seeking a Senior Software Engineer to join our Research and Development team. This team is focused on rapidly prototyping new products and bringing them to market. The team is currently working on a microservice based marketing automation application. The primary function of this position is developing new features and functionality for this application.<br/><br/>We’re looking for someone comfortable with change who enjoys diversity in their work – this position is expected to be full stack – you will be working with frontend tasks, backend tasks, and DevOps tasks. We’re a small team of highly collaborative and engaged developers and want someone who is motivated by challenge and eager to learn and implement new technologies.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Writing clean, high-quality, high-performance, maintainable code</li><li>Work across multiple integrated microservice applications</li><li>Work on enterprise-wide small and large complex projects; participate on project teams in a supporting role as needed, systems and data analysis, design, development, integration, and enhancement activities, as well as related maintenance and more complex production support</li><li>Provide ongoing maintenance of client/server applications or tools, depending upon previous involvement with projects</li><li>Interface and collaborate with non-technical stakeholders to ideate, design, and build complex web-based applications<br/><br/></li></ul><strong>Technical Requirements<br/><br/></strong><ul><li>Bachelor’s degree in programming/systems or computer science, specialized training, and at least 8 years of professional programming experience; or at an equivalent combination of education and experience. </li><li>Agile project methodologies</li><li>A FARM Stack developer flexible to take on new technologies and methodologies:</li><li>Test Driven Development oriented</li><li>Python Fast API and background services</li><li>Experience with other python frameworks is taken into consideration. </li><li>MongoDb</li><li>AWS</li><li>Lambdas</li><li>ECS</li><li>S3</li><li>CloudFront</li><li>Route53</li><li>Other cloud provider experience is taken into consideration</li><li>React JS</li><li>Worked with micro services for the last 3+ year</li><li>Containerization and DevOps skills are a plus<br/><br/></li></ul>Salary: $100,000.00 - $130,000.00 per year
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Advertising Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

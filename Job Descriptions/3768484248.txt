@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Network Administrator<br/><br/></strong><strong>Location:</strong> Hybrid in Fergus Falls, MN- must be OK going on-site to Fergus Falls 2x a week (Fargo, ND is closest big city) - Local candidates only<br/><br/>$100k Salary on conversion<br/><br/>The Network Administrator is responsible for the design, baseline, maintenance and security. The Network Administrator assists in the management of a comprehensive communications system including the network services planning and engineering, software maintenance, contract administration, and liaison with regulation sources to ensure efficient operations of the communications network systems associated with Information Technology and Clinical Informatics. With a focus on access and security, baselines and standards, the Network Administrator will be responsible to define network baselines and create action plans to elevate and maintain baseline using best practice frameworks like NIST and SANS CIS Controls. The Network Administrator tasks can range from various proactive, reactive, and support services in collaboration. Other duties may involve a range of activities as needed – such as monitoring network activity and properly responding to malicious activity.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Build and sustain networks that integrate governance, compliance, risk controls and oversight to enhance separation and segmentation into client networks.</li><li>Design, test, baseline, monitor and upgrade network hardware including servers, storage, peripherals, routers, switches, network nodes of all network infrastructure.</li><li>Configuration, test, baseline and management of network infrastructure including Firewalls, Remote Access, Wi-Fi. Update documentation.</li><li>Establish to control networks for systems access and security.</li><li>Manage security solutions, including firewall, anti-virus, and intrusion detection systems. Evaluate security events to determine network risk, impact and mitigation efforts.</li><li>Research, Identify and spotlight vulnerabilities on on-premises and remote networks, correct problems, to maintain secured network.</li><li>Write technical support documentation for network systems and document network topology.</li><li>Provide support for Windows applications, virtualization, network connectivity, remote access, Intranet, email, user administration, VoIP phone system, network printing, faxing, and any other hardware/software issues.</li><li>Perform other network administration duties, networking equipment updates, mitigation, identification and troubleshooting of system issues, network equipment asset management, performance tuning, and change management. Perform audits with network scanning tools.</li><li>Manages alerting and network performance applications. Maintains Network diagrams.</li><li>Monitor MPLS, SD-WAN, or other telecommunication circuits. Diagnose network disruptions and work with vendors to create trouble tickets when outages occur.</li><li>Manage contracts for all telecommunication, MPLS, and internet connections.</li><li>Assist to develop and execute strategy to ensure compliance with all mandated PII, HIPAA and security programs. Meeting and maintaining all specified requirements associated with each program.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

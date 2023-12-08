@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong><strong>Overview <br/><br/></strong></strong>Paradyme Management is a rapidly growing government technology leader that puts service first, for its customers, its team and the communities it supports. Paradyme harnesses DevSecOps and Agile development processes to deliver exceptional results for digital transformations. With offices in Greenbelt, MD, and Tysons Corner, VA, Paradyme’s award-winning culture sets it apart through its team’s deep commitment to service and collaboration with its customers, each other and the community. Learn more at https://www.paradyme.us .<br/><br/><strong><strong> Responsibilities <br/><br/></strong></strong>This is an entry level developer position. This is an opportunity to work along side a group of mature, senior developers across an expansive mix of technologies in relation to a massive scale government operation/initiative. We operate in a DevSecOps structure, so, this isn't a purely the bang keyboard development role. We handle a significant portion of the operations side of the equation and we are placed in interesting positions supporting calls to debug distributed systems and directly interface to the many other teams working around us. Solid communications skills are a must and of significantly greater significance to the role than direct programming experience, which we are proficient in teaching.<br/><br/>Telecommute based upon program policies.<br/><br/>Paradyme Management is hiring an applications engineer to support mission critical programs.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> Implementation and development of large multi-tier API / web services, data integrations and related web applications. </li><li> Implementation and development of web based user interfaces using various java script librarys, CSS, and HTML </li><li> Advise customer on understanding of API / web service architectures and concerns - Microservices, service orientation, security, high availability, load, performance, encryption etc… </li><li> Development of RESTful APIs using JSON and other API formats. </li><li> Development with data stores and related topics - NoSQL and RDBMS - eg. Memcached, Redis, PostgreSQL, MySQL etc. </li><li> Prefered experience with event-based and message-driven distributed systems eg. JMS, Celery, RabbitMQ, Kafka etc. </li><li> Prefered experience working with dependency management, build &amp; release and automation tools (Pip, Maven, Jenkins/Bamboo, Puppet, Docker, chef, etc.) </li><li> Preferred experience with programming languages and related frameworks and libraries – primarily Java and Spring framework. </li><li> Preferred experience working with OCI containers and container orchestration solutions such as Kubernetes. </li><li> Interfacing with leadership, team members, other project teams, and customers in a professional and patient manner <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li> Bachelor’s degree is required: Engineering, Computer Science or Information Technology or related field is strongly preferred </li><li> Experience in a professional environment working on a team </li><li> 2 + years of experience with application development </li><li> Java preferred <br/><br/></li></ul><strong>Nice To Have:<br/><br/></strong><ul><li> Hands-on experience deploying Applications to IaaS and PaaS, such as Amazon AWS, Microsoft Azure, or Google Cloud Services. </li><li> Hands-on experience with Spring framework </li><li> Experience with technologies used for service registry like Etcd, Consul, Zookeeper, Curator, Eureka etc. </li><li> Strong understanding of HTTP protocol, WebSocket, SSE, and other web technologies. </li><li> Ability to have technical conversations with Product and Business leadership, in addition to Engineering and Support/Operations teams. </li><li> Conveys highly technical concepts and information in written form to technical and non-technical audiences. </li><li> The ability to work on multiple concurrent projects is essential. Strong self -motivation and the ability to work with minimal supervision. </li><li> Must be a team-oriented individual, energetic, result &amp; delivery oriented, with a keen interest on quality and the ability to meet deadlines. </li><li> Ability to work in an agile environment <br/><br/></li></ul><strong>Physical Requirements: </strong>These are the essential physical requirements needed to successfully perform the job.<br/><br/><ul><li>Sedentary work.</li><ul><li>Requires sitting up to 8 hours per day.</li><li>May require lifting up to 5 pounds unassisted.</li><li>Fine repetitive motor skills with hands, wrists, and fingers in coordination with eyes.</li></ul><li>Hearing, speaking, and vision: Adequate to perform job duties and communicate in person, via video, and telephone. Includes reading information from printed sources and computer screens.</li><li>Other: Work may be performed in an office environment, which may involve frequent contact with staff and the public. Work may be stressful at times.<br/></li></ul>Paradyme Management, Inc. is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Paradyme will take the steps to ensure that people with disabilities are provided reasonable accommodations. Accordingly, if a reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact Rose Luczak, Director of People Operations at rose.luczak@paradyme.us or at (571) 289-0548<br/><br/><strong> EEO Statement <br/><br/></strong>Paradyme is a federal contractor and an EEO and an Affirmative Action Employer. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, pregnancy-related disability, physical or mental disability, genetic information, sexual orientation, marital status, familial status, personal appearance, occupation, citizenship, veteran or military status, gender identity or expression, or any other characteristic protected by federal, state or local law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

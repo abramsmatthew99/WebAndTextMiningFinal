@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Company Overview:</strong></p><p><br/></p><p><strong> </strong>Anagram leads the world in making balloons fun with consumer-inspired - and inspiring - product development, industry-expanding innovation, and strong, value-added partnerships. We proudly offer many products you'll only find with an Anagram label. Our dedicated-to-the joy employees are focused on creating the best product and the biggest smiles possible. At Anagram, we strive to create joy, on purpose, every single day.</p><p><br/></p><p><strong>Job Overview</strong>:</p><p>The Application / SQL Server Administrator is responsible for the maintenance, configuration, and reliable operation of computer systems and servers. They install hardware and software and participate in research and development to continuously improve and keep up with the IT business needs of their organization.</p><p><br/></p><p>The Application / SQL Server Administrator will actively resolve problems and issues with approximately 12 SQL Servers, 150 Databases, and the Applications that are running on them. This position requires experience with on-premise hardware and Virtual Environments such as VMware or Nutanix.</p><p><br/></p><p>In this role, you will be responsible for the Administration of several Applications used by the end users in a Manufacturing and Warehouse environment.</p><p><br/></p><p>Experience in Disaster recovery and VM Server replication preferred.</p><p><br/></p><p><br/></p><p>Duties and Responsibilities</p><ul><li>Perform server administration tasks, including user/group administration, security permissions, group policies, print services, research event log warnings and errors, and resource monitoring, ensuring system architecture components work together seamlessly.</li><li>Perform or delegate regular backup operations and implement appropriate processes for data protection, disaster recovery, and failover procedures. Experience with Veeam Backup and Cloud Solutions or similar products is required.</li><li>Responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization</li><li>Install and upgrade computer components and software, manage virtual servers, and integrate automation processes.</li><li>Monitor data center health using preexisting management tools and respond to hardware issues as they arise; help build, test, and maintain new servers as needed.</li><li>Provide documentation and technical specifications to IT staff for planning and implementing new or upgrades of IT infrastructure.</li><li>Lead desktop and helpdesk support efforts, making sure all desktop applications, workstations, and related equipment problems are resolved in a timely manner with limited disruptions.</li></ul><p><br/></p><p>Qualifications, Skills, Education Required</p><ul><li>Associate or bachelor’s degree in computer science, Information Technology, System Administration, or equivalent experience required.</li><li>Administering Microsoft SQL Server 2014-2022, including Replication, Backup/Restore procedures, Capacity Planning, Reporting Services, Analysis Services, and Integration Services.</li><li>Migrating databases from SQL Server 2014 to SQL Server 2019.</li><li>System administration and IT certifications in Linux, Microsoft, or other network-related fields are a plus.</li><li>Must have experience managing Windows Server 2016/2019. Exchange and Office 365 Administration are preferred.</li><li>Strong knowledge of systems and networking software, hardware, and networking protocols.</li><li>Experience with scripting and automation tools are a plus.</li><li>A proven track record of developing and implementing IT strategies and plans.</li><li>Strong knowledge of implementing and effectively developing helpdesk and IT operations best practices, including expert knowledge of security, storage, data protection, and disaster recovery protocols.</li></ul><p><br/></p><p>Expected Working Hours</p><ul><li>This position is regularly scheduled daytime hours Monday through Friday with the availability to answer IT-related calls during nights and/or weekends as needed.</li></ul><p><br/></p><p>The above statements reflect the general details necessary to describe the principal functions of the occupation and shall not be construed as a detailed description of all the work requirements that may be inherent in the occupation.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

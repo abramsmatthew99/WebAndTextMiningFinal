@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Title: </strong>Software Engineer<br/><br/><strong>Business Segment: </strong>Operations &amp; Technical Services<br/><br/><strong>Country United States<br/><br/></strong><strong>State/Province: Washington<br/><br/></strong><strong>City: Seattle<br/><br/></strong><strong>Sub-Business: </strong>Technology<br/><br/><strong>Visa: US: </strong>Citizen, Green Card<br/><br/>Software Engineer sits in Washington<br/><br/>2 open positions<br/><br/>mode of interview will be technical followed by video,<br/><br/>Visa, Green Card, US Citizen, or EAD 2 years left on EAD.<br/><br/>Local candidates onsite.<br/><br/>NBC Universal is one of the world’s leading media and entertainment companies in the development, production, and marketing of entertainment, news, and information to a global audience. NBC Universal owns and operates a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, and world-renowned theme parks. NBC Universal’s policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law.<br/><br/>The Technology organization provides strategic guidance, innovative technological solutions, customer service and information security to business units, brands and employees across NBCUniversal. The Technology organization works to simplify and improve our clients’ experiences with technology while developing innovation solutions that transform how we shape the future of media and entertainment.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li> A rock-solid Engineer who possesses strong programming and problem solving abilities</li><li> A talented App Developer that can contribute on iOS, Android and other platforms</li><li> A team player who knows how to balance group communication and process alongside software design and implementation</li><li> An empathetic Developer who keeps focus on the goals of our users and makes technical decisions to improve user experiences<br/><br/><br/></li></ul><strong>The Job Involves<br/><br/></strong><ul><li> Writing code to implement new features and designs in our iOS and Android applications</li><li> Reading code to understand existing systems</li><li> Participating in code reviews as both reviewer and reviewee</li><li> Diagnosing and fixing issues reported by our QA team, beta testers or end users</li><li> Engaging in interface design and technical architecture discussions with peers</li><li> Maintaining server-side code that provides data and configuration to our apps</li><li> Continuing education and enrichment to grow as a developer <br/><br/><br/></li></ul><strong>Technologies And Tools We Use<br/><br/></strong><ul><li> Collaboration: Github, git, JIRA</li><li> Android: Android Studio, Gradle, Java, Kotlin</li><li> iOS: Xcode, Objective-C, Swift</li><li> Services: Node.js, Go, C#, JSON</li><li> Automation: Jenkins, Python<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Qualifications/Requirements <br/><br/></strong><ul><li> Bachelor’s degree in Computer Science, or related area, with at least three years of software development experience</li><li> In lieu of Bachelor’s degree, extensive coding skills, app development experience and familiarity with the field's concepts, practices and procedures is required</li><li> Sound knowledge and experience with software development workflows</li><li> Good communication skills, both written and verbal</li><li> Fluency in the coding practices of one or more app development platforms</li><li> Ability to adapt platform specifics to discuss and develop general software development practices across projects</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

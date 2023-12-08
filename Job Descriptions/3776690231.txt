@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>PIM Data Analyst (Vendor Relations)</strong></p><p><strong>Birmingham, AL</strong></p><p><strong>Full Time, Direct Hire</strong></p><p><br/></p><p>The PIM (Product Information Management) Data Analyst is responsible for managing and enhancing the quality of product data within the organization's PIM system. This role involves adding rich data to feeds, attaching it to base SKUs and SuperSKUs, reviewing and maintaining existing data for normalization, accuracy, and quality, reviewing and approving workflow data from various teams, reviewing final outputs for refinement and providing feedback to 3rd parties, working closely with the Governance Team, and reviewing and approving PDX Vendor Enriched Data. The PIM Data Analyst plays a crucial role in ensuring accurate and enriched product information to support business operations and customer experience.</p><p><br/></p><p><strong>Key Responsibilities:</strong></p><ul><li>Add rich data to feeds and associate it with base SKUs and SuperSKUs to enhance product information.</li><li>Review and maintain existing data within the PIM system, ensuring normalization, accuracy, and quality.</li><li>Process workflow data to ensure compliance with established standards and guidelines.</li><li>Review and approve data provided by external teams, including compliance, marketing, web owners, and feedback teams.</li><li>Review final outputs, such as actual websites, and refine as needed to ensure accurate and consistent product information.</li><li>Provide feedback to third-party vendors regarding data quality and enrichment efforts.</li><li>Collaborate closely with the Governance Team to align with data governance policies and standards.</li><li>Review and approve PDX Vendor Enriched Data for integration into the PIM system.</li><li>Work with cross-functional teams to ensure seamless data integration and accuracy across multiple systems.</li><li>Stay updated with industry best practices and emerging trends in PIM and data management.</li></ul><p><br/></p><p><strong>Qualifications and Experience:</strong></p><ul><li>Bachelor's degree in Computer Science, Information Systems, or a related field.</li><li>Proven experience as a PIM Data Analyst or similar role, preferably in a retail or e-commerce environment.</li><li>Strong understanding of product data management principles and best practices.</li><li>Experience with PIM systems and tools, such as Akeneo, inRiver, or Stibo Systems.</li><li>Proficient in data entry, data cleansing, and data validation techniques.</li><li>Excellent attention to detail and accuracy in data handling.</li><li>Strong analytical and problem-solving skills to identify and resolve data-related issues.</li><li>Familiarity with workflow processing and approval mechanisms.</li><li>Experience working with cross-functional teams and stakeholders, including Compliance, Marketing, and Web Owners.</li><li>Excellent communication skills to effectively collaborate and communicate complex information.</li><li>Ability to review and refine data outputs based on real-world usage and customer feedback.</li><li>Familiarity with data governance principles and compliance requirements.</li><li>Knowledge of PDX (Product Data Exchange) standards is a plus.</li><li>Note: The above job description is a general overview and may be subject to modifications based on specific organizational requirements and industry trends.</li></ul><p><br/></p><p><em><span class="ql-cursor"> </span>Calculated Hire provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, gender, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local laws.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst, Supply Chain, and Strategy/Planning
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

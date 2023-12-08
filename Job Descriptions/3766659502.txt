@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Kalahari Resorts and Conventions delivers a beyond-expectations waterpark resort and conference experience all under one roof. The authentically African-themed resort is home to America’s largest indoor waterparks and features well-appointed guest rooms, full-service Spa Kalahari, a fun-filled family entertainment center, on-site signature restaurants, unique retail shops and a state-of-the-art convention center.<br/><br/>We are inviting you to apply for our <strong>IT Tier I Technician</strong> position. In this role, you will be part of an IT team responsible for the successful overall analysis, development, enhancement, testing, implementation, installation, monitoring, operation, support and maintenance of our Kalahari applications/systems, analytical &amp; guest facing platforms/environments, end user computers, devices, audio and visual equipment.<br/><br/>Additionally, you would develop and maintain a general understanding of business operations combined with prior IT experiences and knowledge to triage and provide resolution of technical issues and problems. You would be a part of a team to install, configure, and test new versions, patches, and upgrades, partnering with the necessary infrastructure and IT Security enterprise teams. You would participate in a team on-call rotation, available to work some off-hours and weekends, in a flexible schedule on-site. This position may require travel to other resort locations on occasion.<br/><br/>We do require that you have a background, consisting of a bachelor’s degree in Computer Science, Information Technology or Management Information Systems from a four-year college or university; or related experience and/or internship, training; or an equivalent combination of <strong>0-3 years</strong> education and experience.<br/><br/>Additional required skills include:<br/><br/><ul><li>Prefer Bachelor’s degree in Computer Science, Information Technology or Management Information Systems from a two, four-year college or university; or technical IT engineering, application, and/or software development experience and/or training; or an equivalent combination of 0-3 years education and experience (i.e., internship)</li><li>Must have technical IT experience (i.e., can be through coursework/ internship/ previous work roles) that will contribute to working with various 3rd party and custom software applications, equipment, devices, hardware &amp; platforms/environments that are in support of hospitality/restaurant/gaming/retail/entertainment and/or related industry (i.e., point of Sale, property management, tablets, kiosks, payments etc.) </li><li>Familiarity with gathering requirements and documentation; with work with business teams in this type of activity in order to enable the IT Team to architect, build, design and implement technology solutions, able to follow defined IT policies, enterprise architecture and technical design standards.</li><li>Familiarity with with server and workstation operating systems including Windows, Linux</li><li>Familiarity with back-end application database technologies such as SQL Server</li><li>Familiarity with application integrations resulting in flow of transactional &amp; other critical operational data (i.e., API’s)</li><li>Familiarity with with analytical, business intelligence and data warehouse/marts/lake that produce critical reporting and analytical models for the organization (i.e., Snowflake, Teradata)</li><li>Familiarity with with basic IT security &amp; data protocols and standards (i.e., PII , PCI, SOX, GDPR/CCPA, access rights/SSO), able to follow compliance guidelines ex: able to work with guest facing applications and guest data)</li><li>Familiarity with payments related functionality &amp; processes a plus.</li><li>Must be able to provide individual status and tracking on IT assigned support work activities with standard Incident, Problem and Change management ITIL toolsets (i.e., ServiceNow, Remedy).</li><li>Understanding of engaging with 3rd party vendors for additional product insight and support when needed, providing necessary technical details.</li><li>Understanding of change management processes to ensure smooth migration between dev, QA and production environments.</li><li>Ability to respond to common inquiries or complaints from guests and business / operations areas.</li><li>Must be able to utilize and communicate functional and technical components both verbally and through documentation. </li><li>Solid organizational, problem solving, and time management skills, able to complete work assigned tasks to expectations.</li><li>Need to be a team player, willing to help anyone in the immediate area on a minute’s notice.</li><li>Must be willing to learn and demonstrate a drive to get tasks assigned done on time and within necessary urgency as business dictates.<br/><br/></li></ul>If your background is what we’re seeking and your personality is one of service to others, please consider joining our growing and industry leading team.<br/><br/><strong>Company Mission<br/><br/></strong>We promise to deliver products and services beyond expectations.<br/><br/><strong>A Sampling Of Our Benefits<br/><br/></strong>Our team enjoys a comprehensive and attractive benefits plan:<br/><br/><ul><li>Above-industry average compensation</li><li>Promotion from within</li><li>Mental, Financial, Physical, Work/Life and Career wellness initiatives</li><li>Educational opportunities</li><li>Full and varied benefit package available for full-time associates</li><li>401(k) with company match</li><li>Appreciation days, parties, and retention programs</li><li>Paid time off and holiday pay</li><li>Discounts and resort perks<br/><br/></li></ul>Current locations include Wisconsin Dells, Wisconsin (2000), Sandusky, Ohio (2005), Pocono Manor, Pennsylvania (2015) and Round Rock, Texas (2020).<br/><br/><strong>Kalahari Resorts and Conventions is an equal opportunity employer.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitality
+          </span>
+</li>
+</ul>
+</div>
+</section>

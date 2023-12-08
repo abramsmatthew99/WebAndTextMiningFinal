@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Assistant Professor of Computer Science – Tenure-Track Faculty</strong><p><br/></p>Spartanburg Methodist College invites applications for a full-time tenure-track faculty appointment as an <strong>Assistant</strong> <strong>Professor of Computer Science </strong>beginning in the 2024-2025 academic year. The primary responsibilities will be teaching and service to the college. The instructional load for this position could include courses such as Introduction to Computer Science Technology, Introduction to Computer Science and Programming, Digital Design for the Web, and perhaps other computer science subjects. The standard teaching load for this position is eight courses per academic year: four courses in the fall semester and four courses in the spring semester.<p><br/></p>Spartanburg Methodist College has a long history of providing excellent undergraduate education for students who are traditionally underserved. The institution seeks qualified candidates who possess the skills and abilities to work with students who have academic and life challenges. The successful candidate will have a clearly articulated teaching philosophy; experience with first-generation, non-traditional, and/or traditionally underserved student populations; and a record of teaching excellence. Spartanburg Methodist College particularly welcomes applications from candidates who have experience working with students from diverse backgrounds.<p><br/></p><strong>Qualifications For This Position Include</strong><p><br/></p><ul><li>A master’s in computer science or a master’s degree in a related field with 18 graduate hours in computer science, a Ph.D. in computer science is preferred.</li><li>2 years of teaching experience and two years of teaching at the college level is preferred. </li></ul><p><br/></p><strong>Please Submit The Following To Apply</strong><p><br/></p><ul><li>cover letter explaining your interest in the position, qualifications, and reason you are applying.</li><li>curriculum vitae</li><li>college transcripts (can submit copies/unofficial transcripts to apply, but will be required to submit official copies to be hired)</li></ul><p><br/></p>Application Deadline: Ongoing until filled.<p><br/></p><strong>About the College</strong>: Founded in 1911, Spartanburg Methodist College is a private residential liberal arts institution serving a diverse student population within the United Methodist Connection. Since its founding as the first co-op school in the nation, SMC has remained dedicated to its mission to connect education and employment. After over 100 years as an Associate Degree granting institution, the college launched its first bachelor’s degree in 2019. SMC is growing significantly, adding new programs, and consistently evaluating operations because of a campus-wide commitment to innovation and a passion for designing all campus programs to serve its student population intentionally. Today, the college’s emphasis on education and employment includes a unique professional development concentration comprised of eight required courses for students seeking associate and bachelor’s degrees. SMC is committed to its student demographic and believes that global impact is possible through their success.<p><br/></p><strong><em>Spartanburg Methodist College</em></strong><em> does not discriminate on the basis of race, color, creed, religion, sex, age, national or ethnic origin, disability, veteran status, sexual orientation or any legally protected status in any personnel action regarding the recruiting, hiring, and promotion of faculty and staff members.</em><p><br/></p><em>All offers of employment are contingent upon satisfactory results of a background investigation. SMC participates in the federal </em><em>E-Verify program</em><em>.</em><p><br/></p><strong><em>SMC </em></strong><em>does not maintain an open application file. Unsolicited resumes will not be considered.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

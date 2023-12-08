@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>OUR STORY</strong></p><p>TechInsights is the information platform for the semiconductor industry. </p><p>Regarded as the most trusted source of actionable, in-depth intelligence related to semiconductor innovation and surrounding markets, TechInsights’ content informs decision makers and professionals whose success depends on accurate knowledge of the semiconductor industry—past, present, or future. </p><p>Over 650 companies and 55,000 users access the TechInsights Platform, the world’s largest vertically integrated collection of unmatched reverse engineering, teardown, and market analysis in the semiconductor industry. This collection includes detailed circuit analysis, imagery, semiconductor process flows, device teardowns, illustrations, costing and pricing information, forecasts, market analysis, and expert commentary. TechInsights’ customers include the most successful technology companies who rely on TechInsights’ analysis to make informed business, design, and product decisions faster and with greater confidence. For more information, visit www.techinsights.com.</p><p><br/><strong>THE OPPORTUNITY</strong></p><p>The Analytics Data Architect is responsible for designing, implementing and maintaining the data infrastructure required to support our internal analytics and business intelligence needs. They work closely with the Analytics team to understand our requirements, and with the underlying data sources owners to document the current data landscape and develop the most effective solutions for internal data sourcing and warehousing.</p><p>This role will be on location in our Denver, CO office.</p><p><strong>WHAT YOU WILL DO</strong></p><p><strong>Design &amp; Implement the Analytics Data Structure</strong></p><ul><li><p>Work closely with the business and data analysts to gather and document requirements for data objects, relationships and overall data structure to support our internal reporting needs.</p></li><li><p>Recommend and implement a robust design for scalable data models that effectively support analytics requirements and leverage existing available tools and infrastructure.</p></li><li><p>Define and implement data acquisition and integration logic, selecting an appropriate combination of methods and tools within the defined technology stack to ensure optimal scalability and performance of the solution.</p></li><li><p>Build scalable data pipelines aligned with the suggested data structure.</p></li></ul><p><strong>Document &amp; Maintain the Data Structure</strong></p><ul><li><p>Document the data structure for the analytics team and maintain the documentation on an on-going basis by identifying potential changes in underlying data sources, or revised business metrics definitions.</p></li><li><p>Develop, implement and monitor base data quality and integrity routines to enable reporting of potential data discrepancies or inconsistencies.</p></li><li><p>Create and maintain additional documentation needed by our analytics team to standardize and communicate to the rest of the company (e.g. taxonomy, data standards, mappings, etc.).</p></li></ul><p><strong>Research &amp; Educate</strong></p><ul><li><p>Provide expert advice and education in the usage and interpretation of data.</p></li><li><p>Evaluate upcoming data structure and warehouses to provide cost-efficient, powerful and future-proof recommendations to constantly evolve our data infrastructure.</p></li><li><p>Educate junior data analyst on data architecture concepts and standards.</p></li><li><p>Stay abreast of Advanced Analytics industry trends, technologies and best practices and identify appropriate solutions for our team.</p></li></ul><p></p><p><strong>WHO YOU ARE</strong></p><ul><li><p>Degree in Computer Science or related technical field required. </p></li><li><p>5 years or more of experience with data warehousing, business intelligence concepts, and leading industry practices. </p></li><li><p>A proven track record ofarchitecting application and technology solutions in a complex mission critical environment is a must. </p></li><li><p>Hands-on experience with analytical tools, languages and/or libraries. Familiarity with Analytical and Visualization tools such as Tableau preferred.</p></li><li><p>Experience with AWS RedShift is required, and experience with various database environments (e.g. MySQL, PostGRES, SQL, etc.) is highly desired.</p></li><li><p>Experience with key business applications back-end data structures (e.g. Salesforce, NetSuite), ETL and/or automation tools (e.g. Mulesoft) a plus.</p></li><li><p>Familiarity with the Atlassian suite of collaborative software preferred.</p></li><li><p>A resource for colleagues with less experience and for other team members.</p></li><li><p>Excellent written and verbal communication skills with the ability to interact and influence all levels of employees, bridging the gap between technology and business. Ability to explain complex, difficult, and/or sensitive information to non-technical stakeholders and to build consensus.</p></li></ul><p></p><p>As part of the recruitment process for this position, you will be required to submit your latest citizenship and/or permanent residency information. This information will be used to comply with U.S. Export Control Laws and Regulations.</p><p></p><p><strong>WHY WORK WITH US</strong></p><ul><li>The expected salary range for this position is $100,000 to $113,000 per year.</li><li><p>Competitive pay and generous benefits (medical, dental, vision, wellness, RRSP/401K Matching)</p></li><li><p>Flexible vacation policy</p></li><li><p>Annual fitness reimbursement</p></li><li><p>Strong sense of camaraderie, mutual respect and shared goals among colleagues</p></li><li><p>Support for community through charitable alliances</p></li><li><p>Professional and career development opportunities</p></li></ul><ul><li><p>Wellness resources and support from management</p></li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

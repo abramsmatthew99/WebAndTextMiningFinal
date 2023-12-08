@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>What We Do<br/><br/></strong>Gecko Robotics is helping the world's most important organizations ensure the availability, reliability, and sustainability of critical infrastructure. Gecko's complete and connected solutions combine wall-climbing robots, industry-leading sensors, and an AI-powered data platform to provide customers with a unique window into the current and future health of their physical assets. This enables real-time decision making to increase the efficiency and safety of operations, promote mission readiness, and protect the environment and civilization from the effects of infrastructure failure.<br/><br/><strong>About The Team<br/><br/></strong>Gecko's software teams come into the picture <em>after </em>our robots and operators collect data in the field. The petabytes of data our robots collect are only valuable and useful if we as humans (and our software tools) are able to understand the story the inspections are telling. The Software Organization's work bridges multiple data layers and functions, ultimately converging in our transformative Cantilever software that directly impacts critical maintenance and repair decision making worldwide.<br/><br/><strong>Role at a Glance<br/><br/></strong>We have multiple teams within the Software Organization that you can make an impact on. On any of our teams, you will work in a highly collaborative environment to design, code, and ship the features that unlock insights and value from the huge volumes of data collected by Gecko robots everyday. Our teams are full stack in nature by design and are made up by folks with varying backgrounds.<br/><br/><strong>What You Will Do<br/><br/></strong>We currently have openings across the below teams, and want to get to know you better throughout interviews to determine the best match for you and your skillset/interests:<br/><br/><ul><li>Data Systems - The Data Systems team creates the software needed to turn raw inspection data into deliverables for customers, develop pipelines that perform automated processing, and empower our internal data analysis team with tools to manually process datasets more efficiently and accurately. </li><li>Enterprise - The Enterprise Team is responsible for Gecko's customer facing, business-to-business, enterprise software. These range from map-based fleet management solutions to digital twin systems for use by clients around the world. As an Enterprise team developer, you will work on constructing high-performance 2D and 3D data visualizations, as well as developing predictive models and planning workflows. Strong software design pattern skills and a user experience mindset are crucial to success. </li><li>Rolodex - The Rolodex team builds critical backend services for Gecko, creating a single source of truth data layer that is used across every other team and application. We're driven to provide a great experience for our users, building easy to use tools that perform at scale. </li><li>Platform - The Software Platform team's purpose is to empower software engineers, reduce unnecessary blockers, and increase our velocity to create exceptional products. They do this by making software effortless to build, deploy, and manage. Using automation, shared libraries, and DevEx tools, they solve the common software problems so other engineers can focus on Gecko's unique challenges. <br/><br/></li></ul><strong>Technologies We Use<br/><br/></strong>We use a variety of technologies, but we primarily operate using Python, React, and Typescript with Google Cloud Platform (GCP) as our cloud provider. This is a non-exhaustive list and we are tech agnostic in our interview process, so we encourage you to apply regardless of your background.<br/><br/><strong>About You<br/><br/></strong><ul><li>Passionate about crafting premium user workflows, data visualizations, and customer-oriented solutions. </li><li>Real world expertise developing enterprise software and managing the growing complexity of such applications. </li><li>Desire to have a high impact at a fast-moving startup as a key contributor on a new project in a fast-growing team</li><li>Exceptional communication skills and commitment to receiving and providing continuous feedback</li><li>An open mindset to new ideas and innovative problem solving </li><li>Excited to dive into new technologies and embrace strong DevOps practices</li><li>High self-motivation and love of self-directed learning</li><li>Bachelor's degree in Computer Science or closely related field (or equivalent experience)</li><li>Minimum of 3 years (or preferably more!) of hands on development in a production environment<br/><br/></li></ul><strong>Who We Are<br/><br/></strong>At Gecko, our people are our greatest investment. In addition to competitive compensation packages, we offer company equity, 401(k) matching, gender-neutral parental leave, full medical, dental, and vision insurance, mental health and wellness support, ongoing professional development, family planning assistance, and flexible paid time off.<br/><br/>We believe that we do our best work when we're together in person, and we're committed to creating a culture of collaboration, innovation, and partnership. We ask our employees to be in the office 3 to 5 days per week, depending on the location and role. Our in-office benefits vary by location, but include catered lunch or lunch stipends, fully stocked kitchens, frequent employee events, and more.<br/><br/>Gecko is committed to creating a culture of inclusion and belonging, and we are proud to be an equal opportunity employer. We believe it is our collective responsibility to uphold these values and encourage candidates from all backgrounds to join us in our mission to protect today's infrastructure and give form to tomorrow's. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, veteran status, age, or any other protected characteristic per federal, state, or local law. If you are passionate about what you do and want to use your talents to support our critical mission, we'd love to hear from you.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Responsibilities<br/><br/></strong><strong>Summit Medical Group</strong> is recruiting for a <strong>Software Anaylst 1</strong>. In the role of <strong>Software Analyst 1</strong> you will be responsible for the assisting in the design, specification, engineering, test, debug, release, and support of the Summit Medical Group software and systems that we internally develop for our operations and customers. This is a full time opportunity.<br/><br/><strong>Examples of Duties (List does not include all duties assigned)<br/><br/></strong>Works in a supporting role in conjunction with other Software Analysts and System Architects in order to:<br/><br/><ul><li> Define solutions in a complex and diversified business environment to aggregate and integrate data from dozens of sources throughout SMG. Translate business requirements into detailed solution architectures and future state process models. </li><li> Designs, programs, and tests software applications, web services, and subsystems based on object-oriented languages (e.g. C#, .Net Core 7, ASP/NET, C++) using agile development methodologies. </li><li> Designs, programs, tests, and deploys software and system monitoring tools and processes that support the IT Architecture for business systems applications and services. </li><li> Deliver IT solutions based on Product Release Cycles and processes. </li><li> Assist in the definition of an IT Product integration development and testing strategy and methodology to support business and IT projects. </li><li> Provide guidance and signoff on IT Product solution concepts across the enterprise based on Architecture standards and guidelines. </li><li> Continually review and suggest improvement to the subsystem architecture processes, policies, and vision and explore new and emerging technologies. Lead the investigation and adaptation of beneficial solution architecture technologies and tools. </li><li> Develop, maintain, and provide status reports on project progress metrics for executive management and team members. </li><li> Actively participates in site-level Quality Improvement Activities. Each employee will contribute to the continual evaluation site performance as well as the implementation and measurement of improvement activities that increase the quality of care provided to patients. </li><li> Maintain strictest confidentiality both internally and externally. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong> Education <br/><br/></strong>Bachelor’s degree in Computer Science, or other relative degree, from an accredited college or university; or equivalent education / experience in the computer science field.<br/><br/><strong>Experience<br/><br/></strong><ul><li> Minimum equivalent experience is defined as a minimum 3 years’ experience in the field of IT developing client, web server, and/or mobile software applications.</li><li> Programming experience in C#, using MVC, WebAPI, WPF, WinForms, .Net Core 7 required.</li><li> Ability to create Web API Endpoints and user interfaces with .Net Core 7 and Angular.</li><li> Demonstrated ability to create SQL Server Stored Procedures which may be called by Web API Endpoints.</li><li> Ability to maintain .Net Framwork 4.5 MVC, Windows Forms, Console Applications, and Dapper for SQL server calls strongly preferred.</li><li> Prior experience creating and maintaining Microsoft Access applications, PowerShell scripts, and Active Director calls preferred.<br/><br/></li></ul><strong>Overview<br/><br/></strong><strong> About Summit Medical Group <br/><br/></strong>Summit Medical Group is East Tennessee’s largest primary care organization with more than 400 providers at 87 practice locations in 18 counties. Summit also consists of four diagnostic centers, mobile diagnostic services, eight physical therapy centers, four express clinics, central laboratory, and sleep services center. Summit provides healthcare services to more than 370,000 patients, averaging over one million encounters annually. For more information, visit www.summitmedical.com<br/><br/>In addition to our commitment to the health of our community, our organization is also committed to the health of our employees through our employee Wellness Program. Employees receive a discounted monthly insurance premium if they actively participate in the wellness program. Furthermore, Summit Medical Group hires only non-tobacco users. Pre-employment drug testing will include testing for nicotine, and only candidates who pass the drug test will be considered eligible for employment.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Practices
+          </span>
+</li>
+</ul>
+</div>
+</section>

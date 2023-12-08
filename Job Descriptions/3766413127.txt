@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        United States Special Operations Command (USSOCOM) is looking for a Junior Network Administrator to assist design, implement, maintain, and administer a growing cloud and on premises network infrastructure solution to support a modern Mission Control System. As a Junior Network Administrator, you will be part of an administrative team that is responsible for designing and developing scalable, maintainable, highly available network architectures that meet mission requirements.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Administer, manage, implement, and maintain USSOCOM’s cloud and on-prem infrastructure services. </li><li>Collaborate with engineers and USSOCOM government technical staff to ensure seamless integration of hardware, software, and firmware across an array of network solutions. </li><li>Monitor network performance and troubleshoot issues as they arise. </li><li>Configure and maintain firewalls, switches, and routers</li><li>Configure routing and switching capabilities including RIP, OSPF, EIGRP, BGP, lay 2 and 3 switching, spanning tree, portfast, WiFi, VLANs, iSCSI, VPN, DNS, and DHCP services. </li><li>Develop and maintain network security policies, standards, and monitoring capabilities. </li><li>Assist with designing and maintaining disaster recovery and business continuity plans</li><li>Participate in the planning and execution of network upgrades and expansions. </li><li>Manage cloud-based services such as DNS, digital certificates, storage solutions including SAN and NAS, IP based video, phone services and camera services, and network connected end user workstations. </li><li>Implement network monitoring tools such as Wire Shark, PRTG, Auvik and solar winds. </li><li>Support and manage other IT services as required. <br/><br/></li></ul><strong>This position is required to be onsite at USSOCOM’s HQ and offsite facilities in Tampa FL. <br/><br/></strong><strong>Requirements<br/><br/></strong><strong>Necessary skills and experience<br/><br/></strong><ul><li>Prior SOCOM network enterprise experience with at least 3 years managing SIE capabilities. </li><li>Minimum 3 years of networking and systems experience supporting a wide variety of network technology, platforms, designing and implementing complete network infrastructure. As well as managing and configuring highly reliable hybrid environments across network infrastructures including copper, fiber, and cloud-based solutions. </li><li>Cisco Certified Network Administrator-CCNA or higher (CCNP)</li><li>Comptia Net+ and Sec+</li><li>In-depth knowledge and hands-on experience with networking hardware, installation, configuration, and troubleshooting</li><li>Experience with network infrastructure and protocols, including TCP/IP, DNS, DHCP, and VPN services</li><li>Must have an active U.S. government Top Secret security clearance and must be SCI eligible. <br/><br/></li></ul><strong>Beneficial Skills And Experience<br/><br/></strong><ul><li>Strong technical curiosity, security-minded, and a "let's figure it out" attitude</li><li>Bachelor’s degree in computer science, IT, or experience in lieu of</li><li>Cloud Infrastructure certifications in AWS and MS Azure. </li><li>Experience with SonicWALL, Fortinet, Dell, Cisco, Ubiquiti</li><li>Prior experience with an agile environment where continuous development is practiced<br/><br/></li></ul><strong>Benefits<br/><br/></strong>CTI is a rapidly growing company offering the following:<br/><br/><ul><li>Medical, dental and vision insurance</li><li>H.S.A. (partially funded by CTI) and Flex Spending</li><li>Company-paid life insurance/AD&amp;D and disability insurance</li><li>Optional supplemental life, critical illness, hospital indemnity and accident insurances</li><li>Paid vacation, sick leave and holidays</li><li>401k plan with Safe Harbor contribution</li><li>Tuition reimbursement/professional training options</li><li>Employee Assistance Program</li><li>Travel Assistance</li><li>Financial Planning Assistance</li><li>Voluntary Pre-Paid Legal</li><li>Flexible schedules with telecommuting options</li><li>Service awards program<br/><br/></li></ul>CTI is an Equal Opportunity employer and shall abide by the requirements of 41 CFR 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

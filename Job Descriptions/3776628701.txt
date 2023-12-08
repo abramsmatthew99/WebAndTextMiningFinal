@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Valore Partners</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Kathleen Mullen" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C5603AQHmxvx2-eIJuw/profile-displayphoto-shrink_100_100/0/1541616271002?e=2147483647&amp;v=beta&amp;t=V7VusE4kiSicwTIVHvZnY8PqRWWcRhBgL9HWg8iRS0k" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Kathleen Mullen
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Connecting Top Engineering Talent &amp; Opportunity | Valore Partners
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Kathleen Mullen" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fkathleenmullen1234&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>A Microsoft Gold Partner, driving digital transformation since 2005!</p><p><br/></p><p>As a member of the Custom Application Development team, you will architect, build, and drive solutions in a team member capacity, solving complex business problems using some of the newest technologies available.</p><p><br/></p><p>You’ll thrive with us if you value:</p><ul><li>Diligence: Results-oriented with a focus on successful delivery, all while navigating moving obstacles and challenges.</li><li>Pacesetting: Working alongside some of the brightest minds in the industry, fostering a culture of continuous learning and skill elevation.</li><li>Leadership: Creating a lasting positive impact from day one, acting as subject matter experts in your given domain.</li><li>Valiance: Digitally transforming some of the largest and most high-profile companies in the Phoenix area.</li><li>Partnership: Achievers that thrive in a collaborative culture, who believe in the importance of realizing a shared goal.</li></ul><p><br/></p><p>Here's what you can expect from us:</p><ul><li>Top Compensation: While gaining experience in a wide variety of industries solving complex business problems.</li><li>Continuous Training: Keeping you up to date on the newest tech.</li><li>Flexibility: With a local client base, our team members have the opportunity to focus on what matters most to them.</li><li>Collaboration: Join a group of thought leaders and trusted advisors who have a passion for solving business problems with the use of technology.</li></ul><p><br/></p><p><strong>Responsibilities</strong></p><ul><li>Provides quality assurance testing for applications, websites, databases, data, systems, integration, reporting, and processes with a focus on Dynamics 365 - Power Platform.</li><li>Conducts a full range of testing tasks including test strategy, plan and script design, execution, and quality documentation for a variety of applications, systems, databases, or websites.</li><li>Leads and implements defect management solutions for applications, systems, databases, or websites.</li><li>Reviews application features and functions and verifies test automation solutions.</li><li>Provides expertise on the quality methodology and recommends testing approaches.</li><li>Analyzes the evaluation and selection of new quality software solutions and tools.</li><li>Creates or updates project quality artifacts using disciplined processes, procedures, and standards.</li><li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for the organization.</li><li>Provides technical leadership &amp; and mentoring to less senior members on and off the team. </li><li>Consult with other teams regarding technology solutions for business needs and/or problem resolution. Proactively seeks opportunities to collaborate with other teams on projects and problem escalation. </li></ul><p><br/></p><p><strong>Qualifications</strong></p><ul><li>Bachelor's degree or equivalent experience in Computer Science</li><li>3-5 years of experience as a Software Quality Assurance Engineer</li><li>Strong understanding of both Dynamics 365 and Power Platform preferred.</li><li>Strong knowledge of computer systems and QA tools (Postman, Swagger, Azure DevOps test plan), ability to write SQL queries.</li><li>Experience on one or more project teams using an Agile methodology.</li><li>Experience working as part of a collaborative team.</li><li>Test Automation experience a plus.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Information Technology, and Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

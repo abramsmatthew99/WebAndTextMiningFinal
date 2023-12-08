@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Lumiant<br/><br/></strong>Lumiant is a SaaS startup providing an award-winning advice engagement and client experience platform where advisors connect with clients around their lives, values &amp; finances. Designed by values-based advice professionals, using a human centred methodology, we enable financial advisors to deliver highly personalized and transformational client experiences at scale. Headquartered in Sydney, Australia, with an office in Chicago, United States, Lumiant serves clients in the United States, Australia, and New Zealand.<br/><br/>Through our platform, we help people identify their life values, set SMART goals to live a life aligned to their values, and provide the tools, advice, and support to empower them to confidently achieve their goals. Our platform helps transform qualitative client conversations into quantifiable outcomes, visualizing the impact and value of advice. We are passionate about creating engaging, memorable, and measurable values-based client experiences delivered through advice professionals.<br/><br/>Read more about us on: https://lumiant.io<br/><br/><strong>About You<br/><br/></strong>Driven by product excellence and client satisfaction, you're a passionate problem-solver boasting a razor-sharp analytical mind. You seamlessly navigate between the worlds of tech and business, ensuring every stakeholder is on the same page. With robust communication skills, you simplify complex technical jargon for a diverse audience. Eager to dive into the latest technologies (Go, Python, Typescript, GraphQL, AWS, Serverless, etc.), you're also excited to learn about wealth management in a dynamic startup setting. Collaborative at heart, you're not just looking to develop applications; you're aiming to revolutionize the client experience in wealth management. Join us in sculpting a world-leading client journey.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Design and develop scalable, responsive, and user-friendly web applications</li><li>Collaborate with product managers and designers to understand project requirements and translate them into technical specifications</li><li>Implement and maintain front-end and back-end functionalities of web applications</li><li>Write clean, efficient, and well-documented code</li><li>Perform testing and debugging to ensure the quality and reliability of applications</li><li>Integrate external APIs and third-party services as needed</li><li>Stay up-to-date with emerging technologies and best practices in software development<br/><br/></li></ul><strong>Requirements<br/><br/></strong>Responsibilities<br/><br/><ul><li>Act as a Client Advocate - Proactively address and respond to client issues, feedback, and requests to enhance user satisfaction and experience</li><li>Collaborate closely with the Customer Success, Product, Engineering and Operations teams to deliver an innovative world-class product with an outstanding end-client experience, built on top of a modular platform</li><li>Be versatile and adaptable - Dive into any part of the stack as needed, embracing opportunities to learn new skills or technologies, even if it means stepping out of your comfort zone</li><li>Comfortable working autonomously, able to deliver an end result independently</li><li>Develop a highly performant, optimised, accessible, internationalised, intuitive and secure application underpinned by an event driven, scalable, modular and highly testable codebase</li><li>Contribute and adhere to best coding practices, continuous integration and continuous delivery processes</li><li>Participate in the code review process</li><li>Participate in workshops, stand-ups, internal showcases and retrospectives</li><li>Stay up-to-date with the latest industry trends and technologies</li><li>Contribute ideas and improvements to our tech stack<br/><br/></li></ul><strong>Minimum Qualifications And Experience<br/><br/></strong><ul><li>Degree in Computer Engineering / Computer Science or equivalent experience</li><li>3+ years of experience in modern software engineering practices focused on being agile, DevOps, Continuous Integration, Continuous Delivery and Quality Engineering</li><li> Deep expertise in designing, developing, and debugging in Go or Python with a comprehensive understanding of object-oriented design principles and patterns</li><li>Proficient in writing and optimizing SQL statements</li><li>Exceptional problem-solving skills with the aptitude to troubleshoot and debug challenging issues</li><li>Excellent communication skills, emphasizing client responsiveness and team collaboration</li><li>Ability to write effective, scalable and secure code coupled with an understanding of automated testing and the creation of readable, maintainable tests<br/><br/></li></ul><strong>Preferred Experience<br/><br/></strong><ul><li>Hands-on experience with AWS and Linux, or familiarity with other cloud providers such as Azure or GCP</li><li>This position is full-time with 2-3 days in our Chicago office per week<br/><br/></li></ul><strong>Benefits<br/><br/></strong>Lumiant offers a competitive vacation, Healthcare, and 401K benefit programs.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

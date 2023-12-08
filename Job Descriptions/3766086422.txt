@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job description</strong></p><p><strong>POSITION SUMMARY:</strong></p><p>The End User Support Specialist’s responsibilities include providing on-site and remote support for all end-user issues. Their responsibilities include but are not limited to the installation, configuration, and maintenance of firm-approved applications, peripherals, and desktop technology. It is important to have a great attitude, strong problem-solving abilities, and excellent customer service skills. The End User Support Specialist must also be able to travel occasionally to other offices to provide on-site support if needed.</p><p><strong>KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED:</strong></p><p>1. EDUCATION:</p><p>Associate’s degree, computer certification, or equivalent education in a computer science field.</p><p>2. WORK EXPERIENCE:</p><p>Must have at least two years of experience supporting users in a helpdesk or customer service technical role. Law firm experience preferred.</p><p>Excellent knowledge and ability to support software, not limited to, Microsoft Office Suite.</p><p>Excellent researching and troubleshooting skills.</p><p>Ability to interact professionally with all levels of internal and external contacts.</p><p>Customer Service oriented person with knowledge of PC hardware, Windows 10 operating system, and general hardware accessories and software installation and troubleshooting methods.</p><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

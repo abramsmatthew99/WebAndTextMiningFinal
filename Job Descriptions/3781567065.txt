@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong>Website Developer - US/Canada Only, 1 year of project experience<br/><br/></strong><strong>Employment Type:</strong> Full-time<br/><br/><strong>Base Salary:</strong> $55K-$62K<br/><br/>Phoenix Recruitment offers a variety of recruiting services to assist both employers and employees. They specialize in marketing open positions, recruiting, and helping employers to find qualified candidates across various industries. Phoenix Recruitment has expertise in streamlining the hiring process. They can help ensure that the process is efficient, well organized, and compliant with relevant regulations.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Write well-designed, testable, efficient code by using best software development practices </li><li>Create website layout/user interface by using standard HTML/CSS practices </li><li>Integrate data from various back-end services and databases </li><li>Gather and refine specifications and requirements based on technical needs </li><li>Stay plugged into emerging technologies/industry trends and apply them to operations and activities <br/><br/></li></ul><strong>Requirements and skills:<br/><br/></strong><ul><li>1+ years of proven working experience in web programming </li><li>Top-notch programming skills and in-depth knowledge of modern HTML/CSS </li><li>A solid understanding of how web applications work including security, session management, and best development practices </li><li>Adequate knowledge of relational database systems, Object Oriented Programming, and web application development </li><li>Hands-on experience with network diagnostics, network analytics tools </li><li>Basic knowledge of the Search Engine Optimization process </li><li>Ability to work and thrive in a fast-paced environment, learn rapidly, and master diverse web technologies and techniques. </li><li>BS in computer science or a related field <br/><br/></li></ul><strong>Why Phoenix Recruitment LLC?<br/><br/></strong>Phoenix Recruitment often has an extensive network of employers and candidates. This network allows them to tap into a pool of qualified candidates and connect them with suitable job opportunities. They can also leverage their connections to help employers find the right talent efficiently. Outsourcing the recruitment process to a specialized agency can save you time and resources, avoid delays, reduce administrative burdens, and increase the chances of finding the right fit for your organization.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

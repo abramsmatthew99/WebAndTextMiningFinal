@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Data Engineer (Hybrid)<br/><br/></strong><strong>FLSA Classification:</strong> Exempt<br/><br/><strong>Salary Range</strong>: $110,000 - $125,000 plus bonus and incentive stock options<br/><br/><strong>Reports to</strong>: Sr. Data Analytics Manager<br/><br/><strong>About The Company:<br/><br/></strong>NineDot's name derives from the classic mathematical puzzle for sparking out-of-the-box solutions. As a leading community-scale, clean energy developer with a growing portfolio of projects across a range of technologies, NineDot Energy is creating innovative energy solutions that support a more resilient electric grid, deliver economic savings, address environmental justice and reduce carbon emissions. We plan to develop, build and operate more than 400 MW of clean energy systems by 2026 that will strengthen the local power grid infrastructure and provide clean, reliable and resilient power to tens of thousands of New York households and businesses. This is all in support of New York State's mission to achieve 100% clean energy by 2040.<br/><br/>With the backing of the Carlyle Group - one of the largest private equity firms - NineDot is rapidly expanding its core team to scale its energy storage pipeline and continue innovating new products (e.g. vehicle-to-grid, community energy, etc.) to advance the decarbonization of New York's grid. This is an exciting opportunity to build a platform from the ground-up with a world-class team of developers and innovators. NineDot is committed to building a company that exemplifies diversity, equity and inclusion values in its team culture, as well as business practices and community engagement.<br/><br/><strong>Job Summary:<br/><br/></strong>We are seeking our first Data Engineer to design, develop, and maintain large-scale data applications and pipelines, working closely with the Sr. Data Analytics Manager to improve NineDot's business through smarter use of data. This role will be highly technical and hands-on. As a data engineer, your role would involve managing and optimizing data related to various aspects of renewable energy generation, distribution, and consumption. You would be responsible for designing and implementing data management systems, ensuring data quality, and utilizing appropriate tools and technologies to extract valuable insights from the data.<br/><br/><strong>Responsibilities: <br/><br/></strong><ul><li>Lead the research and deployment of a new data warehouse and analytics platform that will keep pace with NineDot's growth. </li><li>Manage relationships with external vendors and parties to address NineDot's software and technology needs. </li><li>Work closely with project development, operations, and finance groups within NineDot to identify data needs, integrate and improve our data structures and processes. </li><li>Develop and maintain data documentation including data dictionaries, data lineage and metadata. </li><li>Integrate data from outside platforms using APIs into NineDot's internal data platforms. </li><li>Manage data policies and governance frameworks to ensure data privacy, security, and compliance with regulations. </li><li>Evaluate and implement new technologies and tools as needed to improve NineDot's data infrastructure, pipelines, and processes. </li><li>Process and analyze internal data to meet business needs. </li><li>Designing and implementing scalable and efficient data architectures to support data storage, processing, and analysis needs across the organization. <br/><br/></li></ul><strong>Competencies for Success<br/><br/></strong><ul><li>Problem Solving - Uses rigorous logic and methods to solve difficult problems with effective solutions. </li><li>Interpersonal Savvy - Relates well to all colleagues inside and outside the organization. </li><li>Intellectual Horsepower - Deals with concepts and complexity comfortably. </li><li>Perseverance - Pursues everything with energy, drive, and a need to finish; seldom gives up before finishing, especially in the face of resistance or setbacks. </li><li>Technical Learning - Picks up on technical things quickly; can learn new skills and knowledge; is good at learning new industry, company, product, or technical knowledge. </li><li>Creativity - Comes up with a lot of new ideas; easily makes connections among previously unrelated notions; tends to be seen as original and value-added in brainstorming settings. </li><li>Dealing with Ambiguity - Can effectively cope with change; can decide and act without having the total picture; can comfortably handle risk and uncertainty. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Math, Statistics, Engineering, Computer Science or related field. </li><li>5+ years of data engineering, programming, or related experience. </li><li>Experience with setting up and managing data pipelines, schemas, and storage for multiple systems and teams </li><li>Proven experience with Asana. </li><li>Coding experience in one or more of the following languages: Python, SQL, Java, Ruby, Javascript. </li><li>Experience with cloud platforms like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP). </li><li>Experience with data integration, including using APIs, and ETL tools. </li><li>Advanced knowledge of algorithms, data structures, and relational algebra Database management experience with PostgreSQL, RDS, or Redshift Data extraction. </li><li>Familiarity with data visualization and analytics tools (e.g., Tableau, Power Bi, Looker, Mode). </li><li>Knowledge of data management fundamentals and data storage principles. </li><li>Strong written and verbal communication skills. <br/><br/></li></ul>Not necessary but could be nice:<br/><br/><ul><li>Experience in predictive modeling and statistical analysis. <br/><br/></li></ul><strong>Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions</strong>.<br/><br/><strong>Affirmative Action/EEO statement<br/><br/></strong>We are proud to be an Equal Opportunity/Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate on the basis of race, color, national origin, religion, gender expression, gender identity, sex, age, ancestry, marital status, protected veteran and military status, disability, medical condition, sexual orientation, genetic information, or any other status of an individual or that individual's associates or relatives that is protected under applicable federal, state, or local law.<br/><br/><strong>Covid 19 Protocol:<br/><br/></strong>NineDot continues to monitor local COVID-19 protocols mandated by state and federal governments. For those who will be joining events in person, you may be required to test before meetings.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

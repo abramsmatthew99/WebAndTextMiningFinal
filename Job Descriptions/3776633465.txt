@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job Title</strong>: Junior Developer</p><p><strong>Type: </strong> Contract-to-hire (3-6 months)</p><p><strong>Location: </strong>Remote (Working on EST)</p><p> </p><p><strong>Company Overview:</strong></p><p>Brooksource is looking to hire Associate Java Developers to become part of a leading force in the retail industry. We are seeking passionate and talented individuals to join us as Associate Java Developers, contributing to innovative solutions that shape the future of retail technology. As an industry leader, we offer a collaborative and growth-oriented environment where your skills will be nurtured, and you'll have the opportunity to work on cutting-edge projects.</p><p><br/></p><p><strong>Position Overview:</strong></p><p>We are looking for entry-level/associate Java Developers who possess a strong foundation in computer science, programming concepts, and a degree with a specialization in Computer Science. The ideal candidate will have proficiency in Java along with any Object-Oriented Programming (OOP) experience. While we value internships and project experience, we prioritize a deep understanding of foundational concepts and technical aptitude. <strong>December 2023 Graduates encouraged to apply!</strong></p><p><br/></p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in computer science or related field with a strong focus on Java development.</li><li>Proficiency in Java and strong foundations with Object-Oriented Programming.</li><li>Strong foundational knowledge in computer science concepts.</li><li>Clear and concise communication skills, with the ability to explain projects effectively.</li><li>Internship experience in software development is a plus.</li><li>Detail-oriented with a commitment to producing high-quality code.</li><li>Familiarity with Cassandra is preferred but any experience with NoSQL databases is encouraged to apply as well.</li><li>Desire to grow and progress within the organization, with an eye on transitioning to an SE2 role after 1-2 years.</li></ul><p><br/></p><p>Key Responsibilities:</p><ol><li><strong>Code Development: </strong>Write clean, efficient, and high-quality Java code following best practices and industry standards.</li><li><strong>Testing: </strong>Conduct thorough testing of code to ensure robustness, reliability, and compliance with project requirements.</li><li><strong>Project Understanding:</strong> Demonstrate a clear understanding of assigned projects, showcasing the ability to delve deeply into project details and deliver precise solutions.</li><li><strong>Collaboration:</strong> Engage in paired programming with Senior Developers (SE1s), focusing on smaller tasks to build a strong collaborative foundation.</li><li><strong>Learning and Growth:</strong> Continuously enhance your skills and knowledge in Java and related technologies, with a focus on NoSQL databases and concentration on both on-premises and cloud environments.</li><li><strong>Technology Stack:</strong> Work with Java 17, explore the potential of cloud solutions (GCP), and gain exposure to Kubernetes.</li></ol><p><br/></p><p><strong>Additional Information:</strong></p><p>This is an excellent opportunity to kickstart your career as a Java Developer with a Fortune 50 Retail Company. You will work closely with experienced SE1s, participate in paired programming sessions, and contribute to impactful projects that shape the future of retail technology. As the company continues to evolve, there will be opportunities to explore cloud solutions and advance your career to an SE2 level based on performance and growth. If you are passionate about technology, thrive in a collaborative environment, and are excited to contribute to cutting-edge retail solutions, we encourage you to apply and be part of our dynamic team.</p><p><br/></p><p><br/></p><p><em>*US Citizens and all other parties authorized to work in the US as a W-2 employee are encouraged to apply. We are unable to provide sponsorship or work corp-to-corp (C2C) with third party vendors.</em></p><p><em>Eight Eleven Group provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local laws.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Our Company<br/><br/></strong>Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.<br/><br/>We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!<br/><br/><strong><strong>The Opportunity<br/><br/></strong></strong>Adobe’s Lightroom organization is looking for a Senior Software Developer to join our web engineering team. Be part of a fun, fast-paced team working on lightroom.adobe.com! Our product serves a diverse and global customer base of passionate photographers. We’re excited about the latest web technologies and how to apply them to solve real user problems and deliver fantastic user experiences.<br/><br/><strong><strong>What You’ll Do<br/><br/></strong></strong><ul><li> Collaborate with other teams to build functionality across the photography ecosystem. </li><li> Write awesome JavaScript/CSS code. </li><li> Develop features focused on the needs of our customer. </li><li> Explore new technology, make prototypes, and test ideas. </li><li> Help keep our service running smoothly and efficiently, including being in an on-call rotation. </li><li> Participate in all aspects of software development including design, coding, code review, unit testing, automating test cases, and bug fixing. <br/><br/></li></ul><strong><strong>What You Need to Succeed<br/><br/></strong></strong><ul><li> Flexibility to work with a wide array of technologies. </li><li> Very strong skills in JavaScript/HTML5/CSS3. </li><li> Familiarity with modern web development technology (e.g. Webpack, MobX, LitElement, WebComponents, WebGPU). </li><li> Experience using web services and public cloud environments (e.g. AWS). </li><li> Significant experience building and deploying web applications </li><li> BS/MS in Computer Science or equivalent practical experience. <br/><br/></li></ul>Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $146,400 -- $275,000 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.<br/><br/>At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).<br/><br/>In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.<br/><br/>Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.<br/><br/>Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.<br/><br/>Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Advertising Services, and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

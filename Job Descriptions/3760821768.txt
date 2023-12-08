@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>General Description<br/><br/></strong>The Department of Computer Technologies invites applications for part-time faculty positions in Computer Science. This is an on-campus teaching position, located in Philadelphia, PA.<br/><br/>The Computer Technologies Department includes various degrees and certificates in Computer Science, Information Systems, Network Administration, and Cybersecurity. The department strives to meet the needs of all students interested in obtaining an education in these areas and is focused on preparing diverse cohorts of IT specialists, software engineers, and computer scientists for successful careers. Many of our students transfer to some of the best computing programs in the Philadelphia area, while others move directly into new jobs or progress in their current career paths.<br/><br/>Community College of Philadelphia is an open-admission, associate-degree-granting institution which provides access to higher education for all who may benefit. Its programs of study in the liberal arts and sciences, career technologies, and basic academic skills provide a coherent foundation for college transfer, employment, and lifelong learning. The College serves Philadelphia by preparing its students to be informed and concerned citizens, active participants in the cultural life of the city, and enabled to meet the changing needs of business, industry, and the professions. To help address broad economic, cultural, and political concerns in the city and beyond, the College draws together students from a wide range of ages and backgrounds and seeks to provide the programs and support they need to achieve their goals.<br/><br/><strong>Specific Responsibilities<br/><br/></strong><ul><li>Teach introductory (100-level) computer science courses to students with a broad range of career interests.</li><li>Help community college students further develop their computing skills, professional attitude, and behaviors for college and workplace success.</li><li>Facilitate student learning, provide effective instruction, and perform evaluations of student learning for all assigned classes, using each course’s standard course outline as a guide.</li><li>Develop course handouts, lectures, hands-on activities, and presentations.</li><li>Work with other faculty and administrators in developing program curriculum, standards, and policies, including reviewing and participating in textbook selection process where appropriate.</li><li>Be available to students via email, phone, or personal conferences. The method of contact and hours of availability should be clearly communicated to supervisors and to students through the course syllabus each semester.</li><li>Assign grades and maintain course/student records in accordance with FERPA regulations and submit grades and records by established deadlines.</li><li>Meet all classes at the designated times.</li><li>Receive training or stay current in technological or pedagogical advances that promote student learning, including learning and using publishers’ software, when applicable.</li><li>Demonstrate a sense of connection and responsibility for helping the College to achieve success through a commitment to its mission, vision, and values.</li><li>Actively participate in the academic life of the College.</li><li>Proactively identify/address problems.</li><li>Establish an inclusive environment in the classroom.</li><li>Demonstrate an understanding of and sensitivity to the College’s faculty, staff, and students’ diverse academic, socioeconomic, cultural, and ethnic backgrounds.</li><li>Strive for excellence in teaching, applying best practices in one’s field of discipline, and modeling behaviors that encourage student success and retention.<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>An earned master’s or doctoral degree in computer science or a closely related field.</li><li>Ability to deliver required, predefined course elements, while drawing from one’s own knowledge and experiences, to engage students and make the course their own.</li><li>Excellent oral, written, and interpersonal communication skill<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>At least one year of experience teaching computer science at the college level, either as the primary instructor or as a graduate teaching assistant.</li><li>Experience with at least two of the following programming languages: Python, Java, C/C++, R, or machine code/assembly language.</li><li>Knowledge and/or willingness to teach distance education and web-enhanced courses.</li><li>A flexible schedule is desirable, i.e. to teach classes in the day, evening, at the main campus, and/or at Regional Centers.</li><li>Prior experience using a Learning Management System, such as Canvas</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

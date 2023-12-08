@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>A Public Sector client of ours is looking for an Application Developer to work on their ongoing project in the Atlanta, GA office.</p><p><br/></p><p><br/></p><p><strong><em><u>Candidate's must be provide Tax Clearance Letter.</u></em></strong></p><p><br/></p><p>Below are the additional details of this role:</p><p><br/></p><p><strong>Required Skills:</strong></p><p><br/></p><p><strong>We need a minimum of 2+ years of hands-on experience in the following.</strong></p><ul><li>Bachelor’s degree, in the preferred fields. Computer Science, Computer/Management Information Systems or Mathematics</li><li>Experience with a SQL database</li><li>Experience with OO development (.Net, Java, C#, VB)</li><li>Strong analytical and communication skills</li><li>Proficiency in MS Office Suite</li><li>Knowledge of software development methodologies, standards, coding best practices</li></ul><p><br/></p><p><br/></p><p>This role can be W2 or 1099/C2C and open for USC/GC/H1B/H4 EAD resources. H1B transfer candidates are more than welcome to apply for this role. Unfortunately, we won’t be able to use OPT/CPT candidates for this role (Sorry).</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

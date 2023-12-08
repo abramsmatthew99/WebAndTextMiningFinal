@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Who We Are<br/><br/></strong>Presage Technologies, Inc. is a venture backed small business that specializes in cutting edge video analytics to deliver novel capabilities to solve unique problems in healthcare and security. We create new and exciting technologies pushing us to move quickly and purposefully to address the unique problems of our customers. As a collaborative team, we strive to create positive social value in all the products we develop. We aspire to build a work community with a culture of inclusivity and diverse perspectives to achieve and exceed our goals.<br/><br/><strong>What You Will Do<br/><br/></strong>Our Machine Learning Engineer will play an integral role in the development and progression of our state of the art technologies. You will come up with solutions to help solve some of the toughest computer vision problems society faces.<br/><br/><strong>General Tasks May Include But Are Not Limited To<br/><br/></strong><ul><li>Design, build, deploy, and improve machine learning, deep learning and computer vision algorithms to analyze video and biosignal data and generate functional metrics</li><li>Train, validate, and optimize models using large datasets, ensuring high performance and generalization.</li><li>Guide project directions and research and development efforts Contributing to high impact publications and patents # WHO YOU ARE Must be a US citizen or Green Card Holder<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong>You are a self-driven and passionate individual who enjoys teamwork, innovation, and the fast paced environment of a startup. To succeed within this role, you have experience in the following areas:<br/><br/><ul><li>MS/PhD in Computer Science, Statistics, Applied Mathematics or a closely related field.</li><li>5+ years of demonstrated experience developing/implementing Machine </li><li>Learning and/or Artificial Intelligence algorithms in computer vision solutions </li><li>Expert in Python</li><li>Experience analyzing time varying signals, including robust feature extraction and classification </li><li>Experience building custom deep learning architectures for inference from video with 3D CNNs and/or RNNs</li><li>Experience building custom deep learning architectures for inference from multiple time varying signals </li><li>Ability to dynamically collaborate in a small team setting </li><li>Ability to brief and report results to peers as well as stakeholders </li><li>Expert in using Tensorflow or PyTorch. </li><li>Experience with other Machine Learning models including decision trees (ect. XGBoost, LightGBM)<br/><br/></li></ul><em>Must be a US citizen or Green Card Holder<br/><br/></em>Highly Desirable<br/><br/><ul><li>Deploying models at the edge/mobile in C++, Java, Javascript, Objective C</li><li>Experience with hyperspectral imaging and/or time varying video analysis</li><li>Experience combining multimodal imaging signals</li><li>Strong background in statistics </li><li>Rapid code prototyping skills</li><li>Masters or PhD with thesis pertaining to imaging systems and/or computer vision<br/><br/></li></ul>While this position is primarily remote, we are giving strong preference to candidates located in Herndon, VA, St.Louis, MO, and San Francisco, Bay Area, CA, as this allows us to provide in-person support when necessary, leveraging the presence of our team members in the region.<br/><br/><em>The salary is commensurate with the candidate’s years of experience, possession of and proficiency with the necessary job-related skills.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Job description</strong></p><p>Ergomotion is seeking a <strong>Systems Engineer</strong> with a background in technology or a closely related field. The ideal candidate is a highly skilled systems engineer who has the business knowledge and technical expertise to implement and integrate systems and strategies, evaluate products, and build upon an infrastructure that supports the organization’s changing needs. <strong>Incumbent preferably based in Santa Barbara County CA or willing to travel to Santa Barbara County CA on a regular basis for 1-2 weeks at a time.</strong></p><p><br/></p><p><strong>Key responsibilities include but are not limited to:</strong></p><ul><li>Design, develop, and integrate complex work systems for every stage of a lifecycle.</li><li>Reliably deliver mission-critical infrastructure with an eye toward accessibility, optimization, and security</li><li>Communicate with stakeholders to identify what they want to accomplish with a system</li><li>Use expert-level administration and optimization of hosts and servers to ensure high degree of availability and appropriate resource management</li><li>Standardize and automate processes using scripting technology</li><li>Install and configure operating systems, software, and hardware components, and leverage contract IT staff for routine tasks by clearly documenting design, maintenance, and support procedures</li><li>Test software routinely for bugs, redundancies, and security issues</li><li>Conduct high-level root-cause analysis of service interruptions and establish preventive measures</li><li>Communicate project status and progress to team members and stakeholders</li><li>Stay up-to-date with industry trends and best practices in systems engineering.</li><li>Provide technical support and guidance to end-users and resolve issues in a timely manner</li></ul><p><br/></p><p><strong>Education and Experience:</strong></p><p>Bachelor’s degree in computer science, technology or closely related field and 7 years’ experience in technology and systems implementation and integration experience; or equivalent combination of education and experience. <strong>Mandarin speaker is a plus</strong> and Master’s degree preferred but not required</p><p><strong>Required Technology Experience areas:</strong></p><ul><li>SAP ERP</li><li>EDI – Electronic Data Interchange (experience with Boomi preferred)</li><li>RESTful API, Open API and sFTP data exchange</li><li>SQL Database Management</li><li>SQL and JAVA Programming</li></ul><p><br/></p><p><strong>Knowledge, Skills, and Abilities</strong>:</p><ul><li>Knowledge of and skill in utilizing solution architecture principles and best practices</li><li>Knowledge of microservices architecture and implementation</li><li>Knowledge of programming languages and operating systems, current equipment and technologies, enterprise backup and recovery procedures, system performance-monitoring tools, active directories, virtualization, HTTP traffic, content delivery, and caching</li><li>Knowledge of and proficiency in using project management tools and techniques</li><li>Skill in project management, application design and integration, and cloud computing</li><li>Skill in creating, analyzing, and repairing large-scale distributed systems</li><li>Skill in configuring and managing network infrastructure components such as firewalls, VPNs, and web services</li><li>Ability to demonstrate skill and proven experience in Systems Engineering or similar role</li><li>Ability to demonstrate familiarity with Windows operating systems</li><li>Ability to demonstrate understanding of database management systems like SQL</li><li>Ability to demonstrate excellent communication, interpersonal, analytical, critical thinking, problem-solving skills and attention to detail</li><li>Ability to work independently and in a team environment</li><li>Ability to demonstrate proficiency in Microsoft Office Suite</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Furniture and Home Furnishings Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

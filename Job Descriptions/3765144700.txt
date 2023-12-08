@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>At Community Bank System, Inc. (CBSI), we are dedicated to providing our customers with friendly, personalized, high-quality financial services and products. Our retail division, Community Bank, N.A., operates more than 200 customer facilities across Upstate New York, Northeastern Pennsylvania, Vermont and Western Massachusetts. Beyond retail banking, we also offer wealth management, investment management, insurance and risk management, and benefit plan administration.<br/><br/>Just as our employees are committed to helping our customers manage their finances, we’re committed to our employees. After all, they make it happen for our customers every day.<br/><br/><strong>Responsibilities<br/><br/></strong>This position performs analysis of data, dashboard preparation, visualization based on reporting requirements, data validation testing, data modeling, and data replication. This position also evaluates functional and technical specifications to fulfill data requirements for key initiatives/projects. Independently develops test plans, validation requirements and documentation to ensure data integrity for analysis and report requests.<br/><br/><ul><li> Collect, clean and organize financial and non-financial data using a variety of tools; </li><li> Ensure data quality through review and validation with source material; </li><li> Analyze both qualitative and quantitative data; </li><li> Ability and temperament to learn and apply new data analytics technologies such as Power BI, Snowflake, Tableau, MS-SQL, data warehousing and data modeling concepts </li><li> Assist with financial, statistical, and econometric analysis; </li><li> Other projects may be assigned on an as-needed basis. </li><li> Ability to maintain compliance with data governance and protocols through all processes. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Education/Training: <br/><br/></strong><ul><li> Pursuing Bachelor’s Degree in Computer Science, Information Systems or other related field. <br/><br/></li></ul><strong>Skills<br/><br/></strong><ul><li> Strong analytical and problem solving skills. Power BI, MS SQL, Microsoft Office (Excel, Word, Visio, Access), and query tools. Excellent verbal and written communication skills in technical and user-friendly manner, adaptability to changing priorities. Must have the ability to collaborate and work in a team environment. <br/><br/></li></ul><strong>Experience<br/><br/></strong><ul><li> Any prior experience in data analysis would be desirable. Related major preferred. <br/><br/></li></ul><strong>Other Job Information<br/><br/></strong><strong> Education/Training: </strong> High School diploma or equivalent required<br/><br/><strong> Skills: </strong> Ability to thrive in a fast-paced environment; strong technical ability to work with Microsoft Word, Excel, accounts payable, and general ledger reporting systems; ability to multi-task, be organized, and handle large volume of invoices; excellent interpersonal skills (to deal with internal and external customers promptly and accurately); proficient reading, writing, grammar and mathematical skills<br/><br/><strong> Experience: </strong> None required<br/><br/><strong>Minimum<br/><br/></strong>USD $15.50/Hr.<br/><br/><strong>Maximum<br/><br/></strong>USD $19.10/Hr.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Temporary
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

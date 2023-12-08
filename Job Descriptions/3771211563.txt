@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Business Engineering is looking for impact-focused, entrepreneurial engineering interns ready to bring their ideas and make a difference. We are technology experts that apply our software engineering skills to bring a unique blend of business and technology expertise to ensure our partners succeed. Our team is at the intersection of business and innovation where you will execute on solving real-world business challenges through Meta's platforms and community in many of today’s most exciting industries and products. These include Video, Commerce, Monetization, Metaverse, Gaming, Creators, AI, Messaging and more.You will write scalable production-grade code across Meta's platforms in collaboration with other product engineering teams. You will get to learn and build on different tech stacks and languages. You will use your entrepreneurial passion and the freedom that the role provides to create your own opportunities and choose how you make an impact.The work we do exceeds the boundaries of what is possible quickly, and at scale. Our work transcends technology and ensures the solutions we build translates into prosperity for all. Our code is designed to engineer and accelerate business growth. Growth is great. Rapid growth is better. Our approach aims to maximize positive impact for our partners as well as the billions of people that use their products and services.This is a 12 week internship position.<br/><br/>Business Engineer, Intern Responsibilities:<br/><br/><ul><li>Builds new products and improve existing ones in collaboration with Meta product engineering teams to meet business needs</li><li>Actively seek out and apply knowledge of products, technologies and business to build solutions to solve for problems at scale</li><li>Independently break down coding projects into tasks and partner with all applicable teams and partners to meet pre-established goals</li><li>Ship and launch production level code in manageable pieces, with relevant descriptions, test plans, documentation, unit integration tests</li><li>Conduct code reviews and provide constructive feedback while quickly actioning feedback from code reviews conducted of your code</li><li>Maintain relationships with partner teams and clients (internal and external) and present technical opportunities in a consulting capacity<br/><br/></li></ul>Minimum Qualifications:<br/><br/><ul><li>Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelors or Masters degree in computer science or a related field</li><li>Experience coding in an industry-standard language (e.g. Java, Python, C++, Objective-C, JavaScript)</li><li>Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment<br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience contributing to open source projects, shared code repositories, and/or personal projects</li><li>Demonstrated software engineering experience from a previous internship, work experience, coding competitions, or publications</li><li>Experience communicating to an audience</li><li>Experience working in highly collaborative environments</li><li>Intent to return to degree-program after the completion of the internship/co-op<br/><br/></li></ul>About Meta:<br/><br/>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br/><br/>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br/><br/>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

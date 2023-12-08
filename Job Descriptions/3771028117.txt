@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you looking for more?<br/><br/>At Mohawk Industries, we’re committed to more – more customer solutions, more process improvements, more sustainable manufacturing and more opportunities for our team.<br/><br/>As a Fortune 500, global flooring leader with some of the best-known brands in the industry, Mohawk is a great place to start or develop your career with an emphasis on more of what’s important to you. Whether you want to lead more, innovate more, learn more or create more, you can find your more with Mohawk.<br/><br/><strong>What We Need<br/><br/></strong>Mohawk is looking for a Data Analyst to manage international logistics data analytics to support Flooring North America’s samples, merchandizing and e-commerce businesses.<br/><br/><strong>What You’ll Do<br/><br/></strong><ul><li>Write reports to evaluate large dataset for quality and accuracy.</li><li>Identify, compare and resolve data quality problems.</li><li>Determine business impact level for data quality issues.</li><li>Research and determine scope and complexity of issue to identify steps for resolution.</li><li>Ensure adherence to data quality standards.</li><li>Resolve all internal data exceptions in timely and accurate manner.</li><li>Identify areas of improvement to achieve data quality.</li><li>Analyze, query and manipulate data according to defined business rules and procedures.<br/><br/></li></ul><strong>What You Have<br/><br/></strong><ul><li>Must have 2 or more years of a college degree in Mathematics, Computer Science, Information Systems, Finance or Accounting.</li><li>Advanced level Excel skills is required and must have experience using Power Query, PowerBI. Visualization tools are a plus.</li><li>Experience with programming language at any level (beginner to advanced)</li><li>Experience with AS400 and SAP is a plus<br/><br/></li></ul><strong>What You’re Good At<br/><br/></strong><ul><li>Ability to exercise good judgment, problem solving ability and resourcefulness in the absence of formalized guidelines and procedures and the ability to identify, analyze and resolve business issues through solution-oriented projects.</li><li>Strong verbal and written communication skills, including the ability to discuss ideas at all levels within the organization and the ability to propose new ideas.</li><li>Ability to work independently, set priorities, handle multiple tasks with concentration, speed and accuracy to meet deadlines.</li><li>Strong analytical and attention to detail skills to interpret, adapt, and remedy incorrect information.</li><li>Ability to coordinate diverse administrative tasks requiring exceptional organizational skills and drive for result.</li><li>Ability to work efficiently under conditions of multiple deadlines, changing priorities, and consideration for team needs.</li><li>A team player that considers the needs of others and can balance those when considering tasks at hand.<br/><br/></li></ul><strong>What else?<br/><br/></strong><ul><li>We’re located in a pretty great spot – check out this video to see what we mean<br/><br/></li></ul>Mohawk Industries is a leading global flooring manufacturer that creates products to enhance residential and commercial spaces around the world. Mohawk’s vertically integrated manufacturing and distribution processes provide competitive advantages in the production of carpet, rugs, ceramic tile, laminate, wood, stone and vinyl flooring. Our industry-leading innovation has yielded products and technologies that differentiate our brands in the marketplace and satisfy all remodeling and new construction requirements. Our brands are among the most recognized in the industry and include American Olean, Daltile, Durkan, IVC, Karastan, Marazzi, Mohawk, Mohawk Home, Pergo, and Quick-Step. During the past decade, Mohawk has transformed its business from an American carpet manufacturer into the world’s largest flooring company with operations in Australia, Brazil, Canada, Europe, India, Malaysia, Mexico, New Zealand, Russia and the United States.<br/><br/><em>Mohawk Industries, Inc. is an Equal Opportunity Employer including disability/veteran committed to an inclusive workplace and a proud Drugs Don’t Work participant.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Textile Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

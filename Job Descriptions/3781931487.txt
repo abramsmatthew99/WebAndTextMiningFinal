@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Employee Applicant Privacy Notice<br/><br/></strong><strong>Who we are:<br/><br/></strong>Shape a brighter financial future with us.<br/><br/>Together with our members, we’re changing the way people think about and interact with personal finance.<br/><br/>We’re a next-generation fintech company using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. <strong>Join us to invest in yourself, your career, and the financial world.<br/><br/></strong><strong>The Role<br/><br/></strong>SoFi’s Credit team manages credit risk activities for our lending products (Student Loan Refinance, Private Student Loan, Personal Loan, Credit Card, and Mortgage) - including credit strategies/policies for new account origination and portfolio management, collections/recovery strategies, and risk and operational data science and analytics. The team designs data-driven strategies to ensure the growth in lending is consistent with the company’s risk appetite and helps create the products and experiences that put our members’ interests first.<br/><br/>The Senior Credit Risk Analyst / Senior Data Scientist - Credit Card Acquisitions will have responsibilities to analyze and evaluate data to develop and propose value-added risk strategies for SoFi Credit Card new account originations.She/he will focus on developing and enhancing underwriting strategies and credit limit strategies for multiple risk segments and products. She/he will be part of the Credit team with 1LOD responsibilities. She/he will partner with business partners such as Business Unit, Product and Engineering, Operations and use the business knowledge and analytical skills to drive revenue, control risk, and provide value to the company and consumers.<br/><br/>The ideal candidate will possess a quantitative analytics background and the strategic acumen to draw strategic insights from data using database and statistical analysis tools to inform decisions. She/he will support SoFi Risk Management objectives for SoFi Credit Card business in terms of loss prevention and revenue optimization. She/he will bring new ways of thinking, data sources, technologies, and capabilities to SoFi. This role reports to the Director of Credit Card Risk Management.<br/><br/><strong>What you’ll do:<br/><br/><br/></strong><ul><li>Innovate… Bring your brightest ideas to building risk strategies. You will architect credit underwriting, pre-screen targeting, A/B testing and credit limit assignment strategies. </li><li>Data Driven… Your deep analysis will power the future of credit card, using a comprehensive data ecosystem – including multi-product internal data, credit bureaus and alternative data. </li><li>Iterate, learn, innovate… We are all responsible for innovation and must embrace data-driven decisions. Seek to drive continuous improvements in strategies and processes</li><li>Collaborate… Work collaboratively with the Data Science team to design new machine learning models. Partner closely with implementation teams to accurately deploy new strategies. Work with other business partners across Business Unit, Operations, Marketing, Finance, Legal and Compliance etc. to deliver successful business results. </li><li>Control the Risk and Drive Performance Outcomes … Understand credit risk and develop approaches to mitigate loss and responsibly grow revenue. Monitor performance of strategies and portfolios. Document and communicate results and escalate issues as necessary. Identify gaps/opportunities and drive actions. </li><li>Grow, Grow, Grow!… Be inspired by dynamic leaders and our rapidly growing business. We want YOU to be an inspired leader of tomorrow, so we are recruiting the best, brightest, and passionately quantitative team members<br/><br/><br/></li></ul><strong>What you’ll need:<br/><br/><br/></strong><ul><li>3+ years of work experience in credit risk strategy development or consumer credit analytics for consumer lending businesses (credit cards or loans)</li><li>Direct experience in the credit strategy analytical life cycle, including analytical strategy development, presentation, implementation validation, and monitoring</li><li>Proven analytical skills in conducting sophisticated analysis using customer performance data, bureau attributes, and other 3rd party variables to solve business problems</li><li>Demonstrated ability to synthesize and communicate analysis to stakeholders and senior management, including ability to deliver presentations </li><li>Proficient skills in Excel, SQL and Python</li><li>High motivation to drive results, eager to learn, and able to work collaboratively with cross-functional teams in a complex and fluid environment</li><li>Knowledge/skills in analytical and modeling techniques such as Decision Trees, regression, logistic regression, A/B Testing, and Tableau</li><li>Preferred: 2+ years of work experience in credit cards acquisitions / originations underwriting from established card issuers known for innovation</li><li>Preferred: Experience in analyzing and testing credit strategies or models to meet the fair lending requirements</li><li>Preferred: Advanced degree (Master’s or PhD) with a quantitative major such as Statistics, Mathematics, Engineering, or Computer Science<br/><br/><br/></li></ul><strong>Compensation And Benefits<br/><br/></strong>The base pay range for this role is listed below. Final base pay offer will be determined based on individual factors such as the candidate’s experience, skills, and location.<br/><br/>To view all of our comprehensive and competitive benefits, visit our <strong>Benefits at SoFi </strong>page!<br/><br/>SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.<br/><br/>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br/><br/>New York applicants: Notice of Employee Rights<br/><br/>SoFi is committed to embracing diversity. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.<br/><br/>Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.<br/><br/><strong>Internal Employees<br/><br/></strong>If you are a current employee, do not apply here - please navigate to our Internal Job Board in Greenhouse to apply to our open roles.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

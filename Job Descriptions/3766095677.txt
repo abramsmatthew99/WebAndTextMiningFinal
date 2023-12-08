@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<ul><li>Bachelor’s degree in computer science engineering or data Analytics</li><li>10+ years of experience in Data Science and Analytical Domains</li><li>Understanding of machine-learning and operations research</li><li>Proficiency in Query languages SQL, Hive and scripting languages</li><li>Knowledge of R; familiarity with Scala, Java is an asset</li><li>Experience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop, Google Cloud Platform, SAP)</li><li>Working knowledge of containers. For example, experience with Docker or podman</li><li>Comfortable with git</li><li>Proven ability deploying automated data processing pipelines Strong command lines skills in Linux environments</li><li>Experience with Kubernetes, GCP, AWS, and cloud-native technologies generally A high tolerance for OpenShift, Confluence, Jira, and other enterprise tools</li><li>Analytical mind and business acumen</li><li>Proficiency in Data wrangling</li><li>Strong math skills (e.g. statistics, algebra)</li><li>Problem-solving aptitude</li><li>Excellent communication and presentation skills</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Information Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

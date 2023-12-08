@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Trustmark’s mission is to improve wellbeing – for everyone. It is a mission grounded in a belief in equality and born from our caring culture. It is a culture we can only realize by building trust. Trust established by ensuring associates feel respected, valued and heard. At Trustmark, you’ll work collaboratively to transform lives and help people, communities and businesses thrive. Flourish in a culture of diversity and inclusion where appreciation, mutual respect and trust are constants, not just for our customers but for ourselves. At Trustmark, we have a commitment to welcoming people, no matter their background, identity or experience, to a workplace where they feel safe being their whole, authentic selves. A workplace made up of diverse, empowered individuals that allows ideas to thrive and enables us to bring the best to our colleagues, clients and communities.</p><p> </p><p><strong>Position Overview:</strong></p><p><br/></p><p>The Technical Specialist AI will be responsible for designing and implementing AI solutions with a primary focus on AI technologies. This role requires a deep technical understanding of the intricacies of machine learning models, NLP (Natural Language Processing) systems, and the specific nuances associated with generative AI architectures.</p><p> </p><p><strong>Key Responsibilities:</strong></p><p><br/></p><ul><li>Architect and design scalable AI solutions, with a particular focus on generative models such as Open AI</li><li>Understand company challenges and how integrating AI capabilities help lead to solutions.</li><li>Lead work with cross-functional teams in identifying and prioritizing key areas of business where AI solutions can drive significant business benefit</li><li>Analyze and explain AI and machine learning (ML) solutions to non-technical audience.</li><li>Implement and optimize machine learning algorithms and models</li><li>Use AI analysis to make recommendations that align with company goals</li><li>Lead the technical aspects of AI project implementations, ensuring adherence to best practices and optimal performance</li><li>Technical Collaboration: Work closely with data scientists, machine learning engineers, and software developers to translate architectural designs into fully functional AI solutions</li><li>Continuously monitor and optimize the performance of deployed models, ensuring they deliver the highest quality outputs while maintaining efficiency</li><li>Collaborate with internal teams to leverage the latest advancements in generative AI for solution enhancement</li><li>Interface with business stakeholders to understand requirements and translate them into technical solutions</li><li>Maintain thorough documentation related to AI architecture designs, decisions, and best practices</li><li>Train and mentor junior members of the team in AI architectural best practices</li><li>Ensure seamless integration of Open AI-based solutions with existing systems and platforms.</li><li>Ensure that AI solutions are ethically implemented, transparent, and comply with relevant regulations and standards</li><li>Assist in designing experiments to test the efficacy of AI algorithms</li></ul><p> </p><p><strong>Qualifications:</strong></p><p><br/></p><ul><li>Master's degree in Computer Science, AI, or a related field</li><li>Minimum 8 years of experience in IT, specializing in AI, and machine learning, with a specific focus on NLP and generative models</li><li>Experience in developing cloud-based applications on Azure</li><li>Proficiency in programming languages like Python, JavaScript, Java, or comparable programming languages, as well as experience with deep learning frameworks such as TensorFlow or and generative AI technologies such as Open AI</li><li>Experience in program leadership, governance, and change enablement</li><li>In-depth understanding of the technical and computational challenges associated with scaling and deploying large AI models</li><li>Ability to lead with influence</li><li>Excellent communication skills, both written and verbal, to effectively convey complex technical concepts to non-technical stakeholders.</li><li>Strong problem-solving skills and architectural acumen</li><li>Excellent communication skills, capable of explaining complex technical concepts to non-technical stakeholders</li><li>Experience in cloud platforms and distributed computing is a plus</li></ul><p> </p><p><strong>What We Offer:</strong></p><ul><li>Competitive salary and benefits</li><li>Collaborative work environment with a focus on innovation and professional growth</li></ul><p> </p><p>Come join a team at Trustmark that will not only utilize your current skills but will enhance them as well. Trustmark benefits include health/dental/vision, life insurance, FSA and HSA, 401(k) plan, Employee Assistant Program, Back-up Care for Children, Adults and Elders and many health and wellness initiatives. We also offer a Wellness program that enables employees to participate in health initiatives to reduce their insurance premiums.</p><p> </p><p><strong>For the fourth consecutive year we were selected as a Top Workplace by the Chicago Tribune.</strong> The award is based exclusively on Trustmark associate responses to an anonymous survey. The survey measured 15 key drivers of engaged cultures that are critical to the success of an organization.</p><p> </p><p><em>All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, sexual identity, age, veteran or disability.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

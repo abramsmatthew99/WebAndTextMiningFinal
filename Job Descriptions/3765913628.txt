@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        DSA is seeking a highly qualified QA Lead Tester to join our team in Annapolis, MD..<br/><br/><strong>Required Qualifications<br/><br/></strong><ul><li>Bachelor's degree in technical discipline (e.g. Engineering, Computer Science, Business Information Technology, etc.)</li><li>8+ years working on IT projects</li><li>5+ years working on Budgeting Solutions</li><li>5+ years working with federal/state/local government as client</li><li>Proficient in MS Word 2013, MS Excel 2013, MS PowerPoint and MS Outlook</li><li>Experience with TFS, Rational Tools, and Microsoft development environment (Visual Studio)<br/><br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong><ul><li>Expert understanding of software development life cycle (SDLC) and software testing life cycle (STLC)</li><li>Expert understanding of the Agile software development methodology</li><li>Expert in all phases of testing and defect management.</li><li>Ability to decompose requirements to Test Scenarios and Test Cases</li><li>Expert understanding of creating a requirements traceability matrix (RTM)</li><li>Ability to review requirements and identify gaps</li><li>Self-motivated individual with the ability to multi-task<br/><br/><br/></li></ul><strong> Key Responsibilities <br/><br/></strong>A Quality Assurance (QA)/Lead Tester will be involved in all the phases of the software testing life cycle. The QA/Lead Tester will be responsible for creating Test Plans, Test Scenarios, perform Requirements review, manage test efforts including hands on testing, Test data identification, generate Test reports and coordinate User Acceptance testing. The QA/Lead Tester will also participate in Defect Triage meetings and deliver Test Status Reports to customer.<br/><br/>Many of DSA's positions require the ability to obtain a security clearance. Security clearances may only be granted to U.S. citizens. In addition, applicants who accept a conditional offer of employment may be subject to government security investigation(s) and must meet eligibility requirements for access to classified information. DSA is proud to be an Affirmative Action/Equal Opportunity Employer. DSA is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding, or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state, or local laws. DSA requires background checks, where permitted, by law. DSA is an E-Verify Employer.<br/><br/>#DSA209<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

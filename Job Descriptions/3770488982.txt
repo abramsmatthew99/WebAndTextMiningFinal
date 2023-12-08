@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Production Engineer @ Buffalo, NY<br/><br/></strong>We are looking for skilled individuals for the <strong>Production Engineering Team (GPS IT department).</strong> The team is responsible for <strong>technical operations of global Payments Execution, Messaging &amp; Orchestration and Sanctions &amp; Investigation services. </strong>Based on Site Reliability Engineering disciplines, the work this team undertakes is in a mission critical environment across a breadth of technologies from vendor products to in-house developed micro services.<br/><br/>With ever increasing real-time demands of our customers our key business drivers are the availability of our platform and the stability of service.<br/><br/><ul><li>Contributing productively to team objectives, sometimes supporting and sometimes leading activities to achieve shared goals</li><li>Implementation and coordination of Target Operating Model (Automation, Toil reduction, Incident reduction, Service stability increase, Adoption modern technologies, Monitoring &amp; Alerting using AppDynamics)</li><li>Take on the Incident Commander role during an incident, which includes being responsible for owning the incident through to recovery</li><li>Take on the Liaison Officer role during an incident, responsible for providing reports and providing technical updates on Management Escalation Calls</li><li>Reviewing, designing and re-engineering processes with new technologies to improve performance</li><li>Designing and driving the implementation of service offerings, capability uplifts and process improvements</li><li>Implementation of the locally developed solutions</li><li>Providing full scope of the day-to-day Production Support service including resolution of the live incidents as well as post-resolution problem management activities</li><li>Providing technical expertise in finding root cause of major system problems</li><li>Maintaining distributed containerised platforms in production</li><li>Installation of new software releases provided by the vendor</li><li>Implementation of the locally developed solutions</li><li>Support of the various testing activities related to the new implementations</li><li>Working closely with various stakeholders located in different places in the world</li><li>Reviewing, designing and re-engineering processes with new technologies to improve performance</li><li>Designing and driving the implementation of service offerings, capability uplifts and process improvements</li><li>Evaluating, developing and applying appropriate tools to analyse the architecture</li><li>Participate in validating data, development, implementation, testing activities</li><li>Perform data analysis of key problem areas to assist in root cause analysis and data reconciliations to identify data anomalies</li><li>Contributing productively to team objectives, sometimes supporting and sometimes leading activities to achieve shared goals<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Bachelor's degree in Information Technology, Computer Science, Business, or a related field</li><li>Minimum 5 years of experience in production, or a related area, preferably within the financial services industry</li><li>Available to work weekends and shift patterns (a shift between 8am to 8pm) within the US time zone</li><li>Ability to organize and manage in a crisis</li><li>Ability to quickly learn and understand complex environments</li><li>Familiarity with global payment systems, processes, and technologies</li><li>Hybrid work model, onsite several days each week</li><li>Core hours of the team is 12:00PM ET – 8:00 PM ET (with some variation, flexibility)<br/><br/></li></ul><strong>Essential Skills<br/><br/></strong><ul><li>Experience of managing a wide spectrum of stakeholders and show ability to manage upwards,</li><li>CICD: Hands-on experience of enabling technologies, principles, and practices of Continuous Integration, Delivery, and Deployment (Jenkins, Bamboo, Circle CI or equivalent)</li><li>Hands-on experience of platform and systems architecture – modular monoliths, SOA/micro-services, including enabling tools and technologies (Spring Cloud, Docker, OpenShift, Kubernetes, CloudFoundry, etc.); how to build cloud native applications from scratch and tackling monolithic system estates through the introduction of API's, micro services and gateways</li><li>Cloud Native Technologies: Kubernetes, Docker, Kafka, Istio Service Mesh</li><li>JVM tuning and diagnostic for application troubleshooting and performance-optimization</li><li>Traditional Technologies: Bash/Shell, Groovy or Java, Unix/Linux, Jenkins, GitHub</li><li>Distributed system design like micro services, Springboot</li><li>Understanding of messaging Technologies and Caches</li><li>Strong understanding of technology layers in application landscape, storage, OS, network, database, application</li><li>Demonstrable, excellent, spoken &amp; written communication skills across global organization</li><li>Proven triage capability under pressure, able to make strong priority judgement at runtime balancing contending demands</li><li>Technically inquisitive with progressive interest in modern engineering disciplines and techniques</li><li>Understanding of customers' needs and delivering excellent customer service</li><li>Experience in Agile/ DevOps environment and in assisting in production support</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

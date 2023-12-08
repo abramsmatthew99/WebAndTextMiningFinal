@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Are you looking for an opportunity with plenty of growth potential? Do you enjoy working in an exciting, fast-paced, collaborative environment? Are you interested in working with the world’s most innovative companies to create a more connected world?<br/><br/><em>Connecting Continents. Impacting Communities.<br/><br/></em>The backbone of the Internet is a series of high-tech subsea fiber optic cables deployed throughout the globe - SubCom has deployed over 50% of them. Our employees ensure data communications networks are engineered, manufactured, deployed, and maintained to the highest standards, enabling faster and more reliable connectivity to communities worldwide. Every member of the SubCom team plays a role in an end-to-end process that is critical to enterprises, governments, big cities, and rural towns.<br/><br/>We encourage, expect, and value creativity, thoughtful risk taking, openness to change, and diverse perspectives. Whether you’re a seasoned applicant seeking a new and exciting challenge, or you’re new to the workforce and looking for a flexible, rewarding, and fast-paced position with an innovative and stable organization (since 1953), SubCom has opportunities to advance your career.<br/><br/><strong>Position Overview<br/><br/></strong>SubCom’s Network Management System Software Department is currently looking for a student majoring in Computer Science or any related field to collaborate with our full-time engineers and contribute to the design, implement and test of new features and services for our network management systems.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Have a basic understanding of API interfaces and solid background of software development. </li><li>Understand requirements and can design reusable software accordingly in a timely fashion. </li><li>Implement and test NMS features using state of art technologies. </li><li>Learning software development best practices and apply them in a production environment. </li><li>Be a collaborative team member and an efficient problem solver. <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Experience in modern programming languages, DBMS, and Linux. </li><li>Basic understanding of algorithms and data structures. </li><li>Familiarity with source control systems. </li><li>Excellent oral and written skills. </li><li>Experience on cloud services, virtualization, microservices and container-based design is a plus. <br/><br/></li></ul><strong>NOTE</strong>: This job description is not intended to be all-inclusive. Employee may perform other related duties as negotiated to meet the ongoing needs of the organization.<br/><br/>Candidates for positions with SubCom must be legally authorized to work in the United States. Employment eligibility verification will be required at the time of hire. Visa sponsorship is not available for this position.<br/><br/>Our selection procedure is based on local, state and federal law.<br/><br/>Please be sure to attach a resume to your application. We are not able to consider applications without a resume.<br/><br/><strong>AFFIRMATIVE ACTION/EQUAL EMPLOYER OPPORTUNITY<br/><br/></strong>SubCom is committed to providing a work environment that prohibits discrimination on the basis of age, color, disability, ethnicity, marital status, national origin, race, religion, gender, gender identity, sexual orientation, protected veteran status, disability or any other characteristics protected by applicable law or regulation.<br/><br/>SubCom engineers, manufactures, and installs subsea fiber optic data cables - the unsung heroes of global communication. With an unrelenting focus on quality, reliability, and value, SubCom offers flexible end-to-end building blocks for the high-tech networks that are the backbone of the world's digital infrastructure. Since 1955, SubCom has deployed enough cable to circle the equator more than 21 times.<br/><br/><strong>SUBCOM’S CORE VALUES<br/><br/></strong>Quality   -   Accountability   -   Teamwork   -   Innovation
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our client is a rapidly growing Power &amp; Gas Commodity trading company based out of Manhattan, NY. They are seeking a AWS Data Engineer with commodity trading experience.<br/><br/>The company has offices in Houston, Manhattan, London, Australia, etc.<br/><br/>To support rapid growth, we are looking for a <strong>Data Engineer</strong> with a passion for solving complex problems related to data infrastructures for large scale and fast-growing datasets, including data ingestion, data consumption, processing and automation. Above all, we’re looking for someone who is driven and excited about the positive impact technology can have on business.<br/><br/><strong>Let’s give you a purpose:<br/><br/></strong><ul><li>Design and implement the data infrastructure platforms including the data ingestion, data consumption and stream processing on AWS </li><li>Write code to automate ingestion and transformation of data from different sources (from conception to production) </li><li>Design, build, and own highly resilient data processing jobs </li><li>Build systems that represent real-world intricacies of physical commodities </li><li>Collaborate with Services team to identify and map different data sources </li><li>Participate in code reviews to push for high quality and coding standards </li><li>Support the development and maintenance of data engineering guidelines, policies, standards and process narratives </li><li>Mentor and guide other data engineers in the team <br/><br/></li></ul><strong>Tech stack:<br/><br/></strong><ul><li>Platform: Python, AWS, Postgres <br/><br/></li></ul><strong>What you'll bring along:<br/><br/></strong><ul><li>Bachelor’s degree in Software Engineering, Computer Science or extensive practical experience with software development </li><li>5+ years of professional experience, preferably in a fast-paced environment such as a startup or rapidly growing company </li><li>Strong foundation in algorithms and data structures </li><li>Proficiency in Python (Dash/Plotly) and SQL </li><li>Experience with CI/CD pipelines </li><li>Development of ETL Pipelines </li><li>Data Warehousing </li><li>Strong sense of ownership and accountability</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

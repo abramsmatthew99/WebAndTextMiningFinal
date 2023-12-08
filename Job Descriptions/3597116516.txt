@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong><u>Responsibilities</u></strong><p><br/></p>This job requires attendance to every class for either CSAS 1114/1115 or CSAS 2123/2124 as assigned. Experience as a programmer using the Racket-based student language and the Program-by-Design methodology is also required. Duties include:<p><br/></p>Answering student questions during class<p><br/></p>Solving computer technical issues that arise in class<p><br/></p>Developing and presenting a selection of programs throughout the semester<p><br/></p>Evaluating student programs<p><br/></p>Preparing study guides as a student for students<p><br/></p>Assisting the instructor with proctoring quiz and exams<p><br/></p>Two weekly office hours<p><br/></p>Approximately 8 hours of tutoring/recitation hours.<p><br/></p>Requirements: Good communication skills, problem solving skills, level of responsibility<p><br/></p>Achieved at least a B+ in the class that the tutor covers.<p><br/></p><strong><u>Desired Applicants Have Taken One Of The Following Classes</u></strong><p><br/></p>Math 1203, 1205, 1015, 1401/1501, 1411/1511, 2111<p><br/></p>CSAS 1114, CSAS 1115<p><br/></p>At least a B+ average in Math and/or Computer Science classes.<p><br/></p>Recommendation from Dr. Morazan for CSAS 1114/1115 tutoring.<p><br/></p><strong><u>Qualifications</u></strong><p><br/></p><ul><li>Proficiency in Excel, StatsCrunch, Mathematica. Racket</li><li>Proficiency in Racket-based student language, Java, Python, and Program-by-Design methodology.</li></ul><p><br/></p><em>Seton Hall University is an Equal Opportunity/Affirmative Action employer. All applicants will receive consideration for employment without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation or sex.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Administrative
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Higher Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

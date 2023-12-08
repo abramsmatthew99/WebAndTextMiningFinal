@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology - with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch.<br/><br/>The Chassis Systems Control division stands for trend-setting technical solutions and has been a pioneer in innovative technology and quality for many years.<br/><br/><strong>Job Description<br/><br/></strong>Help to shape the future: You will be a key team member driving our quality processes and standards. This individual will work with our Project, Engineering and Quality Management departments, reviewing critical launch projects on a regular basis to ensure adherence to established quality standards.<br/><br/>Through your work, you make a fundamental contribution to achieving our Safety and Quality goals for upcoming and key product launches.<br/><br/><strong>Key Responsibilities Include<br/><br/></strong><ul><li>Work with project management and engineering teams to ensure compliance with quality processes &amp; requirements. Assigned as part of core team to key focus projects critical for business unit future and performance metrics.</li><li>Development support and approval of project quality assurance plan (QAP).</li><li>Ensure quality gates and processes are executed in accordance with quality standards (static analysis, code review, etc), including configuration management.</li><li>Guide and consult projects in technical aspects of quality processes.</li><li>Analyze quality metrics and provide feedback to project and quality management.</li><li>Support in organization of internal / customer reviews (ASPICE assessment, VDA6.3 process audits, safety reviews, Safety -Analysis reviews, FMEA reviews, etc.).</li><li>Support Lessons Learned reviews and problem solving activities.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong>Basic Qualifications:<br/><br/><ul><li>Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or Mechanical Engineering</li><li>3-5 years in Automotive Industry</li><li>2+ years of Quality experience</li><li>1+ years of experience with product development life cycle<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Master’s Degree</li><li>2+ years experience with the Bosch Quality Management System</li><li>Fluency in English (further language skills are an advantage)</li><li>Automotive field experience in brake modulation and/or steering components</li><li>Experience with software engineering and processes including familiarity with software development life cycle artifacts</li><li>Knowledge of ASPICE, ASPICE assessor qualification<br/><br/></li></ul><strong>Additional Information<br/><br/></strong><em>By choice, we are committed to a diverse workforce - EOE/Protected Veteran/Disabled.<br/><br/></em><em>BOSCH is a proud supporter of STEM (Science, Technology, Engineering &amp; Mathematics)Initiatives<br/><br/></em><ul><li>FIRST Robotics (For Inspiration and Recognition of Science and Technology)</li><li>AWIM (A World In Motion) <br/><br/></li></ul><em>Come see our Mobility Academy here<br/><br/></em><em>http://www.bosch-mobility-solutions.us/us/highlights/automated-mobility/amc/<br/><br/></em><strong>Indefinite U.S. work authorized individuals only. Future sponsorship for work authorization unavailable.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Automotive
+          </span>
+</li>
+</ul>
+</div>
+</section>

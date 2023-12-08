@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Diamond Kinetics</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="David Lewanda" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        David Lewanda
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Director of Software Engineering
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message David Lewanda" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fdlewanda&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<br/><p><strong>Web Software Engineer</strong></p><p><strong>Pittsburgh, PA / Remote</strong></p><p><br/></p><p><span>Seeking a </span><strong>Web Software Engineer</strong><span> to help build the next generation of web applications in baseball &amp; softball technology. Diamond Kinetics is looking for a high-performance engineer interested in taking our existing web application to the next level. As a developer at Diamond Kinetics, you must be passionate about delivering web experiences that delight users with their simplicity while the difficult work of data storage &amp; synchronization, data display, and 3D rendering is handled seamlessly behind the scenes. Your work will be leveraged across multiple platforms, including desktop and mobile web as well as in embedded web views within the highly performant Diamond Kinetics mobile app</span></p><p><br/></p><p><span>You will be joining a small cross-discipline engineering team that works on a complex stack ranging from iOS applications, embedded devices, API, machine learning, and web front end. An ideal candidate is inquisitive about other areas of technology they aren’t familiar with and passionate about teaching others about the areas they know well. The web application is a key component of what Diamond Kinetics does and as such you will be working closely with the full team to bring cutting-edge technology into the hands of baseball and softball players around the world.</span></p><p><br/></p><p><span>Our stack is complex, the work is rewarding, and you will learn about topics outside of what you studied at school. As a Web Software Engineer on the team, you will build robust data synchronization methods to more effectively and efficiently synchronize data across thousands of devices, visualize that data in novel and unique ways, allow users to administer their accounts, interface with our e-commerce backend, and of course, build a web application used by hundreds of thousands of baseball and softball players to get better and have fun.</span></p><p><br/></p><p><strong><em>Job Function and Purpose</em></strong></p><p><span>The </span><strong>Web Software Engineer</strong><span> is responsible for the development and maintenance of the web front end served to Diamond Kinetics users through their preferred browser or embedded in views within the DK mobile app. This person utilizes their knowledge of web development and browser capabilities to work closely with the rest of the development team to bring delightful user experiences to life.</span></p><p><span>As a web Software Engineer at Diamond Kinetics, you will join our team of experienced application developers, mechanical engineers, and sports marketers to design new capabilities and applications that leverage Diamond Kinetics’ wealth of data and content, including that from our partner Major League Baseball (MLB) to surprise and delight users across various experiences.</span></p><p><span>Diamond Kinetics’ team and our product offerings are growing quickly, so the role requires an energetic and self-motivated individual with excellent communication, organization, and technical skills to work cross-functionally with other organizations (internal and external), who can communicate to all levels of management.</span></p><p><strong><em>Key Responsibilities</em></strong></p><ul><li><span>Development of applications, services, and test suites for modern web platforms</span></li><li><span>Work from designs to create compelling user interfaces, preferably with the Angular framework</span></li><li><span>Creation of 2D and 3D data visualizations that give meaning and understanding to our baseball and softball metrics using d3.js and similar frameworks</span></li><li><span>Collaborate with the API team to surface more data and content from our robust backend</span></li><li><span>Ability to accurately estimate the time required for development tasks</span></li><li><span>Work well within mobile software development best practices including continuous integration, accuracy testing &amp; reporting, centralized logging, crash reporting, modularized architecture, etc.</span></li><li><span>Effectively engage with customers (coaches, players, and parents) during real-life use of the mobile software developed</span></li><li><span>Assist in the continued successful software development life-cycle of the company</span></li></ul><p><strong><em>Experience Required</em></strong></p><ul><li><span>B.S. or equivalent degree in Computer Science, Information Networking, or equivalent field of study</span></li><li><span>5-10 years of industry experience with a track record of success in product development and deployment</span></li><li><span>Deep understanding of web technologies, including HTML, CSS, JavaScript and ideally Typescript</span></li><li><span>Familiarity with modern web development frameworks especially Angular and/or React</span></li><li><span>Experience in creating unit tests using automated testing frameworks</span></li></ul><p><strong>Additional Desired Experience</strong></p><ul><li><span>Experience with Typescript</span></li><li><span>Strong familiarity with UX best practices</span></li><li><span>Understanding and passion for the games of baseball and/or softball</span></li><li><span>Comfortable with advanced physics concepts and equations</span></li><li><span>Python development experience</span></li><li><span>Start-up and/or early-stage company experience</span></li><li><span>Experience building consumer-facing products, including any design background</span></li></ul><p><br/></p><p><strong><em>Additional Information</em></strong></p><ul><li><span>Unique and exciting opportunity to work at an MLB-backed early-stage company</span></li><li><span>Flexible work environment in our office in Pittsburgh, PA, or remotely in US timezones</span></li><li><span>Competitive compensation package</span></li><li><span>Diamond Kinetics is an equal-opportunity employer</span></li></ul><p><br/></p><p><strong><em>Diamond Kinetics</em></strong></p><p><span>Diamond Kinetics’ (</span>diamondkinetics.com<span>) enhances the games of baseball and softball by creating engaging experiences that help players improve and also have fun.  We are the market leader in mobile motion technology and information that enables player development, superior equipment fitting, objective scouting and recruiting, and engagement-driven entertainment.  We do this leveraging an exclusive license to patents issued</span><strong> </strong><span>from the University of Michigan and the University of Pittsburgh, deep technical expertise, key strategic partnerships, and our love for the game.</span></p><p><span>Diamond Kinetics is a fast-paced, performance-driven company where responsibility comes fast, and exceeding expectations is the expectation.  The work is challenging but exciting, especially for those who love sports.  We believe in stretching for growth as a company, and as professionals, and seek competitive, self-motivated people as teammates who do the same.  </span></p><p><span>Our small, highly collaborative, growing software/R&amp;D team is a great opportunity for talented engineers to impact our technology from the ground up.</span></p><p><br/></p><p><span>If interested, please send resumes to </span>careers@diamondkinetics.com<span> or </span>apply online<span>.</span></p><p><br/></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

@@ -1,0 +1,80 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from NextGen Federal Systems</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Reva Oliver" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Reva Oliver
+
+<!-- -->
+</h3>
+<!-- -->
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Reva Oliver" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Freva-oliver-5a2a38159&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>NextGen Federal Systems is seeking an Associate Software Engineer to participate in the full Software Development Life Cycle for the development of innovative software systems for use by our Department of Defense (DoD) customers.</p><p><br/></p><p>Selected candidates will be part of a co-located development team operating in a dynamic, agile, fast-paced environment, and will participate in all phases of the software engineering process. Successful candidates with support the fielding, sustainment, and enhancement of a wing level Command and Control (C2) and Emergency Management (EM) system by streamlining user workflow and facilitating collaboration via data sharing, enhancing situational awareness and more effective decision making</p><p><br/></p><p><strong>Location</strong>: Morgantown, WV</p><p><br/></p><p><strong>Responsibilities</strong></p><ul><li>Support the effort to connect weather Authoritative Data Sources for fusion and analysis</li><li>Support the development of weather reporting, alerts, and notices at the tactical, operational, and strategic level</li><li>Support the development and integration of the Weather Software Toolkit for Operational Risk Management (WxSTORM)</li><li>Support of regular and emergency releases (in support of assigned interfaces)</li><li>Support the development of forecasting weather events and the impacts to command-and-control (C2)</li><li>Help to maintain the interfaces currency and quality through review of performance metrics and testing, and to resolve anomalies in a timely manner, of the system regardless of its deployed (unclassified) environment.</li><li>Support the development of Multi-Tenant weather related services</li><li>Support the software development and development of manual and automated testing best practices for interfaces</li><li>Adhere to agile software development practices (e.g., transparent sprint and test planning, daily ticket time logging, daily/frequent scrum team tag-ups, conduct or participate in sprint retrospectives, etc.).</li></ul><p><br/></p><p><strong>Qualifications</strong></p><ul><li>Bachelor’s Degree in Computer Science, Math, Engineering, or related field</li><li>2+ years of defense-related experience with software engineering</li><li>Ability to obtain and maintain a Secret level DoD Security Clearance</li></ul><p><br/></p><p><strong>Desisired Skills and Experience</strong></p><ul><li>Experience operating with Agile development processes and tools (e.g., Scrum, JIRA)</li><li>Experience operating in a DevSecOps environment with CI/CD pipelines</li><li>Experience with object-oriented software design and development</li><li>Experience with full life cycle software development</li><li>Familiarization with both manual and automated test practices</li><li>Experience with cloud platforms (e.g., AWS, Azure)</li><li>Experience working with weather-related systems and data</li><li>Demonstrates strong work ethic, works well within an engineering team, mission oriented, and takes personal pride in work.</li><li>Strong written &amp; verbal communication skills, including technical writing and presentations</li></ul><p><br/></p><p><strong>About NextGen</strong>: NextGen Federal Systems is an innovative technology and professional services provider specializing in advanced software solutions and comprehensive mission and business support services. We work in close collaboration with our Customers to truly understand their business and mission goals. Our approach is to design, build, implement, and manage solutions that measurably improve our client’s organizational performance. We have established and foster a corporate culture where we:</p><ul><li>Treat employees with fairness and respect regardless of their position, tenure, race, or sexual identity.</li><li>Communicate the importance of our mission and our employees’ contributions to it, ensuring they understand how their job role contributes to the greater good.</li><li>Openly promote and communicate our ideas for change and adaptability.</li><li>Strive to achieve results as an organization.</li><li>Hold employees accountable to their commitments and provide incentives that encourage positive and productive behaviors.</li><li>Value the talents and contributions of our employees as the key factor for our success.</li><li>Create an environment where people can engage at all levels.</li><li>Encourage people to take risks and allow them to make mistakes.</li></ul><p><br/></p><p>RefID: A01y</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting and Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

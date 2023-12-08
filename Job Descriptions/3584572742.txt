@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong><u>Position Description<br/><br/></u></strong><strong>POSITION TITLE: </strong>Teacher<br/><br/><strong>FLSA: </strong>Exempt<br/><br/><strong><u>Qualifications<br/></u></strong><ul><li>Must hold proper state teaching certification</li><li>Background check and fingerprinting<br/></li></ul><strong>REPORTS TO:</strong> Principal<br/><br/><strong>TERMS OF EMPLOYMENT: </strong>182 days per year.<br/><br/><strong><u>Essential Job Functions<br/></u></strong><ul><li>Participate in curriculum review and design.</li></ul><ul><li>Implement a variety of effective instructional strategies consistent with lesson objectives. </li><li>Diagnose and evaluates student abilities and progress in a timely and consistent manner. </li><li>Monitor student progress and adjust instruction accordingly. </li><li>Plan a program of study that meets the individual needs, interests, and abilities of the students. </li><li>Create a classroom environment that is conducive to learning. </li><li>Assess the accomplishments of students on a regular basis and provide progress reports as required. </li><li>Refer students for alternative services as provided by the District (ESL, Reading, Special Reading). </li><li>Effectively implement district initiatives. </li><li>Effectively collaborate with department and grade-level teachers. <br/></li></ul><strong><u>Other Job Functions<br/></u></strong><ul><li>Abide by state statutes, school board policies and regulations.</li><li>Attend meetings and performs duties as assigned by administrators or supervisors.</li><li>Take all necessary and reasonable precautions to protect students, equipment, materials, and facilities.</li><li>Maintain accurate, complete, and correct records as required by law, district policy and administrative regulation.</li><li>Serve on committees as assigned.</li><li>Remain current on instructional practices in education. (e.g. instructional technology)</li><li>Communicate professionally with all stakeholders.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Primary and Secondary Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Us<br/><br/></strong>We are a renowned education service provider dedicated to guiding students towards achieving academic excellence and unlocking their potential for admission to esteemed universities. With a track record spanning nearly two decades, our commitment lies in nurturing students to excel in tests, foster leadership qualities, and secure admissions to reputable institutions.<br/><br/>The Role<br/><br/>We are seeking an enthusiastic and skilled individual to join our team as an Instructor specializing in AP Computer Science Principles and AP Computer Science A. You will be responsible for creating an engaging learning atmosphere, guiding classroom discussions, developing course materials, and implementing effective teaching methodologies to help students thrive academically.<br/><br/><strong>Responsibilities<br/><br/></strong>Demonstrate a comprehensive understanding of AP Computer Science Principles and AP Computer Science A.<br/><br/>Engage and moderate classroom discussions to encourage active participation.<br/><br/>Prepare and organize course materials including syllabi, assignments, and supplementary resources.<br/><br/>Assess and adapt curricula, ensuring alignment with educational standards and student needs.<br/><br/>Offer academic guidance and support during designated office hours.<br/><br/>Collaborate with colleagues to address instructional challenges and enhance teaching methodologies.<br/><br/>Foster student confidence and self-esteem through positive reinforcement.<br/><br/>Maintain thorough preparation and organization for each lecture.<br/><br/><strong>Qualifications<br/><br/></strong>Bachelor's degree (BA, BS) or higher from an accredited institution.<br/><br/>Minimum of 2 years of direct teaching or tutoring experience.<br/><br/>Flexibility to work during weekday afternoons, evenings, and weekends.<br/><br/>Proficiency in Java and Python programming languages.<br/><br/>Employment Type: Part-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

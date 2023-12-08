@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Ready to make an impact in Pensacola and the Gulf Coast? Join our extremely fast growing company. Voted Best in Pensacola and Best of the Bay several years in a row.<br/><br/>Looking for motivated people that have a desire to excel, exceed, and grow with us!<br/><br/>We are currently looking for a highly skilled and motivated "IT Support Technician". Full time. Please look over the duties and requirements in detail.<br/><br/>Duties:<br/><br/><ul><li> Working with customers IT Departments to resolve many different kinds of issues.  </li><li> Repairing Computers, Phones, Networks, Servers, Point of Sale Systems, and more.  </li><li> Diagnose and repair hardware and software issues on client PC’s and mobile devices using approved methods and processes.  </li><li> Install hardware and software for clients.  </li><li> Complete necessary internal and client-related documentation as required on a daily basis.  </li><li> Install/configure/repair network and local printers.  </li><li> Train clients on basic computer knowledge.  </li><li> Communicate and interact with end users and internal staff to resolve IT related issues  </li><li> Positive and proactive attitude with customer’s best interest in mind.  </li><li> Acknowledge and escalate issues that are brought to your attention, but may fall outside of IT support Qualification / Requirements  </li><li> Network Installation and design.  </li><li> Help Desk Support  <br/><br/></li></ul>YourTEK Professionals provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veteran status, or genetics. In addition to federal law requirements, YourTEK Professionals complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.<br/><br/>Requirements Education / Training / Experience Required:<br/><br/><ul><li> Minimum of three (3) years’ experience with Windows OS </li><li>Minimum of three (3) year experience with PC and laptop hardware. </li><li>Minimum of (1) year customer service experience. <br/><br/></li></ul>Preferred:<br/><br/><ul><li> Certification in A+, Server+, Network+, Microsoft MCP, MCSA, MCSE, Associate Degree in Computer Science or equivalent.  <br/><br/></li></ul><strong>Additional Requirements<br/><br/></strong><ul><li> Excellent verbal and written communication skills.  </li><li> Ability to work with minimal supervision.  </li><li> Valid driver’s license.  </li><li> Dependable transportation.  </li><li> Must be able to lift 50 pounds.  </li><li> Demonstrate attention to detail  </li><li> Demonstrate strong hardware troubleshooting skills  </li><li> Be creative and make solutions when one can not be found.  </li><li> Positive attitude.  <br/><br/></li></ul>BenefitsVision<br/><br/>Dental<br/><br/>Life Insurance<br/><br/>Short Term Disability<br/><br/>PTO<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Phoenix Technologies</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Michelle White" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQFnel-0CquEyg/profile-displayphoto-shrink_100_100/0/1517674032580?e=2147483647&amp;v=beta&amp;t=kWt1-L4-kb-X6huRW-BS7algyc5KGek15qNrlpqqViw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Michelle White
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Engineering Administrator at Phoenix Technologies
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Michelle White" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmichelle-white-5b61924&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Database Engineer</strong></p><p> </p><p><strong>Description</strong></p><p>Phoenix Technologies is one of the world’s most experienced platform firmware security companies. We were the first company to develop a BIOS that was compatible with the IBM PC clone in the 1970s. And the rest is history. Today, we serve global customers from offices in the United States, Taiwan, and Japan.</p><p> </p><p>The total number of known medium-, critical, and high-risk firmware vulnerabilities tracked by Phoenix has more than quadrupled in less than five years. We are a private company in growth mode while developing new products to address these challenges.</p><p> </p><p>We are seeking a Senior Database engineer to implement a remote management system that can pass/receive commands and data to/from client devices.</p><p> </p><p>Location: On-site requirement in  Beaverton, OR</p><p> </p><p><strong>Responsibilities</strong></p><ul><li>Maintaining and enhancing the functionality and performance of existing database programs.</li><li>Monitoring and enhancing databases and related systems to optimize performance.</li><li>Proactively addressing scalability and performance issues.</li><li>Ensuring data quality and integrity while supporting large data sets.</li><li>Debugging and resolving database reliability, integrity, and efficiency.</li><li>Documenting processes related to the design, configuration, and deployment to new instances.</li><li>Collaborate with Product, Engineering and Data Science to ensure data quality and integrity for data reporting, exploration, and analysis.</li><li>Follow agile development methodologies to deliver solutions and product features by following DevOps practices.</li></ul><p><strong>Knowledge &amp; Skills</strong></p><ul><li>Bachelor’s degree in Computer Science or related field with at least 7+ years of experience.</li><li>A minimum of 7 years’ experience in database engineering.</li><li>Expert with relational database design, data modeling, table creation and management.</li><li>Expert in SQL queries, knowledge of DWH concepts and ETL development.</li><li>Excellent written, verbal, and inter-personal and stakeholder communication skills.</li><li>Ability to work with cross functional teams from multiple regions/ time zones by effectively leveraging multi-form communication (Email, MS Teams for voice and chat, meetings)</li><li>Excellent prioritization and problem-solving skills</li></ul><p><strong>Required Experience</strong></p><ul><li>Git/Github for source control</li><li>Big data (Hadoop, Map/Reduce, Python) skills</li><li>Transactional database design</li><li>PostgreSQL - we need deep knowledge – i.e., considerable hands-on time, a knowledge of the internals and architecture, familiarity with the system catalogs, a command of best practices (Especially with respect to security), monitoring and control, error handling, PSQL/command line expertise, etc</li><li>Docker</li><li>Jenkins</li><li>RDS</li><li>Experience with agile development methodologies by following DevOps, Data Ops and Dev Sec Ops practices.</li></ul><p><strong>Desired Experience</strong></p><ul><li>Experience with tools like Tableau, Domo and Power BI as visualization tools</li><li>Experience using AWS services in a big data platform.</li><li>Experience building cloud solutions using AWS or Azure as data lake backend sources.</li><li>Linux sysadmin</li><li>Data warehousing design</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>TalentEdge has partnered with a local venture capital company focused on strategic growth. Our client is growing and looking to add a Network Engineer to their team.</p><p>This is a direct hire opportunity.</p><p><br/></p><p>A full job description can be provided to interested/qualified candidates</p><p><br/></p><p>As the Network Engineer you will ensure the stability and integrity of in-house voice, data, video, and wireless network services. Planning, designing, and developing LANs and WANs across the organization. In addition, the Network Engineer will participate with the installation, monitoring, maintenance, support, and optimization of all network hardware, software, and communication links. Analyze and resolve network hardware and software problems in a timely and accurate fashion, and provide end user training.</p><p><br/></p><p>Responsibilities:</p><ul><li>Network Installation and Configuration (full description of these responsibilities are on the full job description) – but will include:</li></ul><p> ○ Set up and configure network equipment</p><p> ○ Install and maintain cabling systems to connect network devices.</p><p> ○ Configure and maintain network protocols, IP addresses, and subnets.</p><ul><li>Network Maintenance and Monitoring (full description of these responsibilities are on the full job description) – but will include:</li></ul><p> ○ Perform routine network maintenance tasks to ensure optimal performance.</p><p> ○ Apply software updates and patches to network devices and servers.</p><ul><li>Network Design and Planning (full description of these responsibilities are on the full job description) – but will include:</li></ul><p> ○ Collaborate with IT teams to design and plan network upgrades or expansions.</p><p> ○ Conduct research on network products, services, protocols, and standards.</p><ul><li>Troubleshoot and resolve network related issues (full description of these responsibilities are on the full job description) – but will include:</li></ul><p> ○ Respond to network-related support requests from users.</p><p> ○ Troubleshoot hardware and software problems on network devices.</p><p> ○ Document and track network-related incidents and resolution</p><ul><li>Documentation and reporting(full description of these responsibilities are on the full job description)</li><li>Assist with Overflow Technical Support Tickets as needed</li><li>Participate in business-wide meetings to provide insight into technical requirements</li></ul><p><br/></p><p>Qualifications (full list on job description):</p><p><br/></p><ul><li>Bachelor's degree in Computer Science, Information Technology, Systems Analysis or a related study or 4+ years of related experience</li><li>Expert in handling confidential and sensitive information</li><li>Exceptional verbal, written, and communication skills and attention to detail</li><li>Ability to work on tight deadlines</li><li>Strong organization skills and ability to multitask</li><li>Strong problem solving and decision making skills</li></ul><p><br/></p><p>Preferred Technical Skills:</p><ul><li>Networking</li></ul><p> ○ Proficiency in the following are preferred</p><p> ■ pfSense/OPNsense, Ubiquiti/Unifi, Subnets and VLANs, IPAM/Netbox, SNMP, VPNs,</p><p> L2/L3 switching, Access Points, Wireshark or equivalent, Firewall management in</p><p> Single and Multi-WAN environments</p><ul><li>Troubleshoot hardware &amp; software errors by checking logs, running diagnostics, documenting problems &amp; resolutions, prioritizing problems, &amp; assessing impact of issues</li></ul><p><br/></p><p>Bonus Technical Skills:</p><ul><li>Git experience, Scripting, Puppet/Chef/Ansible experience</li><li>IT/Networking/Security certifications</li><li>CCNA</li></ul><p><br/></p><p>“TalentEdge is an Equal Opportunity Employer. It is the policy of TalentEdge to provide equal opportunity in employment and conditions of employment to all individuals regardless of age, race, color, religious beliefs, national origin, sexual orientation, gender identity, sex, veteran or military status, disability, pregnancy-related condition, predisposing genetic characteristics, genetic information, marital status, familial status, prior arrest, domestic violence victim status, non-job related convictions, participation in lawful activities outside of our workplace, or any other status protected by law.”</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

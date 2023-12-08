@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Summary...<br/><br/>What you'll do...<br/><br/>Walmart Global Tech Applied AI team is looking for a passionate Staff Data Scientist to join world's largest retailer to shape the future of retail by working on various supply chain related problems . You will have the chance to leverage advanced machine learning and optimization methods to tackle a wide range of real-world problems, such as vehicle routing optimization, driver-trip matching, trip pricing, supply/demand forecast and time prediction, driver workload matching and so on.<br/><br/><strong>About Team<br/><br/></strong>Our team is dedicated to enhancing customer experience, improve the efficiency and driving cost savings by leveraging innovative technology and working closely with supply chain and store operations business, product management, and engineering teams. We strive to empower team members, stores, and the supply chain with cutting-edge solutions that optimize end-to-end delivery, warehouse management, order fulfillment, and store associate operations. Our commitment to technological innovation enables us to better serve customers and drive success across the organization.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li> Build production models on large-scale datasets to help Walmart transportation business use cases , such as transit and operations time prediction, pricing, driver matching and driver assignment time prediction by utilizing statistical modeling, machine learning and optimization techniques</li><li> Build data pipeline from multiple sources and extract data insight with data exploration and visualization techniques</li><li> Design, implement, productionize and deploy data science products with consideration of optimality and computation complexity</li><li>Collaborate with stakeholders, including product, engineering, operations team to ensure that our data science product supports Walmart's business objectives</li><li>Explore and latest trends of machine learning and optimization techniques to come up with solutions for complex data challenges<br/><br/></li></ul><strong>What You'll Bring<br/><br/></strong><ul><li>Masters in Statistics, Operations Research, Industrial Engineering and Mathematics or other quantitative fields with 5+ years of relevant work experience. </li><li>Strong knowledge of machine learning, mathematical programming modeling and optimization</li><li>Expertise in one or more areas among: Machine Learning - Classical methods/ Deep Learning/ Reinforcement Learning, Causal Inference, Statistics. </li><li>Ability to write production grade code in programming languages, such as Python, R and Java, with understanding of algorithms and data structures</li><li>Solid knowledge in advanced optimization algorithms and machine learning models , including model fit testing, tuning, and validation techniques. Impact of variables and features on model performance to Identify the model evaluation metrics. Apply best practice techniques for model testing and tuning to assess accuracy, fit, validity, and robustness for multi-stage models and model ensembles.</li><li>Familiarity of common deep learning models</li><li>Familiarity of model assessment and validation process; apply the best practice techniques for model testing and parameter tuning.</li><li>Experience with SQL and databases</li><li>Ability to translate business needs into analytical frameworks</li><li>Capability of conducting independent research to keep track of latest development and trend in the industry and academia</li><li>Experience with distributed systems and tools such as Spark, Hadoop, etc.</li><li>Demonstrated production-level coding and programming abilities</li><li>Experience of building large-scale Machine learning driven or optimization products</li><li>Knowledge of understanding of business value and relevance of data and data enabled insights/decisions</li><li>Knowledge of Analytics/big data analytics/automation techniques and methods; Business understanding; Precedence and use cases; Business requirements and insights. To translate/co-own business problems within one's discipline to data related or mathematical solutions. Identify appropriate methods/tools to be leveraged to provide a solution for the problem. Share use cases and gives examples to demonstrate how the method would solve the business problem.</li><li>Passionate about building scalable, reliable data driven products<br/><br/></li></ul><strong>About Walmart Global Tech<br/><br/></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.<br/><br/><strong>Flexible, Hybrid Work<br/><br/></strong>We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.<br/><br/><strong>Benefits<br/><br/></strong>Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.<br/><br/>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.<br/><br/><strong>Minimum Qualifications...<br/><br/></strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.<br/><br/>Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 4 years' experience in an analytics related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2 years' experience in an analytics related field. Option 3: 6 years' experience in an analytics or related field<br/><br/><strong>Preferred Qualifications...<br/><br/></strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.<br/><br/>Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch)<br/><br/>Primary Location...<br/><br/>603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of America
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Application Developer Intern, #679 <br/><br/></strong><strong> Clearance: </strong> Must be able to obtain a public trust clearance or higher as required<br/><br/>Dev Technology Group is seeking talented rising juniors and seniors for our Summer 2024 Internship Program. Interns will be based out of our headquarters in Reston, Virginia. This is an excellent opportunity for those seeking professional experience in software development, sysadmin, DevOps, or related field. <br/><br/><strong>What You'll Be Doing<br/><br/></strong>Dev interns will work on a dynamic software development project in support of a government client, corporate operations, or research and development. This is an opportunity to contribute to improving software development outcomes and to observe and participate in many aspects of an Agile software development project. Interns will also work on a technical intern project with the rest of the internship team.<br/><br/><ul><li> Practice Agile methodology by attending all Scrum related meetings, such as daily stand-ups, weekly sprint planning, and weekly retros </li><li> Support the design and development of SharePoint, PowerApps, Power Automate Solutions based on client requirements </li><li> Monitor new SharePoint, PowerApps, Power Automate features and functionality and ensure changes are properly communicated and tested </li><li> Create sites, lists, views, forms, SharePoint Designer Workflows, and web parts </li><li> Support work with clients and project team to confirm detailed architecture for complex solutions, including external design (navigation, screens, reports) and internal design (software and hardware platform, connectivity, modules, back-end and front-end components, interfaces) based on established architectural standards </li><li> Perform maintenance and enhancements and ongoing SharePoint and Power Platform administration </li><li>Be exposed to various architectural approaches including Test-driven development (TDD), Business-driven development (BDD), and Domain-driven development.</li><li>Perform various lean-agile investigation methods, including root cause analysis</li><li>Develop web pages using JavaScript, TypeScript, HTML/CSS, and Angular</li><li>Work with fellow Summer Interns on a technically focused project and present the groups' results to the executive team at the end of the program. Past projects have included creating a mentorship web application and planning a hack-a-thon</li><li>Conduct external software testing</li><li>Write and maintain user guide documentation and technical documentation <br/><br/></li></ul><strong>Required Skills And Experience<br/><br/></strong><ul><li> Rising juniors and seniors working toward a bachelor’s degree in Computer Science, Information Technology or technology-aligned business related field preferred </li><li>Interest in Full Stack/Application Development, Information Security, Business Intelligence, Systems Analyst, or Information Technology or related field of study</li><li>Experience with Microsoft services such as SharePoint Online, Microsoft Teams, Power Apps, Power BI and Power Automate</li><li>The ability to work independently and in a team with developers providing guidance and support</li><li>A desire to learn new skills, including self-study if needed </li><li>The ability to follow through on tasks to completion</li><li>True enjoyment of technology and the desire to contribute to a team’s output</li><li>Completed coursework in Java, Python, or other object-oriented, typed language</li><li>The ability to focus on details of a system change request to determine all potential functional paths</li><li>The ability to read through existing code with the support of a senior developer</li><li> Must be able to commute to the Reston, Virginia office 1-3 days a week <br/><br/></li></ul><strong>Preferred Skills And Experience<br/><br/></strong><ul><li> Rising senior (strongly preferred) <br/><br/></li></ul><strong>Who We Are<br/><br/></strong>Dev Technology is a growing IT company with an employee-centric culture that works on mission-critical projects for the federal government. We partner with our federal customers to deliver technology services and solutions, and to drive our client’s missions forward through innovation. We use Agile and DevSecOps principles to provide services including application development, biometrics and identity management, cloud and infrastructure optimization, IT and legacy modernization, and data management.<br/><br/>As a Washington Post Top Workplace Award Winner For The Past Ten Years In a Row, The Top Workplaces USA For The Past Three Years, And a Recipient Of The Companies As Responsive Employers (CARE) Award For The Past Four Years, Dev Technology Employees Enjoy<br/><br/><ul><li> Generous and flexible time-off policy </li><li> Flexible work schedules and telework options, including remote work availability for eligible projects </li><li> Career development opportunities including a mentorship program, technical and management training through Dev University, hands-on learning through DevLab, tuition reimbursement, and paid training opportunities </li><li> Industry-leading benefits including a choice of two health plans that include dental and vision, flexible spending account, commuter benefits, life insurance, and more </li><li> 401K matching with immediate vesting and end of year profit sharing </li><li> Regular team and company social events including our annual party, happy hours, fitness challenges, and more </li><li> A focus on community engagement including company wide support activities, employer match for donations, and time off for volunteer efforts </li><li> To learn more about working at Dev Technology visit, Learn About A Day At Dev Technology <br/><br/></li></ul><strong>Dev Technology Group operates in the following states: AL, AR, AZ, CO, DC, FL, GA, ID, IL, IN, MD, MA, ME, MN, NC, NJ, OR, PA, SC, TN, TX, VA, WV.<br/><br/></strong><strong>EEO/AA/Disability/Vets Employer</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

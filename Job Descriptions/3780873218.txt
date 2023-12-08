@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>We are now looking for Senior Software Engineer.<br/><br/></strong>NVIDIA is looking for an experienced SW Engineer with desire and ability to contribute and lead cutting edge Network Management System of most powerful super-computers in the world. Our team is growing, and we are looking for hardworking and self-motivated engineers to lead building of advanced, high scale SDN management solutions. You will be part of a dynamic team, working with amazing people. This crucial role will give you a rare opportunity to craft and deliver a new class of Data Center NMS product line.<br/><br/><strong>What You’ll Be Doing<br/><br/></strong><ul><li>Developing next generation UFM – Unified Fabric Manager product.</li><li>Help drive the underlying technology stack and the implementation methodology.</li><li>Monitor and tune code performance.</li><li>Work closely with other SW R&amp;D teams and SW Architects.</li><li>Drive performance tuning and automation.</li><li>Design and implement micro-services architecture.</li><li>Work in agile environment.<br/><br/></li></ul><strong>What We Need To See<br/><br/></strong><ul><li>B.Sc. in Computer Science or equivalent experience</li><li>3+ years of hands-on experience with system software design, development, maintenance, and experience in C/C++ programming, debugging and performance analysis.</li><li>Python programming – significant advantage.</li><li>Dockers, Kubernetes, other orchestration tools.</li><li>Background with RESTful web services.</li><li>Experience with Continuous Integration and Continuous Delivery.</li><li>Excellent interpersonal and written communication skills required.<br/><br/></li></ul><strong>Ways To Stand Out From The Crowd<br/><br/></strong><ul><li>M.Sc. in Computer Science.</li><li>Experience in code performance analysis and tuning and experience in agile software development methodology.</li><li>Extensive knowledge and deep understanding of Linux system programming.</li><li>A track record of solving sophisticated problems with elegant solutions and demonstrate delivery of complex projects in previous roles.</li><li>Experience building infrastructures and tools to speed up development, test, and release.<br/><br/></li></ul>With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.<br/><br/>The base salary range is 116,000 USD - 270,250 USD. Your base salary will be determined based on your location, experience, and the pay of employees in similar positions.<br/><br/>You will also be eligible for equity and benefits . <em> NVIDIA accepts applications on an ongoing basis. <br/><br/></em>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Hardware Manufacturing, Software Development, and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

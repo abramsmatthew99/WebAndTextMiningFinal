@@ -1,0 +1,60 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Anarchy (YC W23)</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Matthew Mirman, PhD" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/D4E03AQGmX2ZczQghnQ/profile-displayphoto-shrink_100_100/0/1701469832897?e=2147483647&amp;v=beta&amp;t=5eelc3AYB_A5mDfCAHy-QoPixljsLARv6UURmuaU2Ws" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Matthew Mirman, PhD
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Founder of Anarchy (YC W23)
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Matthew Mirman, PhD" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fmatthewmirman&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>In order to democratize AGI, Anarchy is looking for a paid full-time summer-semester (flexible) intern. Our goal is to to increase the industrial viability of open-source LLM models by building open-source full-stack compiler infrastructure. In this position you will have copious access to large GPU clusters and will be expected to come up with crazy ideas and try them!</p><p><br/></p><p><strong>Ideal Qualifications &amp; Skills</strong></p><p><br/></p><ul><li>Contributions to well-used open-source projects.</li><li>Pursuing or recently graduated from a top-tier BS/MS/PhD program in AI</li><li>Hard core work-ethic</li><li>Experience working with LLMs.</li><li>Experience writing Compilers/JITs.</li><li>Experience working in a team setting.</li></ul><p><br/></p><p><strong>Office Life &amp; Perks</strong></p><p><br/></p><ul><li>We are located between NYC and Zurich Switzerland.</li><li>Fully remote-work.</li><li>Flexible-working hours/unlimited vacation.</li></ul><p><br/></p><p><strong>Application</strong></p><p><br/></p><p>As we are heavily focused on building a helpful and inclusive community, we're running an experiment for this position where interviews will be handed out entirely meritocratically to the most successful contributors and community members by the end of october. A great way to get started is to join https://discord.anarchy.ai/ and check out the codebase at https://code.anarchy.ai/, but please apply on linkedin to be formally considered!</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

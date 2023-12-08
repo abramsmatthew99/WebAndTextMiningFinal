@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>**Open to Santa Clara, CA, Seattle, WA, and Hillsboro, OR as well**</p><p><br/></p><p><strong>Job Description:</strong></p><p><br/></p><p>Oracle Supply Chain Operations manages the hardware supply chain for the rapidly expanding Oracle Cloud Infrastructure.</p><p><br/></p><p><strong>Who:</strong></p><p><br/></p><p>We are seeking a highly talented leader with systems integration experience to lead a team of product engineers responsible for rack-level integration of compute servers and associated hardware. This team works with the adjacent team who develop servers, outwardly with the hardware development organization, and cloud internal customer organization to ensure high quality.</p><p><br/></p><p>The Product Engineering team is responsible for engaging with the development team and transforming general specifications into specific actions that support the development of both early development and production systems; the development of manufacturing infrastructure (e.g. test requirements/specifications); First Article Inspections of pilot units; and the technical lifecycle management of the rack level solutions from first build through end of product life.</p><p><br/></p><p><strong>What:</strong></p><p><br/></p><p>The ideal candidate will not just manage the team but, more importantly, advocate for the technical supply chain ops team from a software and hardware engineering perspective working with development teams and your engineering peers in manufacturing. You will oversee the planning, development, implementation and maintenance of manufacturing methods, processes and operations for new and existing products. The focus will be on transforming a product quickly and reliably from concept to first rack shipments. Candidates must stay current on technology developments in the cloud industry including emerging compute, storage, network, and GPU technologies and find ways of adapting technical and development practices modern and current.</p><p><br/></p><p>The Product Engineering role and team require a mix of hardware, software, OS and networking skills coupled with excellent technical management skills. This position is a challenging and rewarding opportunity with an exciting blend of both hands-on technical work, coupled with elements of technical program management. This leader will develop systems to maintain quality reporting and record keeping of company products. This manager will also be responsible for selecting/hiring, developing, and evaluating personnel to ensure the efficient operation of the function.</p><p><br/></p><p>This role will also oversee the planning, development, implementation and maintenance of manufacturing methods, processes and operations for new and existing products. Ensures the effective use of materials, equipment, and personnel in producing quality products at low costs. Acts as liaison with engineering in releasing new products. Develops systems to maintain reports and record keeping of company products. Selects, develops, and evaluates personnel to ensure the efficient operation of the function.</p><p><br/></p><p><strong>Qualifications:</strong></p><p><br/></p><ul><li>B.S. or higher in Computer Engineering or Computer Science or any bachelor’s degree or higher with proven equivalent technical experience. A master’s degree in a related technical leadership or engineering field is preferred.</li><li>Ability to accomplish goals independently - highly result oriented.</li><li>A strong team player with effective written and verbal communication skills, capable at effectively communicating at the right level from the shop floor to executive report outs.</li><li>Ability to coach and teach a team of engineers of varying experience levels from new college graduates to principal engineers. Facilitate knowledge transfer from experienced engineers to new-to-company or new-to-industry team members.</li><li>Experience in the following areas sufficient to lead, manage, challenge and motivate engineers primarily responsible for doing the work:</li><li>Computer systems integration or administration</li><li>Experience with enterprise Linux/Unix OS with the ability to create ad hoc scripts using common Unix shells</li><li>Experience designing, maintaining, and troubleshooting highly complex integrated compute, storage and network rack designs.</li><li>Knowledge of IP Networking, datacenter network technologies, packet forwarding architectures and internet routing.</li><li>Technical troubleshooting and debug skills relating to computer systems hardware and software.</li><li>New product introduction, launch and ramp, sustaining, and end of life product management.</li><li>Design for Manufacturability, Test, Service (DFx)</li><li>Structured problem solving, root cause analysis, 8D corrective action</li><li>Lean Six Sigma project methodology</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

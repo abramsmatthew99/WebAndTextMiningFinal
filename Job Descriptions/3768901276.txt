@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        There's a reason we've won so many awards for being one of the best companies to work for! We invite you to apply to join our family, and here's what's in it for you: 12 paid holidays A positive atmosphere and co-workers who truly care Benefits, perks, and discounts worth a double-take Competitive compensation Enjoyable activities and wellness initiatives Work-from-home flexibility This position will have a hybrid schedule. While there is flexibility to work from home, proximity to our Operations Center will also be necessary for regular office visits. We are located in West Valley City, UT. Summary: The data engineer will be responsible for working with large databases and miscellaneous data sources to prepare data sources for use in analytics and with several credit union systems. This will include developing ETL processes to feed data to various systems and a cloud data warehouse. Additionally, they will have the responsibility to engineer machine learning models to assist in predictive analytics to support business teams. Duties and Responsibilities: Manage and maintain existing data pipelines, while improving current processes where applicable. Identify data needs throughout the organization and work with stakeholders to meet those needs. Data Load and Transformation: Develop data load processes for efficient storage and retrieval of data from databases and other file systems. Create data conversion and transformation processes and utilities for handling large datasets. Data Transformation Rules: Collaborate in defining and documenting data transformation rules to ensure data integrity and accuracy. ETL Design and Performance: Focus on the design, development, and performance tuning of ETL (Extract, Transform, Load) processes to optimize data processing efficiency. Work with data analyst or visualization experts to determine data requirements such as structure, latency, availability. Continually research, propose, and implement improvements data infrastructure. This job description is not an exhaustive list of all job duties; other duties may be assigned at any time. Qualifications: Bachelor's Degree in Computer Science or a related field. Extensive Experience in Data Engineering - consuming, wrangling, validating, developing pipelines for data. Strong knowledge databases in general (specifically in Oracle and Microsoft SQL Server). Knowledge of Snowflake or similar cloud data wareshouse. Experience in: Python (data packages such as Pandas, PySpark, SQL Alchemy, pydantic, etc.) and SQL. Comfortable working with technical resources to ensure financial reporting and infrastructure aligns with business logic. 2 years + experience with data warehouse integration and data engineering using real-time messaging, batch ETL/ELT, etc. in data management discipline Ability to manage multiple priorities, adhere to project plans, and consistently meet project deliverables. Competencies: Demonstrates attention to detail Innovative Excellent verbal and written communication skills Ability to learn database structures proactively Ability to work well independently and in a team environment Ability to prioritize and manage multiple simultaneous projects Computer/Software Skills: Familiarity with Oracle databases Proficient in SQL Proficient with Talend or similar ETL tools Knowledge or previous experience using Tableau Prep Deseret First Credit Union is proud to be an Equal Opportunity Employer, providing equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, gender identity, age, national origin, disability veteran status, pregnancy, sexual orientation, or any other characteristic protected by law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Banking
+          </span>
+</li>
+</ul>
+</div>
+</section>

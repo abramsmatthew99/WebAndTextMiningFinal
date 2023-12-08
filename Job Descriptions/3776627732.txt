@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Type</strong>: Full-Time, Direct Hire</p><p><strong>Location</strong>: Onsite, Hybrid, or Remote in the Colorado area (If Onsite or Hybrid the position will be based in Pueblo, CO)</p><p><strong>Pay</strong>: $73k - $100k (depending on experience)</p><p><br/></p><p><strong>What You'd Be Doing</strong></p><p>As an integral member of the Business Intelligence (BI) team, the BI Developer is responsible for the design, development, implementation, and support of mission-critical enterprise BI reporting and analytics tools. Working with cross-functional teams, gather and document reporting requirements to meet business needs. Using skills and experience as a BI Developer, use those requirements to design, develop, test, and implement tools that utilize the underlying data stores/data warehouses/data marts.</p><p><br/></p><p><strong>Responsibilities include the following:</strong></p><p>· Participates in business analysis activities to gather requirements</p><p>· Translates business requirements into specifications that will be used to implement the required tools</p><p>· Provides support as required to ensure the availability and performance of developed tools</p><p>· Ensures that proper configuration management, security, and change controls are implemented and tested</p><p>· Provides technical assistance and cross training to other team members</p><p>· Designs and implements technology best practices, guidelines, and repeatable processes</p><p>· Perform duties capably with moderate to low supervision</p><p>· Trains other team members/staff on relevant topics at which you excel or have significant experience</p><p>· Completes 100% of assigned annual training tasks on time, 100% of the time.</p><p>· Responds to incoming ticket requests within 1 business day, 100% of the time.</p><p>· Provides updates on open tickets to business owners a minimum of weekly, 100% of the time.</p><p>· Attends and participates in weekly team meetings, 100% of the time.</p><p>· Attends and participates in weekly one-on-one supervision meetings with the BI Supervisor, 100% of the time.</p><p>· Produces code/script that conforms to Coding Standard Policies &amp; Procedures 100% of the time.</p><p><br/></p><p><strong>Qualifications</strong></p><p><strong>What We're Looking For-The Must-Haves</strong></p><p>· Bachelor's degree in computer science or equivalent combination of experience, education and training</p><p>· Colorado driver's license, a good driving record, and access to transportation during work hours</p><p>· At least 3 years of experience developing, implementing, and maintaining applications, including the following:</p><p>o Working with users in a requirements analysis role</p><p>o Data warehouse implementations, operation, and maintenance, including ETL</p><p>o Understanding of current data concepts such as predictive analytics and forecasting.</p><p>o Knowledge of logical and physical data modeling concepts (e.g., relational, dimensional)</p><p>· Performance tuning experience (MS SQL Server configuration, query optimization, hardware configuration)</p><p>· Excellent interpersonal (verbal and written) communication skills are required to support working in project environments that includes internal, external, and customer teams</p><p>· Requires strong analytical, conceptual, and problem-solving abilities</p><p>· Ability to manage multiple priorities, and assess and adjust quickly to changing priorities</p><p>· Adapts easily to different environments such as team projects or working independently.</p><p><br/></p><p><strong>What We'd Like to See in You-The Nice-to-Haves</strong></p><p>· Programming/scripting experience related to ETL and analytical processes such as PowerShell and Python</p><p>· Information Technology or Business Intelligence-related certifications</p><p><br/></p><p><strong>Expects all staff to</strong></p><p>· Adapt to change in the workplace and use change as an opportunity for innovation and creativity;</p><p>· Take ownership of problems, brainstorm problem resolutions, and use sound judgment in selecting solutions to problems, and demonstrate consistent follow through;</p><p>· Possess the job knowledge and skills to perform the fundamental job functions, and assume greater responsibility over time regarding the scope of work;</p><p>· Inspire and model collaborative teamwork; and</p><p>· Demonstrate accommodation, politeness, helpfulness, trust building, appropriate boundaries, and flexibility in customer service.</p><p><br/></p><p><strong>What You'll Like About Us</strong></p><p>· Generous benefits package. For most positions, includes paid holidays, generous PTO, Subsidized YMCA membership, tuition reimbursement, retirement 403(b), and FSA</p><p>· Insurance: Medical, Dental, and Vision, with low deductibles. Also, Wellness benefits program available.</p><p>· EAP, Teladoc, LifeLock, Direct Path, Life and AD&amp;D</p><p>· Additional Insurance: FSA, Voluntary Life, Allstate Voluntary benefits, Pet Insurance</p><p>· Childcare</p><p>· Flexible schedule</p><p>· Employee recognition programs and celebrations</p><p>· Warm and friendly work environment in which staff respect and learn from one another</p><p>· Opportunities to serve our neighbors in Pueblo</p><p><br/></p><p><em>All qualified applicants will receive consideration for employment without regard to</em> <em>race, color, national origin, age, ancestry, religion, sex, sexual orientation, gender identity, gender expression, marital status, disability, medical condition, genetic information, pregnancy, or military or veteran status.</em> <em>We consider all qualified applicants, including those with criminal histories, in a manner consistent with state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wellness and Fitness Services and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

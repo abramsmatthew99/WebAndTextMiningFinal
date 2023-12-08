@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Procare<br/><br/></strong>Our mission is to simplify childcare operations and create meaningful connections by providing technology, expertise, and unparalleled service.<br/><br/>Procare Solutions is the #1 name in childcare software – used by more than 35,000 childcare businesses across the country. For over 30 years, childcare professionals have looked to Procare to provide real-time information for making critical decisions, maintaining compliance with local and state regulations, and adhering to business best practices.<br/><br/>We make childcare management run smoothly, so that our customers can spend more time focusing on the kiddos, not back office administrative duties.<br/><br/><strong>Who You Are<br/><br/></strong>At Procare Solutions we are looking for a manager for our business systems development team. In this role you will be responsible for the development and support of Procare’s internal business systems. This role spans responsibilities from high-level architecture and design through hands-on development, build &amp; testing. You will focus on ensuring all viable options are objectively considered while balancing business goals with technical design and project constraints to meet requirements. This role requires deep technical knowledge of the Salesforce.com platform and associated integrations. You will work across the entire technology organization and partner with other leaders in software development, operations, security, and product management.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Manage the day-to-day activities of the development team and partner with our product team on prioritization and scoping of work items</li><li>Drive innovation and design of new and existing products to deliver company OKRs</li><li>Identify business and technical impacts of user requirements</li><li>Perform product briefings and demos for business systems stakeholders</li><li>Analyze root cause of application issues and facilitate resolution by coordinating with vendors, internal IT and users as appropriate</li><li>Provide technical leadership to ensure that the right tools are being used correctly to maximize speed and efficiency of solutions being delivered</li><li>Support the hiring, training, and continued professional development of direct reports</li><li>Build and foster a culture of continuous improvement within the team</li><li>Assist with goal setting, provide regular and timely feedback/recognition; providing support and coaching as needed<br/><br/></li></ul><strong>Requirements<br/><br/></strong><strong>Our ideal candidates will have...<br/><br/></strong><ul><li>2+ years’ experience as a lead/senior manager of a development team </li><li>Exceptional communication skills required, ability to influence cross team delivery. </li><li>Extensive hands-on experience with Salesforce.com platform </li><li>Experience building integrations and supporting a portfolio of business applications. </li><li>Experience with leading agile processes in a structured setting required; Scrum and/or Kanban. </li><li>Salesforce certification is highly desired. </li><li>BS in Computer Science or related field preferred<br/><br/></li></ul><strong>Benefits<br/><br/></strong><strong>Why Procare?<br/><br/></strong><ul><li>Excellent comprehensive benefits packages including: medical, dental, &amp; vision plans- choose the plan best for you</li><li>HSA option with employer contributions of $50/month</li><li>Vacation time, holidays, sick days, volunteer &amp; personal days</li><li>401K Plan with employer match and immediate vesting</li><li>Medical, Dependent Care, and Transportation FSA Plans</li><li>Paid Parental Leave</li><li>Company paid Short and Long-Term disability and Life Insurance</li><li>RTD EcoPass for all Denver employees</li><li>Tuition Reimbursement up to $2,000/year and continued Professional Development</li><li>Free access to our Employee Assistance Program with 24/7 live support</li><li>Casual workplace environment</li><li>Some meals provided</li><li>Voluntary Pet Insurance</li><li>Prime downtown location close to restaurants and entertainment</li><li>Promote from within- excellent career paths<br/><br/></li></ul><strong>Salary<br/><br/></strong>$130k- $150k DOE<br/><br/><strong>Location<br/><br/></strong>This position can be based in our Denver office or fully remote.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

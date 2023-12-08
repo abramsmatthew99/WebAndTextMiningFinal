@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job Announcement<br/><br/>Do you want to make a difference in the most reputable and innovative counties in the United States? Can you work as part of a team, with inspiration, vision, and creativity? Are you passionate about the role of technology in supporting the mission of local government?<br/><br/>We are searching for a Junior ServiceNow Developer/Administrator to develop, configure, and maintain the ServiceNow platform, including designing, building, testing, and deploying custom solutions. Some of the key responsibilities may include:<br/><br/><ul><li>Developing and configuring ServiceNow: Design, build, test, and deploy custom solutions on the ServiceNow platform, including configuring workflows, forms, reports, and integrations with other systems. </li><li>Customization and Enhancement: Customize and enhance existing ServiceNow applications, including creating custom UI pages and scripts, integrating with third-party applications, and developing new modules and features. </li><li>Maintenance and Support: Ensure the ongoing maintenance and support of the ServiceNow platform, including troubleshooting and resolving issues, providing technical support to end-users, and performing upgrades and patches as needed. </li><li>Collaboration: Work with other teams within the organization to understand their requirements and develop solutions that meet their needs, including collaborating with the IT Service Desk team to develop and implement workflows and automations. </li><li>Documentation: Document the configuration and development of the ServiceNow platform, including creating technical specifications, user guides, and training materials for end-users. </li><li>Testing and Quality Assurance: Conduct testing and quality assurance activities to ensure that new solutions and enhancements are functioning properly and meet the organization's requirements. </li><li>Security and Compliance: Ensure that the ServiceNow platform is secure and compliant with industry standards, including managing access controls and permissions, and implementing appropriate security measures. <br/><br/></li></ul>To be successful in this role, a ServiceNow Developer/Administrator should have a good technical background in ServiceNow development and administration. They should be able to work well under pressure, have excellent communication and interpersonal skills, and be able to collaborate effectively with other teams and stakeholders within the organization. They should also have basic analytical skills, be able to identify and solve problems quickly, and be committed to delivering high-quality solutions that meet the organization's needs. They should have general experience with JavaScript, HTML, CSS, and scripting languages, as well as knowledge of ITIL processes and service management best practices.<br/><br/>Employment Standards<br/><br/><strong>MINIMUM QUALIFICATIONS</strong>:<br/><br/>Any combination of education, experience, and training equivalent to the following:<br/><br/>(Click on the aforementioned link to learn how Fairfax County interprets equivalencies for "Any combination, experience, and training equivalent to")<br/><br/>Possession of an associate degree in computer science, electrical engineering, electronics, or a related field; plus two years network and/or telecommunications experience; or a bachelor's degree in such fields.<br/><br/><strong>NECESSARY SPECIAL REQUIREMENTS:<br/><br/></strong>The appointee to this position will be required to complete a criminal background and driving record check to the satisfaction of the employer.<br/><br/><strong>PREFERRED QUALIFICATIONS:<br/><br/></strong><ul><li>Knowledge and experience with UI and CSS. Basic experience developing custom applications to enhance the ServiceNow platform. </li><li>Basic knowledge of ITIL processes and problem-solving ability. </li><li>ServiceNow certification. <br/><br/></li></ul><strong>PHYSICAL REQUIREMENTS:<br/><br/></strong>Must possess the ability to lift boxes and equipment weighing up to fifty pounds. All duties performed with or without reasonable accommodations.<br/><br/><strong>SELECTION PROCEDURE:<br/><br/></strong>Panel interview and may include exercise.<br/><br/>The population of Fairfax County is very diverse where 39.8% of residents speak a language other than English at home ( Spanish, Asian/Pacific Islander, Indo-European, and others ) and we encourage candidates bilingual in English and a foreign language to apply to this opportunity.<br/><br/><strong>Fairfax County Government prohibits discrimination on the basis of race, color, religion, national origin, sex, pregnancy, childbirth or related medical conditions, age, marital status, disability, sexual orientation, gender identity, genetics, political affiliation, or military status in the recruitment, selection, and hiring of its workforce. <br/><br/></strong>Reasonable accommodations are available to persons with disabilities during application and/or interview processes per the Americans with Disabilities Act. Contact 703-324-4900 for assistance. TTY 703-222-7314. DHREmployment@fairfaxcounty.gov EEO/AA/TTY.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Government Administration
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Information<br/><br/></strong>PACCAR, Inc. is a Fortune 500 company established in 1905 and is recognized as a global leader in the commercial vehicle, financial, and customer service fields. PACCAR is a global technology leader in the design, manufacture, and customer support of high-quality light-, medium- and heavy-duty trucks under its internationally recognized brands Kenworth, Peterbilt and DAF nameplates. PACCAR designs and manufactures advanced diesel engines and provides customized financial services, information technology and truck parts related to its principal business.<br/><br/>Your next career move is waiting at PACCAR whether you want to design the transportation technology of tomorrow, support the staff functions of a dynamic, international leader, or build our excellent products and services. Join the PACCAR team today!<br/><br/><strong>Division Information<br/><br/></strong>PACCAR’s Information Technology Division (ITD), located in Renton, WA utilizes cutting-edge technology to provide systems development, consulting, voice and data communications services to the entire Corporation, which has high visibility in the technology sector.<br/><br/><strong>The Role<br/><br/></strong>We are seeking a highly skilled and experienced Windows IIS Administrator to join our team. The ideal candidate will be responsible for the day-to-day management, configuration, and maintenance of our Windows Server environment, specifically focusing on Internet Information Services (IIS). The Windows IIS Administrator will play a critical role in ensuring the availability, performance, and security of our web applications and websites. This is a hands-on technical role that requires strong troubleshooting, problem-solving, and communication skills.<br/><br/>We offer a competitive salary package, comprehensive benefits, and opportunities for professional growth and development. If you have the skills and experience required for this position and are passionate about IIS administration, we would love to hear from you. Apply now!<br/><br/><strong>Job Functions/Responsibilities<br/><br/></strong><ul><li>Design, deploy, configure, and maintain Windows Server environments running IIS.</li><li>Monitor, optimize, and tune IIS servers to ensure high availability, performance, and scalability.</li><li>Collaborate with development teams to deploy and troubleshoot web applications on IIS servers.</li><li>Implement security measures, including SSL certificates, firewall rules, and access controls.</li><li>Manage and troubleshoot IIS-related issues, such as application pool failures, HTTP errors, and authentication problems.</li><li>Perform regular backups and disaster recovery planning for IIS servers.</li><li>Ensure compliance with industry best practices and security standards.</li><li>Stay updated with the latest technologies, trends, and vulnerabilities related to IIS administration.</li><li>Create and maintain documentation, including system configurations, procedures, and troubleshooting guides.</li><li>Performing problem-solving tasks when alerted by a user or monitoring system.</li><li>Optimizing and evaluating the system regularly.</li><li>Provide technical support and guidance to internal teams and end-users.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>5+ years' experience as a Windows IIS Administrator or a similar role.</li><li>Strong understanding of IIS architecture, including websites, application pools, virtual directories, and modules.</li><li>Proficient in troubleshooting IIS-related issues using tools like event logs, IIS logs, and performance monitoring tools.</li><li>Experience with configuring and managing SSL certificates, HTTPS, and secure web communication.</li><li>Familiarity with load balancers, reverse proxies, and content delivery networks (CDNs), F5 Access Policy Manager</li><li>Knowledge of PowerShell scripting for automation and administration tasks.</li><li>Understanding of Active Directory, DNS, and network protocols (TCP/IP, HTTP, DNS, etc.).</li><li>Ability to work independently and as part of a team in a fast-paced, dynamic environment.</li><li>Excellent problem-solving, communication, and documentation skills.</li><li>Relevant certifications, such as Microsoft Certified: Azure Administrator Associate or Microsoft Certified: Windows Server, are a plus.<br/><br/></li></ul>Note: The responsibilities and qualifications listed above are not exhaustive, and additional duties may be assigned as required.<br/><br/><strong>Education<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Information Technology, or related field<br/><br/></li></ul><strong>PACCAR Benefits<br/><br/></strong>As a U.S. PACCAR employee, you have a full range of benefit options including:<br/><br/><ul><li>401k with up to a 5% company match</li><li>Fully funded pension plan that provides monthly benefits after retirement</li><li>Comprehensive paid time off – minimum of 10 paid vacation days (additional days are provided with additional seniority/years of service), 12 paid holidays, and sick time</li><li>Tuition reimbursement for continued education</li><li>Medical, dental, and vision plans for you and your family</li><li>Flexible spending accounts (FSA) and health savings account (HSA)</li><li>Paid short-and long-term disability programs</li><li>Life and accidental death and dismemberment insurance</li><li>EAP services including wellness plans, estate planning, financial counseling and more<br/><br/></li></ul><strong>Diversity &amp; Inclusion<br/><br/></strong>PACCAR is an Equal Opportunity Employer/Protected Veteran/Disability corporation. Having a diverse and inclusive work environment ensures PACCAR has the talent needed to conduct business today and in the future by leveraging different backgrounds, skills, and viewpoints. We believe diversity in the workplace increases innovation, results in better decisions, and increases employee engagement.<br/><br/>PACCAR’s IT Division promotes Diversity and Inclusion through mentorship, events, celebrations, and affinity groups. The IT Division has an active Diversity Council and supports initiatives and activities for all. PACCAR supports women through the PACCAR Women’s Association (PWA), Women in Trucking, and Women in Technology International (WITI). Educational awareness programs such as Unconscious Bias, Male Allyship and Inclusive Leadership are just a few of many trainings offered. PACCAR is a supporter of PRIDE and celebrates many different multi-cultural events.<br/><br/><strong>Additional Job Board Information<br/><br/></strong>PACCAR is an Equal Opportunity Employer/Protected Veteran/Disability. At PACCAR, we value talent and promote growth and development. We carefully consider numerous compensation factors, including your education, training, or experience. The salary range for the Systems Administrator is $93,000 - $145,500 annually. Additionally, this role is eligible for a full range of benefit options listed above. This position is also eligible for a holiday gift.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

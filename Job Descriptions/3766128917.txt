@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>We are looking for an Application side/Software Support professional for our growing company! This support specialist will also be testing and document new versions of software releases. We're not looking for a Desktop or Help Desk tech, we need someone experienced with software support and ensuring customer satisfaction in every step of the client enhancement and unexpected behavior analysis on the application side. You will need to track detailed information about each customer's service or support request and to document the diagnostic steps as they troubleshoot the reported problem. Research is often required to find the correct solution. Constant communication to our customers and other team members is essential to be successful. Some of the technology you will work with includes SQL, Oracle, JIRA, Outlook and Teams/Webex.</p><p><br/></p><p><strong>Requirements:</strong></p><p>· 1-2<strong> years of experience supporting <em>software</em> applications with experience in one of the following: SQL, Oracle, or Crystal Reports</strong></p><p><strong>· Specialized experience working with database driven applications and business driven customization in a Software application environment (<em>not Help Desk nor Desktop</em>)</strong></p><p><strong>· Medical or Healthcare application experience </strong></p><p>· <strong> We will consider a junior level candidate </strong></p><p><strong> Degree in Computer Science preferred </strong></p><p>· Previous work experience using ticketing (Jira, ServiceNow, Zendesk, etc)</p><p>· Excellent verbal and written communication skills</p><p>· Strong problem solving and research skills with the ability to take responsibility and ownership for the problem and resolution</p><p>· Ability to write and communicate technical problems with software developers and internal personnel as needed</p><p>· Strong attention to detail</p><p>· Strong customer service-oriented phone skills</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology and Health Care Provider
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

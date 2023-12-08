@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>We are looking for an experienced Network Engineer with a strong background in Cisco wireless networking to join our dynamic and fast-paced team. The successful applicant will be responsible for the overall planning, design, establishment, and optimization of our organization's network system. The ideal candidate will have substantial experience with Cisco’s wireless solutions and infrastructure and possess exceptional troubleshooting skills. This person is required to be in the Greater Boston area and will require onsite work as much as needed.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Assess the organization’s network needs and design, install, and maintain an efficient wireless network to meet those needs.</li><li>Implement and maintain Cisco wireless infrastructure including wireless controllers, access points, and network management software.</li><li>Ensure optimal operation, configuration, and performance of the wireless network.</li><li>Conduct regular network assessments and propose improvement plans.</li><li>Perform regular troubleshooting, responding rapidly to network issues and find solutions to resolve them in a timely manner.</li><li>Document network infrastructure and update and maintain these records as required.<br/><br/><br/></li></ul><strong>Requirements<br/><br/></strong>Qualifications:<br/><br/><ul><li>Bachelor’s degree in Computer Science, Information Technology, or a related field.</li><li>Proven experience as a Network Engineer with a focus on Cisco wireless technologies.</li><li>Cisco Certified Network Associate Wireless (CCNA Wireless) or higher certification is strongly preferred.</li><li>Solid understanding of network infrastructure and network hardware including routers, switches, and access points.</li><li>In-depth knowledge of wireless protocols and signal strength, and wireless network design and implementation.<br/><br/><br/></li></ul>Technology Doesn't Change the World, People Do.®<br/><br/>Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.<br/><br/>Robert Half works to put you in the best position to succeed. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity - whenever you choose - even on the go.<br/><br/>All applicants applying for U.S. job openings must be legally authorized to work in the United States. Benefits are available to contract/temporary professionals, including medical, vision, dental, and life and disability insurance. Hired contract/temporary professionals are also eligible to enroll in our company 401(k) plan. Visit<br/><br/>© 2023 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

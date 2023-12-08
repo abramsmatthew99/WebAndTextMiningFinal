@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a <em>hybrid</em> role based in our Chicago or SF offices and will require you to be in office Tuesdays and Thursdays.<br/><br/><strong>What’s so interesting about this role?<br/><br/></strong>We at Grindr believe that AI can revolutionize the dating industry. Our Machine Learning Engineer is responsible for building high quality ML datasets at scale, used to train ML models that power AI-centric features. In this role, you will be working directly with the Director of AI to build an end to end pipeline of ML model development including data exploration, transformation, feature engineering, model development, experimentation and deployment.<br/><br/><strong>What’s the job?<br/><br/></strong>We’re looking for an exceptional Machine Learning engineer who is passionate about data for AI and values it can bring to Grindr, Who loves working with data at scale; and who is committed to the hard work necessary to continuously improve our ML data pipelines, data transformation and model development.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Dive into our dataset and design, implement and scale data pre/post processing pipelines of ML models</li><li>Work on applied ML solutions in the areas of data mining, cleaning, normalizing and modeling</li><li>Be self-motivated in seeking solutions when the correct path isn’t always known</li><li>Collaborate with engineers in conceptualizing, planning and implementing data engineering initiatives working with different stakeholders </li><li>Research and evaluate new technologies in the big data space to guide our continuous improvement </li><li>Be a fast learner and courageous to go out of your comfort zone.</li><li>Help our ML team with data analysis, data engineering, ML model development and deployment.</li><li>Collaborate with multi-functional teams to help tune the performance of large data applications <br/><br/><br/></li></ul><strong>What We’ll Love About You<br/><br/></strong><ul><li>Masters in Computer Science, Mathematics, Economics, Physics, or a related fields</li><li>Experience in statistical analysis &amp; visualization on datasets using Pandas or R</li><li>Excellent coding skills in Python, SQL, Pandas/R</li><li>Very good understanding of Probability &amp; Statistics</li><li>Good foundation in linear algebra</li><li>Good understanding of classical machine learning concepts<br/><br/><br/></li></ul><strong>We’ll really swoon if you have <br/><br/></strong><ul><li>Understanding of Deep Learning concepts</li><li>Experience in working with Deep Learning frameworks (ie., Pytorch, Tensorflow, Keras) </li><li>Experience using big data technologies (Snowflake, Airflow, Kubernetes, Docker, Helm, Spark, pySpark)</li><li>Experience with any public cloud environment - AWS, GCP or Azure</li><li>SiExperience with distributed systems and microservices</li><li>Experience with Kubernetes and building Docker images</li><li>Strong understanding of applied machine learning topics<br/><br/><br/></li></ul><strong>What You'll Love About Us<br/><br/></strong><ul><li>Mission and Impact: Grindr is the world-leading LGBTQ social networking service. Your role will impact the lives of millions of LGBTQ people around the world</li><li>We are hiring someone for this role to be based ideally in San Francisco or Chicago</li><li>Family Insurance: Insurance premium coverage for health, dental, and vision for you and partial coverage for your dependents</li><li>Retirement Savings: Generous 401K plan with 6% match and immediate vest in the US</li><li>Compensation: Industry-competitive compensation and eligibility for company bonus and equity programs</li><li>Queer-Inclusive Benefits: Industry-leading gender-affirming offerings with up to 90% cost coverage, access to Included Health, monthly stipends for HRT, and more</li><li>Additional Benefits: Flexible vacation policy, monthly stipends for cell phone, internet, wellness, and food, one-time home-office setup stipend, and company-sponsored events<br/><br/><br/></li></ul><strong>About Grindr<br/><br/></strong>Grindr is the world’s largest dating app for gay, bi, trans, and queer people. With around 13 million monthly active users, Grindr has become a fundamental part of the global LGBTQ community, and we take pride in empowering our users to connect, express themselves, and discover the queer world around them.<br/><br/>Our next evolution is underway as a newly public company looking to expand and continue to build meaningful experiences for our users. From social issues to original content, we’re blazing innovative paths with impact for our community, all while leveraging the latest tech stacks and striving for engineering excellence. At the heart of our work in this new chapter is a shared set of core values: openness and exploration, a bias for action, and strong support of the LGBTQ community.<br/><br/>With a track record of strong financial performance and plans for continued headcount growth, we’re looking to build a team of talented, passionate, and open-minded people who believe in our mission, align with our values, and are excited to work at the intersection of innovative technology and social impact. Come be a part of this exciting journey with us.<br/><br/><strong><em>Grindr is an equal-opportunity employer<br/><br/></em></strong><em>To learn more about how we handle the personal data of applicants, visit our </em><em>Employee and Candidate Privacy Policy</em><em>.<br/><br/></em><em>Grindr is committed to fair and equitable compensation practices. This base pay range is for the U.S. and is not applicable to locations outside of the U.S. The actual base pay is dependent upon many factors, such as training, transferable skills, work experience, business needs, location, and market demands. The base pay range is subject to change and may be modified in the future. This role will also be eligible for equity, benefits, and a company bonus program.<br/><br/></em>Base Pay Range<br/><br/>$130,000—$220,000 USD<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

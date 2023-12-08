@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>WORK OPTION: </strong>[[In-Office]]<br/><br/>The NBA is committed to providing a safe and healthy workplace. To safeguard our employees and their families, our visitors, and the broader community from COVID-19, and in consideration of recommendations from health authorities and the NBA’s own advisors, any individual working onsite in our New York and New Jersey offices must be fully vaccinated against COVID-19. The NBA will discuss accommodations for individuals who cannot be vaccinated due to a medical reason or sincerely held religious belief, practice, or observance.<br/><br/><strong>Position Summary<br/><br/></strong>This project position is responsible for troubleshooting and providing assurance of NBA video streams and its corresponding operational and advertisement components across multiple platforms. The analyst will monitor live and VOD content on NBA digital platforms and escalate any issues through the proper channels. In addition, the project employee should have troubleshooting skills to provide insight in the escalation process.<br/><br/><strong>Major Responsibilities:<br/><br/></strong><ul><li> Monitor and troubleshoot live &amp; VOD streaming workflows</li><li> Comprehension and experience in digital video, including knowledge of creative ad servers, and concepts like VAST and VPAID</li><li> Understand video streaming and ad serving ecosystem and its associated rules</li><li> Troubleshoot and escalate any issues to appropriate stakeholders and document in ticketing/documentation systems (JIRA, Confluence, etc.).</li><li> Build and iterate on operational processes</li><li> Become versed in existing systems and understand the implications of changing business requirements and consumer behaviors</li><li> Collaborate, document, and improve understanding with technical teams and product owners.</li><li> Testing (not QA) newly developed features</li><li> Giving demos of new features to internal teams for feedback and educational purposes</li><li> Working closely with engineering, client services, and design to ensure nothing ‘slips’</li><li> Supporting and learning from senior product managers</li><li> Provide after hours and weekend support for production systems when needed<br/><br/></li></ul><strong>Required Skills/Knowledge:<br/><br/></strong><ul><li> Experience with multi-platform debugging and proxy tools such as Charles &amp; Fiddler</li><li> Experience with VPN tools and have a basic understanding of network routing</li><li> Experience within the video streaming and ad serving ecosystem, including video ad servers (Freewheel, Google Ad Manager etc.) and SSAI services (MediaKind, Prisma, etc.)</li><li> Experience in a queue management/ticketing system such as JIRA</li><li> Experience with agile software development workflow</li><li> Experience in operational support role</li><li> Ability to work autonomously and as a member of a collaborative team</li><li> Quick learner and detail oriented: critical thinking, analytical and problem-solving skills<br/><br/></li></ul><strong>Educational Background Required:<br/><br/></strong><ul><li> BS in computer science, electrical engineering or a related technical discipline.</li><li> In lieu a college degree significant field experience will be considered<br/><br/></li></ul><strong>Salary Range:</strong> [[$30/Hourly]]<br/><br/>The NBA does not accept unsolicited resumes from search firms or any other third parties. Any unsolicited resume sent to the NBA will be considered NBA property, and the NBA will not pay a fee should it hire the subject of any unsolicited resume.<br/><br/>The NBA considers applicants for all positions on the basis of merit, qualifications, and business needs, and without regard to race, color, national origin, religion, sex, age, disability, sexual orientation, gender identity, alienage or citizenship status, ancestry, marital status, genetic predisposition or carrier status, veteran status, familial status, status as a victim of domestic violence, or any other status or characteristic protected by applicable federal, state, or local law.<br/><br/><strong>About The NBA<br/><br/></strong>The National Basketball Association (NBA) is a global sports and media organization with the mission to inspire and connect people everywhere through the power of basketball.  Built around five professional sports leagues:  the NBA, WNBA, NBA G League, NBA 2K League and Basketball Africa League, the NBA has established a major international presence with games and programming available in 215 countries and territories in more than 50 languages, and merchandise for sale in more than 200 countries and territories on all seven continents.  NBA rosters at the start of the 2021-22 season featured a record 121 international players from 40 countries.  NBA Digital’s assets include NBA TV, NBA.com, the NBA App and NBA League Pass.  The NBA has created one of the largest social media communities in the world, with 2.1 billion likes and followers globally across all league, team, and player platforms.  Through NBA Cares, the league addresses important social issues by working with internationally recognized youth-serving organizations that support education, youth and family development, and health-related causes.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Management and Manufacturing
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Spectator Sports
+          </span>
+</li>
+</ul>
+</div>
+</section>

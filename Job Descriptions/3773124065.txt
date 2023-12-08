@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Peraton Overview<br/><br/></strong>Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world's leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can't be done, solving the most daunting challenges facing our customers.<br/><br/><strong>Responsibilities<br/><br/></strong>Peraton is seeking a driven Entry Level Cyber Software Engineer to research and develop innovative solutions for a best-in-class secure computing environment as part of a highly adaptable rapid prototyping group in Landover, MD. Our program provides support for a large Information Technology (IT) system for the Department of Defense (DoD). This program provides engineering support for all system elements, including development (hardware, software, and networks), systems and security engineering (integration, testing, and deployment), sustainment (logistics and field support), Network Operations Center (NOC)/Help Desk, and government user training support for the user community.<br/><br/>The Entry Level Cyber Software Engineer responsibilities include:<br/><br/><ul><li>Building proofs of concept for one-of-a-kind capabilities.</li><li>Performing peer testing and code review.</li><li>Troubleshooting and debugging issues.</li><li>Contributing to all levels of the architecture.</li><li>Maintaining technical documentation.</li><li>Developing a familiarity with new tools and best practices.</li><li>Collaborating with your team to author technical reports and demonstrate capabilities to both internal and external stakeholders.<br/><br/></li></ul>**This role requires on-site support Mon-Fri**<br/><br/>**This program allows for a flexible work schedule and is walking distance from a Metro station**<br/><br/><strong>Qualifications<br/><br/></strong><strong>Required Qualifications:<br/><br/></strong><ul><li>Ability to obtain and maintain Top Secret/SCI security clearance. US Citizenship is required to obtain a US security clearance.</li><li>Bachelor's Degree in Computer Science, Information Technology, Engineering, or another technical field with no years of experience, or a High School Diploma / GED with six (6+) years of relevant experience</li><li>Active Security+ Certification, or equivalent, or the ability to obtain one within 6 months from start date.</li><li>Strong knowledge of C/C++</li><li>Software development experience</li><li>Experience writing, testing, and debugging software</li><li>Experience with version control, issue tracking, and documentation tools</li><li>Excellent verbal and written communication skills</li><li>Ability to work both independently and collaboratively<br/><br/></li></ul><strong>Desired Qualifications:<br/><br/></strong><ul><li>An Active/Current Top Secret security clearance with SCI eligibility</li><li>Bachelor's Degree in Computer Science, Information Technology, Engineering, or another technical field with two (2) years of relevant experience, or a High School Diploma / GED with eight (8) years of relevant experience</li><li>Active Security+ Certification</li><li>Strong knowledge of Linux operating systems</li><li>Linux development experience at user and kernel levels</li><li>Experience modifying and compiling large open-source codebases</li><li>Experience with containerization technologies such as Docker</li><li>Experience with DevOps tools such as Jenkins</li><li>Experience with dnf package management using local repositories<br/><br/></li></ul><strong>Salary Range Estimates:<br/><br/></strong>The estimate displayed represents the typical salary range for this position and is just one component of Peraton's total compensation package for employees. Other rewards may include annual bonuses, short- and long-term incentives, and program-specific awards. In addition, Peraton provides a variety of benefits to employees.<br/><br/><strong>Benefits:<br/><br/></strong>At Peraton, our benefits are designed to help keep you at your best beyond the work you do with us daily. We're fully committed to the growth of our employees. From fully comprehensive medical plans to tuition reimbursement, tuition assistance, and fertility treatment, we are there to support you all the way.<br/><br/><strong>Target Salary Range<br/><br/></strong>$66,000 - $106,000. This represents the typical salary range for this position based on experience and other factors.<br/><br/><strong>SCA / Union / Intern Rate or Range<br/><br/></strong><strong>EEO<br/><br/></strong>An Equal Opportunity Employer including Disability/Veteran.<br/><br/><strong>Our Values<br/><br/></strong><strong>Benefits<br/><br/></strong>At Peraton, our benefits are designed to help keep you at your best beyond the work you do with us daily. We're fully committed to the growth of our employees. From fully comprehensive medical plans to tuition reimbursement, tuition assistance, and fertility treatment, we are there to support you all the way.<br/><br/><ul><li>Paid Time-Off and Holidays</li><li>Retirement</li><li>Life &amp; Disability Insurance</li><li>Career Development</li><li>Tuition Assistance and Student Loan Financing</li><li>Paid Parental Leave</li><li>Additional Benefits</li><li>Medical, Dental, &amp; Vision Care</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Design and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Civil Engineering
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>JOB SUMMARY: </strong>The Software Developer Junior Technician is responsible for assisting with application development. This includes completing programming, database, and administrative tasks and assisting with business and technical analysis. This is a temporary, part-time position.<br/><br/><strong>ESSENTIAL JOB FUNCTIONS (COMPETENCIES):<br/><br/></strong><ul><li> Collaborate with systems analysts, development and functional teams to understand business requirements</li><li> Meet with internal customers to define requirements</li><li> Recommend and assist in design, coding, and testing of technical solutions</li><li> Guide performance testing</li><li> Handle production support issues</li><li> Assist in troubleshooting user issues and resolving tickets</li><li> Stay up-to-date on technological advances and new industry trends</li><li> Create Business Intelligence (BI) solutions such as dashboards and key performance charts and/or reports to meet stakeholder requirements</li><li> Assist in maintaining and upgrading existing systems</li><li> Prepare and maintain technical documentation</li><li> Apply working knowledge of development languages and technologies</li><li> Perform scheduled preventive maintenance of all custom-developed software</li><li> Maintain the strict confidentiality of sensitive information</li><li> Handle off-hours and on-call duties and responsibilities shared with other team members</li><li> Perform other duties or special projects as assigned<br/><br/></li></ul><strong>REQUIREMENTS:<br/><br/></strong><ul><li> Associates Degree in Computer Science or a related field, preferred; Candidates pursuing acollege degree or certificate credit in Computer Science or a related field will be considered.</li><li> Understanding of general purpose computer programming fundamentals and concepts</li><li> Understanding of relational database concepts</li><li> Strong internet research and problem solving skills</li><li> Customer service skills<br/><br/></li></ul><strong>WAGE DISCLOSURE:<br/><br/></strong>The salary range indicated in this posting represents the minimum and maximum of the range for the position. The actual range will vary based upon factors including, but not limited to, prior experience, knowledge, skill and education as they relate to the position’s qualifications, and internal equity.<br/><br/>The posted salary range reflects just one component of our total rewards package.<br/><br/>$17.00 per hour - $25.25 per hour<br/><br/>($35,000 - $52,500 annually)
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Appliances, Electrical, and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

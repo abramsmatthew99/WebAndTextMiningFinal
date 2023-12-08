@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>W2 Applicants only! Must be a US Citizen or GC holder to apply!</strong></p><p>This is an exciting opportunity for a skilled Cloud Engineer to join our team. We offer competitive compensation, comprehensive benefits package, and the chance to work with cutting-edge technologies in a collaborative environment. If you are passionate about cloud computing and have the skills required for this role, we would love to hear from you.</p><p><br/></p><p><strong>Duties</strong></p><ul><li>Data engineering, Kinesis and Analytics experience on AWS is a must.</li><li>Able to showcase experience over online live coding platform.</li><li>Develop data pipelines based on AWS, Kinesis and AWS Lambda, DBT models for AWS Redshift.</li><li>Working with Marketing and other data consumers to ensure the data platform to meet increasing volume and disparate needs.</li></ul><p><br/></p><p><strong> Experience</strong></p><ul><li>Bachelor's degree in Computer Science, Engineering, or a related field</li><li>Proven experience as a Cloud Engineer or similar role</li><li>Strong knowledge of cloud platforms - AWS</li><li>Proficiency in scripting languages such as Python, REST APIs, or SQL</li><li>Experience with software development methodologies such as Waterfall, Agile or DevOps</li></ul><p><strong>W2 Applicants only! Must be a US Citizen or GC holder to apply!</strong></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Truck Transportation
+          </span>
+</li>
+</ul>
+</div>
+</section>

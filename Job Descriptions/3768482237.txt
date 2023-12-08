@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position Title: <br/><br/></strong>Security Analyst II<br/><br/><strong>Department: <br/><br/></strong>Cybersecurity &amp; Program Management<br/><br/><strong>Corporate Area: <br/><br/></strong>Technology &amp; Operations<br/><br/><strong>Status: <br/><br/></strong>Regular, Full time Exempt<br/><br/><strong>Manager Title: <br/><br/></strong>Director, Networking &amp; Cybersecurity<br/><br/><strong>Position Overview:<br/><br/></strong>The Senior Security Analyst II is responsible for the design, configuration, testing, and deployment of on-prem and cloud services. They will provide Incident Response, threat hunting and proactive support of all development activities in both the cloud and on-prem environments.<br/><br/><strong>Key responsibilities will include, but are not limited to:<br/><br/></strong><ul><li>Ensuring anomalous activity is detected and the potential impact of events is understood.</li><li>Ensuring that information systems and assets are monitored to identify cybersecurity events and verify the effectiveness of protective measures.</li><li>Ensuring detection processes and procedures are maintained and tested to ensure awareness of anomalous events.</li><li>Ensuring response activities are coordinated with internal and external stakeholders (e.g., external support from service providers).</li><li>Ensuring analysis is conducted to ensure effective response and support recovery activities.</li><li>Ensuring activities are performed to prevent expansion of an event, mitigate its effects, and resolve the incident.</li><li>Ensuring response processes and procedures are executed and maintained, to ensure response to detected cybersecurity incidents.</li><li>Ensuring recovery processes and procedures are executed and maintained to ensure restoration of systems or assets affected by cybersecurity incidents.</li><li>Ensuring recovery planning and processes are improved by incorporating lessons learned into future activities.</li><li>Ensuring restoration activities are coordinated with internal and external parties (e.g. coordinating centers, other CSIRTs, and vendors).</li><li>Additional activities as necessary to support the overall cybersecurity and PBS mission.<br/><br/><br/></li></ul><strong>Requirements for success:<br/><br/></strong><strong><em>Experience requirement:<br/><br/></em></strong><ul><li>Minimum of 3 years’ experience working as a systems engineer or administrator.</li><li>Minimum of 4 years’ experience working as a security analyst.</li><li>Minimum of 5 years’ cybersecurity experience.<br/><br/><br/></li></ul><strong><em>Education and/or certification requirement:<br/><br/></em></strong><ul><li>GCIH, GCIA, GMON, GCED, or equivalent GIAC defense focused certifications desired.</li><li>Certifications by EC-Council, ISC2, Cisco, Microsoft, Fortinet, CompTIA, Offensive Security, etc. to be considered based on relevance to defensive cybersecurity operations.</li><li>Bachelor’s Degree in a related field such as cybersecurity, information technology, or computer science; equivalent combination of experience may be considered.<br/><br/><br/></li></ul><strong><em>Skills and abilities:<br/><br/></em></strong><ul><li>Ability to participate as a technical lead on all projects requiring cybersecurity expertise and consultation.</li><li>Ability to lead a Cybersecurity Incident Response Team (CIRT), Computer Security Incident Response Team (CSIRT) and Managed Security Services Partners (MSSPs) in the execution of daily incident response activities.</li><li>Ability to deploy, integrate, configure, and maintain systems which comprise the overall cybersecurity technology stack.</li><li>Ability to communicate complex cybersecurity concepts in a clear and concise manner for laypersons unfamiliar with cybersecurity and/or IT concepts.</li><li>Desire and ability to help drive organizational adoption and buy-in of cybersecurity policies and standards across the PBS ecosystem.</li><li>Eagerness to develop, grow, and maintain strong inter-team relationships across the business to aid in the accomplishment of the PBS mission<br/><br/><br/></li></ul><strong><em>Preferred qualifications:<br/><br/></em></strong><ul><li>Expert knowledge in the following technologies and concepts: DFIR, IAM, PAM, DLP, NGFW, EDR, SIEM, IDS/IPS.</li><li>Strong foundational knowledge in IT technologies and concepts not limited to email security technologies, application security, cloud security (IaaS &amp; PaaS, etc.), MITRE ATT&amp;CK, SIEM, SOAR, CASB, MSSPs, DNS, Linux, Windows.</li><li>Fundamental knowledge of NIST, MDM, OWASP, PowerShell/Python/JavaScript, MacOS, malware analysis, LOLBAS, vulnerability management, WAF, CIS Benchmarks.<br/><br/><br/></li></ul><strong>PBS is an Equal Opportunity Employer in accordance with the EEOC and the Commonwealth of Virginia.</strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Media Production
+          </span>
+</li>
+</ul>
+</div>
+</section>

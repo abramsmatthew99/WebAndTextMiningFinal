@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/><strong> Job Title: </strong>QA Assurance Analyst<br/><br/><strong> Employment Type:</strong> Full-Time<br/><br/><strong> Salary:</strong> $58,000 - $67,000 per annum<br/><br/><strong> Experience Required: </strong> Minimum 1 year of project experience<br/><br/><strong> How to Apply: visit hiremefast.net </strong> to learn more &amp; apply.<br/><br/><strong>About us: </strong>HireMeFast is a leading staffing and recruitment agency specializing in connecting businesses with top-tier talent across various industries. Our mission is to bridge the gap between exceptional candidates and organizations needing their skills, expertise, and unique qualities. Our team of experienced and dedicated recruitment specialists utilizes innovative sourcing strategies, and a vast network to identify and attract top talent. We conduct comprehensive procedures to ensure that only the most qualified candidates are presented to our clients.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with cross-functional teams to understand software requirements and specifications. </li><li>Participate in the creation and execution of test plans, test cases, and test scripts. </li><li>Identify, document, and track software defects and issues using bug-tracking tools. </li><li>Conduct thorough regression testing to verify fixes and ensure software quality. </li><li>Assist in the development of automated test scripts to improve efficiency. </li><li>Perform exploratory testing to uncover potential issues and usability concerns. </li><li>Work closely with developers to communicate issues and validate bug fixes. </li><li>Provide timely and detailed reports on testing progress and results. </li><li>Contribute to the continuous improvement of QA processes and methodologies. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience). </li><li>Strong passion for software quality assurance and a desire to learn and grow. </li><li>Familiarity with software testing concepts, methodologies, and best practices. </li><li>Basic understanding of programming languages and scripting (e.g., Java, Python). </li><li>Excellent analytical and problem-solving skills. </li><li>Detail-oriented with a keen eye for identifying issues and inconsistencies. </li><li>Effective communication skills and ability to work collaboratively in a team environment. </li><li>Experience with testing tools and bug-tracking systems is a plus. <br/><br/></li></ul><strong>Why HireMeFast LLC?<br/><br/></strong>At HireMeFast, we understand that finding the right individuals to join your team is crucial for success and growth of your organization. We are committed to streamlining the hiring process for our clients, ensuring they have access to a diverse pool of highly qualified candidates who are a perfect fit for their specific needs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Absci is a generative AI drug creation company on a mission to create better biologics for patients, faster. We are the company unlocking the design of new antibodies on a computer from scratch, and we're just getting started. It will take a state-of-the-art wet lab, artificial Intelligence, and above all else a team of brilliant Unlimiters working together to achieve our vision of breakthrough therapeutics at the click of a button, for everyone. We are gritty, creative, and we are pushing the limits of science in a way that no one has done before because that's how we will save lives. Join us as we redefine what's possible.<br/><br/>Absci is a global company with a state-of-the-art lab and headquarters in the beautiful Pacific Northwest US, ten minutes from Portland, Oregon, and its AI Research Lab in the heart of New York City. Check out this short video to learn more and see how #Unlimiters are creating drugs at the speed of AI.<br/><br/>Absci is looking for multiple highly motivated <strong>AI Scientist Interns</strong> with experience in protein sequence and structure. This is a unique opportunity to change how drugs are developed and increase the speed of early drug discovery research. Interns will work with a team of AI Scientists at various levels and specialties and interact with Protein Engineers and Wet Lab Scientists.<br/><br/>Applications will be accepted until all positions are filled. Interns can choose to work in our New York, NY, Vancouver, WA offices or remotely. Internships will last 10-12 consecutive weeks. Start dates are flexible between May - July 2024.<br/><br/><strong>Example projects you might be working on:<br/><br/></strong><ul><li>De novo antibody design: Design, implement, and deploy structure based and sequence based methods to enable de novo antibody design</li><li>Antibody property prediction: Design, implement, and deploy robust predictive models that relate antibody sequence to biological readouts </li><li>Antibody multi-parametric optimization: Design, implement, and deploy existing and novel methods for optimizing antibodies that balance many different properties </li><li>Representation learning: Investigate, implement, and benchmark new methods for protein representation learning<br/><br/></li></ul><strong>Required Skills:<br/><br/></strong><ul><li>Programming: Proficiency in Python including machine learning and statistical analysis packages (e.g. pytorch, pandas, numpy, scipy, sklearn, pytorch, statsmodels, matplotlib) , experience with Git</li><li>Statistics: Strong background in statistical modeling, particularly as it applies to protein sequence and structure</li><li>Data Handling: Experience in handling large datasets, with a focus on protein sequence and structure datasets</li><li>Communication and Experimentation: Ability to work in a small/large team and present data and findings to both wet lab and dry lab teams. Identify and address data quality issues, propose next steps, and design experiments<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Working towards a BS, MS, or Ph.D. in computer science, biology, chemistry, physics, mathematics or a related field. Advanced degrees preferred</li><li>Experience working with large-scale protein design models such as AlphaFold2, ESMFold, RFDiffusion, etc</li><li>Experience with large language models (LLMs) and/or and geometric/3D deep learning</li><li>Proficiency in general-purpose programming languages. We primarily use Python and pytorch. </li><li>Proven ability to work collaboratively in a multidisciplinary team</li><li>Demonstrated experience in NGS data analysis and familiarity with FACS is a plus<br/><br/></li></ul>The salary range for this position is $8000 - $9200/month. Pay offered may vary depending on job-related knowledge, skills, and experience.<br/><br/><em>We seek candidates who will dive into our creative company culture that's collaborative, multidisciplinary, and committed to a big vision for positive impact. We are defying conventions and innovating without boundaries. We are disrupting an industry with bold ideas and passionate pursuit of new possibilities. We are looking for original thinkers, creative scientists, and data-devoted gurus. Successful candidates will be excited to work in a dynamic environment and contribute as a key member of a project team. If this sounds good to you, we invite you to join us in our quest to redefine possible.<br/><br/></em><em>Legal authorization to work in the United States is required. Absci is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants without regard to a person's race, color, gender, age, religion, national origin, ancestry, disability, veteran status, genetic information, sexual orientation, or any characteristic protected under applicable law. Absci will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law. Absci offers a dog-friendly work environment - bring your pup along for the ride.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

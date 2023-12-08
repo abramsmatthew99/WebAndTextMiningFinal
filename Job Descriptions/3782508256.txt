@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Edaptive Computing, Inc. (ECI) is currently seeking a Front-end Engineer/Developer. The Edaptive Front-end Engineer ensures that ECI Frameworks and products meet technical requirements while providing a user-friendly experience. This position acts as a bridge between designers (UI/UX) and back-end programmers.<br/><br/>Location<br/><br/>Dayton, Ohio<br/><br/>Type<br/><br/>Full time with competitive benefits package<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li> Drive development and internal standards on all technical aspects of front-end delivery</li><li> Expert in front-end technologies (html/css/javascript)</li><li> Expert in front-end management and delivery tools (gulp/babel/webpack/etc.)</li><li> Heavy focus on performance in large-scale web applications</li><li> Stays abreast of new technologies. Proposes and implements new processes and techniques. Proposes inclusion of new technology into existing products and new solutions. </li><li> Focus on building modular layouts, reusable code and libraries for future use</li><li> Architecture and setup of client-side unit tests</li><li> Ensure the technical feasibility of UI/UX designs</li><li> Help set technical standards and best practices for the front-end team<br/><br/></li></ul>Qualitative Requirements<br/><br/><ul><li> In-depth knowledge web front-end engineering best practices and techniques. </li><li> Adept at using web services (APIs) to build front-end applications</li><li> Expert-level knowledge in front-end technologies html, css</li><li> Experience with a variety of HTML frameworks (eg: bootstrap)</li><li> Expert-level knowledge of css preprocessors (LESS/SCSS/SASS)</li><li> Expert-level knowledge and experience with javascript and multiple javascript frameworks &amp; libraries (Angular/jQuery/React/Vue/etc)</li><li> Experience with ES6+</li><li> Experience with Typescript</li><li> Proven experience in breaking large-scale web applications into modular parts to fine-tune the performance of the application for speed and scalability</li><li> Proficient understanding of javascript pre-processing and packaging frameworks such as babel and webpack</li><li> Advanced knowledge of javascript unit testing (Jest, Mocha/Chai, etc)</li><li> Experience in software design patterns and best practices as they relate to front end</li><li> Good analytical and problem-solving skills. </li><li> Strong written and verbal communication skills. </li><li> Ability to manage multiple responsibilities while maintaining focus on core responsibility. </li><li> Excitement and eagerness to learn new technology. </li><li> Desire to work in an Agile software development environment. </li><li> Ability to obtain a security clearance. <br/><br/></li></ul><strong>Educational And Experience Requirements<br/><br/></strong><ul><li> 5+ years’ experience with front-end web technologies</li><li> Bachelor degree or higher in Computer Science. 6 years of relevant experience or training can be substituted for the degree requirement. <br/><br/></li></ul><strong>Enhancing Qualifications<br/><br/></strong><ul><li> Experience with Git. </li><li> Experience with Node.js</li><li> Experience using cloud services to enhance the delivery of application resources</li><li> Experience with Angular</li><li> Experience with automated web UI testing (selenium, puppeteer, etc.)</li><li> Advanced experience with TypeScript</li><li> Experience using GraphQL</li><li> Advanced experience in DevOps and using automation/measurement to streamline deployments and development activities. <br/><br/></li></ul>Submission Instructions<br/><br/>(Non-complying submissions will not be considered)<br/><br/>Reference Front-end Engineer – Web Applications in all correspondence<br/><br/>Eligibility for a Security Clearance is required<br/><br/>Resumes must be 3 pages or less and provide description of how qualifying technologies were used. You may also submit a one page cover letter (optional but desired) stating your career objectives and how your qualifications and interest align with our requirements.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

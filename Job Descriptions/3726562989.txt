@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Details<br/><br/></strong><strong>Description<br/><br/></strong><strong>S</strong><strong>CHOOL/ORGANIZATION:<br/><br/></strong>St. Paul’s School in Concord, New Hampshire, is a completely residential, co-educational secondary school affiliated with the Episcopal Church and welcoming to people of all faiths. St. Paul’s School seeks innovative, experienced educators who are eager to participate in the academic, athletic, and co-curricular life of this dynamic residential community in our dedication to the pursuit of excellence in character and scholarship for our students.<br/><br/><strong>Job Description<br/><br/></strong>St. Paul’s School announces a search for the position of Computer Science teacher to begin duties in late August 2024. The primary responsibility of the teacher will be to teach computer science. After recently redesigning our computer science curriculum, we are seeking a person to teach courses in Arduino C and physical computing, combining computer science with the resources in our maker’s space. The teacher will teach several courses in computer science, with the possibility of also teaching robotics, engineering, and/or physics while serving as the point person for the computer science program. Preference will be given to candidates with experience running a computer science program at the secondary or college level. Likewise, robotics, engineering, physics experience, and familiarity with robotics competitions are valued.<br/><br/><strong>Additional Responsibilities<br/><br/></strong>In addition to teaching or administrative responsibilities, St. Paul’s School faculty are responsible for various activities typical of the boarding school environment, including advising, dormitory association, coaching, committee work, and other duties. St. Paul’s School is a completely residential, co-educational secondary school in Concord, NH, affiliated with the Episcopal Church and welcoming to all faiths. As part of a residential boarding school, the candidate must be interested in working and living with adolescents.<br/><br/>St. Paul’s seeks applications from candidates who will promote the School’s commitment to attracting and retaining a highly talented and diverse faculty. A successful candidate will embrace the fully residential living experience and have a demonstrated gift for engaging a diverse student body and strengthening St. Paul’s inclusive community.<br/><br/><strong>Job Requirements And Qualifications<br/><br/></strong><strong>Education:</strong> A Bachelor’s Degree or higher in Computer Science or Software Engineering, with a background in Robotics, Physics, Engineering, and/or Artificial Intelligence. A Master’s Degree with two or more years of experience leading a computer science curriculum is preferred. We are seeking someone with a lively interest in current pedagogy and project-based education.<br/><br/><strong>Experience: </strong>Familiarity with programming in multiple languages. Preference for those who can teach Arduino C and Java. Comfort in using and supporting computer technology and engineering lab equipment.<br/><br/><strong>SALARY: </strong>Competitive, based on experience.<br/><br/><strong>TO APPLY</strong>: Candidates submit a resume and cover letter with their online application.<br/><br/><strong>CONTACT: </strong> facultyrecruitment@sps.edu<br/><br/><strong>COVID Vaccine Policy:</strong> St. Paul's School strongly encourages employees to remain up to date with the COVID-19 vaccinations and boosters.<br/><br/>St. Paul’s School is an equal opportunity employer and has a strong commitment to the principles of diversity. St. Paul’s School does not discriminate on the basis of race, creed, gender, ethnic origin, disability or sexual orientation, and complies with applicable laws for the protection of civil rights.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Primary and Secondary Education
+          </span>
+</li>
+</ul>
+</div>
+</section>

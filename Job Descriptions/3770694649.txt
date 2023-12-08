@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>At Intuitive, we are united behind our mission: we believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints.<br/><br/>As a pioneer and market leader in robotic-assisted surgery, we strive to foster an inclusive and diverse team, committed to making a difference. For more than 25 years, we have worked with hospitals and care teams around the world to help solve some of healthcare's hardest challenges and advance what is possible.<br/><br/>Intuitive has been built by the efforts of great people from diverse backgrounds. We believe great ideas can come from anywhere. We strive to foster an inclusive culture built around diversity of thought and mutual respect. We lead with inclusion and empower our team members to do their best work as their most authentic selves.<br/><br/>Passionate people who want to make a difference drive our culture. Our team members are grounded in integrity, have a strong capacity to learn, the energy to get things done, and bring diverse, real world experiences to help us think in new ways. We actively invest in our team members to support their long-term growth so they can continue to advance our mission and achieve their highest potential.<br/><br/>Join a team committed to taking big leaps forward for a global community of healthcare professionals and their patients. Together, let's advance the world of minimally invasive care.<br/><br/><strong>Job Description<br/><br/></strong>Primary Function of Position:<br/><br/>Within the Advanced Imaging and Intelligence group (AI&amp;I), the Advanced Imaging team develops novel imaging capabilities to help surgeons see what they need to see (https://www.intuitive.com/en-us/about-us/newsroom/helping-robotic-surgeons-see). The intern will report to the Director of Advanced Imaging and be mentored by a Principal Engineer within AI&amp;I.<br/><br/>The main responsibility of this position is to create real time imaging pipeline infrastructure using a combination of MATLAB (makes it easy to develop, configure and modify pipelines) and CUDA (allows real-time performance). This allows testing and developing new imaging modalities that will enable improved surgeries.<br/><br/><strong>Roles &amp; Responsibilities<br/><br/></strong>Our prototype real-time pipelines enable new imaging capabilities while allowing simplified development with improved performance by combining scripting languages with CUDA.<br/><br/><strong>Skills<br/><br/></strong>We seek a candidate with strong software development and integration skills to interface our easily configurable MATLAB image processing stages to new CUDA functions for real-time processing and display. The work requires developing, debugging, and testing using both CUDA/C++ and MATLAB. As an intern, you should be able to:<br/><br/><ul><li>Define software interfaces between the MATLAB and CUDA components</li><li>Write a specified pipeline by implementing MATLAB and CUDA code</li><li>Write tools for testing pipeline operation</li><li>Write tools to compile necessary components</li><li>Write examples and documentation for other users desiring to create their own imaging pipelines<br/><br/></li></ul><strong>Qualifications<br/><br/></strong>University Hiring Program Eligibility Requirements:<br/><br/><ul><li>University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program in the Fall.</li><li>Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start dates are shared during the recruiting process.<br/><br/></li></ul><strong>Skills, Experience, Education, &amp; Training<br/><br/></strong><ul><li>Current enrollment in a Computer Science, Computer Engineering, Electrical &amp; Computer Engineering, or related degree-seeking program at the Doctorate level. Master’s level students with relevant experience are also very welcome to apply.</li><li>Be able to read and understand complex software that involves both MATLAB and CUDA components.</li><li>Proficient with CUDA/C++</li><li>Proficient with MATLAB</li><li>Python knowledge a plus</li><li>Able to develop both on Linux and Windows</li><li>Experienced in building complex software systems</li><li>Able to communicate designs, approaches and ideas well, while accomplishing the goals of the project.<br/><br/></li></ul>Additional Information<br/><br/>Due to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19. Details can vary by role.<br/><br/>Intuitive is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.<br/><br/>We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.<br/><br/>We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and experience for this internship, degree-seeking academic program (PhD, Master’s, Bachelor’s, etc), year in school, and location. The hourly rate is prorated against the intern program salaries listed and total program compensation will be based on internship duration.<br/><br/><strong>Base Salary Range Region 1:</strong>$137,800 - $155,000<br/><br/><strong>Base Salary Range Region 2:</strong> $117,100 - $131,800<br/><br/><strong>Shift:</strong> Day<br/><br/><strong>Travel:</strong> None<br/><br/><strong>Workplace Type:</strong> Set Schedule - This job will be onsite weekly, the percentage of onsite work will be defined by the leader.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

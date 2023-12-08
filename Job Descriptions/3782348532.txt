@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Position Description<br/><br/></strong>Our leading U.S financial services client is looking to bring on a Software Engineer to aid in several business critical development pushes.<br/><br/>In this role you will be responsible for assisting development of microservices in production across a variety of financial platform applications<br/><br/>You yearn to be part of cutting edge, high profile projects and are motivated by delivering world-class solutions on an aggressive schedule<br/><br/>You have built full stack systems (preferably architected for speed and distributed computing), with demonstrated experience in software engineering.<br/><br/>You embrace DevOps principles, including continuous delivery and ongoing support of production applications<br/><br/>You love to learn new technologies, keep abreast of the latest technologies within cloud architecture, and drive your organization to adapt to emerging best practices<br/><br/>It would be awesome if you have a robust portfolio on Github and/or open source contributions you are proud to share<br/><br/><strong>Required Skills<br/><br/></strong>At least 4 years of experience delivering applications from architectural design to production implementation<br/><br/>Hands-on experience in deploying scalable, distributed systems or multi-node database paradigms via Docker/Kubernetes<br/><br/>Experience with cloud software design, containerized micro-services &amp; distributed caching in Java 8, Spring Boot, AWS (highly preferred),<br/><br/>Experience in End to End Development – You build it, you own it mentality and practices (Design, Develop, Test, and Deploy)<br/><br/>Hands on Exp with Data Manipulation tools (SQL, ETL, etc)<br/><br/>Experience in Unit Testing your own applications and code to deployments.<br/><br/>Experience in Agile Software Development<br/><br/>Strong Communication and Interpersonal skills<br/><br/>Passion for software development, the latest trends, and innovation.<br/><br/><strong>Education:</strong> Bachelors Degree
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

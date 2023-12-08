@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Microsoft SCHIE (Silicone Cloud Hardware, and Infrastructure Engineering) is the team behind Microsoft’s expanding Cloud Infrastructure and responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE delivers the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, MSN, Office 365, Xbox Live, Skype, OneDrive and the Microsoft Azure platform globally with our server and data center infrastructure, security and compliance, operations, globalization, and manageability solutions. Our focus is on smart growth, high efficiency, and delivering trusted experiences to customers and partners worldwide and we are looking for passionate, dedicated engineers to help achieve that mission. As Microsoft's cloud business continues to grow the ability to deploy new offerings and Hardware (HW) infrastructure on time, in high volume with high quality and lowest cost is of paramount importance.<br/><br/>To help achieve this goal, we are looking for a Software Engineer II to join the Hardware Diagnostic Engineering team in our responsibility for designing and developing hardware diagnostic software for Server and Rack Infrastructure components that are deployed for Microsoft's online services. We work closely with Microsoft product groups, industry partners and researchers to architect and develop server diagnostics solutions to support diagnostics and servicing of the hardware that supports our cloud services platforms.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Responsible for working as a member of a development team to develop HW diagnostic software.</li><li>Responsible for development, validation, deployment and operations (DEVOPS) of the HW Diagnostic Software modules in C, C++ and C# in Windows Server 2012/16/19 environment as well as Linux Development environment.</li><li>Develop scripts (PowerShell, C++, C#, Python, Pearl, Linux BASH) to support automation of HW diagnostics code for various server topologies.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>Required Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><ul><li>OR equivalent experience.</li></ul><li>2+ years of hands-on coding experience required (C/C++/C# in Windows Server 2012/16/19 and Linux)</li><li>2+ years of hands-on experience in solving hardware and software problems in PC, Enterprise server or Cloud Server required (X86 environment and/or ARM64).</li><li>2+ years experience in working with key technologies such as Central Processing Unit (CPU), chipsets, motherboards, Field Programmable Gate Array (FPGA), Basic Input/Output System (BIOS), Baseboard Management Controller (BMC), memory, Peripheral Component Interconnect Express (PCIe), storage, networking, Power, Thermal and familiarity with manufacturing and system integration processes for cloud servers and racks.<br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science or related technical field AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><ul><li>OR Master's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python</li><li>OR equivalent experience.</li></ul><li>Knowledge of hardware and firmware interfaces: OpenBMC, DMTF MCTP, Redfish, PLDM, SPDM and RAS.</li><li>Experience with BMC interfaces including IPMI and Redfish.</li><li>Hands on experience in developing Diagnostic Code as well as skills to work in a laboratory environment.</li><li>Prior experience working in embedded Linux or other firmware development environment.</li><li>Passion for remote problem solving in cloud environment is essential.</li><li>Individual effectiveness skills such as leadership, discipline, time management, decision making, planning, organizing work, and summarizing results through technical reports</li><li>Self-motivated individual who can work independently as well as collaboratively in a team environment.</li><li>Ability to plan work and work to a plan, adapting as necessary in a rapidly evolving environment.<br/></li></ul>Software Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.<br/><br/>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay<br/><br/>#SCHIE #AZURE #Cloud<br/><br/>Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

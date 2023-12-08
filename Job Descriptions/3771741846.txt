@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Resource Innovations</strong> is seeking an<strong> Information Security Engineer </strong>to join our growing team in <strong>Chicago, IL</strong>. We are seeking a highly skilled and motivated Information Security Engineer with a strong background in Microsoft Compliance to join our dynamic team. The Information Security Engineer will collaborate with cross-functional teams to implement, maintain, and improve security and compliance measures, particularly in the context of Microsoft technologies and solutions. This role will be instrumental in identifying and mitigating security risks while ensuring compliance with industry regulations and best practices.</p><p>Resource Innovations (RI) is a <strong>women-led</strong> energy transformation firm <strong>focused on impact</strong>. Building on our expertise in energy efficiency, we're constantly expanding our portfolio of clean energy solutions to guide utilities through increasingly complex, connected challenges. Load flexibility. Electrification. Carbon reduction. With every step, we're leading the charge to power change.<br/></p><p><strong>Duties and Responsibilities<br/></strong></p><ul><li>Develop and implement security policies, procedures, and controls specific to Microsoft environments.</li><li>Conduct security assessments and audits to identify vulnerabilities and non-compliance issues related to Microsoft technologies.</li><li>Collaborate with IT and compliance teams to remediate identified issues and track progress.</li><li>Stay up-to-date with the latest Microsoft compliance standards, regulations, and best practices.</li><li>Monitor and analyze security alerts and incidents related to Microsoft solutions and take appropriate action.</li><li>Assist in the design and implementation of security solutions for Microsoft Office 365, Azure, and other Microsoft products.</li><li>Participate in incident response activities and provide expertise in addressing Microsoft-related security incidents.</li><li>Evaluate third-party security solutions and tools that enhance Microsoft compliance and security.</li><li>Serve as a subject matter expert on Microsoft compliance during internal and external audits.</li><li>Train and educate internal teams on Microsoft compliance requirements and best practices.</li><li>Collaborate with other security engineers and teams to ensure a holistic and comprehensive security posture.</li><li>On-site Technology support as needed.</li><li>Other duties as assigned.</li> <br/><br/></ul><strong>Requirements<br/><br/></strong><ul><li> Bachelor's degree in Computer Science, Information Security, or a related field. Master's degree or relevant certifications (e.g., CISSP, CISM, MCSE) is a plus.</li><li>Proven experience as a Security Engineer with a focus on Microsoft Compliance, including in-depth knowledge of Microsoft security and compliance offerings.</li><li>Familiarity with industry compliance standards such as GDPR, HIPAA, ISO 27001, and NIST.</li><li>Proficiency in configuring and securing Microsoft Office 365, Azure, and Active Directory.</li><li>Experience with security assessment tools and vulnerability scanning.</li><li>Strong problem-solving and analytical skills with a keen attention to detail.</li><li>Excellent communication and teamwork skills.</li><li>Ability to work independently and manage multiple projects simultaneously.</li><li>A commitment to staying current with evolving security threats and technologies.</li> <br/><br/></ul><strong>Benefits<br/><br/></strong><p>Resource Innovations offers competitive salaries based on candidate's qualifications. Resource Innovations also offers three weeks paid vacation per year, paid holidays, a 401(k) plan with employee matching funds, a discretionary bonus and an overall comprehensive benefits package.</p><p><strong>About Resource Innovations</strong></p><p>Resource Innovations (RI) is a <strong>women-led</strong> energy transformation firm <strong>focused on impact</strong>. Building on our expertise in energy efficiency, we're constantly expanding our portfolio of clean energy solutions to guide utilities through increasingly complex, connected challenges. Load flexibility. Electrification. Carbon reduction. With every step, we're leading the charge to power change.</p><p>Resource Innovations is an Equal Opportunity Employer, committed to ensuring equal employment opportunities for all job applicants and employees without regard to race, color, religion, national origin, gender, age, disability, marital status, genetics, protected veteran status, sexual orientation, or any other protected status. In addition to federal law requirements, Resource Innovations complies with applicable state and local laws governing non-discrimination in employment in every location in which the company does work.</p><p>The above job description and job requirements are not intended to be all inclusive. Resource Innovations retains the right to make changes or adjustments to job descriptions and/or job requirements at any time without notice.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Utilities
+          </span>
+</li>
+</ul>
+</div>
+</section>

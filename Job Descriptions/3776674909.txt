@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>We are not just offering a job but a meaningful career! Come join our passionate team!<br/><br/>As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. State Farm embraces diversity and inclusion to ensure a workforce that is engaged, builds on the strengths and talents of all associates, and creates a Good Neighbor culture.<br/><br/>We offer competitive benefits and pay with the potential for an annual financial award based on both individual and enterprise performance. Our employees have an opportunity to participate in volunteer events within the community and engage in a learning culture. We offer programs to assist with tuition reimbursement, professional designations, employee development, wellness initiatives, and more!<br/><br/>Visit our Careers page for more information on our benefits, locations and the process of joining the State Farm team!<br/><br/><strong>Responsibilities<br/><br/></strong><strong>Grow Your Skills, Grow Your Potential<br/><br/></strong>As a Software Engineer on the Data Platform Team, you will work in an atmosphere that fosters data innovation by expanding the Innovation Group Data Platform. Supporting and growing the data platform to enable and promote Innovation Group efforts, as well as recognizing and pursuing opportunities to experiment and innovate in data services, are all part of your job. We collaborate closely with Innovation Group teams and Enterprise partners. We have a fantastic team culture that is both creative and supportive.<br/><br/>This is an excellent opportunity to engage with cutting-edge technologies and help create the State Farm data landscape for the foreseeable future.<br/><br/><ul><li> Backend data application development</li><li> Using and maintaining gitlab pipelines for code promotion and collaboration</li><li> Data cleaning, exploratory/statistical analysis, visualization <br/><br/></li></ul><strong>Your role</strong>:<br/><br/>You are a change agent. You’re able to take an idea and determine the work to experiment on it. You seek to have a healthy team dynamic. You're a positive person who sees opportunity in gray areas. You are always learning and comfortable researching to find answers. You find and try new ways of approaching technical problems. You thrive on diversity and dynamic technology environments. You are a natural collaborator, comfortable with questioning and being questioned. You are passionate and excel at getting others to buy into your work and ideas. You might want to contribute to the industry through patents, professional articles, or presentations.<br/><br/><strong>Qualifications<br/><br/></strong><ul><li>Experience designing, developing, and deploying production applications in AWS: S3, DynamoDB, Redshift, API Gateway, Glue, Lambda, EKS, SageMaker</li><li>Programming languages: Python, SQL, React js, Angular, Javascript (Node.js, TypeScript, etc.)</li><li>AWS (Lambda, Glue, API Gateway, EC2, Athena, Quicksight, S3, Redshift, RDS…) via console, python SDK, and programmatic access. </li><li>Terraform</li><li>Gitlab Pipelines</li><li>Docker</li><li>Experience with relational / NoSQL databases</li><li>Familiarity with common data governance concepts (data classification, data retention, laws surrounding data such as CCPA)</li><li>Familiarity with various file formats, including csv, parquet, json, xml, and avro etc</li><li>Bachelor's Degree in Computer Science, Engineering, related data field OR equivalent certifications and experience</li><li>Ability to pick up and learn new technologies and skills quickly<br/><br/></li></ul><strong>Desired Skills</strong>:<br/><br/><ul><li>Knowledge of data as it pertains to ML, data modeling and Big Data patterns</li><li>Solid understanding of key data concepts such as data acquisition, data grain, eventing, metadata, contextual data (keys, wrappers, etc.), logical conformance of disparate data, etc. </li><li>Experience in large, complex data environments both highly coupled and highly decoupled</li><li>Prior work with 'legacy' type data structures and storage</li><li>Experience with data pipelines<br/><br/></li></ul>Work traits that are beneficial:<br/><br/><ul><li>Takes initiative</li><li>Team player</li><li>Comfortable communicating technical content to both technical and non-technical audiences over static documentation and live presentations</li><li>Critical thinking skills to challenge current thinking and apply right technology to solve problems</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Analyst, Information Technology, and Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Insurance
+          </span>
+</li>
+</ul>
+</div>
+</section>

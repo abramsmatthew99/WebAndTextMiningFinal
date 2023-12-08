@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Brand Overview<br/><br/></strong>ascena is a leading national specialty retailer offering apparel, shoes, and accessories for women through our brands Ann Taylor, LOFT, and Lou &amp; Grey, Lane Bryant and Cacique. We operate ecommerce websites and over 1200 stores throughout the United States.<br/><br/>Ready to apply? We currently have an opportunity for a Data Scientist Intern to join our team located at our Ascena Corp ETNA-ascena-Pataskala, OH 43062.<br/><br/><strong>Position Overview<br/><br/></strong>This internship opportunity will offer exposure to designing and implementing innovative data science and machine learning solutions to fit the unique needs of our brands - Lane Bryant, Ann Taylor, and Loft. The program will include collaboration with various marketing, merchandizing, IT, and business stakeholders to gather requirements, implement new technical solutions, and optimize existing systems.<br/><br/><strong>Primary Responsibilities<br/><br/></strong><ul><li>Working with business teams to document requirements on minor enhancements </li><li>Converting business requirements into technical requirements </li><li>Collaborating with data scientists and machine learning engineers on analytics solutions to business challenges </li><li>Participating in issue tracking and resolution activities for data science systems </li><li>Monitor data science deliverables and ensure timely completion of projects <br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Passion and skill in using data science, machine learning, and advanced analytics to solve business problems, with a strong user focus </li><li>Strong foundation in mathematics, statistics, and computer science </li><li>Minimum of a junior-year level of undergraduate degree coursework in computer and information science, data science, mathematics, or an equivalent combination of education and experience in related fields </li><li>Proficiency in Python (or R) and SQL </li><li>Experience working in a cloud environment </li><li>Ability to multi-task, comfort with ambiguity and adept at learning new technologies </li><li>Strong verbal and written communication skills, with an aptitude for bridging communication between technical and non-technical colleagues <br/><br/></li></ul><strong>Location:<br/><br/></strong>Ascena Corp ETNA-ascena-Pataskala, OH 43062<br/><br/><strong>Position Type<br/><br/></strong>Intern (Fixed Term) (Trainee)/Full time<br/><br/><strong>Equal Employment Opportunity<br/><br/></strong>The Company is committed to hiring and developing the most qualified people at all levels. It is our policy in all personnel actions to ensure that all associates and potential associates are evaluated on the basis of qualifications and ability without regard to sex (including pregnancy), race, color, national origin, religion, age, disability that can reasonably be accommodated without undue hardship, genetic information, military status, sexual orientation, gender identity, or any other protected classification under federal, state, or local law. We do not discriminate in any of our employment policies and practices. All associates are expected to follow these principles in all relationships with other associates, applicants, or others with whom we do business.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

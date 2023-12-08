@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        DYOPATH, a leading Managed Service Provider (MSP), was founded to empower organizations by delivering trusted IT solutions. At DYOPATH, we pursue both purpose and success, knowing one will ultimately lead to the other. Our core values foster a culture that promotes accountability, excellence, exceptional customer service, and sustainability. Our team is passionate, fun, creative, and courageous in communications.<br/><br/><ul><li>Position: Part time (32 hours per week)</li><li>Shift: Monday - Thursday from 8:30am – 5:30pm (est)</li><li>Location: Onsite in Cambridge, MA 02138</li><li>Pay: $40/hr depending on experience<br/><br/></li></ul>Experience needed:<br/><br/><ul><li>Level 1+ on Mac deskside support</li><li>Experience working in a lab</li><li>Onboarding experience</li><li>Experience with Meraki and Palo Alto</li><li>Workstation OS and application patching</li><li>Liaison, experience interacting with third parties. </li><li>Intune/ JAMF experience – highly preferred<br/><br/></li></ul><strong>Job Summary<br/><br/></strong>The Desktop Support Analyst II will oversee and maintain the working order of computer hardware and software systems associated with each endpoint in the client's domain. They will assist end users in resolving technical issues concerning customer's accounts, computer hardware or company software. DSA IIs will be required to handle issues/tasks that are more advanced. This position requires a highly detail-oriented individual with excellent written and oral communication skills.<br/><br/><strong>Essential Functions And Responsibilities<br/><br/></strong>Hardware and Software Analysis:<br/><br/><ul><li>Analyze the user requests and incidents </li><li>Organize meetings with users to discuss resolution with incidents that occur. </li><li>Providing technical support including: </li><li>Installation: </li><li>Deployment: </li><li>Maintenance: </li><li>of company PCs, laptops, software, scanners, printer problems and various peripherals. </li><li>Supporting internal customers by troubleshooting software and hardware issues either face to face, over the phone, or through Chat software. </li><li>Track progress of incidents and tasks by utilizing internal or client ticketing software </li><li>Create, receive, and resolve end user incidents. tasks, and requests while maintaining response and resolution of contracted SLAs </li><li>Order parts as needed for asset hardware maintenance and repair to resolve tasks and incidents </li><li>Create, Edit, and Maintain knowledge base articles </li><li>Act as a point of contact for 3rd party vendors and technicians </li><li>Performing updates: </li><li>Microsoft security patches </li><li>Anti-virus signature file </li><li>Other software/application updates </li><li>Assists and/or mentors Level I and Associate DSAs as needed. </li><li>Troubleshoot incidents, reports, or processes to resolve errors </li><li>Document process requirements </li><li>Write clear procedures and instructional manuals to build out self-service capabilities <br/><br/></li></ul><strong>Education Qualifications<br/><br/></strong>Minimum Required Education and/or Experience Requirements:<br/><br/><ul><li>Bachelor's Degree in computer science, IT, or another comparable field or four years of comparable work experience </li><li>A+ Certified <br/><br/></li></ul><strong>Preferred Education And/or Experience Requirements<br/><br/></strong><ul><li>Net+ Certified, preferred </li><li>Experience in a desktop support analyst I role is preferred <br/><br/></li></ul><strong>Licenses, Certifications, And Other Requirements<br/><br/></strong>Minimum Required Licenses, Certifications, and Other Requirements:<br/><br/><ul><li>Prior to hire, a background check including criminal record history will be conducted. Information from the background check will not necessarily preclude employment but will be considered in determining the applicant's suitability and competence to perform in the position. </li><li>Requires a valid Driver's License and acceptable driving record <br/><br/></li></ul><strong>Minimum Knowledge, Skills, And Abilities Qualifications<br/><br/></strong><ul><li>Familiarity with change management (ITIL) </li><li>Be able to perform RCA </li><li>Computer hardware troubleshooting proficiency level: Intermediate-Advanced </li><li>Software troubleshooting proficiency level: Intermediate-Advanced </li><li>SharePoint experience (O365 preferred) </li><li>Working knowledge of MS O365 Suite </li><li>Demonstrated ability to communicate orally and in writing </li><li>Demonstrate good judgment to support the clients with technical advice and problem resolution </li><li> Perform other related duties as necessary </li><li>Ability to work with team </li><li>Capability to prioritize workload and meet deadlines </li><li>Detail-oriented </li><li>Customer service oriented <br/><br/></li></ul><strong>Benefits<br/><br/></strong><ul><li>Medical, Dental, Prescription, Vision, Life and Disability Insurance</li><li>Flexible Spending Account (FSA) as well as Health Savings Account (HSA) – save money pre-tax for eligible medical expenses</li><li>Employee Assistance Program and Comprehensive Wellness Program</li><li>401 (k) Retirement Savings Plan with company match</li><li>PTO - Paid Holidays and Vacation Time – encouraging work-life balance</li><li>Continuous Learning and Development Programs </li><li>Employee Referral Programs</li><li>Pet Insurance plans </li><li>Bonus Incentive Programs</li><li>Growth opportunities<br/><br/></li></ul><strong>Equal Opportunity Employer<br/><br/></strong>DYOPATH is committed to a work environment free of all forms of discrimination. DYOPATH recruits and hires without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic. For more information about DYOPATH, please visit our website at www.dyopath.com.The above information has been designed to indicate the general nature and level of work performed by employees in this classification. It is not designed to contain or to be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of the employee assigned to this job.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Part-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

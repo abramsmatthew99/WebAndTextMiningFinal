@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<ul><li>Lead the team to build the next-generation global ingestion platform from the ground up and migrate existing complex use cases into that system. In its completion, the global ingestion platform will empower data connectivity in global markets (US, EU, APAC, etc)</li><li>Work with a team of supportive and passionate software engineers</li><li>Architect and implement systems that materialize our platform vision</li><li>Resolve technical issues for internal and external customers</li><li>Be a coach to other engineers on the team, helping them succeed in their current role while preparing them for future roles</li><li>Perform code reviews and design reviews for other engineers on the team</li><li>Have an impact across the entire product and engineer org by leading technical discussions in the architecture board, evangelizing best practices, standards, and mentoring engineers and engineering teams<br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li> 5+ years of experience in the fields of software engineering (backend)</li><li> 3+ years of experience using cloud-based platform such as GCP, AWS, Azure or similar technologies</li><li> Proficient in one or more compiled languages, preferably Java, Golang</li><li> Track record of leading and delivering large scale, cross-team, cross-functional projects, enjoy collaborating on an agile development team and have empathy for teammates and customers</li><li> Experience with designing and implementing interfaces and infrastructure for large scale systems and RESTful APIs</li><li> Strong experience with Springboot, Microservices</li><li> Excellent communication and collaboration skills, and experience working with a remote, global team</li><li> Have a passion for building large-scale distributed systems and are comfortable writing maintainable, extensible, scalable and high performance code</li><li> Have a startup personality and enjoy working as part of a team: smart, ethical, friendly, hard-working, and productive</li><li> You love mentoring junior engineers, leading end-to-end development and release of an application or service, deploying software that conforms to best practices</li><li> Comfortable evaluating and adapting to the latest tools and technologies</li><li> Bachelor or Master of Science in Computer Science, Information Systems or related degree</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

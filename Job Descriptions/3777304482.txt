@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Keystone is a premier strategy and economics consulting firm solving the most complex challenges of competition, strategy, AI, and intellectual property for leading technology firms and global brands. Become a part of this mission by joining us as a Technical Program Manager in our new AI center of excellence. You will work directly with our Chief Economist who is building a foundation in econ tech AI consulting solving problems for fortune 500 companies using applied economics and data science. It’s an exciting time to be at Keystone!</p><p><br/></p><p>Your work will span across industries, helping our clients use AI tools to boost collaboration and productivity while reducing waste and modernizing operations. You will be part of an integrated technical team and should be collaborative in nature, with a high understanding of what it takes to work with data and machine learning science and engineering teams.</p><p>If you can lead multiple complex technical projects simultaneously, providing structure to ambiguous and complex customer problems, and are ready to accelerate your career into consulting and grow your skills beyond what you could imagine, apply</p><p>today!</p><p><br/></p><p>This position is based in Seattle with a requirement to be onsite in the office four days per week; it is not hybrid or remote.</p><p><br/></p><p><strong>Basic Qualifications: </strong></p><ul><li>Degree in Computer Science, Engineering, Data Science, or highly related technical field</li><li>3-5 years of technical program management experience</li><li>1+ years’ experience working in a data science/machine learning science environment</li><li>Experience in software development lifecycle from conception to delivery</li><li>Experience running projects using an Agile methodology, e.g. SCRUM</li><li>Able to effectively communicate technical concepts across a wide range of audiences</li></ul><p><br/></p><p><strong> Preferred Qualifications: </strong></p><ul><li>Experience working in a Big Tech company, e.g. Amazon, Google, Meta</li><li>Advanced degree in Computer Science, Engineering, Mathematics, Statistics, MBA, or related technical field</li><li>2-3 years of professional experience in software development, product management, or data science</li><li>Advanced knowledge of many core technologies and programming paradigms in a field such as Generative AI, Cloud AI, Cybersecurity, Data Science, Distributed Computing, AI platforms</li><li>Desire to work in a fast-paced, self-directed entrepreneurial environment</li><li>Analytical skills with a keen understanding of financial and operational levers</li></ul><p><br/></p><p>US Salary Range: $175,350 - $245,000 base, plus an annual discretionary bonus, 401k contribution, and competitive benefits package. Actual compensation within the range will depend upon the level the individual is hired into based on their skills, experience, qualifications.</p><p><br/></p><p>At Keystone we believe diversity matters. At every level of our firm, we seek to advance and promote diversity, foster an inclusive culture, and ensure our colleagues have a deep sense of respect and belonging. If you are interested in growing your career with colleagues from varied backgrounds and cultures, consider Keystone Strategy.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Project Management and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Business Consulting and Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

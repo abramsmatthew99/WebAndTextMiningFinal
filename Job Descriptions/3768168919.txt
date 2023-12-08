@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Are you looking for an opportunity that impacts people in your neighborhood?</p><p>Do you have an engineering, architectural and product acumen that can drive an enterprise solution for the betterment of lives?</p><p>Are you willing to grow your talent by partnering with stakeholders from various verticals and building products that need a wholistic perspective?</p><p>Do you feel empowered by feeding the spirit and impacting all the communities where we as Kroger make a difference using the acumen of talented and authentically driven technology champions like you?</p><p>If any of these questions motivate your passion to create deliverables that guide the direction, development, and delivery of software solutions that meet business needs and most of all our customer needs, this is the exact opportunity for you. This is a highly collaborative role requiring technical ownership and product alignment along with leadership in analysis, design and implementation of tasks required to deliver critical business solutions. You will partner with engineering team, product management, architecture, information security and infrastructure teams to deliver software and technology products that meet requirements and produce desired business outcomes by adhering to established architectural principles and associated processes for adopting new technologies or integrating with a new third-party solution. You will advise product management on technology specific aspects of product roadmap development and recommend adoption of emerging technology appropriate to stated goals. You will be expected to demonstrate Kroger’s core values of respect, honesty, integrity, diversity, inclusion, and safety.</p><p><br/></p><p><strong>Responsibilities</strong></p><ul><li>Develop a high-quality codebase, collaborate on design discussions, execute development against design, and navigate complex codebase</li><li>Work closely with various teams in the domain of impact and participate in the decisions on technology strategy within a defined scope of a business initiative.</li><li>Execute against defined technology roadmap to support product-led business strategy</li><li>Ensure the implementation of enterprise standards across domains: operations, infrastructure, data, applications, development, security &amp; risk, and business continuance</li><li>Provide technical leadership to ensure clarity between ongoing initiatives and the strategic objectives of the company</li><li>Drive digital innovation by leveraging innovative new technologies and approaches to renovate, extend, and transform the existing core technology base and IT estate</li><li>Work with the team and leadership to design implantation plans for high-level migration efforts addressing the gaps between the current and future state</li><li><strong>Collaborate with the team and present opportunities with cost/benefit analysis to leadership to shape sound architectural decisions </strong></li><li><strong>Lead the analysis of the technology environment to detect critical deficiencies and recommend solutions for improvement </strong></li><li><strong>Mentor team members in software development principles, patterns, processes and, practices </strong></li><li><strong>Promote the capture and reuse of intellectual capital, including code objects and components </strong></li><li><strong>Draft and review architectural diagrams, interface specifications, class structures and, other design documents </strong></li><li><strong>Must be able to perform the essential job functions of this position with or without reasonable accommodation </strong></li></ul><p><br/></p><p><strong>Qualifications </strong></p><ul><li>Bachelor's Degree in Computer Science or in a STEM major</li><li>8+ of software development experience.</li><li>6+ years of successful and applicable hands-on experience in software or infrastructure development domain and principles, including design patterns and code structure</li><li>5+ years of a proven track record of designing and delivering large scale, high-quality systems</li><li>Familiarity and Experience in many of the following: - API First - REST - Java - Spring Boot - Azure - Cosmos DB - Redis - SQL Server - Docker – Kubernetes - Kafka</li><li>Senior level experience on Java development, object-oriented programming, advanced software engineering practices, and utilization of industry standard design patterns.</li><li>Extensive background Product Solution Designing and Architecture, utilizing SOLID Principles and collaborative implementation of the proposed solutions from whiteboard to Enterprise-wide Production rollout</li><li>Comprehensive understanding of Data Utilization and Management, combined with advanced knowledge of high performance, optimized, multi-threaded system design, development, and implementation.</li><li>Experienced in distributed systems and API integrations. Experience in building and integrating with RESTful APIs and a deep understanding of REST principles.</li><li>Experience and understanding of Event Driven Design and Implementation using technologies like Kafka, Solace, etc.</li><li>Experience in building solutions with monitoring, logging, tracing, and visualization supporting a robust structure of debugging and mitigating customer issues in live products and services</li><li><strong>Demonstrated written, oral, and presentation/public speaking communication skills; along with ability to contribute at a strategic level. </strong></li><li>Experience being a contributor and a mentor in a team that has built or maintained high volume, highly available, fault tolerant applications/services that are embedded in a larger infrastructure.</li></ul><p><strong>Bonus Qualifications </strong></p><ul><li>Retail operations and/or Fleet Management systems is a plus.</li><li>Shipping/Carrier/Last Mile Delivery integration software experience also a plus.</li><li>Experience in cloud environments (preferably Azure), including good understanding of cloud architecture, functions, Logic Apps, Serverless architecture, application development and containerization are a big plus but not required.</li></ul><p>· Any experience in Infrastructure as Code (Cloud specific) is preferred but not required.</p><ul><li>Experience with using Kubernetes on Cloud, with CI/CD for highly dynamic and scalable solutions is preferred.</li></ul><p><br/></p><p><br/></p><p><strong>Company Overview: </strong> Kroger Family of Companies employs nearly half a million associates who serve over 11 million customers daily through a seamless shopping experience under a variety of banner names. At The Kroger Co., we are Fresh for Everyone™ and dedicated to our Purpose: To Feed the Human Spirit®. We are committed to creating #ZeroHungerZeroWaste communities by 2025. Careers with The Kroger Co. and our family of companies offer competitive wages, flexible schedules, benefits and room for advancement.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Administrative
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

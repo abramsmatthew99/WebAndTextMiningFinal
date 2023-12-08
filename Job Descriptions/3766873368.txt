@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>MyTime is a fully integrated scheduling, payments, and automated marketing platform, specializing in large multi-location chains and franchises. Our mission critical software -- which includes in-store scheduling and online booking, client record management, email and SMS marketing, and a full point of sale for handling payments -- is used in every aspect of the customer journey. Our customers rely on their service businesses to remain competitive in the age of Amazon, and they need a next generation POS to help them achieve this growth. We aspire to be the “operating system” of their business.<br/><br/>We also made it easy to plug our online booking, payments and messaging capabilities into the places customers are found today, including Google Search, Facebook, Instagram, and the merchants’ own websites and mobile apps. Upon adopting MyTime, our customers see average revenue growth of up to 30% through improved operational efficiency, greater customer retention, and access to new customer acquisition channels.<br/><br/>Our product is used at over 14,000 locations across the globe, ranging from single-location sole proprietors to multi-billion dollar Fortune 500 chains. As a completely cloud-based solution, MyTime is designed for quick and easy deployments. It’s lauded for its ease-of-use and short ramp-up time, having won numerous awards such as the Best Commerce Product of 2017 from the Local Search Association.<br/><br/>MyTime is consistently innovating and delivering new features to its core suite of products and we want to accelerate our delivery of new products to the fast-growing appointment scheduling and point of sale market. MyTime's engineering teams work in small, concentrated pods to constantly improve our codebase, performance, and feature set.<br/><br/>Come help us realize our vision of becoming the world’s leading online scheduling and local commerce platform!<br/><br/><strong>Job Description<br/><br/></strong>MyTime is searching for an engineering manager who has managed software development teams at fast growing tech startups with complex SAAS products. The position will report directly to the CTO.<br/><br/>This engineering manager isn’t afraid to roll up their sleeves, take on the challenges thrown their way and work aggressively. You will manage a globally distributed team consisting of full-stack engineers, as well as back-end and front-end specialists.<br/><br/>You will take on projects with a delivery mind-set, and do whatever is needed to unblock the team.<br/><br/>You will also play your part in monitoring the code deployed by your team in production, so a basic familiarity with DevOps on Amazon or Google Cloud is a plus.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li>Partner with our recruiting team to attract and hire top talent. Develop, coach, mentor and motivate a high performing globally distributed team of full stack, backend and front end engineers. Do performance reviews, have career development discussions, drive the best performance from your team. </li><li>Promote engineering excellence by setting and enforcing coding standards, code reviews, and architectural reviews. Ensure your team produces technical solutions that align with MyTime security requirements, architectural guidelines, system design principles, and engineering best practices. Create a culture of continuous improvement. </li><li>Collaborate with product managers and other cross-functional teams, engineers on your team, and leadership, to define the team’s vision and product roadmap, and ensure that projects are on track, resources are allocated correctly, and deadlines are met to adhere to the roadmap. Advocate for engineering-driven projects (e.g. addressing tech debt) and work with product management peers to prioritize them. </li><li>Independently own and drive multiple mission critical work streams. This includes the planning, execution, deployment, monitoring and support in production of features and capabilities owned by your team. </li><li>Balance competing priorities, such as technical debt, customer issuers, and features, to ensure we continuously deliver value on time with high quality. </li><li>Manage engineering metrics such as team velocity, delivery commitments, code quality, and successful deployments. Communicate team progress upward and around through status reports. <br/><br/></li></ul>Qualifications<br/><br/><ul><li>8+ years of experience in software development, with at least 2 years experience building and managing an engineering team of at least 4-6 engineers across different levels of seniority and technology stacks for a SaaS product at scale</li><li>Experience managing distributed teams, including teams offshore. Effective team builder who understands the value of building a diverse and inclusive engineering team. </li><li>Deep knowledge of agile processes and workflows. Experience using iterative development to ship early and often. </li><li>Customer-centric product thinker who works in conjunction with product partners to set the strategy for the team, supported by metrics and goals. </li><li>Excellent communication skills. Able to communicate with technical and non-technical folks alike to broadcast information, make decisions, and build bridges. </li><li>Technical background in cloud/SaaS platform development and operations. Broad knowledge of programming languages, software architecture, design, and database systems. While you don't need to be the deepest technical expert, a strong technical foundation is essential. You should be able to understand technical challenges, participate in technical discussions, and back your team's decisions. </li><li>BS degree in Computer Science or a related field or equivalent technical experience<br/><br/></li></ul>Additional Information<br/><br/>MyTime is an incredible place to work and grow your expertise! We provide a competitive base salary, performance bonus, startup equity, and healthcare benefits. We offer a transparent and exciting startup culture that is singularly focused on empowering people to make an impact in their jobs. We’re growing fast and solving a big problem, providing our employees the opportunity to make the tremendous impact that leads to true professional fulfillment. If you're interested, we'd love to talk!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

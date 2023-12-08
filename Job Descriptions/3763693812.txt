@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>As a Lead Developer at Apposite Technologies, you will work on our world leading network emulation product line. IT managers and engineers rely on our network emulation solutions to measure the performance of a variety of networks, such as private, public or cloud environments, and their components. Users can validate the proper performance and quality of applications, network architectures, and network devices prior to deployment.<br/><br/>Founded in 2005, Apposite Technologies is well-established and profitable technology company based in Los Angeles. We are growing our R&amp;D team and launching new products to support enterprise and government cloud adoption. Our customer base consists of over 2,500 enterprise, government, and development companies.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Develop and manage software connecting front end UI and API to back end server. </li><li>Develop automation scripts for regression testing and optimize usability</li><li>Support product release process<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor of Science degree in Engineering or Computer Science</li><li>Javascript/Nodejs developer</li><li>Experience with NPM</li><li>Experience with XML, JSON and YAML</li><li>Additional experience with unit test frameworks is a plus. </li><li>Experience with test automation, Google Cloud, Azure, Amazon Web Services or any other public/private cloud environment would be ideal</li><li>Basic understanding of TCP/IP networking<br/><br/></li></ul><strong>Candidates must be authorized to work in the USA. Apposite Technologies is an Equal Opportunity employer<br/><br/></strong><ul><li>No relocation assistance. Local candidates preferred.***</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Computer Networking Products
+          </span>
+</li>
+</ul>
+</div>
+</section>

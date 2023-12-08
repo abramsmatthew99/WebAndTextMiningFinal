@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Looking for an opportunity to make an impact?<br/><br/>At Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customers' success. We empower our teams, contribute to our communities, and operate sustainable. Everything we do is built on dedication to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business.<br/><br/>If this sounds like the type of environment where you can thrive, keep reading!<br/><br/>Leidos is seeking a <strong>Network Engineer - Junior </strong>to support United States Space Force (USSF) in support of Space Systems Command (SSC) Cyber Operations Branch rapid agile development of defensive cyber solutions to protect, defend, and respond to both ground and space based cyber adversarial threats. A successful candidate should be a leader and problem solver with a proven ability to deliver superior results as part of a high performing team in a fast-paced environment.<br/><br/>Your greatest work is ahead!<br/><br/>Leidos Defense Group provides a diverse portfolio of systems, solutions, and services covering land, sea, air, space, and cyberspace for customers worldwide. Solutions for Defense include enterprise and mission IT, large-scale intelligence systems, command and control, geospatial and data diagnostics, cybersecurity, logistics, training, and intelligence diagnostics and operations. Our team is solving the world’s toughest security demands for customers with “can’t fail” missions.<br/><br/>Are you ready to make an impact? Begin your journey of a flourishing and meaningful career, submit your Resume with us today!<br/><br/><strong>The Opportunity<br/><br/></strong><ul><li>Perform configuration, test, deployment and maintenance to all network equipment</li><li>Validate new and existing dataflow and data formats</li><li>Oversee the support to all network equipment</li><li>Configure and optimize the network to connect various front-end and back-end components</li><li>Minimize network latency and maximize data throughput through design analysis and network performance monitoring tools</li><li>Configure and maintain organizations network diagrams and accreditations</li><li>Design, integrate, test and deploy solutions to established network issues</li><li>Implement specific network solutions to support server requirements to include load balancing, VPN’s, firewall contexts, Traffic Shaping Voice over IP (VOIP), GRE Tunneling, IP Security (IPSec), IP Encryption, Media over IP (MoIP) and network address translation (NAT).</li><li>Coordinate with system engineering and integrate, configure, deploy, test and provide ongoing maintenance for numerous types of network devices, interfaces and methodologies</li><li>Gather needed data to specify system/component performance and interface requirements<br/><br/></li></ul><strong>What Sets You Apart<br/><br/></strong><ul><li>Bachelor’s degree in Computer science, software engineering, data science, software development or STEM related specialty; with less than 2 years of relevant experience. Additional years of relevant experience may be considered in lieu of degree.<br/><br/></li></ul><strong>You Might Also Have<br/><br/></strong><ul><li>Familiarity &amp; knowledge with: SIMP Project, Docker, GIT, Red Hat Enterprise Linux (RHEL), Suricata, Zeek, Kibana, Logstash, Elastic Search, Neo4J, PostgreSQL</li><li>CCNA certification<br/><br/></li></ul><strong>Clearance Needed<br/><br/></strong><ul><li>U.S. citizenship with a current DoD Top Secret/SCI security clearance.<br/><br/></li></ul><strong>Digital Bloodhound<br/><br/></strong><strong>Pay Range<br/><br/></strong>Pay Range $46,800.00 - $84,600.00<br/><br/>The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

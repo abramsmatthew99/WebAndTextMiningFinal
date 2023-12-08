@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.<br/><br/>We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!<br/><br/><strong>Job Description<br/><br/></strong><strong>Position Overview<br/><br/></strong>Due to continued growth, we are looking for an experienced Machine Learning Engineer (MLE) to promote our mission and help build, deploy, and sustain machine learning models that can help optimize process performance indicators and trends. You will design and implement ML-based prediction capabilities and components for detecting anomalous conditions and singularities in the monitored processes and operations that could be most efficacious at alerting. In this capacity, the Senior Machine Learning Engineer (MLE) will architect and engineer the technical and data pipelines for digital products that feature AI/ML algorithms, including how data and models will be scaled, monitored, maintained, and managed.<br/><br/><strong>Essential Functions<br/><br/></strong><ul><li>Lead efforts with Rockwell Automation business leaders to identify, understand, explore, and deliver relevant data analyses to inform data inclusion, exclusion, and sub-setting criteria as well as feature and model selection for DH&amp;I solutions.</li><li>Collaborate with data scientists to analyze and select appropriate data models and algorithms that improve process outcomes across multiple operations/teams using diverse data.</li><li>Lead data engineering to extract and create data features from large data sets for input into models.</li><li>Collaborate with data scientists to define model validation strategies, train, and tune models,analyze, and resolve errors in models.</li><li>Lead model deployment to production.</li><li>Define and develop model monitoring and maintenance processes including metrics to assess accuracy, drift, etc.</li><li>Develop standards, processes, and best practices for the team across the data science-based solution implementation lifecycle.</li><li>Work with teams in an agile setting.</li><li>Mentor others.</li><li>Learn new techniques and keep on top of industry trends.<br/><br/></li></ul><strong>The Essentials - You Will Have<br/><br/></strong><ul><li>Bachelor's Degree<br/><br/></li></ul><strong>The Preferred - You Might Also Have<br/><br/></strong><ul><li>Typically requires 8+ years of relevant work experience.</li><li>MS or higher in Computer Science, Business Analytics, Automation, Informatics, Sustainability, Math, Statistics, or similar field.</li><li>Experience as a Machine Learning Engineer, Data Engineer, Software Engineer, or similar role.</li><li>Understanding of data structures, data modeling, and software architecture.</li><li>Experience writing code in Python (opensource contributions or Kaggle kernels).</li><li>Experience with linear algebra, probability, statistics, and machine learning algorithms.</li><li>Familiarity with Linux operating system and associated shell commands.</li><li>Experience deploying a machine learning model to production on Amazon Web Services (AWS) or similar cloud technology service suite.</li><li>Experience with distributed compute/data processing technology.</li><li>Hands-on experience using Databricks or Apache Spark (i.e., PySpark, SparkR, or Scala) and understanding best practices.</li><li>Hands-on experience with multiple programming languages – Python, SQL, Scala, R, Golang, C#, JavaScript, C/C++ or similar.</li><li>Proficiency in using and extending ML frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).</li><li>Experience with Vertex AI or AWS SageMaker stack.</li><li>Experience using version control (i.e., Git).</li><li>Knowledge in one or more areas (Research, Development, Operations, Manufacturing) in industry.</li><li>Publications or conference presentations on topics in the machine learning arena.<br/><br/></li></ul><strong>What We Offer<br/><br/></strong><ul><li>Health Insurance including Medical, Dental and Vision</li><li>401k</li><li>Paid Time off</li><li>Parental and Caregiver Leave</li><li>Flexible Work Schedule where you will work with your manager to enjoy a work schedule that fit with your personal life.</li><li>To learn more about our benefits package, please visit at www.raquickfind.com .<br/><br/></li></ul>The Base Salary Compensation range for this role is $128,800 - 193,200 USD annual with an annual target bonus of 8% of base salary. Our company benefits for the US can be found here . Actual pay will be based on factors such as skills, knowledge, education, and experience.<br/><br/>This position is part of a job family. Experience will be the determining factor for position level and compensation.<br/><br/>We are an Equal Opportunity Employer including disability and veterans.<br/><br/>If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (844) 404-7247.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Automation Machinery Manufacturing and Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

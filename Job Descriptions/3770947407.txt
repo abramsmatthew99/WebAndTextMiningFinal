@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Job ID 2315712<br/><br/><strong>Location </strong>CRANE, IN, US<br/><br/><strong>Date Posted </strong>2023-12-04<br/><br/><strong>Category </strong>Engineering and Sciences<br/><br/><strong>Subcategory </strong>Test Engineer<br/><br/><strong>Schedule </strong>Full-time<br/><br/><strong>Shift </strong>Day Job<br/><br/><strong>Travel </strong>Yes, 10 % of the Time<br/><br/><strong>Minimum Clearance Required Interim Secret<br/><br/></strong><strong>Clearance Level Must Be Able to Obtain </strong>Secret<br/><br/><strong>Potential for Remote Work </strong>No<br/><br/><strong>Description<br/><br/></strong>SAIC is seeking a <strong>Test Engineer</strong> to support the US Navy in <strong>Crane, IN</strong>.<br/><br/><strong>Job Description<br/><br/></strong>Looking for a Test Engineer with experience in electrical/electronic testing, weapon systems integration with emphasis in hardware design and software showing strengths in electrical hardware and hardware integration, and software/firmware development.<br/><br/><strong>JOB RESPONSIBILITES<br/><br/></strong><ul><li>Rewrite current test requirement specifications in updated formats</li><li>Troubleshoot software and identify issues with hardware integration</li><li>Develop new software applications to perform MIL-STD-1553B stress testing</li><li>Incorporate changes and corrections into Standard Operating Procedures</li><li>Support Field Support Engineering Team </li><li>Support software for weapons integration and interface on H-60 R/S</li><li>Convert obsolete software into newly supported software package suite</li><li>Present technical briefs and reviews to management and customers</li><li>Review and write documents, processes, and provide expertise for customer feedback</li><li>Meet specified deadlines – position is very time sensitive with deliverable schedule</li><li>Initiate and execute engineering changes<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><strong>REQUIRED EDUCATION AND EXPERIENCE <br/><br/></strong><ul><li>Bachelor’s degree with five (5) years of experience. </li><li>Design and develop test requirements for software and hardware integration</li><li>Have experience with systems integration, electrical test, and troubleshooting</li><li>Ability to develop software applications for interface with hardware specifications.</li><li>Ability to grasp concepts quickly and engage to achieve a working understanding of interfaces based on existing aircraft sub-system specifications, briefing material, and verbal communication <br/><br/></li></ul><strong>Required Clearance<br/><br/></strong><ul><li>Prefer a degree in Electrical/Electronic Engineering or Computer Science.</li><li>Interim secret required to start with the ability to obtain a secret clearance. Clearance process will be sponsored by SAIC.<br/><br/></li></ul><strong>Desired Skills<br/><br/></strong><ul><li>NAVAIR experience</li><li>LabWindows experience</li><li>Experience with national instruments packages</li><li>Ability to analyze current prototype system against system requirements and document deficiencies and provide recommendations</li><li>Experience with electronics sustainment (obsolescence case management/ECPs) </li><li>Experience with Failure Review Boards</li><li>Experience with MIL-STD-1553B and RS-422/485 serial communications</li><li>Analyze data for engineering investigations of critical product failures</li><li>Generate Engineering Change Proposals as needed<br/><br/></li></ul>Covid Policy SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Defense and Space Manufacturing, and Computer Hardware Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

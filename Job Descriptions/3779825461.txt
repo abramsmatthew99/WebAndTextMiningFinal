@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>MiTek is a platform innovator and enabler that exists to transform the building industry with better building solutions. In 1955, MiTek transformed residential construction with the invention of the Gang-Nail plate and a digital platform that provided an affordable and scalable way to manufacture wood trusses. Today, MiTek delivers software, services, engineered products, and automated solutions that enable the building industry to improve efficiencies by optimizing the balance between off-site and on-site. With nearly 5,600 team members worldwide, MiTek collaborates across the building industry to enable and accelerate transformational breakthroughs in design and construction to transform the way the industry designs, makes, and builds. As a Berkshire Hathaway (NYSE: BRK-A, NYSE: BRK-B) company since 2001, MiTek has a record of continuous growth and innovation. Learn more at www.mii.com.<br/><br/><strong>Summary<br/><br/></strong>We are seeking a dynamic and motivated Software Engineer to develop software to support new equipment designed by MiTek for the truss manufacturing industry. In this position, you will be part of a high-performing and collaborative team. You will be focused on the development of state-of-the-art software to control this new automated equipment and be involved in every stage of the system from concept to production. You will work closely with Electrical and Mechanical Engineers, production, Customer Service, and other administrative departments to ensure a successful product.<br/><br/><strong>Job Responsibilities &amp; Requirements<br/><br/></strong><strong>Responsibilities:<br/><br/><br/></strong><ul><li>Lead in designing, coding, testing, debugging, configuring, and documenting new software utilizing technologies for the project assigned. This typically includes: C#, Angular, TypeScript, Azure DevOps, Docker, and other development tools and languages as required</li><li>Collaborate with Product Management, Software Quality Assurance, and other development teams to ensure that solutions are efficient, consistent and fulfill business needs</li><li>Work in an Agile software development environment (using Scrum), participating in daily Scrum meetings, monthly retrospective and planning meetings</li><li>Participate in requirements reviews</li><li>Apply generally accepted programming standards and techniques to ensure efficient program logic and data manipulation</li><li>Independently design quality solutions for large features</li><li>Ability to easily jump on any MiTek automation software team and make an immediate contribution</li><li>Provide technical guidance and supervision to developers, which may include developing alternative system and software designs</li><li>Ability to apply advanced mathematical concepts such as exponents, trigonometry, quadratic equations, and permutations. Ability to apply mathematical operations to such tasks as frequency distribution, determination of test reliability and validity, analysis of variance, correlation techniques, sampling theory, and factor analysis.</li><li>Work closely with the Software Engineering Manager and Architecture team to ensure adherence to, and continued development of, architecture best practices</li><li>May interact with customers to help solve customer issues</li><li>Act as liaison with manufacturers and vendors of software and application products, especially regarding problem diagnosis and resolution</li><li>Attendance during regular work hours and overtime as required<br/><br/><br/></li></ul><strong>Requirements:<br/><br/><br/></strong><ul><li>Bachelor of Science degree in Computer Science or related field; additional, equivalent work experience may be substituted for the degree requirement</li><li>3+ years of experience as a software engineer working with C#</li><li>Strong technical background and hands-on experience in software development using modern programming languages and frameworks</li><li>Development experience with Microsoft technologies including object-oriented design using .NET</li><li>Experience working with and developing web-based applications </li><li>Knowledge of data structures and a strong understanding of object-oriented principles</li><li>Excellent verbal and written communication skills with the ability to communicate in both technical and business terms</li><li>Advanced functional or technical knowledge of complex problem-solving and process innovation<br/><br/><br/></li></ul><strong>Preferred Qualifications:<br/><br/><br/></strong><ul><li>Experience with Angular and Docker</li><li>Experience working in an Agile development environment</li><li>Experience working with HMI for automated machines</li><li>Experience Working with machine controllers, OPC UA<br/><br/><br/></li></ul><strong>MiTek Perks:<br/><br/><br/></strong><ul><li>Flexible Paid Time Off - take as much time off as you need!</li><li>All Benefits begin on Day 1!</li><li>Profit Sharing Plan and Annual Incentive Plan</li><li>13 Paid Holidays</li><li>401k Plan with Matching Contributions</li><li>A variety of Medical, Dental and Vision Plans to choose from</li><li>Short-Term Disability and Life Insurance</li><li>Tuition Reimbursement </li><li>Paid Parental Leave</li><li>Career advancement and training opportunities!<br/><br/><br/></li></ul><em>In compliance with the Equal Pay for Equal Work Act, the pay range for this position is estimated at $80k-110k/year. Base pay offered may vary based on job-related knowledge, skills, and experience. Please visit www.mii.com/about/careers/ to learn more about MiTek’s benefit opportunities.<br/><br/></em><strong>MiTek is an E-Verify and Drug and Tobacco-Free Workplace. <br/><br/></strong>We are an equal opportunity employer; and all qualified applicants will receive consideration for employment without regard to race, color, creed, religion, national origin, ethnicity, physical or mental disability, sex (including pregnancy, sexual orientation, gender identity or expression, or transgender status), age (40 and over), genetic information (including family medical history), veteran status, or any other protected characteristic.<br/><br/><strong>For accommodation to assist with completing this application, please contact Human Resources at +1 314-434-1200.<br/><br/></strong>www.mii.com
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction
+          </span>
+</li>
+</ul>
+</div>
+</section>

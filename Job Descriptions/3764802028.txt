@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you interested in working at the intersection of software engineering, AI research, and quant trading? As a Python Software Engineer at Vatic Investments, you will collaborate with a world class team to build and rapidly scale state of the art algorithmic trading systems. The nature of the problems that we work on are challenging, hence we hire some of the world's top computer scientists and researchers to develop novel AI methods and trading strategies. Our Software Engineers develop amazing code that enables their work to be rapidly tested and applied to the markets.<br/><br/>In terms of technical skills, we're a C++ and Python shop, running everything on Linux. Given the size of our team (still growing!), we will be testing for expertise in these areas, as you'll be hitting the ground running day 1. High-level understanding of AI/ML/DL are hugely beneficial for work with our research team, just as knowledge of the markets is hugely beneficial for working with our traders.<br/><br/>We're looking for the following qualifications:<br/><br/><ul><li>Bachelor's degree in Computer Science or related area</li><li>2+ years experience building high performance, distributed software in Python</li><li>Advanced knowledge of C++ and Python in a Linux environment, with an emphasis on low latency and distributed computing</li><li>Strong understanding of machine learning, statistical learning, or deep learning methods and technologies</li><li>Performance tuning/optimization of software and algorithms</li><li>Strong analytical and problem-solving skills</li><li>A passion for trading, research, and technology</li><li>Excellent communication skills</li><li>Confident team player motivated by a fast-paced environment<br/><br/></li></ul>While we are serious about our work at Vatic, we also promote a fun environment! You can expect:<br/><br/><ul><li>Ping pong and poker games</li><li>Fun Team Outings</li><li>Unlimited office snacks</li><li>Free breakfast, lunch, and dinner</li><li>Gym Membership</li><li>Full health insurance coverage for employees and dependents<br/><br/></li></ul><em>The base salary range for this role is between $175,000 and $275,000. The base salary range does not include any other form of compensation, such as any bonus amounts, or any benefits. Factors that may impact the agreed upon base salary within the range for a particular candidate include years of experience, level of education obtained, skill set, and other factors.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

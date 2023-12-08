@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Description<br/><br/></strong>Company: Lantana Consulting Group provides services and software for standards-based health information exchange. We have built our expertise through more than a decade of development and deployment of technical specifications and interoperability solutions. As a distributed company with no single brick and mortar office, Lantana can hire the best available talent and offer a flexible work schedule. We are a small, growing business on a path towards employee ownership.<br/><br/>Primary purpose: Ensure quality software delivery from requirements specification, through manual and automated testing to production release. Design and execute test plans to ensure software products meet client requirements and run without defects. Perform both manual and automated software testing. Log issues discovered during testing and collaborate with development team to resolve issues. Work with a cross-functional team to ensure agility and quality of software throughout the development lifecycle.<br/><br/><strong>A Successful Candidate Will<br/><br/></strong><ul><li>Create and execute test plans for software products and features. </li><li>Develop test scenarios from requirements to ensure maximum requirement traceability. </li><li>Develop automated tests and ensure regression coverage across software products. </li><li>Perform manual testing of software and work with development team to resolve issues. </li><li>Contribute to software builds and production deployments. </li><li>Ensure software runs well and meets client needs and requirements. </li><li>Identify and report software defects, issues, and inconsistencies using a bug tracking system, and follow up on their resolution. </li><li>Assist in creating and maintaining test data to support test scenarios for various healthcare use cases. </li><li>Demonstrate excellent communication and collaboration skills, with the ability to work effectively across cross-functional teams to bridge the gap between development and testing. </li><li>Analytical mind and problem-solving aptitude with a keen eye for detail.</li><li>Willingness to actively work on broadening/adding new skills and learn new ideas and technologies. <br/><br/></li></ul><strong>Requirements<br/><br/></strong><ul><li>Degree in computer science, information technology, or related discipline </li><li>Three (3) or more years designing, developing, and executing test strategies and test plans for software </li><li>Experience developing, executing, and maintaining automated test software </li><li>Experience in new feature testing and regression testing </li><li>Experience with test automation tools/frameworks (e.g., JMeter, Cucumber/Gherkin, Selenium, SOAP-UI, automated RESTFUL API testing, etc.) </li><li>Familiarity with Agile Scrum methodology and supporting tools (JIRA, Kanban) </li><li>Knowledgeable in database concepts (Microsoft SQL Server/Oracle) and SQL querying </li><li>Experience with Web Services/API testing using SOAP UI/Postman </li><li>Ability to work well under pressure on multiple projects in fast-paced environment </li><li>Ability to attain Public Trust Clearance <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience with healthcare related software </li><li>Knowledge of Clinical Document Architecture (CDA) or HL7 Fast Healthcare Interoperability Resource (FHIR), including the FHIR REST API </li><li>Knowledge of Enterprise JavaScript technology stack </li><li>Experience with Java and/or C#/.NET technologies </li><li>Familiarity with JSON and XML <br/><br/></li></ul><strong>Additional Job Information<br/><br/></strong><ul><li>This position is 100% work-from-home/remote apart from the annual Lantana Retreat, held as conditions allow. </li><li>Lantana is an equal opportunity employer. All qualified applicants for current openings will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or natural origin. </li><li>For this position, we are not accepting applicants outside of the United States.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

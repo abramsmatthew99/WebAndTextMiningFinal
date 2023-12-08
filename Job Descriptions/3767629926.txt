@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Job Description:<br/><br/>This is a position that uses state-of-the-art Finite Element Analysis (FEA) methods and experimental systems to study sound wave propagation in solids and fluid, and its interaction with complex microelectronic structures. As a Yield Research and Development Intern you will be responsible to develop CAD models of geometries based on the mechanical aspects of microchip designs and run simulations to improve existing non-destructive testing capabilities; you will also collaborate with Sr. Engineers to design and execute laboratory experiments to validate the simulation results.<br/><br/><strong>In This Internship, You Will Have The Opportunity To<br/><br/></strong><ul><li>Influence new non-destructive testing methods based on fundamental technical knowledge.</li><li>Bring innovation in next generation analytical tools for microchips testing by using novel modeling techniques.</li><li>Validate numerical findings with experimental data.</li><li>Deliver analytical results that will impact the quality and reliability of new microchip technology.<br/><br/><br/></li></ul><strong>Candidate Should Exhibit The Following Behavioral Traits<br/><br/></strong><ul><li>Good communications skills.</li><li>Problem solving, out-of-box thinking skills</li><li>Desire to work in a lab environment within a small team.</li><li>Desire to participate in creation of innovative solutions to challenging problems.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong>Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.<br/><br/>Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.<br/><br/><strong>Minimum Requirements<br/><br/></strong><ul><li>Must be currently enrolled in a Master's or PhD program in engineering, computer science, mechanical engineering, engineering science, physics, or related field.</li><li>1 year of experience in Finite Element Analysis (FEA) Modeling using Abacus or similar FEA tool.</li><li>1 year of experience with coding (e.g. Matlab, Phyton, C++, etc).</li><li>6 months of experience performing experiments in laboratory setting.<br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>6 months of experience with FEA simulations of ultrasound wave propagation and scattering in solids and fluids.</li><li>6 months experience with CAD software SolidWorks' or similar.</li><li>6 months of experience with Matlab coding.<br/><br/><br/></li></ul>Inside this Business Group<br/><br/>As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art -- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology Development and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth.<br/><br/>Posting Statement<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br/><br/><strong>Benefits<br/><br/></strong>We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.<br/><br/>Working Model<br/><br/>This role will require an on-site presence.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

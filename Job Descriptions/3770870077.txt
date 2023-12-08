@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>About :</strong></p><p>We are among the trailblazers in the AI landscape, recognized globally for our pioneering technology and groundbreaking solutions. At the company, we employ AI to address real-world challenges, steering the trajectory of the future. If you're enthusiastic about the forefront of AI and keen to redefine its limits, we invite you to be a part of our dynamic team.</p><p><br/></p><p><strong>Key Responsibilities:</strong></p><p><br/></p><p>Model Development and Training:</p><ul><li>Design, implement, and deploy scalable deep learning models based on state-of-the-art techniques.</li><li>Optimize models for performance and size to meet the specific requirements of diverse applications.</li></ul><p>Research and Innovation:</p><ul><li>Stay updated with the latest advancements in deep learning and integrate new techniques to enhance our solutions.</li><li>Collaborate with our research team to prototype and test new algorithms.</li></ul><p>Collaboration and Communication:</p><ul><li>Work closely with cross-functional teams, including software engineers, data scientists, and product managers.</li><li>Document and communicate findings, ensuring that knowledge is shared and processes are transparent.</li></ul><p>Model Evaluation:</p><ul><li>Design and execute experiments to evaluate the performance and robustness of models.</li><li>Continuously monitor the performance of deployed models and make necessary adjustments.</li></ul><p>Infrastructure &amp; Tooling:</p><ul><li>Develop tools and infrastructure to accelerate the training and deployment of deep learning models.</li><li>Collaborate with the engineering team to ensure that models are production-ready and can be seamlessly integrated.</li></ul><p><br/></p><p><strong>Basic Qualifications:</strong></p><ul><li>Master’s or PhD in Computer Science, Electrical Engineering, or related fields with a focus on Deep Learning.</li><li>Minimum of 3 years of hands-on experience in training deep neural networks with proven track records.</li><li>Proficiency in Python and familiarity with deep learning frameworks such as TensorFlow, PyTorch, or Keras.</li><li>Experience with cloud platforms (e.g., AWS, Google Cloud, Azure) and containerization technologies like Docker and Kubernetes.</li></ul><p><br/></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Publication records in top AI/ML conferences or journals.</li><li>Experience in deploying models in real-world, production environments.</li><li>Proficiency in optimizing models for embedded systems or edge devices.</li><li>Strong understanding of the mathematical underpinnings of deep learning algorithms.</li><li>Familiarity with reinforcement learning, generative models, or unsupervised learning techniques.</li></ul><p></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,80 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from AMD</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Patrick Harrington" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Patrick Harrington
+
+<!-- -->
+</h3>
+<!-- -->
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Patrick Harrington" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjpatrickharrington&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>WHAT YOU DO AT AMD CHANGES EVERYTHING<br/><br/></strong>We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives.<br/><br/>AMD together we advance_<br/><br/><strong>SILICON DESIGN ENGINEER 1<br/><br/></strong><strong>The Role<br/><br/></strong>As a member of the Packet Tools team, you will join a diverse and talented group dedicated to providing critical packet capture and replay support to numerous teams within the company.<br/><br/><strong>The Person<br/><br/></strong>A self-motivated, hard-working individual who is eager to learn, takes pride in their work, and thrives in a close-nit team environment.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Support low level 3D/Compute Capture/Replay Tools on Windows and Linux which are used across multiple teams throughout the company.</li><li>Design and implement new features in existing tools as well as create entirely new tools.</li><li>Develop innovative solutions to difficult problems.</li><li>Implement support for new hardware and features.</li><li>Understand the architecture of the graphics IP.</li><li>Automation of various tasks.<br/><br/><br/></li></ul><strong>Preferred Experience<br/><br/></strong><ul><li>Good low level C/C++ programming skills, such as in coding for fast execution using light weight data structures and efficient algorithms, bit manipulation, pointer, array, class, virtual function, etc.</li><li>Experienced with Linux DRI and/or Windows WDDM.</li><li>Experienced with scripting/automation using Python.</li><li>Experienced with gdb/kdb.</li><li>Good understanding of GPU hardware graphics pipeline, from vertices, textures, rasterization, to screen space pixel depth and color.</li><li>Passionate about working with low level GPU HW performance, and on analysis tools and automation.</li><li>Experience in some of these areas are preferred: 3D graphics rendering and shader algorithms, techniques such as forward and deferred rendering, anti-aliasing, culling, and performance trade-offs; exposure in graphics APIs such as Direct3D, Vulkan, OpenGL or similar, and shader programming in HLSL, GLSL, DX ASM, SPIR-V, or similar.</li><li>Experience with GPU compute (ROCm, OpenCL, CUDA, etc.) a plus.<br/><br/><br/></li></ul><strong>Academic Credentials<br/><br/></strong><ul><li>Bachelors or Masters Degree in Computer Science/Engineering or Electrical Engineering<br/><br/><br/></li></ul>At AMD, your base pay is one part of your total rewards package. Your base pay will depend on where your skills, qualifications, experience, and location fit into the hiring range for the position. You may be eligible for incentives based upon your role such as either an annual bonus or sales incentive. Many AMD employees have the opportunity to own shares of AMD stock, as well as a discount when purchasing AMD stock if voluntarily participating in AMD’s Employee Stock Purchase Plan. You’ll also be eligible for competitive benefits described in more detail here.<br/><br/><em>AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.<br/><br/></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

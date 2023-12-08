@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>REI Systems provides reliable, effective, and innovative technology solutions that advance federal, state, local, and nonprofit missions. Our technologists and consultants are passionate about solving complex challenges that impact millions of lives. We take a Mindful Modernization approach in delivering our application modernization, grants management systems, government data analytics, and advisory services. Mindful Modernization is the REI Way of delivering mission impact by aligning our government customers’ strategic objectives to measurable outcomes through people, processes, and technology.<br/><br/>Learn more at REIsystems.com. <br/><br/>Employees voted REI Systems a Washington Post Top Workplace in 2015, 2016, 2018, 2020, 2021 and 2022!<br/><br/><strong>Responsibilities<br/><br/></strong>We are seeking Full-Stack Angular/.NET Software Engineer to join our team. In this role, you will have the opportunity to work on modernization and technology transformation projects<br/><br/>that will positively impact the critical missions of our government clients and solve challenges that aim to improve millions of lives across the globe.<br/><br/><strong>Qualifications<br/><br/></strong><strong>Responsibilities</strong>:<br/><br/><ul><li> Be an integral part of a scrum team participating in the full software development lifecycle including requirements, solution design, development, QA, implementation </li><li> Develop, modernize, and make enhancements to an existing application or new enterprise microservice application </li><li> Write automated unit test cases to support test driven development (TDD) </li><li> Support verification and validation of software by supporting Quality Assurance team </li><li> Perform application and security code scans and support the remediation of scan findings </li><li> Create new or maintain existing CI/CD pipelines </li><li> Contribute to daily stand-up meetings and sprint retrospectives </li><li> Other similar professional duties maybe assigned as needed <br/><br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li> 1 to 3 years of experience in 2 or more frameworks or programming languages - Angular 2+, JavaScript, jQuery, React, or Node.js </li><li> 1 to 3 years of experience in 1 or more frameworks or programming languages such as ASP.NET Core, ASP.NET, C#,.Net Framework and Entity Framework </li><li> At least 1 years of experience with JSON, AJAX, XML\XSLT, HTTP, JavaScript/Typescript, HTML5, CSS3 </li><li> At least 1 years of experience in relational database development preferably using SQL Server 2012/Oracle or T-SQL Programming (e.g. Stored Procedures, Views, Functions, etc.) </li><li> A demonstrated understanding of Service Oriented Architectures (SOA) including RESTful Service frameworks (Web API) </li><li> Working knowledge of testing frameworks like XUnit, NUnit, Jest, JMeter Selenium or Cypress </li><li> Familiarity with working in an Agile Scrum environment </li><li> Strong analytical skills and ability to learn quickly </li><li> Bachelor’s degree in computer science, information systems, mathematics, physics, or related discipline is preferred </li><li> An advanced degree in a related field may be substituted for 3 years of experience <br/><br/><br/></li></ul><strong>Desired Qualifications:<br/><br/></strong><ul><li> Understanding of CI/CD tools like Jenkins, Sonar Qube, TFS etc. </li><li> Knowledge of section 508 compliance design principles </li><li> Experience in developing responsive websites and mobile apps </li><li> Experience using GitHub or other Git-based source control systems </li><li> Experience in one or more the following frameworks and tools: DI, Dapper, NuGet packages, logging (log4net, NLog) </li><li> Experience with gulp, webpack, or rollup is desirable <br/><br/><br/></li></ul><strong> Education: </strong> Bachelor’s degree in computer science or a related field with 3+ years of relevant experience preferred<br/><br/><strong>Clearance: </strong>US citizenship required in order to obtain a DHS Public Trust clearance<br/><br/><strong>Location/Hybrid:</strong> Position is hybrid, requiring travel to the customer's Washington, DC offices and/or Sterling, VA one day per week.<br/><br/><strong>Covid Policy Disclosure:</strong> Should the essential functions of this position require that the employee performing this role work on-site at REI’s Sterling location the following requirements will apply: the individual holding this position must be fully vaccinated, as defined in CDC guidance, as a condition of continued employment. REI will consider requests to be excused from this policy whenever necessary to comply with legal requirements and will consider any requests for reasonable accommodations due to a disability, religion, or other exemptions on an individual basis in accordance with applicable legal requirements. Employees and applicants requesting accommodations should request the accommodation in writing and should explain in detail the reasons why they are seeking an accommodation. REI will request additional information or documentation it deems necessary to inform its decision on an employee’s or applicant’s accommodation request.<br/><br/>REI Systems is an Equal Opportunity Employer (Minority/Female/Disability/Vet)
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

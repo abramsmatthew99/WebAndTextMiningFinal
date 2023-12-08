@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>When you mentor and advise multiple technical teams and move financial technologies forward, it’s a big challenge with big impact. You were made for this.<br/><br/>As a Senior Manager of Software Engineering at JPMorgan Chase within the Corporate and Investment Bank Payments Technology team, you serve in a leadership role by providing technical coaching and advisory for multiple technical teams, as well as anticipate the needs and potential dependencies of other functions within the firm. As an expert in your field, your insights influence budget and technical considerations to advance operational efficiencies and functionalities.<br/><br/><strong>Job Responsibilities<br/><br/></strong><ul><li>Manages responsibilities for diverse, highly motivated globally dispersed direct-report teams. Build effective and inclusive high performing teams</li><li>Leads from the front on defining the technology, run execution, and process improvements to achieve business objectives.</li><li>Makes decisions that influence teams’ resources, budget, tactical operations, and the execution and implementation of processes and procedures</li><li>Provides input to leadership regarding budget, approach, and technical considerations to improve operational efficiencies and functionality for the team</li><li>Creates a culture of diversity, equity, inclusion, and respect for team members and prioritizes diverse representation</li><li>Delivers technical solutions that can be leveraged across multiple businesses and domains</li><li>Provides support to peer leaders and senior stakeholders across the client, product, operations, and technology teams</li><li>Innovates and identifies opportunity areas to introduce technology, expand, enhance the technology product and create new capabilities that drive value and business objectives.</li><li>Provides support to vendor partners, conduct code reviews and ensure vendor deliverables meet JPMC standards</li><li>Communicates to client and senior management on innovation, program status, decisions, incidents, and process improvements</li><li>Defines modern engineering practices and have the ability to solve complex problems<br/><br/></li></ul><strong>Required Qualifications, Capabilities, And Skills<br/><br/></strong><ul><li>Formal training or certification on software engineering concepts and 5+ years applied experience. In addition, 2 + years of experience leading technologists to manage, anticipate and solve complex technical items within your domain expertise</li><li>Experience leading cross-functional teams of technologists across the company and with partners</li><li>Ability to guide and coach teams on approach to achieve goals aligned against a set of strategic initiatives</li><li>Experience with hiring, developing, and recognizing talent</li><li>Proven track record in delivering large, complex programs on time, budget with highest quality</li><li>In-depth knowledge of the services industry and their IT systems</li><li>Proven track record in developing software using Agile methodology</li><li>Practical cloud native and legacy technology hands on experience</li><li>Experience in Computer Science, Engineering, Mathematics, or a related field and expertise in technology disciplines<br/><br/></li></ul><strong>Preferred Qualifications, Capabilities, And Skills<br/><br/></strong><ul><li>Cloud certification</li><li>Experience working at code level and reviewing</li><li>Strong analytical and partnering skills with ability to successfully navigate in a matrix organization<br/><br/></li></ul><strong>ABOUT US<br/><br/></strong>JPMorgan Chase&amp; Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.<br/><br/>We recognize that our people are our strength and the diverse talents and perspectives that they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs. (If you are a US or Canadian applicant with a disability and wish to request an accommodation to complete the application process, please contact us by calling the<strong>Accessibility Line</strong>(US and Canada Only) 1-866-777-4690 and indicate the specifics of the assistance needed.)<br/><br/>We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.<br/><br/>JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans<br/><br/><strong>About The Team<br/><br/></strong>The Corporate&amp; Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

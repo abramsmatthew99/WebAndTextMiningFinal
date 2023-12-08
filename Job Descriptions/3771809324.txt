@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial transportation. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, and operational excellence to empower a broader, more diverse audience of drone users - from first responders to insurance claims adjusters, utilities, and more!<br/><br/><strong>About The Role<br/><br/></strong><ul><li>Technical Support:</li><ul><li>Provide technical support to end-users, troubleshooting issues related to hardware, software, and network systems</li><li>Maintain and repair IT equipment, including computers, printers, and related peripherals</li></ul><li>System Administration:</li><ul><li>Manage and maintain computer systems and servers, including Linux, Mac and Windows and Okta environments </li><li>Perform system updates, and security checks to ensure data integrity and system efficiency</li></ul><li>Network Management:</li><ul><li>Assist in the installation, configuration, and maintenance of network devices and infrastructure</li><li>Monitor network performance and troubleshoot basic networking issues, ensuring stable and efficient network operation</li></ul><li>Hardware Troubleshooting:</li><ul><li>Diagnose and resolve hardware issues in computers, servers, and other IT equipment</li><li>Coordinate with vendors for warranty and repair services when necessary</li></ul><li>Documentation and Reporting:</li><ul><li>Document processes, as well as log and track issues using IT support ticketing systems</li><li>Prepare and maintain reports on system performance, incidents, and resolutions</li></ul><li>Collaboration and Training:</li><ul><li>Collaborate with the IT team to develop and implement IT policies and best practices</li><li>Provide training and guidance to manufacturing staff on IT systems and best practices<br/></li></ul></ul><strong>What Makes You a Good Fit</strong> <br/><br/><ul><li>Strong proficiency in Linux</li><li>knowledge of Mac and Windows operating systems, including installation, configuration, and troubleshooting</li><li>Experience configuring and managing Okta SSO including:</li><ul><li>Single Sign-On (SSO), Multi-Factor Authentication (MFA), and user provisioning</li><li>Proficiency in configuring and administering Okta Identity, including user lifecycle management, group management, and policy enforcement</li><li>Implementing and maintaining role-based access control (RBAC) using Okta to manage user permissions</li><li>Knowledge of federation protocols such as SAML and OAuth, and the ability to implement federated identity solutions using Okta</li></ul><li>Minimum of 4 years of experience in an IT support or technical role</li><li>A degree in Computer Science, Information Technology, or a technical field </li><li>Relevant certifications (e.g., CompTIA A+, Okta, Network+, Linux, Microsoft Certified IT Professional) </li><li>Hardware Troubleshooting: Ability to diagnose and resolve hardware issues, including knowledge of computer components and peripherals, Linux hardware and drivers</li><li>Networking Basics: Understanding of basic networking concepts, including TCP/IP, DNS, DHCP, and basic network troubleshooting</li><li>Problem-Solving: Strong analytical and problem-solving skills with the ability to diagnose and resolve technical issues efficiently</li><li>Communication: Excellent verbal and written communication skills, capable of explaining complex technical issues in simple terms<br/><br/></li></ul>Compensation Range: The annual base salary range for this position is $100,000 - $120,000*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Skydio full-time employees are eligible to enroll in our benefit plans and take advantage of a variety of incentives and stipends.<br/><br/><ul><li>For some positions the pay may be dependent upon the individual's regional location.<br/><br/><br/></li></ul>At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture.<br/><br/>As such, we do not make hiring or other employment-related decisions on the basis of an applicant or employee’s race, color, ethnicity, national origin, citizenship, sex/gender (including pregnancy, childbirth, breastfeeding and related medical conditions), gender identity or expression, age, religion, disability status, sexual orientation, marital status, medical condition, genetic information or characteristics, veteran, military or family status, or other classifications protected by applicable federal, state or local anti-discrimination laws.<br/><br/>For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Aviation and Aerospace Component Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

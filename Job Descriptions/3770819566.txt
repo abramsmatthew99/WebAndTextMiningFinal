@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Background<br/><br/></strong>At HyAxiom we develop, manufacture and service hydrogen fuel cells and other innovative hydrogen energy solutions. As the hydrogen business pillar of Doosan Group, the oldest South Korean conglomerate operating in the global energy, manufacturing, and construction sector, we are a leading provider of stationary fuel cell solutions in some of the world’s largest and fastest-growing markets. Our products serve those who seek cleaner and more sustainable energy sources to lower their carbon footprint.<br/><br/>Our mission is to accelerate a carbon-free energy future by delivering a full spectrum of reliable and cost-effective hydrogen solutions. We seek to be at the forefront of the hydrogen revolution through the development of next-generation technologies for clean hydrogen production and clean fuel cell solutions for land and maritime transportation.<br/><br/>Come join our Team today!<br/><br/>Job Information<br/><br/>Responsible for developing, testing, and deploying state-of-the-art Machine Learning (ML)/Artificial intelligence (AI) algorithms capable of detecting a wide range of anomalies and failures on the data collected from Fuel Cell Power Plants. This role is focused on problem-resolution and continuous improvement of Doosan’s global power plant fleet, with focus on reliability and capacity, supporting the Service and Sustaining team. Attention and efforts are centered on data analytics for problematic issues, which cannot be detected and resolved via deterministic algorithms. Requires effective and ongoing multi-disciplinary collaboration and strong teamwork focus across organizational boundaries to optimize successful issue resolutions. This role has specific concentration on performance and delivery of effective ML algorithms used to monitor the fleet for early identification of anomalies leading to failures, which allows corrective actions to promote overall product success and reliability. The ideal candidate is skilled at selecting and applying appropriate data science techniques to large data set. The responsibilities include collecting data, cleaning and interpreting data, delivering insights, discovering patterns, and building machine learning models for a variety of cases, as well as communicating the results to a cross-functional team.<br/><br/><strong>Role &amp; Responsibility<br/><br/></strong><ul><li>Develop, implement, and deploy state-of-the-art machine learning algorithms for real-time analysis and quantification of diverse power plant problems and component failures.</li><li>Research solutions to overcome data analytics challenges.</li><li>Select the most suitable algorithms for the problem in question.</li><li>Review Prognostic Health Monitoring (PHM) algorithms and identify when to use statistical analysis tools and when to use ML concepts.</li><li>Utilize a variety of data science technologies and tools, both locally and in the cloud.</li><li>Learn and understand Fuel Cell Power Plants operation under the supervision of senior Systems team members.<br/><br/></li></ul><strong>Role &amp; Responsibility (continued)<br/><br/></strong><ul><li>Collect, clean and interpret data.</li><li>Evaluate ML models accuracy and eliminate “false positives”.</li><li>Interface with Software engineers to integrate ML algorithm software with real time data stream.</li><li>Provide support for insure effective execution.</li><li>Present findings and results to Field Services, Sustaining and Software teams, as well as Management.</li><li>Sharing complex ideas verbally and visually in an understandable manner with non-technical stakeholders.</li><li>Stay up to date with most recent ML developments to maintain company’s business edge.<br/><br/></li></ul><strong>Education &amp; Experience<br/><br/></strong><ul><li>Computer Science, Math, Statistics, Electrical Engineering or equivalent technical degree that provides a solid basis for analytics.</li><li>Advanced coursework in machine learning and programming.</li><li>Excellent understanding/experience with leading ML / AI methods; XGBoost, deep learning, reinforcement learning, optimization. (Proficient in writing algorithms to perform object/pattern detection/classification tasks, and knowing when to apply them)</li><li>Experience with core data science languages. (Python and its data science libraries such as Scikit-learn, Pandas, NumPy and Keras; SQL, R, etc.)</li><li>Programming experience in one or more of the following: MATLAB, Python, or C++.</li><li>Knowledge of statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.<br/><br/></li></ul><strong>Education &amp; Experience (continued)<br/><br/></strong><ul><li>Knowledge/experience of cloud-based data science solutions: AWS, Azure or GCP.</li><li>Strong analytical and problem-solving skills with an emphasis on solution design and development.</li><li>Experience working with a diverse group of technical and business-focused individuals, occasionally on a global-basis.</li><li>Excellent written and verbal communication skills for coordinating across teams.</li><li>A drive to learn and master new technologies and techniques, as well as understanding Fuel Cell Power Plant operation.<br/><br/></li></ul><strong>Other<br/><br/></strong>This position requires on-site work with the possibility of remote work.<br/><br/>All personal information will be kept confidential according to EEO guidelines.<br/><br/>Questions can be addressed through the HR department at (860) 727-2099.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Construction, Machinery Manufacturing, and Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Software Engineer, Full Stack Developer<br/><br/></strong><em>Hybrid from Washington, DC or Manassas, VA<br/><br/></em><strong>ROLE DESCRIPTION SUMMARY<br/><br/></strong>At SES, we cultivate an inclusive and healthy work environment that enables us to drive business success. As a company dedicated to Diversity &amp; Inclusion, we believe our story should reflect those of the millions we serve. We are committed to increasing the number of employees from underrepresented groups and nurturing an inclusive company culture where people can flourish.<br/><br/>As a Software Engineer, you will be involved in several areas of design, development and testing of operational software.<br/><br/>You will be responsible for <em>(this is not an exhaustive list)</em>:<br/><br/><ul><li>Develop, test, and maintain operational software for operations and monitoring of space systems</li><li>Contribute to the development of high-quality, comprehensive software designs and architectures for software systems</li><li>Support products during their full lifecycle from prototype to production to support</li><li>Ability to work within an Agile/Scrum ecosystem</li><li>Understand and enhance existing APIs and interfaces between operations systems</li><li>Participate in design reviews, test activities and review of technical documentation for software systems</li><li>Effectively communicate status of ongoing projects to technical and non-technical stakeholders</li><li>Other ad-hoc tasks, as assigned by Line Manager<br/><br/><br/><br/></li></ul><strong>Your Profile<br/></strong>Must Have<br/><br/><ul><li>Bachelor’s Degree in Computer Science, Software Engineering or Electrical Engineering</li><li>Min. 6 years of relevant work experience</li><li>Background in designing, developing, and testing software for high-reliability applications (Communication Systems, Satellite Control Software, Mission Critical Systems) </li><li>Programming in at least one of the following languages: Python, C++, Go</li><li>Familiar with SQL and NoSQL databases</li><li>Knowledge of front-end languages and libraries (JavaScript/TypeScript, jQuery)</li><li>Experience with modern web frameworks (Angular, Vue, React)</li><li>Hands on experience with current markup technologies and frameworks (HTML5, CSS3, Sass)</li><li>Knowledge or experience with CI/CD tools, preferably Azure DevOps </li><li>Understanding of cloud orchestration tools, technologies, and API standards (AWS, Azure, Google, Cloud, Kubernetes)<br/><br/><br/></li></ul>Nice to Have<br/><br/><ul><li>Domain knowledge/experience in one or more of the following areas: NGSO Satellites, Telecommunications, Data Communication, RF/Antenna Systems</li><li>Willing to travel, up to 25% of the time, including international travel</li><li>Foundation in computer science and a wide range of experience in many aspects of software development (design patterns, application development, network authentication, security systems, microservice architecture, layout technologies, browser testing and debugging, web development)</li><li>Understanding of UI/UX concepts and strong motivation to develop understanding of interactions of all the disciplines involved in space operations<br/><br/><br/></li></ul>The base salary range for this full-time position is <strong>$<strong>90</strong>,000.00-$135,000.00 + bonus + equity + benefits</strong>. Our salary ranges are determined by role, level, and location. The range displayed on this job posting reflects the target salary for new hires in Washington, DC Metro Area. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br/><br/><strong>In Addition, We Offer<br/></strong><ul><li>Hybrid working policy</li><li>Bonus and equity plans</li><li>Comprehensive and competitive benefits plans</li><li>A range of wellness activities and employee assistance programs (varies by location)<br/><br/><br/></li></ul>SES and its Affiliated Companies are committed to hiring and retaining a diverse workforce. We are an Equal Opportunity/Affirmative Action employer and will consider all qualified applicants for employment without regard to race, color, religion, gender, pregnancy, sex, sexual orientation, gender identity, national origin, age, genetic information, protected veteran status, disability, or any other basis protected by local, state, or federal law.<br/><br/>In conformity with U.S. Government technology export regulations, including the International Traffic in Arms Regulations (ITAR) and the Export Administration Regulations (EAR), and/or other applicable U.S. law, regulation or other requirements imposed by the U.S. Government, certain positions may require U.S. Citizenship, status as a lawful permanent resident of the U.S. or a “protected individual” as defined by 8 U.S.C. 1324b(a)(3), or eligibility to obtain the required authorizations from the U.S. Department of State or U.S. Department of Commerce.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Defense and Space Manufacturing, and Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Summary<br/><br/></strong>The Research Data Scientist participates in biomedical research projects using programming, data-mining, statistics, machine learning, and visualization techniques to develop, evaluate, and/or apply algorithms and software for data analysis. Responsibilities include querying databases, data processing, supervised and unsupervised machine learning, deploying production models, and communication of scientific findings via peer-reviewed publications and scientific conferences. Writes clean, performant, reusable code managed on GitHub to perform repeatable analyses and to train and deploy models to multiple environments.<br/><br/>The Research Data Scientist in the Tatonetti Lab at Cedars-Sinai will conduct research to improve drug safety by leveraging clinical and molecular data. In the Tatonetti Lab we use advanced data science methods, including artificial intelligence and machine learning, to investigate drug safety, drug-drug interactions, and cancer pharmacology. Using emerging resources, such as electronic health records (EHR) and genomics databases, we are working to advance the science of pharmacology with a focus on serving traditionally underrepresented populations.<br/><br/><strong>Primary Duties And Responsibilities<br/><br/></strong><ul><li> Assists with the development, evaluation, and/or application of computational and statistical methods including artificial intelligence and machine learning algorithms and software for the analysis of biomedical data.</li><li> Assists with the presentation and communication of scientific results through laboratory meetings, scientific conferences, and peer-reviewed publications.</li><li> Creates database-to-deployment pipelines for models using the necessary programming languages (primarily R, Python, SQL).</li><li> Creates sustainable data science infrastructure and adheres to data analysis/machine learning best practices.</li><li> Performs exploratory data analysis to gauge the need for or appropriateness of advanced analytical methods.</li><li> Works with senior or lead data scientists and principal investigators to identify areas where data science can best be applied to answer biomedical research questions.</li><li> Tests and validates code to ensure robustness of data applications with version control through GitHub.</li><li> Performs all other duties as assigned.<br/><br/></li></ul>Department-specific responsibilities<br/><br/>Participates in the development of innovative algorithms and analytical methods<br/><br/>Participates in the evaluation and interpretation of all analytical methods and results<br/><br/>Participates in the oral and written communication of scientific results including publications<br/><br/>Participates in analytical training activities for faculty, staff, and students<br/><br/><strong>Education<br/><br/></strong>Bachelor's degree in computer science, machine learning, applied mathematics, econometrics, statistics, engineering, physics, or related discipline. Master's degree preferred.<br/><br/><strong>License/Certifications<br/><br/></strong>N/A<br/><br/><strong>Experience<br/><br/></strong>2-5 years professional experience in healthcare or pharmaceutical industries working with biomedical data. Experience programming at an intermediate skill level with a high-level programming language such as R or Python. College projects may be acceptable. Experience programming at a basic to intermediate proficiency level in SQL. Experience in biomedical machine learning is preferred<br/><br/><strong>Working Title: </strong>Research Data Scientist - Tatonetti Lab<br/><br/><strong>Department: </strong>Computational BioMedicine<br/><br/><strong>Business Entity: </strong>Cedars-Sinai Medical Center<br/><br/><strong>Job Category: </strong>Information Technology<br/><br/><strong>Job Specialty: </strong>Business Intelligence/Reporting<br/><br/><strong>Position Type: </strong>Full-time<br/><br/><strong>Shift Length: </strong>8 hour shift<br/><br/><strong>Shift Type: </strong>Day<br/><br/><strong>Base Pay:</strong>$94,800.00 - $161,000.00
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Research Services, and Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

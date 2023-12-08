@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>The SQL Developer will ensure the stability, integrity &amp; efficient operation of new &amp; legacy SQL data, jobs &amp; scripts used by the Application Development &amp; Infrastructure Support teams. The successful candidate will leverage, develop &amp; strengthen their SQL Server experience as teams continue to bring new applications online and modernize legacy ones.<br/><br/><strong>Responsibilities<br/><br/></strong>Provide technical expertise in the design, development, implementation &amp; support of Microsoft SQL Server objects &amp; scripts<br/><br/><ul><li>Deliver &amp; maintain SQL Server-based solutions for project teams</li><li>Make modifications &amp; enhancements to existing applications for error correction, breaking changes (updates) and to improve overall function &amp; performance</li><li>Plan, coordinate &amp; manage migration of legacy SQL Server data objects</li><li>Oversee SQL Server support, monitoring &amp; scheduling for enterprise</li><li>Develop a good working relationship with a wide range of stakeholders to support the design &amp; implementation of new solutions that leverage SQL Server objects</li><li>Interpret business requirements to design, build &amp; test processes that ensure high quality data &amp; optimal system performance</li><li>Independently research &amp; make recommendations for improvements to enhance methodology, capability, ease-of-use &amp; efficiency</li><li>Participate &amp; provide support to Enterprise architecture design &amp; roadmap</li><li>Help our over 7,000 associates &amp; 300 locations serve our customers in the best way possible, by supporting them &amp; the technology they use in store – come make an impact!</li><li>Coordinate projects with managers &amp; IT Teams</li><li>Collaborate with peers and work on multiple projects in a dynamic &amp; fast-paced environment<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Bachelor’s Degree in Computer Science (or related field) or equivalent experience</li><li>3+ years’ experience analyzing &amp; developing in SQL (e.g. queries, stored procedures)</li><li>1+ years’ experience working with and developing in .NET languages (C#, VB)</li><li>Experience w/standard Microsoft SQL Server operations (e.g. design schema, create relational databases &amp; tables, modify &amp; run stored procedures)</li><li>Skilled at analyzing existing SQL Server objects (e.g. SQL queries, stored procedures, DTS/SSIS scripts, scheduled jobs)</li><li>Experience with Microsoft Windows scripting languages (VB script, PowerShell)</li><li>Familiarity with software development concepts (e.g. architecture, refactoring, migrations)</li><li>Full software development lifecycle (SDLC) &amp; change management experience</li><li>Experience creating technical documentation (SOW &amp; use cases)</li><li>Strong analytical, prioritizing, interpersonal &amp; problem-solving skills</li><li>Strong verbal &amp; written communication skills</li><li>Demonstrated collaborative skills and ability to work well within a team</li><li>Enthusiastic to learn new technologies required for project requirements</li><li>Ability to work in a fast-paced &amp; deadline-oriented environment</li><li>Self-motivated with critical attention to detail, deadlines &amp; reporting</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wholesale Building Materials
+          </span>
+</li>
+</ul>
+</div>
+</section>

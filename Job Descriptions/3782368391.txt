@@ -1,0 +1,84 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Mothership</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Ashley Worline" class="inline-block relative rounded-[50%] w-6 h-6" data-delayed-url="https://media.licdn.com/dms/image/C4E03AQHX4Z4XY2kd9w/profile-displayphoto-shrink_100_100/0/1629650700740?e=2147483647&amp;v=beta&amp;t=V7Mkwyd4Bfx4GXhSSFk1DCsX_aNlq4vqz5R0GwNfiBQ" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Ashley Worline
+
+<!-- -->
+</h3>
+<h4 class="base-main-card__subtitle body-text text-color-text overflow-hidden">
+              
+        Community and Operations @ Mothership 🚀 Passionate about helping disruptive and innovative brands scale.
+      
+            </h4>
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Ashley Worline" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fashleyworline&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Mothership is thrilled to collaborate with our esteemed client, a worldwide financial conglomerate, in their search for <strong>Software Quality/Test Analyst</strong>. This is a W2 contract on a full time basis (40 hours a week) for a duration of 6 months. Work will be performed hybrid from the Tampa, Florida office (Tue-Thurs). Candidate must be legally authorized to work in USA without sponsorship. Some travel may be involved.</p><p><br/></p><p>Description:</p><p><br/></p><p>Responsible for Functional, Regression Testing, Integration Testing of software Applications. Accountable for designing Test plans, Test Scenario, Creation, and execution of test cases and obtaining necessary approvals. Developing and maintaining test scripts, analyzing bugs, and interacting with development team members to resolve defects. Experience in Client/Server and Web Applications Testing.</p><p><br/></p><p>Illustrative Duties and Responsibilities:</p><p><br/></p><p>- In-depth experience in writing detailed and accurate test cases, test scripts, and test results.</p><p>- Identifying impacts of new functionalities and making automation enhancements.</p><p>- Documenting and tracking defects to closure.</p><p>- Collaborating with different teams to understand automation needs and implementing the same.</p><p><br/></p><p>Development Methodology: Agile/Scrum</p><p>Technical Environment: Win 10, Office 2016 and above, SQL Express 2016, C#, Azure.</p><p>Technologies:</p><p><br/></p><p>- Application Development Tool – Visual Studio 2015 / 2017</p><p>- Web Server – Internet Information Server</p><p>- Web Standards – HTML 5, CSS 3</p><p>- Automated Unit Test Methods (C#) – QUNIT, MOQ</p><p>- Automated Unit Test Methods (UI) – Selenium, Karma / Jasmine</p><p>- Source Code Management (Integration and Deployment) – Visual Studio Team System</p><p>- Authentication Platform – Azure AD</p><p>- Prefer Bachelors/Masters Degree in Engineering/Computer Science, MIS, or equivalent experience.</p><p>- Minimum of 5 - 10 years of applications development experience in a fast-paced web project leveraging above-mentioned technologies.</p><p>- Understanding of methodologies and delivery of business software solutions with experience in the various SDLC methodologies and working with a DevOps mindset.</p><p>- 5 - 10 years’ experience as a Software Quality Engineer/Test Engineer/Test Analyst.</p><p>- Extensive experience performing hands-on testing (both script-based and exploratory).</p><p>- Experience in testing Microsoft platform upgrades – platform compatibility testing.</p><p>- Experience with SQL and data retrieval from a relational database is a plus.</p><p>- Strong working knowledge of VSTS, Basic knowledge on MTM (Microsoft Test Management Tool).</p><p>- Very good understanding of various SDLC processes, including agile development and testing.</p><p>- Self-motivated and able to take ownership of assigned work.</p><p>- Knowledge in automation tools such as Selenium with C#; API testing using Postman\Fiddler is desired.</p><p>- Knowledge of Azure PAAS is desired.</p><p><br/></p><p><strong>Must-have</strong> Requirements (Integrated):</p><p><br/></p><p>- Sr. QA Level Experience and Automation.</p><p>- Hands-on experience testing with databases and stored procedures.</p><p>- Capable of working with APIs and testing web services from the backend jobs.</p><p>- Skills in using coding standards and actively participating in code reviews.</p><p>- Ability to identify impacts and maintain coverage for core business flows.</p><p>- Capability to plan and define approaches to test systems end-to-end.</p><p>- Understanding technology defined in architecture and design and relating it to business and functional requirements.</p><p>- Good knowledge of programming concepts.</p><p><br/></p><p><em>Mothership is an equal opportunity employer and embraces diversity at our core. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Consulting, Information Technology, and Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services, Business Consulting and Services, and Accounting
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Eastridge Workforce Solutions is looking for a <strong>Sr. Embedded Software Engineer</strong> for an American electric vehicle company with a mission to inspire the adoption of sustainable energy by creating the most captivating luxury electric vehicles. For immediate consideration, apply today.<br/><br/><strong>What you'll do:<br/><br/></strong><ul><li>Design and develop complex platform software (low-level and middleware) for powertrain electronic control units, from prototype to production</li><li>Use your AUTOSAR expertise to define and drive the implementation of the AUTOSAR architecture for electronic control units</li><li>Guide other software engineers on the Platform Software team on the subject of AUTOSAR</li><li>Be responsible for the development of highly reliable and critical electric vehicle components</li><li>Provide design, development, and debug support for integrating individual functions into the control unit</li><li>Ensure optimization of platform software through design reviews and code reviews</li><li>Develop a design and/or product validation test program to ensure the robustness of the design<br/><br/><br/></li></ul><strong>YourSkills and Experience:<br/><br/></strong><ul><li>BS minimum in the areas of Computer Science, Computer engineering, Electrical engineering or other related fields MS preferred</li><li>Proficiency in one of the programming languages C/C++</li><li>A proven track record of developing and delivering AUTOSAR-compliant software for embedded devices or controllers</li><li>Knowledge of the AUTOSAR stack and familiarity with an AUTOSAR configuration tool</li><li>Experience in reading schematics and data sheets</li><li>Hands-on experience with on-chip debugging tools and troubleshooting both software and hardware</li><li>Experience with board bring-up</li><li>Experience with scripting tools and methods to optimize SW development and testing activities<br/><br/><br/></li></ul><strong>Benefits</strong>: Use this link bit.ly/2023-Benefits to learn more about benefits available to Eastridge’s temporary employees.From time to time Eastridge’s clients may offer additional benefits to Eastridge employees while on assignment.Information about those benefits will be communicated when applicable.<br/><br/>Eastridge Workforce Solutions is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. We celebrate diversity and are committed to creating an inclusive environment for all employees. Please note that Eastridge is unable to provide visa sponsorship to applicants.<br/><br/>We value diverse experiences, including prior contact with the criminal legal system, and applicants with criminal histories are encouraged to apply.Certain clients require Eastridge to perform background checks and Eastridge will consider qualified applicants with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.<br/><br/>#IPROPLUS<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

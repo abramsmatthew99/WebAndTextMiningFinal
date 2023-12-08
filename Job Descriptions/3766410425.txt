@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Job Duties: Associate with Goldman Sachs &amp; Co. LLC in Dallas, Texas. Assist in defining and executing the internal audit plans, including continuous monitoring, and risk assessment. Assist in driving discussions with senior business stakeholders to understand risk drivers, control state, and impact in order to formulate a point of view of the control environment. Assist in defining audit scope, design control testing steps to evaluate the adequacy of the control designs and operating effectiveness. Design and execute tests to validate identified application system controls, which may require data analysis, code inspection and re-performance of system processes. Analyze the design of controls around the underlying system architecture in the context of information technology controls such as security, availability and performance and their impact on the business. Analyze the business and technology processes to evaluate the effectiveness of the relevant technology controls. Validate that system features meet business, technology and regulatory requirements. Validate the quality of internal SOX assessments. Coordinate with auditors within the team and around the globe on multi-region audits to ensure timely and effective completion. Assisting with report preparation by drafting commercially effective audit reports, including writing clear and concise findings and recommendations. Assist in presenting the scope, progress and results of the review to internal audit management, technology and business stakeholders and assisting with negotiating finalization of issues with senior client management. Evaluate management action plans to address control deficiencies. Participate in department-wide initiatives aimed at continually improving internal audit processes and supporting infrastructure. Analyze data by applying various data analysis techniques and data mining to derive conclusions and make business decisions to drive projects. Collaborate with application developers, system architects, engineers, and security practitioners to audit applications and systems.<br/><br/>Job Requirements: Master’s degree OR Bachelor’s degree (U.S. or foreign equivalent) in Information Systems, Computer Science, Computer and Information Science, Engineering, or a related field. Three (3) years of experience in the job offered or in a related role with a Master’s degree OR five (5) years of experience in the job offered or in a related role with a Bachelor’s degree. Must have three (3) years of experience with a Master’s degree OR five (5) years with a Bachelor’s degree with: Linux and Windows operating systems, including batch scripting and executing standard commands; applying analytical and data analysis skills such as, SQL, Aqua DB Studio or similar tools; data analytics, data mining and database concepts and developing scripts to facilitate resolving complex audit scenarios; conducting or analyzing vulnerability assessments, penetration testing methodologies, and processes for web, thick client, and mobile applications; systems and security administration and configuration of servers and desktops including experience with UNIX, Windows, and directory services; cloud computing concepts, technologies, risks and mitigating controls; encryption schemes such as symmetric, asymmetric, and hashing, and how they may be applied in application architecture; threat modelling, intelligence, and incident response; conducting technology risk assessments, Technology Audits, and Information Security risk assessments; and object oriented programming languages, such as Java, C++ or scripting languages such as Python.<br/><br/>©The Goldman Sachs Group, Inc., 2023. All rights reserved. Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Veteran/Sexual Orientation/Gender Identity.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

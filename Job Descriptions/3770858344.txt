@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Provide full life cycle development with JAVA<br/><br/><ul><li> Understand coding standards and implement them within code being developed.<br/><br/><br/></li></ul>Ability to troubleshoot problems and provide solutions.<br/><br/>Ability to communicate with the users to determine problems or design requirements.<br/><br/>Ability to work on a team to complete programming projects in a timely manner.<br/><br/>Ability to document changes and follow the Systems Development Life Cycle process independently.<br/><br/>Ability to multitask and prioritize tasks.<br/><br/>Other duties as assigned by the Manager of Application Development.<br/><br/>Experience in JAVA programming, and programming in a Tomcat environment.<br/><br/>Knowledge of : JAVA, J2EE, JDBC, SQL, ANT, HTML, JavaScript, Bootstrap and jQuery.<br/><br/>Experience working with RESTful web services, JSON, and XML is desired.<br/><br/>Strong written and verbal communication skills with the ability to communicate with both the business community and the technical community.<br/><br/>Strong analytical skills, self-motivation, and attention to detail.<br/><br/>Good organizational and time management skills.<br/><br/>Experience in building, testing, and distributing iOS and Android applications is desired.<br/><br/>High School diploma or equivalent.<br/><br/>BS or BA in Computer Science or related field
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

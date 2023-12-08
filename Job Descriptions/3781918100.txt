@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>The University of Maryland Medical System is a 14-hospital system with academic, community and specialty medical services reaching every part of Maryland and beyond. UMMS is a national and regional referral center for trauma, cancer care, Neurocare, cardiac care, women’s and children’s health and physical rehabilitation. UMMS is the fourth largest private employer in the Baltimore metropolitan area and one of the top 20 employers in the state of Maryland. No organization will give you the clinical variety, the support, or the opportunities for professional growth that you’ll enjoy as a member of our team.<br/><br/><strong>Job Description<br/><br/></strong>This is a full-time in office/onsite position.<br/><br/>Responsible for design and implementation of integration between various healthcare technologies and applications. Bring experience in arrays of healthcare technologies, including industry standard Electronic Health Record (EHR) software and development of web and mobile applications to a high-performance innovation team. Create and develop custom applications to solve complex problems while considering sources of data input, user and technology interfaces, workflow and quality-driven outcomes. Ensures successful transition by preparing detailed specifications from which programs can be sustained. Responsible for programming custom applications from design phase through implementation, and creation of a collaborative successful support structure.<br/><br/><strong>Qualifications<br/><br/></strong><strong>Education and Experience<br/><br/></strong><ul><li>Bachelor's Degree in Computer Science or a related discipline. Masters in related field preferred.</li><li>Seven years experience with progressive responsibility in information systems, including five years programming or systems analysis in web and/or mobile application development.</li><li>Previous experience in leading project/teams preferred.</li><li>Epic Certification or proficiency in Chronicles Programmer</li><li>Epic Certification or proficiency in Epic Applications such as: ASAP, Inpatient Orders, Clindoc, Ambulatory<br/><br/><br/></li></ul><strong>Knowledge, Skills And Abilities<br/><br/></strong><ul><li>Demonstrated ability to develop applications leveraging the technology and platforms listed in the principal responsibility section including: Expert Chronicles (M-Code_programmer, Expert Epic application programmer, REST, SOAP, FHIR, HL7, PHP, Java, JavaScript, Ruby, SQL. Must have working knowledge of object oriented programming techniques and able to write clean, serviceable code.</li><li>High level of proficiency in ability to problem-solve, including assessing user needs and determining appropriate systems applications or requirements. Serves as a resource to others in the resolution of complex problems and issues.</li><li>Knowledge of user relations, data gathering techniques, and management information systems.</li><li>Effective verbal and written communication skills are necessary to advise and consult with user personnel and make formal presentations of project findings and recommendations.</li><li>Ability to understand and adhere to systems security and control procedures in accordance with departmental, vendor standards and regulatory bodies. Supervise, teach and monitor compliance.</li><li>Excellent organization skills; demonstrates confidence and creativity.<br/><br/><br/></li></ul><strong>Additional Information<br/><br/></strong>All your information will be kept confidential according to EEO guidelines.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Hospitals and Health Care
+          </span>
+</li>
+</ul>
+</div>
+</section>

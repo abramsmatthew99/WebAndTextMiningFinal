@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Details<br/><br/></strong><strong>Engineer/Analyst Job Description<br/><br/></strong>Passionate about engineering or software development? Interested in working in a state with beautiful weather, and no state income tax? Then come join us in sunny Florida! Applied Research Associates, Inc (ARA), a 100% employee-owned company, is looking for the right person to join our team. Our office at Eglin AFB, FL is located along Florida’s beautiful Emerald Coast.<br/><br/>For this position, ARA (Emerald Coast Division) needs a person that can perform software testing of 3D modeling &amp; simulation applications, as well as performing analysis using these software applications. Therefore, the ideal candidate will be a software developer with a math, physics or engineering background, or an engineer/scientist with coding skills. Applicants should possess a strong math background, and a working knowledge software programming concepts using C++ in an object-oriented architecture as well as a working knowledge of Visual Studio. Applicants should also have good communication skills. This person should also be willing to take on a project management or team lead role. Proposal writing is critical to the work we do. This position will be required to participate in that process, so good writing skills are important.<br/><br/>We interface with our customers daily, so we are looking for someone with a positive attitude that is flexible, and capable of working in a team environment. Candidates should also be able to analyze a problem, and a derive a solution independently.<br/><br/><strong>ARA Offers An Excellent Benefits Package That Includes<br/><br/></strong><ul><li>401-K Retirement (both Traditional and Roth) with employer matching</li><li>Employee Stock Ownership Plan</li><li>Various insurance options including Flexible Spending Plan and a Health Savings Account (HSA)</li><li>Paid leave and holidays.<br/><br/></li></ul><strong>Engineer/Analyst Qualifications<br/><br/></strong><ul><li>Bachelor’s or better in Computer Science, Engineering Physics, or related field.</li><li>2-4 Years: Relevant Work Experience</li><li>US Citizen, eligible to receive and maintain DoD Security Clearance<br/><br/></li></ul><strong>Engineer/Analyst Required Skills<br/><br/></strong><ul><li>Knowledge of software constructs and programming concepts</li><li>Ability to engage people from multiple disciplines to develop solutions to unique technical problems.</li><li>Ability to both independently, and in a team environment</li><li>C++, object-oriented experience preferred.</li><li>Experience with software versioning such as GIT or experience with Agile work flows a plus.</li><li>Microsoft Office products.<br/><br/></li></ul><strong>Additional Consideration For<br/><br/></strong><ul><li>Scripting languages such as Python and Lua</li><li>Working knowledge of Visual Studio, Cmake, and version control systems such as Git</li><li>Familiarity with graphing and data visualization software such as R, DPlot, Paraview.<br/><br/></li></ul><strong>Company Details<br/><br/></strong>Applied Research Associates, Inc. (ARA) is an employee-owned international research and engineering company known for providing technically superior solutions to complex and challenging problems in the physical sciences. We were founded in Albuquerque, NM in 1979 as the disco era was, thankfully, closing out and the personal computer era was beginning. We employ over 1,500 professionals and continue to grow. ARA offices throughout the U.S. and Canada provide a broad range of technical expertise in defense, civil, and health technologies, computer software, and simulation, systems analysis, environmental technologies, and testing and measurement.<br/><br/>ARA takes pride in having a challenging culture where innovation &amp; experimentation are the norm. At ARA, employees are our greatest assets, so we give our employees the tools, training, and opportunities to take active roles as owners. The motto, “Engineering and Science for Fun and Profit” sums up the ARA experience. The company realizes employee ownership spawn’s greater creativity and initiative along with higher performance and customer satisfaction levels.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing, Software Development, and Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

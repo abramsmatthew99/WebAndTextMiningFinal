@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Position Summary...<br/><br/>What you'll do...<br/><br/>As a Senior Software Engineer of Mainframe and more, you will be working with the Benefits Tech team to deliver Benefits business team needs. This team delivers system approaches to Benefits provided by the company, such as medical, dental, vision, 401k, etc.<br/><br/><strong>About Team<br/><br/></strong>The Enterprise People Technology team supports the successful deployment and adoption of new People technology across the enterprise. As a Fortune #1 company, our work impacts millions of associates globally. We strive to continuously improve people technology and products to help managers and associates so they can focus on what matters most - supporting our customers and members. People Technology is one of the major segments of Walmart Global Tech's Enterprise Business Services, which is invested in building a compact, robust organization that includes service operations and technology solutions for Finance, People, and the Associate Digital Experience.<br/><br/><strong>What You'll Do<br/><br/></strong><ul><li>Explore relevant products/solutions from an existing repertoire, that can address business/technical needs</li><li>Assess gaps/ updates/ modifications between the customer/business expectations and the existing product/solutions (in case of agile methodology, for the iteration)</li><li>Classify the requirements into applicable types (For example - Functional/Non-Functional, Derived/Imposed/Emergent etc.)</li><li>Anticipate the solution risks / issues during requirements gathering phase, inform relevant stakeholders and recommend corrective steps</li><li>Contribute to the creation of user stories for component/application/complex (For agile methodology)</li><li>Create/configure minimalistic code for entire component/application and ensure the components are meeting business/technical requirements, non-functional requirements, low-maintainability, high-availability and high-scalability needs</li><li>Assist in the selection of appropriate languages (E.g. JavaScript, Python, C# etc.), development standards and tools (E.g. Monday.com, Linx, Embold etc.)for software coding/configuration</li><li>Take initiative to learn the fundamentals of different coding languages and frameworks that would be useful for future scope of work</li><li>Build scripts for automation of repetitive and routine tasks in CI/CD (Continuous Integration/Continuous Delivery), Testing or any other process(as applicable)</li><li>Implement telemetry features as required independently</li><li>Ensure security policy requirements are properly applied to components/application during code development/configuration.</li><li>Identify and create test cases for the task/story</li><li>Map test cases to business and functional requirements</li><li>Comprehend different types of testing and testing tools and can execute them under guidance</li><li>Execute test cases to test the code and detect errors and defects for the component/module under guidance<br/><br/></li></ul><strong>What You'll Bring<br/><br/></strong><ul><li>7+ years of experience</li><li>Extensive experience with mainframe frameworks such as COBOL, JCL, query languages.</li><li>Additional experience preferred in microservices based applications using Java, Spring MVC, Hibernate, Spring Boot, Spring Data, Spring Actuator and Swagger.</li><li>Experience in leading projects and mentoring more junior engineers.</li><li>Experience writing technical design documents to communicate implementation plans.</li><li>Work on databases such as DB2, AzureSQL and PostgreSQL. Develop procedures, functions and queries required for data management.<br/><br/></li></ul><strong>About Walmart Global Tech<br/><br/></strong>Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.<br/><br/><strong>Flexible, Hybrid Work<br/><br/></strong>We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.<br/><br/><strong>Benefits<br/><br/></strong>Benefits: Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.<br/><br/><strong>Equal Opportunity Employer<br/><br/></strong>Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.<br/><br/>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process<br/><br/><strong>Minimum Qualifications...<br/><br/></strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.<br/><br/>Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 3 years' experience in software engineering or related area.Option 2: 5 years' experience in software engineering or related area.<br/><br/><strong>Preferred Qualifications...<br/><br/></strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.<br/><br/>Master's degree in Computer Science, Computer Engineering, Computer Information Systems, Software Engineering, or related area and 1 year's experience in software engineering or related area.<br/><br/>Primary Location...<br/><br/>702 SW 8TH ST, BENTONVILLE, AR 72716, United States of America
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Retail
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a talented Senior Software Engineer (SSE) to join our dynamic team, supporting a pivotal IT program based in the Greater DC Area. In this role, you will play a key part in mapping, documenting, and analyzing our customer's current applications, contributing to the modernization of their architectural environment. This is a remote position with the flexibility to work from anywhere, but occasional on-site presence in Washington, DC may be required during surge periods (excluding regular travel).<br/><br/>As a Senior Software Engineer, you will have the exciting opportunity to work on diverse projects, from legacy application and data migration to cutting-edge technologies like ServiceNow and Salesforce applications. You will provide ongoing software development and consulting services, ensuring the seamless development, maintenance, customization, distribution, and management of system configurations. In addition, your role will involve emergency response and testing, along with the creation of user and technical documentation.<br/><br/><strong>Primary Responsibilities<br/><br/></strong>Map and document existing applications and workflows, facilitating the transition to modern technologies.<br/><br/>Offer continuous software development and consulting services to our valued customers.<br/><br/>Develop, maintain, customize, distribute, and manage system configurations.<br/><br/>Provide emergency response and testing support.<br/><br/>Generate user and technical documentation for effective communication.<br/><br/><strong>Required Education, Experience &amp; Other<br/><br/></strong>Bachelor's degree in computer science, software engineering, or a related field, with 8+ years of relevant experience. Additional experience may be considered in lieu of a degree.<br/><br/>U.S. Citizen.<br/><br/>Ability to work independently and collaboratively within a team environment.<br/><br/>Proficiency in Oracle DBA, Oracle 19c, Oracle Application Express, JavaScript, and Adobe Fillable Dynamic Form using Adobe Experience Manager.<br/><br/>Experience in 508 QC testing using JAWs and other 508 tools.<br/><br/>Strong SQL and PL-SQL skills.<br/><br/>Excellent communication, problem-solving, and interpersonal skills.<br/><br/>Ability to align internal and external stakeholders to achieve agency goals.<br/><br/>In-depth knowledge and experience in designing, developing, and implementing enterprise-level solutions with software development tools.<br/><br/>Senior-level experience with XML/Oracle DB bi-directional transformations, scripted data validation, and PL/SQL-based DB triggers, functions, and packaged procedures.<br/><br/>This is a unique opportunity to work on impactful projects, contribute to the growth of our team, and build lasting customer relationships. Join us in shaping the future of software engineering!<br/><br/>Note: Remote work is available for this position.<br/><br/>Employment Type: Full-Time
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Human Resources Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

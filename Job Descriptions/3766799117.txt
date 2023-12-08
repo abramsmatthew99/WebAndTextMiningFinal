@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Are you a student software developer looking to improve your skills and work with a software development company? Do you thrive in an environment where you can learn hands-on?<br/><br/>LCS is seeking <strong>C# Software Development Co-Ops</strong> to join our team of developers. You’ll be on the cutting edge of technology as you play a pivotal role in the writing and design of website and desktop applications. Plus, you will learn invaluable lessons from being part of an award-winning team!<br/><br/>If you’re looking for a fulfilling software development internship opportunity, then apply today!<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Participate in web application development (including GUI design). </li><li>Produce efficient, clean, and well-commented code. </li><li>Analyze, design, test, and implement applications and databases. </li><li>Work closely with other teams, developers, and Senior Management to build new software features and applications. </li><li>Work with all User Interface, Application, and Database-related issues. <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Experience with Object Oriented programming language (C# preferred)</li><li>Competency in developing modules independently</li><li>Excellent verbal and written communication skills</li><li>Ability to evaluate complex problems and arrive at a resolution</li><li>Ability to manage multiple projects simultaneously</li><li>Ability to thrive in a fast-paced environment</li><li>Web application experience</li><li>SQL/database experience</li><li>Excellent interface design skills</li><li>Experience with both web and desktop applications</li><li>Experience with the full software development life cycle (SDLC)</li><li>Experience with WPF</li><li>Strong back-end development skills</li><li>Ability to explain complex technical information in simple language</li><li>Understanding of basic accounting concepts<br/><br/></li></ul><strong>About LCS<br/><br/></strong>London Computer Systems (LCS), based in Cincinnati, Ohio, provides businesses with critical software and technology solutions. Since 2012, LCS has been consistently recognized as a Top Workplace with a supportive culture that fosters collaboration and authenticity. We also love having fun—from on-site food trucks and game rooms to trivia and sports teams, there are plenty of ways we make the workday exciting. Our high-tech office is designed to support many working styles, with hybrid work schedule options available.<br/><br/>Candidates must live in the Greater Cincinnati area or be willing to relocate.<br/><br/>LCS is an Equal Opportunity Employer<br/><br/>Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.<br/><br/><ul><li>Email communications from LCS may appear in Junk, Spam, or Promotions (Gmail) email folders. We recommend checking all email folders while communicating with us.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

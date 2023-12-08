@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Schneider Electric has an opportunity for a <strong>Summer 2024 Software Engineer Intern </strong>in<strong> Andover, MA</strong>.Our Digital Services and Software team is building upon our leading Data Center Infrastructure Management (DCIM) solution by leveraging the Internet of Things. Our teams in Andover, MA are responsible for bringing together power &amp; cooling infrastructure within the data center into a cloud-based monitoring and management solution. This application, EcoStruxure IT Expert, is changing the way that Data Centers and Edge environments are managed by providing actionable insights that give data center managers back more time in their day, improve energy efficiency, and minimize application downtime. More details about our product and strategy can be found on ecostruxureit.com<br/><br/>Solving customer problems that address real pain points is the focus of what we do within engineering. Doing so typically requires a combination of front-end and back-end development to build a working solution. This position is for a software engineering intern within a stream-aligned team building EcoStruxure IT features that address customers’ reporting and device management needs. If building your skills while working on a team defining and building the future of our market leading software sounds interesting to you, then please consider this role.<br/><br/><strong>What will you do? <br/><br/></strong><ul><li>Participate in planning meetings, developer documentation, and other aspects of the software development lifecycle.</li><li>Write automated tests and perform manual testing under the direction of more senior engineers.</li><li>Fix software defects.</li><li>Write quality code under the direction of more senior engineers.<br/><br/></li></ul><strong>What qualifications will make you successful? <br/><br/></strong><ul><li>Pursuing a degree in computer science or related field.</li><li>A strong technical aptitude.</li><li>Experience coding in one or more languages (preferably Java)</li><li>Demonstrated ability to problem solve and write quality code on past projects.</li><li>Demonstrated understanding of computer science fundamentals (data structures, algorithms, etc.)</li><li>Ability to review unfamiliar code, recognize problems, and suggest solutions.<br/><br/></li></ul><strong>Preferred Experience with one or more of the following:<br/><br/></strong><ul><li>Experience with Git, Junit5, TestNG, Jenkins.</li><li>Experience with cloud technologies (Docker, Azure, Elastic, Databricks, Kibana, Kubernetes, ArgoCD).</li><li>Familiarity with software development best practices including Agile, CI/CD, and Lean.</li><li>Experience with Java frameworks and libraries (Java, Spring, Spring Boot, Spring JPA, Hibernate, PostgreSQL, REST, Maven).<br/><br/></li></ul><strong>What's in it for me? <br/><br/></strong><ul><li>(add additional benefits specific to job here)<br/><br/></li></ul><strong>Who will you report to?<br/><br/></strong><strong>Let us learn about you! Apply today.<br/><br/></strong><strong>Why us?<br/><br/></strong>Schneider Electric is leading the digital transformation of energy management and automation. Our technologies enable the world to use energy in a safe, efficient and sustainable manner. We strive to promote a global economy that is both ecologically viable and highly productive.<br/><br/>€34bn global revenue<br/><br/>128 000+ employees in 100+ countries<br/><br/>45% of revenue from IoT<br/><br/>5% of revenue devoted for R&amp;D<br/><br/>You must submit an online application to be considered for any position with us. This position will be posted until filled<br/><br/>It is the policy of Schneider Electric to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct. Concerning agencies: Schneider Electric does not accept unsolicited resumes and will not be responsible for fees related to such.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Temporary
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Automation Machinery Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

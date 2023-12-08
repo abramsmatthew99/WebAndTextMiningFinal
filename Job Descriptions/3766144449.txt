@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>**Job Title: Senior Engineering Manager - GenAI**</p><p><br/></p><p>**Overview:**</p><p>My Client is an emerging force in the tech industry, poised for rapid growth and innovation. We are actively seeking a visionary leader to join our team as the Director of Generative AI, NLP, and Large Language Models. This role is pivotal in steering our AI strategy, infusing creativity into our products, and ensuring the successful integration of cutting-edge technologies.</p><p><br/></p><p>**Responsibilities:**</p><p><br/></p><p>1. **Strategic Leadership:**</p><p> - Develop and articulate a strategic vision for the integration of Generative AI, NLP, and LLM within My Client's products and services.</p><p> - Lead the research and development efforts, aligning AI initiatives with the unique needs and goals of My Client.</p><p><br/></p><p>2. **Team Management:**</p><p> - Build and lead a high-impact team of AI engineers, researchers, and developers, fostering a culture of collaboration and innovation.</p><p> - Provide mentorship to team members, aligning their efforts with My Client's values and objectives.</p><p><br/></p><p>3. **Technology Integration:**</p><p> - Collaborate with cross-functional teams to seamlessly integrate Generative AI, NLP, and LLM technologies into our products, ensuring they resonate with My Client's customers.</p><p> - Oversee the development and deployment of AI models, optimizing for performance and scalability tailored to My Client's requirements.</p><p><br/></p><p>4. **Research and Development:**</p><p> - Drive research initiatives that align with the strategic goals of My Client, contributing to our unique offerings in the tech industry.</p><p> - Work closely with the research team to experiment with and implement state-of-the-art algorithms and models tailored to My Client's applications.</p><p><br/></p><p>5. **Product Innovation:**</p><p> - Collaborate with product managers to understand market trends and customer needs, translating them into innovative AI-driven solutions that differentiate My Client in the tech industry.</p><p> - Lead the development of new features and products that leverage Generative AI, NLP, and LLM to elevate My Client's position as an industry leader.</p><p><br/></p><p>6. **Quality Assurance:**</p><p> - Establish and enforce best practices for quality assurance and testing of AI models, ensuring robust and reliable performance tailored to My Client's standards.</p><p> - Implement monitoring and feedback loops to continuously improve model accuracy and user experience in alignment with My Client's quality benchmarks.</p><p><br/></p><p>**Qualifications:**</p><p><br/></p><p>- Advanced degree (Ph.D. preferred) in Computer Science, Artificial Intelligence, or a related field.</p><p>- Proven experience (3+ years) in leading AI research and development teams, with a focus on Generative AI, NLP, and LLM.</p><p>- Strong understanding of deep learning, natural language processing, and machine learning algorithms.</p><p>- Demonstrated success in bringing AI products to market and integrating AI technologies into scalable, commercial applications.</p><p>- Excellent communication and leadership skills, with the ability to align with My Client's values and culture.</p><p><br/></p><p>**Benefits:**</p><p><br/></p><p>- Competitive salary and equity options tailored to My Client's compensation standards.</p><p>- Comprehensive health, dental, and vision insurance benefits.</p><p>- Flexible work hours and remote work options in accordance with My Client's policies.</p><p>- Professional development opportunities aligned with My Client's career growth plans.</p><p>- A dynamic and collaborative work environment at the forefront of AI innovation within the tech industry.</p><p><br/></p><ul><li>If you share My Client's passion for pioneering AI solutions in the tech industry, we encourage you to apply for this instrumental leadership position. Be a driving force in shaping the future of AI at My Client!</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

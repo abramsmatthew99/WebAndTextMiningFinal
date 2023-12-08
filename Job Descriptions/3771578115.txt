@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>SUMMER 2024<br/><br/></strong>Shure offers a challenging, fun and rewarding summer internship program. The twelve-week program is offered to undergraduate and graduate students. We offer internships with a variety of work arrangements from onsite interns to fully remote in US. Each intern will receive a competitive salary. Additionally, Interns who relocate to Illinois for onsite internships will receive a housing stipend to cover living expenses. Applications will be collected, reviewed, and selected candidates will be contacted in late fall/early winter.<br/><br/>The Quality Data Engineering intern will handle a variety of tasks and small projects in the Quality Data Engineering team under supervision of the CQE Niles Sr. Data Engineer.<br/><br/>This Internship is Hybrid.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Conducting quality data analytics and assisting in the development of data visualization reports</li><li>Assisting in the development and testing of new data tools and solutions for the Quality division</li><li>Support the Sr. Data Engineer in conducting data quality monitoring protocols and implementing data cleanup activities as needed.</li><li>Assist in the resolution of Quality Engineering service requests from the Quality team.</li><li>Attend weekly data engineering staff meetings.</li><li>Participate in Data Engineering project meetings (under the supervision of the Sr. Data Engineer) with other quality stakeholders.<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>Pursuing bachelor’s degree in Engineering, Computer Science, Information Technology or closely related field, with a minimum of two years of engineering coursework.</li><li>Intermediate working knowledge of MS Office applications Word, PowerPoint. Advanced to expert working knowledge of MS Excel.</li><li>Intermediate to advance knowledge of one or more programming languages, such as Python, Java, C/C++, SQL, etc.</li><li>Basic to Intermediate knowledge of data visualization tools such as Tableau.</li><li>Basic to Intermediate knowledge of Microsoft Power Platform tools (Power Automate, PowerApps) and Microsoft Cloud and Collaboration Services (SharePoint Online, Teams, OneDrive)</li><li>Basic knowledge of database management, structure, and data governance applications.</li><li>Basic Knowledge of Statistics and common terms used.</li><li>Excellent verbal and written communication skills.</li><li>Keen willingness to learn new concepts and skills.</li><li>Minitab experience &amp; knowledge of Six Sigma tools is a plus.<br/><br/></li></ul><strong>Who We Are<br/><br/></strong>Shure’s mission is to be the most trusted audio brand worldwide – and for nearly a century, our Core Values have aligned us to be just that. Founded in 1925, we are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get. We offer an Associate-first culture, flexible work arrangements, and opportunity for all.<br/><br/>Shure Incorporated is headquartered in Niles, Illinois, with remote and hybrid opportunities throughout the United States. We have more than 35 regional sales offices, engineering hubs, and manufacturing facilities throughout the Americas, EMEA, and Asia.<br/><br/><strong>THE MIX MATTERS<br/><br/></strong>Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Quality Assurance
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Audio and Video Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

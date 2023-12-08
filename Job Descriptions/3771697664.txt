@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Location:</strong> Remote<br/><br/><strong>Job Description<br/><br/></strong>We are a fast-paced startup on the cutting edge of technology, committed to delivering innovative solutions and exceptional service to our clients. Our team is growing, and we are seeking a dynamic Backend Software Developer who is passionate about building robust, scalable, and efficient backend systems. The ideal candidate will have a strong foundation in Python, experience with AWS services, and proficiency in Flask. As part of our team, you will have the opportunity to work on exciting projects that impact our users directly, all from the comfort of your home.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Develop and maintain scalable server-side applications in Flask.</li><li>Utilize AWS cloud services to ensure high availability, reliability, and scalability of applications.</li><li>Implement RESTful APIs with Flask to support web and mobile front ends.</li><li>Collaborate with cross-functional teams to define, design, and ship new features.</li><li>Employ a variety of databases, including relational (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB, DynamoDB) to store and manage data efficiently.</li><li>Follow best practices in code versioning, testing, and deployment, using tools such as Git, Jenkins, and Docker.</li><li>Participate in code reviews to maintain high-quality code and to apply best practice software design.</li><li>Provide technical support for applications, including problem identification, reporting, and stakeholder communication.<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>3+ year of professional backend development experience.</li><li>Proficient in Python and familiar with the Flask web framework.</li><li>Experience with AWS cloud services (e.g., EC2, RDS, S3, Lambda, DynamoDB).</li><li>Strong understanding of server-side logic and scalability issues.</li><li>Ability to write clean, maintainable, and efficient code.</li><li>Experience in developing APIs for web and mobile clients.</li><li>Quick learning ability with a passion for coding and development.</li><li>Exceptional work ethic, with a track record of meeting deadlines and delivering high-quality work.<br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Degree in Computer Science, Engineering, or a related field.</li><li>Experience with CI/CD tools and practices.</li><li>Familiarity with containerization and orchestration technologies (e.g., Docker, Kubernetes).</li><li>Knowledge of front-end technologies (JavaScript and React) for effective cross-functional team collaboration.</li><li>Strong problem-solving skills and ability to thrive in a fast-paced environment.</li><li>Excellent written and verbal communication skills.<br/><br/></li></ul><strong>What We Offer<br/><br/></strong><ul><li>The flexibility of a remote work environment.</li><li>Opportunities for professional development and continuous learning.</li><li>A collaborative culture where creativity and innovation are encouraged.</li><li>The chance to work with a team of talented and passionate individuals.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

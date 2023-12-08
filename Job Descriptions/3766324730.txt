@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>“We’re not in the shipping business; we’re in the information business” -Peter Rose, Expeditors Founder<br/><br/>Global supply chain management is what we do, but at the heart of Expeditors you will find professionalism, leadership, and a friendly environment, all of which foster an innovative, customer service-based approach to logistics.<br/><br/><ul><li>18,000 trained professionals</li><li>350+ locations worldwide across 60+ countries</li><li>Fortune 500</li><li>Globally unified systems<br/><br/></li></ul>Job Description<br/><br/>Have you been watching the news? The logistics industry connects the world. The last few years has highlighted the importance of strong supply chains. We are innovating in the ocean trade domain.<br/><br/>Join the growing exp.o Ocean team designing a new application to serve our internal customers. You will help chart the course forward, including choosing the technologies and helping to make the solutions scalable. This project is high-visibility. Collaboration is a must in this role. We work closely with the business to better understand the needs of our customers. Our team employs design thinking methods and focuses heavily on our user experience.<br/><br/>We are committed to your growth as a professional and hope you are eager to mentor others on the team.<br/><br/>https://youtu.be/Nb32JzNA_y8?si=ffLkex2dOQtIGqhl<br/><br/><em>This position is on-site and will reside in the greater Seattle, WA. at one of the following locations depending on availability. Candidates must be local or willing to relocate. Relocation assistance is not offered for this position.<br/><br/></em><ul><li>Downtown Seattle</li><li>Federal Way</li><li>Lynnwood</li><li>Bellevue (Factoria)<br/><br/></li></ul>Qualifications<br/><br/><strong>Minimum Qualifications<br/><br/></strong><ul><li>Experience with HTML, CSS, and modern JavaScript frameworks</li><li>Understanding of Agile software development methodologies</li><li>Object-oriented analysis and design</li><li>Object-oriented programming and component-based development with Java</li><li>Experience with SQL and relational database design/development</li><li>Experience writing unit tests, integration tests, and end-to-end</li><li>At least 2 years of professional software development experience<br/><br/></li></ul><strong>Desired Qualifications<br/><br/></strong><ul><li>Passion and Experience with Angular, TypeScript, RxJS, NGRX, and Karma/Jasmine Testing</li><li>Experience with Maven, Junit, Spring Boot, Hibernate/JPA, and IntelliJ IDE</li><li>Operating systems include UNIX, Linux</li><li>Experience with Event Driven Architecture, Domain Driven Design, CQRS</li><li>Experience with Distributed Systems, REST API design, and Apache Kafka</li><li>BS in Computer Science or comparable work</li><li>Drives project technical direction &amp; decisions</li><li>Ability to design &amp; develop complex technical solutions</li><li>Ensures maintainability &amp; testability of code</li><li>Applies advanced design &amp; development techniques</li><li>Communicates technical details to both technical &amp; non-technical stakeholders</li><li>Produces practical solutions</li><li>Interest in understanding business needs</li><li>Understands data, application, &amp; technology architectures</li><li>Abreast of new technologies &amp; development strategies</li><li>Focuses on improving quality &amp; performance</li><li>Coaches &amp; mentors other developers</li><li>Identifies opportunities &amp; mitigates technical risks<br/><br/></li></ul><em>Applicants are required to be eligible to lawfully work in the U.S. immediately; employer will not transfer or sponsor applicants for U.S. work authorization (such as an H-1B visa) for this opportunity.<br/><br/></em>Additional Information<br/><br/>Expected base salary: $89,000 to $133,000<br/><br/>Expeditors offers excellent benefits:<br/><br/><ul><li>Paid Vacation (first year prorated based off month of hire then eligible for 15 days) </li><li>Holidays (10)</li><li>Flexible Days (2)</li><li>Paid Sick Time (accrual rate of 1 hour of sick time per 30 hours paid)</li><li>401(k) Retirement Savings Plan with employer match</li><li>Employee Stock Purchase Plan (ESPP)</li><li>Medical, Prescription Drug, Dental &amp; Vision Coverage</li><li>Health Savings Account (HSA)</li><li>Life and Disability Insurance</li><li>Paid Parental Leave (additional eligibility criteria)</li><li>Dependent Care Flexible Spending Account (DC FSA)</li><li>Commuter Benefit</li><li>Employee Assistance Program (EAP)</li><li>Training and Personnel Development Program</li><li>Educational Assistance and Reimbursement</li><li>Position is full time (40 hours per week) Monday through Friday </li><li>Business professional dress code<br/><br/></li></ul><em>All your information will be kept confidential according to EEO Guidelines.</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Transportation, Logistics, Supply Chain and Storage
+          </span>
+</li>
+</ul>
+</div>
+</section>

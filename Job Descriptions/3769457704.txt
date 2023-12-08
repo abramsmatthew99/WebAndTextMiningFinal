@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>TeamViewer is a leading global technology company that provides a connectivity platform to remotely access, control, manage, monitor, and repair devices of any kind – from laptops and mobile phones to industrial machines and robots. TeamViewer proactively shapes digital transformation and continuously innovates in the fields of Augmented Reality, Internet of Things or Artificial Intelligence. Since the company’s foundation in 2005, TeamViewer’s software has been installed on more than 2.2 billion devices around the world. The company is headquartered in Goppingen, Germany, and employs more than 1350 people globally.<br/><br/><strong>Job Description<br/><br/></strong>Be part of the creative Americas Solutions Delivery team which focuses on developing innovative solutions for our customers that suit their needs. We are a customer-centric team bringing business and technical skills together to craft solutions for our customers.<br/><br/>We are looking for a Software Engineer who will ensure successful deployment of our Augmented Reality solutions. We are looking for a passionate technologist with an entrepreneurial spirit and a clear goal focus.<br/><br/><br/><ul><li>Ownership of software development of customer specific projects on TeamViewer Frontline platform. You will work closely with our Customer Success Managers to ensure smooth project roll outs on the customer side. </li><li>Create interfaces to backend systems of our enterprise grade customers using Java and SpringBoot e.g., REST Services, databases, SAP etc. </li><li>Develop client workflows and make customer-specific adjustments via XML and JavaScript </li><li>Configure user interfaces and take care of on-premises installation of our software </li><li>Work with the latest smart glasses and other wearable devices and bring them to use with our customers. </li><li>Undertake technical consulting for our customers. </li><li>Support user acceptance and system integration tests </li><li>Execute roll-out at customer site. </li><li>Take on bug-fixing during hyper care phase and handover to support team </li><li>Work independently on projects and be responsible for complying with time and quality specifications<br/><br/></li></ul><strong>Qualifications<br/><br/><br/></strong><ul><li>University Degree (or equivalent work experience) required, preferably in computer science or related area. </li><li>Extensive experience developing production grade software with Java, Kotlin, and Spring Boot </li><li>Expertise in web technologies such as JavaScript and frameworks like Angular </li><li>Database experience like MySQL, MariaDB, or PostgreSQL </li><li>Familiar with API design and specifications and XML / JSON </li><li>Android development experience (optional) </li><li>Experience working in close customer collaboration paired with excellent communication skills at all levels. </li><li>Ideally you have experience with logistics processes or manufacturing companies or automotive industry. </li><li>Proven ability to understand the big picture and quickly comprehend complex relationships in dynamic organizations. </li><li>Enthusiasm for acting as team player especially when it comes to cross functional teams paired with passion to work independently, assuming holistic responsibility for a project </li><li>Structured and meticulous working style, willing to learn new things. </li><li>Business-level English is required. </li><li>Programming Must Haves: SpringBoot, Java <br/><br/></li></ul><strong>Additional Information<br/><br/><br/></strong><ul><li>Work location: Remote (USA or Canada)</li><li>Competitive compensation including stock-based options (RSU)</li><li>Flexible PTO and paid holidays </li><li>401(k) with employer matching </li><li>Comprehensive Health insurance package including 100% employer-paid medical coverage </li><li>Up to 12 weeks of Parental Leave </li><li>Basic Life Insurance, Short-Term &amp; Long-Term Disability, 100% employer-paid </li><li>Quarterly team events and companywide celebrations </li><li>Open door policy, no dress code rules, frequent all Hands and Leadership Lunches </li><li>We celebrate diversity as one of our core values, join and drive one of the c-a-r-e initiatives together with us! <br/><br/></li></ul>TeamViewer is an equal opportunity employer and is committed to building an inclusive culture where everyone feels welcome and supported. We C-A-R-E and understand that our diverse, values-driven culture makes us stronger. As we continue to grow as a company, we’re focused on enabling our employees to grow both personally and professionally. We are proud to have an open and embracing workplace environment that will empower you to be your best.<br/><br/>TeamViewer will not discriminate against an individual based on race, color, sex, gender identity, gender expression, religion, age, national origin or ancestry, citizenship, physical or mental disability, medical condition, family care status, marital status, domestic partner status, sexual orientation, genetic information, military or veteran status, or any other basis. If you are unable to submit your application because of disability, please contact us at hr.us@teamviewer.com and we will reasonably accommodate.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

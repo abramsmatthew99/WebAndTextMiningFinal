@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Overview<br/><br/></strong>Incyte is a biopharmaceutical company focused on the discovery, development, and commercialization of novel medicines to meet serious unmet medical needs in oncology and inflammation and autoimmunity. Incyte is committed to the rigorous pursuit of research and development excellence to improve the lives of patients, make a difference in health care, and build sustainable value.<br/><br/>The Company strives to discover and develop first-in-class and best-in-class medicines-advancing a diverse portfolio of large and small molecules.<br/><br/><strong>Job Description<br/><br/></strong>Incyte is a biopharmaceutical company focused on the discovery, development, and commercialization of novel medicines to meet serious unmet medical needs in oncology and inflammation and autoimmunity. Incyte is committed to the rigorous pursuit of research and development excellence to improve the lives of patients, make a difference in health care, and build sustainable value. The Company strives to discover and develop first-in-class and best-in-class medicines-advancing a diverse portfolio of large and small molecules.<br/><br/>At Incyte, we are looking for a talented data scientist to join our team. As a data scientist, you will have the exciting opportunity to work on cutting-edge data and technology in the pharmaceutical industry. You will be responsible for analyzing complex data sets to generate insights that drive business decisions and help bring new medicines to market.<br/><br/><strong>Key Responsibilities<br/><br/></strong><ul><li>Develop and implement statistical models and algorithms to analyze complex data sets</li><li>Work with cross-functional teams to identify and define business problems and develop analytical solutions</li><li>Conduct data exploration, visualization, and feature engineering to support machine learning models</li><li>Collaborate with research scientists to design experiments and analyze data generated from pre-clinical and clinical studies</li><li>Develop and implement data-driven approaches to optimize drug development and clinical trial design</li><li>Stay current with the latest advances in data science and machine learning and apply them to drug discovery and development<br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li>A Bachelor's or Master's degree in Data Science, Computer Science, Statistics, or a related field</li><li>5+ years of experience in data science or a related field, with experience working in the pharmaceutical industry preferred</li><li>Strong programming skills in Python </li><li>Experience with machine learning algorithms and statistical analysis techniques</li><li>Strong problem-solving skills and ability to work in a fast-paced, dynamic environment</li><li>Excellent communication skills and ability to work effectively in a team</li><li>Preferred Qualifications:</li><li>PhD in Data Science, Computer Science, Statistics, or a related field</li><li>Experience working with large and complex data sets, including genomic and clinical data</li><li>Experience with deep learning algorithms and natural language processing</li><li>Knowledge of drug development and clinical trial design</li><li>Experience with cloud computing platforms such as AWS and Azure</li><li>Publications or presentations at Machine Learning, Deep Learning and Data Mining journals/conferences<br/><br/></li></ul>Disclaimer: The above statements are intended to describe the general nature and level of work performed by employees assigned to this job. They are not intended to be an exhaustive list of all duties, responsibilities, and qualifications. Management reserves the right to change or modify such duties as required.<br/><br/>Incyte Corporation is committed to creating a diverse environment and is proud to be an equal opportunity employer.<br/><br/>We Respect Your Privacy<br/><br/>Learn more at: http://www.incyte.com/privacy-policy<br/><br/>The Incyte hiring organization processes your personal data to manage your job application in order to enter into an employment relationship with you if you are the successful candidate.<br/><br/>During the process, you may be asked to respond to questions that will screen out your application if you do not meet certain objective criteria required by the job. You can learn more about this process here.<br/><br/>You may have the right to access, delete, restrict, edit, move, or object to the use of your personal data. You may also have a right to report concerns to the authority responsible for data privacy in the country where the position is based or where you live or work.<br/><br/>You can learn more about Incyte’s data protection practices here. By accessing this link you can learn about the types of personal data we collect, how we use it, whether collection and processing is optional, sources of the personal data we process, how it is shared, where it is stored or transferred to, how long we keep it, and contact information for Incyte, Incyte’s data protection officer, and your supervisory authority (if applicable).<br/><br/>Please contact privacy@incyte.com if you have any questions or concerns or would like to exercise your rights.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Business Development and Sales
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Pharmaceutical Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are seeking a highly skilled and analytical Data Scientist to join our team. The ideal candidate will be adept at using large data sets to find opportunities for product and process optimization, and using models to test the effectiveness of different courses of action. This role will require both a strong technical background in data analysis and the ability to communicate findings to non-technical teams and stakeholders.<br/><br/><strong>Key Responsibilities:<br/><br/></strong><ul><li>Work with stakeholders to identify opportunities for leveraging company data to drive business solutions.</li><li>Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques, and business strategies.</li><li>Assess the effectiveness and accuracy of new data sources and data gathering techniques.</li><li>Develop custom data models and algorithms to apply to data sets.</li><li>Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes.</li><li>Coordinate with different functional teams to implement models and monitor outcomes.</li><li>Develop processes and tools to monitor and analyze model performance and data accuracy.<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor’s or Master’s degree in Statistics, Mathematics, Computer Science, or another quantitative field.</li><li>2 years of experience in a Data Scientist or Data Analyst role.</li><li>Strong problem-solving skills with an emphasis on product development.</li><li>Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.</li><li>Experience working with and creating data architectures.</li><li>Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.</li><li>Excellent written and verbal communication skills for coordinating across teams.<br/><br/></li></ul><strong>Preferred Skills:<br/><br/></strong><ul><li>Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.</li><li>Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.</li><li>Experience with AWS, Azure, or another cloud service.</li><li>Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.<br/><br/></li></ul><strong>Benefits:<br/><br/></strong><ul><li>Competitive salary and benefits package.</li><li>Dynamic and innovative work environment.</li><li>Opportunities for professional growth and development.</li><li>[Other company-specific benefits like remote work options, flexible schedules, wellness programs, etc.]<br/><br/></li></ul><strong>How to Apply:</strong> Please submit your resume, cover letter, and any relevant work samples<br/><br/>Powered by JazzHR<br/><br/>PBgVJw6zNw
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Primary Duties &amp; Responsibilities<br/><br/></strong><ul><li> Collaborate with managers to develop an inventory of functional and technical reports to be mapped to the<br/><br/></li></ul>Workday platform<br/><br/><ul><li> Design, develop and implement custom reports and dashboards in Workday using its reporting tools.</li><li> Understand business requirements, data sources, and report specification to create accurate and actionable<br/><br/></li></ul>reports.<br/><br/><ul><li> Analyze and interpret complex data sets to identify trends, patterns and key insights.</li><li> Collaborate with stakeholders, such as Officers, Directors, Managers or Teams to understand their reporting<br/><br/></li></ul>needs and translate them into meaningful reports and dashboards.<br/><br/><ul><li> Ensure the accuracy and reliability of existing reports and dashboards by regularly reviewing and updating<br/><br/></li></ul>them as necessary.<br/><br/><ul><li> Modify report layouts, data sources, or calculations to improve usability and relevance.</li><li> Stay updated with Workday releases and new features to leverage enhancements in reporting capabilities.</li><li> Ensure the integrity and security of data used in reports and dashboards.</li><li> Adhere to data governance policies and best practices to maintain data accuracy, consistency, and<br/><br/></li></ul>confidentiality.<br/><br/><ul><li> Validate and reconcile data from multiple sources to ensure the reliability of report outputs.</li><li> Document report requirements, specifications, and processes for future reference and knowledge sharing.<br/><br/></li></ul><strong>Skills And Competencies<br/><br/></strong><ul><li> Ability to translate business requirements into technical solutions.</li><li> Collaborates with functional stakeholders to assess reporting needs, gather specifications/requirements, and<br/><br/></li></ul>design reports for development.<br/><br/><ul><li> Builds Workday simple, advanced, matrix, composite, trending, scorecard and dashboard reports to meet<br/><br/></li></ul>functional needs.<br/><br/><ul><li> Ability to help clients resolve reporting issues requiring in-depth expertise in the Workday solution.</li><li> Ensure the client takes advantage of Workday standard methodologies.</li><li> Excellent Verbal and Communication Skills</li><li> Experience in documenting processes around data collection and reporting<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong>Bachelor’s degree in computer science, information science, business, or a related field from and accredited college or university AND three years’ experience in report/analytics development to include business requirements gathering and documentation. OR Associate’s degree in a related field from and accredited college or university AND four years’ experience in report/analytics development.<br/><br/><strong>Preferred Qualifications<br/><br/></strong>Preference may be given to applicants who, in addition to meeting the Minimum Qualifications, possess the following:<br/><br/><ul><li> Proficiency in Workday Financials and Workday Management and its reporting tools (e.g., Workday Report<br/><br/></li></ul>Writer, Report Designer, Adaptive Planning, Prism Analytics).<br/><br/><ul><li> Strong understanding of Finance, HCM, Procurement processes and data structures.</li><li> Data analysis and interpretation skills.</li><li> Strong qualitative and analytical capabilities with advanced Excel skills.</li><li> Excellent attention to detail, problem-solving and analytical skills.</li><li> Strong written, verbal communication skills and collaboration abilities.</li><li> Ability to manage multiple priorities and meet deadlines.</li><li> Understanding of data governance principles and best practices.</li><li> Strong attention to detail and accuracy.</li><li> Ability to work independently and manage multiple projects simultaneously.</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Associate
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

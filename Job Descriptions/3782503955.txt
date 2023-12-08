@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Corvid Technologies is seeking junior software developers to join our Missile Defense Group (MDG) in Huntsville, AL. Come join the MDG supporting a variety of government agencies, such as the Missile Defense Agency (MDA), Defense Advanced Research Projects Agency (DARPA), Navy Missile Defense, and Air Force Space Command. The MDG performs cutting edge modeling and simulation, testing, and system analysis to ensure protection of the United States and military assets from missile threats.<br/><br/>Corvid’s software developers implement advanced computational algorithms, such as machine learning, to improve weapon system performance. Our software development team works alongside software architects, analysts, and scientists to ensure optimal execution of code to meet customer requirements. We develop internal software to support analysis tasks as well as large code-bases maintained by Department of Defense (DoD) prime contractors.<br/><br/>The Missile Defense Group supports a variety of modeling and simulation efforts within the Missile Defense Agency including missile intercept modeling using first-principle physics codes, aerodynamic modeling of missiles and debris, development of finite element models, modeling of missile defense radars, modeling of missile defense interceptor seekers, and analysis of sensor data (RF and EO/IR). The group provides diverse research opportunities and a creative work environment within a small group. The Corvid team offers access to cutting edge computational technologies and resources.<br/><br/><strong>Education And Technical Skill Required<br/><br/></strong><ul><li> The entry-level software developer requires a Bachelor’s or Master’s degree in Computer Science or Software Engineering. </li><li> Candidates must have some experience utilizing C++ and Java for objective-oriented programming </li><li> Familiarity with front-end frameworks, such as React and Angular is preferred </li><li> Candidates should be familiar with configuration management software such as Jira </li><li> Candidates should be familiar with source control software such as git and GitLab </li><li> Candidates with experience developing under an agile framework are preferred </li><li> A strong background in science and math, especially physics is desired <br/><br/></li></ul>US Citizenship and the ability to hold a US Security Clearance is REQUIRED. NON-US Citizens cannot be considered.<br/><br/><strong>Example Responsibilities<br/><br/></strong><ul><li> Enhancing existing software tools </li><li> Implementing test procedures to increase code quality </li><li> Understanding DevSecOps processes </li><li> Working with containerized services in a distributed environment <br/><br/></li></ul><strong>Why Corvid<br/><br/></strong>Founded in 2004, we are a group of over 300 engineers and scientists, about 3/4 with master’ degrees or Ph.D.'s, that provide end-to-end solutions including concept development, design and optimization, prototype build, test and manufacture. We leverage the predictive capability of our high-fidelity computational physics solvers, indigenous massively parallel supercomputer system, prototyping plant, and ballistics and mechanics lab to investigate a variety of high-rate physics phenomena.<br/><br/>The results are complex engineering solutions for a variety of applications; aircraft, ballistic missile defense, cybersecurity, motorsports, armor development, biological systems, and missile and warhead design and development. These results are achieved with optimal design and cost efficiency due to the predictive capability of Corvid’s tools and our in-house, end-to-end integrated approach, which differentiates Corvid from the market.<br/><br/>We value our people and offer employees a broad range of benefits. Benefits for full-time employees include:<br/><br/><ul><li>Paid gym membership</li><li>Flexible schedules</li><li>Blue Cross Blue Shield insurance including Medical, Dental and Vision</li><li>401k match up to 6%</li><li>Three weeks starting PTO; increasing with tenure</li><li>Continued education and training opportunities</li><li>Uncapped incentive opportunities<br/><br/></li></ul>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

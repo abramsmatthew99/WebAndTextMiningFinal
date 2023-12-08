@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p>Duties and Responsibilities<br/> * Design software based on provided requirements, and document the design<br/> * Design interfaces based on provided requirements, and document the interface design<br/> * Deploy and test developed software on both virtual and physical systems<br/> * Develop scripts in support of integration and testing activities<br/> Knowledge, Skills and Abilities<br/> Required Skills<br/> * Knowledge of and experience using Linux<br/> * Knowledge of and experience writing shell scripts<br/> * Knowledge of and experience using Java<br/> * A quick learner and adaptable to new technologies<br/> * Knowledge of an experience developing web-based applications<br/> Desired Skills<br/> * Knowledge of and experience using React and Typescript<br/> * Experience creating and maintaining Linux Kickstarts<br/> * Experience with switch and network configuration<br/> * Knowledge of and experience using Docker<br/> * Knowledge of and experience using CI/CD products<br/> * Knowledge of and experience working in and configuring virtualized environments -<br/> Hypervisor, Virtual Machines, Containers<br/> * Strong written and oral communication skills<br/> * Strong organizational skills<br/> Education/Experience<br/> * BS in Computer Science, Information Systems, or related degree<br/> * 0-5 years of professional/technical experience</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Defense and Space Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

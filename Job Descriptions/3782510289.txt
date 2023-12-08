@@ -1,0 +1,56 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<div class="message-the-recruiter message-the-recruiter--jserp">
+<p>Direct message the job poster from Humango Solutions LLC</p>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-main-card flex flex-wrap py-2 pr-2 babybear:pr-0">
+<!-- -->
+<img alt="Jeff Schneider" class="inline-block relative rounded-[50%] w-6 h-6 bg-color-entity-ghost-background" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2"/>
+<div class="base-main-card__info self-center ml-1 flex-1 relative break-words papabear:min-w-0 mamabear:min-w-0 babybear:w-full">
+<h3 class="base-main-card__title font-sans text-[18px] font-bold text-color-text overflow-hidden">
+            
+        Jeff Schneider
+
+<!-- -->
+</h3>
+<!-- -->
+<!-- -->
+<!-- --> </div>
+<div class="base-main-card__ctas z-[3] self-center ml-3 babybear:ml-1 babybear:self-start">
+<a aria-label="Message Jeff Schneider" class="message-the-recruiter__cta" data-tracking-control-name="public_jobs_message-the-recruiter-cta" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Fjeff-schneider-486b461&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_message-the-recruiter-cta">
+<icon class="message-the-recruiter__cta-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/em62t8ujch4hqqc45owxy6auu" data-tracking-will-navigate=""></icon>
+</a>
+</div>
+</div>
+</div>
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>Summary:</strong></p><p>Humango Solutions is currently hiring for a Network/Security Analyst. This position is located in Washington, D.C. and has a remote hybrid schedule.</p><p><br/></p><p><strong>Location:</strong></p><p>US-DC-Washington, Hybrid</p><p><br/></p><p><strong>Qualifications:</strong></p><p>Minimum of Five (5) or more years of experience in defining computer security requirements for high level applications, evaluation of approved security product capabilities and developing solutions to security problems.</p><p>Undergraduate degree in Computer Science, Information Systems, Engineering, Business or other related scientific or technical discipline and 5 years' experience. Acceptable substitute would be an advanced degree in the same fields and 2 years' experience.</p><p><br/></p><p><strong>Clearance Required:</strong> Public Trust</p><p><br/></p><p><strong>Duties and Responsibilities:</strong></p><p>The Network/Security Analyst will be expected to:</p><p>• Monitor for threats and vulnerabilities through a combination of automated and manual processes and respond; accordingly, research and develop risk mitigating approaches and drive response and remediation.</p><p>• Implement automation and orchestration to improve efficiency and effectiveness of security monitoring and response processes; document processes and procedures in the form of playbooks and reference guides; stay abreast of the latest information security controls, practices, techniques and capabilities in the marketplace, as well as evolving threats.</p><p>• Minimum three years of recent and relevant experience in security monitoring, security operations, and incident response activities; preferably within a professional services firm or similar environment.</p><p>• Provides analysis/validation of remediation actions taken, opportunities for improvement and out of the box thinking for optimizations and solving roadblocks.</p><p>• Coordinate directly with system owners, administrators, and security officers regarding the mitigation of identified vulnerabilities.</p><p>• Work with Client Engineering or Network Operations to develop and implement vulnerability remediation efforts</p><p>• Should have experience remediating vulnerabilities in a Workstation (Windows 10) environment</p><p>• Should have experience remediating vulnerabilities in a Windows Server 2016 Environment.</p><p><br/></p><p><strong>Decision-Making Authority:</strong></p><p>Decision-making authority for own individual work efforts delivered as part of day-to-day support of the program.</p><p><br/></p><p><strong>About Humango:</strong></p><p>Humango Solutions, LLC (Humango) is a Small Business Administration (SBA)-certified Historically Underutilized Business Zone (HubZone) and Woman-Owned Small Business (WOSB) that delivers IT services and solutions that maximize our customers’ positive impact on society. We focus on maximizing social and environmental good through enabling positive change at the nexus of government services, employees, and community – and have legally bound the company and its officers to prioritize positive social and environmental outcomes alongside financial outcomes.</p><p>With “balance” as one of our core values, we offer our employees a highly competitive benefit package including health/dental/vision insurance, 401K, ancillary benefits, and paid time-off. We actively support employees by enabling them to support their choice of organizations and causes to help drive positive social and environmental change within their communities.</p><p>Humango is for individuals looking to have a positive impact. From cultivating a culture where all employees are respected and can bring their best selves to work, to deploying diversity initiatives that support all, we strive to build a more equitable workplace and world.</p><p><strong>We are an Equal Opportunity Employer.</strong> All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, disability, or status as a protected veteran. EOE, including disability/vets.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<!-- --> <li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<!-- --><!-- --> </ul>
+</div>
+</section>

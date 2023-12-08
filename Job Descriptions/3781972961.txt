@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<ul><li>Develop and execute manual test cases to ensure software functionality meets specifications.</li><li>Identify, document, and report software defects using designated tools and methodologies.</li><li>Collaborate with cross-functional teams to understand project requirements and define test strategies.</li><li>Participate in test planning, estimation, and prioritization of testing activities.</li><li>Conduct regression testing to validate software changes and ensure existing functionality remains intact.</li><li>Create and maintain comprehensive test documentation, including test plans, test cases, and test reports.</li><li>Provide feedback on usability and functionality to improve the overall user experience.</li><li>Stay updated on industry best practices, testing tools, and technologies.</li><li>Responsible for Laptop Image Testing<br/><br/></li></ul><strong>Requirements:<br/><br/></strong><ul><li>Bachelor’s degree in Computer Science, Engineering, or related field (or equivalent work experience).</li><li>Proven experience as a Manual Tester or in a similar role.</li><li>Strong understanding of software testing methodologies, tools, and processes.</li><li>Ability to write clear, concise, and comprehensive test plans and test cases.</li><li>Proficiency in using defect tracking tools and test management software.</li><li>Excellent analytical and problem-solving skills.</li><li>Strong communication and collaboration abilities.</li><li>Detail-oriented mindset with a focus on delivering high-quality work.<br/><br/></li></ul>Relevant certifications (e.g., ISTQB certification) a plus
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

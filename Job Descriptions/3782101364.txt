@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About The Company<br/><br/></strong>PromptArmor may be a newer name, but our work speaks volume in terms of our dedication, precision, and level of trustworthiness. Our focus is creating reliable, cutting-edge technologies that support the ever-evolving needs of consumers and businesses alike.<br/><br/><strong>About The Role<br/><br/></strong>As a Software Engineer at PromptArmor, you'll be our digital blacksmith, forging innovative technology solutions that drive our business and impact our customers. You’ll develop high performing, scalable applications using the latest AI technologies, working in a dynamic environment with a team committed to achieving extraordinary results.<br/><br/>What you'll do<br/><br/><ul><li>Design, build, and maintain efficient, reusable, and reliable software solutions using artificial intelligence</li><li>Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues</li><li>Help maintain code quality, organization, and automation</li><li>Collaborate with other team members and stakeholders on project scope and implementation</li><li>Stay up-to-date with the latest developments in the field of AI<br/><br/></li></ul>What we're seeking<br/><br/><ul><li>Bachelor's degree in Computer Science, Engineering, or a relevant field</li><li>0-5 years of experience in software development or relevant field</li><li>Proficient in technology related to artificial intelligence</li><li>Solid understanding of data structures, algorithms, and system design principles</li><li>Ability to convey complex technical information to non-technical stakeholders</li><li>Proactive, self-driven individual capable of working under minimal supervision</li><li>Strong problem solving and analytical skills</li><li>Excellent written and verbal communication skills</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

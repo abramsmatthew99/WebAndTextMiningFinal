@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Altamira Technologies has a long and successful history providing innovative solutions throughout the U.S. National Security community. Headquartered in McLean, Virginia, Altamira serves the defense, intelligence and homeland security communities worldwide by focusing on creating innovative solutions leveraging common standards in architecture, data and security. Altamira believes that our people and the culture of our company differentiate us from other companies.<br/><br/><strong>Position Location: </strong>State College, Pennsylvania<br/><br/><strong>Position Description</strong>: We are seeking Senior Software Engineers that possess a mix of talent areas related to full-stack development. As part of our team, you will provide software and web development services. Our ideal candidate would possess a broad range of skills as our scope of work spans various technologies. Examples of technologies we are currently using to support our customers include Java, Python, JavaScript, Angular, React, and ElasticSearch. Altamira Technologies Corporation encourages independent problem solving but also provides deep reach-back support and a collaborative environment for our engineering team. We are looking for candidates who have experience with developing and are not afraid to adapt to the right architecture, languages, and libraries to build the best systems for the mission and deliver the best user experience.<br/><br/><strong>Role And Responsibilities<br/><br/></strong><ul><li>Produce software based on desired functionality provided by users and analysts</li><li>Interpret mission needs and requirements to produce user-friendly software systems</li><li>Leverage continuous integration to create sustainable and maintainable software</li><li>Interact with teammates and users through whiteboard sessions and/or design documents to establish circular feedback<br/><br/></li></ul><strong>Education And Experience<br/><br/></strong><ul><li>Bachelor’s in Computer Science, Computer Engineering, Electrical Engineering, or a related field</li><li>Eight (8) or more years of experience in the following: Java, JavaScript/Typescript, Python, Angular, ELK stack, Redis, Web Services (REST), Machine Learning, Data Analytics, Android development, NoSQL and SQL databases, Xmidas, Digital Signal Processing<br/><br/></li></ul><strong>Abilities And Competencies<br/><br/></strong><ul><li>Must possess current TS/SCI clearance (poly preferred)</li><li>Self-motivated and eager to work intently to satisfy mission requirements</li><li>Adaptable and has the desire to maintain our company culture</li><li>Ability to effectively communicate in verbal and written communications</li><li>Ability to multitask and adjust priorities as needed<br/><br/></li></ul><strong>About Altamira Technologies Corporation:<br/><br/></strong>For more information about Altamira, visit our website at www.altamiracorp.com.<br/><br/>Altamira Technologies Corporation is proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.<br/><br/>Powered by JazzHR<br/><br/>NUJ1rgXJRI
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

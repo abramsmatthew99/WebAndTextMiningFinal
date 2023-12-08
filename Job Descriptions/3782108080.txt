@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Summary<br/><br/></strong>CTC Group is seeking <strong>Java Spring Developers</strong>, Levels 1-2, to develop, maintain, and enhance complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements.<br/><br/><strong>Responsibilities<br/><br/></strong><ul><li>Design, develop, and modify front end (UI), database, and/or back end software using Java, Spring Boot, etc.</li><li>Test and debug software code for integrated applications.</li><li>Develop data queries and scripts for databases and repositories.</li><li>Develop templates and reusable DevOps loads for the Ansible/Docker/Kubernetes environments.</li><li>Develop test scripts and procedures to drive toward automated and regression testing.</li><li>Provide Software (Tier II-III) support for deployed software, scripts, APIs, messaging, and data interoperability.</li><li>Experience developing software in Java using Spring / Spring Boot</li><li>Experience developing software using agile tools and methodologies</li><li>Experience developing software in Linux environment<br/><br/></li></ul><strong>Desired Skills<br/><br/></strong><ul><li>Full stack Java development experience preferred</li><li>Experience developing Front End / UI components with JavaScript/React, OpenLayers, MapboxGL</li><li>Experience developing Database components with MongoDB / SQL</li><li>Experience developing Back End (server-side) components with Java/Reactor</li><li>Experience developing REST interfaces</li><li>Experience with Elasticsearch, Kibana, Grafana, Prometheus, Loki</li><li>Experience with DevOps tools and technologies such as Ansible, Docker, Kubernetes, etc</li><li>Experience with SCM tools (e.g. git) and CI/CD pipelines<br/><br/></li></ul><strong>Basic Requirements<br/><br/></strong><ul><li>Active TS/SCI with Full Scope Polygraph</li><li>Bachelor’s degree in Computer Science or related discipline from an accredited college or university is required. Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor’s degree.</li><li>Ability to Travel (CONUS &amp; OCONUS).<br/><br/></li></ul><strong>Level 1 Experience Requirements<br/><br/></strong><ul><li>Seven (7) years relevant experience is required.</li><li>One (1) years of experience working in a minimum of two of the following: High Frequency (HF), Very High Frequency (VHF), Ultra High Frequency (UHF), Cellular Protocols, Wi-Fi, Angle of Arrival (AOA), Time Difference of Arrival (TDOA), and Frequency Difference of Arrival (FDOA).<br/><br/></li></ul><strong>Level 2 Experience Requirements<br/><br/></strong><ul><li>Fourteen (14) years relevant experience is required.</li><li>Three (3) years of experience working in a minimum of two of the following: High Frequency (HF), Very High Frequency (VHF), Ultra High Frequency (UHF), Cellular Protocols, Wi-Fi, Angle of Arrival (AOA), Time Difference of Arrival (TDOA), and Frequency Difference of Arrival (FDOA).<br/><br/></li></ul>#CJ<br/><br/><strong>Why CTC Group?<br/><br/></strong>As a Service-Disabled Veteran-Owned Small Business (SDVOSB), we recognize that successful partnerships are based on open and direct communication, mutual respect, and the ability to adapt to evolving capabilities. Our cleared employees bring decades of experience supporting customers in the Intelligence and Defense communities. We specialize in providing engineering, technical, operational support, and training services to Federal government, and Mission Operations.<br/><br/>COVID Policy: Prospective and/or new employees will be required to adhere with CTC Group’s vaccination policy. All CTC Group employees must be fully vaccinated, and they must submit proof of vaccination on their first day of employment. Prospective or new employees may seek an exemption to the vaccination requirement by emailing HR and must have an approved exemption prior to the start of their employment. Customer site vaccination requirements, if stricter, will take precedence over CTC Group’s vaccination policy.<br/><br/>CTC Group provides equal employment opportunities to all employees and applicants without regard to race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, physical disability, genetic information, mental disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner status, gender (including sex stereotyping), medical condition (including, but not limited to, cancer related or HIV/AIDS related) or sexual orientation in accordance with applicable federal and state laws. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.<br/><br/>Powered by JazzHR<br/><br/>Ws1gDA6bG0
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

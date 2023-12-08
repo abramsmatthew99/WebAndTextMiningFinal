@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong><strong>Dallas Market Center</strong> is seeking a seasoned Systems Administrator to help oversee our IT infrastructure, ensuring a seamless and secure operational environment. The successful candidate will possess robust technical skills in managing both physical and virtual servers, network hardware, and software, particularly with Windows Server, VMware, Microsoft Active Directory, Microsoft 365 Business, and Azure environments. <strong>This is an on-site position.<br/><br/></strong><strong>Key Responsibilities: <br/><br/></strong><ul><li>Oversee and maintain DMC’s physical and virtual server environments, primarily our advanced VMware setup. </li><li>Install, configure, and manage Windows servers and related software to ensure secure, efficient operation. </li><li>Uphold stringent security measures, ensuring firewall rules and security protocols are correctly implemented. </li><li>Administer Exchange Online security policies, including monitoring of mail flow and email quarantines. </li><li>Schedule and coordinate system upgrades, ensuring minimal downtime. </li><li>Swiftly identify, troubleshoot, and resolve hardware, software, and system issues. </li><li>Offer prompt technical support to employees, even outside regular working hours when necessary. </li><li>Execute and oversee backup/recovery routines, ensuring data integrity and availability. </li><li>Manage Microsoft Active Directory systems, including DNS, DHCP, and other associated technologies. </li><li>Administer user accounts, aiding in employee on-boarding/off-boarding and specifying system access levels. </li><li>Oversee company domain names, SSL certificates, and website management. </li><li>Maintain on-premises Cisco switch/routers and phone systems, ensuring uninterrupted communication channels. <br/><br/></li></ul><strong>Qualifications: <br/><br/></strong><ul><li>Bachelor’s degree in computer science or a related field, or equivalent work experience. </li><li>A minimum of 3 years of experience in a Systems Administrator role. </li><li>Proficiency in Windows Server, Microsoft Exchange, Microsoft Active Directory, Microsoft 365 Business, Azure, VMware, PowerShell, and Cisco/Meraki systems. </li><li>Hands-on experience with backup and disaster recovery solutions. </li><li>Exceptional troubleshooting skills with the ability to resolve issues in a timely manner. </li><li>Analyze user needs and design solutions that follow best practices and support DMC's long-term goals. </li><li>Availability to provide occasional technical support outside standard office hours when required. </li><li>Strong communication and interpersonal skills, with an ability to work well in a team. </li><li>Ability to manage multiple tasks, prioritize effectively, and adapt to new challenges. </li><li>Project management/coordination experience a plus. </li><li>Eagerness to learn new technologies and improve existing systems. </li><li>Independent self-starter that thrives in a fast-paced environment. <br/><br/></li></ul><strong>Company Description<br/><br/></strong>Dallas Market Center is a global business-to-business trade center and the leading wholesale marketplace in North America connecting retailers and interior designers with top manufacturers in home decor, furniture, gifts, lighting and fashion. Inside its dynamic, five million square foot campus near downtown Dallas, nearly 200,000 customers from all 50 states and 85 countries seek industry trends, business education and new products via open-daily showrooms and from exhibitors participating in trade events held throughout the year.<br/><br/>Dallas Market Center is a global business-to-business trade center and the leading wholesale marketplace in North America connecting retailers and interior designers with top manufacturers in home decor, furniture, gifts, lighting and fashion. Inside its dynamic, five million square foot campus near downtown Dallas, nearly 200,000 customers from all 50 states and 85 countries seek industry trends, business education and new products via open-daily showrooms and from exhibitors participating in trade events held throughout the year.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Wholesale
+          </span>
+</li>
+</ul>
+</div>
+</section>

@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>The Internship Experience: Make a Difference<br/><br/></strong>As a Hologic Summer Intern, you are not just taking a job; you are taking your place on a global team of motivated, creative, and dedicated people! The intern experience gives you the opportunity to shine and share your knowledge, energy, and passion on meaningful projects that impact people all over the world. In addition to a project that will provide maximum experience and exposure in your desired field, the Hologic College Relations team provides opportunities to learn more about the company, network with leadership, and develop the skills needed to succeed in your future career.<br/><br/>SW V&amp;V Team working simultaneously on releasing Panther/Panther Fusion SW, Panther Unity, Workcell, LA Dashboard, Novodiag projects. The intern will provide assistance with test case executions and reliability and stress testing to support these projects. These tests are resource intensive and require a lot of hands on instrument time. These test protocols are relatively simple to master and execute. This free’s up a more senior resources time to triage and analyze the data produced from these runs which is critical to determining the instrument and software performance and maturity. These tests also help us understand any deviations from the last commercial release of the software on that instrument platform.<br/><br/><strong>Throughout the 10-12 weeks you'll have the opportunity to participate in the following:<br/><br/></strong><ul><li>Students will learn how V&amp;V is performed for software requirements on a Class I/II medical device. </li><li>They will learn how to perform the testing in a FDA/UL regulated environment. </li><li>They will learn how to complete the laboratory work in accordance with established safety procedures and follow applicable regulatory guidelines. </li><li>They will gain valuable experience in product testing and V&amp;V expertise on a medical device. </li><li>They will learn to work in a team environment, execute protocols, collect the necessary data and perform first level of triage. Interns will be supervised by a test team member during their tenure with us.<br/><br/></li></ul><strong>We're looking for bright, inquisitive problem solvers who strive to make a difference.</strong> <strong>Key qualifications include the following:<br/><br/></strong><ul><li>Able to work full-time over the summer months (May-August) </li><li>Currently enrolled in a Bachelor’s degree or Master's degree program and have at least one semester remaining to complete after internship</li><li>Rising Junior, Rising Senior</li><li>Majoring in:  Engineering and/or computer science background is preferred</li><li>Preferred cumulative GPA of 3.2 or higher </li><li>Strong written and verbal communication skills</li><li>Experience or exposure to working with MS Office applications (Excel, Word, PowerPoint) </li><li>Candidate must be physically capable and willing to work in a lab environment 6-7 hours/day performing system level manual testing on a complex instrumentation platform.</li><li>Candidate will be required to work in either the 6 AM- 3PM or 2 PM-11 PM shift based on project needs.</li><li>Be comfortable working in a fast paced environment and have very strong follow up and follow through. Interns must be willing to take directions, ask questions when and as needed, respond to questions or provide logs etc when requested.</li><li>Ability to work onsite at our San Diego, CA campus. Intern housing, relocation, and housing stipends are not provided. <br/><br/></li></ul><em><strong>Hologic, Inc. is proud to be an Equal Opportunity Employer inclusive of disability and veterans.<br/><br/></strong></em><em><strong>The hourly pay range for this role is $22-$35/hr. Compensation is determined by class standing and operational function.</strong></em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Medical Equipment Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

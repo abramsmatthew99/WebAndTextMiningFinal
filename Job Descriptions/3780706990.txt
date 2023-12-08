@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>We are looking for experienced DevOps and SRE automation engineers to support our Data Center automation development! In this role, you will develop and employ continuous integration and deployment in support of our evolving CI/CD process. You will engage with the SW Development Engineers to build and maintain a seamless development flow and tackle large scale optimization challenges.<br/><br/>The ideal candidate will be self-motivated, have excellent communication skills, creativity and a willingness to continuous learning.<br/><br/><strong>The Candidate Should Exhibit The Following Behavioral Traits<br/><br/></strong><ul><li>Excellent communication skills, both written and verbally</li><li>Self-motivated, fast learner<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong>You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.<br/><br/><strong>Minimum Qualifications<br/><br/></strong>The candidate must have a Bachelor's Degree in Electrical/Computer Engineering or Computer Science and 3+ years of experience -OR- a Master's Degree in Electrical/Computer Engineering or Computer Science and 2+ years of experience -OR- a PhD in Electrical/Computer Engineering or Computer Science and experience in:<br/><br/><ul><li>Implementing DevOps processes, practices, and a willingness to build and maintain the necessary infrastructure</li><li>Developing and writing CI/CD pipelines (Jenkins, Github, Artifactory)</li><li>Development and deployment on Linux</li><li>Windows and Powershell</li><li>Containerization (Docker, Kubernetes)</li><li>Infrastructure automation frameworks (Github, Ansible, Salt, Artifactory)</li><li>Infrastructure monitoring solutions (Prometheus, Grafana)</li><li>Storage systems such as Weka.io, Netapp, Lustre, etc.</li><li>Scripting (Bash, Python)</li><li>Networking and DNS</li><li>Azure<br/><br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Windows server administration</li><li>Datacenter</li><li>Network automation</li><li>Experience in the use of configuration management automation tools such as Puppet, Chef, Saltstack in creating continuous delivery systems</li><li>Experience with ELK or other monitoring, dashboarding and alerting tools<br/><br/><br/></li></ul>Inside this Business Group<br/><br/>Enable amazing computing experiences with Intel Software continues to shape the way people think about computing – across CPU, GPU, and FPGA architectures. Get your hands on new technology and collaborate with some of the smartest people in the business. Our developers and software engineers work in all software layers, across multiple operating systems and platforms to enable cutting-edge solutions. Ready to solve some of the most complex software challenges? Explore an impactful and innovative career in Software.<br/><br/>Other Locations<br/><br/>US, TX, Austin; US, AZ, Phoenix<br/><br/>Posting Statement<br/><br/>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<br/><br/><strong>Benefits<br/><br/></strong>We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.<br/><br/>Working Model<br/><br/>This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. <br/><br/><strong>In certain circumstances the work model may change to accommodate business needs.<br/><br/></strong>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Semiconductor Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

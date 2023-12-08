@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        Our client is looking for an experienced <strong>Software Engineer</strong>, must have a <strong>Top-Secret Security Clearance/Full Scope Poly</strong>.<br/><br/>In this position, you will join an existing team providing development support to Security Sustainment applications. The applications supported are front-end technologies, i.e., JavaScript (AngularJS, Vue.js, Node.js). The role requires a self-motivated individual that is comfortable working in a team environment. This position will require working in a fast-paced team and a willingness to take on challenges to upgrade or modify sustainment systems. The position is required to utilize software development and software design methodologies appropriate to the development environment and consistent with DevOps objectives.<br/><br/>Key Technologies:<br/><br/><ul><li> Node.js</li><li> AngularJS</li><li> Angular</li><li> Vue.js</li><li> MongoDB<br/><br/></li></ul>Experience with containerization<br/><br/>Experience with NiFi<br/><br/>Experience working with the AWS Platform<br/><br/>Experience working in an Agile Development Team<br/><br/>Experience managing the full software development lifecycle (SDLC) to include requirements definition, design, development, test, deployment, and sustainment<br/><br/>Six (6) years of experience in software development/engineering<br/><br/>Bachelor’s degree from an accredited college or university in Computer Science or related discipline<br/><br/>Four (4) years of additional software development experience may be substituted for a bachelor’s degree for a total of ten (10) years of experience<br/><br/>Experience working with front-end technologies<br/><br/>Experience with Node.js, AngularJS, Angular, VueJS or comparable JavaScript frameworks/libraries<br/><br/>Willingness to learn new technologies<br/><br/><strong>Experience With MongoDB Or Other NoSQL Database Experience<br/><br/></strong>Experience working with Git for source code management<br/><br/>Experience developing and updating technical documentation<br/><br/><strong>Posted:</strong> Wednesday, November 15, 2023<br/><br/>Powered by JazzHR<br/><br/>mUaE68OGtJ
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

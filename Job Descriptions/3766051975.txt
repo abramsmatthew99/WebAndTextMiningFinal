@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Tampa, FL<br/><br/></strong><strong>Summary<br/><br/></strong>Founded in 2001, Indigo IT is an award-winning information technology consulting and services company. We are a trusted services provider to government agencies seeking innovative Cloud, Cybersecurity, Knowledge Management, and Enterprise solutions. We know our defense, federal, and civilian customers have critical IT infrastructures that must remain reliable, available, and maximized. Indigo IT is mission focused and committed to maintaining a sense of urgency in anticipating and supporting our customers’ technology goals and objectives. Our unique ability to think beyond today allows our clients to stay ahead of their IT challenges. Recognized on the 2020 &amp; 2021 Inc. 5000 list of America’s fastest growing companies, we are always looking to hire top talent in the field - come join us today!<br/><br/><strong>Brief Summary<br/><br/></strong><strong>Scope.</strong> The IDST will be based on a hub and spoke concept of operations with analysts permanently positioned or on Temporary Duty (TDY) status at the USSOCOM HQ, TSOC, Component Commands, Special Operations Joint Task Forces (SOJTF), Combined Joint Special Operations Task Forces (CJSOTF), Special Operations Task Forces (SOTF), and Special Operations Command Forward Elements (SOCFWD). The IDST contractors/analysts will vary in skill sets ranging from Data Scientists to Data Integrators and will provide support to IDST leadership during recurring planning events, customer requirement discussions, and capability development in line with their respective positional technical requirements. IDST contractors will operate and conduct analysis on SOFNET-U, SOFNET-S, JIANT, SOIS, SOCRATES, NSAnet, and in some cases on the commercial internet. The team, at a minimum will be comprised of Data Integrators, Data Engineers, Data Analysts, Data Scientists, System Architects, Data Engineers, and Front-End Developers.<br/><br/><strong>Technical Integration.</strong> The IDST exists to support the intelligence analysts in crafting equitable questions of the data and is built to create an entity that consolidates the competencies of data science, computer science, advanced mathematics, and knowledge of the SOF Intelligence and Information Enterprise (SI2E) to the fingertips of the SOF intelligence analysts. IDST will be gathering, evaluating and operationalizing voluminous amounts of raw data, based on Government directed requirement(s) and providing this data in the form of information or knowledge by combining various techniques to organize and structure it for presentation to intelligence analysts across multiple network domains. The specific requirements and deliverables of the IDST are to deliver a hub and spoke structured team of Data Science professionals that are educated in various aspects of Data Science and able to assist SOF intelligence analysts throughout the SI2E with access, manipulation, and visualization of data.<br/><br/><strong>Essential Functions/Responsibilities<br/><br/></strong>Use technology to mine complex, voluminous, and different varieties of data from various sources and platforms, in order to, collect, analyze, and compile data to meet customer needs.<br/><br/><strong>Performance Duties<br/><br/></strong><ul><li>Analyze local, national, and global trends to identify new sources of data and methods to improve data collection, analysis, and reporting</li><li>Determine technical issues and remove corrupted data &amp; fix coding errors and related issues</li><li>Work collaboratively with Intelligence and Data analysis teams to produce qualitative and quantitative data analysis that supports Intelligence products and processes</li><li>Build data solutions, tools, and capabilities to enable self-service frameworks and/or automation for data consumers to monitor, extract, and report on data</li><li>Work with IDST members and USSOCOM leadership to identify process improvement opportunities, propose system modifications, and devise data management strategies for the enterprise to improve the quality and usability of data</li><li>Use statistical tools to identify, analyze, and interpret patterns and trends in complex data sets<br/><br/><br/></li></ul><strong>Specific Knowledge, Skills, &amp; Abilities<br/><br/></strong><strong>Required Skills:</strong> Python<br/><br/><strong>Preferred Skills (not limited to):</strong> Python, JavaScript, R, C/C++, SQL, Go, Flask, React, SQLAlchemy, CI/CD<br/><br/><strong>Education, Experience, &amp; Certifications<br/><br/></strong>Possess a minimum of a bachelor's degree in a computer science discipline or equivalent.<br/><br/>Experience providing services similar in required tasks, scope, and complexity.<br/><br/>Current DoD Top Secret clearance and eligible for SCI access and ACCM read-on.<br/><br/>Indigo IT is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Contract
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Information Technology &amp; Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

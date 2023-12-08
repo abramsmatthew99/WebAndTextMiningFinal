@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Our Vision<br/><br/></strong>FLYR is focused on the relentless application of advanced and intuitive technologies that help transportation leaders unlock their ultimate potential.<br/><br/>FLYR is a technology company that is purpose-built for the travel industry. Leveraging deep learning, an advanced form of AI, FLYR is helping airlines, cargo, and hospitality businesses around the globe elevate their results. With FLYR, businesses are able to improve revenue performance and modernize the e-commerce experience through accurate forecasting, automation, and analytics.<br/><br/><strong>Flight Itinerary (About The Role)<br/><br/></strong>We are looking for a strong ML engineer to build new capabilities in the Revenue Operating System to include Air Cargo demand forecasting and ML-based pricing capabilities. As a senior member of the engineering team, you will architect the development of a new AI-driven cargo revenue management application.<br/><br/>Come join us in the early stages of a new product offering, powered by FLYR’s existing best-in-class Revenue Operating System. We’re building state-of-the-art ML powered forecasting and decision making systems, on a SaaS cloud-native platform.<br/><br/>We strongly believe in fostering an environment for intellectually interesting work that advances your career progression on this journey. Let’s get you on board soon.<br/><br/><strong>What Your Journey Will Look Like (Responsibilities)<br/><br/></strong><ul><li>You will build a greenfield new product offering on FLYR’s platform, building capabilities in the areas of air cargo forecasting and automated pricing decision making.</li><li>You will develop robust and scalable data pipelines, ML model hosting, and backend services for enterprise line of business applications in Python, VertexAI, Airflow, dbt, Flask, PostgreSQL, BigQuery, Docker, Kubernetes, and more.</li><li>You will provide technical expertise and leadership in the design, development, and delivery of products, while adhering to coding standards, requirements, and quality.</li><li>You will make accurate estimates for upcoming work, communicate technical solutions effectively, and report progress.</li><li>You will work in a product-focused scrum team to deliver against a roadmap managed by a dedicated product owner.</li><li>You will collaborate with Technical Product Owners to design and deliver complex data pipelines, ML-based decision support capabilities and external integration interfaces.</li><li>You will work closely with data scientist teams on ML feature engineering and build model inference pipelines and model training set generation pipelines. </li><li>You will participate in stand-ups, bug triages, retrospectives, and other team meetings.</li><li>You will be a technical thought-leader to constantly improve how we work.<br/><br/></li></ul><strong>What To Pack For This Trip (Qualifications)<br/><br/></strong><ul><li>Progressive career experience as a software developer, data engineer, analytics engineer, or ML engineer. Software experience on data-intensive systems and experience working with data scientists and data analysts is required. </li><li>3+ years of hands-on experience in building SaaS products.</li><li>5+ years of proven software development experience in a popular object-oriented or functional programming language, preferably Python.</li><li>Solid computer science foundation including data structures, algorithms, and design patterns, with a proven track record of software design and architecture.</li><li>Experience with Cloud platforms (GCP/AWS).</li><li>Comfortable in SQL and modern data warehouses (BigQuery/Snowflake/Redshift). </li><li>Engineering and analytics experience with data pipelines for business KPIs and metrics.</li><li>Solid grounding in version control and experience working with a team using Git.</li><li>Senior members of our engineering organization have the ability to mentor and guide new members, grow the engineering-excellence culture, and influence the larger engineering organizations.</li><li>Strong communication with experience collaborating across multiple teams and partners.</li><li>Quantitative background (Computer Science, Engineering, Math, Economics, etc.) or equivalent work experience.<br/><br/></li></ul><strong>First-Class Amenities<br/><br/></strong><ul><li> Equity in Series C startup with high growth potential </li><li> Comprehensive healthcare plans (Choice of PPO &amp; HMO available) </li><li> Generous PTO policy and flexible working arrangements </li><li> 401K with company match </li><li> Free breakfast/Lunch (in-office) </li><li> 100% paid Parental Leave for 12 weeks </li><li> Annual educational fund <br/><br/></li></ul>Compensation: The salary range for this role is commensurate with experience and is as follows:<br/><br/>$119,000 — $167,000 USD<br/><br/><strong>Our Commitment to Equality<br/><br/></strong>Here at FLYR, we’re committed to growing with intention, having our teams better reflect the world around us. We strive to create an environment of inclusion and even more importantly, belonging, where psychological safety, empathy, and human connection are at the center of our leadership principles. Not only does this enable us to create better products and have a better work environment, it’s good for the bottom line and it’s the right thing to do.<br/><br/>FLYR provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender identity, sex, sexual orientation, national origin, age, physical or mental disability, genetics, marital or veteran status. In addition to federal law requirements, FLYR complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company operates.<br/><br/><strong>Privacy Policy<br/><br/></strong>All applicants, including those based in California or the EU, are encouraged to review our Privacy and Cookie Policy .<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

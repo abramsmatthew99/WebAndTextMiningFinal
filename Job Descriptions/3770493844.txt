@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<p><strong>About Prometheus Group</strong></p><p>Prometheus Group is a team of self-starters centered on being resourceful, accountable, and results-focused. Career progress is based on merit and not years of service or attaining certifications. Our drive and dedication to creating great products for our global customers are at the heart of all we do! In joining Prometheus, you will become a part of the largest global provider of comprehensive enterprise asset management (EAM) software solutions that support the management life cycle for equipment maintenance and operations.</p><p><br/></p><p><strong>Job Summary</strong></p><p>A Data Quality Engineer is responsible for ensuring the accuracy, completeness, and reliability of data within an organization. Their primary focus is on maintaining high-quality data that meets the standards and requirements of the business.</p><p><br/></p><p><strong>Responsibilities</strong></p><ul><li>Conduct thorough analysis of data to understand its characteristics, patterns, and anomalies. This involves examining data structures, formats, and values to identify potential issues.</li><li>Implement processes and procedures to clean and correct data inconsistencies, errors, and inaccuracies. This may involve using automated tools or manual techniques to improve data quality.</li><li>Develop and execute validation processes to ensure data accuracy and integrity. This includes the validation of data inputs and outputs across different systems and processes.</li><li>Set up monitoring systems to continuously track and detect data quality issues. This allows for early identification of problems and timely corrective actions.</li><li>Collaborate with data governance teams to establish and enforce data quality standards, policies, and best practices. This involves defining data quality metrics and key performance indicators (KPIs) for monitoring.</li><li>Create and maintain documentation related to data quality processes, standards, and guidelines. This documentation helps ensure consistency and provides a reference for data quality initiatives.</li><li>Work closely with data users, analysts, and other stakeholders to understand their data requirements and address any data quality concerns they may have.</li><li>Investigate and identify the root causes of data quality issues. This involves tracing data discrepancies back to their source and implementing corrective measures.</li><li>Conduct testing activities to validate data quality during the development and deployment of new data-related systems or processes.</li><li>Proactively identify opportunities for enhancing data quality and implementing improvements. This may involve suggesting changes to data collection processes, data storage structures, or data validation procedures.</li><li>Provide training and support to individuals involved in data-related processes to ensure a shared understanding of data quality principles and practices.</li></ul><p><br/></p><p><strong> Requirements</strong></p><ul><li>Bachelor's degree in engineering, computer science, computer information science, information technology, management information systems, or a related field from an accredited university.</li><li>Experience working with data--knowledge of data quality: profiling, cleansing, validation, and monitoring highly preferred.</li><li>Hands-on ability to work autonomously to problem-solve, as well as excellent analytical skills.</li><li>Strong technical documentation skills.</li></ul><p><br/></p><p><strong>Benefits Overview</strong></p><p>We offer an attractive benefits program to meet the diverse needs of our teammates:</p><ul><li>Employee base HSA plan, dental, life and short-term disability coverage 100% paid for by Prometheus Group</li><li>Paid parental leave</li><li>HSA &amp; FSA plan options</li><li>Retirement Savings with Generous Company Match &amp; Immediate Vesting</li><li>Gym membership to O2 Fitness</li><li>Casual dress attire</li><li>Half-Day Fridays</li><li>Generous Paid Time Off</li><li>Company Outings, Trips &amp; Activities</li></ul><p><br/></p><p>Prometheus Group is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering, Business Development, and General Business
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

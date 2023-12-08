@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>FlexTrade is looking for Software Developers to be a part of a rapidly evolving technology group supplying top quality solutions to our growing top tier Wall Street client base. <br/><br/></strong>Our wide range of trading products, including Equities, Options, Futures, FX and more, offers numerous technical opportunities. Candidates must have a passion for learning and designing new technologies and methodologies quickly and employing them into deliverable solutions. Our team members contribute to the full software cycle of design, development and support of new and existing software components.<br/><br/>With buy- and sell-side clients in 45 countries, we understand Global, and position more than 500+ top software developers, industry experts and representatives across all trading regions to partner with our clients to bring their expertise and workflows to life. Whether it is equities, FX, derivatives or fixed income, these collaborations with customers have resulted in stunning innovations which have enhanced their trading performance.<br/><br/><strong>RESPONSIBILITIES</strong><strong>:<br/><br/></strong>Product Development:<br/><br/><ul><li>Software Component Design and Development</li><li>Think independently to build and implement creative solutions and modern design patterns.</li><li>Work closely with team members and with other teams to ensure quick and easy integration of new components.</li><li>Create documentation for new and existing components.<br/><br/><br/></li></ul>Product &amp;Component Testing:<br/><br/><ul><li>Perform developer testing for all software modifications.</li><li>Work with QA to expand regression test plans for software modifications.<br/><br/><br/></li></ul>Client Support:<br/><br/><ul><li>Work closely with FlexTrade’s clients to keep them informed at all stages of the development life cycle, maintaining our best practices of client service.</li><li>Support client upgrades and new installations as well as troubleshooting issues.<br/><br/><br/></li></ul><strong>Value teamwork!!! </strong>At the outset you will collaborate and work closely with senior executives and seasoned team members to ensure quick and easy integration of new technology components. Research new technologies and methodologies to constantly improve our product and practices. Continue our culture of striving to be the best!<br/><br/><ul><li>Bachelor's Degree or higher in Computer Science</li><li>Excellent C++ Development Skills</li><li>Familiarity with Linux &amp; Windows Operating Systems</li><li>Exceptional problem-solving abilities</li><li>Very good communication and interpersonal skills </li><li>FlexTrade Systems, Inc. does not accept unsolicited resumes from search firm recruiters. Fees will not be paid in the event a candidate submitted by a recruiter without an authorized agreement for a particular SOW (Statement of Work) in place is hired: such resumes are deemed the sole property of FlexTrade Systems, Inc.**</li><li>FlexTrade Systems, Inc. is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other status protected by law.**</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Other
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Financial Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

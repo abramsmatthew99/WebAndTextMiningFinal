@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<em>To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.<br/><br/></em><strong>About Futureforce University Recruiting<br/><br/></strong>Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.<br/><br/><strong>Job Category<br/><br/></strong>Software Engineering<br/><br/><strong>Job Details<br/><br/></strong><strong>About Salesforce<br/><br/></strong>We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.<br/><br/>Interested in being part of one of the biggest Big Data platforms at massive scale running on public and private cloud substrates? Salesforce is building out our Big Data Platform Services team to reinvigorate the way we architect, deliver, and operate the platforms and services that run in our own data centers and also in public clouds, at consumer web scale. We are looking to add Engineers who are interested in building and owning distributed services.<br/><br/><strong>Your Impact<br/><br/></strong><ul><li>Work with Phoenix, HBase, Mapreduce, Yarn, Kafka, Spark, Hive, Presto, or equivalent large-scale distributed systems technologies on a modern containerized deployment stack using Kubernetes, Spinnaker, and other technologies</li><li>Build a truly multi-cloud data infrastructure platform</li><li>Be an Open Source contributor on teams that have PMCs and committers on various Apache projects</li><li>Eat, sleep, and breathe services</li><li>Design, develop, debug and operate resilient distributed systems that run across thousands of compute nodes in multiple data centers<br/><br/></li></ul><strong>Required Skills<br/><br/></strong><ul><li>BS or MS in Computer Science or related technical field</li><li>2+ years of experience with Java, Python and/or C++ in a Linux/UNIX data center environment</li><li>Academic, professional or internship experience working in a professional coding setting environment<br/><br/></li></ul><strong>Preferred Skills<br/><br/></strong><ul><li>Experience with Agile Development Methodology and Test-Driven Development</li><li>Experience balancing live-site management, feature delivery and retirement of technical debt</li><li>Experience building Big Data services on AWS, GCP or other public cloud substrates</li><li>Experience owning and operating multiple instances of a mission-critical service</li><li>Experience using telemetry and metrics to drive operational excellence<br/><br/></li></ul>Accommodations<br/><br/>If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.<br/><br/><strong><strong><strong><strong>Posting Statement<br/><br/></strong></strong></strong></strong>At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com.<br/><br/>Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce.<br/><br/>﻿Salesforce welcomes all.<br/><br/>Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.<br/><br/>For Washington-based roles, the base salary hiring range for this position is $133,000 to $153,300.<br/><br/>For California-based roles, the base salary hiring range for this position is $141,000 to $16,100.<br/><br/>Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, benefits. More details about our company benefits can be found at the following link: https://www.salesforcebenefits.com.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Not Applicable
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting, Software Development, and Technology, Information and Internet
+          </span>
+</li>
+</ul>
+</div>
+</section>

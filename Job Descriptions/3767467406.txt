@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>About Us<br/><br/></strong>With years of R&amp;D history in Silicon Valley, Futurewei has a vision of an intelligent and connected world. As a well-funded independent research organization, we are committed to open-source development, fundamental research, and standards development.<br/><br/><strong>About The Job<br/><br/></strong>We are looking for a talented researcher in deep learning to join our ASID team in Santa Clara.We are passionate about applied deep learning research to solve computer vision problems in image restoration, model acceleration, 3D and Nerf, ViT, CLIP, VAE and Diffusion models, as well as feature embedding, contrastive learning and multi-modal learning etc.<br/><br/><strong>Responsibility<br/><br/></strong><ul><li> Develop image restoration algorithms in model acceleration, 3D and Nerf, ViT, CLIP, VAE, and Diffusion models, as well as feature embedding, contrastive learning, and multi-modal learning etc.</li><li> Develop demo prototypes for computer vision applications.</li><li> Summarize the developed algorithms into academic papers and patent applications.<br/><br/><br/></li></ul><strong>Qualifications<br/><br/></strong><ul><li> Ph.D. in Computer Science, Electrical Engineering, Artificial Intelligence, Mathematics, or close related field with relevant research experience.</li><li> Excellent knowledge of theory and practice of machine learning and deep learning.</li><li> Knowledge of applications areas such as language modal and computer vision.</li><li> Strong experience with deep learning framework such as Tensorflow or PyTorch.</li><li> Solid programming skills with Python.</li><li> Proven track record of academic publication in top conferences and journals.</li><li> Strong communication and interpersonal skills and the ability to work in a dynamic, global team.<br/><br/><br/></li></ul><strong>Location: Santa Clara, CA<br/><br/></strong>Hourly interns pay range: $18 to $59, depending on degree-seeking academic program (PhD, Master’s, Bachelor’s, etc.), years of relevant experience, year in school, geographic location, credentials, qualifications, and other job-related factors.<br/><br/>Housing allowance and relocation benefit might be provided to intern candidates who meet the qualifications. Additional details on the compensation package will be provided to candidates during the interview process .<br/><br/><strong>Futurewei Technologies, Inc. is proud to be an Equal Opportunity Employer.<br/><br/></strong>All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status under federal, state, and local laws.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internship
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Telecommunications
+          </span>
+</li>
+</ul>
+</div>
+</section>

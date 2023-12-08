@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>Jobs for Humanity is partnering with Capital One to build an inclusive and just employment ecosystem. Therefore, we prioritize individuals coming from the following communities: Refugee, Neurodivergent, Single Parent, Blind or Low Vision, Deaf or Hard of Hearing, Black, Hispanic, Asian, Military Veterans, the Elderly, the LGBTQ, and Justice Impacted individuals. This position is open to candidates who reside in and have the legal right to work in the country where the job is located.<br/><br/>Company Name: Capital One<br/><br/><strong>Job Description<br/><br/></strong>Job Title: Technical Support Specialist Location: 299 Park Avenue, New York, NY Job Summary: We are looking for a Technical Support Specialist to join our team and provide onsite support to a diverse group of employees, including those from different divisions and remote workers. In this role, you will be responsible for troubleshooting software and hardware issues, with a focus on laptop support. We are seeking someone with excellent customer service skills and the ability to make quick decisions in resolving technical problems. Responsibilities: - Provide onsite support to a fast-growing business group of 1000+ employees - Troubleshoot and resolve software and hardware issues - Assist with laptop support for Windows PC’s, Macs, and Mobile Devices - Ensure excellent customer service in handling internal user's technical issues - Collaborate with team members to resolve more complex technical problems Requirements: - High School Diploma, GED, or equivalent certification - At least 1 year of experience in remote administration and end user support - Familiarity with ticketing and traffic reporting tools (Zendesk, HPSM, ServiceNow) Preferred Qualifications: - Associate’s Degree in Business, Information Systems, Computer Science or Military experience - Experience with Active Directory services integration - Knowledge of change, incident, and problem management functions - Apple certification(s) - Experience with virtualization technologies (VMWare tools) - macOS Server administration experience - Experience with platform management and integration (JAMF Casper Suite or SCCM) - Familiarity with productivity tools on Mac (MS Office, Lync or Skype) - Experience supporting end users on Mac systems - Knowledge of image deployment, software and system testing, and encryption and security tools Salary Range: New York City (Hybrid On-Site): $71,400 - $81,500 for Principal Coordinator, Support Operations. Salaries for part-time roles will be prorated based on agreed hours. Benefits: Capital One offers a comprehensive and competitive set of health, financial, and other benefits that support your total well-being. To learn more about our benefits, please visit the Capital One Careers website. Eligibility varies based on employment status and management level. Equal Opportunity Employer: Capital One is committed to diversity and inclusion in the workplace. We provide equal employment opportunities to all qualified applicants, without regard to sex, race, age, religion, disability, genetic information, marital status, sexual orientation, gender identity, citizenship, military or veteran status, or any other basis prohibited under applicable law. Accommodation: If you require an accommodation during the application process, please contact Capital One Recruiting at 1-800-304-9102 or email RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and used only for providing necessary accommodations. Technical Support: For technical support or questions about our recruiting process, please email Careers@capitalone.com. Note: Capital One Financial is composed of multiple entities. Please be aware that positions posted in specific locations correspond to the respective entity (e.g., positions in Canada are for Capital One Canada). We look forward to receiving your application and having you join our team!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Non-profit Organizations
+          </span>
+</li>
+</ul>
+</div>
+</section>
