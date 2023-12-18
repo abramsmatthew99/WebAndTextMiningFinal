@@ -19,7 +19,7 @@ def get_job_description(job_id):
     s = soup.find(class_="description")
     return str(s)
 
-with open('job_ids') as f:
+with open('redo_job_descriptions.txt') as f:
     job_ids = f.readlines()
 
     job_ids = [id.strip() for id in job_ids]
