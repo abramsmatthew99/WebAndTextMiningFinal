@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import bleach
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer as wnl
+from nltk.corpus import stopwords
 
 import random
 import string
@@ -13,7 +14,7 @@ def get_files():
         files_list.append(fi)
     return files_list
 
-def clean(text):
+def extract(text):
     soup = BeautifulSoup(text, 'html.parser')
     countables = get_countables(soup)
     # Usually job descriptions and qualifications are in bold, not in a div by themselves
@@ -33,8 +34,6 @@ def clean(text):
         qual = " ".join(BeautifulSoup(str(soup).split(qual_string)[-1].split("<strong>")[0],'html.parser').stripped_strings).split("Show more")[0]
         #print(qual)
     return resp, qual, countables
-
-#    print(BeautifulSoup(str(soup).split(resp_string)[1].split("<strong>")[0],'html.parser').text)
 
 def get_countables(soup):
     countables = soup.find_all(class_="description__job-criteria-text description__job-criteria-text--criteria")
@@ -76,24 +75,35 @@ def get_qualifications(bold_list):
                     return bold_list[i]
     return ''
 
+def clean(text):
+    text = text.lower().strip()
+    text = ' '.join([word for word in text.split() if word not in stops])
+    text = ''.join([char for char in text if char not in string.punctuation])
+    words = [lemmatizer.lemmatize(word) for word in text.split()]
+    words = [word for word in words if word not in stops]
+    return ' '.join(words)
+
 if __name__ == '__main__':
     #i = random.randint(0,3000)
     #rcount, qcount, ccount = 0, 0, 0
     #r = []
-    files = get_files()[:100]
+    files = get_files()
     lemmatizer = wnl()
+    stops = stopwords.words('english')
     for i in range(len(files)):
         fi = files[i]
         with fi.open() as f:
             text = ' '.join([t.strip() for t in f.readlines()])
-            resp, qual, countables = clean(text)
+            resp, qual, countables = extract(text)
         if resp:
+            resp = clean(resp)
             with open(f"descriptions/{fi.stem}_description.txt","w") as tx:
                 tx.write(f"{resp}\n")
         if qual:
-            with open(f"qualifications/{fi.stem}_description.txt","w") as tx:
+            qual = clean(qual)
+            with open(f"qualifications/{fi.stem}_qualifications.txt","w") as tx:
                 tx.write(f"{qual}\n")
         if countables:
             with open("countables.csv","a") as tx:
-                tx.write(f"{','.join([fi.stem] + countables)}\n")
+                tx.write(f"{';'.join([fi.stem] + countables)}\n")
         print(f"Saved {fi.stem}")

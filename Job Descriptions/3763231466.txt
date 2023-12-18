@@ -7,10 +7,18 @@
 <div class="description__text description__text--rich">
 <section class="show-more-less-html" data-max-lines="5">
 <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
-        Position Purpose:As a Software Engineer Intern, you will bring your training and intellectual curiosity to become familiar with all aspects of designing, building, deploying, and supporting production software that Home Depot associates and customers will love. You will be part of a dynamic team with engineers of all experience levels who help each other build and grow technical and leadership skills.<br/><br/>This is a temporary role with potential to grow into a permanent position. Typically reports to the Software Engineer Manager or Sr. Manager.Key Responsibilities:40% Delivers &amp; Executes<br/><br/><ul><li>Develops, tests, deploys, and maintains software with guidance30% Learns &amp; Grows</li><li>Learns through successful and failed experiments when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels30% Plans and Aligns</li><li>Collaborates with other team members in agile processes; Relates openly and comfortably with diverse groups of peopleDirect Manager/Direct Reports:This position typically reports to Software Engineer Manager or Sr ManagerThis position has 0 Direct ReportsTravel Requirements:No travel required.Physical Requirements:Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.Working Conditions:Located in a comfortable indoor area.<br/><br/></li></ul>Any unpleasant conditions would be infrequent and not objectionable.<br/><br/>Minimum Qualifications:Must be eighteen years of age or older.Must be legally permitted to work in the United States.Preferred Qualifications:0-1 years of relevant work experienceExposure to front end technology such as HTML, CSS, and Javascript/Typescript frameworksExposure to an object-oriented programming language (preferably Java)Exposure to source code version controlExposure to Relational or noSQL database technologyExposure to cloud computing techniquesExposure to CI/CD toolsExposure to microservice-based architectureMinimum Education:The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.Preferred Education:No additional educationMinimum Years of Work Experience:1Preferred Years of Work Experience:No additional years of experienceMinimum Leadership Experience:NonePreferred Leadership Experience:NoneCertifications:NoneCompetencies:Global PerspectiveManages AmbiguityNimble LearningSelf-DevelopmentCollaboratesCultivates InnovationSituational AdaptabilityCommunicates EffectivelyDrives Results
+        The DC Networking team is responsible for developing, deploying, and operating Meta's global data center networks. Our work covers the entire network lifecycle, including hardware development, capacity planning, distributed and centralized control systems, modeling/provisioning/automation, monitoring/troubleshooting/analytics, and simulation/design/failure analysis. We are actively seeking Software Engineers to help build and scale our rapidly evolving network infrastructure. We are looking for Software Engineers with a passion for networking and aptitude for building scalable distributed systems. Do you want to work on one of the most dynamic, fast-paced networks in the world? Do you want to develop innovative solutions to our challenges and ship them into production? Then a role on one of our network engineering teams is for you!<br/><br/>Software Engineer - Networking Responsibilities:<br/><br/><ul><li>Design and implement drivers (and/or Firmware) for (network) ethernet adapter functions, Transport stack for RDMA, control functions with the host/accelerators.</li><li>Design and implement Platform services such as programming, monitoring, and controlling system components (Optics, PHY, FPGAs, sensors, fan control, power etc).</li><li>Develop and enhance HPC collective communication and parallel computing libraries such as NCCL, RCCL, OneCCL, and MPI</li><li>Debug complex, system-level, multi-component issues that typically span across multiple layers from Kernel, and user-mode applications.<br/><br/></li></ul>Minimum Qualifications:<br/><br/><ul><li>Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.</li><li>Proficient in programming in C/C++/Python</li><li>Hands on experience with debugging large scale systems<br/><br/></li></ul>Preferred Qualifications:<br/><br/><ul><li>Experience in one of the following areas -</li><li>Experience with Linux Kernel, especially drivers and network stack</li><li>Working knowledge of transport stack particularly RDMA (RoCEv2)</li><li>Experience with parallel computing platforms such as CUDA, RoCM and OpenCL</li><li>Platform services (program, control, and monitor Optics, PHY, FPGAs, sensors, fan control, power etc), BSP/Board Support Package, Operating Systems, Kernel, Bootloader, Power Management, RTOS, Linux.</li><li>Experience with Qemu, FPGA Emulation environment is a plus<br/><br/></li></ul>About Meta:<br/><br/>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br/><br/>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br/><br/>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
       </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
 </section>
 </div>
 <ul class="description__job-criteria-list">
@@ -19,7 +27,7 @@
             Seniority level
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Internship
+            Not Applicable
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -27,7 +35,7 @@
           Employment type
         </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Internship
+          Full-time
         </span>
 </li>
 <li class="description__job-criteria-item">
@@ -43,7 +51,7 @@
             Industries
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Retail
+          Technology, Information and Internet
           </span>
 </li>
 </ul>

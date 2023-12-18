@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        We are growing!!<br/><br/>LTIMindtree is looking for dynamic and enthusiastic NOC Engineer ( Entry Level) in Houston, TX.<br/><br/>LTIMindtree is a global technology consulting and digital solutions company that enables enterprises across industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies. As a digital transformation partner to more than 750 clients, LTIMindtree brings extensive domain and technology expertise to help drive superior competitive differentiation, customer experiences, and business outcomes in a converging world.<br/><br/>Powered by nearly 90,000 talented and entrepreneurial professionals across more than 30 countries, LTIMindtree — a Larsen &amp; Toubro Group company — combines the industry-acclaimed strengths of erstwhile Larsen and Toubro Infotech and Mindtree in solving the most complex business challenges and delivering transformation at scale.<br/><br/>For more information, please visit www.ltimindtree.com.<br/><br/>Certified Great Place to Work!<br/><br/><strong>You Will: <br/><br/></strong><ul><li>Should have L1 knowledge on Network (Cisco Switching &amp; Routing), Compute (Windows + Linux), Storage (Nimble + Isilon), Backups (Acronis) and Firewalls </li><li>Candidates with experience working in a command center operations team with basic knowledge of ITIL Processes. </li><li>Good Communication skills - Written, Verbal and Email </li><li>Flexible with the shift timings </li><li>Knowledge in using ticketing tool like Service Now </li><li>Knowledge of SolarWinds monitoring tool </li><li>Ready to participate in corporate initiatives like Shift Left and Automation <br/><br/></li></ul><strong> Skills You Will Bring: <br/><br/></strong><ul><li>Exhibits attention to detail in day-to-day activities. </li><li>Problem solving abilities. </li><li>Effective Communication Skills </li><li>Customer Service Oriented </li><li>Teamwork and collaboration </li><li>Ability to learn quickly and adapt quickly to changing priorities. </li><li>Strong intellectual curiosity and affinity to technology. </li><li>Strong technical, analytical and communication skills. <br/><br/></li></ul><strong>Education:<br/><br/></strong><ul><li>A STEM undergraduate degree with a technical minor, a graduate degree with a technology focus, or completion of an accelerated learning program (accredited/state-licensed) in technology focused on foundational software development skills. </li><li>Technical curiosity and motivation to succeed. Well-rounded extra-curricular experiences, with demonstrated leadership. Cumulative GPA of 3.0 or higher. </li><li>Majors include Math, Engineering, Computer Science, Computer information Systems, Cyber Security, Management Information Systems (MIS) and Data Science, and others. <br/><br/></li></ul><strong> What’s in it for You: <br/><br/></strong><ul><li>Excellent benefits plan: medical, dental, vision, life, FSA, &amp; PTO </li><li>Roll over vacation days </li><li>Commuter benefits </li><li>Excellent growth and advancement opportunities </li><li>Certification reimbursement </li><li>Rewards and recognition programs </li><li>Innovative and collaborative company culture <br/><br/></li></ul>We are an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, sexual orientation, disability status, protected veteran status, or any other characteristic protected by law.<br/><br/><em>Our client requires all the employees working on this engagement to be COVID-19 vaccinated. <br/><br/></em><em>If you need a reasonable accommodation for a sincerely held religious belief or medical condition, please contact covid-19@lntinfotech.com</em>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          IT Services and IT Consulting
+          </span>
+</li>
+</ul>
+</div>
+</section>

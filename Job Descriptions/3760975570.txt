@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>We are seeking an Application Support Analyst to join our team! You will analyze data processing problems to improve computer systems.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Analyze range of data processing problems</li><li>Understand user requirements and procedures</li><li>Review computer system capabilities, workflow, and scheduling limitations</li><li>Determine cost, timetable , and compatibility for new systems </li><li>Consult with managers to implement new computer systems<br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Previous experience in IT, computer science, or other related fields</li><li>Experience with IIS</li><li>Website Monitoring / performance tuning</li><li>Knowledge of TCP/IP and routing</li><li>Ability to evaluate software systems </li><li>Strong problem solving and critical thinking skills</li><li>Ability to learn new technologies quickly<br/><br/></li></ul><strong>Company Description<br/><br/></strong>StaffSource is the largest independent staffing company in East Tennessee founded in 2002. We are a high touch/white glove approach boutique Staffing Agency and have been recognized as an Inc 500 award winner 6 years in a row. StaffSource has won numerous local awards as well. With StaffSource, you will always be in good hands and your employment goals and aspirations will be heard!<br/><br/>StaffSource is the largest independent staffing company in East Tennessee founded in 2002. We are a high touch/white glove approach boutique Staffing Agency and have been recognized as an Inc 500 award winner 6 years in a row. StaffSource has won numerous local awards as well. With StaffSource, you will always be in good hands and your employment goals and aspirations will be heard!
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Staffing and Recruiting
+          </span>
+</li>
+</ul>
+</div>
+</section>

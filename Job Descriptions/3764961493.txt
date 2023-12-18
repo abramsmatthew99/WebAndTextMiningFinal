@@ -7,10 +7,18 @@
 <div class="description__text description__text--rich">
 <section class="show-more-less-html" data-max-lines="5">
 <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
-        Position Purpose:As a Software Engineer Intern, you will bring your training and intellectual curiosity to become familiar with all aspects of designing, building, deploying, and supporting production software that Home Depot associates and customers will love. You will be part of a dynamic team with engineers of all experience levels who help each other build and grow technical and leadership skills.<br/><br/>This is a temporary role with potential to grow into a permanent position. Typically reports to the Software Engineer Manager or Sr. Manager.Key Responsibilities:40% Delivers &amp; Executes<br/><br/><ul><li>Develops, tests, deploys, and maintains software with guidance30% Learns &amp; Grows</li><li>Learns through successful and failed experiments when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels30% Plans and Aligns</li><li>Collaborates with other team members in agile processes; Relates openly and comfortably with diverse groups of peopleDirect Manager/Direct Reports:This position typically reports to Software Engineer Manager or Sr ManagerThis position has 0 Direct ReportsTravel Requirements:No travel required.Physical Requirements:Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.Working Conditions:Located in a comfortable indoor area.<br/><br/></li></ul>Any unpleasant conditions would be infrequent and not objectionable.<br/><br/>Minimum Qualifications:Must be eighteen years of age or older.Must be legally permitted to work in the United States.Preferred Qualifications:0-1 years of relevant work experienceExposure to front end technology such as HTML, CSS, and Javascript/Typescript frameworksExposure to an object-oriented programming language (preferably Java)Exposure to source code version controlExposure to Relational or noSQL database technologyExposure to cloud computing techniquesExposure to CI/CD toolsExposure to microservice-based architectureMinimum Education:The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.Preferred Education:No additional educationMinimum Years of Work Experience:1Preferred Years of Work Experience:No additional years of experienceMinimum Leadership Experience:NonePreferred Leadership Experience:NoneCertifications:NoneCompetencies:Global PerspectiveManages AmbiguityNimble LearningSelf-DevelopmentCollaboratesCultivates InnovationSituational AdaptabilityCommunicates EffectivelyDrives Results
-      </div>
+        This is a remote position.<br/><br/><strong> Job Title:</strong> Quality Assurance Analyst (Junior)<br/><br/><strong> Employment Type:</strong> Full-Time<br/><br/><strong> Salary:</strong> $66,000 - $74,000 per annum<br/><br/><strong> Experience Required: </strong> Minimum 1 year of project experience<br/><br/><strong> How to Apply: visit hiremefast.net </strong> to learn more &amp; apply with your resume and cover letter there on the website.<br/><br/><strong>About us: </strong>HireMeFast is a leading staffing and recruitment agency specializing in connecting businesses with top-tier talent across various industries. Our mission is to bridge the gap between exceptional candidates and organizations needing their skills, expertise, and unique qualities. Our team of experienced and dedicated recruitment specialists utilizes innovative sourcing strategies, and a vast network to identify and attract top talent. We conduct comprehensive procedures to ensure that only the most qualified candidates are presented to our clients.<br/><br/><strong>Responsibilities:<br/><br/></strong><ul><li>Collaborate with cross-functional teams to understand software requirements and specifications. </li><li>Participate in the creation and execution of test plans, test cases, and test scripts. </li><li>Identify, document, and track software defects and issues using bug-tracking tools. </li><li>Conduct thorough regression testing to verify fixes and ensure software quality. </li><li>Assist in the development of automated test scripts to improve efficiency. </li><li>Perform exploratory testing to uncover potential issues and usability concerns. </li><li>Work closely with developers to communicate issues and validate bug fixes. </li><li>Provide timely and detailed reports on testing progress and results. </li><li>Contribute to the continuous improvement of QA processes and methodologies. <br/><br/></li></ul><strong>Qualifications:<br/><br/></strong><ul><li>Bachelor's degree in Computer Science, Engineering (or equivalent experience). </li><li>Strong passion for software quality assurance and a desire to learn and grow. </li><li>Familiarity with software testing concepts, methodologies, and best practices. </li><li>Basic understanding of programming languages and scripting (e.g., Java, Python). </li><li>Excellent analytical and problem-solving skills. </li><li>Detail-oriented with a keen eye for identifying issues and inconsistencies. </li><li>Effective communication skills and ability to work collaboratively in a team environment. </li><li>Experience with testing tools and bug-tracking systems is a plus. <br/><br/></li></ul><strong>Why HireMeFast LLC?<br/><br/></strong>At HireMeFast, we understand that finding the right individuals to join your team is crucial for success and growth of your organization. We are committed to streamlining the hiring process for our clients, ensuring they have access to a diverse pool of highly qualified candidates who are a perfect fit for their specific needs.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
 </section>
 </div>
 <ul class="description__job-criteria-list">
@@ -19,7 +27,7 @@
             Seniority level
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Internship
+            Entry level
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -27,7 +35,7 @@
           Employment type
         </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Internship
+          Full-time
         </span>
 </li>
 <li class="description__job-criteria-item">
@@ -35,7 +43,7 @@
             Job function
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Engineering and Information Technology
+            Quality Assurance
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -43,7 +51,7 @@
             Industries
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Retail
+          Software Development
           </span>
 </li>
 </ul>

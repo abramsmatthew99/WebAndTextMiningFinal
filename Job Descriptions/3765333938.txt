@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Job Description<br/><br/></strong>Bose Corporation has a long history of creating innovative home entertainment systems, wearable devices, and automotive systems, encompassing both noise control and audio rendering. Our applied research fuels future generations of Bose products in consumer electronics and automotive systems.<br/><br/>Within Bose Research, the Advanced Systems Research team builds AI-powered signal processing algorithms that break through the performance barriers of traditional signal processing approaches. We’re looking for innovative research engineers to help us realize breakthrough performance in a wide variety of signal-processing applications by marrying deep neural networks (DNNs) and traditional digital signal processing (DSP).<br/><br/>We offer an excellent working environment with a collaborative, team-oriented approach, and flexible working hours.<br/><br/><strong>In This Role, You Will<br/><br/></strong><ul><li>work on problems in noise cancellation, audio processing, situational awareness, and more.</li><li>develop and extend novel hybrid DNN/DSP architectures to unlock the potential of DNNs in low-latency real-time signal processing environments.</li><li>work closely with product development teams to ensure that your models can be deployed onto product hardware.</li><li>be part of a diverse and distributed community of AI/ML practitioners within Bose.<br/><br/></li></ul><strong>Required Qualifications And Experience<br/><br/></strong><ul><li>strong understanding of machine learning concepts</li><li>strong understanding of control theory and systems</li><li>strong understanding of DSP with experience in multi-channel adaptive filters</li><li>strong track record of applying deep neural networks to signal-processing problems (including 3+ years impactful hands-on experience with DNNs)</li><li>implementation of real-time (small or practical) systems</li><li>ability to develop in Python, Matlab, and Simulink</li><li>strong understanding of one of the major model training frameworks (e.g., PyTorch or TensorFlow) and ability to reimplement cutting-edge deep learning algorithms from scratch</li><li>solid software development skills (including but not limited to version control and testing)</li><li>strong oral and written communication skills<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li>MS in Electrical Engineering, Computer Science, or a related field with a minimum of 5 years related work experience. Ph.D. in EE or CS with a minimum of 2 years experience preferred.<br/><br/></li></ul>Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665_PrescribedNondiscriminationPostingLanguage_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Motor Vehicle Manufacturing and Computers and Electronics Manufacturing
+          </span>
+</li>
+</ul>
+</div>
+</section>

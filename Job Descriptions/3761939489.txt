@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+<strong>Company Description<br/><br/></strong>There are over 80,000 unfilled HVAC technician jobs in the U.S. due to the lack of labor supply – and that’s just one of dozens of field worker professions suffering through a severe labor shortage. EMPEQ’s revolutionary Fast Site SurveyTM SaaS product lowers the barrier to entry to field work in buildings by utilizing computer vision to identify parts and equipment and provide actionable Instant Equipment Insights to engineers, contractors, and building owners.<br/><br/>An exciting, growing AI/cleantech that boasts Johnson Controls, Siemens, and the United State Air Force as customers, EMPEQ offers employees flexible full-time work hours – while also making a demonstrable impact reducing greenhouse gas emissions, creating good paying jobs for lesser-skilled workers, and providing greater National Security in a liberating, entrepreneurial culture.<br/><br/><strong>Job Summary<br/><br/></strong>EMPEQ is seeking an experienced, results-driven Full Stack Developer to join our growing team of industry experts. You will be responsible for driving building and maintaining the web application of Fast Site Survey. You will report to EMPEQ’s CTO.<br/><br/><strong>Duties/Responsibilities<br/><br/></strong><ul><li> Builds, designs, and maintains web-based software applications and websites.</li><li> Work with development teams and product managers to ideate software solutions.</li><li> Contribute to client-side and server-side architecture.</li><li> Build backend and frontend of applications following design specs.</li><li> Develop and manage well-functioning databases and applications.</li><li> Write effective APIs.</li><li> Test software to ensure responsiveness and efficiency.</li><li> Troubleshoot, debug and upgrade software.</li><li> Create security and data protection settings.</li><li> Build features and applications with a mobile responsive design.</li><li> Write technical documentation.</li><li> Evaluate written code to ensure it meets industry standards and is compatible with all devices.</li><li> Maintain a professional understanding of web development by tracking trends and participating in study groups.<br/><br/></li></ul><strong>Required Skills/Abilities<br/><br/></strong><ul><li> Familiarity with common stacks – our primary web stack is MySQL, Java Spring Boot, React, with a series of AWS Lambda functions (Python and JavaScript)</li><li> Excellent working knowledge of HTML/ CSS, JavaScript</li><li> Knowledge of multiple backend languages (e.g. Java, Node.js, Python) and frontend JS frameworks (e.g. React, Angular).</li><li> Familiarity with databases (e.g. MySQL, PostgreSQL, MongoDB) and at least intermediate SQL skills</li><li> Experience with AWS or other cloud provider</li><li> Ability and desire to do the “grunt work” of software development.</li><li> Excellent organizational skills and attention to detail.</li><li> Strong analytical and problem-solving skills.</li><li> Strong desire to “get stuff done”.</li><li> Strong desire for personal and professional growth.</li><li> Ability to prioritize tasks.</li><li> Ability to function well in a high-paced startup environment.</li><li> Must be a United States Citizen or have a Green Card.<br/><br/></li></ul><strong>Education<br/><br/></strong><ul><li> Bachelor’s degree in computer science, statistics, or equivalent combination of education and experience.<br/><br/></li></ul><strong>Preferred Skills/Experience<br/><br/></strong><ul><li> Proven experience as a Full Stack Developer or similar role</li><li> Experience with Java Spring Boot</li><li> Experience with MyBatis Java ORM</li><li> Experience creating D3JS visualizations</li><li> Experience with SASS/SCSS</li><li> Experience with Material UI</li><li> Experience writing automated tests (e.g. unit tests, Selenium UI tests)</li><li> Experience with Redux</li><li> Experience writing AWS Lambda functions using Serverless</li><li> Experience with AWS CDK</li><li> Experience with other AWS technologies (SQS, SNS, DynamoDB, CloudFront, IAM, Elastic Beanstalk)</li><li> Experience working with the U.S. government.<br/><br/></li></ul><strong>Salary And Benefits<br/><br/></strong><ul><li> $125,000-$175,000</li><li> Participation in Company Employee Stock Options Plan</li><li> Health Insurance stipend</li><li> 401k</li><li> Discretionary Time Off<br/><br/></li></ul><strong>Additional Notes<br/><br/></strong>If interested please complete the following 20-40 minute assessment: https://assessment.testgorilla.com/testtaker/publicinvitation/78a2be05-67e8-4207-9484-368d66c94885
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

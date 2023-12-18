@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        SRI’s Center for Software Engineering is looking for motivated students who are passionate about creating and applying world-class, high-value software solutions for government and industry within a company whose culture values both hard work and a balanced life. Students will collaborate with other talented engineers (both local and remote) in an agile development environment on a set of diverse projects ranging from embedded systems to web development. We value clear, logical thinking, good communication skills, a focus on quality and security, and the ability to work well in a team of engineering and research professionals across SRI’s broad range of technology domains.<br/><br/>This position can be local to the San Luis Obispo area or our offices in Meno Park, CA. and Princeton, NJ.<br/><br/><ul><li>Design, build, test, and deploy code for web, desktop and/or mobile applications using TypeScript/JavaScript, Java/Kotlin, Python, C/C++, C# and/or other frameworks and programming languages, as appropriate</li><li>Update and maintain software and support documentation as needed</li><li>Support DevSecOps and related activities</li><li>Contribute to the team's culture of high code quality and security</li></ul><ul><li>Currently pursuing an undergraduate or master’s degree in Computer Science, Software Engineering, Computer Engineering, or a related area.</li><li>Due to government contract requirements candidates must be a US Citizen</li><li>Strong analytical and problem solving skills</li><li>Proficiency in any of the following areas would be a plus</li><ul><li>TypeScript/JavaScript, Java/Kotlin, Python, C/C++, or C#</li><li>Understand the principles of version control in a team environment</li><li>Web services and web server platforms</li><li>Relational databases and SQL, document-oriented databases, and/or graph databases</li><li>UI/UX design</li><li>Version control with Git</li><li>Build automation tools and continuous integration</li><li>System deployment using cloud services, virtual machines and containers</li><li>Application networking concepts</li><li>Secure development practices including risk assessment and mitigation</li><li>Windows/Linux/Embedded Linux/macOS/Android/iOS<br/></li></ul></ul>The salary range is $20-$35/hr. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https//www.sri.com/resources/benefits/.<br/><br/>SRI International, an over 75-year strong pioneering research institute, has a rich history supporting government and industry. Our innovations have created new industries, billions of dollars in market value and lasting benefits to society. SRI is organized around broad disciplines and capabilities, with research and development divisions and labs to groups who excel at identifying new opportunities, developing products and creating custom solutions. Our organization is driven by impact - delivering unique solutions for the world's important challenges and transforming ideas into reality for clients and partners.
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Internship
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Education and Training
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Research Services
+          </span>
+</li>
+</ul>
+</div>
+</section>

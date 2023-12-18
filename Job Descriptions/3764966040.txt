@@ -7,10 +7,18 @@
 <div class="description__text description__text--rich">
 <section class="show-more-less-html" data-max-lines="5">
 <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
-        Position Purpose:As a Software Engineer Intern, you will bring your training and intellectual curiosity to become familiar with all aspects of designing, building, deploying, and supporting production software that Home Depot associates and customers will love. You will be part of a dynamic team with engineers of all experience levels who help each other build and grow technical and leadership skills.<br/><br/>This is a temporary role with potential to grow into a permanent position. Typically reports to the Software Engineer Manager or Sr. Manager.Key Responsibilities:40% Delivers &amp; Executes<br/><br/><ul><li>Develops, tests, deploys, and maintains software with guidance30% Learns &amp; Grows</li><li>Learns through successful and failed experiments when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels30% Plans and Aligns</li><li>Collaborates with other team members in agile processes; Relates openly and comfortably with diverse groups of peopleDirect Manager/Direct Reports:This position typically reports to Software Engineer Manager or Sr ManagerThis position has 0 Direct ReportsTravel Requirements:No travel required.Physical Requirements:Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.Working Conditions:Located in a comfortable indoor area.<br/><br/></li></ul>Any unpleasant conditions would be infrequent and not objectionable.<br/><br/>Minimum Qualifications:Must be eighteen years of age or older.Must be legally permitted to work in the United States.Preferred Qualifications:0-1 years of relevant work experienceExposure to front end technology such as HTML, CSS, and Javascript/Typescript frameworksExposure to an object-oriented programming language (preferably Java)Exposure to source code version controlExposure to Relational or noSQL database technologyExposure to cloud computing techniquesExposure to CI/CD toolsExposure to microservice-based architectureMinimum Education:The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.Preferred Education:No additional educationMinimum Years of Work Experience:1Preferred Years of Work Experience:No additional years of experienceMinimum Leadership Experience:NonePreferred Leadership Experience:NoneCertifications:NoneCompetencies:Global PerspectiveManages AmbiguityNimble LearningSelf-DevelopmentCollaboratesCultivates InnovationSituational AdaptabilityCommunicates EffectivelyDrives Results
-      </div>
+        This is a remote position.<br/><br/>Junior Data Engineer <strong>- (1 year of relevant experience)<br/><br/></strong><strong>Employment Type: </strong>Full-Time, Remote work<br/><br/><strong>Base Salary:</strong> $60K-$73K<br/><br/><strong>Brief Introduction<br/><br/></strong>Outcoder iO stands as an exceptional coaching and skill development service focusing on the enhancement of both technical prowess and communication skills. It equips engineers with the necessary tools to expedite their employment search and thrive in their professional journeys.<br/><br/><strong>Overview Of The Role<br/><br/></strong>Position Summary<br/><br/>Join the fast-paced, innovative, and collaborative environment focused on providing an AIOps platform that enhances the intelligence of the CVS Health infrastructure. Work closely with subject matter experts and colleagues to build and scale out machine learning and AI solutions that will detect, predict, and recommend solutions to correct issues before system impact and enhance the efficiency, reliability, and performance of CVS Health’s IT operations.<br/><br/>Key Responsibilities include:<br/><br/><ul><li>Data pipeline development: Designed, implemented, and managed data pipelines for extracting, transforming, and loading data from various sources into data lakes for processing, analytics, and correlation. </li><li>Data modeling: Create and maintain data models ensuring data quality, scalability, and efficiency </li><li>Develop and automate processes to clean, transform, and prepare data for analytics, ensuring data accuracy and consistency </li><li>Data Integration: Integrate data from disparate sources, both structured and unstructured to provide a unified view of key infrastructure platform and application data </li><li>Utilize big data technologies such as Kafka to process and analyze large volumes of data efficiently </li><li>Implement data security measures to protect sensitive information and ensure compliance with data and privacy regulation </li><li>Create/maintain documentation for data processes, data flows, and system configurations </li><li>Performance Optimization- Monitor and optimize data pipelines and systems for performance, scalability and cost-effectiveness <br/><br/></li></ul>Characteristics of this role:<br/><br/><ul><li>Team Player: Willing to teach, share knowledge, and work with others to make the team successful. </li><li>Communication: Exceptional verbal, written, organizational, presentation, and communication skills. </li><li>Creativity: Ability to take written and verbal requirements and come up with other innovative ideas. </li><li>Attention to detail: Systematically and accurately research future solutions and current problems. </li><li>Strong work ethic: The innate drive to do work extremely well. </li><li>Passion: A drive to deliver better products and services than expected to customers. <br/><br/></li></ul><strong>Required Qualifications<br/><br/></strong><ul><li>2+ years of programming experience in languages such as Python, Java, SQL </li><li>2+ years of experience with ETL tools and database management (relational, non-relational) </li><li>2+ years of experience in data modeling techniques and tools to design efficient scalable data structures </li><li>Skills in data quality assessment, data cleansing, and data validation <br/><br/></li></ul><strong>Preferred Qualifications<br/><br/></strong><ul><li>Knowledge of big data technologies and cloud platforms </li><li>Experience with technologies like PySpark, Databricks, and Azure Synapse. <br/><br/></li></ul>Education<br/><br/>Bachelor’s degree in Computer Science, Information Technology, or related field, or equivalent working experience<br/><br/><strong>Why join Outcoder iO?<br/><br/></strong>Outcoder iO serves as a career accelerator by providing comprehensive training and skill improvement services. The instruction team at Outcoder possesses in-depth knowledge of the procedure. Their expertise can provide valuable insights and guidance to navigate networking opportunities successfully.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
 </section>
 </div>
 <ul class="description__job-criteria-list">
@@ -19,7 +27,7 @@
             Seniority level
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Internship
+            Entry level
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -27,7 +35,7 @@
           Employment type
         </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Internship
+          Full-time
         </span>
 </li>
 <li class="description__job-criteria-item">
@@ -35,7 +43,7 @@
             Job function
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Engineering and Information Technology
+            Information Technology
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -43,7 +51,7 @@
             Industries
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Retail
+          IT Services and IT Consulting
           </span>
 </li>
 </ul>

@@ -7,10 +7,18 @@
 <div class="description__text description__text--rich">
 <section class="show-more-less-html" data-max-lines="5">
 <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
-        Position Purpose:As a Software Engineer Intern, you will bring your training and intellectual curiosity to become familiar with all aspects of designing, building, deploying, and supporting production software that Home Depot associates and customers will love. You will be part of a dynamic team with engineers of all experience levels who help each other build and grow technical and leadership skills.<br/><br/>This is a temporary role with potential to grow into a permanent position. Typically reports to the Software Engineer Manager or Sr. Manager.Key Responsibilities:40% Delivers &amp; Executes<br/><br/><ul><li>Develops, tests, deploys, and maintains software with guidance30% Learns &amp; Grows</li><li>Learns through successful and failed experiments when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels30% Plans and Aligns</li><li>Collaborates with other team members in agile processes; Relates openly and comfortably with diverse groups of peopleDirect Manager/Direct Reports:This position typically reports to Software Engineer Manager or Sr ManagerThis position has 0 Direct ReportsTravel Requirements:No travel required.Physical Requirements:Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.Working Conditions:Located in a comfortable indoor area.<br/><br/></li></ul>Any unpleasant conditions would be infrequent and not objectionable.<br/><br/>Minimum Qualifications:Must be eighteen years of age or older.Must be legally permitted to work in the United States.Preferred Qualifications:0-1 years of relevant work experienceExposure to front end technology such as HTML, CSS, and Javascript/Typescript frameworksExposure to an object-oriented programming language (preferably Java)Exposure to source code version controlExposure to Relational or noSQL database technologyExposure to cloud computing techniquesExposure to CI/CD toolsExposure to microservice-based architectureMinimum Education:The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.Preferred Education:No additional educationMinimum Years of Work Experience:1Preferred Years of Work Experience:No additional years of experienceMinimum Leadership Experience:NonePreferred Leadership Experience:NoneCertifications:NoneCompetencies:Global PerspectiveManages AmbiguityNimble LearningSelf-DevelopmentCollaboratesCultivates InnovationSituational AdaptabilityCommunicates EffectivelyDrives Results
+<strong>Skills Required:<br/><br/></strong><ul><li>Bachelor’s Degree in Computer Science or related field</li><li>Industry-related experience as a Systems Administrator</li><li>Experience administering Microsoft Windows machines (Windows 10, Windows Server 2012 and 2016)</li><li>Experience with scripting and automation tools</li><li>Experience with Microsoft SCCM</li><li>Strong organizational and written communication skills</li><li>Ability to work in a setting where majority of team is located at another site</li><li>Must be located in the St. Louis, MO area and willing to visit the local office</li><li>Ability to travel at least 50% of job</li><li>Must have valid passport</li><li>Must be a US citizen </li><li>Must be able to pass a government background check<br/><br/></li></ul><strong>Nice to Have:<br/><br/></strong><ul><li>Experience with Microsoft Azure</li><li>MCSE certification<br/><br/></li></ul><strong>Day-to-Day Responsibilities:<br/><br/></strong><ul><li>Provide Tier 1, 2, and limited tier 3 hardware and software support for all international and domestic field sites</li><li>Travel to international and domestic sites, as needed</li><li>Setup of new PC, server and network equipment </li><li>Facilitate vendor work on computer, server and network at sites</li><li>Decommission older PC, server and network equipment </li><li>Package and ship PC, server, and network equipment to international and domestic sites</li><li>Monitor and track computer assets for international and domestic sites</li><li>Provide end-user training when needed</li><li>Liaise with agency purchase and supply agents to fulfill hardware and software requests</li><li>Coordination of computer maintenance with other Information Technology professionals through change management</li><li>Provide documentation on hardware and software use, installation, repair, failure, and removal</li><li>Monitor, enforce, and practice security policies, procedures and standards</li><li>Projects and other duties as assigned or requested.<br/><br/></li></ul>About Mobomo:<br/><br/>Mobomo is a full-service DevOps agency dedicated to creating elegant solutions to solve complex problems.<br/><br/>Mobomo benefits include health care, paid time off, retirement savings and professional development.<br/><br/>Mobomo is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, citizenship status, veteran status, disability status or any other basis as protected by federal state, or local law.<br/><br/>Powered by JazzHR<br/><br/>UFNN49Whfk
       </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
 </section>
 </div>
 <ul class="description__job-criteria-list">
@@ -19,7 +27,7 @@
             Seniority level
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Internship
+            Mid-Senior level
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -27,7 +35,7 @@
           Employment type
         </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Internship
+          Full-time
         </span>
 </li>
 <li class="description__job-criteria-item">
@@ -35,7 +43,7 @@
             Job function
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Engineering and Information Technology
+            Information Technology
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -43,7 +51,7 @@
             Industries
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Retail
+          Internet Publishing
           </span>
 </li>
 </ul>

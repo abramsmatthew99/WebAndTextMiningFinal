@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        This is a remote position.<br/><br/>Test Engineer (Entry Level) <strong> - Work from Home<br/><br/></strong><strong> Full-time<br/><br/></strong><strong>$58K - $72K per annum<br/><br/></strong><strong>1+ Year Experience Required<br/><br/></strong><strong>Visit fitnessmatrixinc.com </strong> to learn more &amp; apply with your resume and cover letter.<br/><br/><strong>Introduction:<br/><br/></strong>FitnessMatrixInc is an unique approach to health and wellness that is based on the principle of bio-individuality. This means that we believe that everyone is different and has their own unique needs and challenges. We will work with you to understand your biochemistry and develop a personalized plan that is right for you.<br/><br/>Responsibilities:<br/><br/><ul><li>Collaborate with the development team to understand project requirements and develop comprehensive test plans </li><li>Execute manual and automated tests to identify software defects and ensure the overall quality of the product </li><li>Document test cases, test scenarios, and test results to maintain a comprehensive and up-to-date testing repository </li><li>Identify, report, and track software bugs using issue-tracking systems, ensuring their timely resolution </li><li>Perform regression testing to ensure previously fixed issues do not resurface </li><li>Collaborate with cross-functional teams to drive continuous improvement in the testing process </li><li>Stay up-to-date with the latest industry trends and technologies in software testing methodologies <br/><br/></li></ul>Qualifications:<br/><br/><ul><li>Bachelor's degree in Computer Science, Software Engineering, or a related field </li><li>Strong knowledge of software testing principles, methodologies, and tools </li><li>Familiarity with manual and automated testing techniques and tools, such as Selenium, JUnit, or similar </li><li>Basic understanding of programming languages (Java, Python, C++, etc.) to analyze code and develop test scripts </li><li>Excellent problem-solving skills and attention to detail </li><li>Strong communication and collaboration skills, with the ability to work effectively in a team environment </li><li>Ability to work independently and manage time efficiently to meet project deadlines </li><li>Experience with Agile/Scrum development methodologies is a plus <br/><br/></li></ul><strong>Why should we work with FitnessMatrixInc?<br/><br/></strong>FitnessMatrixInc is the leading provider of holistic and multidimensional health and wellness services. We offer a comprehensive approach to health and wellness. We take into account all aspects of your life, from your physical fitness and nutrition to your mental, emotional, and spiritual well-being. We use the latest science and technology to develop our programs and services. We are constantly innovating and finding new ways to help our clients achieve their goals. We offer a variety of programs and services to meet your needs and budget.<br/><br/>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Entry level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Engineering and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Software Development
+          </span>
+</li>
+</ul>
+</div>
+</section>

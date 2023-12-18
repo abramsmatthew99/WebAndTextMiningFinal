@@ -1,0 +1,59 @@
+<section class="core-section-container my-3 description">
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="core-section-container__content break-words">
+<!-- -->
+<div class="description__text description__text--rich">
+<section class="show-more-less-html" data-max-lines="5">
+<div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
+        PDG Consulting (PDGC) is a Los Angeles, California based software consulting firm specializing in custom Web Application Development, Business Intelligence, and Digital Transformation for the Media &amp; Entertainment and Content Distribution industries. We are seeking a Business Analyst with a solid foundation in defining, analyzing, and documenting complex business functionality and processes for enterprise-scale applications. The candidate must be a motivated self-starter and have the ability to operate in a highly collaborative team environment.<br/><br/>Responsibilities:<br/><br/><ul><li>Solicit requirements from business stakeholders through interviews, workshops, and analyzing existing system functionality, data, processes, and documentation</li><li>Document business requirements via industry-standard analysis techniques and artifacts including user stories, data/process flow diagrams, object modeling, UI mockups and/or wireframes, and data conversion mapping and transformation rules</li><li>Provide analysis and recommendations for improving application workflows and manual processes</li><li>Plan and manage User Acceptance Testing (UAT) including UAT planning, scheduling and coordination, developing test scenarios and conditions, and managing UAT execution including defect tracking and status reporting</li><li>Plan and manage user training including the creation of system documentation and training materials and conducting user training</li><li>Take ownership and accountability for client deliverables</li><li>Collaborate with stakeholders, business analysts, and developers in an agile environment</li><li>Provide mentorship and guidance for other team members<br/><br/></li></ul>Required Skills:<br/><br/><ul><li>B.A./B.S. in Computer Science, Engineering, Information Systems or related degree program with an emphasis on analytical skills</li><li>5+ years of Business Analysis experience</li><li>Experience working in an Agile SCRUM environment. Certified SCRUM Master (CSM) or Certified SCRUM Product Owner (CSPO) certification is a plus</li><li>Ability to work independently and communicate effectively with business stakeholders (from day-to-day users to senior management)</li><li>Solid project planning and coordination experience including managing a Product Roadmap and backlog and managing UAT</li><li>Solid experience with data analysis, data mapping and transformations, and data conversions. SQL skills are a plus</li><li>Experience in Media and Entertainment or related industries (Content Delivery, Music, etc.) is a plus<br/><br/></li></ul>Tools:<br/><br/><ul><li>Collaboration tools (JIRA, ServiceNow, SharePoint)</li><li>Workflow diagramming tools (Visio, Draw.io)</li><li>MS Office Suite (Word, Excel, Powerpoint)<br/><br/></li></ul>Powered by JazzHR<br/><br/>YEy7JMInoY
+      </div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
+
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
+</section>
+</div>
+<ul class="description__job-criteria-list">
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Seniority level
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Mid-Senior level
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+          Employment type
+        </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Full-time
+        </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Job function
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+            Research, Analyst, and Information Technology
+          </span>
+</li>
+<li class="description__job-criteria-item">
+<h3 class="description__job-criteria-subheader">
+            Industries
+          </h3>
+<span class="description__job-criteria-text description__job-criteria-text--criteria">
+          Internet Publishing
+          </span>
+</li>
+</ul>
+</div>
+</section>

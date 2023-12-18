@@ -7,10 +7,18 @@
 <div class="description__text description__text--rich">
 <section class="show-more-less-html" data-max-lines="5">
 <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5 relative overflow-hidden">
-        Position Purpose:As a Software Engineer Intern, you will bring your training and intellectual curiosity to become familiar with all aspects of designing, building, deploying, and supporting production software that Home Depot associates and customers will love. You will be part of a dynamic team with engineers of all experience levels who help each other build and grow technical and leadership skills.<br/><br/>This is a temporary role with potential to grow into a permanent position. Typically reports to the Software Engineer Manager or Sr. Manager.Key Responsibilities:40% Delivers &amp; Executes<br/><br/><ul><li>Develops, tests, deploys, and maintains software with guidance30% Learns &amp; Grows</li><li>Learns through successful and failed experiments when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels30% Plans and Aligns</li><li>Collaborates with other team members in agile processes; Relates openly and comfortably with diverse groups of peopleDirect Manager/Direct Reports:This position typically reports to Software Engineer Manager or Sr ManagerThis position has 0 Direct ReportsTravel Requirements:No travel required.Physical Requirements:Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.Working Conditions:Located in a comfortable indoor area.<br/><br/></li></ul>Any unpleasant conditions would be infrequent and not objectionable.<br/><br/>Minimum Qualifications:Must be eighteen years of age or older.Must be legally permitted to work in the United States.Preferred Qualifications:0-1 years of relevant work experienceExposure to front end technology such as HTML, CSS, and Javascript/Typescript frameworksExposure to an object-oriented programming language (preferably Java)Exposure to source code version controlExposure to Relational or noSQL database technologyExposure to cloud computing techniquesExposure to CI/CD toolsExposure to microservice-based architectureMinimum Education:The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.Preferred Education:No additional educationMinimum Years of Work Experience:1Preferred Years of Work Experience:No additional years of experienceMinimum Leadership Experience:NonePreferred Leadership Experience:NoneCertifications:NoneCompetencies:Global PerspectiveManages AmbiguityNimble LearningSelf-DevelopmentCollaboratesCultivates InnovationSituational AdaptabilityCommunicates EffectivelyDrives Results
-      </div>
+<strong>Position: C# Developer<br/><br/></strong><strong>Location: Cincinnati, OH (onsite)<br/><br/></strong><strong>Duration: Long Term<br/><br/></strong><strong>Responsibilities<br/><br/></strong><ul><li>Provide C# Development support with React JS to meet technical roadmap on machine software platform vision and guide implementation.</li><li>Develop the control software for additive manufacturing means adhering to proper design guidelines and safety requirements.</li><li>Follow design and technical reviews to ensure designs meet technical requirements and customer expectations.</li><li>Participate and reinforce sound agile development practices (backlog refinement, sprint planning, sprint reviews).</li><li>Design and develop software in C# and React including User Interface, software architecture design, stability analysis etc.</li><li>Develop and maintain User stories, backlogs, and pipelines to enable rapid development, test and deployment.</li><li>Collaborate closely with engineering architecture, software requirements and quality teams to plan, package, and deliver software for our customers and users.</li><li>Collaborate with quality assurance on verification and validation plans to ensure control software design is fully validated.</li><li>Collaborate with product management, systems engineering, and requirements engineering to develop and decompose un-ambiguous software requirements.<br/><br/></li></ul><strong>Minimum Qualifications<br/><br/></strong><ul><li>Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, Mechanical Engineering or a related technical discipline from an accredited college or university</li><li>Relevant experience with software development in C# and React in a product development environment.</li><li>Good written technical communication and documentation skills</li></ul>
+</div>
+<button aria-expanded="false" aria-label="Show more, visually expands previously read content above" class="show-more-less-html__button show-more-less-button show-more-less-html__button--more !ml-0.5" data-tracking-control-name="public_jobs_show-more-html-btn">
+        Show more
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+</button>
+<button aria-expanded="true" aria-label="Show less" class="show-more-less-html__button show-more-less-button show-more-less-html__button--less !ml-0.5" data-tracking-control-name="public_jobs_show-less-html-btn">
+        Show less
 
+        <icon class="show-more-less-html__button-icon show-more-less-button-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg"></icon>
+</button>
 </section>
 </div>
 <ul class="description__job-criteria-list">
@@ -19,7 +27,7 @@
             Seniority level
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-            Internship
+            Mid-Senior level
           </span>
 </li>
 <li class="description__job-criteria-item">
@@ -27,7 +35,7 @@
           Employment type
         </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Internship
+          Contract
         </span>
 </li>
 <li class="description__job-criteria-item">
@@ -43,7 +51,7 @@
             Industries
           </h3>
 <span class="description__job-criteria-text description__job-criteria-text--criteria">
-          Retail
+          IT Services and IT Consulting
           </span>
 </li>
 </ul>
