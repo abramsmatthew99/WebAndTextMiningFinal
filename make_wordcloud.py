@@ -17,7 +17,7 @@ keywords = ''
 
 # Set up array of keywords
 keywords = []
-with open('keywords.txt', 'r') as file:
+with open('keywords_large_set.txt', 'r') as file:
     lines = file.readlines()
 for line in lines:
     # Remove newline characters at the end of each line
