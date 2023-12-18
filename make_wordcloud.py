@@ -17,17 +17,17 @@ keywords = ''
 
 # Set up array of keywords
 keywords = []
-with open('keywords_large_set.txt', 'r') as file:
+with open('keywords.txt', 'r') as file:
     lines = file.readlines()
 for line in lines:
     # Remove newline characters at the end of each line
-    cleaned_line = line.strip()
+    cleaned_line = line.lower().strip()
     keywords.append(cleaned_line)
 
 # Only parses the text for keywords
-def clean_text_keywords_only(text):
+def clean_text_keywords_only(text, keywords=keywords):
     words = word_tokenize(text)
-    filtered_words = [word for word in words if word.upper() in keywords]
+    filtered_words = [word for word in words if word in keywords]
     processed_text = ' '.join(filtered_words)
     return processed_text
 
@@ -41,7 +41,7 @@ for filename in os.listdir(folder_path):
 
 df = pd.DataFrame(data)
 
-def wordcloud_draw(data, color = 'black'):
+def wordcloud_draw(data, color = 'black', filename="wordcloud"):
     words = ' '.join(data)
     cleaned_word = " ".join([word for word in words.split()
                             if 'http' not in word
@@ -58,6 +58,6 @@ def wordcloud_draw(data, color = 'black'):
     plt.figure(1,figsize=(13, 13))
     plt.imshow(wordcloud)
     plt.axis('off')
-    plt.savefig("wordcloud")
+    plt.savefig(filename)
 
 wordcloud_draw(df['content'])

@@ -56,7 +56,9 @@ def scrape_wikipedia_frameworks():
     return output
 
 academia_terms = [
+    'Bachelor',
     'Bachelors',
+    'Master',
     'Masters',
     'Doctorate',
     'Ph.D',

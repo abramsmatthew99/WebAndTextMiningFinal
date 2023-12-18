@@ -81,7 +81,7 @@ def clean(text):
     text = ''.join([char for char in text if char not in string.punctuation])
     words = [lemmatizer.lemmatize(word) for word in text.split()]
     words = [word for word in words if word not in stops]
-    return ' '.join(words)
+    return ' '.join(words).replace("master degree","master_degree")
 
 if __name__ == '__main__':
     #i = random.randint(0,3000)
