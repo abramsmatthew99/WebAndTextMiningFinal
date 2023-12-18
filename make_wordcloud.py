@@ -33,7 +33,7 @@ def clean_text_keywords_only(text):
 
 for filename in os.listdir(folder_path):
     if filename.endswith(".txt"):
-        file_path = os.path.join(folder_path, filename)        
+        file_path = os.path.join(folder_path, filename)
         with open(file_path, 'r', encoding='utf-8') as file:
             file_content = file.read()
             cleaned_content = clean_text_keywords_only(file_content)
@@ -52,13 +52,12 @@ def wordcloud_draw(data, color = 'black'):
     wordcloud = WordCloud(stopwords=STOPWORDS,
                       background_color=color,
                       width=2500,
-                      height=2000
+                      height=2000,
+                      collocations=False,
                      ).generate(cleaned_word)
     plt.figure(1,figsize=(13, 13))
     plt.imshow(wordcloud)
     plt.axis('off')
-    plt.show()
-
-    
+    plt.savefig("wordcloud")
 
 wordcloud_draw(df['content'])
